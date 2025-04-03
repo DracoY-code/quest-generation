@@ -1,0 +1,3653 @@
+[
+  {
+    "name": "Finish Temple of Trials",
+    "objective": "Complete the Temple of Trials to prove your worth as the Chosen One.",
+    "first_tasks": [
+      "Navigate through the Temple of Trials.",
+      "Defeat or sneak past the temple guardians.",
+      "Solve minor puzzles and avoid traps.",
+      "Defeat the final guardian at the temple exit."
+    ],
+    "first_task_locations": [
+      {
+        "name": "Temple of Trials",
+        "description": "A sacred temple used by the Arroyo tribe to test potential Chosen Ones."
+      }
+    ],
+    "quest_giver": {
+      "name": "Arroyo Tribe Elders",
+      "description": "The leaders of the Arroyo tribe who determine the Chosen One's fate.",
+      "location": "Arroyo Village"
+    },
+    "reward": [
+      {
+        "name": "Recognition as the Chosen One",
+        "description": "Completion of the trial proves your worthiness."
+      },
+      {
+        "name": "Basic Equipment",
+        "description": "You receive supplies to begin your journey."
+      }
+    ],
+    "tools": [],
+    "description": "The Temple of Trials is a test of strength, intelligence, and resilience. Only those who successfully complete it can claim the title of the Chosen One and embark on their journey to save Arroyo."
+  },
+  {
+    "name": "Kill the evil plants that infest Hakunin's garden",
+    "objective": "Eliminate the mutated plants threatening Hakunin's garden.",
+    "first_tasks": [
+      "Travel to Hakunin's garden in Arroyo.",
+      "Destroy the mutated plants infesting the area.",
+      "Return to Hakunin for confirmation."
+    ],
+    "first_task_locations": [
+      {
+        "name": "Hakunin's Garden",
+        "description": "A small garden in Arroyo that has become overrun with mutated plants."
+      }
+    ],
+    "quest_giver": {
+      "name": "Hakunin",
+      "description": "A mystical tribal shaman and herbalist of Arroyo.",
+      "location": "Arroyo Village"
+    },
+    "reward": [
+      {
+        "name": "Healing Powder",
+        "description": "A traditional tribal remedy created by Hakunin.",
+        "amount": 1
+      },
+      {
+        "name": "Karma",
+        "description": "A small increase in reputation within the tribe."
+      }
+    ],
+    "tools": [],
+    "description": "Hakunin, the village shaman, requests assistance in dealing with an infestation of mutated plants that have taken over his sacred garden. The player must eliminate these creatures to restore balance."
+  },
+  {
+    "name": "Obtain flint to have Mynoc sharpen your spear",
+    "objective": "Find a piece of flint so Mynoc can sharpen your spear.",
+    "first_tasks": [
+      "Locate someone in Arroyo who has flint.",
+      "Acquire the flint through trade or persuasion.",
+      "Bring the flint to Mynoc for sharpening."
+    ],
+    "first_task_locations": [
+      {
+        "name": "Arroyo Village",
+        "description": "A small tribal village where Mynoc resides."
+      }
+    ],
+    "quest_giver": {
+      "name": "Mynoc",
+      "description": "A skilled tribal craftsman who can improve weapons.",
+      "location": "Arroyo Village"
+    },
+    "reward": [
+      {
+        "name": "Sharpened Spear",
+        "description": "An improved version of the standard spear with better damage.",
+        "amount": 1
+      }
+    ],
+    "tools": [],
+    "description": "Mynoc, a craftsman in Arroyo, offers to sharpen your spear if you can bring him a piece of flint. The flint can be obtained from another villager through trade or conversation."
+  },
+  {
+    "name": "Fix the well for Feargus",
+    "objective": "Repair the broken well in Arroyo to restore water access.",
+    "first_tasks": [
+      "Inspect the well to identify the damage.",
+      "Gather the necessary tools or materials for repairs.",
+      "Fix the well and restore its functionality."
+    ],
+    "first_task_locations": [
+      {
+        "name": "Arroyo Village",
+        "description": "A small tribal village where Feargus lives and relies on the well for water."
+      }
+    ],
+    "quest_giver": {
+      "name": "Feargus",
+      "description": "A villager in Arroyo who is concerned about the broken well.",
+      "location": "Arroyo Village"
+    },
+    "reward": [
+      {
+        "name": "Experience Points",
+        "description": "A reward for successfully fixing the well.",
+        "amount": 100
+      }
+    ],
+    "tools": ["Basic Repair Tools"],
+    "description": "Feargus, a resident of Arroyo, requests your help in fixing a broken well that the village relies on for water. You'll need to assess the damage and find a way to repair it."
+  },
+  {
+    "name": "Rescue Nagor's dog, Smoke, from the wilds",
+    "objective": "Find and safely return Nagor's missing dog, Smoke.",
+    "first_tasks": [
+      "Talk to Nagor to learn about Smoke's disappearance.",
+      "Search the wilds near Arroyo for Smoke.",
+      "Defeat any threats preventing Smoke’s return.",
+      "Escort Smoke back to Nagor safely."
+    ],
+    "first_task_locations": [
+      {
+        "name": "Arroyo Village",
+        "description": "A tribal settlement where Nagor lives and where Smoke was last seen."
+      }
+    ],
+    "quest_giver": {
+      "name": "Nagor",
+      "description": "A young villager in Arroyo worried about his missing dog.",
+      "location": "Arroyo Village"
+    },
+    "reward": [
+      {
+        "name": "Experience Points",
+        "description": "Earned for successfully rescuing Smoke.",
+        "amount": 100
+      }
+    ],
+    "tools": [],
+    "description": "Nagor, a young villager in Arroyo, is distraught over his missing dog, Smoke. The dog has wandered into the wilds, and Nagor fears for its safety. Your task is to locate Smoke and bring him back safely."
+  },
+  {
+    "name": "Find Vic the Trader",
+    "objective": "Locate the missing trader, Vic, and determine his whereabouts.",
+    "first_tasks": [
+      "Ask around Klamath for information about Vic.",
+      "Search Vic’s home for clues.",
+      "Travel to The Den and investigate his last known location.",
+      "Find out where Vic is being held."
+    ],
+    "first_task_locations": [
+      {
+        "name": "Klamath",
+        "description": "A small settlement where Vic was last seen before his disappearance."
+      }
+    ],
+    "quest_giver": {
+      "name": "Arroyo Elder",
+      "description": "The village elder who needs information from Vic about the water flask.",
+      "location": "Arroyo"
+    },
+    "reward": [
+      {
+        "name": "Experience Points",
+        "description": "Earned for successfully locating Vic.",
+        "amount": 500
+      }
+    ],
+    "tools": [],
+    "description": "Vic, a trader who might have valuable information about a Vault water flask, has gone missing. You need to track him down, starting with clues from Klamath and leading to The Den."
+  },
+  {
+    "name": "Retrieve the GECK for Arroyo",
+    "objective": "Find and bring back the Garden of Eden Creation Kit (GECK) to save Arroyo.",
+    "first_tasks": [
+      "Travel to Vault City to inquire about the GECK.",
+      "Gain access to Vault 8.",
+      "Search the Vault for the GECK.",
+      "Find an alternative source if the GECK is unavailable."
+    ],
+    "first_task_locations": [
+      {
+        "name": "Vault City",
+        "description": "A technologically advanced settlement that may have information on the GECK."
+      }
+    ],
+    "quest_giver": {
+      "name": "Arroyo Elder",
+      "description": "The leader of Arroyo who tasks you with finding the GECK to restore the village.",
+      "location": "Arroyo"
+    },
+    "reward": [
+      {
+        "name": "Experience Points",
+        "description": "Earned for finding the GECK.",
+        "amount": 4000
+      }
+    ],
+    "tools": [],
+    "description": "Arroyo is in desperate need of the GECK, a device that can revitalize barren lands. You must search Vault City and beyond to locate it and ensure the survival of your home."
+  },
+  {
+    "name": "Stop the Enclave",
+    "objective": "Defeat the Enclave and prevent their plan from succeeding.",
+    "first_tasks": [
+      "Infiltrate the Enclave’s oil rig.",
+      "Find a way to disable or destroy the Enclave’s operations.",
+      "Rescue the captured villagers from Arroyo and other prisoners.",
+      "Confront President Richardson and the Enclave leadership."
+    ],
+    "first_task_locations": [
+      {
+        "name": "Enclave Oil Rig",
+        "description": "The Enclave’s heavily fortified headquarters, where their plans are executed."
+      }
+    ],
+    "quest_giver": {
+      "name": "Horrigan's Terminal Threat",
+      "description": "The mission becomes clear after learning of the Enclave’s genocidal plan.",
+      "location": "Various locations leading to the Enclave Oil Rig."
+    },
+    "reward": [
+      {
+        "name": "Experience Points",
+        "description": "Earned for completing objectives related to stopping the Enclave.",
+        "amount": 10000
+      }
+    ],
+    "tools": ["Power Armor", "Pulse Rifle"],
+    "description": "The Enclave has developed a plan to wipe out all mutated life using a deadly virus. You must infiltrate their base, rescue prisoners, and put an end to their operations before they unleash destruction upon the wasteland."
+  },
+  {
+    "name": "Fix the Mine's Air Purifier",
+    "objective": "Repair the air purifier in Redding’s mine to ensure safe working conditions for the miners.",
+    "first_tasks": [
+      "Speak to Marge LeBarge about the malfunctioning air purifier.",
+      "Obtain the necessary parts to fix the purifier.",
+      "Locate the air purifier within the mine.",
+      "Repair the purifier to restore clean airflow."
+    ],
+    "first_task_locations": [
+      {
+        "name": "Redding",
+        "description": "A mining town where workers rely on the air purifier for safe working conditions."
+      },
+      {
+        "name": "Redding Mine",
+        "description": "The site of the malfunctioning air purifier, filled with miners and possible threats."
+      }
+    ],
+    "quest_giver": {
+      "name": "Marge LeBarge",
+      "description": "The manager of Redding’s mine, concerned about the safety of the workers.",
+      "location": "Redding"
+    },
+    "reward": [
+      {
+        "name": "Experience Points",
+        "description": "Earned for successfully repairing the air purifier.",
+        "amount": 1500
+      },
+      {
+        "name": "Caps",
+        "description": "A monetary reward from Marge LeBarge for fixing the purifier.",
+        "amount": 500
+      }
+    ],
+    "tools": ["Repair Skill", "Replacement Parts"],
+    "description": "The air purifier in Redding’s mine has broken down, posing a serious health risk to the miners. Marge LeBarge has asked you to find the necessary parts and repair it to ensure their safety."
+  },
+  {
+    "name": "Find the Missing People for Marcus",
+    "objective": "Investigate the disappearances in Broken Hills and find out what happened to the missing people.",
+    "first_tasks": [
+      "Talk to Marcus in Broken Hills to learn about the missing people.",
+      "Search for clues around Broken Hills and interview residents.",
+      "Investigate the mine to uncover any evidence.",
+      "Confront those responsible and decide their fate."
+    ],
+    "first_task_locations": [
+      {
+        "name": "Broken Hills",
+        "description": "A town where super mutants, ghouls, and humans live together. The disappearances are causing tension among the residents."
+      },
+      {
+        "name": "Broken Hills Mine",
+        "description": "A dangerous area suspected to be linked to the missing people case."
+      }
+    ],
+    "quest_giver": {
+      "name": "Marcus",
+      "description": "A super mutant sheriff in Broken Hills who wants to maintain peace in the town.",
+      "location": "Broken Hills"
+    },
+    "reward": [
+      {
+        "name": "Experience Points",
+        "description": "Earned for solving the case and bringing justice.",
+        "amount": 2500
+      },
+      {
+        "name": "Caps",
+        "description": "A monetary reward from Marcus for uncovering the truth.",
+        "amount": 500
+      }
+    ],
+    "tools": ["Speech Skill", "Perception"],
+    "description": "People have been disappearing in Broken Hills, and the town is on edge. Marcus, the sheriff, asks you to investigate and find out what's going on before tensions boil over."
+  },
+  {
+    "name": "Break Manson and Franc Out of Prison",
+    "objective": "Help Manson and Franc escape from the NCR prison in Fallout 2.",
+    "first_tasks": [
+      "Talk to Manson in the NCR prison to learn about the escape plan.",
+      "Disable or distract the guards to create an opportunity for escape.",
+      "Unlock the prison cells using lockpicking or a key.",
+      "Ensure Manson and Franc safely exit the prison without getting caught."
+    ],
+    "first_task_locations": [
+      {
+        "name": "NCR Prison",
+        "description": "A secure facility in the New California Republic where Manson and Franc are being held."
+      }
+    ],
+    "quest_giver": {
+      "name": "Manson",
+      "description": "A prisoner who wants to escape, but needs assistance.",
+      "location": "NCR Prison"
+    },
+    "reward": [
+      {
+        "name": "Experience Points",
+        "description": "Earned for successfully freeing Manson and Franc.",
+        "amount": 1000
+      },
+      {
+        "name": "Caps",
+        "description": "A monetary reward from Manson and Franc for helping them escape.",
+        "amount": 500
+      }
+    ],
+    "tools": ["Lockpick Skill", "Stealth Skill", "Speech Skill"],
+    "description": "Manson and Franc are locked up in the NCR prison and need your help to escape. You must find a way to free them without getting caught."
+  },
+  {
+    "name": "Blow Up the Mine's Air Purifier",
+    "objective": "Sabotage the air purifier in Redding’s mine to make the environment unbreathable.",
+    "first_tasks": [
+      "Find the entrance to the Wanamingo Mine in Redding.",
+      "Locate the air purifier deep inside the mine.",
+      "Acquire explosives or another means of destruction.",
+      "Plant the explosives on the air purifier and detonate them.",
+      "Escape the mine before it collapses or enemies attack."
+    ],
+    "first_task_locations": [
+      {
+        "name": "Wanamingo Mine",
+        "description": "A deep and dangerous mine in Redding, filled with creatures and workers."
+      }
+    ],
+    "quest_giver": {
+      "name": "Francis (or other interested party)",
+      "description": "A character who benefits from sabotaging the mine, potentially a rival faction.",
+      "location": "Redding"
+    },
+    "reward": [
+      {
+        "name": "Experience Points",
+        "description": "Earned for successfully destroying the purifier.",
+        "amount": 1500
+      },
+      {
+        "name": "Caps",
+        "description": "A monetary reward for completing the sabotage mission.",
+        "amount": 750
+      }
+    ],
+    "tools": ["Explosives", "Repair Skill", "Stealth Skill"],
+    "description": "Someone wants the Wanamingo Mine in Redding shut down for good. Your task is to sabotage the air purifier to make the mine unworkable. Be careful—guards or miners may try to stop you."
+  },
+  {
+    "name": "Divert More Electrical Power to Eric's Home",
+    "objective": "Adjust the Vault City's power grid to increase electricity flow to Eric's residence.",
+    "first_tasks": [
+      "Find Eric in Vault City and learn about his power issues.",
+      "Locate the city's power management terminal or technician.",
+      "Adjust the power settings to favor Eric's home.",
+      "Ensure the change is not detected or reversed by city authorities.",
+      "Return to Eric and inform him of the successful diversion."
+    ],
+    "first_task_locations": [
+      {
+        "name": "Vault City",
+        "description": "A technologically advanced settlement with strict regulations."
+      },
+      {
+        "name": "Power Management Terminal",
+        "description": "A system controlling power distribution in Vault City."
+      }
+    ],
+    "quest_giver": {
+      "name": "Eric",
+      "description": "A resident struggling with low power supply in his home.",
+      "location": "Vault City Residential Area"
+    },
+    "reward": [
+      {
+        "name": "Experience Points",
+        "description": "Earned for successfully diverting power.",
+        "amount": 500
+      },
+      {
+        "name": "Caps",
+        "description": "Eric may provide a small monetary reward.",
+        "amount": 100
+      },
+      {
+        "name": "Improved Reputation",
+        "description": "Eric and some residents may view you more favorably."
+      }
+    ],
+    "tools": ["Science Skill", "Repair Skill", "Stealth Skill"],
+    "description": "Eric is struggling with poor electricity in his home, while Vault City prioritizes other areas. He asks for help in adjusting the power grid to send more electricity his way without getting caught."
+  },
+  {
+    "name": "Beat Francis at armwrestling",
+    "objective": "Defeat Francis in an armwrestling match.",
+    "first_tasks": [
+      "Challenge Francis to an armwrestling match.",
+      "Increase your Strength or find a way to improve your chances of winning."
+    ],
+    "first_task_locations": [
+      {
+        "name": "Broken Hills",
+        "description": "A mining town inhabited by both humans and super mutants."
+      }
+    ],
+    "quest_giver": {
+      "name": "Francis",
+      "description": "A super mutant who enjoys testing his strength through armwrestling.",
+      "location": "Broken Hills Bar"
+    },
+    "reward": [
+      {
+        "name": "Caps",
+        "description": "A wagered amount of money if you win.",
+        "amount": 100
+      },
+      {
+        "name": "Increased reputation with Broken Hills",
+        "description": "Winning earns the respect of the town's inhabitants."
+      }
+    ],
+    "tools": [
+      "High Strength stat or Buffout to temporarily boost Strength.",
+      "Gambling skill to increase chances of a favorable outcome."
+    ],
+    "description": "Francis, a super mutant from Broken Hills, loves to armwrestle challengers. Defeat him to prove your strength and earn some caps."
+  },
+  {
+    "name": "Defeat the professor's radscorpion in three challenges",
+    "objective": "Win three challenges against the professor's radscorpion.",
+    "first_tasks": [
+      "Talk to the professor to start the challenges.",
+      "Compete in the three challenges: speed, intelligence, and combat."
+    ],
+    "first_task_locations": [
+      {
+        "name": "New Reno",
+        "description": "A lawless city controlled by warring crime families."
+      }
+    ],
+    "quest_giver": {
+      "name": "Professor",
+      "description": "A scientist who has trained a radscorpion to compete in various challenges.",
+      "location": "New Reno Lab"
+    },
+    "reward": [
+      {
+        "name": "Caps",
+        "description": "A wagered amount of money if you win.",
+        "amount": 200
+      },
+      {
+        "name": "Increased reputation in New Reno",
+        "description": "Winning the challenges boosts your recognition in the city."
+      }
+    ],
+    "tools": [
+      "High Agility to win the speed challenge.",
+      "High Intelligence or Speech to win the intelligence challenge.",
+      "Strong weapons or Unarmed skill for the combat challenge."
+    ],
+    "description": "A professor in New Reno has trained a radscorpion to compete in challenges. You must prove your skills by defeating the radscorpion in speed, intelligence, and combat trials."
+  },
+  {
+    "name": "Typhon's Treasure",
+    "objective": "Help Typhon find his hidden treasure.",
+    "first_tasks": [
+      "Talk to Typhon about his treasure.",
+      "Search for the burial site where the treasure is hidden."
+    ],
+    "first_task_locations": [
+      {
+        "name": "The Den",
+        "description": "A lawless town filled with criminals and scavengers."
+      }
+    ],
+    "quest_giver": {
+      "name": "Typhon",
+      "description": "A ghoul who claims to know the location of hidden treasure.",
+      "location": "The Den"
+    },
+    "reward": [
+      {
+        "name": "Caps",
+        "description": "A share of the treasure once it's found.",
+        "amount": 500
+      },
+      {
+        "name": "Unique items",
+        "description": "Potentially valuable pre-war artifacts buried with the treasure."
+      }
+    ],
+    "tools": [
+      "Shovel to dig up the treasure.",
+      "Perception to spot clues leading to the burial site."
+    ],
+    "description": "Typhon, an old ghoul, speaks of a long-lost treasure buried in the wasteland. With the right tools and knowledge, you might be able to uncover its location and claim a share of the riches."
+  },
+  {
+    "name": "Become an Expert Excrement Expeditor",
+    "objective": "Help the NCR by shoveling brahmin dung.",
+    "first_tasks": [
+      "Speak with the NCR officer in charge of sanitation.",
+      "Collect a shovel to begin cleaning up the brahmin pens."
+    ],
+    "first_task_locations": [
+      {
+        "name": "NCR Town",
+        "description": "A well-organized settlement run by the New California Republic."
+      }
+    ],
+    "quest_giver": {
+      "name": "NCR Officer",
+      "description": "A member of the NCR overseeing the town’s maintenance.",
+      "location": "NCR Town"
+    },
+    "reward": [
+      {
+        "name": "Caps",
+        "description": "A small payment for completing the job.",
+        "amount": 100
+      },
+      {
+        "name": "Minor reputation boost with the NCR",
+        "description": "The NCR will see you as a reliable worker."
+      }
+    ],
+    "tools": ["Shovel to clean up the brahmin dung."],
+    "description": "The NCR needs help keeping their brahmin pens clean. While not the most glamorous job, it earns you some caps and a bit of favor with the Republic."
+  },
+  {
+    "name": "Free Vic from his debt by getting his radio from his house in Klamath and paying Metzger",
+    "objective": "Retrieve Vic's radio and pay Metzger to free him from slavery.",
+    "first_tasks": [
+      "Travel to Klamath and locate Vic’s house.",
+      "Find and collect Vic’s radio.",
+      "Return to Metzger in The Den and pay off Vic’s debt."
+    ],
+    "first_task_locations": [
+      {
+        "name": "Klamath",
+        "description": "A small town known for its trapping industry and home to Vic’s house."
+      },
+      {
+        "name": "The Den",
+        "description": "A lawless town controlled by slavers, including Metzger."
+      }
+    ],
+    "quest_giver": {
+      "name": "Vic",
+      "description": "A trader and mechanic who has been captured and enslaved by Metzger.",
+      "location": "Metzger’s Slaver Compound in The Den"
+    },
+    "reward": [
+      {
+        "name": "Vic as a companion",
+        "description": "Once freed, Vic can join you on your journey."
+      },
+      {
+        "name": "Good karma",
+        "description": "Helping Vic improves your reputation."
+      }
+    ],
+    "tools": [
+      "Sufficient caps to pay off Metzger (varies based on Barter skill).",
+      "Vic’s radio, retrieved from his house in Klamath."
+    ],
+    "description": "Vic has been captured by Metzger, the slaver boss in The Den. To free him, you must retrieve his radio from Klamath and pay off his debt."
+  },
+  {
+    "name": "Find out how Becky can sell her booze for such low prices",
+    "objective": "Investigate how Becky is able to sell her alcohol at unusually low prices.",
+    "first_tasks": [
+      "Talk to Becky about her business.",
+      "Gather information on her supply chain and possible sources.",
+      "Investigate possible smuggling operations or hidden suppliers."
+    ],
+    "first_task_locations": [
+      {
+        "name": "The Den",
+        "description": "A lawless settlement where Becky runs her bar."
+      }
+    ],
+    "quest_giver": {
+      "name": "Frankie",
+      "description": "A rival bar owner who is suspicious of Becky’s business practices.",
+      "location": "Frankie’s bar in The Den"
+    },
+    "reward": [
+      {
+        "name": "Caps",
+        "description": "A monetary reward from Frankie for uncovering the truth.",
+        "amount": 100
+      },
+      {
+        "name": "Access to cheaper alcohol",
+        "description": "Becky may offer discounts depending on how you handle the situation."
+      }
+    ],
+    "tools": [
+      "Persuasion or Barter skill to gather information.",
+      "Sneaking ability if investigating illicit sources."
+    ],
+    "description": "Frankie is suspicious of Becky’s ability to sell alcohol at low prices. Your job is to investigate and uncover the secret behind her business."
+  },
+  {
+    "name": "Sabotage Becky's still",
+    "objective": "Destroy Becky's alcohol still to disrupt her business operations.",
+    "first_tasks": [
+      "Locate Becky's still.",
+      "Find a way to sabotage or destroy the still.",
+      "Ensure Becky is unable to continue producing alcohol."
+    ],
+    "first_task_locations": [
+      {
+        "name": "The Den",
+        "description": "A lawless settlement where Becky runs her bar and operates her alcohol still."
+      }
+    ],
+    "quest_giver": {
+      "name": "Frankie",
+      "description": "A rival bar owner who wants to eliminate Becky's business advantage.",
+      "location": "Frankie’s bar in The Den"
+    },
+    "reward": [
+      {
+        "name": "Caps",
+        "description": "A monetary reward from Frankie for completing the sabotage.",
+        "amount": 150
+      },
+      {
+        "name": "Increased reputation with Frankie",
+        "description": "Frankie will trust you more and may offer further opportunities."
+      }
+    ],
+    "tools": [
+      "Explosives to destroy the still.",
+      "Stealth to avoid detection while sabotaging."
+    ],
+    "description": "Frankie, a rival bar owner, wants Becky’s still destroyed to cripple her business. You must find a way to sabotage it without getting caught."
+  },
+  {
+    "name": "Get car part for Smitty",
+    "objective": "Find and retrieve a car part to help Smitty repair a vehicle.",
+    "first_tasks": [
+      "Locate a working car part.",
+      "Bring the part back to Smitty for installation."
+    ],
+    "first_task_locations": [
+      {
+        "name": "The Den",
+        "description": "A lawless settlement where Smitty works as a mechanic."
+      },
+      {
+        "name": "New Reno Chop Shop",
+        "description": "A potential location to find a working car part."
+      }
+    ],
+    "quest_giver": {
+      "name": "Smitty",
+      "description": "An old mechanic who knows how to repair and maintain vehicles.",
+      "location": "The Den"
+    },
+    "reward": [
+      {
+        "name": "Caps",
+        "description": "A monetary reward for retrieving the car part.",
+        "amount": 500
+      },
+      {
+        "name": "Vehicle Access",
+        "description": "Smitty can restore a working car, allowing for faster travel."
+      }
+    ],
+    "tools": [
+      "Bartering skills to negotiate for the part.",
+      "Lockpicking tools if stealing is necessary."
+    ],
+    "description": "Smitty, a mechanic in The Den, needs a specific car part to repair a vehicle. Find the part and bring it back to him to complete the job."
+  },
+  {
+    "name": "Return Anna's locket",
+    "objective": "Find Anna's lost locket and return it to her spirit.",
+    "first_tasks": [
+      "Investigate the ghostly presence at the Den church.",
+      "Find and retrieve Anna's locket."
+    ],
+    "first_task_locations": [
+      {
+        "name": "The Den Church",
+        "description": "A rundown church in The Den haunted by Anna's ghost."
+      },
+      {
+        "name": "Mom's Diner",
+        "description": "A potential location where the locket might be found."
+      }
+    ],
+    "quest_giver": {
+      "name": "Anna's Ghost",
+      "description": "The spirit of a woman who cannot rest until her locket is returned.",
+      "location": "The Den Church"
+    },
+    "reward": [
+      {
+        "name": "Experience Points",
+        "description": "Earn XP for helping Anna find peace.",
+        "amount": 500
+      },
+      {
+        "name": "Improved Karma",
+        "description": "Performing a good deed increases your reputation."
+      }
+    ],
+    "tools": [
+      "Perception or Investigation skills to locate the locket.",
+      "Speech skills to gather information from townspeople."
+    ],
+    "description": "The ghost of Anna haunts the old church in The Den. She is unable to move on until her lost locket is returned to her. Find it and bring her peace."
+  },
+  {
+    "name": "Collect money from Fred",
+    "objective": "Retrieve the money that Fred owes to Metzger.",
+    "first_tasks": [
+      "Find Fred and remind him of his debt.",
+      "Convince or force Fred to pay up."
+    ],
+    "first_task_locations": [
+      {
+        "name": "The Den",
+        "description": "A lawless town where Fred can be found."
+      }
+    ],
+    "quest_giver": {
+      "name": "Metzger",
+      "description": "Leader of the slavers in The Den, who wants his money back.",
+      "location": "The Den - Slaver's Guild"
+    },
+    "reward": [
+      {
+        "name": "Caps",
+        "description": "Payment for successfully collecting the debt.",
+        "amount": 200
+      },
+      {
+        "name": "Favor with Metzger",
+        "description": "Completing this task may improve your standing with Metzger and his gang."
+      }
+    ],
+    "tools": [
+      "Speech or Barter skills to negotiate with Fred.",
+      "Strength or weapons to intimidate Fred if necessary."
+    ],
+    "description": "Fred owes Metzger money, and it's your job to make sure he pays up—one way or another."
+  },
+  {
+    "name": "Get book from Derek",
+    "objective": "Retrieve a book from Derek and return it to the quest giver.",
+    "first_tasks": [
+      "Find Derek and ask him about the book.",
+      "Convince or persuade Derek to hand over the book."
+    ],
+    "first_task_locations": [
+      {
+        "name": "The Den",
+        "description": "A small town where Derek can be found."
+      }
+    ],
+    "quest_giver": {
+      "name": "Unknown",
+      "description": "The person who requests the book retrieval.",
+      "location": "The Den"
+    },
+    "reward": [
+      {
+        "name": "Caps",
+        "description": "A monetary reward for retrieving the book.",
+        "amount": 100
+      },
+      {
+        "name": "Experience Points",
+        "description": "XP gained for successfully completing the task."
+      }
+    ],
+    "tools": [
+      "Speech skill to persuade Derek to give up the book.",
+      "Stealth to pickpocket the book if needed."
+    ],
+    "description": "A person in The Den needs you to retrieve a book from Derek, who may not be willing to part with it easily."
+  },
+  {
+    "name": "Deliver a meal to Smitty for Mom",
+    "objective": "Take a meal from Mom's Diner and deliver it to Smitty.",
+    "first_tasks": [
+      "Pick up the meal from Mom at Mom's Diner.",
+      "Deliver the meal to Smitty at his workshop."
+    ],
+    "first_task_locations": [
+      {
+        "name": "Mom's Diner",
+        "description": "A small diner in The Den run by Mom, who provides food for the locals."
+      },
+      {
+        "name": "Smitty's Workshop",
+        "description": "A mechanic's workshop in The Den where Smitty works."
+      }
+    ],
+    "quest_giver": {
+      "name": "Mom",
+      "description": "The owner of Mom's Diner, who wants to send a meal to Smitty.",
+      "location": "Mom's Diner"
+    },
+    "reward": [
+      {
+        "name": "Caps",
+        "description": "A small monetary reward for delivering the meal.",
+        "amount": 50
+      },
+      {
+        "name": "Karma",
+        "description": "A small positive karma boost for helping out a community member."
+      }
+    ],
+    "tools": ["None required, just deliver the meal."],
+    "description": "Mom wants to send a meal to Smitty, the local mechanic in The Den. Your task is to take the food to him and ensure he gets it."
+  },
+  {
+    "name": "Lara wants to know what is being guarded in the church",
+    "objective": "Investigate what is being guarded inside the church for Lara.",
+    "first_tasks": [
+      "Talk to Lara to receive the task.",
+      "Scout the church without alerting the guards.",
+      "Report back to Lara with the findings."
+    ],
+    "first_task_locations": [
+      {
+        "name": "The Den",
+        "description": "A lawless town in Fallout 2 controlled by various factions, including Lara's gang."
+      },
+      {
+        "name": "The Church",
+        "description": "A heavily guarded building in The Den that Lara is interested in."
+      }
+    ],
+    "quest_giver": {
+      "name": "Lara",
+      "description": "Leader of a small gang in The Den, looking for an opportunity to expand her influence.",
+      "location": "The Den"
+    },
+    "reward": [
+      {
+        "name": "Caps",
+        "description": "A monetary reward for successfully completing the task.",
+        "amount": 100
+      },
+      {
+        "name": "More work from Lara",
+        "description": "Completing this task unlocks additional quests from Lara."
+      }
+    ],
+    "tools": [
+      "Stealth or Speech skills to avoid suspicion while scouting.",
+      "A good Perception stat to observe details inside the church."
+    ],
+    "description": "Lara, a gang leader in The Den, wants to know what is inside the guarded church. She asks you to investigate the building and report back without getting caught."
+  },
+  {
+    "name": "Get permission from Metzger for gang war",
+    "objective": "Obtain Metzger’s approval for Lara’s gang to attack their rivals.",
+    "first_tasks": [
+      "Talk to Lara about the gang war plan.",
+      "Meet Metzger and request permission for the attack.",
+      "Report back to Lara with Metzger’s response."
+    ],
+    "first_task_locations": [
+      {
+        "name": "The Den",
+        "description": "A lawless town controlled by criminals and slavers, home to Lara's gang and Metzger’s operations."
+      },
+      {
+        "name": "Metzger's Slaver Guild",
+        "description": "Metzger’s base of operations, where he runs his slave trade and enforces his rule."
+      }
+    ],
+    "quest_giver": {
+      "name": "Lara",
+      "description": "Leader of a small gang in The Den, looking to expand her influence by eliminating a rival group.",
+      "location": "The Den"
+    },
+    "reward": [
+      {
+        "name": "Caps",
+        "description": "A monetary reward for successfully securing Metzger’s approval.",
+        "amount": 100
+      },
+      {
+        "name": "Progression in Lara's gang quests",
+        "description": "Advances the questline, leading to more jobs and potential rewards."
+      }
+    ],
+    "tools": [
+      "High Speech skill to persuade Metzger effectively.",
+      "Caps or favors in case Metzger demands payment."
+    ],
+    "description": "Lara wants to start a gang war in The Den, but she needs Metzger’s approval before making a move. You must convince him to allow the conflict to proceed."
+  },
+  {
+    "name": "Find weakness in Tyler's gang guarding the church",
+    "objective": "Discover a vulnerability in Tyler’s gang's defenses to help Lara’s gang plan their attack.",
+    "first_tasks": [
+      "Talk to Lara about Tyler’s gang and their guard routines.",
+      "Observe Tyler’s gang guarding the church to find weaknesses.",
+      "Report back to Lara with any useful information."
+    ],
+    "first_task_locations": [
+      {
+        "name": "The Den",
+        "description": "A dangerous town filled with criminals and gangs, including Tyler's group and Lara’s gang."
+      },
+      {
+        "name": "Church in The Den",
+        "description": "A guarded location controlled by Tyler’s gang, serving as their hideout and base of operations."
+      }
+    ],
+    "quest_giver": {
+      "name": "Lara",
+      "description": "Leader of a small gang in The Den, seeking to overthrow Tyler’s gang and take control of their territory.",
+      "location": "The Den"
+    },
+    "reward": [
+      {
+        "name": "Caps",
+        "description": "A monetary reward for successfully identifying a weakness in Tyler’s gang.",
+        "amount": 100
+      },
+      {
+        "name": "Progression in Lara's gang quests",
+        "description": "Advances the storyline, leading to a possible gang war and further missions."
+      }
+    ],
+    "tools": [
+      "Stealth or Sneak skill to observe the gang unnoticed.",
+      "High Perception to notice key details in their guard routine."
+    ],
+    "description": "Lara’s gang wants to take down Tyler’s group, but they need an advantage. Your task is to find a flaw in Tyler’s security so that Lara can strike at the right moment."
+  },
+  {
+    "name": "Help Lara attack Tyler's gang",
+    "objective": "Assist Lara and her gang in attacking and defeating Tyler's gang to take control of the church.",
+    "first_tasks": [
+      "Talk to Lara to finalize the attack plan.",
+      "Engage in combat with Tyler’s gang at the church.",
+      "Ensure Lara survives the battle."
+    ],
+    "first_task_locations": [
+      {
+        "name": "The Den",
+        "description": "A lawless town controlled by criminals and gangs, including Lara's and Tyler's groups."
+      },
+      {
+        "name": "Church in The Den",
+        "description": "The base of Tyler's gang, targeted for takeover by Lara."
+      }
+    ],
+    "quest_giver": {
+      "name": "Lara",
+      "description": "Leader of a gang in The Den, seeking to take over Tyler’s territory.",
+      "location": "The Den"
+    },
+    "reward": [
+      {
+        "name": "Caps",
+        "description": "A monetary reward for helping Lara win the battle.",
+        "amount": 300
+      },
+      {
+        "name": "Loot from Tyler's gang",
+        "description": "Weapons, armor, and other valuables can be taken from fallen enemies."
+      },
+      {
+        "name": "Increased reputation with Lara’s gang",
+        "description": "Lara and her gang will view you as a trusted ally."
+      }
+    ],
+    "tools": [
+      "Weapons and armor suitable for combat.",
+      "Companions to assist in battle.",
+      "Stimpaks or healing supplies to survive the fight."
+    ],
+    "description": "Lara has planned an attack on Tyler's gang and needs your help. You must assist her in taking over the church, ensuring her victory and survival in the battle."
+  },
+  {
+    "name": "Listen to Stacy's kitty story",
+    "objective": "Hear Stacy's story about her lost cat.",
+    "first_tasks": [
+      "Find Stacy in The Den.",
+      "Talk to her and listen to her story."
+    ],
+    "first_task_locations": [
+      {
+        "name": "The Den",
+        "description": "A town filled with thieves, traders, and drifters, where Stacy resides."
+      }
+    ],
+    "quest_giver": {
+      "name": "Stacy",
+      "description": "A young girl in The Den who tells a heartfelt story about her lost cat.",
+      "location": "The Den"
+    },
+    "reward": [
+      {
+        "name": "A heartwarming story",
+        "description": "No material reward, but you get to hear a touching story about Stacy's lost cat."
+      }
+    ],
+    "tools": ["Patience to listen to the full story."],
+    "description": "Stacy, a young girl in The Den, shares a sad story about her lost cat. Taking the time to listen to her might provide insight into the harsh realities of life in The Den."
+  },
+  {
+    "name": "Listen to Leanne's story about the Master",
+    "objective": "Hear Leanne's account of the Master and the Unity.",
+    "first_tasks": [
+      "Find Leanne in Vault City.",
+      "Talk to her and listen to her story."
+    ],
+    "first_task_locations": [
+      {
+        "name": "Vault City",
+        "description": "A highly advanced and well-guarded settlement, known for its strict regulations and advanced technology."
+      }
+    ],
+    "quest_giver": {
+      "name": "Leanne",
+      "description": "A woman in Vault City with knowledge of the Master and the events surrounding the Unity.",
+      "location": "Vault City"
+    },
+    "reward": [
+      {
+        "name": "Historical insight",
+        "description": "Gain knowledge about the Master, the Unity, and the events of the past."
+      }
+    ],
+    "tools": ["Curiosity about the past."],
+    "description": "Leanne in Vault City has a story to share about the Master and the Unity. Listening to her could provide valuable historical insight into the world before and after the war."
+  },
+  {
+    "name": "Kill Metzger",
+    "objective": "Eliminate Metzger and free the slaves in the Den.",
+    "first_tasks": [
+      "Gather weapons and allies to prepare for the fight.",
+      "Attack Metzger and his guards at the Slaver's Guild."
+    ],
+    "first_task_locations": [
+      {
+        "name": "The Den",
+        "description": "A lawless town controlled by slavers and criminals."
+      }
+    ],
+    "quest_giver": {
+      "name": "Various freed slaves (implicit)",
+      "description": "The enslaved people in The Den will benefit from Metzger's death.",
+      "location": "The Den - Slaver's Guild"
+    },
+    "reward": [
+      {
+        "name": "Freedom for the slaves",
+        "description": "Metzger's death ensures the slaves in The Den are no longer under his control."
+      },
+      {
+        "name": "Loot from Metzger's body",
+        "description": "Possible weapons, caps, and other valuables."
+      }
+    ],
+    "tools": [
+      "Strong weapons and armor to fight Metzger and his guards.",
+      "Allies such as Sulik or other companions."
+    ],
+    "description": "Metzger is the ruthless leader of the Slaver's Guild in The Den. Killing him will free his slaves and remove a dangerous criminal from the wasteland."
+  },
+  {
+    "name": "Free the Metzger slaves",
+    "objective": "Rescue the slaves held by Metzger in The Den.",
+    "first_tasks": [
+      "Find a way to unlock the slave cages at the Slaver's Guild.",
+      "Eliminate Metzger and his guards if necessary."
+    ],
+    "first_task_locations": [
+      {
+        "name": "The Den",
+        "description": "A town where Metzger operates the Slaver's Guild, holding people captive."
+      }
+    ],
+    "quest_giver": {
+      "name": "Various freed slaves (implicit)",
+      "description": "The enslaved people in The Den seek freedom from Metzger's control.",
+      "location": "The Den - Slaver's Guild"
+    },
+    "reward": [
+      {
+        "name": "Gratitude from the freed slaves",
+        "description": "The former slaves will be thankful for their freedom."
+      },
+      {
+        "name": "Improved karma",
+        "description": "Your actions will be seen as heroic by those opposed to slavery."
+      }
+    ],
+    "tools": [
+      "Lockpicks or electronic lockpick to unlock the cages.",
+      "Weapons and armor to fight Metzger and his guards if needed."
+    ],
+    "description": "Metzger holds people captive as slaves in The Den. You must find a way to free them, either through stealth or by eliminating their captors."
+  },
+  {
+    "name": "Solve the Gecko powerplant problem",
+    "objective": "Resolve the issue with the Gecko nuclear power plant to prevent radiation leaks.",
+    "first_tasks": [
+      "Gain access to the Gecko power plant control room.",
+      "Find a way to fix the plant's reactor or reroute power safely."
+    ],
+    "first_task_locations": [
+      {
+        "name": "Gecko",
+        "description": "A ghoul-run settlement with a malfunctioning nuclear power plant."
+      }
+    ],
+    "quest_giver": {
+      "name": "Harold",
+      "description": "A well-known ghoul in Gecko concerned about the power plant's state.",
+      "location": "Gecko"
+    },
+    "reward": [
+      {
+        "name": "Caps",
+        "description": "A monetary reward for successfully fixing the plant.",
+        "amount": 750
+      },
+      {
+        "name": "Improved reputation with Vault City",
+        "description": "Vault City will be more inclined to work with you."
+      }
+    ],
+    "tools": [
+      "Science skill or a repair manual to fix the reactor.",
+      "Vault City access to get the plant's optimization data."
+    ],
+    "description": "The nuclear power plant in Gecko is leaking radiation, threatening the surrounding area. You must either repair it or find an alternative solution to stop the leak."
+  },
+  {
+    "name": "Optimize the powerplant",
+    "objective": "Improve the efficiency of the Gecko nuclear power plant to provide clean energy to Vault City.",
+    "first_tasks": [
+      "Obtain the optimization data from Vault City’s computer.",
+      "Upload the optimization data to the reactor’s mainframe."
+    ],
+    "first_task_locations": [
+      {
+        "name": "Vault City",
+        "description": "A technologically advanced settlement with strict citizenship rules."
+      },
+      {
+        "name": "Gecko",
+        "description": "A ghoul-run settlement with a nuclear power plant."
+      }
+    ],
+    "quest_giver": {
+      "name": "Festus",
+      "description": "A ghoul technician in Gecko who wants the power plant to run at full efficiency.",
+      "location": "Gecko Power Plant"
+    },
+    "reward": [
+      {
+        "name": "Caps",
+        "description": "A monetary reward for successfully optimizing the reactor.",
+        "amount": 1000
+      },
+      {
+        "name": "Improved relations with Vault City",
+        "description": "Vault City will be more willing to trade with Gecko."
+      }
+    ],
+    "tools": [
+      "Science skill to access and upload the optimization data.",
+      "Vault City citizenship or a way to bypass their security."
+    ],
+    "description": "The nuclear power plant in Gecko is running inefficiently. By obtaining and installing optimization data from Vault City, you can improve its performance and reduce tensions between the two settlements."
+  },
+  {
+    "name": "Retrieve the Economy Disk and deliver it to McClure in Vault City",
+    "objective": "Obtain the Economy Disk from Gordon in Gecko and deliver it to McClure in Vault City.",
+    "first_tasks": [
+      "Speak with Gordon in Gecko to acquire the Economy Disk.",
+      "Take the Economy Disk to Councilman McClure in Vault City."
+    ],
+    "first_task_locations": [
+      {
+        "name": "Gecko",
+        "description": "A ghoul-run settlement with a nuclear power plant."
+      },
+      {
+        "name": "Vault City",
+        "description": "A technologically advanced settlement with strict citizenship rules."
+      }
+    ],
+    "quest_giver": {
+      "name": "McClure",
+      "description": "A member of Vault City's Council interested in economic development.",
+      "location": "Vault City Council Building"
+    },
+    "reward": [
+      {
+        "name": "Caps",
+        "description": "A monetary reward for completing the delivery.",
+        "amount": 750
+      },
+      {
+        "name": "Improved relations with Vault City",
+        "description": "Vault City officials will be more cooperative in future dealings."
+      }
+    ],
+    "tools": [
+      "Speech skill to negotiate with Gordon if necessary.",
+      "Vault City citizenship or a way to bypass their security."
+    ],
+    "description": "McClure in Vault City seeks economic data from Gecko to assess the power plant's impact on regional trade. You must retrieve the Economy Disk from Gordon in Gecko and deliver it safely."
+  },
+  {
+    "name": "Get super repair kit for Skeeter",
+    "objective": "Retrieve a super repair kit for Skeeter so he can improve your car.",
+    "first_tasks": [
+      "Find a super repair kit, which can be located in New Reno, Vault City, or NCR.",
+      "Return the super repair kit to Skeeter in Gecko."
+    ],
+    "first_task_locations": [
+      {
+        "name": "New Reno",
+        "description": "A lawless city controlled by mob families, known for its underground dealings."
+      },
+      {
+        "name": "Vault City",
+        "description": "A highly advanced settlement with strict laws and valuable technology."
+      },
+      {
+        "name": "NCR",
+        "description": "A growing republic aiming to bring law and order to the wasteland."
+      },
+      {
+        "name": "Gecko",
+        "description": "A ghoul-run town with a nuclear power plant, where Skeeter resides."
+      }
+    ],
+    "quest_giver": {
+      "name": "Skeeter",
+      "description": "A ghoul mechanic in Gecko who can improve your Highwayman.",
+      "location": "Gecko Junkyard"
+    },
+    "reward": [
+      {
+        "name": "Car Upgrade",
+        "description": "Skeeter will enhance the Highwayman, improving its efficiency."
+      }
+    ],
+    "tools": [
+      "Barter skill to purchase the super repair kit at a lower price.",
+      "Lockpick skill to steal a kit if necessary."
+    ],
+    "description": "Skeeter, a skilled mechanic in Gecko, needs a super repair kit to enhance the Highwayman. You must locate and deliver the kit to him for an upgrade."
+  },
+  {
+    "name": "Get 3-step plasma transformer for Skeeter",
+    "objective": "Retrieve a 3-step plasma transformer so Skeeter can continue his work in Gecko.",
+    "first_tasks": [
+      "Find a 3-step plasma transformer, which can be located in Vault City.",
+      "Return the 3-step plasma transformer to Skeeter in Gecko."
+    ],
+    "first_task_locations": [
+      {
+        "name": "Vault City",
+        "description": "A technologically advanced settlement with access to high-end equipment."
+      },
+      {
+        "name": "Gecko",
+        "description": "A ghoul-run town with a nuclear power plant, where Skeeter resides."
+      }
+    ],
+    "quest_giver": {
+      "name": "Skeeter",
+      "description": "A ghoul mechanic in Gecko who maintains the power plant.",
+      "location": "Gecko Junkyard"
+    },
+    "reward": [
+      {
+        "name": "Caps",
+        "description": "A monetary reward for delivering the transformer.",
+        "amount": 250
+      },
+      {
+        "name": "Improved Reputation with Gecko",
+        "description": "The ghouls of Gecko will appreciate your assistance."
+      }
+    ],
+    "tools": [
+      "Speech or Barter skill to negotiate for the transformer.",
+      "Lockpick skill to steal the transformer if necessary."
+    ],
+    "description": "Skeeter needs a 3-step plasma transformer to continue his maintenance work in Gecko. You must locate one and bring it back to him."
+  },
+  {
+    "name": "Find Woody the ghoul for Percy. Try the Den",
+    "objective": "Locate Woody the ghoul and inform Percy of his whereabouts.",
+    "first_tasks": [
+      "Search for Woody in The Den.",
+      "Return to Percy and report Woody’s location."
+    ],
+    "first_task_locations": [
+      {
+        "name": "The Den",
+        "description": "A lawless town known for its criminal activity and human trafficking."
+      }
+    ],
+    "quest_giver": {
+      "name": "Percy",
+      "description": "A concerned individual looking for his friend Woody.",
+      "location": "Gecko"
+    },
+    "reward": [
+      {
+        "name": "Caps",
+        "description": "A small sum of money as a token of gratitude.",
+        "amount": 100
+      },
+      {
+        "name": "Improved Reputation with Gecko",
+        "description": "The ghouls of Gecko will recognize your efforts."
+      }
+    ],
+    "tools": [
+      "Speech skill to ask locals about Woody.",
+      "Perception to notice any clues in The Den."
+    ],
+    "description": "Percy is looking for his friend Woody, a missing ghoul. He believes Woody might be in The Den. You must search for him and return with information."
+  },
+  {
+    "name": "Refuel the still",
+    "objective": "Obtain fuel to keep the still operational.",
+    "first_tasks": [
+      "Find a source of fuel for the still.",
+      "Deliver the fuel to the still operator."
+    ],
+    "first_task_locations": [
+      {
+        "name": "Redding",
+        "description": "A mining town where alcohol production is an important trade."
+      }
+    ],
+    "quest_giver": {
+      "name": "Lou",
+      "description": "The owner of the still who needs more fuel to continue production.",
+      "location": "Redding"
+    },
+    "reward": [
+      {
+        "name": "Caps",
+        "description": "A monetary reward for keeping the still running.",
+        "amount": 150
+      },
+      {
+        "name": "Alcohol",
+        "description": "Bottles of booze as an extra reward."
+      }
+    ],
+    "tools": [
+      "Barter skill to negotiate a better reward.",
+      "Repair skill to check the still’s condition."
+    ],
+    "description": "Lou needs fuel to keep his still operational. You must find a fuel source and deliver it to him to ensure the alcohol supply remains steady."
+  },
+  {
+    "name": "Rescue Smiley the Trapper",
+    "objective": "Find and rescue Smiley, the missing trapper.",
+    "first_tasks": [
+      "Investigate Smiley's last known location.",
+      "Defeat any threats preventing his return.",
+      "Escort Smiley back to safety."
+    ],
+    "first_task_locations": [
+      {
+        "name": "Toxic Caves",
+        "description": "A dangerous cave filled with geckos where Smiley was last seen."
+      }
+    ],
+    "quest_giver": {
+      "name": "Ardin Buckner",
+      "description": "Smiley's worried partner who asks you to find him.",
+      "location": "Buckner House, Klamath"
+    },
+    "reward": [
+      {
+        "name": "Caps",
+        "description": "A monetary reward for rescuing Smiley.",
+        "amount": 300
+      },
+      {
+        "name": "Survival Training",
+        "description": "Smiley will teach you how to skin geckos, allowing you to collect pelts."
+      }
+    ],
+    "tools": [
+      "Weapons to fend off geckos in the Toxic Caves.",
+      "Rad-X or RadAway to counter radiation if necessary."
+    ],
+    "description": "Smiley the Trapper went missing while hunting geckos in the Toxic Caves. Ardin Buckner asks you to track him down and ensure his safe return."
+  },
+  {
+    "name": "Guard the Brahmin",
+    "objective": "Protect a herd of Brahmin from nighttime rustlers.",
+    "first_tasks": [
+      "Meet with the rancher to begin the guard duty.",
+      "Stay alert during the night for any rustlers.",
+      "Defeat any attackers attempting to steal the Brahmin."
+    ],
+    "first_task_locations": [
+      {
+        "name": "Klamath",
+        "description": "A small settlement known for Brahmin herding."
+      }
+    ],
+    "quest_giver": {
+      "name": "Torr",
+      "description": "A simple-minded ranch hand who needs help protecting the Brahmin.",
+      "location": "Buckner House, Klamath"
+    },
+    "reward": [
+      {
+        "name": "Caps",
+        "description": "A small payment for successfully guarding the Brahmin.",
+        "amount": 100
+      },
+      {
+        "name": "Reputation Boost",
+        "description": "Improved reputation in Klamath for assisting the town."
+      }
+    ],
+    "tools": [
+      "Weapons to defend against rustlers.",
+      "Stealth or perception skills to detect incoming threats."
+    ],
+    "description": "A group of rustlers has been stealing Brahmin from Klamath. Torr needs help standing guard at night to stop them."
+  },
+  {
+    "name": "Rustle the Brahmin",
+    "objective": "Steal Brahmin from a local ranch under the cover of darkness.",
+    "first_tasks": [
+      "Meet with the rustlers to coordinate the theft.",
+      "Sneak into the Brahmin pen without alerting the guards.",
+      "Lead the stolen Brahmin to the designated location."
+    ],
+    "first_task_locations": [
+      {
+        "name": "Klamath",
+        "description": "A small settlement known for Brahmin herding."
+      }
+    ],
+    "quest_giver": {
+      "name": "Dunton Brothers",
+      "description": "Shady twin brothers running a secret Brahmin rustling operation.",
+      "location": "Dunton's Hideout, Klamath"
+    },
+    "reward": [
+      {
+        "name": "Caps",
+        "description": "A payment for successfully delivering the stolen Brahmin.",
+        "amount": 150
+      },
+      {
+        "name": "Negative Karma",
+        "description": "Engaging in theft reduces your overall karma."
+      }
+    ],
+    "tools": [
+      "Stealth skills to avoid detection.",
+      "Rope or herding skills to control the Brahmin."
+    ],
+    "description": "The Dunton brothers are looking for someone to help them steal Brahmin from local ranchers. This job requires stealth and quick action to avoid getting caught."
+  },
+  {
+    "name": "Kill the Rat God",
+    "objective": "Eliminate the so-called 'Rat God' that has been terrorizing the local area.",
+    "first_tasks": [
+      "Locate the Rat God’s lair beneath Klamath.",
+      "Fight through hordes of mutated rats.",
+      "Defeat the Rat God and put an end to the threat."
+    ],
+    "first_task_locations": [
+      {
+        "name": "Klamath Sewers",
+        "description": "An underground network filled with aggressive rats and the so-called Rat God."
+      }
+    ],
+    "quest_giver": {
+      "name": "Local Townsfolk",
+      "description": "Concerned citizens who have been suffering from the Rat God's attacks.",
+      "location": "Klamath"
+    },
+    "reward": [
+      {
+        "name": "Caps",
+        "description": "A reward from the locals for eliminating the Rat God.",
+        "amount": 100
+      },
+      {
+        "name": "Karma Boost",
+        "description": "Helping the town improves your reputation."
+      }
+    ],
+    "tools": [
+      "Melee weapons or firearms to fight off rats.",
+      "Healing supplies to recover from the battle."
+    ],
+    "description": "Klamath's sewers are infested with aggressive rats, and rumors speak of a larger, more intelligent creature—the Rat God. The locals need someone brave enough to put an end to this menace."
+  },
+  {
+    "name": "Rescue Torr",
+    "objective": "Find and rescue Torr from the slavers who kidnapped him.",
+    "first_tasks": [
+      "Track down the slavers who took Torr.",
+      "Confront the slavers and negotiate or fight for Torr's release.",
+      "Escort Torr back to safety."
+    ],
+    "first_task_locations": [
+      {
+        "name": "The Slaver Camp",
+        "description": "A hidden camp where slavers hold their captives, including Torr."
+      }
+    ],
+    "quest_giver": {
+      "name": "Torr's Family",
+      "description": "Torr's concerned family members who seek help in rescuing him.",
+      "location": "Klamath"
+    },
+    "reward": [
+      {
+        "name": "Karma Boost",
+        "description": "Rescuing Torr improves your reputation among the townsfolk."
+      },
+      {
+        "name": "Potential allies",
+        "description": "Gaining favor with Klamath's people may prove useful later."
+      }
+    ],
+    "tools": [
+      "Weapons for combat in case negotiations fail.",
+      "Stealth skills if attempting a non-violent rescue."
+    ],
+    "description": "Torr, a simple-minded but kind-hearted man from Klamath, has been abducted by slavers. His family pleads for someone to bring him home safely before he is sold into slavery."
+  },
+  {
+    "name": "Something strange is happening at the farm northeast of Modoc. Investigate and report back to Jo",
+    "objective": "Investigate the farm northeast of Modoc and uncover the mystery, then report your findings to Jo.",
+    "first_tasks": [
+      "Travel to the farm northeast of Modoc.",
+      "Search for clues about any unusual activity.",
+      "Determine the source of the disturbances.",
+      "Return to Jo and report your findings."
+    ],
+    "first_task_locations": [
+      {
+        "name": "Northeast Farm",
+        "description": "An isolated farm near Modoc where strange events have been reported."
+      }
+    ],
+    "quest_giver": {
+      "name": "Jo",
+      "description": "The leader of Modoc, concerned about the strange occurrences at the farm.",
+      "location": "Modoc Town Hall"
+    },
+    "reward": [
+      {
+        "name": "Caps",
+        "description": "A monetary reward for completing the investigation.",
+        "amount": 500
+      },
+      {
+        "name": "Improved Reputation",
+        "description": "Earning Jo's trust and the respect of Modoc's citizens."
+      }
+    ],
+    "tools": [
+      "Perception to spot hidden clues.",
+      "Speech for persuading witnesses or interrogating suspects.",
+      "Combat skills in case of danger."
+    ],
+    "description": "Jo of Modoc is troubled by reports of eerie happenings at a farm to the northeast. He requests an investigation to determine the cause and ensure the safety of Modoc's residents."
+  },
+  {
+    "name": "Jo is suspicious of the Slags. Find out about the dead bodies at the Ghost Farm and find out what happened to Karl",
+    "objective": "Investigate the Ghost Farm to uncover the truth about the dead bodies and the disappearance of Karl.",
+    "first_tasks": [
+      "Travel to the Ghost Farm.",
+      "Examine the area for clues about the dead bodies.",
+      "Find information about Karl's whereabouts.",
+      "Report your findings back to Jo in Modoc."
+    ],
+    "first_task_locations": [
+      {
+        "name": "Ghost Farm",
+        "description": "A desolate farm near Modoc where strange events have been reported, including dead bodies and disappearances."
+      }
+    ],
+    "quest_giver": {
+      "name": "Jo",
+      "description": "The leader of Modoc, concerned about the Ghost Farm and the missing Karl.",
+      "location": "Modoc Town Hall"
+    },
+    "reward": [
+      {
+        "name": "Caps",
+        "description": "A monetary reward for uncovering the truth about the Ghost Farm.",
+        "amount": 750
+      },
+      {
+        "name": "Improved Standing in Modoc",
+        "description": "Earn the trust of Jo and the townspeople of Modoc."
+      }
+    ],
+    "tools": [
+      "Perception to notice hidden details.",
+      "Speech to persuade or question people about Karl.",
+      "Combat skills in case of a confrontation."
+    ],
+    "description": "Jo is uneasy about the Ghost Farm and the mysterious Slags. He wants answers regarding the dead bodies found there and the fate of Karl, a former resident of Modoc who disappeared."
+  },
+  {
+    "name": "Deliver Slag message to Jo in Modoc",
+    "objective": "Deliver the message from the Slags to Jo in Modoc and mediate peace between them.",
+    "first_tasks": [
+      "Receive the message from the Slags.",
+      "Travel back to Modoc.",
+      "Deliver the message to Jo and discuss its contents."
+    ],
+    "first_task_locations": [
+      {
+        "name": "Ghost Farm",
+        "description": "The home of the Slags, a mysterious group living beneath the farm."
+      }
+    ],
+    "quest_giver": {
+      "name": "Vegeir",
+      "description": "The leader of the Slags who wants to establish peaceful relations with Modoc.",
+      "location": "Ghost Farm"
+    },
+    "reward": [
+      {
+        "name": "Caps",
+        "description": "A monetary reward for successfully delivering the message.",
+        "amount": 500
+      },
+      {
+        "name": "Potential Peace Between Modoc and the Slags",
+        "description": "If successful, Modoc and the Slags can coexist peacefully."
+      }
+    ],
+    "tools": [
+      "Speech skill to negotiate peace.",
+      "Charisma to convince Jo to listen to the Slags.",
+      "Knowledge of the Slags’ true nature to counter any misconceptions."
+    ],
+    "description": "The Slags seek to establish peaceful relations with Modoc. Your task is to deliver their message to Jo and convince him to accept their terms."
+  },
+  {
+    "name": "Go to the Den and tell Karl it's alright to come back home",
+    "objective": "Find Karl in The Den and inform him that it's safe to return to Modoc.",
+    "first_tasks": [
+      "Travel to The Den.",
+      "Locate Karl in the local bar.",
+      "Convince him to return home to Modoc."
+    ],
+    "first_task_locations": [
+      {
+        "name": "The Den",
+        "description": "A lawless town filled with thieves, slavers, and outcasts."
+      }
+    ],
+    "quest_giver": {
+      "name": "Jo",
+      "description": "The leader of Modoc who is concerned about Karl's disappearance.",
+      "location": "Modoc"
+    },
+    "reward": [
+      {
+        "name": "Caps",
+        "description": "A small monetary reward for convincing Karl to return.",
+        "amount": 500
+      },
+      {
+        "name": "Improved reputation in Modoc",
+        "description": "The people of Modoc will be grateful for Karl’s return."
+      }
+    ],
+    "tools": [
+      "Speech skill to persuade Karl.",
+      "Charisma to gain Karl's trust.",
+      "Information about the Ghost Farm to assure Karl it's safe."
+    ],
+    "description": "Karl, a former Modoc resident, fled to The Den after a traumatic experience. Jo wants him to return home, and it's your job to convince him that Modoc is safe once again."
+  },
+  {
+    "name": "Cornelius has lost his gold pocket watch. Find it and return it to him",
+    "objective": "Locate Cornelius' missing gold pocket watch and return it to him.",
+    "first_tasks": [
+      "Search for clues about the missing pocket watch.",
+      "Investigate Francis as a potential suspect.",
+      "Retrieve the pocket watch and return it to Cornelius."
+    ],
+    "first_task_locations": [
+      {
+        "name": "Broken Hills",
+        "description": "A mining town inhabited by humans, ghouls, and super mutants."
+      }
+    ],
+    "quest_giver": {
+      "name": "Cornelius",
+      "description": "An elderly resident of Broken Hills who believes his gold pocket watch was stolen.",
+      "location": "Broken Hills"
+    },
+    "reward": [
+      {
+        "name": "Caps",
+        "description": "A small monetary reward for retrieving the pocket watch.",
+        "amount": 100
+      },
+      {
+        "name": "Improved reputation in Broken Hills",
+        "description": "Cornelius and the townsfolk will appreciate your efforts."
+      }
+    ],
+    "tools": [
+      "Perception to spot clues.",
+      "Speech skill to question Francis.",
+      "Lockpick in case the watch is hidden away."
+    ],
+    "description": "Cornelius is convinced that someone has stolen his gold pocket watch, and he suspects Francis. Your task is to investigate the matter, retrieve the watch, and return it to its rightful owner."
+  },
+  {
+    "name": "Farrel wants you to find Cornelius's gold pocket watch. Find it and return it to Farrel",
+    "objective": "Locate Cornelius' missing gold pocket watch and return it to Farrel.",
+    "first_tasks": [
+      "Search for clues about the missing pocket watch.",
+      "Investigate Francis as a potential suspect.",
+      "Retrieve the pocket watch and return it to Farrel."
+    ],
+    "first_task_locations": [
+      {
+        "name": "Broken Hills",
+        "description": "A mining town inhabited by humans, ghouls, and super mutants."
+      }
+    ],
+    "quest_giver": {
+      "name": "Farrel",
+      "description": "A respected figure in Broken Hills who wants to resolve the dispute over the missing pocket watch.",
+      "location": "Broken Hills"
+    },
+    "reward": [
+      {
+        "name": "Caps",
+        "description": "A small monetary reward for retrieving the pocket watch.",
+        "amount": 100
+      },
+      {
+        "name": "Improved reputation in Broken Hills",
+        "description": "Farrel and the townsfolk will appreciate your efforts."
+      }
+    ],
+    "tools": [
+      "Perception to spot clues.",
+      "Speech skill to question Francis.",
+      "Lockpick in case the watch is hidden away."
+    ],
+    "description": "Farrel believes resolving the dispute over Cornelius' missing gold pocket watch is important for town harmony. Your task is to investigate, retrieve the watch, and return it to him."
+  },
+  {
+    "name": "Farrel has a rodent problem in his garden. Remove the infestation",
+    "objective": "Eliminate the rodents infesting Farrel's garden.",
+    "first_tasks": [
+      "Travel to Farrel's garden in Broken Hills.",
+      "Kill all the rodents present in the area.",
+      "Report back to Farrel once the infestation is cleared."
+    ],
+    "first_task_locations": [
+      {
+        "name": "Farrel's Garden",
+        "description": "A small patch of land in Broken Hills where Farrel grows crops, now overrun by rodents."
+      }
+    ],
+    "quest_giver": {
+      "name": "Farrel",
+      "description": "A resident of Broken Hills struggling with a rodent infestation in his garden.",
+      "location": "Broken Hills"
+    },
+    "reward": [
+      {
+        "name": "Caps",
+        "description": "A monetary reward for successfully clearing the rodents.",
+        "amount": 100
+      },
+      {
+        "name": "Improved reputation in Broken Hills",
+        "description": "Gaining trust and appreciation from the town for helping Farrel."
+      }
+    ],
+    "tools": [
+      "Melee or ranged weapons to eliminate the rodents.",
+      "First Aid or Doctor skill in case of injuries."
+    ],
+    "description": "Farrel's garden in Broken Hills is overrun by rodents, destroying his crops. He needs someone to clear the infestation so he can continue farming."
+  },
+  {
+    "name": "Jonny is missing. Find him and bring him home to Balthas",
+    "objective": "Locate Jonny and safely return him to his father, Balthas, in Modoc.",
+    "first_tasks": [
+      "Gather information about Jonny's disappearance from Balthas in Modoc.",
+      "Search for clues around Modoc and nearby areas.",
+      "Find Jonny's whereabouts and convince him to return home."
+    ],
+    "first_task_locations": [
+      {
+        "name": "Modoc",
+        "description": "A small farming settlement where Jonny's father, Balthas, resides."
+      }
+    ],
+    "quest_giver": {
+      "name": "Balthas",
+      "description": "A worried father and leatherworker in Modoc looking for his missing son.",
+      "location": "Modoc"
+    },
+    "reward": [
+      {
+        "name": "Caps",
+        "description": "A monetary reward for safely returning Jonny.",
+        "amount": 100
+      },
+      {
+        "name": "Leather Armor",
+        "description": "A suit of leather armor crafted by Balthas as a token of gratitude."
+      },
+      {
+        "name": "Improved reputation in Modoc",
+        "description": "The town appreciates your efforts in reuniting Jonny with his family."
+      }
+    ],
+    "tools": [
+      "Speech skill to convince Jonny to return.",
+      "Exploration skills to track down Jonny’s location."
+    ],
+    "description": "Jonny, Balthas' son, has gone missing from Modoc. His father is desperate to find him and needs someone to track him down and bring him home safely."
+  },
+  {
+    "name": "Jonny's in the Slag caves. Find a way to get Jonny back home to Balthas",
+    "objective": "Rescue Jonny from the Slag caves and return him safely to his father, Balthas, in Modoc.",
+    "first_tasks": [
+      "Locate Jonny in the Slag caves.",
+      "Negotiate with the Slags or find an alternative way to free Jonny.",
+      "Escort Jonny back to Modoc and reunite him with Balthas."
+    ],
+    "first_task_locations": [
+      {
+        "name": "Slag Caves",
+        "description": "An underground settlement where Jonny is being held."
+      }
+    ],
+    "quest_giver": {
+      "name": "Balthas",
+      "description": "A desperate father searching for his missing son.",
+      "location": "Modoc"
+    },
+    "reward": [
+      {
+        "name": "Caps",
+        "description": "A monetary reward from Balthas for safely returning Jonny.",
+        "amount": 100
+      },
+      {
+        "name": "Leather Armor",
+        "description": "A suit of leather armor crafted by Balthas as thanks."
+      },
+      {
+        "name": "Improved reputation in Modoc",
+        "description": "Your heroic actions increase your standing in the community."
+      }
+    ],
+    "tools": [
+      "Speech skill to negotiate with the Slags.",
+      "Stealth or combat skills if negotiation fails."
+    ],
+    "description": "Jonny has been found in the Slag caves, and you must figure out how to bring him back home safely to his father in Modoc."
+  },
+  {
+    "name": "Guard brahmin herd for Grisham",
+    "objective": "Protect Grisham’s brahmin herd from potential rustlers or predators.",
+    "first_tasks": [
+      "Meet Grisham to accept the job.",
+      "Patrol the area while the brahmin graze.",
+      "Defend the herd from any threats."
+    ],
+    "first_task_locations": [
+      {
+        "name": "Modoc",
+        "description": "A small farming community where Grisham operates his brahmin business."
+      }
+    ],
+    "quest_giver": {
+      "name": "Grisham",
+      "description": "A brahmin rancher in Modoc who needs help protecting his livestock.",
+      "location": "Grisham’s Ranch, Modoc"
+    },
+    "reward": [
+      {
+        "name": "Caps",
+        "description": "A payment for successfully guarding the herd.",
+        "amount": 50
+      },
+      {
+        "name": "Improved reputation in Modoc",
+        "description": "Your reliability earns the trust of Modoc’s residents."
+      }
+    ],
+    "tools": [
+      "A ranged weapon to handle potential threats from a distance.",
+      "Decent Perception to spot approaching dangers."
+    ],
+    "description": "Grisham, a brahmin rancher in Modoc, needs someone to guard his herd against rustlers and predators while they graze. Your task is to ensure the brahmin remain safe until the job is done."
+  },
+  {
+    "name": "Help Bess the Brahmin",
+    "objective": "Heal the injured brahmin named Bess and decide her fate.",
+    "first_tasks": [
+      "Find Bess, the injured brahmin.",
+      "Use a Doctor or First Aid skill to heal her wounds.",
+      "Decide whether to let her go or sell her to Grisham."
+    ],
+    "first_task_locations": [
+      {
+        "name": "Modoc",
+        "description": "A small farming town where Bess is found injured."
+      }
+    ],
+    "quest_giver": {
+      "name": "Bess",
+      "description": "A wounded brahmin in need of medical attention.",
+      "location": "Near the entrance of Modoc"
+    },
+    "reward": [
+      {
+        "name": "Improved karma",
+        "description": "Healing Bess without selling her to Grisham earns good karma."
+      },
+      {
+        "name": "Caps",
+        "description": "Selling Bess to Grisham provides monetary compensation.",
+        "amount": 100
+      }
+    ],
+    "tools": [
+      "Doctor skill or First Aid skill to treat Bess.",
+      "Optionally, Speech skill to negotiate with Grisham."
+    ],
+    "description": "Bess, an injured brahmin near Modoc, requires medical assistance. You can heal her and set her free for karma or sell her to Grisham for a profit."
+  },
+  {
+    "name": "Kill the 'Chicken'",
+    "objective": "Defeat the mutant 'chicken' terrorizing Modoc.",
+    "first_tasks": [
+      "Find the 'chicken' in Modoc.",
+      "Engage the creature in combat and defeat it."
+    ],
+    "first_task_locations": [
+      {
+        "name": "Modoc",
+        "description": "A small farming town where the 'chicken' is causing trouble."
+      }
+    ],
+    "quest_giver": {
+      "name": "Grisham",
+      "description": "A brahmin rancher in Modoc concerned about the 'chicken'.",
+      "location": "Modoc Brahmin Pasture"
+    },
+    "reward": [
+      {
+        "name": "Caps",
+        "description": "A monetary reward for eliminating the threat.",
+        "amount": 200
+      },
+      {
+        "name": "Combat experience",
+        "description": "Fighting the creature grants valuable combat experience."
+      }
+    ],
+    "tools": [
+      "Weapons and armor to engage in combat.",
+      "Healing supplies in case of injury."
+    ],
+    "description": "A mysterious and dangerous creature, referred to as the 'chicken,' has been attacking livestock in Modoc. Grisham wants it eliminated before it causes more damage."
+  },
+  {
+    "name": "Deal with the Deathclaw",
+    "objective": "Investigate and eliminate the Deathclaw threat in Vault 13.",
+    "first_tasks": [
+      "Find the Deathclaw near Vault 13.",
+      "Determine if the Deathclaw is a threat.",
+      "Deal with the Deathclaw as necessary."
+    ],
+    "first_task_locations": [
+      {
+        "name": "Vault 13",
+        "description": "The original home of the Vault Dweller, now facing a potential Deathclaw threat."
+      }
+    ],
+    "quest_giver": {
+      "name": "Vault 13 Overseer",
+      "description": "The leader of Vault 13, concerned about the Deathclaw.",
+      "location": "Vault 13 Command Center"
+    },
+    "reward": [
+      {
+        "name": "Caps",
+        "description": "A monetary reward for resolving the issue.",
+        "amount": 500
+      },
+      {
+        "name": "Improved standing with Vault 13 residents",
+        "description": "The people of Vault 13 will trust and respect you more."
+      }
+    ],
+    "tools": [
+      "Powerful weapons and armor to fight the Deathclaw if necessary.",
+      "Speech skills to negotiate if the creature is intelligent."
+    ],
+    "description": "Rumors of a Deathclaw near Vault 13 have sparked fear among its residents. The Overseer wants you to investigate and, if necessary, eliminate the creature before it becomes a serious threat."
+  },
+  {
+    "name": "Fix K-9",
+    "objective": "Repair the cybernetic dog K-9 so it can function properly again.",
+    "first_tasks": [
+      "Find K-9 and assess its malfunction.",
+      "Obtain the necessary parts to repair K-9.",
+      "Fix K-9 and restore its operational status."
+    ],
+    "first_task_locations": [
+      {
+        "name": "Navarro",
+        "description": "A secretive Enclave base where K-9, a cybernetic dog, is located."
+      }
+    ],
+    "quest_giver": {
+      "name": "K-9",
+      "description": "A highly intelligent cybernetic dog suffering from a mechanical issue.",
+      "location": "Navarro"
+    },
+    "reward": [
+      {
+        "name": "K-9 as a companion",
+        "description": "K-9 will join you as a follower after being repaired."
+      },
+      {
+        "name": "Experience Points",
+        "description": "Earn XP for successfully repairing K-9."
+      }
+    ],
+    "tools": [
+      "Electronic parts or a specific repair component.",
+      "High Repair skill or access to someone who can help."
+    ],
+    "description": "K-9, a cybernetic dog at Navarro, has developed a malfunction. If you can obtain the right parts and repair it, K-9 will become fully operational again and may even join you on your journey."
+  },
+  {
+    "name": "Retrieve the FOB from the base Commander",
+    "objective": "Steal or acquire the FOB from the Navarro base Commander to access the Enclave's Vertibird transport.",
+    "first_tasks": [
+      "Locate the base Commander at Navarro.",
+      "Obtain the FOB through theft, persuasion, or combat."
+    ],
+    "first_task_locations": [
+      {
+        "name": "Navarro",
+        "description": "A secretive Enclave base where the base Commander holds the necessary FOB."
+      }
+    ],
+    "quest_giver": {
+      "name": "No direct quest giver",
+      "description": "This is a self-initiated quest required for accessing the Enclave's facilities.",
+      "location": "Navarro"
+    },
+    "reward": [
+      {
+        "name": "FOB",
+        "description": "A crucial item needed to access the Enclave's oil rig."
+      },
+      {
+        "name": "Experience Points",
+        "description": "Earn XP for successfully retrieving the FOB."
+      }
+    ],
+    "tools": [
+      "Stealth skills for pickpocketing.",
+      "Persuasion skills to convince the Commander.",
+      "Strong weapons in case of direct confrontation."
+    ],
+    "description": "To proceed with infiltrating the Enclave, you need to retrieve the FOB from the base Commander at Navarro. This item is essential for gaining access to their advanced technology and transportation."
+  },
+  {
+    "name": "Retrieve Parts/Gain Access to Vault 15",
+    "objective": "Acquire the necessary parts from Vault 15 or negotiate access with the squatters.",
+    "first_tasks": [
+      "Travel to Vault 15 and locate the squatters.",
+      "Find a way to gain access—through negotiation, force, or alternative means."
+    ],
+    "first_task_locations": [
+      {
+        "name": "Vault 15",
+        "description": "A ruined Vault now occupied by squatters, who control access to its resources."
+      }
+    ],
+    "quest_giver": {
+      "name": "Tandi",
+      "description": "The President of NCR who seeks access to Vault 15 for expansion purposes.",
+      "location": "New California Republic"
+    },
+    "reward": [
+      {
+        "name": "Experience Points",
+        "description": "Earn XP for resolving the situation and gaining access to Vault 15."
+      },
+      {
+        "name": "Potential NCR Favor",
+        "description": "Completing the quest may improve relations with the NCR."
+      }
+    ],
+    "tools": [
+      "Speech skills for negotiation with the squatters.",
+      "Lockpicking skills to bypass security if necessary.",
+      "Combat readiness in case of hostile resistance."
+    ],
+    "description": "Vault 15 is under the control of squatters who are unwilling to give access freely. Tandi of the NCR wants access to its technology and resources. You must decide how to approach the situation—whether through diplomacy, stealth, or force—to retrieve the necessary parts and open the Vault."
+  },
+  {
+    "name": "Take Care of Officer Jack for Mira",
+    "objective": "Eliminate Officer Jack as per Mira's request.",
+    "first_tasks": [
+      "Locate Officer Jack in NCR.",
+      "Decide on an approach—direct combat, stealth, or persuasion."
+    ],
+    "first_task_locations": [
+      {
+        "name": "NCR",
+        "description": "Officer Jack is stationed in the New California Republic, patrolling the area."
+      }
+    ],
+    "quest_giver": {
+      "name": "Mira",
+      "description": "A shady character in NCR who wants Officer Jack gone for her own reasons.",
+      "location": "New California Republic"
+    },
+    "reward": [
+      {
+        "name": "Caps",
+        "description": "Mira will pay for completing the task."
+      },
+      {
+        "name": "Experience Points",
+        "description": "XP for eliminating or dealing with Officer Jack."
+      }
+    ],
+    "tools": [
+      "Stealth skills for an undetected kill.",
+      "Speech skills to possibly frame or remove Jack through non-violent means.",
+      "Combat readiness if engaging directly."
+    ],
+    "description": "Mira has a problem with Officer Jack and wants him gone. You can choose how to handle the situation—whether by taking him out, setting him up, or finding another way to deal with him."
+  },
+  {
+    "name": "Stop Officer Jack from Blowing Up the Power Plant",
+    "objective": "Prevent Officer Jack from sabotaging the power plant in NCR.",
+    "first_tasks": [
+      "Locate Officer Jack near the NCR power plant.",
+      "Decide on an approach—persuasion, combat, or stealth.",
+      "Disarm any explosives if already planted."
+    ],
+    "first_task_locations": [
+      {
+        "name": "NCR Power Plant",
+        "description": "Officer Jack is attempting to sabotage the plant, causing potential destruction."
+      }
+    ],
+    "quest_giver": {
+      "name": "NCR Officials",
+      "description": "Concerned about Officer Jack's rogue actions and seeking help to stop him.",
+      "location": "New California Republic"
+    },
+    "reward": [
+      {
+        "name": "Caps",
+        "description": "Payment from NCR for preventing disaster."
+      },
+      {
+        "name": "Experience Points",
+        "description": "XP for successfully stopping Officer Jack."
+      }
+    ],
+    "tools": [
+      "Speech skills to convince Officer Jack to stand down.",
+      "Explosives skill to safely disarm bombs if placed.",
+      "Combat readiness if a fight is unavoidable."
+    ],
+    "description": "Officer Jack has gone rogue and plans to blow up the NCR power plant. Your task is to intervene and stop him before he causes irreversible damage."
+  },
+  {
+    "name": "Complete Brahmin Drive",
+    "objective": "Safely escort a herd of brahmin to their destination while defending against potential threats.",
+    "first_tasks": [
+      "Meet the brahmin drive leader to receive instructions.",
+      "Ensure the herd is properly gathered before departure.",
+      "Defend the brahmin from raiders, wild animals, or other dangers along the way."
+    ],
+    "first_task_locations": [
+      {
+        "name": "Starting Point",
+        "description": "The initial location where the brahmin drive begins."
+      }
+    ],
+    "quest_giver": {
+      "name": "Brahmin Drive Leader",
+      "description": "Organizer of the brahmin drive, looking for reliable help to ensure a successful journey.",
+      "location": "Cattle Ranch or Town"
+    },
+    "reward": [
+      {
+        "name": "Caps",
+        "description": "Payment for successfully completing the drive."
+      },
+      {
+        "name": "Experience Points",
+        "description": "XP for safely escorting the brahmin."
+      }
+    ],
+    "tools": [
+      "Weapons to fight off raiders or wild animals.",
+      "Survival skills to navigate dangerous terrain.",
+      "Herding techniques to keep the brahmin in line."
+    ],
+    "description": "A caravan of brahmin needs to be moved to a new location, but the route is fraught with danger. Your task is to ensure the safe arrival of the herd while dealing with any threats along the way."
+  },
+  {
+    "name": "Kill Hubologist in NCR for Merk",
+    "objective": "Eliminate a Hubologist in NCR as requested by Merk.",
+    "first_tasks": [
+      "Meet with Merk to receive details on the target.",
+      "Locate the Hubologist in NCR.",
+      "Neutralize the target without attracting unnecessary attention."
+    ],
+    "first_task_locations": [
+      {
+        "name": "Merk's Hideout",
+        "description": "The location where Merk provides the assassination contract."
+      },
+      {
+        "name": "NCR",
+        "description": "The city where the Hubologist is located."
+      }
+    ],
+    "quest_giver": {
+      "name": "Merk",
+      "description": "A shady character offering payment for eliminating a Hubologist.",
+      "location": "Likely found in a bar or underworld hideout."
+    },
+    "reward": [
+      {
+        "name": "Caps",
+        "description": "Payment for completing the assassination."
+      },
+      {
+        "name": "Karma Change",
+        "description": "Negative karma for committing murder."
+      }
+    ],
+    "tools": [
+      "Stealth skills for avoiding detection.",
+      "Weapons to efficiently eliminate the target.",
+      "Escape plan to leave NCR safely after the job."
+    ],
+    "description": "Merk wants a Hubologist in NCR taken out, offering caps in return. The job requires tracking the target, eliminating them, and avoiding unnecessary complications."
+  },
+  {
+    "name": "Retrieve Papers from Dr. Henry",
+    "objective": "Obtain Dr. Henry's cyberdog research papers for Merk.",
+    "first_tasks": [
+      "Speak with Merk to receive the assignment.",
+      "Locate Dr. Henry in NCR Downtown.",
+      "Intimidate or persuade Dr. Henry to hand over the cyberdog papers."
+    ],
+    "first_task_locations": [
+      {
+        "name": "NCR Downtown",
+        "description": "The area where Dr. Henry's clinic is located."
+      }
+    ],
+    "quest_giver": {
+      "name": "Merk",
+      "description": "A crime boss in NCR seeking Dr. Henry's research.",
+      "location": "NCR"
+    },
+    "reward": [
+      {
+        "name": "Experience Points",
+        "description": "Earned for completing the quest.",
+        "amount": 1000
+      },
+      {
+        "name": "Caps",
+        "description": "Monetary reward provided by Merk.",
+        "amount": 1000
+      }
+    ],
+    "tools": [
+      "Speech skills to intimidate or persuade Dr. Henry.",
+      "Stealth skills if choosing to steal the papers.",
+      "Combat readiness in case of confrontation."
+    ],
+    "description": "Merk desires Dr. Henry's cyberdog research papers and tasks you with retrieving them. You can choose to intimidate, persuade, or stealthily acquire the documents from Dr. Henry in NCR Downtown."
+  },
+  {
+    "name": "Test Mutagenic Serum on a Super Mutant",
+    "objective": "Administer the experimental mutagenic serum to a super mutant.",
+    "first_tasks": [
+      "Obtain the mutagenic serum from Dr. Henry.",
+      "Travel to Broken Hills to find a super mutant test subject.",
+      "Convince a super mutant or forcibly administer the serum."
+    ],
+    "first_task_locations": [
+      {
+        "name": "NCR Downtown",
+        "description": "Dr. Henry's location where the serum is obtained."
+      },
+      {
+        "name": "Broken Hills",
+        "description": "A mining town inhabited by super mutants and ghouls."
+      }
+    ],
+    "quest_giver": {
+      "name": "Dr. Henry",
+      "description": "A scientist researching mutant physiology.",
+      "location": "NCR Downtown"
+    },
+    "reward": [
+      {
+        "name": "Experience Points",
+        "description": "Earned for successfully administering the serum.",
+        "amount": 1500
+      },
+      {
+        "name": "Caps",
+        "description": "A monetary reward from Dr. Henry for completing the task.",
+        "amount": 1500
+      }
+    ],
+    "tools": [
+      "Speech skills to convince a mutant to take the serum.",
+      "Combat skills if force is required.",
+      "Medical knowledge to ensure proper administration."
+    ],
+    "description": "Dr. Henry has developed a mutagenic serum and requires a test subject. He tasks you with finding a super mutant in Broken Hills willing to take the serum—or administering it by force."
+  },
+  {
+    "name": "Eliminate Mr. Bishop",
+    "objective": "Assassinate Mr. Bishop, the ruthless crime boss of New Reno.",
+    "first_tasks": [
+      "Gather intelligence on Mr. Bishop's location and security.",
+      "Infiltrate the Shark Club, where Bishop resides.",
+      "Neutralize Mr. Bishop without being overwhelmed by his guards."
+    ],
+    "first_task_locations": [
+      {
+        "name": "Shark Club",
+        "description": "A high-class casino and the headquarters of the Bishop crime family in New Reno."
+      }
+    ],
+    "quest_giver": {
+      "name": "Various (depending on prior actions)",
+      "description": "Several factions or individuals may want Bishop eliminated, or the player may act on personal motives.",
+      "location": "Varies"
+    },
+    "reward": [
+      {
+        "name": "Experience Points",
+        "description": "Earned for successfully eliminating Mr. Bishop.",
+        "amount": 2000
+      },
+      {
+        "name": "Caps",
+        "description": "Loot from Bishop's corpse or as payment from an employer.",
+        "amount": "Varies (can loot up to 1000 caps from Bishop's safe)"
+      },
+      {
+        "name": "Weapons and Equipment",
+        "description": "Potential loot from Bishop's guards and safe."
+      }
+    ],
+    "tools": [
+      "Stealth skills to avoid unnecessary combat.",
+      "Lockpicking to access Bishop's quarters undetected.",
+      "High combat proficiency if taking a direct approach."
+    ],
+    "description": "Mr. Bishop, one of the most powerful crime bosses in New Reno, has made many enemies. Whether for personal revenge, payment, or factional interest, you have the chance to eliminate him. The Shark Club is well-guarded, so careful planning is necessary."
+  },
+  {
+    "name": "Deliver Westin's Holodisk to Lynette in Vault City",
+    "objective": "Deliver a holodisk containing important information from Roger Westin to First Citizen Lynette in Vault City.",
+    "first_tasks": [
+      "Obtain the holodisk from Roger Westin in NCR.",
+      "Travel to Vault City and locate First Citizen Lynette.",
+      "Deliver the holodisk to Lynette and receive your reward."
+    ],
+    "first_task_locations": [
+      {
+        "name": "Westin Ranch",
+        "description": "Roger Westin's estate in NCR, where you obtain the holodisk."
+      },
+      {
+        "name": "Vault City",
+        "description": "A well-structured and orderly settlement where First Citizen Lynette resides."
+      }
+    ],
+    "quest_giver": {
+      "name": "Roger Westin",
+      "description": "A wealthy rancher and politician in NCR who wants to pass information to Vault City.",
+      "location": "NCR"
+    },
+    "reward": [
+      {
+        "name": "Experience Points",
+        "description": "Earned for successfully delivering the holodisk.",
+        "amount": 2500
+      },
+      {
+        "name": "Caps",
+        "description": "Payment from Lynette upon completion.",
+        "amount": 500
+      },
+      {
+        "name": "Vault City Reputation",
+        "description": "Increased standing with Vault City for completing the task."
+      }
+    ],
+    "tools": [
+      "Diplomatic skills to handle Lynette’s attitude.",
+      "Fast travel options to reach Vault City quickly."
+    ],
+    "description": "Roger Westin, an influential rancher in NCR, entrusts you with a holodisk containing valuable information for Vault City’s leadership. Your task is to ensure its safe delivery to First Citizen Lynette, who may reward you upon receipt."
+  },
+  {
+    "name": "Get the Map from the NCR Rangers for Vortis the Slaver",
+    "objective": "Retrieve a map from the NCR Rangers and deliver it to Vortis, a slaver in NCR.",
+    "first_tasks": [
+      "Locate the NCR Rangers and find a way to acquire the map.",
+      "Steal, persuade, or fight to obtain the map.",
+      "Return the map to Vortis in NCR for your reward."
+    ],
+    "first_task_locations": [
+      {
+        "name": "NCR Ranger Safehouse",
+        "description": "A hidden location where the NCR Rangers store sensitive information, including the map."
+      },
+      {
+        "name": "Vortis' Hideout",
+        "description": "A slaver base in NCR where Vortis operates."
+      }
+    ],
+    "quest_giver": {
+      "name": "Vortis",
+      "description": "A known slaver in NCR who wants to acquire the map for his own purposes.",
+      "location": "NCR"
+    },
+    "reward": [
+      {
+        "name": "Caps",
+        "description": "Payment from Vortis upon delivering the map.",
+        "amount": 500
+      },
+      {
+        "name": "Slaver Reputation",
+        "description": "Increased standing with slavers for helping Vortis."
+      }
+    ],
+    "tools": [
+      "Stealth or Lockpicking to retrieve the map undetected.",
+      "Speech or Barter to convince someone to hand it over.",
+      "Combat skills if fighting is necessary."
+    ],
+    "description": "Vortis, a slaver in NCR, wants a map currently held by the NCR Rangers. He tasks you with retrieving it through any means necessary, offering a financial reward upon completion. Be prepared for potential conflict with the Rangers if discovered."
+  },
+  {
+    "name": "Free the Slaves in the Slave Pen for the Rangers",
+    "objective": "Rescue the enslaved individuals from the slaver pen and return them to the NCR Rangers.",
+    "first_tasks": [
+      "Locate the slave pen controlled by slavers.",
+      "Find a way to unlock the pen (stealth, persuasion, or combat).",
+      "Escort the freed slaves to safety or inform the NCR Rangers of their escape."
+    ],
+    "first_task_locations": [
+      {
+        "name": "Slave Pen",
+        "description": "A heavily guarded area where captured individuals are kept by slavers."
+      },
+      {
+        "name": "NCR Rangers Outpost",
+        "description": "The headquarters where the NCR Rangers coordinate anti-slavery efforts."
+      }
+    ],
+    "quest_giver": {
+      "name": "NCR Rangers",
+      "description": "A faction dedicated to justice and anti-slavery operations.",
+      "location": "NCR"
+    },
+    "reward": [
+      {
+        "name": "Caps",
+        "description": "A payment for successfully freeing the slaves.",
+        "amount": 1000
+      },
+      {
+        "name": "NCR Ranger Reputation",
+        "description": "Increased standing with the NCR Rangers for aiding their cause."
+      },
+      {
+        "name": "Karma Boost",
+        "description": "A positive increase in karma for taking a just action."
+      }
+    ],
+    "tools": [
+      "Lockpicking to unlock the pen without detection.",
+      "Speech to persuade the guards to release the slaves.",
+      "Combat skills if force is required."
+    ],
+    "description": "The NCR Rangers have tasked you with infiltrating a slaver compound and freeing the captives. You can approach the task through stealth, persuasion, or combat, but be mindful of the risks involved. Completing this quest strengthens your ties with the NCR and boosts your karma."
+  },
+  {
+    "name": "Deliver Hubologist's Field Report to AHS-9 in San Francisco",
+    "objective": "Take the Hubologist's field report and deliver it to AHS-9 in San Francisco.",
+    "first_tasks": [
+      "Obtain the Hubologist's field report.",
+      "Travel to San Francisco.",
+      "Locate AHS-9 within the Hubologist compound.",
+      "Hand over the field report to complete the delivery."
+    ],
+    "first_task_locations": [
+      {
+        "name": "Hubologist Camp",
+        "description": "A settlement where the Hubologists operate and collect data for their cause."
+      },
+      {
+        "name": "San Francisco",
+        "description": "A city controlled by various factions, including the Hubologists."
+      }
+    ],
+    "quest_giver": {
+      "name": "Hubologist Representative",
+      "description": "A Hubologist tasked with gathering reports on their activities.",
+      "location": "Hubologist Camp"
+    },
+    "reward": [
+      {
+        "name": "Caps",
+        "description": "A payment for successfully delivering the report.",
+        "amount": 500
+      },
+      {
+        "name": "Hubologist Reputation",
+        "description": "Increased standing with the Hubologists."
+      }
+    ],
+    "tools": [
+      "Travel gear to safely navigate the wasteland.",
+      "Speech to ensure smooth interactions with AHS-9."
+    ],
+    "description": "The Hubologists need a field report delivered to their leader, AHS-9, in San Francisco. This task is simple but may have political implications depending on your alliances."
+  },
+  {
+    "name": "Stop Brahmin Raids",
+    "objective": "Investigate and put an end to the brahmin raids plaguing the local ranchers.",
+    "first_tasks": [
+      "Speak with the ranchers to gather information about the raids.",
+      "Track down the source of the attacks.",
+      "Deal with the raiders or creatures responsible for the raids.",
+      "Report back to the ranchers after resolving the problem."
+    ],
+    "first_task_locations": [
+      {
+        "name": "Rancher Settlement",
+        "description": "A small community relying on brahmin herding for survival."
+      },
+      {
+        "name": "Raiders' Hideout",
+        "description": "A potential location where raiders may be organizing the attacks."
+      }
+    ],
+    "quest_giver": {
+      "name": "Concerned Rancher",
+      "description": "A local brahmin herder worried about the continuous attacks.",
+      "location": "Rancher Settlement"
+    },
+    "reward": [
+      {
+        "name": "Caps",
+        "description": "Payment for stopping the raids.",
+        "amount": 1000
+      },
+      {
+        "name": "Rancher Reputation",
+        "description": "Increased standing with the local ranchers."
+      },
+      {
+        "name": "Possibly Loot",
+        "description": "If raiders are involved, their supplies may be up for grabs."
+      }
+    ],
+    "tools": [
+      "Weapons for combat if raiders or creatures are responsible.",
+      "Speech for negotiation in case an alternative solution is viable.",
+      "Tracking skills to find the source of the raids."
+    ],
+    "description": "The local ranchers are struggling with repeated attacks on their brahmin herds. Your task is to investigate, find out who or what is responsible, and put an end to the raids."
+  },
+  {
+    "name": "Recover Your Stolen Car",
+    "objective": "Track down and retrieve your stolen vehicle.",
+    "first_tasks": [
+      "Investigate where the car was last seen.",
+      "Gather information from locals or witnesses.",
+      "Find the thieves and confront them.",
+      "Recover the car through negotiation or force."
+    ],
+    "first_task_locations": [
+      {
+        "name": "Last Known Location",
+        "description": "The place where your car was stolen, possibly leaving clues behind."
+      },
+      {
+        "name": "Thieves' Hideout",
+        "description": "The likely location where the thieves have taken the vehicle."
+      }
+    ],
+    "quest_giver": {
+      "name": "Player",
+      "description": "Your own car has been stolen, and it's up to you to get it back."
+    },
+    "reward": [
+      {
+        "name": "Recovered Car",
+        "description": "Your stolen car is returned, allowing you to travel quickly again."
+      },
+      {
+        "name": "Caps",
+        "description": "Potential loot from dealing with the thieves.",
+        "amount": 500
+      },
+      {
+        "name": "Reputation",
+        "description": "Your reputation in the area may change depending on how you handle the situation."
+      }
+    ],
+    "tools": [
+      "Lockpicks or mechanical skills to bypass any security on the car.",
+      "Speech skills for negotiating with the thieves.",
+      "Weapons in case of a hostile confrontation."
+    ],
+    "description": "Someone has stolen your vehicle, leaving you stranded. You must track down the culprits and reclaim what is rightfully yours."
+  },
+  {
+    "name": "Find Out Who Was Responsible for Richard Wright's Overdose",
+    "objective": "Investigate the circumstances surrounding Richard Wright's overdose and uncover the responsible party.",
+    "first_tasks": [
+      "Speak with the Wright family to gather initial details.",
+      "Investigate the location where Richard was found.",
+      "Question possible witnesses or suspects.",
+      "Analyze the drugs found at the scene for clues.",
+      "Report your findings to the Wright family."
+    ],
+    "first_task_locations": [
+      {
+        "name": "Wright Family Residence",
+        "description": "The home of the Wrights, where you can speak with them for details on Richard’s overdose."
+      },
+      {
+        "name": "Overdose Scene",
+        "description": "The place where Richard was found, which may hold crucial evidence."
+      },
+      {
+        "name": "Junkie Hangouts",
+        "description": "Areas where drug users and dealers might provide leads."
+      }
+    ],
+    "quest_giver": {
+      "name": "Orville Wright",
+      "description": "The head of the Wright family, determined to find out the truth behind his son's death."
+    },
+    "reward": [
+      {
+        "name": "Caps",
+        "description": "A monetary reward for uncovering the truth.",
+        "amount": 1000
+      },
+      {
+        "name": "Wright Family Favor",
+        "description": "Gaining trust and influence with the Wrights, which could be useful later."
+      }
+    ],
+    "tools": [
+      "Investigation and perception skills to analyze clues.",
+      "Speech and charisma to interrogate suspects and witnesses.",
+      "Science or medical knowledge to examine the drugs involved."
+    ],
+    "description": "Richard Wright, a member of the Wright family, has died of an apparent overdose. However, his family suspects foul play. You must investigate and uncover who was responsible for his death."
+  },
+  {
+    "name": "Suspect: Jagged Jimmy J",
+    "objective": "Determine whether Jagged Jimmy J was involved in Richard Wright’s overdose.",
+    "first_tasks": [
+      "Find and question Jagged Jimmy J about his possible involvement.",
+      "Check Jimmy J’s drug supply for any matches with the substance found at the overdose scene.",
+      "Investigate any connections between Jimmy J and Richard Wright.",
+      "Report findings back to the Wright family."
+    ],
+    "first_task_locations": [
+      {
+        "name": "Jagged Jimmy J's Hideout",
+        "description": "A known dealer’s spot where Jimmy J conducts business."
+      },
+      {
+        "name": "Overdose Scene",
+        "description": "Revisit for any overlooked evidence linking Jimmy J to the case."
+      },
+      {
+        "name": "Wright Family Residence",
+        "description": "Return here to present your findings."
+      }
+    ],
+    "quest_giver": {
+      "name": "Orville Wright",
+      "description": "The head of the Wright family, intent on finding his son's killer."
+    },
+    "reward": [
+      {
+        "name": "Caps",
+        "description": "A monetary reward for uncovering the truth.",
+        "amount": 500
+      },
+      {
+        "name": "Wright Family Favor",
+        "description": "Further influence with the Wrights, which may be beneficial."
+      }
+    ],
+    "tools": [
+      "Speech and intimidation skills to pressure Jimmy J.",
+      "Science or medical knowledge to analyze drug samples.",
+      "Perception to notice any inconsistencies in Jimmy J’s statements."
+    ],
+    "description": "Jagged Jimmy J is a known drug dealer and a prime suspect in Richard Wright’s overdose case. Investigate his involvement and determine whether he was responsible."
+  },
+  {
+    "name": "Suspect: Jules",
+    "objective": "Investigate whether Jules was responsible for Richard Wright’s overdose.",
+    "first_tasks": [
+      "Find and question Jules about his involvement in the overdose.",
+      "Check Jules' drug supply for matches with the substance found at the scene.",
+      "Gather testimonies from witnesses regarding Jules' activities.",
+      "Report your findings to the Wright family."
+    ],
+    "first_task_locations": [
+      {
+        "name": "Jules' Hangout",
+        "description": "A common gathering spot where Jules is often seen dealing."
+      },
+      {
+        "name": "Overdose Scene",
+        "description": "Reexamine for any evidence linking Jules to the case."
+      },
+      {
+        "name": "Wright Family Residence",
+        "description": "Return to Orville Wright with your findings."
+      }
+    ],
+    "quest_giver": {
+      "name": "Orville Wright",
+      "description": "Leader of the Wright family, seeking justice for his son's death."
+    },
+    "reward": [
+      {
+        "name": "Caps",
+        "description": "A monetary reward for uncovering the truth.",
+        "amount": 500
+      },
+      {
+        "name": "Wright Family Favor",
+        "description": "Increased standing with the Wrights, granting potential future benefits."
+      }
+    ],
+    "tools": [
+      "Speech or Barter to persuade Jules into talking.",
+      "Science or Medicine to analyze drug samples.",
+      "Perception to detect inconsistencies in Jules’ story."
+    ],
+    "description": "Jules is a known figure in the New Reno drug scene and a potential suspect in Richard Wright’s overdose. Investigate his involvement and determine the truth."
+  },
+  {
+    "name": "Suspect: Lil' Jesus Mordino",
+    "objective": "Investigate whether Lil' Jesus Mordino was responsible for Richard Wright’s overdose.",
+    "first_tasks": [
+      "Find and question Lil' Jesus Mordino about his involvement in the overdose.",
+      "Check if the Mordino family has been distributing the Jet that killed Richard Wright.",
+      "Gather testimonies from individuals who may have seen Lil' Jesus selling Jet.",
+      "Report your findings to Orville Wright."
+    ],
+    "first_task_locations": [
+      {
+        "name": "Mordino's Casino",
+        "description": "A known hangout of Lil' Jesus Mordino, where he conducts business."
+      },
+      {
+        "name": "Overdose Scene",
+        "description": "Reexamine for any signs connecting the Mordino Jet supply to Richard Wright."
+      },
+      {
+        "name": "Wright Family Residence",
+        "description": "Return to Orville Wright with your findings."
+      }
+    ],
+    "quest_giver": {
+      "name": "Orville Wright",
+      "description": "Leader of the Wright family, seeking justice for his son's death."
+    },
+    "reward": [
+      {
+        "name": "Caps",
+        "description": "A monetary reward for uncovering the truth.",
+        "amount": 500
+      },
+      {
+        "name": "Wright Family Favor",
+        "description": "Increased standing with the Wrights, granting potential future benefits."
+      }
+    ],
+    "tools": [
+      "Speech or Barter to persuade Lil' Jesus Mordino into talking.",
+      "Science or Medicine to analyze Jet samples.",
+      "Perception to detect inconsistencies in Mordino’s Jet distribution."
+    ],
+    "description": "Lil' Jesus Mordino, a known dealer from the Mordino family, is a suspect in Richard Wright’s overdose. Investigate his potential involvement and uncover the truth."
+  },
+  {
+    "name": "Suspect: Renesco",
+    "objective": "Investigate whether Renesco was responsible for Richard Wright’s overdose.",
+    "first_tasks": [
+      "Find and question Renesco about his involvement in the overdose.",
+      "Check if Renesco supplied the Jet that killed Richard Wright.",
+      "Search Renesco’s shop for evidence linking him to the tainted Jet.",
+      "Report your findings to Orville Wright."
+    ],
+    "first_task_locations": [
+      {
+        "name": "Renesco's Shop",
+        "description": "A general store in New Reno where Renesco sells various drugs and supplies."
+      },
+      {
+        "name": "Overdose Scene",
+        "description": "Reexamine for any evidence connecting Renesco’s products to Richard Wright’s death."
+      },
+      {
+        "name": "Wright Family Residence",
+        "description": "Return to Orville Wright with your findings."
+      }
+    ],
+    "quest_giver": {
+      "name": "Orville Wright",
+      "description": "Leader of the Wright family, seeking justice for his son's death."
+    },
+    "reward": [
+      {
+        "name": "Caps",
+        "description": "A monetary reward for uncovering the truth.",
+        "amount": 500
+      },
+      {
+        "name": "Wright Family Favor",
+        "description": "Increased standing with the Wrights, granting potential future benefits."
+      }
+    ],
+    "tools": [
+      "Speech or Barter to persuade Renesco into revealing information.",
+      "Science or Medicine to analyze Jet samples.",
+      "Stealth or Lockpick to search Renesco’s shop discreetly."
+    ],
+    "description": "Renesco, a shopkeeper in New Reno known for selling drugs, is a suspect in Richard Wright’s overdose. Investigate his involvement and uncover the truth."
+  },
+  {
+    "name": "Find a Way into the Sierra Army Base",
+    "objective": "Gain access to the heavily fortified Sierra Army Depot.",
+    "first_tasks": [
+      "Locate the Sierra Army Depot on your map.",
+      "Scout the perimeter to identify potential entry points.",
+      "Disable or bypass the automated turrets and security measures.",
+      "Find a key, code, or method to unlock the entrance."
+    ],
+    "first_task_locations": [
+      {
+        "name": "Sierra Army Depot Perimeter",
+        "description": "A high-security military facility with automated defenses."
+      },
+      {
+        "name": "New Reno",
+        "description": "Rumors suggest some individuals here know about the depot’s access codes."
+      },
+      {
+        "name": "Vault City",
+        "description": "Possible location to find hacking tools or information on pre-war military bases."
+      }
+    ],
+    "quest_giver": {
+      "name": "Self-Initiated",
+      "description": "No direct quest giver—this is an optional exploration-based quest."
+    },
+    "reward": [
+      {
+        "name": "Access to Sierra Army Depot",
+        "description": "Entry into the base, allowing you to loot valuable pre-war technology and weaponry."
+      },
+      {
+        "name": "Cybernetic Enhancements",
+        "description": "Potential opportunity to obtain cybernetic implants."
+      },
+      {
+        "name": "Loot",
+        "description": "Chance to find rare weapons, armor, and military equipment."
+      }
+    ],
+    "tools": [
+      "Science or Lockpick to hack security systems and bypass doors.",
+      "Repair to disable turrets and other automated defenses.",
+      "Explosives to force entry if no other option is available."
+    ],
+    "description": "The Sierra Army Depot is a well-guarded pre-war military base rumored to contain powerful technology. Find a way inside and uncover its secrets."
+  },
+  {
+    "name": "Track Down Pretty Boy Lloyd, Recover the Stolen Money, and Make an Example of Him",
+    "objective": "Locate Pretty Boy Lloyd, retrieve the money he stole from Bishop, and deal with him as you see fit.",
+    "first_tasks": [
+      "Gather information on Pretty Boy Lloyd’s whereabouts.",
+      "Confront him and demand the stolen money.",
+      "Decide his fate: let him go, kill him, or turn him in."
+    ],
+    "first_task_locations": [
+      {
+        "name": "New Reno",
+        "description": "Pretty Boy Lloyd is hiding somewhere in New Reno."
+      },
+      {
+        "name": "Bishop's Casino",
+        "description": "The Bishop family will provide details about Lloyd’s theft."
+      }
+    ],
+    "quest_giver": {
+      "name": "John Bishop",
+      "description": "Leader of the Bishop family in New Reno, seeking revenge on Pretty Boy Lloyd."
+    },
+    "reward": [
+      {
+        "name": "Cash Reward",
+        "description": "Receive $1,000 from Bishop for completing the task."
+      },
+      {
+        "name": "Option to Keep the Money",
+        "description": "If you choose not to return the money, you can keep $2,000 for yourself."
+      },
+      {
+        "name": "Bishop Family Favor",
+        "description": "Completing the quest as instructed may improve your standing with the Bishop family."
+      }
+    ],
+    "tools": [
+      "Speech to persuade Lloyd to hand over the money.",
+      "Sneak to pickpocket or stealthily retrieve the cash.",
+      "Guns or melee weapons if you decide to kill him."
+    ],
+    "description": "John Bishop has tasked you with hunting down Pretty Boy Lloyd, a thief who stole from him. Find Lloyd, retrieve the money, and decide his fate."
+  },
+  {
+    "name": "Go Visit Renesco the Rocketman and Collect Mr. Salvatore's Tribute of $1000",
+    "objective": "Visit Renesco and collect $1000 on behalf of Mr. Salvatore.",
+    "first_tasks": [
+      "Find Renesco the Rocketman in New Reno.",
+      "Demand Mr. Salvatore's tribute of $1000 from Renesco.",
+      "Decide how to handle the situation if he refuses to pay."
+    ],
+    "first_task_locations": [
+      {
+        "name": "Renesco's Drug Store",
+        "description": "Renesco operates his business in New Reno."
+      }
+    ],
+    "quest_giver": {
+      "name": "Mr. Salvatore",
+      "description": "Crime boss in New Reno who expects payment from Renesco."
+    },
+    "reward": [
+      {
+        "name": "Cash Reward",
+        "description": "Earn $100 for delivering the tribute."
+      },
+      {
+        "name": "Option to Keep the Money",
+        "description": "You can choose to keep the full $1000 instead of delivering it."
+      },
+      {
+        "name": "Favor with Salvatore Family",
+        "description": "Successfully completing the quest increases your standing with Mr. Salvatore."
+      }
+    ],
+    "tools": [
+      "Speech to persuade Renesco to pay.",
+      "Barter to negotiate the amount.",
+      "Guns or melee weapons if intimidation is necessary."
+    ],
+    "description": "Mr. Salvatore demands a tribute from Renesco. Your task is to collect $1000 from Renesco and deliver it to Salvatore, or decide to keep the money for yourself."
+  },
+  {
+    "name": "Help Guard a Secret Transaction Taking Place in the Desert",
+    "objective": "Escort and protect a group conducting a covert exchange in the desert.",
+    "first_tasks": [
+      "Meet the contact in New Reno to receive instructions.",
+      "Travel to the designated location in the desert.",
+      "Ensure the transaction proceeds without interference."
+    ],
+    "first_task_locations": [
+      {
+        "name": "New Reno",
+        "description": "Meet the quest giver in the city to learn about the mission."
+      },
+      {
+        "name": "Desert Meeting Spot",
+        "description": "The secret exchange takes place here, requiring protection from possible threats."
+      }
+    ],
+    "quest_giver": {
+      "name": "Salvatore Family",
+      "description": "A powerful crime family in New Reno, orchestrating the secret deal."
+    },
+    "reward": [
+      {
+        "name": "Cash Reward",
+        "description": "Earn $1500 for successfully protecting the transaction."
+      },
+      {
+        "name": "Additional Payment",
+        "description": "Earn an extra $500 if no harm comes to any of Salvatore's men."
+      },
+      {
+        "name": "Favor with Salvatore Family",
+        "description": "Successfully completing the quest increases your reputation with the Salvatore family."
+      }
+    ],
+    "tools": [
+      "Weapons for combat in case of an ambush.",
+      "Sneak to scout for potential threats.",
+      "Speech to negotiate if unexpected parties arrive."
+    ],
+    "description": "You are tasked with guarding a secret exchange in the desert, ensuring the deal goes smoothly and fending off any threats that arise."
+  },
+  {
+    "name": "Find Some Endorphin Blockers to Make a Cure for Jet",
+    "objective": "Retrieve endorphin blockers to help create a cure for Jet addiction.",
+    "first_tasks": [
+      "Talk to Myron in New Reno to learn about the cure.",
+      "Locate a source of endorphin blockers.",
+      "Deliver the blockers to the appropriate researcher."
+    ],
+    "first_task_locations": [
+      {
+        "name": "New Reno",
+        "description": "Speak with Myron, the creator of Jet, to learn about the potential cure."
+      },
+      {
+        "name": "Vault City or Another Medical Facility",
+        "description": "Find a source of endorphin blockers needed for the cure."
+      }
+    ],
+    "quest_giver": {
+      "name": "Doctor or Concerned Citizen",
+      "description": "A person looking for a way to combat the Jet epidemic."
+    },
+    "reward": [
+      {
+        "name": "Cash Reward",
+        "description": "Earn $1000 for retrieving the blockers."
+      },
+      {
+        "name": "Reputation Boost",
+        "description": "Gaining favor in Vault City or another settlement affected by Jet addiction."
+      },
+      {
+        "name": "Potential Access to More Information on Jet",
+        "description": "Uncover additional details about the drug's origins and effects."
+      }
+    ],
+    "tools": [
+      "Speech to persuade people to provide the blockers.",
+      "Doctor skill to understand the effects and potential sources.",
+      "Stealth if acquiring the blockers through non-conventional means."
+    ],
+    "description": "Jet addiction has become a major issue, and you have the opportunity to help create a cure by locating endorphin blockers."
+  },
+  {
+    "name": "Bust Up Wright's Still",
+    "objective": "Destroy the Wright family's moonshine still.",
+    "first_tasks": [
+      "Locate the Wright family's still.",
+      "Disable or destroy the still using explosives or another method.",
+      "Report back to the quest giver."
+    ],
+    "first_task_locations": [
+      {
+        "name": "New Reno",
+        "description": "The Wright family operates in New Reno, where their still is located."
+      }
+    ],
+    "quest_giver": {
+      "name": "Salvatore Family or Mordino Family",
+      "description": "A rival family looking to weaken the Wrights' influence."
+    },
+    "reward": [
+      {
+        "name": "Cash Reward",
+        "description": "Earn $500 for successfully sabotaging the still."
+      },
+      {
+        "name": "Reputation Boost",
+        "description": "Gain favor with the rival crime family."
+      }
+    ],
+    "tools": [
+      "Explosives or another method to destroy the still.",
+      "Stealth if avoiding detection is necessary.",
+      "Speech to convince someone to let you near the still."
+    ],
+    "description": "The Wright family operates a moonshine still in New Reno. A rival faction wants it destroyed to weaken their influence, and you have been tasked with the job."
+  },
+  {
+    "name": "Assassinate Westin in NCR Without Making It Look Like a Murder",
+    "objective": "Eliminate Roger Westin while ensuring his death appears natural.",
+    "first_tasks": [
+      "Gather information on Westin’s habits and routines.",
+      "Find or acquire a subtle method to kill Westin (poison, staged accident, etc.).",
+      "Execute the assassination without raising suspicion.",
+      "Report back to the quest giver."
+    ],
+    "first_task_locations": [
+      {
+        "name": "NCR",
+        "description": "Westin resides in NCR, making it the primary location for carrying out the mission."
+      }
+    ],
+    "quest_giver": {
+      "name": "Mordino Family or Bishop Family",
+      "description": "A crime family with an interest in removing Westin discreetly."
+    },
+    "reward": [
+      {
+        "name": "Cash Reward",
+        "description": "Earn $1000 for successfully completing the assassination."
+      },
+      {
+        "name": "Reputation Boost",
+        "description": "Increased standing with the crime family that issued the contract."
+      }
+    ],
+    "tools": [
+      "Poison to create a natural-looking death.",
+      "Knowledge of Westin’s schedule to plan an 'accident'.",
+      "Stealth and deception to avoid suspicion."
+    ],
+    "description": "Roger Westin is a powerful figure in NCR, but someone wants him eliminated in a way that doesn't point to foul play. You must find a discreet way to take him out."
+  },
+  {
+    "name": "Murder Carlson in NCR",
+    "objective": "Eliminate Westin Carlson, a high-ranking official in NCR, by any means.",
+    "first_tasks": [
+      "Locate Carlson's residence and assess security measures.",
+      "Choose a method for assassination (direct attack, poison, explosives, or stealth).",
+      "Execute the assassination without getting caught.",
+      "Report back to the quest giver."
+    ],
+    "first_task_locations": [
+      {
+        "name": "NCR",
+        "description": "Carlson is heavily guarded in NCR, making infiltration a challenge."
+      }
+    ],
+    "quest_giver": {
+      "name": "Crime Syndicate or Rival Political Faction",
+      "description": "A group seeking to remove Carlson from power."
+    },
+    "reward": [
+      {
+        "name": "Cash Reward",
+        "description": "Earn $5000 for a successful assassination."
+      },
+      {
+        "name": "Reputation Boost",
+        "description": "Increased standing with the faction that ordered the hit."
+      }
+    ],
+    "tools": [
+      "Stealth for infiltration without raising alarms.",
+      "Weapons or explosives for a direct attack.",
+      "Poison for a discreet elimination."
+    ],
+    "description": "Westin Carlson is a well-guarded official in NCR. You have been hired to eliminate him, but security is tight. Plan carefully to avoid detection."
+  },
+  {
+    "name": "Deliver ten Cat's Paw magazines to Miss Kitty",
+    "objective": "Find and deliver ten Cat’s Paw magazines to Miss Kitty in New Reno.",
+    "first_tasks": [
+      "Locate and collect ten Cat’s Paw magazines.",
+      "Travel to New Reno and find Miss Kitty.",
+      "Deliver the magazines to her."
+    ],
+    "first_task_locations": [
+      {
+        "name": "Various locations",
+        "description": "Cat’s Paw magazines can be found in multiple locations, including merchants and lootable containers."
+      },
+      {
+        "name": "Miss Kitty’s establishment in New Reno",
+        "description": "Miss Kitty is located in the Cat’s Paw building in New Reno."
+      }
+    ],
+    "quest_giver": {
+      "name": "Miss Kitty",
+      "description": "The owner of the Cat’s Paw establishment in New Reno."
+    },
+    "reward": [
+      {
+        "name": "Caps Reward",
+        "description": "Earn $500 for completing the delivery."
+      },
+      {
+        "name": "Reputation Boost",
+        "description": "Increased reputation in New Reno."
+      }
+    ],
+    "tools": [
+      "Trading skills to acquire the magazines more efficiently.",
+      "Barter with merchants or search lootable areas for the magazines."
+    ],
+    "description": "Miss Kitty in New Reno wants a collection of Cat’s Paw magazines. Your task is to find and deliver ten copies to her."
+  },
+  {
+    "name": "Deliver a laser pistol to Eldridge",
+    "objective": "Find and deliver a laser pistol to Eldridge at New Reno Arms.",
+    "first_tasks": [
+      "Acquire a laser pistol through purchase, looting, or barter.",
+      "Travel to New Reno and locate Eldridge’s shop, New Reno Arms.",
+      "Deliver the laser pistol to Eldridge."
+    ],
+    "first_task_locations": [
+      {
+        "name": "Various locations",
+        "description": "Laser pistols can be found as loot, purchased from merchants, or taken from defeated enemies."
+      },
+      {
+        "name": "New Reno Arms",
+        "description": "Eldridge's weapon shop is in New Reno, where he buys and sells weapons."
+      }
+    ],
+    "quest_giver": {
+      "name": "Eldridge",
+      "description": "A weapons dealer in New Reno who runs New Reno Arms."
+    },
+    "reward": [
+      {
+        "name": "Caps Reward",
+        "description": "Earn $1000 upon successful delivery."
+      },
+      {
+        "name": "Discount on Future Purchases",
+        "description": "Potential discount when trading with Eldridge in the future."
+      }
+    ],
+    "tools": [
+      "Barter or trade to acquire a laser pistol more efficiently.",
+      "Combat skills if obtaining the pistol from enemies."
+    ],
+    "description": "Eldridge at New Reno Arms needs a laser pistol. Your task is to acquire one and deliver it to him for a reward."
+  },
+  {
+    "name": "Deliver Big Jesus's package to Ramirez at the Stables",
+    "objective": "Take a package from Big Jesus Mordino and deliver it to Ramirez at the Stables.",
+    "first_tasks": [
+      "Speak to Big Jesus Mordino at the Mordino Casino in New Reno.",
+      "Receive the package from Big Jesus.",
+      "Travel to the Stables outside New Reno.",
+      "Find Ramirez and hand over the package."
+    ],
+    "first_task_locations": [
+      {
+        "name": "Mordino Casino",
+        "description": "Big Jesus Mordino operates from his casino in New Reno."
+      },
+      {
+        "name": "The Stables",
+        "description": "A location outside New Reno where Jet production takes place."
+      }
+    ],
+    "quest_giver": {
+      "name": "Big Jesus Mordino",
+      "description": "Leader of the Mordino crime family in New Reno."
+    },
+    "reward": [
+      {
+        "name": "Caps Reward",
+        "description": "Earn $500 upon successful delivery."
+      },
+      {
+        "name": "Mordino Reputation",
+        "description": "Increased standing with the Mordino family."
+      }
+    ],
+    "tools": [
+      "Speech or Barter skills may help if complications arise.",
+      "Weapons in case of ambush on the way."
+    ],
+    "description": "Big Jesus Mordino needs a package delivered to Ramirez at the Stables. Complete the delivery to earn money and reputation with the Mordino family."
+  },
+  {
+    "name": "Collect tribute from the Corsican Brothers",
+    "objective": "Retrieve a tribute payment from the Corsican Brothers on behalf of Big Jesus Mordino.",
+    "first_tasks": [
+      "Speak to Big Jesus Mordino at the Mordino Casino in New Reno.",
+      "Travel to the Corsican Brothers' establishment.",
+      "Demand the tribute payment from the Corsican Brothers.",
+      "Return to Big Jesus Mordino with the payment."
+    ],
+    "first_task_locations": [
+      {
+        "name": "Mordino Casino",
+        "description": "Big Jesus Mordino's base of operations in New Reno."
+      },
+      {
+        "name": "Corsican Brothers' establishment",
+        "description": "A business in New Reno run by the Corsican Brothers."
+      }
+    ],
+    "quest_giver": {
+      "name": "Big Jesus Mordino",
+      "description": "Leader of the Mordino crime family in New Reno."
+    },
+    "reward": [
+      {
+        "name": "Caps Reward",
+        "description": "Earn $500 for successfully collecting the tribute."
+      },
+      {
+        "name": "Mordino Reputation",
+        "description": "Increased standing with the Mordino family."
+      }
+    ],
+    "tools": [
+      "Speech or Barter skills may help in negotiations.",
+      "Weapons in case the Corsican Brothers resist."
+    ],
+    "description": "Big Jesus Mordino requires a tribute payment from the Corsican Brothers. Retrieve the money and return it to him for a reward."
+  },
+  {
+    "name": "Assassinate Boss Salvatore for Big Jesus Mordino",
+    "objective": "Eliminate Boss Salvatore, the leader of the Salvatore crime family, on behalf of Big Jesus Mordino.",
+    "first_tasks": [
+      "Speak to Big Jesus Mordino at the Mordino Casino in New Reno.",
+      "Gather information about Boss Salvatore's whereabouts and security.",
+      "Infiltrate the Salvatore bar and locate Boss Salvatore.",
+      "Kill Boss Salvatore and escape without getting caught."
+    ],
+    "first_task_locations": [
+      {
+        "name": "Mordino Casino",
+        "description": "Big Jesus Mordino's headquarters in New Reno."
+      },
+      {
+        "name": "Salvatore's Bar",
+        "description": "Boss Salvatore's base of operations, heavily guarded by his men."
+      }
+    ],
+    "quest_giver": {
+      "name": "Big Jesus Mordino",
+      "description": "Leader of the Mordino crime family in New Reno, rival to the Salvatores."
+    },
+    "reward": [
+      {
+        "name": "Caps Reward",
+        "description": "Earn $1,000 for successfully assassinating Boss Salvatore."
+      },
+      {
+        "name": "Mordino Reputation",
+        "description": "Increased standing with the Mordino family."
+      }
+    ],
+    "tools": [
+      "Silenced weapons or explosives for assassination.",
+      "Lockpicking tools to enter restricted areas.",
+      "Stealth skills to avoid detection."
+    ],
+    "description": "Big Jesus Mordino wants Boss Salvatore eliminated to weaken the Salvatore family's power in New Reno. Sneak into Salvatore's bar, take him out, and escape without raising suspicion."
+  },
+  {
+    "name": "Purchase the Kesting Special",
+    "objective": "Acquire the Kesting Special, a unique weapon, from Eldridge at New Reno Arms.",
+    "first_tasks": [
+      "Travel to New Reno and locate New Reno Arms.",
+      "Speak to Eldridge, the weapon dealer.",
+      "Negotiate or pay for the Kesting Special."
+    ],
+    "first_task_locations": [
+      {
+        "name": "New Reno Arms",
+        "description": "A weapon shop in New Reno owned by Eldridge."
+      }
+    ],
+    "quest_giver": {
+      "name": "Eldridge",
+      "description": "A weapons dealer in New Reno who sells high-end firearms."
+    },
+    "reward": [
+      {
+        "name": "Kesting Special",
+        "description": "A powerful and unique firearm available for purchase."
+      }
+    ],
+    "tools": [
+      "Caps to buy the weapon.",
+      "Barter skill to negotiate a lower price."
+    ],
+    "description": "A rare firearm known as the Kesting Special is available at New Reno Arms. If you have enough caps, you can purchase it from Eldridge."
+  },
+  {
+    "name": "Become a Prizefighter",
+    "objective": "Win a series of boxing matches in New Reno to earn the Prizefighter title.",
+    "first_tasks": [
+      "Travel to New Reno and locate the Jungle Gym boxing ring.",
+      "Speak with Stuart Little to sign up for a fight.",
+      "Win your first boxing match."
+    ],
+    "first_task_locations": [
+      {
+        "name": "Jungle Gym",
+        "description": "A boxing ring in New Reno where prizefighting matches take place."
+      }
+    ],
+    "quest_giver": {
+      "name": "Stuart Little",
+      "description": "The manager of the Jungle Gym who arranges prizefights."
+    },
+    "reward": [
+      {
+        "name": "Prizefighter Title",
+        "description": "Grants recognition and respect in New Reno."
+      },
+      {
+        "name": "Caps",
+        "description": "Earned from winning matches."
+      }
+    ],
+    "tools": [
+      "High Unarmed skill to improve chances of winning.",
+      "Endurance and Strength to withstand hits."
+    ],
+    "description": "Climb the ranks in New Reno’s boxing circuit by winning fights. Defeat your opponents to earn money, fame, and the title of Prizefighter."
+  },
+  {
+    "name": "Become a Porn Star",
+    "objective": "Act in an adult film at New Reno’s Golden Globes studio.",
+    "first_tasks": [
+      "Travel to New Reno and locate the Golden Globes studio.",
+      "Speak with Miss Kitty at the Cat's Paw for details on the industry.",
+      "Talk to the studio director to audition for a role."
+    ],
+    "first_task_locations": [
+      {
+        "name": "Golden Globes Studio",
+        "description": "An adult film production studio in New Reno."
+      }
+    ],
+    "quest_giver": {
+      "name": "Studio Director",
+      "description": "The person in charge of casting actors for films."
+    },
+    "reward": [
+      {
+        "name": "Porn Star Title",
+        "description": "Grants recognition and a special nickname."
+      },
+      {
+        "name": "Caps",
+        "description": "Earned from starring in the film."
+      }
+    ],
+    "tools": [
+      "High Charisma to impress the director.",
+      "Speech skill to negotiate better pay."
+    ],
+    "description": "Enter the adult film industry in New Reno by starring in a movie at Golden Globes studio. Gain notoriety and some extra caps along the way."
+  },
+  {
+    "name": "Bring Renesco some glasses",
+    "objective": "Find and deliver a pair of glasses to Renesco in New Reno.",
+    "first_tasks": [
+      "Locate Renesco's shop in New Reno.",
+      "Find a pair of glasses to bring to him.",
+      "Deliver the glasses to Renesco."
+    ],
+    "first_task_locations": [
+      {
+        "name": "Renesco's shop",
+        "description": "A small shop in New Reno run by Renesco."
+      }
+    ],
+    "quest_giver": {
+      "name": "Renesco",
+      "description": "A shopkeeper in New Reno who needs glasses."
+    },
+    "reward": [
+      {
+        "name": "Caps",
+        "amount": 50,
+        "description": "A small payment for your efforts."
+      }
+    ],
+    "tools": [
+      "Barter skill to negotiate a better reward.",
+      "Luck to possibly find glasses in random loot locations."
+    ],
+    "description": "Renesco, a shopkeeper in New Reno, needs a new pair of glasses. Find and deliver a pair to him to complete the task."
+  },
+  {
+    "name": "Learn about Vault City and education from Mrs. Bishop",
+    "objective": "Talk to Mrs. Bishop and learn about Vault City and its education system.",
+    "first_tasks": [
+      "Find Mrs. Bishop in New Reno.",
+      "Speak with her and ask about Vault City and education.",
+      "Listen to the information she provides."
+    ],
+    "first_task_locations": [
+      {
+        "name": "Bishop family residence",
+        "description": "A well-guarded location in New Reno, home to the Bishop family."
+      }
+    ],
+    "quest_giver": {
+      "name": "Mrs. Bishop",
+      "description": "The wife of John Bishop, leader of the Bishop family in New Reno."
+    },
+    "reward": [
+      {
+        "name": "Experience Points",
+        "amount": 500,
+        "description": "A small experience boost for learning about Vault City."
+      }
+    ],
+    "description": "Mrs. Bishop has knowledge about Vault City and its education system. Talk to her and learn about these topics."
+  },
+  {
+    "name": "Witness a secret transaction",
+    "objective": "Observe a clandestine deal and report back.",
+    "first_tasks": [
+      "Travel to the designated meeting point.",
+      "Stay hidden and witness the transaction.",
+      "Return and report your findings."
+    ],
+    "first_task_locations": [
+      {
+        "name": "Desert location",
+        "description": "A remote and secluded area where the deal takes place."
+      }
+    ],
+    "quest_giver": {
+      "name": "Mr. Salvatore",
+      "description": "A powerful crime boss in New Reno who wants intel on the deal."
+    },
+    "reward": [
+      {
+        "name": "Experience Points",
+        "amount": 1000,
+        "description": "For successfully witnessing the transaction."
+      },
+      {
+        "name": "Caps",
+        "amount": 500,
+        "description": "A payment for gathering information."
+      }
+    ],
+    "description": "Mr. Salvatore needs someone to witness a secret deal without being detected. Watch the transaction carefully and report back."
+  }
+]
