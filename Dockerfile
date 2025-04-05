@@ -1,3 +1,12 @@
+# Save the docker image into a TAR file:
+#   `docker save -o <filename>.tar <image-name>[:<tag>]`
+# 
+# Zip the image TAR file using `gzip`:
+#   `gzip <filename>.tar`
+# 
+# Unzip and load the compressed TAR file using `gunzip`:
+#   `gunzip -c <filename>.tar.gz | docker load`
+# 
 # Run the docker container ([with]/without CUDA-enabled GPUs):
 #   `docker run [--gpus all ]-it --rm quest-generation`
 
