@@ -6,5 +6,8 @@ services:
     volumes:
       - ./data:/app/data:rw
       - ./logs:/app/logs:rw
+      - ./notebooks:/app/notebooks:rw
+      - ./scripts:/app/scripts:rw
+      - ./utils:/app/utils:rw
     tty: true
     working_dir: /app
