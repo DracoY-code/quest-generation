@@ -1,4 +1,6 @@
-# Run the docker container: `docker run -it --rm quest-generation`
+# Run the docker container ([with]/without CUDA-enabled GPUs):
+#   `docker run [--gpus all ]-it --rm quest-generation`
+
 FROM mambaorg/micromamba:git-fddee42-cuda12.2.2-ubuntu20.04
 
 WORKDIR /app
