@@ -1,0 +1,5062 @@
+[
+  {
+    "name": "Obtain flint to have Mynoc sharpen your spear",
+    "objective": "Find a piece of flint so Mynoc can sharpen your spear.",
+    "first_tasks": [
+      "Locate someone in Arroyo who has flint.",
+      "Acquire the flint through trade or persuasion.",
+      "Bring the flint to Mynoc for sharpening."
+    ],
+    "first_task_locations": [
+      {
+        "name": "Arroyo Village",
+        "description": "A small tribal village where Mynoc resides."
+      }
+    ],
+    "quest_giver": {
+      "name": "Mynoc",
+      "description": "A skilled tribal craftsman who can improve weapons.",
+      "location": "Arroyo Village"
+    },
+    "reward": [
+      {
+        "name": "Sharpened Spear",
+        "description": "An improved version of the standard spear with better damage.",
+        "amount": 1
+      }
+    ],
+    "characters": null,
+    "tools": "NONE",
+    "description": "Mynoc, a craftsman in Arroyo, offers to sharpen your spear if you can bring him a piece of flint. The flint can be obtained from another villager through trade or conversation.",
+    "locations": null,
+    "items": null,
+    "enemies": null,
+    "groups": null,
+    "title": "Fallout 2",
+    "motivation": null
+  },
+  {
+    "name": "A Child in the Lighthouse",
+    "objective": "save Ardrouine's little son from worgs",
+    "first_tasks": ["go to the abandoned lighthouse"],
+    "first_task_locations": [
+      {
+        "name": "",
+        "description": "abandoned lighthouse to the northwest"
+      }
+    ],
+    "quest_giver": {
+      "name": "Ardrouine",
+      "description": "a distressed mother",
+      "location": ""
+    },
+    "reward": [
+      {
+        "name": "",
+        "description": "coins",
+        "amount": 60
+      }
+    ],
+    "characters": null,
+    "tools": ["NONE"],
+    "description": "Please help me, I am just poor Ardrouine!\nI don't know where else to turn. My little boy was playing in that abandoned lighthouse to the northwest when a pack of worgs surrounded it. Please just turn them back, and I can coax him down. There's not much time!\nI can pay you 60 coins: this money is all my husband brought back from market this past week. My son's life is worth this and so much more.",
+    "locations": null,
+    "items": null,
+    "enemies": null,
+    "groups": null,
+    "title": "Baldur's Gate",
+    "motivation": null
+  },
+  {
+    "name": "Amulet of the Moon",
+    "objective": "bring Kharjo's Moon Amulet back to him",
+    "first_tasks": ["find Kharjo's Moon Amulet"],
+    "first_task_locations": [
+      {
+        "name": "Faldar's Tooth",
+        "description": "a bandit den"
+      }
+    ],
+    "quest_giver": {
+      "name": "Kharjo",
+      "description": "a caravaner from a warm land",
+      "location": "a cold land"
+    },
+    "reward": [
+      {
+        "name": "NONE",
+        "description": "",
+        "amount": 1
+      }
+    ],
+    "characters": null,
+    "tools": ["NONE"],
+    "description": "A few days ago, our caravan was ambushed. A nuisance, really, but many of the marauders had quick fingers.\nOne of them stole my Moon Amulet, given to me by my mother when I was just a cub. It is my only memory of home in this cold land.\nYou offer to get my amulet back? We believe the bandits are a part of a group headquartered in Faldar's Tooth. Be careful. I miss my amulet, but a life cannot be replaced as easily.",
+    "locations": [
+      {
+        "name": "Moon Amulet",
+        "description": "an amulet"
+      }
+    ],
+    "items": null,
+    "enemies": null,
+    "groups": null,
+    "title": "The Elder Scrolls V: Skyrim",
+    "motivation": null
+  },
+  {
+    "name": "Find a Way into the Sierra Army Base",
+    "objective": "Gain access to the heavily fortified Sierra Army Depot.",
+    "first_tasks": [
+      "Locate the Sierra Army Depot on your map.",
+      "Scout the perimeter to identify potential entry points.",
+      "Disable or bypass the automated turrets and security measures.",
+      "Find a key, code, or method to unlock the entrance."
+    ],
+    "first_task_locations": [
+      {
+        "name": "Sierra Army Depot Perimeter",
+        "description": "A high-security military facility with automated defenses."
+      },
+      {
+        "name": "New Reno",
+        "description": "Rumors suggest some individuals here know about the depot\u2019s access codes."
+      },
+      {
+        "name": "Vault City",
+        "description": "Possible location to find hacking tools or information on pre-war military bases."
+      }
+    ],
+    "quest_giver": {
+      "name": "Self-Initiated",
+      "description": "No direct quest giver\u2014this is an optional exploration-based quest."
+    },
+    "reward": [
+      {
+        "name": "Access to Sierra Army Depot",
+        "description": "Entry into the base, allowing you to loot valuable pre-war technology and weaponry."
+      },
+      {
+        "name": "Cybernetic Enhancements",
+        "description": "Potential opportunity to obtain cybernetic implants."
+      },
+      {
+        "name": "Loot",
+        "description": "Chance to find rare weapons, armor, and military equipment."
+      }
+    ],
+    "characters": null,
+    "tools": [
+      "Science or Lockpick to hack security systems and bypass doors.",
+      "Repair to disable turrets and other automated defenses.",
+      "Explosives to force entry if no other option is available."
+    ],
+    "description": "The Sierra Army Depot is a well-guarded pre-war military base rumored to contain powerful technology. Find a way inside and uncover its secrets.",
+    "locations": null,
+    "items": null,
+    "enemies": null,
+    "groups": null,
+    "title": "Fallout 2",
+    "motivation": null
+  },
+  {
+    "name": "Free Adytum from the Regulators",
+    "objective": "Eliminate the Regulators and free Adytum from their control.",
+    "first_tasks": [
+      "Gather allies to fight against the Regulators.",
+      "Attack the Regulators' headquarters in Adytum."
+    ],
+    "first_task_locations": [
+      {
+        "name": "Adytum",
+        "description": "A settlement in the Boneyard under the oppressive rule of the Regulators."
+      }
+    ],
+    "quest_giver": {
+      "name": "Jon Zimmerman",
+      "description": "The mayor of Adytum who wants to free his people from the Regulators' control.",
+      "location": "Adytum Town Hall"
+    },
+    "reward": [
+      {
+        "name": "Caps",
+        "description": "A monetary reward for successfully overthrowing the Regulators.",
+        "amount": 1500
+      },
+      {
+        "name": "Improved standing with Adytum citizens",
+        "description": "The people of Adytum will recognize you as a hero."
+      }
+    ],
+    "characters": null,
+    "tools": [
+      "Strong allies such as the Blades or Followers of the Apocalypse",
+      "Powerful weapons and armor for combat"
+    ],
+    "description": "Adytum is under the control of the Regulators, a corrupt group posing as law enforcers. Jon Zimmerman wants them removed, and you must lead an effort to free the town.",
+    "locations": null,
+    "items": null,
+    "enemies": null,
+    "groups": null,
+    "title": "Fallout",
+    "motivation": null
+  },
+  {
+    "name": "Solve Kalah's Riddle",
+    "objective": "make Kalah allow you to pass this bridge",
+    "first_tasks": ["answer Kalah's riddle"],
+    "first_task_locations": [
+      {
+        "name": "NONE",
+        "description": ""
+      }
+    ],
+    "quest_giver": {
+      "name": "Kalah",
+      "description": "a bored genie",
+      "location": ""
+    },
+    "reward": [
+      {
+        "name": "",
+        "description": "Kalah will allow the player to pass this bridge",
+        "amount": 1
+      }
+    ],
+    "characters": null,
+    "tools": [
+      "Kalah won't allow the player to pass this bridge before the player answers Kalah's riddle"
+    ],
+    "description": "Aha! I see a wayfarer has come to amuse Kalah! You must answer a riddle, naturally, ere I will allow you to pass this bridge.\nHere's the riddle, my friend: The poorest have it, the richest need it, but if either were to eat it, they would certainly perish. Tell me what it is!",
+    "locations": null,
+    "items": [
+      {
+        "name": "",
+        "description": "Kalah's riddle, the poorest have it, the richest need it, but if either were to eat it, they would certainly perish",
+        "amount": 1
+      }
+    ],
+    "enemies": null,
+    "groups": null,
+    "title": "Baldur's Gate II: Shadows of Amn",
+    "motivation": null
+  },
+  {
+    "name": "Kill the Forsworn Leader",
+    "objective": "kill a Forsworn leader",
+    "first_tasks": ["find the Forsworn leader"],
+    "first_task_locations": [
+      {
+        "name": "Serpent's Bluff Redoubt",
+        "description": "a Forsworn camp"
+      }
+    ],
+    "quest_giver": {
+      "name": "Igmund",
+      "description": "an honorable nobleman who rules over Markarth",
+      "location": ""
+    },
+    "reward": [
+      {
+        "name": "NONE",
+        "description": "",
+        "amount": 1
+      }
+    ],
+    "characters": null,
+    "tools": ["NONE"],
+    "description": "Are you a sellsword? I don't like your kind. No honor. No loyalty. Unreliable. But I can't turn away a potential ally in these times. Let's see if you're better than a common mercenary.\nMy scouts have tracked down one of the Forsworn leaders, hiding out in their blood-soaked camps at Serpent's Bluff Redoubt. Deal with that Forsworn leader.",
+    "locations": [
+      {
+        "name": "Markarth",
+        "description": "a city"
+      }
+    ],
+    "items": null,
+    "enemies": null,
+    "groups": [
+      {
+        "name": "Forsworn",
+        "description": "savages practicing banditry"
+      }
+    ],
+    "title": "The Elder Scrolls V: Skyrim",
+    "motivation": null
+  },
+  {
+    "name": "Falcar's Recommendation",
+    "objective": "retrieve the Ring of Burden for Falcar",
+    "first_tasks": ["get the key to the locked well from Deetsan"],
+    "first_task_locations": [
+      {
+        "name": "NONE",
+        "description": ""
+      }
+    ],
+    "quest_giver": {
+      "name": "Falcar",
+      "description": "a rude mage from the mages' guild",
+      "location": ""
+    },
+    "reward": [
+      {
+        "name": "",
+        "description": "Falcar's recommendation to the Arcane University",
+        "amount": 1
+      }
+    ],
+    "characters": [
+      {
+        "name": "Deetsan",
+        "description": "a woman",
+        "location": ""
+      }
+    ],
+    "tools": [
+      "the player is an Associate of the mages' guild",
+      "another Associate tossed the Ring of Burden down the locked well behind the guild hall"
+    ],
+    "description": "What is it, Associate? Don't tell me you're here for a recommendation from me.\nThere was a particular Ring of Burden I was testing some time ago. Another stupid Associate somehow got his hands on it, and managed to misplace it. If I didn't know better, I'd say he purposely tossed it down the well behind the guild hall. Why he would do such a thing is beyond me.\nYou will retrieve this ring for me. Should you manage to do so, I shall consider sending a recommendation to the Arcane University.\nThe well is locked, so you'll need the key. Deetsan should have a copy of it. Now get moving.",
+    "locations": [
+      {
+        "name": "Arcane University",
+        "description": "an esteemed school for mages"
+      },
+      {
+        "name": "",
+        "description": "the locked well"
+      }
+    ],
+    "items": [
+      {
+        "name": "Ring of Burden",
+        "description": "a magical ring",
+        "amount": 1
+      }
+    ],
+    "enemies": null,
+    "groups": null,
+    "title": "The Elder Scrolls IV: Oblivion",
+    "motivation": null
+  },
+  {
+    "name": "Deliver Westin's Holodisk to Lynette in Vault City",
+    "objective": "Deliver a holodisk containing important information from Roger Westin to First Citizen Lynette in Vault City.",
+    "first_tasks": [
+      "Obtain the holodisk from Roger Westin in NCR.",
+      "Travel to Vault City and locate First Citizen Lynette.",
+      "Deliver the holodisk to Lynette and receive your reward."
+    ],
+    "first_task_locations": [
+      {
+        "name": "Westin Ranch",
+        "description": "Roger Westin's estate in NCR, where you obtain the holodisk."
+      },
+      {
+        "name": "Vault City",
+        "description": "A well-structured and orderly settlement where First Citizen Lynette resides."
+      }
+    ],
+    "quest_giver": {
+      "name": "Roger Westin",
+      "description": "A wealthy rancher and politician in NCR who wants to pass information to Vault City.",
+      "location": "NCR"
+    },
+    "reward": [
+      {
+        "name": "Experience Points",
+        "description": "Earned for successfully delivering the holodisk.",
+        "amount": 2500
+      },
+      {
+        "name": "Caps",
+        "description": "Payment from Lynette upon completion.",
+        "amount": 500
+      },
+      {
+        "name": "Vault City Reputation",
+        "description": "Increased standing with Vault City for completing the task."
+      }
+    ],
+    "characters": null,
+    "tools": [
+      "Diplomatic skills to handle Lynette\u2019s attitude.",
+      "Fast travel options to reach Vault City quickly."
+    ],
+    "description": "Roger Westin, an influential rancher in NCR, entrusts you with a holodisk containing valuable information for Vault City\u2019s leadership. Your task is to ensure its safe delivery to First Citizen Lynette, who may reward you upon receipt.",
+    "locations": null,
+    "items": null,
+    "enemies": null,
+    "groups": null,
+    "title": "Fallout 2",
+    "motivation": null
+  },
+  {
+    "name": "A Reminder",
+    "objective": "bring a bunch of Rieklings' spears to Hilund",
+    "first_tasks": ["find Rieklings' spears"],
+    "first_task_locations": [
+      {
+        "name": "NONE",
+        "description": ""
+      }
+    ],
+    "quest_giver": {
+      "name": "Hilund",
+      "description": "a warrior",
+      "location": "Thirsk Mead Hall"
+    },
+    "reward": [
+      {
+        "name": "NONE",
+        "description": "",
+        "amount": 1
+      }
+    ],
+    "characters": null,
+    "tools": [
+      "Rieklings had invaded the Thirsk Mead Hall, but the player helped Hilund and her friends to drive them out: Hilund wants to ring the whole Thirsk Mead Hall with Riekling spears to remember that moment of weakness"
+    ],
+    "description": "To tell you the truth, I've been a little distracted. I've got this... idea.\nI want to ring the whole hall with Rieklings' little spears. Mocking us, from the past. Making us work harder. Fight better. The only problem is, I'm going to need a lot of spears. A lot. So, if you could find a bunch of them for me, that would make it easier on me.",
+    "locations": [
+      {
+        "name": "Thirsk Mead Hall",
+        "description": "a mead hall"
+      }
+    ],
+    "items": null,
+    "enemies": null,
+    "groups": [
+      {
+        "name": "Rieklings",
+        "description": "small, bothersome creatures"
+      }
+    ],
+    "title": "The Elder Scrolls V: Skyrim",
+    "motivation": null
+  },
+  {
+    "name": "Forgotten Books",
+    "objective": "bring ancient Falmer tomes to Urag gro-Shub",
+    "first_tasks": ["find more ancient Falmer tomes"],
+    "first_task_locations": [
+      {
+        "name": "Skyrim",
+        "description": "a province"
+      }
+    ],
+    "quest_giver": {
+      "name": "Urag gro-Shub",
+      "description": "a tough librarian",
+      "location": "Skyrim"
+    },
+    "reward": [
+      {
+        "name": "",
+        "description": "per ancient Falmer tome",
+        "amount": 1000
+      },
+      {
+        "name": "",
+        "description": "a translated edition of each brought Falmer tome",
+        "amount": 1
+      }
+    ],
+    "characters": null,
+    "tools": [
+      "the player is presenting an ancient Falmer tome to Urag gro-Shub and asking if Urag gro-Shub is interested in buying it"
+    ],
+    "description": "Well, well. I haven't seen one of these beauties in a long time. A rare find in the original Falmer language. You're damn right I'm interested. Question is, are you selling?\nWell, considering no one else in Skyrim would buy something they couldn't possibly read, I'd say you don't have much of a choice. Tell you what, you bring me books like this, and I'll pay a thousand gold each. I'll even throw in a translated edition I have for free.\nIf you're holding out for more gold, it's never going to happen.",
+    "locations": null,
+    "items": null,
+    "enemies": null,
+    "groups": [
+      {
+        "name": "Falmer",
+        "description": "an ancient race of people"
+      }
+    ],
+    "title": "The Elder Scrolls V: Skyrim",
+    "motivation": null
+  },
+  {
+    "name": "Lost Lore",
+    "objective": "collect \"Secrets of the Overworld\" for Dagon",
+    "first_tasks": ["find \"Secrets of the Overworld\""],
+    "first_task_locations": [
+      {
+        "name": "",
+        "description": "a jungle temple"
+      }
+    ],
+    "quest_giver": {
+      "name": "Dagon",
+      "description": "a distressed librarian",
+      "location": "a village"
+    },
+    "reward": [
+      {
+        "name": "",
+        "description": "blocks of emerald",
+        "amount": 5
+      }
+    ],
+    "characters": null,
+    "tools": ["the player is an infamous person"],
+    "description": "Arrg! Important books are just rotting away in remote places, and no one is doing a damn thing about recovering them. All that precious knowledge... lost forever.\nWait. Aren't you that infamous, misbehaving wreck of a person? I'm sorry, I have more important things to worry about than you. Unless, you want to start cleaning up your act.\nI know for sure that there's this book, \"Secrets of the Overworld\", just laying around somewhere withing a jungle temple. Just think what moist jungle air is doing to that precious tome of forgotten knowledge! I need to find it, and collect it for me. I can't leave the village myself; no one else can tend my library!\nI'm willing to pay a lot for the book: 5 blocks of emerald.",
+    "locations": null,
+    "items": [
+      {
+        "name": "\"Secrets of the Overworld\"",
+        "description": "a book containing forgotten knowledge",
+        "amount": 1
+      }
+    ],
+    "enemies": null,
+    "groups": null,
+    "title": "Minecraft",
+    "motivation": "knowledge"
+  },
+  {
+    "name": "Joseph's Wife",
+    "objective": "investigate Joseph's fate for his wife",
+    "first_tasks": ["find Joseph"],
+    "first_task_locations": [
+      {
+        "name": "",
+        "description": "the mines"
+      }
+    ],
+    "quest_giver": {
+      "name": "",
+      "description": "Joseph's worried wife",
+      "location": ""
+    },
+    "reward": [
+      {
+        "name": "NONE",
+        "description": "",
+        "amount": 1
+      }
+    ],
+    "characters": [
+      {
+        "name": "Joseph",
+        "description": "a male miner",
+        "location": "the mines"
+      }
+    ],
+    "tools": [
+      "Joseph wears a greenstone wedding ring on his left hand",
+      "Joseph went missing in the mines",
+      "men have disappeared in the mines before"
+    ],
+    "description": "My husband is missing in the mines. All I know about the mines are that men keep on disappearing in their hellish depths.\nMy husband is one of the miners, but he hasn't been home for weeks. His name is Joseph, and he wears his wedding ring on his left hand. It's a greenstone ring.\nPlease, find him and tell me how he is doing!",
+    "locations": null,
+    "items": null,
+    "enemies": null,
+    "groups": null,
+    "title": "Baldur's Gate",
+    "motivation": null
+  },
+  {
+    "name": "Made of Obsidian",
+    "objective": "bring some obsidian blocks to Tim",
+    "first_tasks": [
+      "make water flow on lava to form obsidian",
+      "mine out obsidian blocks"
+    ],
+    "first_task_locations": [
+      {
+        "name": "",
+        "description": "underground in deep caves"
+      },
+      {
+        "name": "NONE",
+        "description": ""
+      }
+    ],
+    "quest_giver": {
+      "name": "Tim",
+      "description": "a mason",
+      "location": ""
+    },
+    "reward": [
+      {
+        "name": "",
+        "description": "something precious",
+        "amount": 1
+      }
+    ],
+    "characters": null,
+    "tools": ["NONE"],
+    "description": "I have a task for you, stranger. And I'm willing to give you something precious in return.\nThere are age-old tales of strong, volcanic glass. This glass is known as obsidian. I'd love to try out my masonry on obsidian!\nThe tales also say that you can make obsidian by directing water on lava pools. There are many such pools underground in deep caves. I would ask you to mine out some obsidian blocks for me.\nI'm not built for adventure myself: carving stones is all I know.",
+    "locations": null,
+    "items": null,
+    "enemies": null,
+    "groups": null,
+    "title": "Minecraft",
+    "motivation": "knowledge"
+  },
+  {
+    "name": "Retrieve the FOB from the base Commander",
+    "objective": "Steal or acquire the FOB from the Navarro base Commander to access the Enclave's Vertibird transport.",
+    "first_tasks": [
+      "Locate the base Commander at Navarro.",
+      "Obtain the FOB through theft, persuasion, or combat."
+    ],
+    "first_task_locations": [
+      {
+        "name": "Navarro",
+        "description": "A secretive Enclave base where the base Commander holds the necessary FOB."
+      }
+    ],
+    "quest_giver": {
+      "name": "No direct quest giver",
+      "description": "This is a self-initiated quest required for accessing the Enclave's facilities.",
+      "location": "Navarro"
+    },
+    "reward": [
+      {
+        "name": "FOB",
+        "description": "A crucial item needed to access the Enclave's oil rig."
+      },
+      {
+        "name": "Experience Points",
+        "description": "Earn XP for successfully retrieving the FOB."
+      }
+    ],
+    "characters": null,
+    "tools": [
+      "Stealth skills for pickpocketing.",
+      "Persuasion skills to convince the Commander.",
+      "Strong weapons in case of direct confrontation."
+    ],
+    "description": "To proceed with infiltrating the Enclave, you need to retrieve the FOB from the base Commander at Navarro. This item is essential for gaining access to their advanced technology and transportation.",
+    "locations": null,
+    "items": null,
+    "enemies": null,
+    "groups": null,
+    "title": "Fallout 2",
+    "motivation": null
+  },
+  {
+    "name": "Voices Without Bodies",
+    "objective": "help Dagail to find her amulet",
+    "first_tasks": ["seek Agata"],
+    "first_task_locations": [
+      {
+        "name": "NONE",
+        "description": ""
+      }
+    ],
+    "quest_giver": {
+      "name": "Dagail",
+      "description": "a confused mage",
+      "location": ""
+    },
+    "reward": [
+      {
+        "name": "",
+        "description": "recommendation from Dagail",
+        "amount": 1
+      }
+    ],
+    "characters": [
+      {
+        "name": "Agata",
+        "description": "a young woman, whose heart is old and wise",
+        "location": ""
+      }
+    ],
+    "tools": ["Dagail hears voices without her amulet"],
+    "description": "You seek wisdom from me, child? Ah, no. You seek words of recommendation. Words are... difficult. They come and go. The voices, though. So loud they are, they drown out the words. Without my amulet, my stone to lock the voices away, the words will never come and stay. Would you lift your hands to help another, to help me find the words?\nSeek Agata, child. She will see the path, and set you on it. She may be young, but her heart is old and wise. It guides her well through these troubled times.\nI must rest.",
+    "locations": null,
+    "items": null,
+    "enemies": null,
+    "groups": null,
+    "title": "The Elder Scrolls IV: Oblivion",
+    "motivation": null
+  },
+  {
+    "name": "Sinister Worship",
+    "objective": "investigate the cultists for Reverend Revan",
+    "first_tasks": ["spy on the cultists"],
+    "first_task_locations": [
+      {
+        "name": "",
+        "description": "a ruined portal not for from the village"
+      }
+    ],
+    "quest_giver": {
+      "name": "Reverend Revan",
+      "description": "a concerned cleric",
+      "location": "a village"
+    },
+    "reward": [
+      {
+        "name": "",
+        "description": "a healing potion",
+        "amount": 1
+      }
+    ],
+    "characters": null,
+    "tools": ["NONE"],
+    "description": "There is a ruined portal not far from the village. My fellow villagers have seen some ominous-looking people, possibly cultists, near the portal. I am a servant of the Gods: I can't let dark cultists conduct their sinister rituals.\nI'd like you to investigate these cultists: you are a stranger, thus unknown to them. Who are they? What are their intentions? You should start by heading out to the ruined portal, and spying on those cultists.\nI have put aside a healing potion for you. Hopefully, you won't need to consume it immediately after your return. Godspeed to you. May you always walk on the path of light.",
+    "locations": null,
+    "items": null,
+    "enemies": null,
+    "groups": null,
+    "title": "Minecraft",
+    "motivation": "knowledge"
+  },
+  {
+    "name": "Guide the Followers of Lathander",
+    "objective": "lend your wisdom to the believers of Lathander",
+    "first_tasks": [
+      "give guidance to someone that needs the guidance of Lathander"
+    ],
+    "first_task_locations": [
+      {
+        "name": "NONE",
+        "description": ""
+      }
+    ],
+    "quest_giver": {
+      "name": "Lara",
+      "description": "the player's tutor in the player's duties to Lathander",
+      "location": ""
+    },
+    "reward": [
+      {
+        "name": "NONE",
+        "description": "",
+        "amount": 1
+      }
+    ],
+    "characters": [
+      {
+        "name": "Lathander, the Morninglord",
+        "description": "a good god of dawn",
+        "location": ""
+      }
+    ],
+    "tools": [
+      "the player is a cleric of Lathander, and one of Lathander's favored",
+      "Lara will send the player someone who needs the guidance of Lathander"
+    ],
+    "description": "Hello there, I am Lara, and I shall be your tutor.\nNot that you need schooling, but you might be unfamiliar with the duties you are to perform.\nIn exchange for the many benefits you will enjoy as a favored of Lathander, you will have a few tasks to perform while here. They are humble, but very important.\nYou are to lend your wisdom to the wounded and afflicted, those that are suffering from a misdirection of the heart. Guide them in the light of the Morninglord's glory.\nWe shall introduce you slowly to the work. I shall send you someone that needs the guidance of Lathander, and then we shall evaluate how you have done.",
+    "locations": null,
+    "items": null,
+    "enemies": null,
+    "groups": null,
+    "title": "Baldur's Gate II: Shadows of Amn",
+    "motivation": null
+  },
+  {
+    "name": "Kill the Vampire",
+    "objective": "take care of a vampire problem",
+    "first_tasks": ["wipe out the vampires"],
+    "first_task_locations": [
+      {
+        "name": "Pinemoon Cave",
+        "description": "a cave"
+      }
+    ],
+    "quest_giver": {
+      "name": "Sybille Stentor",
+      "description": "a rude court mage",
+      "location": ""
+    },
+    "reward": [
+      {
+        "name": "",
+        "description": "free Illusion magic training from Sybille Stentor",
+        "amount": 1
+      }
+    ],
+    "characters": null,
+    "tools": ["NONE"],
+    "description": "I'm busy, and I don't like being bothered unless I'm expecting something from you. Oh, don't give me that look. Fine. I supposed I can find some menial task to set your mind on.\nHmm.... We have something of a vampire problem. Bodies have been found with blood drained. I know of a den nearby you can wipe out as a precaution. Pinemoon Cave. I don't expect you to be capable of even that. Vampires are clever hunters. More clever than you, definitely.\nI suppose I could show you a little about Illusion magic for free, couldn't I?",
+    "locations": null,
+    "items": null,
+    "enemies": null,
+    "groups": null,
+    "title": "The Elder Scrolls V: Skyrim",
+    "motivation": null
+  },
+  {
+    "name": "Farthing's Dolly",
+    "objective": "return Farthing's doll to her",
+    "first_tasks": ["find Farthing's doll"],
+    "first_task_locations": [
+      {
+        "name": "",
+        "description": "the woods"
+      }
+    ],
+    "quest_giver": {
+      "name": "Farthing",
+      "description": "a 5 year old girl",
+      "location": "the village"
+    },
+    "reward": [
+      {
+        "name": "NONE",
+        "description": "",
+        "amount": 1
+      }
+    ],
+    "characters": null,
+    "tools": ["the gatekeeper won't let Farthing go and get her doll"],
+    "description": "My name's Farthing. I'm only five. In a few years my papa will let me hunt. Are you allowed to hunt?\nI've lost my dolly out in the woods. The gatekeeper won't let me go and get it. Can you get it for me?",
+    "locations": null,
+    "items": [
+      {
+        "name": "",
+        "description": "Farthing's doll",
+        "amount": 1
+      }
+    ],
+    "enemies": null,
+    "groups": null,
+    "title": "Baldur's Gate",
+    "motivation": null
+  },
+  {
+    "name": "Get book from Derek",
+    "objective": "Retrieve a book from Derek and return it to the quest giver.",
+    "first_tasks": [
+      "Find Derek and ask him about the book.",
+      "Convince or persuade Derek to hand over the book."
+    ],
+    "first_task_locations": [
+      {
+        "name": "The Den",
+        "description": "A small town where Derek can be found."
+      }
+    ],
+    "quest_giver": {
+      "name": "Unknown",
+      "description": "The person who requests the book retrieval.",
+      "location": "The Den"
+    },
+    "reward": [
+      {
+        "name": "Caps",
+        "description": "A monetary reward for retrieving the book.",
+        "amount": 100
+      },
+      {
+        "name": "Experience Points",
+        "description": "XP gained for successfully completing the task."
+      }
+    ],
+    "characters": null,
+    "tools": [
+      "Speech skill to persuade Derek to give up the book.",
+      "Stealth to pickpocket the book if needed."
+    ],
+    "description": "A person in The Den needs you to retrieve a book from Derek, who may not be willing to part with it easily.",
+    "locations": null,
+    "items": null,
+    "enemies": null,
+    "groups": null,
+    "title": "Fallout 2",
+    "motivation": null
+  },
+  {
+    "name": "Miscarcand",
+    "objective": "recover a Great Welkynd Stone for Martin",
+    "first_tasks": ["find a Great Welkynd Stone"],
+    "first_task_locations": [
+      {
+        "name": "Miscarcand",
+        "description": "the dangerous ruins of an Ayleid city"
+      }
+    ],
+    "quest_giver": {
+      "name": "Martin",
+      "description": "the player's friend",
+      "location": ""
+    },
+    "reward": [
+      {
+        "name": "NONE",
+        "description": "",
+        "amount": 1
+      }
+    ],
+    "characters": null,
+    "tools": [
+      "Martin has made some progress in deciphering the Mysterium Xarxes ritual while the player was gone",
+      "the player may have seen lesser Welkynd Stones: they are common in Ayleid ruins"
+    ],
+    "description": "While you were gone, I've made some progress in deciphering the Mysterium Xarxes ritual.\nThe third item we need is a Great Welkynd Stone. You may have run across lesser Welkynd Stones; they are fairly common in Ayleid ruins. But a Great Welkynd Stone will not be easy to come by. They have been plundered one by one over the years, due to their great value to mages and occultists.\nThere is only one place that is rumored to still contain one: the ruins of the Ayleid city of Miscarcand. A place where many have perished seeking its Great Welkynd Stone. But nothing else will do, so you must succeed where all others have failed.",
+    "locations": null,
+    "items": [
+      {
+        "name": "Great Welkynd Stone",
+        "description": "the third item the player needs for the Mysterium Xarxes ritual, and a rare larger variant of Welkynd Stones valued by mages and occultists",
+        "amount": 1
+      },
+      {
+        "name": "Welkynd Stones",
+        "description": "small magical crystals",
+        "amount": 1
+      },
+      {
+        "name": "Mysterium Xarxes",
+        "description": "a mysterious book of rituals",
+        "amount": 1
+      }
+    ],
+    "enemies": null,
+    "groups": [
+      {
+        "name": "Ayleid",
+        "description": "extinct, ancient race of people"
+      }
+    ],
+    "title": "The Elder Scrolls IV: Oblivion",
+    "motivation": null
+  },
+  {
+    "name": "The Pale Lady",
+    "objective": "Find out what happened in Frostmere Crypt",
+    "first_tasks": ["go deeper into Frostmere Crypt"],
+    "first_task_locations": [
+      {
+        "name": "Frostmere Crypt",
+        "description": "a crypt that contains a whole forest with a big old monument out in the center"
+      }
+    ],
+    "quest_giver": {
+      "name": "Eisa Blackthorn",
+      "description": "a bandit from Kyr's gang, giving quest via \"Eisa's Journal\"",
+      "location": "Frostmere Crypt"
+    },
+    "reward": [
+      {
+        "name": "Pale Blade",
+        "description": "a sword from Frostmere Crypt",
+        "amount": 1
+      }
+    ],
+    "characters": [
+      {
+        "name": "Kyr",
+        "description": "a male bandit leader",
+        "location": "Frostmere Crypt"
+      },
+      {
+        "name": "Ra'jirr",
+        "description": "a tough male bandit",
+        "location": "Frostmere Crypt"
+      },
+      {
+        "name": "Pale Lady",
+        "description": "a swamp lady who abducts children at night",
+        "location": "Frostmere Crypt"
+      }
+    ],
+    "tools": [
+      "Kyr's bandit gang dug up Frostmere Crypt: Kyr took the Pale Blade from the monument within",
+      "Ra'jirr keeps muttering about a Pale Lady, who is going to kill all of Kyr's bandits if they do not return the Pale Blade"
+    ],
+    "description": "Eisa's Journal\nby Eisa Blackthorn\n\nNight shift woke me to say they'd hit something big. Kyr, Ra'jirr, and I went down to take a look. It's huge, like a whole forest was just swallowed up by the earth, with a big old monument out in the center. Kyr took a sword from the monument as a trophy and dubbed it the \"Pale Blade\", proof his whole plan was finally paying off. For once, he might be right.\n\nRa'jirr's been having nightmares over the past few days. He keeps muttering about a \"Pale Lady\" - one of those swamp women who steal children away at night, I think. To think some fool story could turn the toughest bandit I know into a cowering kitten, frightened of his own shadow. I'm just glad none of the others see him like this.\n\nIt's getting worse. Ra'jirr can barely sleep at all now, and whenever he dozes off, he wakes up screaming - woke the whole place last night. He says the \"Pale Lady\" is coming for us - she's down in the forest, we have to return the sword or she'll kill us all. Not a chance - the boss clings to that thing like he was born with it. I've told everyone Ra'jirr just has a fever, but this can't go on. I've pulled a few things together. I'll slip out tonight and never look back.",
+    "locations": null,
+    "items": [
+      {
+        "name": "\"Eisa's Journal\"",
+        "description": "Eisa Blackthorn's journal",
+        "amount": 1
+      }
+    ],
+    "enemies": null,
+    "groups": null,
+    "title": "The Elder Scrolls V: Skyrim",
+    "motivation": null
+  },
+  {
+    "name": "Ill Met by Moonlight",
+    "objective": "take the Ring of Hircine back to Hircine",
+    "first_tasks": ["hunt down the beast to draw out Hircine"],
+    "first_task_locations": [
+      {
+        "name": "",
+        "description": "these woods"
+      }
+    ],
+    "quest_giver": {
+      "name": "Sinding",
+      "description": "a regretful werewolf prisoner",
+      "location": "a prison"
+    },
+    "reward": [
+      {
+        "name": "NONE",
+        "description": "",
+        "amount": 1
+      }
+    ],
+    "characters": [
+      {
+        "name": "Hircine, Lord of the Hunt",
+        "description": "the god of hunting and monsters",
+        "location": ""
+      }
+    ],
+    "tools": [
+      "Sinding killed a little girl, because he lost control of his transformations",
+      "Hircine cursed the Ring of Hircine when Sinding obtained it: it transforms him at the worst of times",
+      "Sinding will escape from the prison after giving the quest"
+    ],
+    "description": "Come to gawk at the monster?\nA little girl is dead because of me. Believe me, it wasn't anything I ever intended to do. I just... lost control. I tried to tell them, but none of them believe me.\nIt's all on account of this blasted ring. This is the Ring of Hircine. I was told it could let me control my transformations. Perhaps it used to. But I'll never know. Hircine didn't care for my taking it, and threw a curse on it. I put it on... and the changes just came to me. I could never guess when. It would be at the worst times. Like... with the little girl.\nI don't suppose there's a point in keeping the secret if I'm going to die in here anyway. I'm sure you've heard of men who shift to beasts under the influence of the moons. I am one of them. A werewolf. It's my secret, and my shame. That's why I wanted the ring... it was said to give men like me control. Now I may look like a man, but I still feel the animal inside of me, as strong as ever.\nYou would take the ring back to Hircine? Oh my. You would do this for me? Here, take it. I don't want anything to do with this wretched thing anymore. Seek out the beast. He wanders these woods. Bring him down and... well, the Lord of the Hunt should smile on you and appear before you.\nI wish you luck, but should leave here while I still have my skin. Should our paths cross again, I will remember your kindness. Farewell.",
+    "locations": null,
+    "items": [
+      {
+        "name": "Ring of Hircine",
+        "description": "a ring that is supposed to control a werewolf's transformations, a relic of Hircine",
+        "amount": 1
+      }
+    ],
+    "enemies": null,
+    "groups": null,
+    "title": "The Elder Scrolls V: Skyrim",
+    "motivation": null
+  },
+  {
+    "name": "Joining the Stormcloaks",
+    "objective": "prove yourself worthy of becoming a Stormcloak",
+    "first_tasks": ["kill an Ice Wraith"],
+    "first_task_locations": [
+      {
+        "name": "Serpentstone Isle",
+        "description": "a strange rock formation that attracts Ice Wraiths"
+      }
+    ],
+    "quest_giver": {
+      "name": "Galmar Stone-Fist",
+      "description": "a Stormcloak leader",
+      "location": ""
+    },
+    "reward": [
+      {
+        "name": "",
+        "description": "the player becomes a Stormcloak",
+        "amount": 1
+      }
+    ],
+    "characters": null,
+    "tools": ["NONE"],
+    "description": "The Stormcloaks need dedicated men and women who're devoted to the cause and willing to die for it. Before I can put you to use, I need to know how much you can take. I have a little test for you.\nI'm sending you to Serpentstone Isle. If you survive, you pass. If you die, well, you weren't going to be much use to me anyway. It's where men have tested their mettle for ages. There's a strange rock formation, built by the ancients. Something about that place attracts the Ice Wraiths.\nYou kill an Ice Wraith out there, and I'll have all the proof I need about you being Stormcloak material.",
+    "locations": null,
+    "items": null,
+    "enemies": null,
+    "groups": [
+      {
+        "name": "Stormcloaks",
+        "description": "rebel forces opposing the Empire"
+      },
+      {
+        "name": "Ice Wraiths",
+        "description": "dangerous creatures"
+      }
+    ],
+    "title": "The Elder Scrolls V: Skyrim",
+    "motivation": null
+  },
+  {
+    "name": "Heeding the Spirit of the Grove",
+    "objective": "serve the grove as a leader bringing balance",
+    "first_tasks": ["kill Nilthiri"],
+    "first_task_locations": [
+      {
+        "name": "",
+        "description": "along the path to the east of the troll mound"
+      }
+    ],
+    "quest_giver": {
+      "name": "",
+      "description": "the spirit of the grove",
+      "location": ""
+    },
+    "reward": [
+      {
+        "name": "NONE",
+        "description": "",
+        "amount": 1
+      }
+    ],
+    "characters": [
+      {
+        "name": "Nilthiri",
+        "description": "a shamaness, and the leader of the trolls of the troll mound",
+        "location": "along the path to the east of the troll mound"
+      }
+    ],
+    "tools": [
+      "the player is a druid",
+      "Nilthiri will overrun the grove if not stopped"
+    ],
+    "description": "I am the spirit of the grove, child. I am the water, the earth, the trees, and the sun. I am life and death: the eternal cycle.\nA druid who serves the cause of balance is needed. The grove requires leadership, a gentle hand. Will you serve the grove as such? There is much work to be done. Listen and learn the path of balance, the path of the Eternal Cycle.\nLong have the trolls of the mound lived beneath the protection of the grove. But a new leader has arisen. Nilthiri the shamaness leads the trolls to chaos. She urges them to expand their territory, and she brings more trolls to the mound without thought to the consequences. If this continues, the trolls will overrun the grove, and nature will suffer. A servant of nature must bring the life cycle of Nilthiri to a close for the good of all.\nYou will find Nilthiri along the path to the east of the troll mound.",
+    "locations": [
+      {
+        "name": "",
+        "description": "grove"
+      }
+    ],
+    "items": null,
+    "enemies": null,
+    "groups": null,
+    "title": "Baldur's Gate II: Shadows of Amn",
+    "motivation": null
+  },
+  {
+    "name": "The Coldest Sleep",
+    "objective": "receive Silencer's next contract after killing Havilstein Hoar-Blood",
+    "first_tasks": ["assassinate Havilstein Hoar-Blood"],
+    "first_task_locations": [
+      {
+        "name": "",
+        "description": "a small campsite, on the summit of Gnoll Mountain"
+      }
+    ],
+    "quest_giver": {
+      "name": "Lucien Lachance",
+      "description": "an assassin, giving quest via \"Dead Drop Orders #6\"",
+      "location": ""
+    },
+    "reward": [
+      {
+        "name": "",
+        "description": "gold",
+        "amount": 500
+      }
+    ],
+    "characters": [
+      {
+        "name": "Silencer",
+        "description": "an assassin",
+        "location": ""
+      },
+      {
+        "name": "Alval Uvani",
+        "description": "a dead man",
+        "location": ""
+      },
+      {
+        "name": "Havilstein Hoar-Blood",
+        "description": "a male Nord barbarian, lives alone and exposed",
+        "location": "a small campsite"
+      }
+    ],
+    "tools": [
+      "\"Dead Drop Orders #6\" is addressed toward Silencer",
+      "Silencer assassinated Alval Uvani like all the others",
+      "Havilstein Hoar-Blood savagely butchered the chieftain of a mead hall on Solstheim",
+      "in the flooded section of Nornal, Silencer will find a chest submerged in the water: the chest contains contains Silencer's reward for killing Havilstein Hoar-Blood, and Silencer's next contract"
+    ],
+    "description": "Dead Drop Orders #6\nby Lucien Lachance\n\nAlval Uvani is dead, just like all the others. You continue to impress me, Silencer, and I am only too eager to indulge your homicidal instincts.\nYour next target is a savage Nord barbarian, living alone and exposed at a small campsite on the summit of Gnoll Mountain. This barbarian, Havilstein Hoar-Blood by name, savagely butchered the chieftain of a mead hall on the island of Solstheim. The chieftain's sister has forgone the Nord custom of extracting the monetary retribution of wergild, and instead wants Hoar-Blood to pay with his life. You, dear Silencer, will help put her family at peace.\nYou are to go to Gnoll Mountain, locate Havilstein Hoar-Blood, and send his soul to the great beyond.\nWhen Hoar-Blood has been executed, journey to the ancient ruin of Nornal. In the flooded section of that ruin you will find a chest, submerged in the water. As you may have guessed, the chest contains your reward for killing Havilstein Hoar-Blood, 500 gold, and your next contract.",
+    "locations": [
+      {
+        "name": "Nornal",
+        "description": "an ancient ruin"
+      },
+      {
+        "name": "Solstheim",
+        "description": "an island inhabited by Nords"
+      },
+      {
+        "name": "Gnoll Mountain",
+        "description": "a mountain"
+      }
+    ],
+    "items": [
+      {
+        "name": "\"Dead Drop Orders #6\"",
+        "description": "a note",
+        "amount": 1
+      }
+    ],
+    "enemies": null,
+    "groups": null,
+    "title": "The Elder Scrolls IV: Oblivion",
+    "motivation": null
+  },
+  {
+    "name": "Weather the Storm",
+    "objective": "protect Whiterun from the Stormcloak invasion",
+    "first_tasks": ["go with Legate Rikke"],
+    "first_task_locations": [
+      {
+        "name": "Whiterun",
+        "description": "a city in Skyrim"
+      }
+    ],
+    "quest_giver": {
+      "name": "Legate Rikke",
+      "description": "the player's commanding officer in the Imperial Legion",
+      "location": ""
+    },
+    "reward": [
+      {
+        "name": "NONE",
+        "description": "",
+        "amount": 1
+      }
+    ],
+    "characters": [
+      {
+        "name": "Ulfric",
+        "description": "the man who leads the Stormcloaks",
+        "location": ""
+      }
+    ],
+    "tools": [
+      "Legate Rikke is addressing the player and the player's fellow legionnaires: the Imperial legion will send a message to Ulfric and the rebel Jarls who support him"
+    ],
+    "description": "This is it men! This is an important day for the Empire and for the Legion. And for all of Skyrim.\nThis is the day we send a message to Ulfric and the rebel Jarls who support him. We will protect Whiterun from Stormcloaks. But make no mistake. What we do here today, we do for Skyrim and her people. By cutting out the disease of this rebellion, we will make this country whole again!\nReady now! Everyone, with me! For the Empire! For the Legion!",
+    "locations": [
+      {
+        "name": "Skyrim",
+        "description": "a province of the Empire"
+      }
+    ],
+    "items": null,
+    "enemies": null,
+    "groups": [
+      {
+        "name": "Stormcloaks",
+        "description": "rebel forces opposing the Empire in Skyrim"
+      }
+    ],
+    "title": "The Elder Scrolls V: Skyrim",
+    "motivation": null
+  },
+  {
+    "name": "Sneak Training",
+    "objective": "get training from Marana Rian",
+    "first_tasks": ["steal a coin from Marana Rian"],
+    "first_task_locations": [
+      {
+        "name": "NONE",
+        "description": ""
+      }
+    ],
+    "quest_giver": {
+      "name": "Marana Rian",
+      "description": "a master sneaker",
+      "location": ""
+    },
+    "reward": [
+      {
+        "name": "",
+        "description": "training from Marana Rian",
+        "amount": 1
+      }
+    ],
+    "characters": null,
+    "tools": ["the player told Marana Rian that they want training"],
+    "description": "You seek training? From me? A few too many loose lips, it seems. It's not something I want to be public knowledge, if you understand my meaning. Very well.\nSimple task for you. I just dropped a favorite coin of mine into my pocket. If you can steal it from me, I'll train you.",
+    "locations": null,
+    "items": null,
+    "enemies": null,
+    "groups": null,
+    "title": "The Elder Scrolls IV: Oblivion",
+    "motivation": null
+  },
+  {
+    "name": "Extinguishing the Flames of Rebellion",
+    "objective": "put an end to the Stormcloak rebellion",
+    "first_tasks": [
+      "fight your way in Ulric's castle, and make Ulfric face justice"
+    ],
+    "first_task_locations": [
+      {
+        "name": "Windhelm",
+        "description": "a city"
+      }
+    ],
+    "quest_giver": {
+      "name": "General Tullius",
+      "description": "the player's leader in the Imperial Legion",
+      "location": ""
+    },
+    "reward": [
+      {
+        "name": "",
+        "description": "men who distinguish themselves will be well rewarded",
+        "amount": 1
+      }
+    ],
+    "characters": [
+      {
+        "name": "Ulfric",
+        "description": "the man who leads the Stormcloaks",
+        "location": "Windhelm"
+      }
+    ],
+    "tools": [
+      "General Tullius is addressing the player and the player's fellow legionnaires: the best and the brightest warriors in Tamriel"
+    ],
+    "description": "All right. It's time to deliver the final blow to the Stormcloak rebellion. You all have fought bravely, and sacrificed much to bring us to this point.\nUlfric thinks he can hide behind the walls of his castle. But we will fight our way in and drag him out through the rubble to face justice. Because this is the end for them, the Stormcloaks will fight like cornered rats. They will be fierce and crafty. But they are no match for Legionnaires.\nYou are the best and the brightest warriors in Tamriel. Professional soldiers, fearless and devastating. The Emperor will be paying close attention to what happens here today. Men who distinguish themselves will be well rewarded.\nReady now! Everyone, with me! For the Empire! For the Legion!",
+    "locations": [
+      {
+        "name": "Tamriel",
+        "description": "a continent"
+      }
+    ],
+    "items": null,
+    "enemies": null,
+    "groups": [
+      {
+        "name": "Stormcloaks",
+        "description": "rebel forces opposing the Empire"
+      }
+    ],
+    "title": "The Elder Scrolls V: Skyrim",
+    "motivation": null
+  },
+  {
+    "name": "Materials for Smithing",
+    "objective": "bring Stalhrim or Ebony to Halbarn Iron-Fur",
+    "first_tasks": ["find Stalhrim or Ebony"],
+    "first_task_locations": [
+      {
+        "name": "NONE",
+        "description": ""
+      }
+    ],
+    "quest_giver": {
+      "name": "Halbarn Iron-Fur",
+      "description": "an old blacksmith",
+      "location": ""
+    },
+    "reward": [
+      {
+        "name": "NONE",
+        "description": "",
+        "amount": 1
+      }
+    ],
+    "characters": null,
+    "tools": ["the player drove Rieklings away from Halbarn Iron-Fur's forge"],
+    "description": "Cleaning out the forge was the easy part. But those blasted Rieklings made off with most of my materials. And I can't forge air.\nYou tend to wander around, don't you? If you come across any Stalhrim or Ebony in your travels, bring them back to old Halbarn. Help each other out.",
+    "locations": null,
+    "items": [
+      {
+        "name": "Ebony",
+        "description": "an ore",
+        "amount": 1
+      },
+      {
+        "name": "Stalhrim",
+        "description": "an ore",
+        "amount": 1
+      }
+    ],
+    "enemies": null,
+    "groups": [
+      {
+        "name": "Rieklings",
+        "description": "small, bothersome, thieving creatures"
+      }
+    ],
+    "title": "The Elder Scrolls V: Skyrim",
+    "motivation": null
+  },
+  {
+    "name": "Warn the Estherians",
+    "objective": "head up the pass to the Enclave, and warn the Estherians that the Alchemist is coming to them",
+    "first_tasks": ["find Commander Vale and let her know what happened"],
+    "first_task_locations": [
+      {
+        "name": "Enclave",
+        "description": "the home of the Estherians"
+      }
+    ],
+    "quest_giver": {
+      "name": "Destroyer",
+      "description": "a male hero",
+      "location": ""
+    },
+    "reward": [
+      {
+        "name": "NONE",
+        "description": "",
+        "amount": 1
+      }
+    ],
+    "characters": [
+      {
+        "name": "Alchemist",
+        "description": "an evil man",
+        "location": ""
+      },
+      {
+        "name": "Commander Vale",
+        "description": "a woman, an old friend to the Destroyer",
+        "location": "Enclave"
+      }
+    ],
+    "tools": ["the Alchemist destroyed Torchlight"],
+    "description": "Someone needs to warn the Estherians. Head up the pass to their Enclave. Find my old friend, Commander Vale, and let her know what happened.\nTell them that the Alchemist destroyed Torchlight, and is headed their way. He may be there already...",
+    "locations": [
+      {
+        "name": "Torchlight",
+        "description": "a town"
+      }
+    ],
+    "items": null,
+    "enemies": null,
+    "groups": [
+      {
+        "name": "Estherians",
+        "description": "a race of people"
+      }
+    ],
+    "title": "Torchlight II",
+    "motivation": null
+  },
+  {
+    "name": "Calm Rebel Faction",
+    "objective": "Convince the rebel faction in Vault 13 to remain within the vault.",
+    "first_tasks": [
+      "Speak to upset Vault 13 citizens to learn about the rebel meetings."
+    ],
+    "first_task_locations": [
+      {
+        "name": "Vault 13 Living Quarters",
+        "description": "Residential area where Vault 13 inhabitants reside."
+      }
+    ],
+    "quest_giver": {
+      "name": "Upset Vault Dweller",
+      "description": "A concerned resident expressing dissatisfaction with the current situation.",
+      "location": "Vault 13"
+    },
+    "reward": [
+      {
+        "name": "Experience Points",
+        "description": "Awarded for successfully convincing the rebels to stay.",
+        "amount": 750
+      }
+    ],
+    "characters": null,
+    "tools": ["None"],
+    "description": "Upon returning to Vault 13 during the search for the water chip, the Vault Dweller discovers unrest among the citizens. Some residents, led by Theresa, are contemplating leaving the safety of the vault to face the unknowns of the wasteland. By engaging with the upset dwellers and attending their meeting at 17:00 in Theresa's quarters, the Vault Dweller has an opportunity to persuade them to remain, ensuring the stability and unity of the vault community.",
+    "locations": null,
+    "items": null,
+    "enemies": null,
+    "groups": null,
+    "title": "Fallout",
+    "motivation": null
+  },
+  {
+    "name": "Officer Roenall's Corrupt Actions",
+    "objective": "bring the evidence of Officer Roenall's corrupt actions to Corgeig Axehand",
+    "first_tasks": [
+      "investigate Barg",
+      "find Officer Roenall's personal records"
+    ],
+    "first_task_locations": [
+      {
+        "name": "",
+        "description": "the docks"
+      },
+      {
+        "name": "",
+        "description": "Officer Roenall's home, northwest of the main government building in the Government District"
+      }
+    ],
+    "quest_giver": {
+      "name": "Khellor Ahmson",
+      "description": "a guard",
+      "location": ""
+    },
+    "reward": [
+      {
+        "name": "NONE",
+        "description": "",
+        "amount": 1
+      }
+    ],
+    "characters": [
+      {
+        "name": "Officer Roenall",
+        "description": "a corrupt male guard",
+        "location": ""
+      },
+      {
+        "name": "Corgeig Axehand",
+        "description": "Officer Roenall's commander",
+        "location": "the Government District main building"
+      },
+      {
+        "name": "Barg",
+        "description": "a suspicious man",
+        "location": "the docks"
+      }
+    ],
+    "tools": [
+      "Khellor Ahmson saw Officer Roenall using his authority against the player in a corrupt manner",
+      "any complaints about Officer Roenall must first go through him: guards cannot do anything about Officer Roenall",
+      "Officer Roenall's personal records may reveal his fondness for gems"
+    ],
+    "description": "I am Khellor Ahmson, a mere guard.\nI saw what happened, and I share your helplessness. Any complaints about Officer Roenall must first go THROUGH him, so you can imagine how many get through.\nThis did not come from me, for if my indiscretion against Roenall were to get out, I should be thrown from the military. There is one way you can get to him.\nRoenall is quite corrupt and more than willing to exercise his power. You are not monitored as we, so you can do something that I or another guard cannot.\nLook to the docks and a man named Barg. Examine him and what he does, and you are sure to see what I mean. You might also wish to pry into Roenall's personal records. They may reveal something of his fondness for gems. I did not tell you this... and I certainly did not say his records are in his home northwest of the main government building in the Government District.\nThink on what I've said, and bring anything you learn to Corgeig Axehand in the Government District main building. He is Roenall's commander.",
+    "locations": null,
+    "items": null,
+    "enemies": null,
+    "groups": null,
+    "title": "Baldur's Gate II: Shadows of Amn",
+    "motivation": null
+  },
+  {
+    "name": "Lethal Competition",
+    "objective": "assassinate Beitild",
+    "first_tasks": ["find Beitild"],
+    "first_task_locations": [
+      {
+        "name": "Dawnstar",
+        "description": "a mining town"
+      }
+    ],
+    "quest_giver": {
+      "name": "Nazir",
+      "description": "a fellow assassin",
+      "location": ""
+    },
+    "reward": [
+      {
+        "name": "NONE",
+        "description": "",
+        "amount": 1
+      }
+    ],
+    "characters": [
+      {
+        "name": "Beitild",
+        "description": "an angry and desperate female mine owner",
+        "location": "Dawnstar"
+      }
+    ],
+    "tools": [
+      "Beitild and her ex-husband run competing mining operations in Dawnstar"
+    ],
+    "description": "Someone has contracted us to kill Beitild. She separated from her husband several months ago. Now the two run competing mining operations in Dawnstar. I hear the mining business is extremely cutthroat. And those hours... they're murder.\nBeitild's angry and desperate. A fighter.",
+    "locations": null,
+    "items": null,
+    "enemies": null,
+    "groups": null,
+    "title": "The Elder Scrolls V: Skyrim",
+    "motivation": null
+  },
+  {
+    "name": "Prism's Emeralds",
+    "objective": "return 2 emeralds to Oublek",
+    "first_tasks": ["find Prism the Sculptor"],
+    "first_task_locations": [
+      {
+        "name": "NONE",
+        "description": ""
+      }
+    ],
+    "quest_giver": {
+      "name": "Oublek",
+      "description": "a man who hands out bounties on criminals",
+      "location": ""
+    },
+    "reward": [
+      {
+        "name": "",
+        "description": "gold",
+        "amount": 300
+      }
+    ],
+    "characters": [
+      {
+        "name": "Prism the Sculptor",
+        "description": "a local artist",
+        "location": ""
+      }
+    ],
+    "tools": [
+      "Oublek knows the player",
+      "Prism the Sculptor stole 2 emeralds",
+      "Prism the Sculptor can live or die"
+    ],
+    "description": "It's me, Oublek.\nA bit of nonsense from a local artist named Prism. Made off with a couple of emeralds, he did.\nThere is a reward for the return of the gems: a 300 gold bounty.\nPrism's fate is of less importance.",
+    "locations": null,
+    "items": [
+      {
+        "name": "",
+        "description": "emeralds",
+        "amount": 2
+      }
+    ],
+    "enemies": null,
+    "groups": null,
+    "title": "Baldur's Gate",
+    "motivation": null
+  },
+  {
+    "name": "Where Spirits Have Lease",
+    "objective": "purchase Benirus Manor",
+    "first_tasks": ["give 5,000 gold to Velwyn"],
+    "first_task_locations": [
+      {
+        "name": "NONE",
+        "description": ""
+      }
+    ],
+    "quest_giver": {
+      "name": "Velwyn",
+      "description": "a hasty man",
+      "location": "Anvil"
+    },
+    "reward": [
+      {
+        "name": "Benirus Manor",
+        "description": "a manor in Anvil, across the street from the Chapel",
+        "amount": 1
+      }
+    ],
+    "characters": null,
+    "tools": [
+      "Benirus Manor belonged to Velwyn's grandfather: Velwyn is selling Benirus Manor because he has pressing matters elsewhere",
+      "the player gets the key to the front door and the deed of ownership after buying Benirus Manor"
+    ],
+    "description": "I'm Velwyn. You wouldn't happen to be in the market for a home would you? If you are, I just happen to be selling a manor located right here in Anvil.\nI'm selling my grandfather's house, Benirus Manor. If you're interested, I could let you have it for a modest sum, 5,000 gold. I have to sell it soon, as I have pressing matters elsewhere. You're welcome to take a look at it. It is located across the street from the Chapel.\nOnce you buy, you get the key to the front door and the deed of ownership. That's the deal.",
+    "locations": [
+      {
+        "name": "Anvil",
+        "description": "a city"
+      }
+    ],
+    "items": null,
+    "enemies": null,
+    "groups": null,
+    "title": "The Elder Scrolls IV: Oblivion",
+    "motivation": null
+  },
+  {
+    "name": "Recipe for Distraction",
+    "objective": "tell Modyn Veleth the location of a hidden stash of Emberbrand Wine",
+    "first_tasks": ["locate the hidden stash of Emberbrand Wine"],
+    "first_task_locations": [
+      {
+        "name": "",
+        "description": "not in the Bulwark, one of the abandoned houses on the outskirts of Raven Rock"
+      }
+    ],
+    "quest_giver": {
+      "name": "Modyn Veleth",
+      "description": "captain of the Redoran guard",
+      "location": "Raven Rock"
+    },
+    "reward": [
+      {
+        "name": "NONE",
+        "description": "",
+        "amount": 1
+      }
+    ],
+    "characters": null,
+    "tools": [
+      "Modyn Veleth's men have been stashing bottles of Emberbrand Wine: it distracts them from their tasks"
+    ],
+    "description": "Modyn Veleth, Captain of the Redoran Guard at your service. Looking for something to lend a hand with? We have problems aplenty in Raven Rock.\nCommanding the Redoran Guard can be a difficult task. Even the most experienced warriors can fall prey to petty distractions. They usually didn't amount to much, but they make my job that much harder. Some of my own men have become quite accustomed to a spirit they called 'Emberbrand Wine.' Despise the stuff myself. It's powerful and tremendously addicting... I've seen men fail to finish even a single flask.\nIf I knew where they were stashing the bottles, I'd put an end to it myself. Could you track down the stash? That would be helpful. I just don't have time to do it myself right now.\nThey're too smart to have left it in the Bulwark. I'd search one of the abandoned houses on the outskirts of town.",
+    "locations": [
+      {
+        "name": "Raven Rock",
+        "description": "a frontier town"
+      }
+    ],
+    "items": [
+      {
+        "name": "Emberbrand Wine",
+        "description": "a powerful and addicting alcohol drink",
+        "amount": 1
+      }
+    ],
+    "enemies": null,
+    "groups": [
+      {
+        "name": "Redoran",
+        "description": "a noble house that rules over Raven Rock"
+      }
+    ],
+    "title": "The Elder Scrolls V: Skyrim",
+    "motivation": null
+  },
+  {
+    "name": "Bear Season",
+    "objective": "bring the fangs of the 6 West Weald Bears as proof to Thorley Aethelred",
+    "first_tasks": [
+      "kill 6 West Weald Bears to protect Thorley Aethelred's flock of sheep"
+    ],
+    "first_task_locations": [
+      {
+        "name": "Shardrock",
+        "description": "Thorley Aethelred's farm"
+      }
+    ],
+    "quest_giver": {
+      "name": "Thorley Aethelred",
+      "description": "a farmer",
+      "location": "Shardrock"
+    },
+    "reward": [
+      {
+        "name": "",
+        "description": "Thorley Aethelred will reward the player well",
+        "amount": 1
+      }
+    ],
+    "characters": null,
+    "tools": [
+      "Thorley Aethelred built a fence around his sheep: it did not help with his bear problem"
+    ],
+    "description": "It seems I'm having a bear problem and I just don't know what to do.\nI've had attacks on my small flock of sheep lately. I was hoping that building a fence would solve the problem, but it hasn't helped at all. Then, one day when I was just about to step outside, I saw the culprits. A group of West Weald Bears was dragging away a sheep carcass. There's no way I can fight those ferocious beasts off on my own.\nIf you could thin the population a bit, they would probably leave the area. Kill six of the things, bring me their fangs as proof, and I'll reward you well.\nPlease, you're my only hope.",
+    "locations": null,
+    "items": null,
+    "enemies": [
+      {
+        "name": "West Weald Bears",
+        "description": "bears",
+        "amount": 6
+      }
+    ],
+    "groups": null,
+    "title": "The Elder Scrolls IV: Oblivion",
+    "motivation": null
+  },
+  {
+    "name": "Infiltration",
+    "objective": "infiltrate the Blackwood Company, and find the secret of their success",
+    "first_tasks": ["join the Blackwood Company"],
+    "first_task_locations": [
+      {
+        "name": "Leyawiin",
+        "description": "a city"
+      }
+    ],
+    "quest_giver": {
+      "name": "Modryn Oreyn",
+      "description": "the player's superior in the Fighters Guild",
+      "location": ""
+    },
+    "reward": [
+      {
+        "name": "NONE",
+        "description": "",
+        "amount": 1
+      }
+    ],
+    "characters": [
+      {
+        "name": "Argonian",
+        "description": "a member of the Blackwood Company who was interrogated by Modryn Oreyn",
+        "location": ""
+      }
+    ],
+    "tools": [
+      "the information Modryn Oreyn got from the Argonian was valuable",
+      "the player will be on their own: they should steer clear of their fellow Fighters Guild members"
+    ],
+    "description": "While the information we got from the Argonian was valuable, we need more. I want you to infiltrate them. See how they work from the inside.\nI want you to get to Leyawiin and join the Blackwood Company. Find the secret of their success. You'll be on your own. Steer clear of me and all of your Fighters Guild brothers. It'll be rough going, but you can do it.\nGood luck.",
+    "locations": null,
+    "items": null,
+    "enemies": null,
+    "groups": [
+      {
+        "name": "Fighters Guild",
+        "description": "a mercenary guild"
+      },
+      {
+        "name": "Blackwood Company",
+        "description": "a shady mercenary organization"
+      }
+    ],
+    "title": "The Elder Scrolls IV: Oblivion",
+    "motivation": null
+  },
+  {
+    "name": "A Ring Worthy of Alchemists",
+    "objective": "retrieve the Ring of Pure Mixtures for Frida",
+    "first_tasks": ["find the Ring of Pure Mixtures"],
+    "first_task_locations": [
+      {
+        "name": "Shrouded Grove",
+        "description": "a cave"
+      }
+    ],
+    "quest_giver": {
+      "name": "Frida",
+      "description": "an elderly female alchemist",
+      "location": "Dawnstar"
+    },
+    "reward": [
+      {
+        "name": "",
+        "description": "alchemy training from Frida",
+        "amount": 1
+      }
+    ],
+    "characters": null,
+    "tools": [
+      "Frida's husband died while searching for the Ring of Pure Mixtures"
+    ],
+    "description": "I'm Frida, the oldest woman in Dawnstar.\nI picked up the herb trade from my husband. We used to go out in the wilds and collect ingredients together. He used to call me his \"pretty Juniper.\" It's quite romantic, if you're an alchemist. Frost took the old fool a few seasons back, while he was looking for the Ring of Pure Mixtures.\nI found the ring's resting place, Shrouded Grove, after he died, but I'm far too old to go exploring some cave, now. I'd be happy to give you some alchemy training in exchange for the ring, if you bring it to me.",
+    "locations": [
+      {
+        "name": "Dawnstar",
+        "description": "a town"
+      }
+    ],
+    "items": [
+      {
+        "name": "Ring of Pure Mixtures",
+        "description": "a ring that boosts an alchemist's talents",
+        "amount": 1
+      }
+    ],
+    "enemies": null,
+    "groups": null,
+    "title": "The Elder Scrolls V: Skyrim",
+    "motivation": null
+  },
+  {
+    "name": "Fleeting Strength",
+    "objective": "give a Potion of Strength to Mister Meek",
+    "first_tasks": ["obtain a Potion of Strength"],
+    "first_task_locations": [
+      {
+        "name": "NONE",
+        "description": ""
+      }
+    ],
+    "quest_giver": {
+      "name": "Mister Meek",
+      "description": "a weak man",
+      "location": ""
+    },
+    "reward": [
+      {
+        "name": "",
+        "description": "diamond",
+        "amount": 1
+      }
+    ],
+    "characters": null,
+    "tools": ["Mister Meek has heard that the player help people"],
+    "description": "You're the one who's been helping people, right? Well, now you could help me too.\nYou see, I need to get my hands on a Potion of Strength. I'm not the strongest person around: for once, I'd like to carry things around as if they were mere feathers.\nGive me the potion, and receive a precious diamond in return.",
+    "locations": null,
+    "items": [
+      {
+        "name": "Potion of Strength",
+        "description": "a strength potion",
+        "amount": 1
+      }
+    ],
+    "enemies": null,
+    "groups": null,
+    "title": "Minecraft",
+    "motivation": "comfort"
+  },
+  {
+    "name": "Heal Raissa's Skin Dancer Condition",
+    "objective": "cure Raissa",
+    "first_tasks": ["talk to the temple superior about a restoration spell"],
+    "first_task_locations": [
+      {
+        "name": "Waukeenar Temple",
+        "description": "a temple"
+      }
+    ],
+    "quest_giver": {
+      "name": "Raissa",
+      "description": "a terrified woman",
+      "location": ""
+    },
+    "reward": [
+      {
+        "name": "",
+        "description": "Raissa's gratitude",
+        "amount": 1
+      }
+    ],
+    "characters": null,
+    "tools": [
+      "the player killed the skin dancers that attacked Raissa",
+      "the skin dancers turned Raissa into a skin dancer: they peeled her skin from her bones and one of them put Raissa's skin on like a coat",
+      "Raissa took her skin back",
+      "a spell of restoration can cure Raissa"
+    ],
+    "description": "Y-you... you killed those monsters? It was so... horrible! They turned me, Raissa, into one of them: a skin dancer. Peeled my skin from m-my bones and... and now I've put it back! They turned me into one of them. He took my skin like it was some kind of coat and put it on. He told me that now I was a skin dancer too.\nI... I cannot go anywhere like this! I can feel that magic, that evil, growing inside of me! Please, my noble savior... help me! Wh-when he was... taking my skin, the skin walker said the only way to stop the process was a spell of restoration. B-but he laughed, saying I would never receive it.\nIf... if you could find that spell, could you not cast it upon me? Maybe... maybe the temple superior at the Waukeenar Temple would have something!\nI have no coin. I know such magic is very expensive... but if you could find it in your heart to save me, I would be eternally grateful!",
+    "locations": null,
+    "items": null,
+    "enemies": null,
+    "groups": null,
+    "title": "Baldur's Gate II: Shadows of Amn",
+    "motivation": null
+  },
+  {
+    "name": "Finish Temple of Trials",
+    "objective": "Complete the Temple of Trials to prove your worth as the Chosen One.",
+    "first_tasks": [
+      "Navigate through the Temple of Trials.",
+      "Defeat or sneak past the temple guardians.",
+      "Solve minor puzzles and avoid traps.",
+      "Defeat the final guardian at the temple exit."
+    ],
+    "first_task_locations": [
+      {
+        "name": "Temple of Trials",
+        "description": "A sacred temple used by the Arroyo tribe to test potential Chosen Ones."
+      }
+    ],
+    "quest_giver": {
+      "name": "Arroyo Tribe Elders",
+      "description": "The leaders of the Arroyo tribe who determine the Chosen One's fate.",
+      "location": "Arroyo Village"
+    },
+    "reward": [
+      {
+        "name": "Recognition as the Chosen One",
+        "description": "Completion of the trial proves your worthiness."
+      },
+      {
+        "name": "Basic Equipment",
+        "description": "You receive supplies to begin your journey."
+      }
+    ],
+    "characters": null,
+    "tools": "NONE",
+    "description": "The Temple of Trials is a test of strength, intelligence, and resilience. Only those who successfully complete it can claim the title of the Chosen One and embark on their journey to save Arroyo.",
+    "locations": null,
+    "items": null,
+    "enemies": null,
+    "groups": null,
+    "title": "Fallout 2",
+    "motivation": null
+  },
+  {
+    "name": "Bruma House for Sale",
+    "objective": "purchase the house in Bruma",
+    "first_tasks": ["give Lady Narina Carvain 10,000 gold"],
+    "first_task_locations": [
+      {
+        "name": "Bruma",
+        "description": "a city"
+      }
+    ],
+    "quest_giver": {
+      "name": "Lady Narina Carvain",
+      "description": "Countess of Bruma",
+      "location": "Bruma"
+    },
+    "reward": [
+      {
+        "name": "",
+        "description": "house in Bruma, small and quite barren, located just off the main gate",
+        "amount": 1
+      }
+    ],
+    "characters": [
+      {
+        "name": "Suurootan",
+        "description": "a male trader",
+        "location": "Novaroma"
+      }
+    ],
+    "tools": ["Suurootan can acquire furnishings for the house"],
+    "description": "Lady Narina Carvain, Countess of Bruma. Welcome.\nI've been looking for just the right owner for a special home I have. It's a quaint little house conveniently located just off the main gate. I'll sell it to you for 10,000 gold.\nI've had a look at the place myself, and it could use some furnishings inside. Quite barren in there I'm afraid. I'm fairly certain that Suurootan at Novaroma here in Bruma can acquire the things you'll need to make it look like home.",
+    "locations": [
+      {
+        "name": "Novaroma",
+        "description": "Suurootan's shop in Bruma"
+      }
+    ],
+    "items": null,
+    "enemies": null,
+    "groups": null,
+    "title": "The Elder Scrolls IV: Oblivion",
+    "motivation": null
+  },
+  {
+    "name": "Nature's Fury",
+    "objective": "retrieve the Boots of the Crusader for yourself",
+    "first_tasks": ["talk to the priests of Kynareth"],
+    "first_task_locations": [
+      {
+        "name": "Shrine of Kynareth",
+        "description": "west of the Imperial City, on the edge of the Great Forest"
+      }
+    ],
+    "quest_giver": {
+      "name": "Sir Juncan",
+      "description": "a ghost of a knight",
+      "location": ""
+    },
+    "reward": [
+      {
+        "name": "Boots of the Crusader",
+        "description": "holy boots",
+        "amount": 1
+      }
+    ],
+    "characters": [
+      {
+        "name": "Kynareth",
+        "description": "the goddess of nature",
+        "location": ""
+      }
+    ],
+    "tools": ["Sir Juncan died while seeking out the Boots of the Crusader"],
+    "description": "My name was Sir Juncan.\nI wish to see you succeed where I failed. I was on the path to the Boots of the Crusader, but died before I reached them.\nI cannot tell you exactly how to find the Boots, for that will be up to Kynareth. I can tell you to seek out her Priests, though. West of the Imperial City, on the edge of the Great Forest, is a shrine. You will find them there, and they will tell you what you need to know.",
+    "locations": [
+      {
+        "name": "Imperial City",
+        "description": "a major city"
+      }
+    ],
+    "items": null,
+    "enemies": null,
+    "groups": null,
+    "title": "The Elder Scrolls IV: Oblivion",
+    "motivation": null
+  },
+  {
+    "name": "Free the Slaves",
+    "objective": "Rescue the slaves held by the Khans.",
+    "first_tasks": [
+      "Locate the slaves in the Khans' camp.",
+      "Eliminate or negotiate with the Khans guarding them.",
+      "Unlock or break open their restraints to free them."
+    ],
+    "first_task_locations": [
+      {
+        "name": "Khans' Camp",
+        "description": "A raider stronghold where the Khans keep their captives."
+      }
+    ],
+    "quest_giver": {
+      "name": "None (Optional Quest)",
+      "description": "The player can choose to free the slaves without a direct quest giver.",
+      "location": ""
+    },
+    "reward": [
+      {
+        "name": "Karma Increase",
+        "description": "The player's reputation improves for freeing the slaves.",
+        "amount": 1
+      }
+    ],
+    "characters": null,
+    "tools": ["Lockpick", "Weapons"],
+    "description": "The player can attempt to free the slaves held by the Khans through combat or stealth. This action improves the player's moral standing but may provoke hostility from the Khans.",
+    "locations": null,
+    "items": null,
+    "enemies": null,
+    "groups": null,
+    "title": "Fallout",
+    "motivation": null
+  },
+  {
+    "name": "Retrieve the GECK for Arroyo",
+    "objective": "Find and bring back the Garden of Eden Creation Kit (GECK) to save Arroyo.",
+    "first_tasks": [
+      "Travel to Vault City to inquire about the GECK.",
+      "Gain access to Vault 8.",
+      "Search the Vault for the GECK.",
+      "Find an alternative source if the GECK is unavailable."
+    ],
+    "first_task_locations": [
+      {
+        "name": "Vault City",
+        "description": "A technologically advanced settlement that may have information on the GECK."
+      }
+    ],
+    "quest_giver": {
+      "name": "Arroyo Elder",
+      "description": "The leader of Arroyo who tasks you with finding the GECK to restore the village.",
+      "location": "Arroyo"
+    },
+    "reward": [
+      {
+        "name": "Experience Points",
+        "description": "Earned for finding the GECK.",
+        "amount": 4000
+      }
+    ],
+    "characters": null,
+    "tools": "NONE",
+    "description": "Arroyo is in desperate need of the GECK, a device that can revitalize barren lands. You must search Vault City and beyond to locate it and ensure the survival of your home.",
+    "locations": null,
+    "items": null,
+    "enemies": null,
+    "groups": null,
+    "title": "Fallout 2",
+    "motivation": null
+  },
+  {
+    "name": "The Gravefinder's Repose",
+    "objective": "help Malene deal with Raelynn the Gravefinder",
+    "first_tasks": ["kill Raelynn the Gravefinder"],
+    "first_task_locations": [
+      {
+        "name": "Moss Rock Cavern",
+        "description": "a cave just north of Malene's inn"
+      }
+    ],
+    "quest_giver": {
+      "name": "Malene",
+      "description": "an innkeeper",
+      "location": "Malene's inn"
+    },
+    "reward": [
+      {
+        "name": "",
+        "description": "a handsome bounty",
+        "amount": 1
+      }
+    ],
+    "characters": [
+      {
+        "name": "Raelynn the Gravefinder",
+        "description": "a female necromancer",
+        "location": ""
+      }
+    ],
+    "tools": [
+      "Malene has seen undead of all types walking in the dark woods near the entrance to Moss Rock Cavern"
+    ],
+    "description": "Thank goodness someone that can help is here! I don't know how to make this request any simpler, but to put it bluntly, Raelynn the Gravefinder must die.\nA few months ago, that witch of a Necromancer decided to inhabit Moss Rock Cavern just north of my inn. I don't know what she does in there; frankly, I don't want to know. However, I do know that after she arrived, the woods at night became unsafe.\nI've seen undead of all types walking in the dark woods near the cave entrance. Now, this area's getting a bad reputation and my business has waned. Every day, it seems the number of undead increase.\nIf someone can get into the cave and kill Raelynn, maybe we can stem the tide. Her death pays a handsome bounty. I hope you'll take advantage of the opportunity. Raelynn will finally get what's coming to her.",
+    "locations": null,
+    "items": null,
+    "enemies": null,
+    "groups": null,
+    "title": "The Elder Scrolls IV: Oblivion",
+    "motivation": null
+  },
+  {
+    "name": "The Mastermind",
+    "objective": "infiltrate the Thalmor Embassy, and find out who's behind the dragons",
+    "first_tasks": [
+      "meet Delphine to talk about her plan to get inside the Thalmor Embassy"
+    ],
+    "first_task_locations": [
+      {
+        "name": "Riverwood",
+        "description": "a village"
+      }
+    ],
+    "quest_giver": {
+      "name": "Delphine",
+      "description": "a paranoid member of the Blades",
+      "location": ""
+    },
+    "reward": [
+      {
+        "name": "NONE",
+        "description": "",
+        "amount": 1
+      }
+    ],
+    "characters": null,
+    "tools": ["NONE"],
+    "description": "The first thing we need to do is figure out who's behind the dragons. The Thalmor are our best lead. If they aren't involved, they'll know who is.\nIf we could get into the Thalmor Embassy... it's the center of their operations in Skyrim... Problem is, that place is locked up tighter than a miser's purse. They could teach me a few things about paranoia...\nI have a few ideas about getting inside the Embassy, but I'll need some time to pull things together... Meet me back in Riverwood. If I'm not back when you get there, wait for me. I shouldn't be long.\nKeep an eye on the sky. This is only going to get worse.",
+    "locations": [
+      {
+        "name": "",
+        "description": "Thalmor Embassy, the center of the Thalmor's operations in Skyrim that is locked up tight"
+      },
+      {
+        "name": "Skyrim",
+        "description": "a realm"
+      }
+    ],
+    "items": null,
+    "enemies": null,
+    "groups": [
+      {
+        "name": "Blades",
+        "description": "an intelligence organization"
+      },
+      {
+        "name": "Thalmor",
+        "description": "a foreign power who knows who is behind the dragons"
+      }
+    ],
+    "title": "The Elder Scrolls V: Skyrim",
+    "motivation": null
+  },
+  {
+    "name": "Breaking the Siege",
+    "objective": "free the Guardian of Mana",
+    "first_tasks": ["fight your way past the Ezrohir to the Guardian of Mana"],
+    "first_task_locations": [
+      {
+        "name": "Riftkeep",
+        "description": "a nearby fortress that was designated as a neutral ground, where the Zeraphi and the Ezrohir could meet and talk over their differences, now occupied by the Ezrohir"
+      }
+    ],
+    "quest_giver": {
+      "name": "",
+      "description": "the player's ally",
+      "location": ""
+    },
+    "reward": [
+      {
+        "name": "NONE",
+        "description": "",
+        "amount": 1
+      }
+    ],
+    "characters": [
+      {
+        "name": "Guardian of Mana",
+        "description": "a powerful spirit",
+        "location": "Riftkeep"
+      }
+    ],
+    "tools": ["NONE"],
+    "description": "When the Zeraphi and Ezrohir \"parted ways,\" they designated the nearby fortress of Riftkeep as a neutral ground, where they could meet and talk over their differences. But it has remained unused for centuries... until a few weeks ago, when the Ezrohir army seized the fortress. They have occupied it ever since, and that is surely where they are holding the Guardian of Mana while they marshal their forces.\nThe Ezrohir will be expecting the Zeraphi to attack them at Riftkeep, to attempt to rescue the Guardian. But they know it will take time for the Zeraphi to arrive. You can get there much more quickly, and fight your way inside before they are prepared to repel you.\nGo. Fight past the Ezrohir and free the Guardian!",
+    "locations": null,
+    "items": null,
+    "enemies": null,
+    "groups": [
+      {
+        "name": "Ezrohir",
+        "description": "a hostile race of people, originally a faction of the Zeraphi"
+      },
+      {
+        "name": "Zeraphi",
+        "description": "a race of people, the player's allies"
+      }
+    ],
+    "title": "Torchlight II",
+    "motivation": null
+  },
+  {
+    "name": "Ice Cold",
+    "objective": "bring five ice wraith teeth to Marise Aravel",
+    "first_tasks": ["find five ice wraith teeth"],
+    "first_task_locations": [
+      {
+        "name": "Ancient's Ascent",
+        "description": "a dragon lair"
+      }
+    ],
+    "quest_giver": {
+      "name": "Marise Aravel",
+      "description": "a food vendor",
+      "location": ""
+    },
+    "reward": [
+      {
+        "name": "NONE",
+        "description": "",
+        "amount": 1
+      }
+    ],
+    "characters": null,
+    "tools": [
+      "the player asked Marise Aravel how she keeps the food she sells so fresh"
+    ],
+    "description": "I picked up a trick from a master butcher. He showed me a way to grind up ice wraith teeth and use it as a preservative. Keeps everything cold and fresh, but only for a limited time.\nI'm always looking to replenish my supply, so if you ever come across five of them, I'd be more than happy to take them off your hands. The last traveler that traded me some said he found them at a place called Ancient's Ascent.\nCareful though, rumor has it a dragon makes its home there.",
+    "locations": null,
+    "items": [
+      {
+        "name": "",
+        "description": "ice wraith teeth",
+        "amount": 5
+      }
+    ],
+    "enemies": null,
+    "groups": null,
+    "title": "The Elder Scrolls V: Skyrim",
+    "motivation": null
+  },
+  {
+    "name": "Firebead's Scroll",
+    "objective": "bring Firebead Elvenhair's identify scroll to him",
+    "first_tasks": ["get Firebead Elvenhair's identify scroll from Tethtoril"],
+    "first_task_locations": [
+      {
+        "name": "",
+        "description": "the inner grounds"
+      }
+    ],
+    "quest_giver": {
+      "name": "Firebead Elvenhair",
+      "description": "a mage",
+      "location": ""
+    },
+    "reward": [
+      {
+        "name": "",
+        "description": "a protection spell cast by Firebead Elvenhair",
+        "amount": 1
+      }
+    ],
+    "characters": [
+      {
+        "name": "Tethtoril",
+        "description": "a male sage",
+        "location": ""
+      }
+    ],
+    "tools": ["Firebead Elvenhair left his identify scroll to Tethtoril"],
+    "description": "I, Firebead Elvenhair, have a small errand for you.\nI left an identify scroll with Tethtoril, in the inner grounds. He should be done examining it by now, so if you could fetch it for me, I'd be grateful. I have a great use for those types of scrolls.\nAllow me to cast a little spell on you as a reward. It will protect you from any evil you might meet tonight.",
+    "locations": null,
+    "items": [
+      {
+        "name": "identify scroll",
+        "description": "a special scroll",
+        "amount": 1
+      }
+    ],
+    "enemies": null,
+    "groups": null,
+    "title": "Baldur's Gate",
+    "motivation": null
+  },
+  {
+    "name": "A Rat Problem",
+    "objective": "take care of the rat problem, and return to Azzan",
+    "first_tasks": ["talk to Arvena Thelas about the rat problem in her house"],
+    "first_task_locations": [
+      {
+        "name": "Anvil",
+        "description": "a city"
+      }
+    ],
+    "quest_giver": {
+      "name": "Azzan",
+      "description": "the player's superior in the Fighters Guild",
+      "location": "Anvil"
+    },
+    "reward": [
+      {
+        "name": "NONE",
+        "description": "",
+        "amount": 1
+      }
+    ],
+    "characters": [
+      {
+        "name": "Arvena Thelas",
+        "description": "a woman",
+        "location": "Anvil"
+      }
+    ],
+    "tools": ["the player has requested their first contract from Azzan"],
+    "description": "A contract for you? I, Azzan, think I've got something that suits your experience. Arvena Thelas has some problem with rats in her house.\nAs I said, rats. I'm sure she can explain it to you better than I. She lives here in Anvil. Go and talk to her.\nGo take care of the rats. Then talk to me. Good luck!",
+    "locations": null,
+    "items": null,
+    "enemies": null,
+    "groups": [
+      {
+        "name": "Fighters Guild",
+        "description": "a mercenary guild"
+      }
+    ],
+    "title": "The Elder Scrolls IV: Oblivion",
+    "motivation": null
+  },
+  {
+    "name": "Rescue",
+    "objective": "rescue Farkas from a group of necromancers",
+    "first_tasks": ["kill the vampire leading the group of necromancers"],
+    "first_task_locations": [
+      {
+        "name": "Morvunskar",
+        "description": "a necromancer lair"
+      }
+    ],
+    "quest_giver": {
+      "name": "Florentius Baenius",
+      "description": "an eccentric follower of Arkay",
+      "location": ""
+    },
+    "reward": [
+      {
+        "name": "",
+        "description": "an enchanted item",
+        "amount": 1
+      }
+    ],
+    "characters": [
+      {
+        "name": "Farkas",
+        "description": "a man, and the player's friend",
+        "location": "Morvunskar"
+      },
+      {
+        "name": "Arkay",
+        "description": "the god of life and death",
+        "location": ""
+      }
+    ],
+    "tools": ["NONE"],
+    "description": "Arkay has some grave news, friend. Your friend, Farkas, kidnapped! A vicious night stalker rules over a group of necromancers - seeks to gain leverage over the righteous.\nArkay's never clear on life and death. Is he still alive? There's always hope... Go to Morvunskar, kill the vampire, and try to save Farkas.",
+    "locations": null,
+    "items": null,
+    "enemies": null,
+    "groups": null,
+    "title": "The Elder Scrolls V: Skyrim",
+    "motivation": null
+  },
+  {
+    "name": "Take Up Arms",
+    "objective": "prove that you are worthy of joining the Companions",
+    "first_tasks": [
+      "go with Vilkas out to the yard, and let him see what you can do"
+    ],
+    "first_task_locations": [
+      {
+        "name": "NONE",
+        "description": ""
+      }
+    ],
+    "quest_giver": {
+      "name": "Kodlak Whitemane",
+      "description": "the leader of the Companions",
+      "location": ""
+    },
+    "reward": [
+      {
+        "name": "",
+        "description": "membership in the Companions",
+        "amount": 1
+      }
+    ],
+    "characters": [
+      {
+        "name": "Vilkas",
+        "description": "a male member of the Companions",
+        "location": "next to Kodlak Whitemane"
+      }
+    ],
+    "tools": [
+      "the player told Kodlak Whitemane that they want to join the Companions"
+    ],
+    "description": "You would like to join the Companions? Would you now? Here, let me have a look at you. Hm. Yes, perhaps. A certain strength of spirit.\nHow are you in a battle, child? Don't feel like you need to show off for our sake. Vilkas, here, will be the one testing your mettle.\nLet Vilkas take you out to the yard and see what you can do.",
+    "locations": null,
+    "items": null,
+    "enemies": null,
+    "groups": [
+      {
+        "name": "Companions",
+        "description": "a band of honorable warriors"
+      }
+    ],
+    "title": "The Elder Scrolls V: Skyrim",
+    "motivation": null
+  },
+  {
+    "name": "Bittneld and Emfrid",
+    "objective": "help to bring Emfrid and Bittneld the Curse-Bringer together",
+    "first_tasks": [
+      "talk to Emfrid about Bittneld the Curse-Bringer, and talk to Bittneld the Curse-Bringer about Emfrid"
+    ],
+    "first_task_locations": [
+      {
+        "name": "NONE",
+        "description": ""
+      }
+    ],
+    "quest_giver": {
+      "name": "Casta Scribonia",
+      "description": "a female writer, and the author of 'Woman Gone Wild'",
+      "location": ""
+    },
+    "reward": [
+      {
+        "name": "NONE",
+        "description": "",
+        "amount": 1
+      }
+    ],
+    "characters": [
+      {
+        "name": "Emfrid",
+        "description": "the female proprietor of the Grey Mare",
+        "location": ""
+      },
+      {
+        "name": "Bittneld the Curse-Bringer",
+        "description": "a male guard captain",
+        "location": ""
+      }
+    ],
+    "tools": ["NONE"],
+    "description": "Hello. I'm Casta Scribonia. The writer. Author of 'Woman Gone Wild'.\nWho is the fairest of them all? Other than myself? Emfrid, the proprietor of the Grey Mare is lovely. She and Bittneld the Curse-Bringer, the guard captain would be a nice couple....\nPerhaps you could bring them together somehow... try talking to them both about each other?",
+    "locations": [
+      {
+        "name": "Grey Mare",
+        "description": "a tavern"
+      }
+    ],
+    "items": [
+      {
+        "name": "'Woman Gone Wild'",
+        "description": "a book",
+        "amount": 1
+      }
+    ],
+    "enemies": null,
+    "groups": null,
+    "title": "The Elder Scrolls IV: Oblivion",
+    "motivation": null
+  },
+  {
+    "name": "Hitting the Books",
+    "objective": "find the books needed to identify the artifact you found",
+    "first_tasks": ["talk to Orthorn"],
+    "first_task_locations": [
+      {
+        "name": "Fellglow Keep",
+        "description": "a summoner fortress"
+      }
+    ],
+    "quest_giver": {
+      "name": "Urag gro-Shub",
+      "description": "a librarian",
+      "location": "College of Winterhold"
+    },
+    "reward": [
+      {
+        "name": "NONE",
+        "description": "",
+        "amount": 1
+      }
+    ],
+    "characters": [
+      {
+        "name": "Orthorn",
+        "description": "an ex-student of the College of Winterhold",
+        "location": "Fellglow Keep"
+      }
+    ],
+    "tools": [
+      "Orthorn stole books from Urag gro-Shub and left to join the summoners at Fellglow Keep"
+    ],
+    "description": "I know what you want. Word travels fast around here. Discovered some big mystery, huh? Well you don't even need to ask. No, I don't have anything for you. Not anymore, anyway.\nOrthorn stole a number of books when he ran off to Fellglow Keep to join those Summoners. Some kind of peace offering. I think one of those volumes may have had some relevant information. If you want them, you'll have to talk to Orthorn.",
+    "locations": [
+      {
+        "name": "College of Winterhold",
+        "description": "a college for mages"
+      }
+    ],
+    "items": null,
+    "enemies": null,
+    "groups": null,
+    "title": "The Elder Scrolls V: Skyrim",
+    "motivation": null
+  },
+  {
+    "name": "Secrets of the Ayleids",
+    "objective": "escort Umbacano to the Throne Room of Nenalata",
+    "first_tasks": ["try to buy the Crown of Nenalata from Herminia Cinna"],
+    "first_task_locations": [
+      {
+        "name": "",
+        "description": "Herminia Cinna's home, in the Imperial City, the Elven Gardens district"
+      }
+    ],
+    "quest_giver": {
+      "name": "Umbacano",
+      "description": "a collector of Ayleid artifacts",
+      "location": "Imperial City"
+    },
+    "reward": [
+      {
+        "name": "",
+        "description": "whatever plunder the player wishes to carry off from Nenalata",
+        "amount": 1
+      }
+    ],
+    "characters": [
+      {
+        "name": "Herminia Cinna",
+        "description": "a female collector of Ayleid artifacts, and a rival to Umbacano",
+        "location": "Herminia Cinna's home"
+      }
+    ],
+    "tools": [
+      "the player has obtained Ayleid artifacts for Umbacano before",
+      "Herminia Cinna refuses to sell the Crown of Nenalata to Umbacano",
+      "Umbacano needs to go to Nenalata in order to bring his research on the last king of the Ayleids to its final stage"
+    ],
+    "description": "I have another job for you. This is not quite in your usual line of work, but I hope you can help me just the same.\nA rival collector has an item, the Crown of Nenalata, which I very much want to add to my collection. But she stubbornly refuses to consider any of my offers. She and I have had our differences over the years, I admit. Now she is taking this opportunity to get her revenge. I believe that you may be able to persuade her to part with the item, where I cannot due to her prejudice against me. Her name is Herminia Cinna. She lives here in the Imperial City, in the Elven Gardens district.\nI hope you will succeed where I have so far failed. Afterwards, in order to bring my research on the last king of the Ayleids to its final stage, I need to go to the Throne Room of Nenalata. While I am not without means of defending myself, I believe you would be an invaluable companion on such an expedition. Your reward will be whatever plunder you wish to carry off from Nenalata. Since the Throne Room has been sealed since the time of the Ayleids, it should provide rich pickings.",
+    "locations": [
+      {
+        "name": "Nenalata",
+        "description": "an ancient Ayleid city"
+      },
+      {
+        "name": "Imperial City",
+        "description": "a large city"
+      }
+    ],
+    "items": null,
+    "enemies": null,
+    "groups": [
+      {
+        "name": "Ayleids",
+        "description": "an ancient, extinct race of elves"
+      }
+    ],
+    "title": "The Elder Scrolls IV: Oblivion",
+    "motivation": null
+  },
+  {
+    "name": "Blood of the Daedra",
+    "objective": "acquire a Daedric artifact for Martin",
+    "first_tasks": ["locate one of the Daedric cults"],
+    "first_task_locations": [
+      {
+        "name": "NONE",
+        "description": ""
+      }
+    ],
+    "quest_giver": {
+      "name": "Martin",
+      "description": "the player's friend",
+      "location": ""
+    },
+    "reward": [
+      {
+        "name": "NONE",
+        "description": "",
+        "amount": 1
+      }
+    ],
+    "characters": null,
+    "tools": [
+      "Martin has deciphered one of the four items needed for the ritual needed to open a portal to Camoran's Paradise with the Mysterium Xarxes: the blood of a Daedra Lord",
+      "\"Modern Heretics\" is the best introduction to Daedric cults: the library here has a copy",
+      "the Mysterium Xarxes ritual will consume the physical form of the Daedric artifact"
+    ],
+    "description": "I've deciphered part of the ritual needed to open a portal to Camoran's Paradise.\nThe Mysterium Xarxes mentions four items needed for the ritual, but so far I have only deciphered one of them: the 'blood of a Daedra Lord'. In fact, Daedric artifacts are known to be formed from the essence of a Daedric Lord, from whence they derive their great power. Not an easy thing to come by, obviously, but we will need a Daedric artifact.\nThe only way to obtain a Daedric artifact is through the cults devoted to each of the Daedric Lords. The book \"Modern Heretics\" is the best introduction to Daedric cults. The library here has a copy if you need it.\nBring the artifact to me when you have acquired one. Remember, the Mysterium Xarxes ritual will consume the physical form of the artifact in order to release its Daedric power.",
+    "locations": [
+      {
+        "name": "Camoran's Paradise",
+        "description": "the hideout of the player's enemy"
+      }
+    ],
+    "items": [
+      {
+        "name": "\"Modern Heretics\"",
+        "description": "a book",
+        "amount": 1
+      },
+      {
+        "name": "Mysterium Xarxes",
+        "description": "a book of rituals",
+        "amount": 1
+      },
+      {
+        "name": "Daedric",
+        "description": "an adjective referring to the Daedra",
+        "amount": 1
+      }
+    ],
+    "enemies": null,
+    "groups": [
+      {
+        "name": "Daedra",
+        "description": "immortal, fickle, infamous beings who have artifacts in the mortal world"
+      }
+    ],
+    "title": "The Elder Scrolls IV: Oblivion",
+    "motivation": null
+  },
+  {
+    "name": "The Merryweather Poultice",
+    "objective": "help Medrus treat himself",
+    "first_tasks": ["bring some Merryweather Leaves to Medrus"],
+    "first_task_locations": [
+      {
+        "name": "",
+        "description": "around here"
+      }
+    ],
+    "quest_giver": {
+      "name": "Medrus",
+      "description": "a badly injured man",
+      "location": ""
+    },
+    "reward": [
+      {
+        "name": "",
+        "description": "Medrus will reward the player",
+        "amount": 1
+      }
+    ],
+    "characters": null,
+    "tools": ["NONE"],
+    "description": "Hello! I thought I heard someone moving around out there.\nListen, my name's Medrus. I got ambushed by some raiders, and managed to get clear... but I got pretty badly injured in the process. I can treat it, but I need some Merryweather Leaves. They grow around here, but I'm too weak to look for them.\nThink you can find some for me, bring 'em back here? You'll be rewarded, I promise.",
+    "locations": null,
+    "items": [
+      {
+        "name": "Merryweather Leaves",
+        "description": "a healing herb",
+        "amount": 1
+      }
+    ],
+    "enemies": null,
+    "groups": null,
+    "title": "Torchlight II",
+    "motivation": null
+  },
+  {
+    "name": "Trinity Restored",
+    "objective": "transact the oath with Nocturnal and become one of the Nightingales",
+    "first_tasks": ["undergo the ceremony to become a Nightingale"],
+    "first_task_locations": [
+      {
+        "name": "NONE",
+        "description": ""
+      }
+    ],
+    "quest_giver": {
+      "name": "Karliah",
+      "description": "a fellow member of the Thieves Guild, and a Nightingale",
+      "location": ""
+    },
+    "reward": [
+      {
+        "name": "",
+        "description": "all of the power and knowledge befitting a Nightingale",
+        "amount": 1
+      }
+    ],
+    "characters": [
+      {
+        "name": "Nocturnal",
+        "description": "the goddess of thieves",
+        "location": ""
+      }
+    ],
+    "tools": [
+      "the binding terms of the oath with Nocturnal: the player will be required to defend the Twilight Sepulcher and everything within when the need arises, and upon the player's death, the player's spirit will be bound to the Twilight Sepulcher as one of its guardians"
+    ],
+    "description": "Are you ready to transact the Oath with Nocturnal?\nBy transacting the Oath with Nocturnal, you're entering into a business deal. You'll be provided all of the power and knowledge befitting a Nightingale. You're free to use those powers as you see fit to further your own goals or the goals of the Thieves Guild.\nIn return, you'll be required to defend the Twilight Sepulcher and everything within when the need arises. More importantly, upon your death, your spirit will be bound to the Twilight Sepulcher as one of its guardians.\nOnce the Oath has been struck, the terms are binding. Knowing this, are you ready to undergo the ceremony?",
+    "locations": [
+      {
+        "name": "Twilight Sepulcher",
+        "description": "temple of Nocturnal"
+      }
+    ],
+    "items": null,
+    "enemies": null,
+    "groups": [
+      {
+        "name": "Thieves Guild",
+        "description": "a guild of thieves"
+      },
+      {
+        "name": "Nightingales",
+        "description": "a trio of highly skilled thieves dedicated to the service of Nocturnal"
+      }
+    ],
+    "title": "The Elder Scrolls V: Skyrim",
+    "motivation": null
+  },
+  {
+    "name": "Honor Thy Family",
+    "objective": "regain the trust of your fellow Dark Brotherhood members",
+    "first_tasks": ["pay 500 gold"],
+    "first_task_locations": [
+      {
+        "name": "NONE",
+        "description": ""
+      }
+    ],
+    "quest_giver": {
+      "name": "Nazir",
+      "description": "a fellow member of the Dark Brotherhood",
+      "location": ""
+    },
+    "reward": [
+      {
+        "name": "",
+        "description": "readmission into the Dark Brotherhood",
+        "amount": 1
+      }
+    ],
+    "characters": null,
+    "tools": ["NONE"],
+    "description": "You disrespected the Dark Brotherhood. And it'll cost you. You want back into the Family, you pay the price. 500 gold, and all is forgiven.\nI suggest you \"collect\" it. Until you pay the fine, you are effectively cut off from all Dark Brotherhood duties and contracts.\nNo contracts. No rewards. No respect.",
+    "locations": null,
+    "items": [
+      {
+        "name": "",
+        "description": "gold",
+        "amount": 500
+      }
+    ],
+    "enemies": null,
+    "groups": [
+      {
+        "name": "Dark Brotherhood",
+        "description": "a guild of assassins"
+      }
+    ],
+    "title": "The Elder Scrolls V: Skyrim",
+    "motivation": null
+  },
+  {
+    "name": "The Pursuit",
+    "objective": "search for clues about Mercer Frey's whereabouts",
+    "first_tasks": ["break into Mercer Frey's house"],
+    "first_task_locations": [
+      {
+        "name": "Riftweald Manor",
+        "description": "Mercer Frey's home in Riften, a gift from the Black-Briars after they kicked the previous family out"
+      }
+    ],
+    "quest_giver": {
+      "name": "Brynjolf",
+      "description": "a fellow member of the Thieves Guild",
+      "location": ""
+    },
+    "reward": [
+      {
+        "name": "NONE",
+        "description": "",
+        "amount": 1
+      }
+    ],
+    "characters": [
+      {
+        "name": "Mercer Frey",
+        "description": "a male guildmaster of the Thieves Guild who betrayed the Thieves Guild",
+        "location": ""
+      },
+      {
+        "name": "Vald",
+        "description": "a male lowlife",
+        "location": "Riftweald Manor"
+      }
+    ],
+    "tools": [
+      "Mercer Frey never stays at Riftweald Manor: he hired Vald to guard Riftweald Manor",
+      "the player has the permission to kill anyone who stands in their way"
+    ],
+    "description": "I have an important task for you. I need you to break into Mercer Frey's home and search for anything that could tell us where he's gone.\nMercer's house is in Riften. A gift from the Black-Briars after they kicked the previous family out... a place called Riftweald Manor. He never stays there, just pays for the upkeep on it. Hired some lout by the name of Vald to guard the place.\nBe careful, kid. This is the last place in Skyrim I'd ever want to send you. Just find a way in, get the information and leave. And you have permission to kill anyone that stands in your way.",
+    "locations": [
+      {
+        "name": "Riften",
+        "description": "a city in Skyrim"
+      },
+      {
+        "name": "Skyrim",
+        "description": "a province"
+      }
+    ],
+    "items": null,
+    "enemies": null,
+    "groups": [
+      {
+        "name": "Thieves Guild",
+        "description": "a guild of thieves"
+      },
+      {
+        "name": "Black-Briars",
+        "description": "a powerful crime family"
+      }
+    ],
+    "title": "The Elder Scrolls V: Skyrim",
+    "motivation": null
+  },
+  {
+    "name": "Diplomatic Immunity",
+    "objective": "infiltrate the party at the Thalmor Embassy, and find Elenwen's secret files",
+    "first_tasks": ["talk to Malborn", "meet Delphine"],
+    "first_task_locations": [
+      {
+        "name": "The Winking Skeever",
+        "description": "an inn in Solitude"
+      },
+      {
+        "name": "",
+        "description": "Solitude stables"
+      }
+    ],
+    "quest_giver": {
+      "name": "Delphine",
+      "description": "a paranoid member of the Blades",
+      "location": ""
+    },
+    "reward": [
+      {
+        "name": "NONE",
+        "description": "",
+        "amount": 1
+      }
+    ],
+    "characters": [
+      {
+        "name": "Elenwen",
+        "description": "the female Thalmor ambassador",
+        "location": "Thalmor Embassy"
+      },
+      {
+        "name": "Malborn",
+        "description": "a male wood elf who is Delphine's trusty contact inside the Thalmor Embassy",
+        "location": "The Winking Skeever"
+      }
+    ],
+    "tools": [
+      "Elenwen regularly throws parties: while the player is talking with Malborn, Delphine gets the player an invitation to one of Elenwen's parties"
+    ],
+    "description": "The Thalmor ambassador, Elenwen, regularly throws parties where the rich and connected cozy up to the Thalmor.\nI can get you into one of those parties. Once you're inside the Embassy, you get away and find Elenwen's secret files. I have a contact inside the Embassy. He's not up for this kind of high-risk mission, but he can help you. His name's Malborn. Wood elf, plenty of reason to hate the Thalmor. You can trust him.\nI'll get word for him to meet you in Solitude, at the Winking Skeever -- you know it? While you're doing that, I'll work on getting you an invitation to Elenwen's little party.\nMeet me at the Solitude stables after you've arranged things with Malborn.",
+    "locations": [
+      {
+        "name": "",
+        "description": "Thalmor Embassy, the embassy of the Thalmor"
+      },
+      {
+        "name": "Solitude",
+        "description": "a city"
+      }
+    ],
+    "items": null,
+    "enemies": null,
+    "groups": [
+      {
+        "name": "Blades",
+        "description": "an intelligence organization"
+      },
+      {
+        "name": "Thalmor",
+        "description": "a foreign power"
+      }
+    ],
+    "title": "The Elder Scrolls V: Skyrim",
+    "motivation": null
+  },
+  {
+    "name": "A Mail Delivery",
+    "objective": "make a delivery for Sylgja to her parents",
+    "first_tasks": ["deliver a satchel of letters to Verner"],
+    "first_task_locations": [
+      {
+        "name": "Darkwater Crossing",
+        "description": "a village where Sylgja's parents live"
+      }
+    ],
+    "quest_giver": {
+      "name": "Sylgja",
+      "description": "an injured woman, and a good daughter",
+      "location": ""
+    },
+    "reward": [
+      {
+        "name": "",
+        "description": "a reward for the player's time",
+        "amount": 1
+      }
+    ],
+    "characters": [
+      {
+        "name": "Verner",
+        "description": "Sylgja's father",
+        "location": "Darkwater Crossing"
+      }
+    ],
+    "tools": ["Sylgja assumes that Verner have something for her"],
+    "description": "Would you happen to be headed towards Darkwater Crossing?\nMy parents live there. I usually make the journey to bring them gifts and to just say hello, but I haven't been well lately.\nI've written some letters and placed them in a satchel. Perhaps you wouldn't mind delivering it to them on my behalf? I would insist on rewarding you for your time.\nHere, take my satchel and give it to my father, Verner. He'll likely have something for you to bring back.",
+    "locations": null,
+    "items": null,
+    "enemies": null,
+    "groups": null,
+    "title": "The Elder Scrolls V: Skyrim",
+    "motivation": null
+  },
+  {
+    "name": "Quinn's Friend",
+    "objective": "bring something belonging to Nester to Quinn",
+    "first_tasks": ["find something belonging to Nester"],
+    "first_task_locations": [
+      {
+        "name": "",
+        "description": "upriver, along the east bank, north of the bitch priestess"
+      }
+    ],
+    "quest_giver": {
+      "name": "Quinn",
+      "description": "a man scared of ankhegs",
+      "location": ""
+    },
+    "reward": [
+      {
+        "name": "NONE",
+        "description": "",
+        "amount": 1
+      }
+    ],
+    "characters": [
+      {
+        "name": "Nester",
+        "description": "Quinn's friend, who was killed by ankhegs",
+        "location": ""
+      }
+    ],
+    "tools": ["NONE"],
+    "description": "I'm Quinn. There's some ankhegs causin' chaos upriver, alon' the east bank, just north o' that bitch priestess.\nThey took down my pal, Nester, and dang near hauled me under too. 'At's why I'm so glum now. Nester's mama's gonna want somepin' of 'is to bury, but I'm still gettin' too many nightmares and all to go back there.",
+    "locations": null,
+    "items": null,
+    "enemies": null,
+    "groups": null,
+    "title": "Baldur's Gate",
+    "motivation": null
+  },
+  {
+    "name": "Witness a secret transaction",
+    "objective": "Observe a clandestine deal and report back.",
+    "first_tasks": [
+      "Travel to the designated meeting point.",
+      "Stay hidden and witness the transaction.",
+      "Return and report your findings."
+    ],
+    "first_task_locations": [
+      {
+        "name": "Desert location",
+        "description": "A remote and secluded area where the deal takes place."
+      }
+    ],
+    "quest_giver": {
+      "name": "Mr. Salvatore",
+      "description": "A powerful crime boss in New Reno who wants intel on the deal."
+    },
+    "reward": [
+      {
+        "name": "Experience Points",
+        "amount": 1000,
+        "description": "For successfully witnessing the transaction."
+      },
+      {
+        "name": "Caps",
+        "amount": 500,
+        "description": "A payment for gathering information."
+      }
+    ],
+    "characters": null,
+    "tools": "NONE",
+    "description": "Mr. Salvatore needs someone to witness a secret deal without being detected. Watch the transaction carefully and report back.",
+    "locations": null,
+    "items": null,
+    "enemies": null,
+    "groups": null,
+    "title": "Fallout 2",
+    "motivation": null
+  },
+  {
+    "name": "A Rose, My Darling",
+    "objective": "bring a rose to Romeo",
+    "first_tasks": ["find a rose"],
+    "first_task_locations": [
+      {
+        "name": "",
+        "description": "temperate forests"
+      }
+    ],
+    "quest_giver": {
+      "name": "Romeo",
+      "description": "a man in love",
+      "location": ""
+    },
+    "reward": [
+      {
+        "name": "",
+        "description": "pumpkin pies",
+        "amount": 27
+      }
+    ],
+    "characters": null,
+    "tools": ["the player is a famous hero"],
+    "description": "Great timing, Hero. I'm suffering... my poor heart is writhing in love.\nHelp me find a rose for my loved one, so that my heart may yet calm down. All I need is but a single rose. They can be found in various temperate forests.\nPlease, help a fellow in love. I have 27 pumpkin pies I can give you.",
+    "locations": null,
+    "items": null,
+    "enemies": null,
+    "groups": null,
+    "title": "Minecraft",
+    "motivation": "comfort"
+  },
+  {
+    "name": "Loose Connections",
+    "objective": "reacquire the rest of Trill-Bot 4000's components",
+    "first_tasks": ["find the Cognition Linkage"],
+    "first_task_locations": [
+      {
+        "name": "",
+        "description": "somewhere nearby"
+      }
+    ],
+    "quest_giver": {
+      "name": "Trill-Bot 4000",
+      "description": "a robot",
+      "location": ""
+    },
+    "reward": [
+      {
+        "name": "",
+        "description": "Trill-Bot 4000 will direct the player toward a treasure trove",
+        "amount": 1
+      }
+    ],
+    "characters": null,
+    "tools": [
+      "the player found Trill-Bot 4000's body, which stores his memories"
+    ],
+    "description": "It appears you have found my body. Very good. This is where my memories are stored \u2026 including the locations of multiple caches of treasure. I could share these with you, if you would help me reacquire the rest of my components.\nWe should begin with my Cognition Linkage. Without that, I won't be able to do much more than repeat this message. My sensors tell me it is somewhere nearby. Find it and reinstall it, and I will direct you to one of those treasure troves.",
+    "locations": null,
+    "items": [
+      {
+        "name": "Cognition Linkage",
+        "description": "an important component of Trill-Bot 4000",
+        "amount": 1
+      }
+    ],
+    "enemies": null,
+    "groups": null,
+    "title": "Torchlight II",
+    "motivation": null
+  },
+  {
+    "name": "Locate a Caretaker for Risa",
+    "objective": "do something to help Risa",
+    "first_tasks": ["find a guardian for Risa"],
+    "first_task_locations": [
+      {
+        "name": "NONE",
+        "description": ""
+      }
+    ],
+    "quest_giver": {
+      "name": "Dawnlord Arenthis",
+      "description": "a member of the church of Lathander",
+      "location": ""
+    },
+    "reward": [
+      {
+        "name": "NONE",
+        "description": "",
+        "amount": 1
+      }
+    ],
+    "characters": [
+      {
+        "name": "Risa",
+        "description": "a shy, sad, young girl, and Dawnlord Arenthis' charge",
+        "location": "next to Dawnlord Arenthis"
+      },
+      {
+        "name": "Lathander",
+        "description": "the good god of dawn",
+        "location": ""
+      }
+    ],
+    "tools": ["Risa does not talk much since the death of her parents"],
+    "description": "I am Dawnlord Arenthis of the church of Lathander... excuse my young charge. Risa doesn't talk much since the recent death of her parents.\nThere is very little that can be done for her as well... other than to put her into an orphanage, I suppose. She is so shy and sad, though, I am sure it will do her no good.\nIf only there were someone who would care for her. Might you know of someone who would make a suitable guardian?",
+    "locations": null,
+    "items": null,
+    "enemies": null,
+    "groups": null,
+    "title": "Baldur's Gate II: Shadows of Amn",
+    "motivation": null
+  },
+  {
+    "name": "Bruma Gate",
+    "objective": "help the Bruma guard close an Oblivion Gate just outside Bruma",
+    "first_tasks": [
+      "meet up with Captain Burd and let him show you the Oblivion Gate"
+    ],
+    "first_task_locations": [
+      {
+        "name": "",
+        "description": "outside the Bruma city gate"
+      }
+    ],
+    "quest_giver": {
+      "name": "Jauffre",
+      "description": "a military leader",
+      "location": ""
+    },
+    "reward": [
+      {
+        "name": "NONE",
+        "description": "",
+        "amount": 1
+      }
+    ],
+    "characters": [
+      {
+        "name": "Countess",
+        "description": "the female noble who rules Bruma",
+        "location": "Bruma"
+      },
+      {
+        "name": "Captain Burd",
+        "description": "the male captain of the Bruma guard",
+        "location": "outside the Bruma city gate"
+      }
+    ],
+    "tools": [
+      "Jauffre has received a message from the Countess: an Oblivion Gate has opened outside the city, and the Mythic Dawn are putting their plan to attack Bruma into motion",
+      "Jauffre wants the player to show the Countess's guard how to close Oblivion Gates"
+    ],
+    "description": "I've just received word from the Countess of Bruma that an Oblivion Gate has opened outside the city. It seems that the Mythic Dawn are putting their plan to attack Bruma into motion.\nSince you've dealt with these Gates before, I'd like you to help the Countess's guard close this gate. Once they've seen how it's done, they should be able to handle any new gates on their own.\nCaptain Burd is waiting for you outside the Bruma city gate. He'll show you the Oblivion Gate. Although I doubt it will be hard to find.",
+    "locations": [
+      {
+        "name": "Bruma",
+        "description": "a city"
+      }
+    ],
+    "items": null,
+    "enemies": null,
+    "groups": [
+      {
+        "name": "Mythic Dawn",
+        "description": "an evil cult that wants to destroy everything"
+      }
+    ],
+    "title": "The Elder Scrolls IV: Oblivion",
+    "motivation": null
+  },
+  {
+    "name": "Pilgrimage",
+    "objective": "help Alessandra make peace with her dead father",
+    "first_tasks": [
+      "bring Alessandra's ceremonial dagger to Andurs so it can be interred with Alessandra's father's remains"
+    ],
+    "first_task_locations": [
+      {
+        "name": "Hall of the Dead",
+        "description": "a hall where bodies are interred and cared for, in Whiterun"
+      }
+    ],
+    "quest_giver": {
+      "name": "Alessandra",
+      "description": "a priest of Arkay",
+      "location": ""
+    },
+    "reward": [
+      {
+        "name": "NONE",
+        "description": "",
+        "amount": 1
+      }
+    ],
+    "characters": [
+      {
+        "name": "Arkay",
+        "description": "the god of burials and funeral rites",
+        "location": ""
+      },
+      {
+        "name": "Andurs",
+        "description": "a male caretaker",
+        "location": "Hall of the Dead"
+      }
+    ],
+    "tools": [
+      "Alessandra did not want to become a Priest of Arkay like her father",
+      "Alessandra gives the player her ceremonial dagger"
+    ],
+    "description": "I am Alessandra, a priest of Arkay.\nMy father was a Priest of Arkay, as well. All my life was spent around the dead, being forced to learn the proper burial rituals and prayers. I never had any friends; who'd want to spend time with 'the little weird girl who hangs around dead people?' So I grew up with a miserable trade. This is all I know how to do... prepare and inter the deceased.\nI'd like to make the journey to the Hall of the Dead in Whiterun and give my ceremonial dagger to Andurs, the caretaker. I believe once it's interred with my father's remains I'll be at peace with his memory.\nA Priest of Arkay is entrusted with a ceremonial dagger once they've completed their training. It's usually given by the head priest who sanctified the ritual. In my case, the head priest happened to be my father. The thing is, I never wanted to follow in his footsteps... In some ways I still don't.\nI'm entrusting you with the dagger. Bring it to Andurs and he'll take care of the rest.",
+    "locations": [
+      {
+        "name": "Whiterun",
+        "description": "a city"
+      }
+    ],
+    "items": null,
+    "enemies": null,
+    "groups": null,
+    "title": "The Elder Scrolls V: Skyrim",
+    "motivation": null
+  },
+  {
+    "name": "Colquetle's Family",
+    "objective": "find out what happened to Mr. Colquetle's son and his wife",
+    "first_tasks": ["find Mr. Colquetle's son and his wife"],
+    "first_task_locations": [
+      {
+        "name": "NONE",
+        "description": ""
+      }
+    ],
+    "quest_giver": {
+      "name": "Mr. Colquetle",
+      "description": "a depressed man",
+      "location": ""
+    },
+    "reward": [
+      {
+        "name": "NONE",
+        "description": "",
+        "amount": 1
+      }
+    ],
+    "characters": [
+      {
+        "name": "",
+        "description": "Mr. Colquetle's son and his wife",
+        "location": ""
+      }
+    ],
+    "tools": [
+      "Mr. Colquetle's son and his wife traveled away and went missing"
+    ],
+    "description": "What cruel whim of the fates controls this torment of me?!\nI, Mr. Colquetle, have heard nothing from my son and his wife for nigh unto a week now, and all else pales in importance until I do. I should have known better than to allow his travel in these dangerous times.",
+    "locations": null,
+    "items": null,
+    "enemies": null,
+    "groups": null,
+    "title": "Baldur's Gate",
+    "motivation": null
+  },
+  {
+    "name": "A Kiss Before Dying",
+    "objective": "assassinate Ungolim",
+    "first_tasks": [
+      "eliminate Ungolim when he visits the Lucky Old Lady at night between 6:00 PM and 1:00 AM"
+    ],
+    "first_task_locations": [
+      {
+        "name": "Bravil",
+        "description": "a city"
+      }
+    ],
+    "quest_giver": {
+      "name": "Lucien Lachance",
+      "description": "the player's superior in the Dark Brotherhood, giving quest via \"Dead Drop Orders #7\"",
+      "location": ""
+    },
+    "reward": [
+      {
+        "name": "",
+        "description": "the player's dead drop is in a barrel located behind the statue in the pond in Anvil: the player's reward and next contract will be waiting",
+        "amount": 1
+      }
+    ],
+    "characters": [
+      {
+        "name": "Ungolim",
+        "description": "a male Wood Elf Archer, loves a married woman",
+        "location": "Bravil"
+      },
+      {
+        "name": "Havilstein Hoar-Blood",
+        "description": "a horrible man",
+        "location": ""
+      }
+    ],
+    "tools": [
+      "the player killed Havilstein Hoar-Blood for Lucien Lachance",
+      "Ungolim spends his days securely locked inside his house"
+    ],
+    "description": "Dead Drop Orders #7\nby Lucien Lachance\n\nMy compliments on another job well done! Havilstein Hoar-Blood was more swine than man, and deserved to die quivering like an animal! You must not stop! You must kill again!\nYour next target is a Wood Elf named Ungolim, who resides in the city of Bravil. Bravil is also home to an ancient statue known as the Lucky Old Lady. It is seen as a symbol of good luck and prosperity, and the fools of Bravil often speak to the statue and wish for good tidings. Every night, poor lovestruck Ungolim visits the statue and pleads desperately for the heart of a young maiden. This maiden is married, and her husband has learned of Ungolim's affection for his bride. He fears the competition, it would seem, and has commissioned the Dark Brotherhood to help in the matter.\nYou must go to Bravil, locate Ungolim, and kill him. The Wood Elf owns a house in the city, but he spends his days securely locked inside. I recommend you lie in wait at the Lucky Old Lady statue, and then eliminate Ungolim when he arrives for his nightly visit. He's generally there between the hours of 6:00 PM and 1:00 AM.\nBy all accounts, Ungolim is a deadly archer and a fearless opponent. I also have reason to believe he is expecting trouble, so if Ungolim senses danger, he may attack you on sight. Be vigilant, and bring the Wood Elf down! You must not fail!\nWhen Ungolim's body lies broken at the foot of his dear statue, you must journey to the city of Anvil. Your dead drop is in a barrel located behind the statue in the pond. As is standard, your reward and next contract will be waiting.",
+    "locations": [
+      {
+        "name": "Anvil",
+        "description": "a city"
+      }
+    ],
+    "items": [
+      {
+        "name": "\"Dead Drop Orders #7\"",
+        "description": "a note",
+        "amount": 1
+      },
+      {
+        "name": "Lucky Old Lady",
+        "description": "an ancient statue in Bravil, a symbol of good luck and prosperity",
+        "amount": 1
+      }
+    ],
+    "enemies": null,
+    "groups": [
+      {
+        "name": "Dark Brotherhood",
+        "description": "a guild of assassins"
+      }
+    ],
+    "title": "The Elder Scrolls IV: Oblivion",
+    "motivation": null
+  },
+  {
+    "name": "Regroup at the Enclave",
+    "objective": "plan your next move with Commander Vale",
+    "first_tasks": ["return to the Estherian Enclave"],
+    "first_task_locations": [
+      {
+        "name": "Estherian Enclave",
+        "description": "a settlement"
+      }
+    ],
+    "quest_giver": {
+      "name": "Guardian of Water",
+      "description": "a powerful spirit of nature who was attacked by the Alchemist, one of the Guardians",
+      "location": ""
+    },
+    "reward": [
+      {
+        "name": "NONE",
+        "description": "",
+        "amount": 1
+      }
+    ],
+    "characters": [
+      {
+        "name": "Commander Vale",
+        "description": "a female military leader",
+        "location": ""
+      },
+      {
+        "name": "Alchemist",
+        "description": "an evil man",
+        "location": ""
+      }
+    ],
+    "tools": [
+      "the Alchemist gets more dangerous each time he siphons off energy from Guardians"
+    ],
+    "description": "The Alchemist must be stopped before he attacks any more Guardians! Each time he siphons off our energy, he becomes more dangerous.\nYou and Commander Vale should return the Estherian Enclave, and plan your next move.",
+    "locations": null,
+    "items": null,
+    "enemies": null,
+    "groups": [
+      {
+        "name": "Guardians",
+        "description": "powerful spirits"
+      }
+    ],
+    "title": "Torchlight II",
+    "motivation": null
+  },
+  {
+    "name": "Palin and the Monsters",
+    "objective": "save people from monsters",
+    "first_tasks": ["help Palin kill monsters"],
+    "first_task_locations": [
+      {
+        "name": "",
+        "description": "east of this place"
+      }
+    ],
+    "quest_giver": {
+      "name": "Palin",
+      "description": "a fighter",
+      "location": ""
+    },
+    "reward": [
+      {
+        "name": "NONE",
+        "description": "",
+        "amount": 1
+      }
+    ],
+    "characters": null,
+    "tools": ["NONE"],
+    "description": "Good day to you, stranger. I'm called Palin. Excuse my, uhm, abruptness but I would ask your assistance.\nJust east of this place there are monsters. They are attacking a small group of people. Please, if you have hearts, come and help me fight.",
+    "locations": null,
+    "items": null,
+    "enemies": null,
+    "groups": null,
+    "title": "Baldur's Gate",
+    "motivation": null
+  },
+  {
+    "name": "Arrow Examination",
+    "objective": "bring a spectral arrow to Legolas for research",
+    "first_tasks": ["obtain a spectral arrow"],
+    "first_task_locations": [
+      {
+        "name": "NONE",
+        "description": ""
+      }
+    ],
+    "quest_giver": {
+      "name": "Legolas",
+      "description": "a fletcher",
+      "location": "a village"
+    },
+    "reward": [
+      {
+        "name": "Arrows of Weakness",
+        "description": "special arrows, shoot an enemy with one, and they become much weaker",
+        "amount": 1
+      }
+    ],
+    "characters": null,
+    "tools": ["NONE"],
+    "description": "I have heard whispers about some strange arrows here in the village. They are known as \"spectral arrows\", and I'd like to find out what exactly they do to their targets. Call that my professional curiosity as a fletcher.\nIf you obtain a spectral arrow in your travels, I'd be happy to have it for research. I will even give you some special arrows I've made: Arrows of Weakness. Shoot an enemy with one, and you'll find them much weaker... and easier to kill.",
+    "locations": null,
+    "items": null,
+    "enemies": null,
+    "groups": null,
+    "title": "Minecraft",
+    "motivation": "knowledge"
+  },
+  {
+    "name": "Deliver Big Jesus's package to Ramirez at the Stables",
+    "objective": "Take a package from Big Jesus Mordino and deliver it to Ramirez at the Stables.",
+    "first_tasks": [
+      "Speak to Big Jesus Mordino at the Mordino Casino in New Reno.",
+      "Receive the package from Big Jesus.",
+      "Travel to the Stables outside New Reno.",
+      "Find Ramirez and hand over the package."
+    ],
+    "first_task_locations": [
+      {
+        "name": "Mordino Casino",
+        "description": "Big Jesus Mordino operates from his casino in New Reno."
+      },
+      {
+        "name": "The Stables",
+        "description": "A location outside New Reno where Jet production takes place."
+      }
+    ],
+    "quest_giver": {
+      "name": "Big Jesus Mordino",
+      "description": "Leader of the Mordino crime family in New Reno."
+    },
+    "reward": [
+      {
+        "name": "Caps Reward",
+        "description": "Earn $500 upon successful delivery."
+      },
+      {
+        "name": "Mordino Reputation",
+        "description": "Increased standing with the Mordino family."
+      }
+    ],
+    "characters": null,
+    "tools": [
+      "Speech or Barter skills may help if complications arise.",
+      "Weapons in case of ambush on the way."
+    ],
+    "description": "Big Jesus Mordino needs a package delivered to Ramirez at the Stables. Complete the delivery to earn money and reputation with the Mordino family.",
+    "locations": null,
+    "items": null,
+    "enemies": null,
+    "groups": null,
+    "title": "Fallout 2",
+    "motivation": null
+  },
+  {
+    "name": "Help Irwin",
+    "objective": "Assist Irwin in reclaiming his home from raiders.",
+    "first_tasks": [
+      "Talk to Irwin to learn about the raiders.",
+      "Travel to Irwin's farm.",
+      "Eliminate the raiders occupying the farm."
+    ],
+    "first_task_locations": [
+      {
+        "name": "Hub Downtown",
+        "description": "The area where Irwin is found, seeking help from travelers."
+      },
+      {
+        "name": "Irwin's Farm",
+        "description": "A small farm outside the Hub, now occupied by raiders."
+      }
+    ],
+    "quest_giver": {
+      "name": "Irwin",
+      "description": "A desperate man who has lost his farm to raiders.",
+      "location": "Hub Downtown"
+    },
+    "reward": [
+      {
+        "name": "Leather Armor",
+        "description": "A piece of armor given by Irwin as thanks for helping him reclaim his farm.",
+        "amount": 1
+      },
+      {
+        "name": "Experience Points",
+        "description": "Earned for successfully clearing out the raiders.",
+        "amount": 500
+      }
+    ],
+    "characters": null,
+    "tools": ["Combat skills", "Firearms", "Melee weapons"],
+    "description": "Irwin, a displaced farmer in the Hub, pleads for help in reclaiming his farm from a group of raiders. The player can take on the challenge, eliminate the raiders, and restore Irwin\u2019s home, earning a reward for their efforts.",
+    "locations": null,
+    "items": null,
+    "enemies": null,
+    "groups": null,
+    "title": "Fallout",
+    "motivation": null
+  },
+  {
+    "name": "Hand to Hand Training",
+    "objective": "prove Helvius Cecia that you deserve his training",
+    "first_tasks": ["have a sparring match with Helvius Cecia"],
+    "first_task_locations": [
+      {
+        "name": "NONE",
+        "description": ""
+      }
+    ],
+    "quest_giver": {
+      "name": "Helvius Cecia",
+      "description": "a martial artist",
+      "location": ""
+    },
+    "reward": [
+      {
+        "name": "",
+        "description": "Hand to Hand training from Helvius Cecia",
+        "amount": 1
+      }
+    ],
+    "characters": null,
+    "tools": [
+      "the player asked Helvius Cecia to give them Hand to Hand training",
+      "Helvius Cecia will not throw a single punch during the sparring match",
+      "the rules of the sparring match: 1) the player must not reach for a weapon, 2) Helvius Cecia will tell the player to stop if they hurt him or if the match goes on for too long"
+    ],
+    "description": "Hand to Hand training, eh? The real question is, can you fight?\nYou know, throw a good punch? Can you? I'd like to find out if I'm going to spend time working with you. So are you up for a sparring match?\nI'll make it easy on you. I won't throw a single punch. I just want to see what you've got, anyway. So, is it a deal?\nIf I see you reach for a weapon, I'm calling it off. And if you can actually hurt me, I'll tell you to stop. If this goes on for too long, and I get bored, I'll stop you.\nNow show me what you've got!",
+    "locations": null,
+    "items": null,
+    "enemies": null,
+    "groups": null,
+    "title": "The Elder Scrolls IV: Oblivion",
+    "motivation": null
+  },
+  {
+    "name": "The Wandering Scholar",
+    "objective": "protect Elante of Alinor",
+    "first_tasks": [
+      "meet up with Elante of Alinor, and help her find a shrine"
+    ],
+    "first_task_locations": [
+      {
+        "name": "Brittlerock Cave",
+        "description": "a cave"
+      }
+    ],
+    "quest_giver": {
+      "name": "Azzan",
+      "description": "the player's superior in the Fighters Guild",
+      "location": ""
+    },
+    "reward": [
+      {
+        "name": "NONE",
+        "description": "",
+        "amount": 1
+      }
+    ],
+    "characters": [
+      {
+        "name": "Elante of Alinor",
+        "description": "a female scholar researching Daedra worship",
+        "location": "Brittlerock Cave"
+      }
+    ],
+    "tools": ["NONE"],
+    "description": "Hello again. It's me, Azzan.\nGood to see that you're looking for more work. There's certainly more to be done. I need you to help Elante of Alinor.\nElante is a scholar, interested in researching Daedra worship. Meet her in Brittlerock Cave, help her find the shrine, and keep her safe.",
+    "locations": null,
+    "items": null,
+    "enemies": null,
+    "groups": [
+      {
+        "name": "Fighters Guild",
+        "description": "a mercenary guild"
+      }
+    ],
+    "title": "The Elder Scrolls IV: Oblivion",
+    "motivation": null
+  },
+  {
+    "name": "Bounty: Warbeasts!",
+    "objective": "help colonists by thinning out packs of Warbeasts",
+    "first_tasks": ["kill 10 Warbeasts"],
+    "first_task_locations": [
+      {
+        "name": "Temple Steppes",
+        "description": "a region in Estheria"
+      }
+    ],
+    "quest_giver": {
+      "name": "Commander Vale",
+      "description": "the leader of the Vanquisher Corps, giving quest via \"Bounty Board\"",
+      "location": ""
+    },
+    "reward": [
+      {
+        "name": "NONE",
+        "description": "",
+        "amount": 1
+      }
+    ],
+    "characters": null,
+    "tools": ["NONE"],
+    "description": "BOUNTY!\nCommander Vale of the Vanquisher Corps is offering a reward to anyone who can help thin out the packs of Warbeasts hampering colonization and defense efforts in Estheria.\nThis reward shall be paid to anyone who slays 10 or more Warbeasts in the Temple Steppes.",
+    "locations": [
+      {
+        "name": "Estheria",
+        "description": "a country"
+      }
+    ],
+    "items": [
+      {
+        "name": "\"Bounty Board\"",
+        "description": "a bounty board",
+        "amount": 1
+      }
+    ],
+    "enemies": [
+      {
+        "name": "Warbeasts",
+        "description": "dangerous monsters",
+        "amount": 10
+      }
+    ],
+    "groups": [
+      {
+        "name": "Vanquisher Corps",
+        "description": "a military outfit"
+      }
+    ],
+    "title": "Torchlight II",
+    "motivation": null
+  },
+  {
+    "name": "Spiders in the Cloakwood",
+    "objective": "investigate what happened to Chelak",
+    "first_tasks": ["find Chelak"],
+    "first_task_locations": [
+      {
+        "name": "",
+        "description": "spider colony, in Cloakwood"
+      }
+    ],
+    "quest_giver": {
+      "name": "Tiber",
+      "description": "a young, scared man",
+      "location": ""
+    },
+    "reward": [
+      {
+        "name": "NONE",
+        "description": "",
+        "amount": 1
+      }
+    ],
+    "characters": [
+      {
+        "name": "Chelak",
+        "description": "Tiber's brother",
+        "location": "Cloakwood"
+      }
+    ],
+    "tools": [
+      "Chelak found \"Spider's Bane\"",
+      "Chelak went to Cloakwood to clear the spider colony with \"Spider's Bane\""
+    ],
+    "description": "He-hello, travelers. I'm Tiber. Could... could I take up some of your time? I would be very grateful if you would just listen to... if you would just help me!\nIt's my brother, you see. He and I went into the Cloakwood to clear the woods of the spider colony that infests it. I know it sounds foolish... but my brother had found the sword \"Spider's Bane\"! The sword was created to kill spiders... and we thought we could become famous... the heroes of Cloakwood, and all that. But my brother hasn't returned yet... and it's been more than a week.\nPlease, could you go into the woods and find him for me? His name's Chelak. My mother would be so shattered if Chelak were to be dead.",
+    "locations": [
+      {
+        "name": "Cloakwood",
+        "description": "a forest"
+      }
+    ],
+    "items": [
+      {
+        "name": "\"Spider's Bane\"",
+        "description": "a sword that was created to kill spiders",
+        "amount": 1
+      }
+    ],
+    "enemies": null,
+    "groups": null,
+    "title": "Baldur's Gate",
+    "motivation": null
+  },
+  {
+    "name": "Fit for a Jarl",
+    "objective": "promote the Radiant Raiment to Jarl Elisif",
+    "first_tasks": [
+      "wear one of the Radiant Raiment's outfits, and speak to Elisif about it"
+    ],
+    "first_task_locations": [
+      {
+        "name": "Blue Palace",
+        "description": "Elisif's palace"
+      }
+    ],
+    "quest_giver": {
+      "name": "Taarie",
+      "description": "a tailor",
+      "location": "Radiant Raiment"
+    },
+    "reward": [
+      {
+        "name": "",
+        "description": "the player gets to keep the Radiant Raiment outfit, and Taarie pays the player",
+        "amount": 1
+      }
+    ],
+    "characters": [
+      {
+        "name": "Elisif",
+        "description": "the female Jarl of Solitude",
+        "location": "Blue Palace"
+      }
+    ],
+    "tools": [
+      "the player told Taarie that the player is going to the Blue Palace"
+    ],
+    "description": "You're really going to the Blue Palace? That presents an opportunity.\nIf you were willing to wear one of Radiant Raiment's outfits and speak to the Jarl I would not only pay you but let you keep the outfit.\nHere's the outfit. Try to get Jarl Elisif's opinion on it and if she likes it mention it's from Radiant Raiment.",
+    "locations": [
+      {
+        "name": "Solitude",
+        "description": "a city"
+      },
+      {
+        "name": "Radiant Raiment",
+        "description": "a clothing store"
+      }
+    ],
+    "items": null,
+    "enemies": null,
+    "groups": null,
+    "title": "The Elder Scrolls V: Skyrim",
+    "motivation": null
+  },
+  {
+    "name": "A More Than Exotic Fruit",
+    "objective": "bring 6 Chorus Fruits to Kevin",
+    "first_tasks": ["find 6 Chorus Fruits"],
+    "first_task_locations": [
+      {
+        "name": "The End",
+        "description": "a mysterious, hard to reach dimension"
+      }
+    ],
+    "quest_giver": {
+      "name": "Kevin",
+      "description": "a curious man",
+      "location": ""
+    },
+    "reward": [
+      {
+        "name": "",
+        "description": "diamonds",
+        "amount": 12
+      }
+    ],
+    "characters": null,
+    "tools": ["NONE"],
+    "description": "Traveler! Did you know that our dimension is one among many. There exists a dimension called \"The End\". It is a mysterious place, and supposedly hard to reach.\nI yearn to know more about that dimension. I have heard vague rumors about fruits native to the End that might teleport you a tiny distance when digested. They are called Chorus Fruits.\nIf you get your hands on six Chorus Fruits, I promise to reward you well with 12 diamonds. Please help a man sate his ever-growing curiosity.",
+    "locations": null,
+    "items": [
+      {
+        "name": "Chorus Fruits",
+        "description": "strange fruits that might teleport the player a short distance when eaten",
+        "amount": 6
+      }
+    ],
+    "enemies": null,
+    "groups": null,
+    "title": "Minecraft",
+    "motivation": "knowledge"
+  },
+  {
+    "name": "Electric Shock Therapy",
+    "objective": "hit Test Subject with lightning, and report back to Judas",
+    "first_tasks": ["go to Test Subject when there's a thunderstorm"],
+    "first_task_locations": [
+      {
+        "name": "Desolate Plains",
+        "description": "the desert outside Woodland Homestead"
+      }
+    ],
+    "quest_giver": {
+      "name": "Judas",
+      "description": "a curious cleric",
+      "location": "Woodland Homestead"
+    },
+    "reward": [
+      {
+        "name": "",
+        "description": "the player can keep the trident",
+        "amount": 1
+      }
+    ],
+    "characters": [
+      {
+        "name": "Test Subject",
+        "description": "a depressed man from Woodland Homestead, who volunteered for Judas's experiment",
+        "location": "Desolate Plains"
+      }
+    ],
+    "tools": [
+      "the player is a famous hero",
+      "Judas gives the player an enchanted trident: the player can channel lightning with it during thunderstorms"
+    ],
+    "description": "As a cleric, my duty is to heal the villagers of Woodland Homestead both spiritually and physically. As a hero, your duty is to help people in trouble.\nI sometimes devise new treatments for various illnesses: some of my experiments are successful, the others, sadly, not so much. I would like you to assist me with an experiment. I also have a volunteer participating in the experiment as well: a depressed man from this very village.\nI need you to go to the Desolate Plains, the desert just outside this village, and hit that test subject of mine with lightning when there's a thunderstorm. For this, I'm giving you an enchanted trident: you can use it to channel lightning during thunderstorms.\nFinally, you should report back to me, and let me know what happened. You can keep the trident.\nMay the Gods be with you, hero!",
+    "locations": [
+      {
+        "name": "Woodland Homestead",
+        "description": "a village"
+      }
+    ],
+    "items": null,
+    "enemies": null,
+    "groups": null,
+    "title": "Minecraft",
+    "motivation": "knowledge"
+  },
+  {
+    "name": "Blow Up the Mine's Air Purifier",
+    "objective": "Sabotage the air purifier in Redding\u2019s mine to make the environment unbreathable.",
+    "first_tasks": [
+      "Find the entrance to the Wanamingo Mine in Redding.",
+      "Locate the air purifier deep inside the mine.",
+      "Acquire explosives or another means of destruction.",
+      "Plant the explosives on the air purifier and detonate them.",
+      "Escape the mine before it collapses or enemies attack."
+    ],
+    "first_task_locations": [
+      {
+        "name": "Wanamingo Mine",
+        "description": "A deep and dangerous mine in Redding, filled with creatures and workers."
+      }
+    ],
+    "quest_giver": {
+      "name": "Francis (or other interested party)",
+      "description": "A character who benefits from sabotaging the mine, potentially a rival faction.",
+      "location": "Redding"
+    },
+    "reward": [
+      {
+        "name": "Experience Points",
+        "description": "Earned for successfully destroying the purifier.",
+        "amount": 1500
+      },
+      {
+        "name": "Caps",
+        "description": "A monetary reward for completing the sabotage mission.",
+        "amount": 750
+      }
+    ],
+    "characters": null,
+    "tools": ["Explosives", "Repair Skill", "Stealth Skill"],
+    "description": "Someone wants the Wanamingo Mine in Redding shut down for good. Your task is to sabotage the air purifier to make the mine unworkable. Be careful\u2014guards or miners may try to stop you.",
+    "locations": null,
+    "items": null,
+    "enemies": null,
+    "groups": null,
+    "title": "Fallout 2",
+    "motivation": null
+  },
+  {
+    "name": "Entertaining Sheogorath",
+    "objective": "find a way to make the first two parts of the K'Sharra come true",
+    "first_tasks": ["ask about the K'Sharra from the shaman"],
+    "first_task_locations": [
+      {
+        "name": "Border Watch",
+        "description": "a small, peaceful village"
+      }
+    ],
+    "quest_giver": {
+      "name": "Sheogorath",
+      "description": "the prince of madness, one of the Daedric Princes",
+      "location": ""
+    },
+    "reward": [
+      {
+        "name": "Wabbajack",
+        "description": "",
+        "amount": 1
+      }
+    ],
+    "characters": null,
+    "tools": [
+      "the player summoned Sheogorath",
+      "Sheogorath wants to make Border Watch an interesting place",
+      "the people of Border Watch are superstitious"
+    ],
+    "description": "Another mortal dares to summon me, Sheogorath, and already I am bored. But enough about me. Let's talk about you.\nI could turn you into a goat. Or a puddle. Or a bad idea. I could make you eat your own fingers. Or fall in love with a cloud. Perhaps I could make you into something useful. Let's find out.\nThere's a little settlement called Border Watch. It's a nice, peaceful place... and dull, dull, dull. You're going to make their lives interesting. They're a superstitious bunch. Everything is an omen or a portent. Let's make one come true. Find their shaman and ask about the K'Sharra prophecy. You are to find a way to make the first two parts of the prophecy come true. I'll take care of the rest, because it's the most fun. Now, run along.",
+    "locations": null,
+    "items": [
+      {
+        "name": "K'Sharra",
+        "description": "a prophesy",
+        "amount": 1
+      }
+    ],
+    "enemies": null,
+    "groups": [
+      {
+        "name": "Daedric Princes",
+        "description": "immortal, fickle, infamous divine beings"
+      }
+    ],
+    "title": "The Elder Scrolls IV: Oblivion",
+    "motivation": null
+  },
+  {
+    "name": "Mourning Never Comes",
+    "objective": "assassinate an ex-lover for Muiri",
+    "first_tasks": [
+      "speak with Muiri, set up the contract with her, and fulfill it"
+    ],
+    "first_task_locations": [
+      {
+        "name": "The Hag's Cure",
+        "description": "an apothecary in Markarth"
+      }
+    ],
+    "quest_giver": {
+      "name": "Astrid",
+      "description": "the player's guildleader in the Dark Brotherhood",
+      "location": ""
+    },
+    "reward": [
+      {
+        "name": "",
+        "description": "Astrid will let the player keep whatever Muiri pays, as this is the player's first assassination contract",
+        "amount": 1
+      }
+    ],
+    "characters": [
+      {
+        "name": "Muiri",
+        "description": "the apothecary's female assistant",
+        "location": "The Hag's Cure"
+      }
+    ],
+    "tools": [
+      "Muiri has performed the Black Sacrament",
+      "do whatever Muiri wishes, be professional, represent the Dark Brotherhood well, and get the job done"
+    ],
+    "description": "Ah, there you are. We've got some business to discuss.\nYou must go to the city of Markarth, and speak with the apothecary's assistant. You'll probably find her in the shop, The Hag's Cure. The girl's been running her mouth, wants an ex-lover killed. She's apparently performed the Black Sacrament. Her name is Muiri. I need you to talk to her, set up the contract, and carry it out.\nJust do whatever the contact wishes. Be professional, represent us well, and get the job done. Since it's your first contract, I'll let you keep whatever Muiri pays. She'll be generous, I'm sure. They always are.",
+    "locations": [
+      {
+        "name": "Markarth",
+        "description": "a city"
+      }
+    ],
+    "items": [
+      {
+        "name": "Black Sacrament",
+        "description": "a ritual to employ the services of the Dark Brotherhood",
+        "amount": 1
+      }
+    ],
+    "enemies": null,
+    "groups": [
+      {
+        "name": "Dark Brotherhood",
+        "description": "a guild of assassins"
+      }
+    ],
+    "title": "The Elder Scrolls V: Skyrim",
+    "motivation": null
+  },
+  {
+    "name": "The Key to Victory",
+    "objective": "help Lord Taldimut gather up weapons and armor from the Celestial Armory without Ezrohir noticing",
+    "first_tasks": [
+      "use the Golden Gear to get inside the Celestial Armory, and activate the Armory Portal"
+    ],
+    "first_task_locations": [
+      {
+        "name": "Celestial Armory",
+        "description": "Lord Taldimut's armory that houses some of the finest weapons"
+      }
+    ],
+    "quest_giver": {
+      "name": "Lord Taldimut",
+      "description": "the player's old friend, who promised the player a a greater reward if the player came to visit him in Ossean Wastes",
+      "location": "Ossean Wastes"
+    },
+    "reward": [
+      {
+        "name": "",
+        "description": "the player's choice of artifacts from the Celestial Armory",
+        "amount": 1
+      }
+    ],
+    "characters": null,
+    "tools": ["Ezrohir have the Celestial Armory under siege"],
+    "description": "It's good to see you again, my friend! I know that I promised you a greater reward, should you come to visit... but that was before I returned to the Ossean Wastes and found the Celestial Armory under siege by Ezrohir.\nWhat if I give you your choice of artifacts from the Armory? The Celestial Armory houses some of the finest weapons in the world! You have but to use the Golden Gear to get inside, then activate the Armory Portal, which will allow us to gather up the weapons and armor safely... with the Ezrohir none the wiser!",
+    "locations": [
+      {
+        "name": "Ossean Wastes",
+        "description": "a desert"
+      }
+    ],
+    "items": [
+      {
+        "name": "Armory Portal",
+        "description": "a hidden portal to the Celestial Armory",
+        "amount": 1
+      }
+    ],
+    "enemies": null,
+    "groups": [
+      {
+        "name": "Ezrohir",
+        "description": "Lord Taldimut's enemies"
+      }
+    ],
+    "title": "Torchlight II",
+    "motivation": null
+  },
+  {
+    "name": "The Lure of of the World",
+    "objective": "convince Nikulas to stay with his mother",
+    "first_tasks": ["counsel Nikulas on the perils of the world"],
+    "first_task_locations": [
+      {
+        "name": "Skaal Village",
+        "description": "a small, remote village"
+      }
+    ],
+    "quest_giver": {
+      "name": "Edla",
+      "description": "a slightly worried mother",
+      "location": "Skaal Village"
+    },
+    "reward": [
+      {
+        "name": "NONE",
+        "description": "",
+        "amount": 1
+      }
+    ],
+    "characters": [
+      {
+        "name": "Nikulas",
+        "description": "Edla's son, strong and loyal, yet reckless and foolish",
+        "location": "Skaal Village"
+      }
+    ],
+    "tools": [
+      "Edla recently lost her husband: Nikulas is everything she has left"
+    ],
+    "description": "I'm Edla. I have a son. His name is Nikulas. He's a good lad, strong and loyal. I only wish he wasn't so eager to leave the village. I've tried to tell him that the world beyond our lands is dangerous and cruel, but he won't listen.\nFor now, I need Nikulas here. You see, his father, my husband, was recently lost to us. Nikulas is all that I have left in this world. I know it is selfish of me to say so, but I cannot lose him. Not while I still grieve. Also, I know his heart. Nikulas is reckless and foolish, like most young men. He cannot understand what awaits him in the wide world.\nCould you talk to Nikulas? I know he would listen to you. You've been out there in the wide world. You know its perils.",
+    "locations": null,
+    "items": null,
+    "enemies": null,
+    "groups": null,
+    "title": "The Elder Scrolls V: Skyrim",
+    "motivation": null
+  },
+  {
+    "name": "Purity",
+    "objective": "handle Vilkas' personal troubles",
+    "first_tasks": ["help Vilkas give up his beastblood"],
+    "first_task_locations": [
+      {
+        "name": "Tomb of Ysgramor",
+        "description": "a tomb where lycanthropy can be cured"
+      }
+    ],
+    "quest_giver": {
+      "name": "Vilkas",
+      "description": "a fellow member of the Companions, and a werewolf",
+      "location": ""
+    },
+    "reward": [
+      {
+        "name": "NONE",
+        "description": "",
+        "amount": 1
+      }
+    ],
+    "characters": [
+      {
+        "name": "Kodlak",
+        "description": "the dead male leader of the Companions",
+        "location": ""
+      }
+    ],
+    "tools": [
+      "Kodlak's final teaching: those with beastblood cannot enter Sovngarde",
+      "the player has a head of the Glenmoril that is needed to cure lycanthropy"
+    ],
+    "description": "There is always work for the Companions. But there is more personal task before me.\nKodlak's final teaching is troubling me. I think he was right about beastblood and Sovngarde. I wish to cleanse myself that I might know glory in the afterlife.\nWill you help me give up my beasthood? You still bear a head of the Glenmoril betrayers, yes? Then lead on, back to the Tomb of Ysgramor.\nMy soul is now prepared.",
+    "locations": [
+      {
+        "name": "Sovngarde",
+        "description": "the storied underworld of honorable heroes"
+      }
+    ],
+    "items": null,
+    "enemies": null,
+    "groups": [
+      {
+        "name": "Companions",
+        "description": "a band of honorable warriors"
+      },
+      {
+        "name": "Glenmoril",
+        "description": "a coven of witches who cursed the Companions with lycanthropy"
+      }
+    ],
+    "title": "The Elder Scrolls V: Skyrim",
+    "motivation": null
+  },
+  {
+    "name": "Restocking Soul Gems",
+    "objective": "bring 7 Common Soul Gems to Sergius Turrianus",
+    "first_tasks": ["find 7 Common Soul Gems"],
+    "first_task_locations": [
+      {
+        "name": "NONE",
+        "description": ""
+      }
+    ],
+    "quest_giver": {
+      "name": "Sergius Turrianus",
+      "description": "a mage",
+      "location": ""
+    },
+    "reward": [
+      {
+        "name": "NONE",
+        "description": "",
+        "amount": 1
+      }
+    ],
+    "characters": null,
+    "tools": ["NONE"],
+    "description": "I need some more supplies. Can you help out with that?\nI'm running low on Common Soul Gems. Bring me another seven of them, if you can.",
+    "locations": null,
+    "items": [
+      {
+        "name": "Common Soul Gems",
+        "description": "mage supplies",
+        "amount": 7
+      }
+    ],
+    "enemies": null,
+    "groups": null,
+    "title": "The Elder Scrolls V: Skyrim",
+    "motivation": null
+  },
+  {
+    "name": "Solve the Riddle of the Sewers",
+    "objective": "follow the One's path, and return to Quallo",
+    "first_tasks": ["find the clues from the One"],
+    "first_task_locations": [
+      {
+        "name": "",
+        "description": "where the topside filth drains"
+      }
+    ],
+    "quest_giver": {
+      "name": "Quallo",
+      "description": "a madman",
+      "location": "sewers"
+    },
+    "reward": [
+      {
+        "name": "",
+        "description": "the blade",
+        "amount": 1
+      }
+    ],
+    "characters": [
+      {
+        "name": "One",
+        "description": "a mysterious being",
+        "location": ""
+      }
+    ],
+    "tools": [
+      "Quallo is standing next to a creature that he calls a friend",
+      "the blade is hidden"
+    ],
+    "description": "I'm Quallo, and this thing here is my friend.\nYou have come for the blade, I suppose. It is as we have always expected, my friend. (He glances to the creature beside him.) Too long in this pit, too long.\nThe gleam in your eye! It belies your greed, your passion. I've found this blade, child! It is hidden most insidiously. A cruel jest has been played upon us all. My friend here knows this!\nThe One has left clues for you. Have you not found the clues? Where the topside filth drains, there are the clues. Return to me ere you follow the One's path, for there is much that you must learn.",
+    "locations": null,
+    "items": null,
+    "enemies": null,
+    "groups": null,
+    "title": "Baldur's Gate II: Shadows of Amn",
+    "motivation": null
+  },
+  {
+    "name": "A Fancy New Shirt",
+    "objective": "give a leather tunic to Narcissos",
+    "first_tasks": ["obtain a leather tunic"],
+    "first_task_locations": [
+      {
+        "name": "NONE",
+        "description": ""
+      }
+    ],
+    "quest_giver": {
+      "name": "Narcissos",
+      "description": "a narcissistic man",
+      "location": "a village"
+    },
+    "reward": [
+      {
+        "name": "",
+        "description": "a diamond chestplate",
+        "amount": 1
+      }
+    ],
+    "characters": null,
+    "tools": ["the player is not wearing any kind of armor"],
+    "description": "Aren't I just the handsomest man in this village? I'd like to become even flashier than I am now.\nEven you, traveler, lack any kind of flashy armor. I could give you my old, crummy diamond chestplate so that you'd look a bit less embarrassing.\nHowever, I want you to give me a brand new leather tunic in return.",
+    "locations": null,
+    "items": null,
+    "enemies": null,
+    "groups": null,
+    "title": "Minecraft",
+    "motivation": "comfort"
+  },
+  {
+    "name": "Soljund's Sinkhole",
+    "objective": "make Soljund's Sinkhole safe again",
+    "first_tasks": ["clear out draugr"],
+    "first_task_locations": [
+      {
+        "name": "Soljund's Sinkhole",
+        "description": "a mine connected to an old Nordic crypt"
+      }
+    ],
+    "quest_giver": {
+      "name": "Perth",
+      "description": "a miner",
+      "location": "just outside Soljund's Sinkhole"
+    },
+    "reward": [
+      {
+        "name": "NONE",
+        "description": "",
+        "amount": 1
+      }
+    ],
+    "characters": null,
+    "tools": ["Perth warns the player to stay out of Soljund's Sinkhole"],
+    "description": "Whoa, there. I don't know where you're going, but stay out of that mine. It isn't safe.\nWe tunneled into an old Nordic crypt. The whole place is crawling with draugr. We're not mining up any ore with those undead around, so I wouldn't go down there if I were you.\nYou want to clear out the draugr? You're joking, right? Those bone-walkers will tear you limb from limb. But if you want to get yourself killed, go ahead.\nI hear talk about a regiment coming to clear the crypt out. We'll see if that happens.",
+    "locations": null,
+    "items": null,
+    "enemies": null,
+    "groups": null,
+    "title": "The Elder Scrolls V: Skyrim",
+    "motivation": null
+  },
+  {
+    "name": "Convince the Elders to Send Help",
+    "objective": "Persuade the Brotherhood of Steel Elders to provide aid for an upcoming conflict.",
+    "first_tasks": [
+      "Speak with the Elders to present your case.",
+      "Provide evidence or arguments to convince them.",
+      "Await their decision on whether to send assistance."
+    ],
+    "first_task_locations": [
+      {
+        "name": "Brotherhood of Steel Bunker",
+        "description": "The main headquarters where the Elders hold council meetings."
+      }
+    ],
+    "quest_giver": {
+      "name": "Concerned Brotherhood Member",
+      "description": "A Brotherhood member who believes help should be sent.",
+      "location": "Brotherhood of Steel Bunker"
+    },
+    "reward": [
+      {
+        "name": "Brotherhood Support",
+        "description": "If successful, the Brotherhood may send aid in the form of supplies or soldiers."
+      },
+      {
+        "name": "Experience Points",
+        "description": "Earned upon successfully persuading the Elders.",
+        "amount": 1000
+      }
+    ],
+    "characters": null,
+    "tools": ["Persuasive arguments", "Evidence of threats (if applicable)"],
+    "description": "A dire situation requires the Brotherhood of Steel's assistance. You must convince the Elders to intervene by presenting a strong case for their involvement. Your success depends on your persuasive skills and available evidence.",
+    "locations": null,
+    "items": null,
+    "enemies": null,
+    "groups": null,
+    "title": "Fallout",
+    "motivation": null
+  },
+  {
+    "name": "Recovering \"Soultaker\"",
+    "objective": "bring the \"Soultaker\" to Hurgan Stoneblade",
+    "first_tasks": ["find the \"Soultaker\""],
+    "first_task_locations": [
+      {
+        "name": "",
+        "description": "Durlag's Tower, a trapped tower"
+      }
+    ],
+    "quest_giver": {
+      "name": "Hurgan Stoneblade",
+      "description": "a man residing in Citadel Adbar",
+      "location": ""
+    },
+    "reward": [
+      {
+        "name": "",
+        "description": "an enchanted hammer",
+        "amount": 1
+      }
+    ],
+    "characters": [
+      {
+        "name": "Durlag",
+        "description": "a legendary hero who went mad after his family was killed",
+        "location": ""
+      },
+      {
+        "name": "",
+        "description": "Hurgan Stoneblade's grandpa, Durlag's friend",
+        "location": ""
+      }
+    ],
+    "tools": [
+      "Hurgan Stoneblade's grandpa was killed by a demon",
+      "Durlag intended to send \"Soultaker\" to Hurgan Stoneblade's mother",
+      "Durlag did not send \"Soultaker\": his family was replaced with doppelgangers and he was driven mad after killing the doppelgangers"
+    ],
+    "description": "I am Hurgan Stoneblade, presently residing in Citadel Adbar. Have I got the adventure that'll make ye yearn for glory!\nYe have heard of Durlag's Tower, mayhaps? Me granda' was a good friend of Durlag's. Me granda' was slain by an evil demon but Durlag survived. Durlag kept \"Soultaker\" that had been me granda's. He was going to send it to me mother, but he was betrayed. A sad tale, that.\nAfter Durlag built the tower his family was replaced by doppelgangers. Durlag killed them all but was driven mad by the act. He entrapped his tower heavily and forgot about me granda's dagger.\nIf ye be interested, I wish to hire ye to retrieve me granda's dagger, \"Soultaker,\" me birthright.\nAn enchanted hammer I can offer ye for yer services.",
+    "locations": [
+      {
+        "name": "Citadel Adbar",
+        "description": "a fortress"
+      }
+    ],
+    "items": [
+      {
+        "name": "\"Soultaker\"",
+        "description": "a dagger that belonged to Hurgan Stoneblade's grandpa",
+        "amount": 1
+      }
+    ],
+    "enemies": null,
+    "groups": null,
+    "title": "Baldur's Gate",
+    "motivation": null
+  },
+  {
+    "name": "Shalidor's Insights",
+    "objective": "bring the writings of Shalidor to Urag gro-Shub",
+    "first_tasks": ["discover the writings of Shalidor"],
+    "first_task_locations": [
+      {
+        "name": "Skyrim",
+        "description": "a province"
+      }
+    ],
+    "quest_giver": {
+      "name": "Urag gro-Shub",
+      "description": "a librarian who can translate the writings of Shalidor",
+      "location": ""
+    },
+    "reward": [
+      {
+        "name": "",
+        "description": "the writings of Shalidor may prove useful",
+        "amount": 1
+      }
+    ],
+    "characters": [
+      {
+        "name": "Shalidor",
+        "description": "a immensely powerful male mage in the first era",
+        "location": ""
+      }
+    ],
+    "tools": [
+      "Shalidor holed himself up in Labyrinthian, and devoted all of his time to research and study"
+    ],
+    "description": "Have you ever heard of Shalidor? Immensely powerful mage, back in the First Era. Had an understanding of magic few have ever matched. He holed himself up in Labyrinthian, and devoted all of his time to research and study. Wrote more than you would imagine possible.\nSince then, his writings have been scattered all over Skyrim, but are little use to anyone who can't translate them. I'm one of the few who can. I'm always trying to find more of Shalidor's writings.\nI've heard whispers of more of his work having turned up. If you can track it down, it may prove useful to all of us.",
+    "locations": [
+      {
+        "name": "Labyrinthian",
+        "description": "a labyrinth built by Shalidor"
+      }
+    ],
+    "items": null,
+    "enemies": null,
+    "groups": null,
+    "title": "The Elder Scrolls V: Skyrim",
+    "motivation": null
+  },
+  {
+    "name": "Surgery",
+    "objective": "change your appearance",
+    "first_tasks": ["give 1,000 gold to the flesh sculptor for her services"],
+    "first_task_locations": [
+      {
+        "name": "NONE",
+        "description": ""
+      }
+    ],
+    "quest_giver": {
+      "name": "",
+      "description": "the flesh sculptor",
+      "location": ""
+    },
+    "reward": [
+      {
+        "name": "",
+        "description": "a new appearance",
+        "amount": 1
+      }
+    ],
+    "characters": null,
+    "tools": ["NONE"],
+    "description": "Are you interested in my services? I warn you, my skills do not come cheaply.\nHmm, I suppose I can work with your face. After all, the sculptor cannot always choose the finest clay.\nShall I remake your face?  It is no small thing to submit yourself to the flesh sculptor's knife. Just give me 1,000 gold and tell me what you desire - beauty or hideous deformity, nothing is beyond my skill.",
+    "locations": null,
+    "items": [
+      {
+        "name": "",
+        "description": "gold",
+        "amount": 1000
+      }
+    ],
+    "enemies": null,
+    "groups": null,
+    "title": "The Elder Scrolls V: Skyrim",
+    "motivation": null
+  },
+  {
+    "name": "Truffle Kerfuffle",
+    "objective": "bring 12 Ember Truffles to Clive",
+    "first_tasks": ["gather 12 Ember Truffles"],
+    "first_task_locations": [
+      {
+        "name": "Muckery",
+        "description": "a fungal cave"
+      }
+    ],
+    "quest_giver": {
+      "name": "Clive",
+      "description": "a botanist working for the Empire",
+      "location": ""
+    },
+    "reward": [
+      {
+        "name": "Super Mana Potion",
+        "description": "a potion",
+        "amount": 1
+      }
+    ],
+    "characters": null,
+    "tools": ["NONE"],
+    "description": "I'm a botanist, serving the Empire by gathering various Ember-infused plants.  And I've found a virtual treasure trove of Ember Truffles, down in the Muckery... but some of them have already attained sentience, and that's making it difficult for me to gather them.\nIf you can bring me, say, a dozen Ember Truffles, I'll keep ten for the Empire, and I'll use the other two to make a Super Mana Potion for you.\nDo we have a deal?",
+    "locations": null,
+    "items": [
+      {
+        "name": "Ember Truffles",
+        "description": "Ember-infused mushrooms",
+        "amount": 1
+      }
+    ],
+    "enemies": null,
+    "groups": null,
+    "title": "Torchlight II",
+    "motivation": null
+  },
+  {
+    "name": "The Paranoid Roof Watcher",
+    "objective": "find the hidden stash of Unknown",
+    "first_tasks": ["find the sunken urn"],
+    "first_task_locations": [
+      {
+        "name": "",
+        "description": "the sewage near the back of Bernice's inn, in Crucible"
+      }
+    ],
+    "quest_giver": {
+      "name": "Unknown",
+      "description": "a paranoid resident of Crucible, giving quest via \"Faded Note\"",
+      "location": "a roof"
+    },
+    "reward": [
+      {
+        "name": "",
+        "description": "the favorite things of Unknown",
+        "amount": 1
+      }
+    ],
+    "characters": [
+      {
+        "name": "Bernice",
+        "description": "a female innkeeper",
+        "location": "Crucible"
+      },
+      {
+        "name": "Caldana",
+        "description": "a woman",
+        "location": "Crucible"
+      },
+      {
+        "name": "Earil",
+        "description": "a man",
+        "location": "Crucible"
+      },
+      {
+        "name": "Cutter",
+        "description": "a woman",
+        "location": "Crucible"
+      },
+      {
+        "name": "Brithaur",
+        "description": "a male thief",
+        "location": "Crucible"
+      }
+    ],
+    "tools": [
+      "Unknown is dying",
+      "Unknown is a drunk",
+      "the house of Unknown was stolen by Brithaur",
+      "Unknown thinks that Bernice, Caldana, Earil, and Cutter are plotting against him"
+    ],
+    "description": "Faded Note\nThe last thoughts of one of Crucible's residents\n\nI don't think I'll live much longer. My wine supply is thinning, only one bottle left. Bernice's wine is worthless! I would have lasted longer on bark. I'd go back home to resupply, but Brithaur, that maggot, has stolen my house. It's not just him, though, it's also the others. I can't leave the safety of the roof. They have a plan for me, I see it in their eyes. Caldana, Earil, Cutter, ALL OF THEM!\nThey don't know I'm up here, watching. Not much longer, though. At least they won't find me or my stash. I've put all my favorite things in an urn, and sunken it in the sewage near the back of Bernice's dive.\nI think I'll drink that last bottle to celebrate.",
+    "locations": [
+      {
+        "name": "Crucible",
+        "description": "a district of a great city"
+      }
+    ],
+    "items": [
+      {
+        "name": "\"Faded Note\"",
+        "description": "a note",
+        "amount": 1
+      }
+    ],
+    "enemies": null,
+    "groups": null,
+    "title": "The Elder Scrolls IV: Oblivion",
+    "motivation": null
+  },
+  {
+    "name": "The Golden Claw",
+    "objective": "retrieve a golden dragon claw for Lucan Valerius",
+    "first_tasks": ["find the golden dragon claw"],
+    "first_task_locations": [
+      {
+        "name": "Bleak Falls Barrow",
+        "description": "a tomb northeast of town"
+      }
+    ],
+    "quest_giver": {
+      "name": "Lucan Valerius",
+      "description": "a shopkeeper",
+      "location": "Lucan Valerius's shop in the town"
+    },
+    "reward": [
+      {
+        "name": "",
+        "description": "some coin",
+        "amount": 1
+      }
+    ],
+    "characters": null,
+    "tools": ["the golden dragon claw was stolen from Lucan Valerius' shop"],
+    "description": "We did have a bit of a... break-in. But we still have plenty to sell. Robbers were only after one thing. An ornament, solid gold. In the shape of a dragon's claw.\nI've got some coin coming in from my last shipment. It's yours if you bring my claw back. If you're going after those thieves, you should head to Bleak Falls Barrow, northeast of town.",
+    "locations": null,
+    "items": null,
+    "enemies": null,
+    "groups": null,
+    "title": "The Elder Scrolls V: Skyrim",
+    "motivation": null
+  },
+  {
+    "name": "The Spiced Wine",
+    "objective": "convince the East Empire Company to release Evette San's shipment of spices, and return back to Evette San for your reward",
+    "first_tasks": [
+      "talk to Vittoria Vici about Evette San's shipment of spices"
+    ],
+    "first_task_locations": [
+      {
+        "name": "",
+        "description": "the docks"
+      }
+    ],
+    "quest_giver": {
+      "name": "Evette San",
+      "description": "a spiced wine merchant",
+      "location": ""
+    },
+    "reward": [
+      {
+        "name": "",
+        "description": "something for the player's time",
+        "amount": 1
+      }
+    ],
+    "characters": [
+      {
+        "name": "Vittoria Vici",
+        "description": "a woman who handles shipments for the East Empire Company",
+        "location": "the docks"
+      }
+    ],
+    "tools": ["NONE"],
+    "description": "Hello! I'm the spiced wine merchant Evette San. You wouldn't have a few minutes to run down to the docks would you?\nI've got a shipment of spices the East Empire Company is holding up. I need someone to convince them to release it. The person handling shipments is called Vittoria Vici. You should try to talk to her about my shipment.\nGet back to me when you're done and I'll give you something for your time. I swear it's a fight with them every shipment.",
+    "locations": null,
+    "items": null,
+    "enemies": null,
+    "groups": [
+      {
+        "name": "East Empire Company",
+        "description": "a merchant organization"
+      }
+    ],
+    "title": "The Elder Scrolls V: Skyrim",
+    "motivation": null
+  },
+  {
+    "name": "Ginia's Tale",
+    "objective": "talk to Calahan near the docks about taking Ginia and Ason",
+    "first_tasks": ["kill Chremy"],
+    "first_task_locations": [
+      {
+        "name": "",
+        "description": "near the inn in Brynnlaw"
+      }
+    ],
+    "quest_giver": {
+      "name": "Ginia",
+      "description": "a woman",
+      "location": "Brynnlaw"
+    },
+    "reward": [
+      {
+        "name": "NONE",
+        "description": "",
+        "amount": 1
+      }
+    ],
+    "characters": [
+      {
+        "name": "Calahan",
+        "description": "a male smuggler",
+        "location": "near the docks in Brynnlaw"
+      },
+      {
+        "name": "Ason",
+        "description": "Ginia's brother",
+        "location": "Brynnlaw"
+      },
+      {
+        "name": "Chremy",
+        "description": "Desharik's lieutenant",
+        "location": "near the inn in Brynnlaw"
+      },
+      {
+        "name": "Desharik",
+        "description": "a pirate king",
+        "location": "Brynnlaw"
+      }
+    ],
+    "tools": [
+      "Ginia grew up in Brynnlaw, which used to be a pleasant town",
+      "pirates lead by Desharik invaded Brynnlaw",
+      "pirates drove people from their homes: Ginia's father tried to take their home back from the pirates but was executed",
+      "Desharik gave Ginia and Ason to Chremy for their father's actions",
+      "Calahan could take Ginia and Ason away from Brynnlaw, but Ginia and Ason can't pay him"
+    ],
+    "description": "I should begin with my name... Ginia. I grew up here in Brynnlaw.\nThings have not always been like this. Brynnlaw was once a pleasant town, though my memories may be influenced by happier times in my own life.\nThen the pirates arrived, led by the despot Desharik. Desharik had lost a war with another pirate king. Forced to this island, his ships invaded the town. They took our homes. Desharik killed our mayor and dumped his body into the sea. We were forced out into the streets.\nMy father could take no more injustice. He tried to get back into our house and was executed for breaking the law of the pirates. Once they've stolen something, the owner has no claim on it.\nDesharik said that we would have to pay for our father's \"crime.\" He gave us to Chremy, his lieutenant, as a reward for service. He put me to work as a courtesan for the drunken pirates. It's horrible, traveler! He says that he'll kill my brother Ason if I don't do it.\nThere is no escape for Ason and me. There is a smuggler who will take us, but we cannot afford to pay him. There is nowhere to run on this island.\nChremy can be found near the inn. The smuggler's name is Calahan. I hope that Calahan will take us with him when you kill Chremy. He will be near the docks. Please be careful!",
+    "locations": [
+      {
+        "name": "Brynnlaw",
+        "description": "a pirate town on an island"
+      }
+    ],
+    "items": null,
+    "enemies": null,
+    "groups": null,
+    "title": "Baldur's Gate II: Shadows of Amn",
+    "motivation": null
+  },
+  {
+    "name": "Restore Kangaxx's Body",
+    "objective": "reverse Kangaxx's curse",
+    "first_tasks": ["find Kangaxx's arms, legs, and torso"],
+    "first_task_locations": [
+      {
+        "name": "",
+        "description": "within the city in tombs such as this one"
+      }
+    ],
+    "quest_giver": {
+      "name": "Kangaxx",
+      "description": "an undead man",
+      "location": "a tomb"
+    },
+    "reward": [
+      {
+        "name": "",
+        "description": "anything the player wants",
+        "amount": 1
+      }
+    ],
+    "characters": null,
+    "tools": [
+      "Kangaxx has been cursed to eternal entrapment in this tomb by his enemies",
+      "Kangaxx's curse can be reversed by collecting the pieces of his body: he will become mortal again"
+    ],
+    "description": "I am Kangaxx, and I have been cursed. I am dead yet not dead.\nCursed to eternal entrapment in this tomb by cruel enemies! Cursed to a fate worse than death! But the curse can be reversed! With your assistance, I may live again. I have suffered for so long... will you help me?\nThe fiends that did this to me keep me from returning by tearing apart my mortal form and keeping the pieces separated. You must find my body that I might again take mortal form. The pieces are very close! I have no doubt that they lie within the city in tombs such as this. My enemies are predictable if nothing else. Seek my arms, legs, and torso.\nI will give you anything you want. Power, riches beyond number! Anything!",
+    "locations": null,
+    "items": null,
+    "enemies": null,
+    "groups": null,
+    "title": "Baldur's Gate II: Shadows of Amn",
+    "motivation": null
+  },
+  {
+    "name": "A Drink to Win",
+    "objective": "win the drinking contest against Sam Guevenne",
+    "first_tasks": ["start drinking with Sam Guevenne"],
+    "first_task_locations": [
+      {
+        "name": "NONE",
+        "description": ""
+      }
+    ],
+    "quest_giver": {
+      "name": "Sam Guevenne",
+      "description": "a friendly man",
+      "location": ""
+    },
+    "reward": [
+      {
+        "name": "",
+        "description": "a staff",
+        "amount": 1
+      }
+    ],
+    "characters": null,
+    "tools": ["NONE"],
+    "description": "You look like someone who can hold their liquor. How about a friendly contest to win a staff?\nHa! So you think that I don't have a chance against you. We'll see about that. This is a special brew, very strong stuff. Let's get started.",
+    "locations": null,
+    "items": null,
+    "enemies": null,
+    "groups": null,
+    "title": "The Elder Scrolls V: Skyrim",
+    "motivation": null
+  },
+  {
+    "name": "The Bedlam Job",
+    "objective": "steal whatever you can to make an impression",
+    "first_tasks": [
+      "steal from anywhere in Whiterun without anyone seeing you steal"
+    ],
+    "first_task_locations": [
+      {
+        "name": "Whiterun",
+        "description": "a city"
+      }
+    ],
+    "quest_giver": {
+      "name": "Delvin Mallory",
+      "description": "a fellow member of the Thieves Guild",
+      "location": ""
+    },
+    "reward": [
+      {
+        "name": "",
+        "description": "the player gets to keep everything the player steals",
+        "amount": 1
+      }
+    ],
+    "characters": null,
+    "tools": ["NONE"],
+    "description": "Sometimes we like to remind a city that we mean business, so we hit it hard. Just steal whatever we can until we've made an impression.\nSimple right? Almost. The catch is it doesn't count if anyone sees you take it. The message needs to be clear; we work in the shadows.\nSteal from anywhere in Whiterun, and you even get to keep everythin' you stole. So, you in?",
+    "locations": null,
+    "items": null,
+    "enemies": null,
+    "groups": [
+      {
+        "name": "Thieves Guild",
+        "description": "a guild of thieves"
+      }
+    ],
+    "title": "The Elder Scrolls V: Skyrim",
+    "motivation": null
+  },
+  {
+    "name": "No More Pain",
+    "objective": "find your prisoner's treasure for yourself",
+    "first_tasks": [
+      "get your prisoner's hidden things from a hollowed-out rock"
+    ],
+    "first_task_locations": [
+      {
+        "name": "",
+        "description": "just north of Windhelm"
+      }
+    ],
+    "quest_giver": {
+      "name": "",
+      "description": "the player's prisoner, a man",
+      "location": ""
+    },
+    "reward": [
+      {
+        "name": "",
+        "description": "some things",
+        "amount": 1
+      }
+    ],
+    "characters": null,
+    "tools": ["the player is hurting their prisoner"],
+    "description": "I'll tell you anything. Anything! Just please stop... hurting me... I just... can't take the pain. Not a second longer.\nI'll give you money. Treasure. I have some things hidden away. Take them all. They're yours. Just please... stop. Just north of Windhelm. There's a hollowed-out rock. I have some things hidden in there. Take them! They're yours.\nI've told you everything I can. I don't know what else you could want...",
+    "locations": [
+      {
+        "name": "Windhelm",
+        "description": "a city"
+      }
+    ],
+    "items": null,
+    "enemies": null,
+    "groups": null,
+    "title": "The Elder Scrolls V: Skyrim",
+    "motivation": null
+  },
+  {
+    "name": "Sanuarach Mine",
+    "objective": "help Ainethach keep Sanuarach Mine",
+    "first_tasks": ["convince sellswords to leave"],
+    "first_task_locations": [
+      {
+        "name": "Karthwasten",
+        "description": "a mining village"
+      }
+    ],
+    "quest_giver": {
+      "name": "Ainethach",
+      "description": "the owner of the Sanuarach Mine in Karthwasten",
+      "location": "Karthwasten"
+    },
+    "reward": [
+      {
+        "name": "NONE",
+        "description": "",
+        "amount": 1
+      }
+    ],
+    "characters": null,
+    "tools": [
+      "the Silver-Bloods are trying to get hold of Sanuarach Mine",
+      "sellswords showed up after Forsworn attacked Sanuarach Mine: sellswords won't let anyone work until Ainethach sells it off"
+    ],
+    "description": "The Silver-Bloods are trying to muscle in on my land. Forsworn attack the mines, and suddenly all these sellswords show up in Karthwasten to 'help.' They won't let anyone work until I sell it off.\nYou can try to convince them to leave, but I'd keep your sword-arm ready if things get ugly.",
+    "locations": [
+      {
+        "name": "Sanuarach Mine",
+        "description": "mines"
+      }
+    ],
+    "items": null,
+    "enemies": null,
+    "groups": [
+      {
+        "name": "Silver-Bloods",
+        "description": "a greedy, rich family of mine owners"
+      }
+    ],
+    "title": "The Elder Scrolls V: Skyrim",
+    "motivation": null
+  },
+  {
+    "name": "Kill Killian",
+    "objective": "Eliminate Killian Darkwater to secure Gizmo's control over Junktown.",
+    "first_tasks": [
+      "Speak to Gizmo and agree to his offer.",
+      "Prepare for the fight by acquiring weapons and supplies.",
+      "Attack and kill Killian Darkwater."
+    ],
+    "first_task_locations": [
+      {
+        "name": "Gizmo\u2019s Casino",
+        "description": "The location where Gizmo hires the player for the job."
+      },
+      {
+        "name": "Darkwater General Store",
+        "description": "Killian\u2019s shop and the place where the assassination attempt happens."
+      }
+    ],
+    "quest_giver": {
+      "name": "Gizmo",
+      "description": "A casino owner seeking to remove Killian and take over Junktown.",
+      "location": "Gizmo\u2019s Casino, Junktown"
+    },
+    "reward": [
+      {
+        "name": "Caps",
+        "description": "A monetary reward from Gizmo for completing the assassination.",
+        "amount": 500
+      },
+      {
+        "name": "Gizmo's Favor",
+        "description": "Access to Gizmo\u2019s resources and potential further work.",
+        "amount": 1
+      }
+    ],
+    "characters": null,
+    "tools": ["Weapons", "Stealth Skill", "Combat Strategy"],
+    "description": "Gizmo wants Killian Darkwater dead to solidify his hold over Junktown. The player can choose to accept this task and assassinate Killian, altering the power balance in Junktown. This decision influences how the town views the player and changes future interactions.",
+    "locations": null,
+    "items": null,
+    "enemies": null,
+    "groups": null,
+    "title": "Fallout",
+    "motivation": null
+  },
+  {
+    "name": "Safety First",
+    "objective": "give a turtle shell to Pete",
+    "first_tasks": ["obtain a turtle shell"],
+    "first_task_locations": [
+      {
+        "name": "",
+        "description": "sandy beaches"
+      }
+    ],
+    "quest_giver": {
+      "name": "Pete",
+      "description": "a nitwit",
+      "location": "a village"
+    },
+    "reward": [
+      {
+        "name": "",
+        "description": "a diamond sword",
+        "amount": 1
+      }
+    ],
+    "characters": null,
+    "tools": ["NONE"],
+    "description": "Me hurt me often. Other village-people suggest me get a helmet to protect me head.\nMe seen turtles on sandy beaches. They never get hurt, because they hide in thick shells.\nYou give me a turtle shell? Make me safe? Me give you this sharp stick in return. It a diamond sword. It pretty, but me hurt plenty after touching it.",
+    "locations": null,
+    "items": null,
+    "enemies": null,
+    "groups": null,
+    "title": "Minecraft",
+    "motivation": "comfort"
+  }
+]
