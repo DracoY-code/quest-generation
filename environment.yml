@@ -1,0 +1,12 @@
+name: questgen
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.13
+  - matplotlib
+  - numpy
+  - pandas
+  - scikit-learn
+  - ipykernel
+  - transformers
