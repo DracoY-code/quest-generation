@@ -1,0 +1,37 @@
+# Docker-related files
+Dockerfile
+.dockerignore
+docker-compose.yml
+
+# IDE/editor settings
+.vscode
+.idea
+
+# Environments
+.env
+venv/
+
+# Build and cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Notebook-related
+*.ipynb_checkpoints
+
+# Git-related files
+.git/
+.gitignore
+
+# OS-specific files
+.DS_Store
+
+# Dataset
+data/
+
+# Runtime logs
+logs/
+
+# Models
+models/

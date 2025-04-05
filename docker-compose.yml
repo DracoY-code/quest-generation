@@ -1,0 +1,10 @@
+services:
+  app:
+    build: .
+    image: quest-generation:latest
+    command: bash
+    volumes:
+      - ./data:/app/data:rw
+      - ./logs:/app/logs:rw
+    tty: true
+    working_dir: /app
