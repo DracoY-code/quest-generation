@@ -18,7 +18,7 @@ else
 fi
 
 # Save the environment variables
-ENV_FILE="../.env"
+ENV_FILE="./.env"
 echo "TARGET_PLATFORM=$TARGET_PLATFORM" > $ENV_FILE
 echo "DOCKER_PLATFORM=$DOCKER_PLATFORM" >> $ENV_FILE
 
