@@ -8,7 +8,7 @@
 #   `gunzip -c <filename>.tar.gz | docker load`
 # 
 # Run the docker container ([with]/without CUDA-enabled GPUs):
-#   `docker run [--gpus all ]-it --rm quest-generation`
+#   `docker run [--gpus all ]-it --rm questgen:${TARGET_PLATFORM}`
 
 FROM mambaorg/micromamba:git-fddee42-cuda12.2.2-ubuntu20.04
 

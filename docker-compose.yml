@@ -1,7 +1,10 @@
 services:
   app:
-    build: .
-    image: quest-generation:latest
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: questgen:${TARGET_PLATFORM}
+    platform: ${DOCKER_PLATFORM}
     command: bash
     volumes:
       - ./data:/app/data:rw
