@@ -28,7 +28,9 @@ echo "Building image: (questgen:$TARGET_PLATFORM)"
 
 # Build the Docker image for the platform
 # and load it into the local Docker
+DOCKER_FILE=".devcontainer/Dockerfile"
 docker buildx build \
+    -f $DOCKER_FILE
     --platform $DOCKER_PLATFORM \
     --tag questgen:$TARGET_PLATFORM \
     --output type=docker .

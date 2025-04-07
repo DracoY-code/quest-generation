@@ -35,7 +35,9 @@ Write-Host "Building image: (questgen:$($env:TARGET_PLATFORM))"
 
 # Build the Docker image for the platform
 # and load it into the local Docker
+$dockerFile = ".devcontainer\Dockerfile"
 docker buildx build `
+    -f $dockerFile `
     --platform $env:DOCKER_PLATFORM `
     --tag questgen:$($env:TARGET_PLATFORM) `
     --output type=docker .
