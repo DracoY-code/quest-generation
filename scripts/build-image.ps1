@@ -23,7 +23,7 @@ switch ($arch) {
 }
 
 # Save the environment variables
-$envFile = ".\.env"
+$envFile = ".devcontainer\.env"
 @"
 TARGET_PLATFORM=$($env:TARGET_PLATFORM)
 DOCKER_PLATFORM=$($env:DOCKER_PLATFORM)
