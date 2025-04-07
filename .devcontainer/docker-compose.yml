@@ -13,9 +13,11 @@
 services:
   app:
     build:
-      context: .
-      dockerfile: Dockerfile
+      context: ..
+      dockerfile: .devcontainer/Dockerfile
     command: bash
+    env_file:
+      - .env
     gpus: all
     image: questgen:${TARGET_PLATFORM}
     platform: ${DOCKER_PLATFORM}

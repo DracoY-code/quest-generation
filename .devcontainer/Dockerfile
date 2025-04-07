@@ -17,13 +17,13 @@ WORKDIR /app
 USER root
 
 # Copy the environment configuration file and install dependencies
-COPY environment.yml /tmp/environment.yml
+COPY .devcontainer/environment.yml /tmp/environment.yml
 RUN micromamba install -y -n base -f /tmp/environment.yml && \
     micromamba clean --all --yes
 
 # Copy the pip dependency requirements file, install curl,
 # and install uv for resolving pip dependencies
-COPY requirements.txt .
+COPY .devcontainer/requirements.txt .
 
 RUN apt-get update && \
     apt-get install -y curl && \
