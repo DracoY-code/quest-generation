@@ -1,10 +1,27 @@
+# Start the container in detached background mode:
+#   `docker compose up --no-build -d`
+# 
+# Stop the container with `compose`:
+#   `docker compose down`
+# 
+# Run an interactive app service (with exposed ports):
+#   `docker compose run --rm --service-ports --remove-orphans -i <APP>`
+# 
+# Start a JupyterLab server at http://localhost:8888/lab:
+#   `jupyter lab --ip=0.0.0.0 --port=8888 --allow-root --IdentityProvider.token=''`
+
 services:
   app:
     build:
       context: .
       dockerfile: Dockerfile
+    command: bash
+    gpus: all
     image: questgen:${TARGET_PLATFORM}
     platform: ${DOCKER_PLATFORM}
-    command: bash
+    ports:
+      - "8888:8888"
     tty: true
+    volumes:
+      - .:/app:rw
     working_dir: /app
