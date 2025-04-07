@@ -11,3 +11,5 @@ dependencies:
   - ipykernel
   - jupyterlab
   - transformers
+  - accelerate
+  - evaluate
