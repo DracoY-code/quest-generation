@@ -5,10 +5,13 @@
 #   `docker compose [-f <COMPOSE.YAML>]down`
 # 
 # Run an interactive app service (with exposed ports):
-#   `docker compose [-f <COMPOSE.YAML>]run --rm --service-ports --remove-orphans -i <APP>`
+#   `docker compose [-f <COMPOSE.YAML>]run --rm --service-ports --remove-orphans -i <SERVICE-NAME>`
 # 
 # Start a JupyterLab server at http://localhost:8888/lab:
 #   `jupyter lab --ip=0.0.0.0 --port=8888 --allow-root --IdentityProvider.token=''`
+# 
+# Open an interactive bash shell inside a running container:
+#   `docker compose [-f <COMPOSE.YAML>]exec <SERVICE-NAME> bash`
 
 services:
   app:
@@ -16,10 +19,13 @@ services:
       context: ..
       dockerfile: .devcontainer/Dockerfile
     command: bash
+    container_name: questgen-dev
     env_file:
       - .env
     gpus: all
     image: questgen:${TARGET_PLATFORM}
+    networks:
+      - jupyternet
     platform: ${DOCKER_PLATFORM}
     ports:
       - "8888:8888"
@@ -27,3 +33,7 @@ services:
     volumes:
       - .:/app:rw
     working_dir: /app
+
+networks:
+  jupyternet:
+    driver: bridge

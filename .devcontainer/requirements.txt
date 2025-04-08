@@ -8,4 +8,3 @@
 #   [uv ]pip compile -r requirements.txt
 
 torch==2.6.0
-conda-lock==3.0.0
