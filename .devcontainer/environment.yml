@@ -9,6 +9,7 @@ dependencies:
   - pandas
   - scikit-learn
   - ipykernel
+  - ipywidgets
   - jupyterlab
   - transformers
   - accelerate
