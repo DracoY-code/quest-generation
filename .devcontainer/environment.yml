@@ -12,5 +12,6 @@ dependencies:
   - ipywidgets
   - jupyterlab
   - transformers
+  - datasets
   - accelerate
   - evaluate
