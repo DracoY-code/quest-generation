@@ -1,0 +1,15 @@
+### Quest Name: Blood of the Divines
+### Objective: recover the blood of a Divine for Martin
+### First Tasks: talk to Jauffre about obtaining the blood of Tiber Septim
+### First Task Locations: NONE - 
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: Jauffre - the male Grandmaster of the Blades (location: ), Tiber Septim - the legendary male Emperor who ascended to divinity (location: )
+### Tools: Martin needs the blood of a Divine for the ritual to open the portal to Camoran's Paradise in addition to the first item, the blood of a Daedra
+### Description: I've figured out another item needed for the ritual to open the portal to Camoran's Paradise. The second item is the counterpart to the first: the blood of a Divine. This was a terrible puzzle to me. Unlike the Daedra, the gods have no artifacts, and do not physically manifest themselves in our world. How then to obtain the blood of a god? But Jauffre solved it. The blood of Tiber Septim himself, who became one of the Divines. This is a secret remembered only by the Blades, passed down from one Grandmaster to the next. Jauffre should tell it to you himself.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: Blades - the intelligence service working under the Imperial Emperor, Divines - the gods of the Empire who do not manifest themselves in the mortal world, Daedra - immortal, fickle, infamous beings who have artifacts in the mortal world
+### Title: The Elder Scrolls IV: Oblivion
+### Motivation: NONE

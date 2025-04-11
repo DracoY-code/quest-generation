@@ -1,0 +1,15 @@
+### Quest Name: The Roots of Madness
+### Objective: cleanse the Pools of Madness and the Font of Madness from the taint of Order
+### First Tasks: find the source of the taint of Order
+### First Task Locations: Fountainhead - beneath the Tree
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: Thadon - a man who betrayed the player by joining Jyggalag (location: ), Jyggalag - a man who wants the player's Realm (location: )
+### Tools: the player has come back to the Palace, The Font of Madness in the middle of the throne room in the Palace has been tainted with Order: as goes the Font of Madness, so goes the Realm, soon we will all be serving a new master, Jyggalag: the forces of Order have poisoned the Pools of Mania and Dementia that feed the Font of Madness, the traitor Thadon is probably behind the poisoning instead of Jyggalag himself
+### Description: Ah, you're back. You may have noticed that we have a... bit of a problem. My Liege of course noticed the Font when you arrived in the Palace. The Font of Madness, in the middle of the throne room. The taint of Order appeared only a short time ago, but it has spread quickly. As goes the Font of Madness, so goes the Realm. Soon we will all be serving a new master, Jyggalag. Somehow the forces of Order have poisoned the Pools of Mania and Dementia that feed the Font. I suspect the traitor Thadon. Jyggalag has never had an original thought in his existence. Be that as it may. You will have to enter the Fountainhead beneath the Tree and find the source of the poison.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: The Elder Scrolls IV: Oblivion
+### Motivation: NONE

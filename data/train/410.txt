@@ -1,0 +1,15 @@
+### Quest Name: Bounty: Sturmbeorn!
+### Objective: alleviate the threat of the Sturmbeorn
+### First Tasks: kill 10 Sturmbeorn
+### First Task Locations: Temple Steppes - a grassland plain
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - bounty (amount: 1)
+### Characters: NONE
+### Tools: NONE
+### Description: BOUNTY! The Sturmbeorn raiders are a threat to the Estherians and to the brave settlers of the Empire. Commander Vale is authorized to pay a reward to anyone who assists the Vanquisher Corps in ridding the Temple Steppes of these savage brutes. This bounty shall be paid to anyone who slays 10 or more Sturmbeorn in the Temple Steppes.
+### Locations: NONE
+### Items: "Bounty Board" - a bounty board (amount: 1)
+### Enemies: Sturmbeorn - savage raiders attacking the Estherians and the settlers of the Empire (amount: 10)
+### Groups: Vanquisher Corps - a military outfit, Estherians - a race of people
+### Title: Torchlight II
+### Motivation: NONE

@@ -1,0 +1,15 @@
+### Quest Name: Kill the 'Chicken'
+### Objective: Defeat the mutant 'chicken' terrorizing Modoc.
+### First Tasks: Find the 'chicken' in Modoc., Engage the creature in combat and defeat it.
+### First Task Locations: Modoc - A small farming town where the 'chicken' is causing trouble.
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: Caps - A monetary reward for eliminating the threat. (amount: 200), Combat experience - Fighting the creature grants valuable combat experience. (amount: NONE)
+### Characters: NONE
+### Tools: Weapons and armor to engage in combat., Healing supplies in case of injury.
+### Description: A mysterious and dangerous creature, referred to as the 'chicken,' has been attacking livestock in Modoc. Grisham wants it eliminated before it causes more damage.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: Fallout 2
+### Motivation: NONE

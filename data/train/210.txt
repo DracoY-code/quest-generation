@@ -1,0 +1,15 @@
+### Quest Name: The Maid & Her Suitors
+### Objective: decide who gets to marry Chanelle
+### First Tasks: go see Chanelle and her two suitors
+### First Task Locations: NONE - 
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: Chanelle - a female maid (location: the player's castle)
+### Tools: the player is a noble, Chanelle was an orphan who was took in by the de'Arnise family: the player is Chanelle's guardian as the ruler of the keep, no one can marry Chanelle without the player's permission
+### Description: Greetings, Your Grace. It is I, the majordomo of your castle. We have a small problem here at the keep, one that I doubt that you would be aware of at all. I am unsure if you have met Chanelle... She has been a maid here most of her life. She was an orphan, and the de'Arnise family took her in as a servant when she was young. As the ruler of the keep, you are technically her guardian. Ordinarily, that would not be a problem, but there are two men who desire her hand in marriage. It is... up to you, my liege, to give her away and decide which of the men has your blessing for the marriage. I shall bring them in to see you, my liege. If you do not resolve this issue, then... no one shall be permitted to marry Chanelle. And I am sure that is not what she wants.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: de'Arnise family - the former rulers of the player's castle
+### Title: Baldur's Gate II: Shadows of Amn
+### Motivation: NONE

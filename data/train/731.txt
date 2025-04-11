@@ -1,0 +1,15 @@
+### Quest Name: Find weakness in Tyler's gang guarding the church
+### Objective: Discover a vulnerability in Tyler’s gang's defenses to help Lara’s gang plan their attack.
+### First Tasks: Talk to Lara about Tyler’s gang and their guard routines., Observe Tyler’s gang guarding the church to find weaknesses., Report back to Lara with any useful information.
+### First Task Locations: The Den - A dangerous town filled with criminals and gangs, including Tyler's group and Lara’s gang., Church in The Den - A guarded location controlled by Tyler’s gang, serving as their hideout and base of operations.
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: Caps - A monetary reward for successfully identifying a weakness in Tyler’s gang. (amount: 100), Progression in Lara's gang quests - Advances the storyline, leading to a possible gang war and further missions. (amount: NONE)
+### Characters: NONE
+### Tools: Stealth or Sneak skill to observe the gang unnoticed., High Perception to notice key details in their guard routine.
+### Description: Lara’s gang wants to take down Tyler’s group, but they need an advantage. Your task is to find a flaw in Tyler’s security so that Lara can strike at the right moment.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: Fallout 2
+### Motivation: NONE

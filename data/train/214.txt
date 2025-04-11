@@ -1,0 +1,15 @@
+### Quest Name: A Better Mousetrap
+### Objective: activate Xedilian to make unwanted guests to stay away from Sheogorath's realm
+### First Tasks: use the Attenuator of Judgement and the small book to activate Xedilian
+### First Task Locations: Xedilian - a maze dungeon in Shivering Isles
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: None -  (amount: 1)
+### Characters: Haskill - a detail-oriented man, and a snappy dresser (location: )
+### Tools: Sheogorath gives the player the Attenuator of Judgement and a small book: the player can get more information from Haskill
+### Description: I'm Sheogorath, the Daedric Prince of Madness. I've been waiting for you, or someone like you, or someone other than you, for some time. Now? You run an errand for me. An important one. Of course, anything I tell you to do is important. My Realm, my rules. You're going to Xedilian, one of my favorite spots in the Shivering Isles. It's a little place I use to take care of unwanted visitors. And some are more unwanted than others. There are those that have other ways into my Realm, and they're on the move. We don't want them here. Trust me. So, you're going to get Xedilian up and running. Here's a little book to tell you how, and the Attenuator of Judgement. You'll need that, too. Of course, you can always get more details from Haskill. He's a detail-oriented type of person. A big help. And a snappy dresser. Now, get going. Before I change my mind. Or my mind changes me.
+### Locations: Shivering Isles - Sheogorath's realm (location: NONE)
+### Items: Attenuator of Judgement - an item the player needs (amount: 1),  - small book, tells the player how to activate Xedilian (amount: 1)
+### Enemies: NONE
+### Groups: Daedric Princes - immortal, fickle, infamous divine beings
+### Title: The Elder Scrolls IV: Oblivion
+### Motivation: NONE

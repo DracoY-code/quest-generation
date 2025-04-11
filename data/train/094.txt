@@ -1,0 +1,15 @@
+### Quest Name: Nadine and Euric
+### Objective: give Euric a good luck talisman and return to Nadine
+### First Tasks: find Euric
+### First Task Locations: Baldur's Gate - a city
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - a necklace (amount: 1)
+### Characters: Euric - Nadine's youngest son, who knows how to take care of himself (location: Baldur's Gate)
+### Tools: Euric ran away from home, Nadine gives the player a good luck talisman
+### Description: I, Nadine, desperately need someone's help. Euric, my youngest son, has run away again... He's always had a touch of the wanderer in him and he knows how to take care of himself, but... Oh, I'm just worried sick. This city gets more dangerous every day... If you find him, could you give him this good luck talisman? I'm sure we'd all sleep a little better. Let me give you this necklace as a token of my thanks upon your return. I don't know if it's worth anything but it has been in the family for years.
+### Locations: NONE
+### Items: a good luck talisman - a talisman (amount: 1)
+### Enemies: NONE
+### Groups: NONE
+### Title: Baldur's Gate
+### Motivation: NONE

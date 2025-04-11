@@ -1,0 +1,15 @@
+### Quest Name: Ringmaker
+### Objective: gather jewelry materials for Madesi
+### First Tasks: get two flawless sapphires, a mammoth tusk and a chunk of gold ore
+### First Task Locations: NONE - 
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: compensation -  (amount: 1)
+### Characters: NONE
+### Tools: Madesi is one of the few traditional Saxhleel jewelers that remain in Tamriel
+### Description: I make my own jewelry. Sadly, I'm one of the few traditional Saxhleel jewelers that remains in Tamriel; it's becoming a lost art. Only trouble is gathering materials has become hazardous. The roads to the mines and to the other cities are thick with bandits... and worse. Would you be interested in gathering some materials for me? I'd certainly be happy to compensate you. I'm seeking a small list of items to complete my next creation: two flawless sapphires, a mammoth tusk and a chunk of gold ore.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

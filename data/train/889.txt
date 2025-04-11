@@ -1,0 +1,15 @@
+### Quest Name: Your Will Be Done
+### Objective: learn powerful, new conjuration spells
+### First Tasks: summon an unbound Dremora, prove that you are in control, and order the Dremora bring you a sigil stone from an Oblivion gate
+### First Task Locations:  - the top of the Hall of Attainment
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - Phinis Gestor inscribes powerful, new conjuration spells for the player (amount: 1)
+### Characters: Dremora - a humanoid creature from the planes of Oblivion (location: )
+### Tools: the player has advanced quickly in their conjuration studies, Phinis Gestor will teach the player the spell to summon the Dremora, but it will only work in a place properly prepared for the event
+### Description: How quickly you've advanced. Most impressive. There are spells yet to be learned, powerful spells that can more closely and more permanently bind creatures to your will. These spells are difficult, even for one as skilled as I. To even begin to inscribe them, I need something very special. A sigil stone from an Oblivion gate. I do not have one in my possession. Nor do you, I'm sure. So we require a Dremora to retrieve one for us. You will summon one, and order it to bring a sigil stone to you. I will then inscribe the spells for you. But there are risks. There are always risks. You must summon and command an unbound Dremora. Summoning an Unbound Dremora is not like other Conjuration spells. It will not simply do your bidding. You must first prove you are in control. I will teach you the spell to summon the Dremora, but know that it will only work in a place properly prepared for the event. Here is the spell you need. Go to the top of the Hall of Attainment; I have prepared a place for you there.
+### Locations: Hall of Attainment - a tall building (location: NONE)
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

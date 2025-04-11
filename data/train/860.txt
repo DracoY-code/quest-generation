@@ -1,0 +1,15 @@
+### Quest Name: Scheduled for Execution
+### Objective: assassinate Valen Dreth in the Imperial Prison
+### First Tasks: infiltrate the Imperial Prison via a set of secret tunnels
+### First Task Locations:  - Imperial City's sewers
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - a bonus if the player fulfills the contract without killing any of the prison guards (amount: 1)
+### Characters: Valen Dreth - a male Dark Elf, and a frail prisoner of many years (location: Imperial Prison)
+### Tools: just outside of the Imperial Prison is a grating that leads to the sewers: it has recently been tightly locked, but Vicente Valtieri will provide a key
+### Description: Back for more? It just so happens I have another contract available, one that requires an expert in infiltration. Ever broken out of jail? How do you feel about breaking into one? The Imperial Prison, to be exact. We need a prisoner... silenced. Can you do it? Your target is a Dark Elf named Valen Dreth. He thinks he's safe in prison. He is tragically mistaken. A prisoner recently escaped from the prison, using a set of secret tunnels connecting to the Imperial City's sewer system. It's a perfect way inside. Just outside of the Imperial Prison is a grating that leads to the sewers. It has recently been tightly locked, but I will provide a key. It should be easy enough to locate Dreth in his small cell. Besides, I think you know the way, hmmm. He he he he he. Valen Dreth has been imprisoned for many years. His tongue is sharp, but his body is limp and frail. He will prove an easy, pleasurable kill. You will receive a bonus if you fulfill the contract without killing any of the prison guards. Now go, and may the Night Mother go with you.
+### Locations: Imperial Prison - a prison where the player was imprisoned in the past (location: NONE), Imperial City - a large city (location: NONE)
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: The Elder Scrolls IV: Oblivion
+### Motivation: NONE

@@ -1,0 +1,15 @@
+### Quest Name: Fetch Me That Book!
+### Objective: find a book for Urag gro-Shub
+### First Tasks: read the note
+### First Task Locations: NONE - 
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: NONE
+### Tools: Urag gro-Shub gives the player a note that tells the player the location of the book
+### Description: If you're feeling adventurous, I'm always looking for someone to procure valuable books from some more... dangerous locations. Here, I scribbled down the last place I'd heard about. Check it out, but be careful.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

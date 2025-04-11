@@ -1,0 +1,15 @@
+### Quest Name: The Call of Adventure
+### Objective: bring a sword and a suit of armor to Hunter
+### First Tasks: obtain a sword, obtain a suit of armor
+### First Task Locations:  - weaponsmiths,  - armorers
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - some amethyst shards (amount: 1)
+### Characters: NONE
+### Tools: NONE
+### Description: I do not want to spend my whole life in this village! I want to become an adventurer, like you. Maybe even make a name for myself... Can you please help me start my life as an adventurer? I just need a sword and a suit of armor to keep myself save from danger. You can get swords from weaponsmiths and armor from armorers. I collected some amethyst shards when I was a child dreaming of adventure. You can have them. You may yet find a use for them.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: Minecraft
+### Motivation: reputation

@@ -1,0 +1,15 @@
+### Quest Name: Rescue
+### Objective: rescue Farkas from a group of necromancers
+### First Tasks: kill the vampire leading the group of necromancers
+### First Task Locations: Morvunskar - a necromancer lair
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - an enchanted item (amount: 1)
+### Characters: Farkas - a man, and the player's friend (location: Morvunskar), Arkay - the god of life and death (location: )
+### Tools: NONE
+### Description: Arkay has some grave news, friend. Your friend, Farkas, kidnapped! A vicious night stalker rules over a group of necromancers - seeks to gain leverage over the righteous. Arkay's never clear on life and death. Is he still alive? There's always hope... Go to Morvunskar, kill the vampire, and try to save Farkas.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

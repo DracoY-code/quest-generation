@@ -1,0 +1,15 @@
+### Quest Name: Block Training
+### Objective: demonstrate your blocking skills to Andragil
+### First Tasks: block Andragil's attacks with your shield
+### First Task Locations: NONE - 
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - training from Andragil (amount: 1)
+### Characters: NONE
+### Tools: the player asked Andragil to train the player in blocking
+### Description: You want training, from me? Well, perhaps I can accommodate you. If you're worth the time and effort, that is. I think a little test is in order. Thinking you know how to use a shield is one thing. Actually using one is quite another. So here's what we're going to do. We're going to find out whether or not you can hold up in combat. You put up your shield, and I hit you. If you're still standing when I'm done, you've earned the right to learn what I have to teach. Shall we find out what you really know? Now, put up your guard, and let's begin. I'm losing interest in this.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: The Elder Scrolls IV: Oblivion
+### Motivation: NONE

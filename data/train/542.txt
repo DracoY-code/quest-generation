@@ -1,0 +1,15 @@
+### Quest Name: Dragon's Breath Mead
+### Objective: retrieve the Dragon's Breath Mead and give it to Olda
+### First Tasks: find Horgeir's stash of drinks
+### First Task Locations:  - a cave nearby, guarded by wolves
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: Horgeir - Olda's husband who promised to give up on the mead (location: )
+### Tools: NONE
+### Description: My husband Horgeir promised me, swore on his ancestors, that he'd give up the mead. And what do I find out? He's been stashing drink in a cave nearby. He even has some wolves guarding it. I swear, I should just cut out his tongue. That would be the end of it. You could get Horgeir's stash for me, but I'll keep my dagger sharpened just in case. You can help yourself to any drink you find, but bring me the bottle of Dragon's Breath Mead. It's his favorite, so I know he has one there.
+### Locations: NONE
+### Items: Dragon's Breath Mead - Horgeir's favorite mead (amount: 1)
+### Enemies: NONE
+### Groups: NONE
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

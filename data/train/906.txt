@@ -1,0 +1,15 @@
+### Quest Name: Lisbet's Missing Shipment
+### Objective: recover a stolen Dibella Statue for Lisbet
+### First Tasks: find the Dibella Statue
+### First Task Locations: Broken Tower Redoubt - a Forsworn camp
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - a sum of gold (amount: 1)
+### Characters: Dibella - the goddess of beauty, love, and affection (location: )
+### Tools: NONE
+### Description: This store would finally be on its feet if I hadn't lost my last shipment to Forsworn attacks. A specially-made Dibella statuette. You aren't for hire, are you? A sellsword? I'll pay you if you can recover that statuette from the Forsworn at Broken Tower Redoubt. I'll have a sum of gold waiting for you when you return.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: Forsworn - savages practicing banditry
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

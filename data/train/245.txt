@@ -1,0 +1,15 @@
+### Quest Name: Taxonomy of Obsession
+### Objective: help Mirili Ulven finish her research
+### First Tasks: find plants for Mirili Ulven
+### First Task Locations: NONE - 
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - gold coins for each plant sample (amount: 10)
+### Characters: NONE
+### Tools: Mirili Ulven gives the player a list of plants she needs
+### Description: I am Mirili Ulven, a botanist. You're offering to help me with my research? Well... I suppose I could find a use for you, despite your lack of training. Collect some plants for me, will you? Here's the list of things I need. Get me everything on it. Try to remember where you found it so you can tell me. It's important. I will pay you 10 gold coins for each sample.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: The Elder Scrolls IV: Oblivion
+### Motivation: NONE

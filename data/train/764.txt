@@ -1,0 +1,15 @@
+### Quest Name: Clavicus Vile's Lost Sword
+### Objective: retrieve Umbra the Sword for Clavicus Vile
+### First Tasks: begin your search for Umbra the Sword
+### First Task Locations: Pell's Gate - a village
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: Clavicus Vile's Masque - one of Clavicus Vile's relics (amount: 1)
+### Characters: Umbra the Hero - a hero who had dealings with Clavicus Vile (location: )
+### Tools: Umbra the Sword contains the soul of Umbra the Hero
+### Description: A mortal! Wonderful. Always a pleasure. I'm Clavicus Vile, the Prince of Trickery and Bargains. Perhaps you'll do a service for me, mortal. And I'll reward you. A fair bargain, don't you think? You will retrieve for me a sword, a very special sword. It contains the soul of Umbra the Hero, a hero I have had dealings with in the past. Bring the sword to me, and I'll reward you with my Masque. You'll not find a better bargain, mortal. Begin your search in Pell's Gate.
+### Locations: NONE
+### Items: Umbra the Sword - a sword (amount: 1)
+### Enemies: NONE
+### Groups: Daedric Princes - immortal, fickle, infamous divine beings
+### Title: The Elder Scrolls IV: Oblivion
+### Motivation: NONE

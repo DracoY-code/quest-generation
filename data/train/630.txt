@@ -1,0 +1,15 @@
+### Quest Name: G'axir the Seer
+### Objective: bring a sphene gem to G'axir the Seer
+### First Tasks: find a sphene gem
+### First Task Locations:  - the lair of the basilisk
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: NONE
+### Tools: NONE
+### Description: Your future... is hemmed in darkness. Your lives... are in the balance. Act wisely, act judiciously... and bring me the sphene gem, should you find it... You... are a light entering darkness. You... are a seeker of truths. You... are more than you realize. The Seer has spoken it because the Seer knows the fear you harbor, the fear you shall yet become. In the lair of the basilisk, you will find a sphene gem... You would do well to bring it to the Seer.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: Baldur's Gate
+### Motivation: NONE

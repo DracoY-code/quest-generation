@@ -1,0 +1,15 @@
+### Quest Name: The Gift of Beastblood
+### Objective: meet Skjor in the Underforge tonight
+### First Tasks: let Skjor show you the way to the hidden door to the Underforge
+### First Task Locations:  - beneath the Skyforge
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - the gift of lycanthropy (amount: 1)
+### Characters: Eorlund - a famous blacksmith (location: )
+### Tools: NONE
+### Description: I have something a little different planned this time. But it's not for everyone to hear. Meet me in the Underforge tonight. Oh yes, you don't yet know where the Underforge is. I forget that you've never seen it. Beneath the Skyforge, where Eorlund works. All I say is that you will receive a gift. A gift that will join your spirit with the beast world, friend. The door to the Underforge is hidden, but I will show you the way.  We will speak more.
+### Locations: Skyforge - a forge where Eorlund works (location: NONE), Underforge - a hidden cave (location: NONE)
+### Items: NONE
+### Enemies: NONE
+### Groups: Companions - a band of honorable warriors
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

@@ -1,0 +1,15 @@
+### Quest Name: Cacklespit's Realm
+### Objective: bring 4 skulls of famous warriors to Fade
+### First Tasks: find 4 skulls of famous warriors
+### First Task Locations: Sundered Battlefield - an ancient battleground
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - Fade shows the player the way to Cacklespit's Realm (amount: 1)
+### Characters: NONE
+### Tools: the player has summoned Fade: the player wants to enter Cacklespit's Realm
+### Description: I am Fade - why have you summoned me? Ah, you want to enter Cacklespit's hidden realm. Yes, I know the way - but I do not provide service without compensation. I have very particular... appetites. The remains of the living are infused with a lingering residue of deeds past, which sustains me. Bring me the skulls of four warriors of renown, and I will take you where you wish to go. This battlefield is littered with the bones of great heroes. Your search should not be difficult.
+### Locations: Cacklespit's Realm - a hidden realm (location: NONE)
+### Items:  - skulls of famous warriors (amount: 4)
+### Enemies: NONE
+### Groups: NONE
+### Title: Torchlight II
+### Motivation: NONE

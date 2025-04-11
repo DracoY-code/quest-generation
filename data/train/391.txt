@@ -1,0 +1,15 @@
+### Quest Name: The Hist
+### Objective: return to the Blackwood Company hall to destroy the Hist Tree and anyone that stands in your way
+### First Tasks: find Ri'Zakar's key that opens the door to the Hist tree
+### First Task Locations: Blackwood Company hall - the headquarters of the Blackwood Company
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: Ri'Zakar - the leader of the Blackwood Company, and a battle-hardened mercenary who's spent time all over Tamriel (location: Blackwood Company hall)
+### Tools: Modryn Oreyn has one final duty for the player to perform, everyone is in danger, as long as the Blackwood Company has access to the sap from the Hist Tree, Ri'Zakar will have the Hist Tree well guarded
+### Description: It is time for decisive action. I have one more duty for you to perform. It is clear to me what must be done. The Hist Tree must be destroyed. This tree is the source of our problems. It is an abomination of nature, and it must be destroyed. As long as the Blackwood Company has access to the sap, we are all in danger. I fear they no longer know what they do. You must find a way to destroy the Hist, though I can imagine Ri'Zakar will have it well guarded. He's a warrior, a battle-hardened mercenary who's spent time all over Tamriel. He'll keep his prize tree locked away. You'll need to find his key. Expect an unfriendly welcome at their hall. Finish it.
+### Locations: Tamriel - a continent (location: NONE)
+### Items: Hist Tree - an abominable tree, and the source of the Fighters Guild's problems (amount: 1)
+### Enemies: NONE
+### Groups: Fighters Guild - a mercenary guild, Blackwood Company - a shady mercenary organization
+### Title: The Elder Scrolls IV: Oblivion
+### Motivation: NONE

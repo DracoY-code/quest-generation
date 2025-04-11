@@ -1,0 +1,15 @@
+### Quest Name: Kill Me and Be Done with It...
+### Objective: find your prisoner's hidden treasure for yourself
+### First Tasks: get your prisoner's treasure from a hollowed-out rock
+### First Task Locations:  - the tundra a bit west of Whiterun
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - treasure (amount: 1)
+### Characters: NONE
+### Tools: the player is torturing their prisoner: the prisoner wants to die
+### Description: Please... What is it you want? Just... just stop. And I'll tell you where I've hidden my treasure. It's... in a hollowed-out rock. In the tundra. A bit west of Whiterun. Now please... please stop. Oh gods, you've taken everything I have. Just kill me and be done with it...
+### Locations: Whiterun - a city (location: NONE)
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

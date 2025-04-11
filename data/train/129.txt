@@ -1,0 +1,15 @@
+### Quest Name: Wind and Sand
+### Objective: retrieve a copy of "Wind and Sand" for Neloth
+### First Tasks: find a copy of "Wind and Sand"
+### First Task Locations: Druadach Redoubt - a bandit camp
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: Afa-Saryat - a famous Redguard wizard (location: )
+### Tools: NONE
+### Description: I've been trying to adapt Redguard magic to the ash. I think the key concept I'm missing is recorded in Afa-Saryat's book, Wind and Sand. I have some associates and correspondents who find things for me. One of them has a credible rumor on where this book might be. And I'd like you to find the truth of the matter. Go to Druadach Redoubt and fetch the book for me, will you?
+### Locations: NONE
+### Items: "Wind and Sand" - a book written by Afa-Saryat (amount: 1)
+### Enemies: NONE
+### Groups: Redguards - a race of people
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

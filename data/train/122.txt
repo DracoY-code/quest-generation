@@ -1,0 +1,15 @@
+### Quest Name: Rescue Garren's Child from Firkraag
+### Objective: rescue Garren Windspear's daughter, and avenge the slain knights of the Radiant Heart
+### First Tasks: find Jierdan Firkraag
+### First Task Locations:  - the ruins in the northeast
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - the player's honor will be restored (amount: 1)
+### Characters: Jierdan Firkraag - a man who hates Garren Windspear (location: )
+### Tools: Garren Windspear left his home in the player's care, Jierdan Firkraag and his hooligans kidnapped Garren Windspear's daughter from Garren Windspear's home, the player will travel unmolested, because Garren Windspear pleaded the player's virtue at the Radiant Heart
+### Description: My daughter is gone! I left my home in your care! I... I... no, no, I know it was not you... I know who my enemies are. Damn that Jierdan Firkraag! What is his grief with me?! I don't know where you will find him. His hooligans prevent searching. I don't know... Perhaps the ruins in the northeast? I don't know... Please rescue my child, no matter the risk. You will travel unmolested, for my pleas of your virtue were heard at the Radiant Heart. They demand justice for the slain knights, so that is your task now. Do this, and your honor shall be restored.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: Radiant Heart - an order of holy knights
+### Title: Baldur's Gate II: Shadows of Amn
+### Motivation: NONE

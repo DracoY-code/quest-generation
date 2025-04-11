@@ -1,0 +1,15 @@
+### Quest Name: Join the Khans
+### Objective: Prove loyalty to the Khans and become a member.
+### First Tasks: Speak with Garl, the leader of the Khans., Complete the initiation task assigned by Garl.
+### First Task Locations: Khans' Camp - A raider stronghold controlled by the Khans, located in the wasteland.
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: Khans Membership - The player is recognized as a member of the Khans. (amount: 1)
+### Characters: NONE
+### Tools: N, O, N, E
+### Description: The player must speak to Garl and prove their worth to join the Khans, a dangerous raider faction. The initiation task may involve combat or another challenge to demonstrate strength and loyalty.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: Fallout
+### Motivation: NONE

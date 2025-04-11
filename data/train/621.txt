@@ -1,0 +1,15 @@
+### Quest Name: Taking Notes
+### Objective: figure out how to stop the Alchemist
+### First Tasks: find the 3 Alchemist's Journals that remain
+### First Task Locations: Icedeep Caverns - icy caverns where dangerous creatures dwell
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: Alchemist - a villainous man (location: )
+### Tools: Jadok found volume 4 of Alchemist's Journals: it describes entering the mine at Torchlight and retrieving Ordrak's Heart
+### Description: Your arrival is well-timed. I believe I have located the Alchemist's lair, here in the Icedeep Caverns. I found a Journal just inside the entrance; it speaks of entering the mine at Torchlight and retrieving Ordrak's Heart. I intended to look for more, further inside the icy caverns, but the creatures dwelling there now are too much for me. Finding the rest of the Alchemist's Journals would probably be very helpful in ascertaining how to stop him. The one I saw was volume four, so there are probably three more in the Icedeep Caverns.
+### Locations: Torchlight - a town (location: NONE)
+### Items: Alchemist's Journals - a series of journals written by the Alchemist (amount: 3), Ordrak's Heart - a dangerous artifact (amount: 1)
+### Enemies: NONE
+### Groups: NONE
+### Title: Torchlight II
+### Motivation: NONE

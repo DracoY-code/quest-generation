@@ -1,0 +1,15 @@
+### Quest Name: Hircine's Unicorn Hunt
+### Objective: bring an unicorn horn to Hircine
+### First Tasks: hunt the unicorn
+### First Task Locations: Harcane Grove - a forest grove
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: Saviour's Hide - Hircine's token (amount: 1)
+### Characters: NONE
+### Tools: the player summoned Hircine
+### Description: Summoned by prey. The hare crouches before the fox's muzzle. Perhaps I, Hircine, shall task you, mortal. Set you to hunt for my amusement. In Harcane Grove is a quarry worthy of the chase. First named, last tamed, the unicorn runs wild there. Bring me this creature's horn, mortal. If you dare. Do taste its flesh and drink its blood. Never waste the spoils of a kill. Please me, hunter, and you shall have my token, Saviour's Hide, and wear it well. Hereafter, take your prey, and whisper my name.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: Daedric Princes - immortal, fickle, infamous divine beings
+### Title: The Elder Scrolls IV: Oblivion
+### Motivation: NONE

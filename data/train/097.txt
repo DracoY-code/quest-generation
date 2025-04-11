@@ -1,0 +1,15 @@
+### Quest Name: A Watery Grave
+### Objective: assassinate Gaston Tussaud
+### First Tasks: board the Marie Elena
+### First Task Locations:  - Waterfront District of the Imperial City
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: Gaston Tussaud - a male pirate captain (location: )
+### Tools: this is the player's first assignment, the pirates have been moving cargo: the player may be able to smuggle themselves onboard the Marie Elena in one of the packing crates, the player's fellow assassins provide insight about any current contract
+### Description: Warmest greetings to you. I am Vicente Valtieri. I'm eager to see how you fare on your first assignment. Go to the Waterfront District of the Imperial City. There you will find a ship named the Marie Elena. Board the ship and find its captain, Gaston Tussaud. He'll be in his cabin. Eliminate Tussaud in any manner you see fit. As a pirate, Gaston Tussaud has certainly spilled his share of blood. Someone wants revenge, and they've hired us to extract it. The pirates have been moving a lot of cargo onboard lately. You may be able to smuggle yourself onboard in one of the packing crates. Oh, and one more thing. Get into the habit of asking your fellow assassins about any current contract. Their insight may prove invaluable.
+### Locations: Marie Elena - Gaston Tussaud's ship (location: NONE), Imperial City - a large city (location: NONE)
+### Items: NONE
+### Enemies: NONE
+### Groups: Dark Brotherhood - a guild of assassins
+### Title: The Elder Scrolls IV: Oblivion
+### Motivation: NONE

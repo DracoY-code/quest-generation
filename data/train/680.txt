@@ -1,0 +1,15 @@
+### Quest Name: Trouble in Eastmarch
+### Objective: take care of the bandits troubling farmers
+### First Tasks: find the bandit stronghold
+### First Task Locations: Eastmarch - a region
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: NONE
+### Tools: NONE
+### Description: There's some trouble in Eastmarch. Farmers getting troubled by some bad types who've built up a stronghold in the area. There's nothing but a bunch of lowly bandits. Cowards, who will take little effort. Take care of them. Do not spare them your blade.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: Companions - a band of honorable warriors
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

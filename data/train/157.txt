@@ -1,0 +1,15 @@
+### Quest Name: Game of the Imps
+### Objective: play the imps' game
+### First Tasks: place the gifts, and talk to the imps
+### First Task Locations: NONE - 
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - all of the drow's treasure from the sixth chest (amount: 1)
+### Characters: NONE
+### Tools: there are five empty chests, a famous person will appear in front of each empty chest: each famous person will give the player a gift that belongs to another famous person and will give a hint about the gift's owner, the player must place each gift to the correct chest behind each famous person
+### Description: We are two imps, little demonic people. We want to play a game. Okay, big peoples... this is how our game will go! There is five chests here with nothings in them! In front of each empty chest, a famous big people will appear! Famous big people! Oh, yes, powerful famous big people! Each famous big people will give you a gift that belongs to another famous big people... and they will hints to you what gifts belong to them! If you thinks you knows which famous big people a gift belongs to, you puts it in the empty chest behind them, yes? Very simple! Once you places all five, you comes and asks us! If you wrong, we laugh at you! If you right, we open the sixth chest! The sixth chest has all of the drow's treasure! All of it!
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: Baldur's Gate II: Shadows of Amn
+### Motivation: NONE

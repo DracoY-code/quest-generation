@@ -1,0 +1,15 @@
+### Quest Name: Mercantile Training
+### Objective: prove to Palonirya that you have enough capital to receive her expertise
+### First Tasks: collect 10,000 Septims
+### First Task Locations: NONE - 
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - mercantile training from Palonirya (amount: 1)
+### Characters: NONE
+### Tools: the player asked mercantile training from Palonirya
+### Description: Training? Well, my dear, good business sense is just something that comes naturally to me. You've got to have the know-how, or else I can't teach you anything at all. Do you have what it takes? Do you even know what it takes? Gold, that's what! Septims, and lots of them! Show me that you've got the starting capital, at least ten thousand in liquid assets. Afterwards, I'll help you learn how to put it to good use.
+### Locations: NONE
+### Items: Septims - a currency (amount: 10000)
+### Enemies: NONE
+### Groups: NONE
+### Title: The Elder Scrolls IV: Oblivion
+### Motivation: NONE

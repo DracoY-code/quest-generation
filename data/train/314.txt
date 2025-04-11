@@ -1,0 +1,15 @@
+### Quest Name: Assassinate Boss Salvatore for Big Jesus Mordino
+### Objective: Eliminate Boss Salvatore, the leader of the Salvatore crime family, on behalf of Big Jesus Mordino.
+### First Tasks: Speak to Big Jesus Mordino at the Mordino Casino in New Reno., Gather information about Boss Salvatore's whereabouts and security., Infiltrate the Salvatore bar and locate Boss Salvatore., Kill Boss Salvatore and escape without getting caught.
+### First Task Locations: Mordino Casino - Big Jesus Mordino's headquarters in New Reno., Salvatore's Bar - Boss Salvatore's base of operations, heavily guarded by his men.
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: Caps Reward - Earn $1,000 for successfully assassinating Boss Salvatore. (amount: NONE), Mordino Reputation - Increased standing with the Mordino family. (amount: NONE)
+### Characters: NONE
+### Tools: Silenced weapons or explosives for assassination., Lockpicking tools to enter restricted areas., Stealth skills to avoid detection.
+### Description: Big Jesus Mordino wants Boss Salvatore eliminated to weaken the Salvatore family's power in New Reno. Sneak into Salvatore's bar, take him out, and escape without raising suspicion.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: Fallout 2
+### Motivation: NONE

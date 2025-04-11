@@ -1,0 +1,15 @@
+### Quest Name: The Only Cure
+### Objective: kill Orchendor, and return to Peryite
+### First Tasks: find Orchendor
+### First Task Locations: Bthardamz - a ruin
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - a powerful token: a dwarven-made escutcheon, capable of shielding the player from both the spell and sword (amount: 1)
+### Characters: Orchendor - Peryite's male elven monk (location: Bthardamz)
+### Tools: Orchendor was sent to gather Afflicted to Bthardamz: Orchendor betrayed Peryite afterwards
+### Description: I have watched you for some time, you know. The decisions you've made intrigue me, and I wonder if you are the proper agent for a task of mine. I sent a blessing to the world, a wasting plague that infected a scattering of Breton villages. One of my monks, the elf Orchendor, was sent to gather these Afflicted. He shepherded them into Bthardamz for me, but has since lost his way. I will not stand for betrayal. I want you to go to Bthardamz and kill Orchendor, in my name. I can grant you a powerful token for this task. An escutcheon of dwarven make, capable of shielding you from both the spell and sword. Return when the elf lies dead and it will be yours.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: Afflicted - people from Breton villages who were infected with Peryite's plague
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

@@ -1,0 +1,15 @@
+### Quest Name: Palin and the Monsters
+### Objective: save people from monsters
+### First Tasks: help Palin kill monsters
+### First Task Locations:  - east of this place
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: NONE
+### Tools: NONE
+### Description: Good day to you, stranger. I'm called Palin. Excuse my, uhm, abruptness but I would ask your assistance. Just east of this place there are monsters. They are attacking a small group of people. Please, if you have hearts, come and help me fight.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: Baldur's Gate
+### Motivation: NONE

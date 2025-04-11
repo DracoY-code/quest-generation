@@ -1,0 +1,15 @@
+### Quest Name: The Desolate Mine
+### Objective: complete your contract
+### First Tasks: deliver weapons
+### First Task Locations: Desolate Mine - a mine
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: NONE
+### Tools: NONE
+### Description: You here looking for work, meat? Maybe you want a contract? I suppose I've got something for you. We need a weapons shipment delivered to Desolate Mine. That's your job. Move your ass, boot.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: Fighters Guild - a mercenary guild
+### Title: The Elder Scrolls IV: Oblivion
+### Motivation: NONE

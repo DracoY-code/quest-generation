@@ -1,0 +1,15 @@
+### Quest Name: Peryite's Foolish Followers
+### Objective: rescue the souls of Peryite's worshipers from Oblivion
+### First Tasks: enter the plane of Oblivion where Peryite's worshipers' souls are trapped
+### First Task Locations: Realm of Peryite - 
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: Spell Breaker - a shield (amount: 1)
+### Characters: NONE
+### Tools: the player has found Peryite's shrine that is filled with Peryite's paralyzed followers: Peryite's worshipers cast a spell in the hopes of summoning Peryite and got trapped between worlds, Peryite will transport the player to the plane of Oblivion in which his worshipers are trapped: when the player has collected the worshipers' souls, Peryite will return the player here
+### Description: This one moves! A welcome change. So, mortal, you have found my shrine, and you have seen my followers. They are an embarrassment to me, Peryite. The fools cast a spell in the hopes of summoning me to them. It was prideful and foolish, and it has had its consequences. My followers are trapped between worlds; their bodies here on this plane, their souls in Oblivion. I would have you reunite the bodies and the souls. I will transport you to the plane of Oblivion in which they are trapped. Find their souls. When all are collected, I will return you here. You shall have Spell Breaker, with my blessing. May it bring you order.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: Daedric Princes - immortal, fickle, infamous divine beings
+### Title: The Elder Scrolls IV: Oblivion
+### Motivation: NONE

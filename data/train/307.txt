@@ -1,0 +1,15 @@
+### Quest Name: The Locket
+### Objective: kill the Wraith Lord and find Estherian Spectre's remains along the Locket
+### First Tasks: find the Sanguine Gems, place the Sanguine Gems on the altars to open the path to the Wraith Lord
+### First Task Locations:  - the depths beyond the Rotting Crypt, Rotting Crypt - a crypt
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: Jessa - a woman (location: )
+### Tools: NONE
+### Description: I am bound to this place, and may not pass beyond the threshold.  If you seek my remains, you must find the Sanguine Gems - they may be found in the depths beyond. Place them upon these altars, and the path to the Wraith Lord will be revealed. If you can best him, you will discover my remains there - and the Locket Jessa seeks.
+### Locations: NONE
+### Items: Locket - a locket Jessa seeks (amount: 1)
+### Enemies: NONE
+### Groups: NONE
+### Title: Torchlight II
+### Motivation: NONE

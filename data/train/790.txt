@@ -1,0 +1,15 @@
+### Quest Name: Getting One's Bearings
+### Objective: find the Azimuthoscope
+### First Tasks: follow the trail of Trill-Bot 4000's parts
+### First Task Locations:  - dungeon
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - Trill-Bot 4000 can direct the player toward another treasure trove (amount: 1)
+### Characters: NONE
+### Tools: the player showed Trill-Bot 4000 a robot component
+### Description: I believe you have found one of my missing components! There appears to be a trail of them, leading toward that dungeon. If you follow the trail of my Parts, it might lead you to my Azimuthoscope: the component I need to direct you to another treasure trove!
+### Locations: NONE
+### Items: Azimuthoscope - an important component of Trill-Bot 4000 (amount: 1)
+### Enemies: NONE
+### Groups: NONE
+### Title: Torchlight II
+### Motivation: NONE

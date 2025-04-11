@@ -1,0 +1,15 @@
+### Quest Name: The Djinni's First Task
+### Objective: perform three tasks for Fazeer Shah's amusement
+### First Tasks: recover Fazeer Shah's Lamp of Wonders from the Tu'tara
+### First Task Locations: Sadwa Mesa - a mesa
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - Fazeer Shah will undo whatever the Artificer and the Alchemist have done to the Guardian (amount: 1)
+### Characters: Guardian - the player's ally who was enchanted by the Artificer and the Alchemist (location: ), Artificer - a powerful man, and the player's enemy (location: ), Alchemist - an evil, powerful man allied with the Artificer (location: )
+### Tools: NONE
+### Description: The Artificer and the Alchemist might be formidable, but even their combined powers are nothing more than parlor tricks to one such as me. I can easily undo anything that they have done to your "Guardian." I will of course require something in return. My only real enemy in this desert is boredom. I will make you a bargain: Perform three tasks for my amusement. If your struggles provide suitable entertainment, then, and only then, will I free your Guardian. Your first task: Journey to the Sadwa Mesa, and recover my Lamp of Wonders from the Tu'tara!
+### Locations: NONE
+### Items: Lamp of Wonders - a djinni lamp (amount: 1)
+### Enemies: NONE
+### Groups: Tu'tara - monstrous reptiles
+### Title: Torchlight II
+### Motivation: NONE

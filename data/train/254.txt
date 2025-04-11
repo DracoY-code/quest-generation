@@ -1,0 +1,15 @@
+### Quest Name: Imperial Spy?
+### Objective: give Lod's letter to Dengeir of Stuhn
+### First Tasks: steal Lod's letter
+### First Task Locations:  - Lod's house in Falkreath
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: Lod - a male blacksmith (location: Falkreath), General Tullius - a male Imperial general (location: Solitude)
+### Tools: Dengeir of Stuhn thinks that Lod wrote a letter to General Tullius
+### Description: There's a plot. Not against me. Against all of Falkreath. Those Imperial bastards are spying on every one of us. Last night I saw Lod the blacksmith writing a letter. Probably sending word to Solitude and General Tullius. Are you loyal to Skyrim? Break into Lod's house and get that letter. The Empire is probably making Lod smith up more swords and armor for them.
+### Locations: Falkreath - a town in Skyrim (location: NONE), Skyrim - a province of the Empire that might break out of the Empire (location: NONE), Solitude - the capital city of Skyrim, under Imperial rule (location: NONE)
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

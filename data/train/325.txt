@@ -1,0 +1,15 @@
+### Quest Name: Stop the Enclave
+### Objective: Defeat the Enclave and prevent their plan from succeeding.
+### First Tasks: Infiltrate the Enclave’s oil rig., Find a way to disable or destroy the Enclave’s operations., Rescue the captured villagers from Arroyo and other prisoners., Confront President Richardson and the Enclave leadership.
+### First Task Locations: Enclave Oil Rig - The Enclave’s heavily fortified headquarters, where their plans are executed.
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: Experience Points - Earned for completing objectives related to stopping the Enclave. (amount: 10000)
+### Characters: NONE
+### Tools: Power Armor, Pulse Rifle
+### Description: The Enclave has developed a plan to wipe out all mutated life using a deadly virus. You must infiltrate their base, rescue prisoners, and put an end to their operations before they unleash destruction upon the wasteland.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: Fallout 2
+### Motivation: NONE

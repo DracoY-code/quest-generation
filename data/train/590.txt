@@ -1,0 +1,15 @@
+### Quest Name: Unfathomable Depths
+### Objective: take the Lexicon from From-Deepest-Fathoms, and free her from her burden
+### First Tasks: return the Lexicon back to Avanchnzel
+### First Task Locations: Avanchnzel - a deep ruin in the west
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: NONE
+### Tools: NONE
+### Description: You. You must take the Lexicon. Free me of my burden. The memories. I cannot stand them. You must take them away, return them to Avanchnzel. You must take the Lexicon from me. Please... take it now. You must bring it to Avanchnzel, in the west. Return it to them. It must go back.
+### Locations: NONE
+### Items: Lexicon - an artifact of ancient people (amount: 1)
+### Enemies: NONE
+### Groups: NONE
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

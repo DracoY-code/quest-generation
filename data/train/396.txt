@@ -1,0 +1,15 @@
+### Quest Name: A Fair Wage
+### Objective: convince Torbjorn Shatter-Shield pay his Argonian dockhands fairly
+### First Tasks: talk to Torbjorn Shatter-Shield
+### First Task Locations: NONE - 
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: Torbjorn Shatter-Shield - a cheapskate Nord male business owner (location: )
+### Tools: NONE
+### Description: Torbjorn Shatter-Shield is giving me trouble. I wish someone would beat the coin out of his fat fists. He clings to every coin. He says an Argonian's labor is only worth a tenth of a "proper Nord worker." My people are not slaves! You can try talking with him, but we've gotten nowhere talking to him ourselves.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: Argonian - a race of people, Nord - a race of people
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

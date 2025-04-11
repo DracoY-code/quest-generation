@@ -1,0 +1,15 @@
+### Quest Name: Promises to Keep
+### Objective: help Louis Letrush get Frost and his lineage papers from Sibbi Black-Briar
+### First Tasks: talk to Sibbi Black-Briar about Frost and the lineage papers
+### First Task Locations: Riften Jail - a jail in Riften
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - you'll be well paid (amount: 1)
+### Characters: Sibbi Black-Briar - a privileged man (location: Riften Jail), Frost - one of the finest breeding horses in the realm (location: ), Maven Black-Briar - Sibbi Black-Briar's mother, and a dangerous, powerful woman (location: Riften)
+### Tools: Sibbi Black-Briar agreed to sell Frost to Louis Letrush, Maven Black-Briar threw Sibbi Black-Briar in Riften Jail before he delivered Frost to Louis Letrush: Sibbi Black-Briar thinks that this exempts him from selling Frost to Louis Letrush
+### Description: I'm Louis Letrush. Looking for work? I need someone to deliver a message to Sibbi Black-Briar. I recently approached Sibbi Black-Briar about buying Frost, one of the finest breeding horses in the realm. He agreed to sell. I paid Sibbi half the cost of Frost up front, but before he could deliver, Maven had him locked up. Sibbi believes this exempts him from our deal. It does not. Head to the Riften Jail and talk to Sibbi. Get him to tell you where Frost and his Lineage Papers are and bring them to me outside Riften. You'll be well paid for your time.
+### Locations: Riften - a city (location: NONE)
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

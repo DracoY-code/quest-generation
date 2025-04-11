@@ -1,0 +1,15 @@
+### Quest Name: Branching Out
+### Objective: help Chris finish up a trade deal between him and Wander
+### First Tasks: take Chris's contract to Wander
+### First Task Locations:  - the wilderness
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - block of emerald (amount: 1)
+### Characters: Wander - a male wandering merchant (location: the wilderness)
+### Tools: NONE
+### Description: My leatherworks are selling like hot cakes! I'm so happy! It is a good time to expand my business out of this village. Traveler, could you help me finish up a trade deal between me and Wander the wandering merchant? You just need to take my contract to him. He should be out in the wilderness right now. You'll get a block of emerald for your services. My business makes plenty of emeralds right now, so handing out a few isn't a biggie.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: Minecraft
+### Motivation: wealth

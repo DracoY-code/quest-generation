@@ -1,0 +1,15 @@
+### Quest Name: Steal Necklace from the Merchants
+### Objective: Steal a valuable necklace from the merchants without getting caught.
+### First Tasks: Identify the merchant carrying the necklace., Find a way to distract or pickpocket the target., Deliver the stolen necklace to the quest giver.
+### First Task Locations: Merchant's Area - A trading hub where merchants conduct business and store valuables.
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: Caps - A monetary reward for successfully stealing the necklace. (amount: Varies), Reputation Change - Completing the quest may influence reputation with certain factions. (amount: Positive or negative, depending on the faction)
+### Characters: NONE
+### Tools: Pickpocketing skill, Stealth, Lockpicking (if needed), Disguise or deception
+### Description: The player is tasked with stealing a valuable necklace from a merchant, requiring stealth and deception to avoid detection. The mission may involve distractions, sneaking into restricted areas, or persuading someone to hand over the necklace.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: Fallout
+### Motivation: NONE

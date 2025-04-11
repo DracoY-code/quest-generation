@@ -1,0 +1,15 @@
+### Quest Name: Family Heirloom
+### Objective: retrieve a stolen family heirloom from a group of wizards
+### First Tasks: find the family heirloom
+### First Task Locations: NONE - 
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - good pay (amount: 1)
+### Characters: NONE
+### Tools: NONE
+### Description: We have a bit of a sensitive matter this time. A wealthy family has... misplaced one of their heirlooms. Of course, it's a group of wizards they're pointing their fingers at. Who knows what they want it for, but we want it back. Move quickly so we can have this over and done with. These aren't the most glorious jobs, but they pay well.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: Companions - a band of honorable warriors
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

@@ -1,0 +1,15 @@
+### Quest Name: The Unfortunate Shopkeeper
+### Objective: stop the break-ins to Quality Merchandise
+### First Tasks: talk to Norbert Lelles
+### First Task Locations: Quality Merchandise - Norbert Lelles' shop in Anvil
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: Norbert Lelles - a male merchant (location: Quality Merchandise)
+### Tools: the player has worked for Azzan before
+### Description: Looking for more work, eh? Good. I have got a contract for you. I'd like you to go talk to Norbert Lelles, here in Anvil. He runs Quality Merchandise here in Anvil. He's been having problems with break-ins, though, and he's hired us to put a stop to it. Sounds like he wants your help stopping the theft at his store. Take care of Lelles. He needs the help.
+### Locations: Anvil - a city (location: NONE)
+### Items: NONE
+### Enemies: NONE
+### Groups: Fighters Guild - a mercenary guild
+### Title: The Elder Scrolls IV: Oblivion
+### Motivation: NONE

@@ -1,0 +1,15 @@
+### Quest Name: The Book of Love
+### Objective: act as the hands of Mara in the world
+### First Tasks: help Fastred with her fickle love
+### First Task Locations: Ivarstead - a village
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - the touch of Mara (amount: 1)
+### Characters: Mara - the goddess of love (location: ), Fastred - a young woman (location: Ivarstead)
+### Tools: NONE
+### Description: I am devoted to the Goddess Mara, who gave mortals the gift of love that they might have a hint of eternity. Her blessings are many. To love is to know the true nature of the gods. Not all can hear the broad echoes of deepest dawn. To receive the touch of Mara, you must first act as her hands in the world. Explore the facets of the infinite jewel. Are you prepared, then, to help bring the light across this land? The dawn surely opens upon you, child. You must bear its light that all may see. Mara has reflected an image to me. A young woman... almost a girl... her fickle love must resolve itself. The village of Ivarstead. The woman, Fastred. This is the prayer heard by the goddess and relayed to her servants. Return when Fastred has seen her path. I will entreat Mara on your behalf.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

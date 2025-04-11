@@ -1,0 +1,15 @@
+### Quest Name: Preemptive Strike
+### Objective: destroy a vampire before it turns its bandit allies into vampires
+### First Tasks: find the vampire
+### First Task Locations: Treva's Watch - a fort
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: NONE
+### Tools: NONE
+### Description: I've found another beast hiding from the light of day. We need to destroy him before he turns his comrades into a brood of vampires. He's holed up in Treva's Watch with a group of a bandits.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

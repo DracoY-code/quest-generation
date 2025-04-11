@@ -1,0 +1,15 @@
+### Quest Name: Lissa's Daughter Needs Healing
+### Objective: heal Jaella
+### First Tasks: find out what Gerhardt knows about Jaella's condition
+### First Task Locations:  - the basement
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: Jaella - a little girl, and Lissa's daughter (location: ), Gerhardt - a man (location: the basement)
+### Tools: Jaella just lies in bed staring at the wall
+### Description: My name is Lissa. Something's wrong with my daughter. Her name is Jaella. She's hurt, traveler. I don't know what's wrong with her. She just lies in bed staring at the wall. Won't even eat. Please heal her. She's just a little girl. Please, you must go and find out exactly what Gerhardt knows about Jaella's condition. You'll find him in the basement.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: Baldur's Gate II: Shadows of Amn
+### Motivation: NONE

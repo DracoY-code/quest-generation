@@ -1,0 +1,15 @@
+### Quest Name: Helping Hands
+### Objective: hire a housekeeper for Rosethorn Hall
+### First Tasks: pay Eyja 150 gold to hire her as your housekeeper
+### First Task Locations: NONE - 
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - Eyja as the player's housekeeper (amount: 1)
+### Characters: NONE
+### Tools: the player purchased the Servants Quarters for Rosethorn Hall
+### Description: Hello, I heard you purchased the Servants Quarters for Rosethorn Hall, and I was wondering if you had anyone in mind to fill that position? For 150 gold and a roof over my head, I'm yours. Well, to help around the house I mean.
+### Locations: Rosethorn Hall - the player's manor (location: NONE)
+### Items:  - gold (amount: 150)
+### Enemies: NONE
+### Groups: NONE
+### Title: The Elder Scrolls IV: Oblivion
+### Motivation: NONE

@@ -1,0 +1,15 @@
+### Quest Name: Brelyna's Practice
+### Objective: help Brelyna Maryon by allowing her to practice her spells on you
+### First Tasks: stand where you are
+### First Task Locations: NONE - 
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - a necklace (amount: 1)
+### Characters: NONE
+### Tools: NONE
+### Description: We're all trying to become better mages, right? Well, I need someone I can practice a few spells on. Nothing dangerous, really. Would you be willing to assist me? I can't practice that kind of spell on myself. Believe me when I say I wouldn't be asking if it weren't necessary. You just have to stand there... You might wish to help out one of your fellow mages. If that is not enough, I have this amulet you could take.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

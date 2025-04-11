@@ -1,0 +1,15 @@
+### Quest Name: Fine Dining
+### Objective: bring 5 golden apples to Bella
+### First Tasks: obtain 5 golden apples
+### First Task Locations:  - dangerous places
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - diamond block (amount: 1)
+### Characters: NONE
+### Tools: the player can craft golden apples by combining an apple with gold ingots
+### Description: I'm sick and tired of eating the same boring, mundane food every day. I want to taste something a bit more refined. Something like golden apples. Could you help a lady in distress? Bring me 5 golden apples to sample from, and I'll procure you a diamond block. That should leave a sweet taste in your mouth, as well. Golden apples can be found in various dangerous corners of the world. If you don't fancy exploring, you can craft golden apples by combining an apple with gold ingots.
+### Locations: NONE
+### Items:  - golden apples (amount: 5)
+### Enemies: NONE
+### Groups: NONE
+### Title: Minecraft
+### Motivation: comfort

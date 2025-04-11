@@ -1,0 +1,15 @@
+### Quest Name: Collect money from Fred
+### Objective: Retrieve the money that Fred owes to Metzger.
+### First Tasks: Find Fred and remind him of his debt., Convince or force Fred to pay up.
+### First Task Locations: The Den - A lawless town where Fred can be found.
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: Caps - Payment for successfully collecting the debt. (amount: 200), Favor with Metzger - Completing this task may improve your standing with Metzger and his gang. (amount: NONE)
+### Characters: NONE
+### Tools: Speech or Barter skills to negotiate with Fred., Strength or weapons to intimidate Fred if necessary.
+### Description: Fred owes Metzger money, and it's your job to make sure he pays up—one way or another.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: Fallout 2
+### Motivation: NONE

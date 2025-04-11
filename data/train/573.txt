@@ -1,0 +1,15 @@
+### Quest Name: Ask Water Merchant to Help
+### Objective: Convince the Water Merchants to supply water to Vault 13.
+### First Tasks: Locate the Water Merchants in the Hub., Negotiate a deal for water deliveries to Vault 13., Decide whether to accept their help despite potential risks.
+### First Task Locations: Water Merchants' Office - A trading post in the Hub where water distribution deals are made.
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: Extended Time - Delaying the Vault’s water crisis, buying more time before failure. (amount: 100 days (in-game)), Possible Discovery - Increased risk of the Super Mutants finding Vault 13 due to supply deliveries. (amount: Moderate)
+### Characters: NONE
+### Tools: Speech, Barter, Caps for negotiation
+### Description: Vault 13 is running out of water, and the player must negotiate with the Water Merchants in the Hub to secure a steady supply. While this extends the Vault's survival, it also increases the chances of revealing its location to hostile forces.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: Fallout
+### Motivation: NONE

@@ -1,0 +1,15 @@
+### Quest Name: Amulet of the Moon
+### Objective: bring Kharjo's Moon Amulet back to him
+### First Tasks: find Kharjo's Moon Amulet
+### First Task Locations: Faldar's Tooth - a bandit den
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: NONE
+### Tools: NONE
+### Description: A few days ago, our caravan was ambushed. A nuisance, really, but many of the marauders had quick fingers. One of them stole my Moon Amulet, given to me by my mother when I was just a cub. It is my only memory of home in this cold land. You offer to get my amulet back? We believe the bandits are a part of a group headquartered in Faldar's Tooth. Be careful. I miss my amulet, but a life cannot be replaced as easily.
+### Locations: Moon Amulet - an amulet (location: NONE)
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

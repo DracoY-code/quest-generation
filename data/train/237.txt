@@ -1,0 +1,15 @@
+### Quest Name: Find the Missing People for Marcus
+### Objective: Investigate the disappearances in Broken Hills and find out what happened to the missing people.
+### First Tasks: Talk to Marcus in Broken Hills to learn about the missing people., Search for clues around Broken Hills and interview residents., Investigate the mine to uncover any evidence., Confront those responsible and decide their fate.
+### First Task Locations: Broken Hills - A town where super mutants, ghouls, and humans live together. The disappearances are causing tension among the residents., Broken Hills Mine - A dangerous area suspected to be linked to the missing people case.
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: Experience Points - Earned for solving the case and bringing justice. (amount: 2500), Caps - A monetary reward from Marcus for uncovering the truth. (amount: 500)
+### Characters: NONE
+### Tools: Speech Skill, Perception
+### Description: People have been disappearing in Broken Hills, and the town is on edge. Marcus, the sheriff, asks you to investigate and find out what's going on before tensions boil over.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: Fallout 2
+### Motivation: NONE

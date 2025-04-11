@@ -1,0 +1,15 @@
+### Quest Name: A Venerable Vintage
+### Objective: bring the Shadowbanish Wine to Nerussa
+### First Tasks: find 6 bottles of Shadowbanish Wine
+### First Task Locations:  - the many military fort ruins scattered all over Cyrodiil
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - gold (amount: 1000)
+### Characters: NONE
+### Tools: NONE
+### Description: Greetings. I'm Nerussa. I'm quite fond of collecting all manners of wines from all over Tamriel. But one vintage continues to elude me: Shadowbanish Wine. How I'd love to add it to my collection. Apparently the wine is so rare because it was only made in one tiny batch. It's the product of an alchemist who was also a vintner. Besides tasting incredible, the magic within the wine allows the imbiber to be gifted with Night Eye! The vintner made it special for the Legion soldiers posted at the forts when they were active long ago. It was perfect for keeping lookouts warm on cold nights and helping them see better in the dark. If you can retrieve six bottles of Shadowbanish Wine, I'll gladly pay you well: 1,000 gold. All I know about them is that they're found in the many fort ruins scattered all over Cyrodiil.
+### Locations: Tamriel - a continent (location: NONE), Cyrodiil - a province in Tamriel (location: NONE)
+### Items: Shadowbanish Wine - rare wine from Tamriel that grants its drinker Nighteye (amount: 6)
+### Enemies: NONE
+### Groups: NONE
+### Title: The Elder Scrolls IV: Oblivion
+### Motivation: NONE

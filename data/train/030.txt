@@ -1,0 +1,15 @@
+### Quest Name: Ritual of Accession
+### Objective: become a ruler in the Court of Madness
+### First Tasks: speak to Arctus and Dervenin
+### First Task Locations: Sacellum Arden-Sul - a church
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - Sheogorath's citizens will rally around the player (amount: 1)
+### Characters: Malacath - the lord of monsters, one of the Daedric Princes (location: ), Arctus - a high priest (location: Sacellum Arden-Sul), Dervenin - a high priest (location: Sacellum Arden-Sul)
+### Tools: Sheogorath's citizens need a new ruler when he is gone: the player has to replace a current Duke or Duchess of Madness, Malacath's realm is a nasty place
+### Description: Once I am gone, things usually get bad quickly. You'll need the respect of My citizens. They'll need a leader, someone to look up to when I'm gone. They're the backbone of any great land. Except where the backbone is an actual backbone. Ever been to Malacath's realm...? Nasty stuff. But, back to the business at hand. You'll need to control one of the Courts of Madness. Replace a current Duke. Or Duchess. Whichever. That will command respect! The people will rally around you. You'll have their love, their admiration, their complaints! Whatever. As long as it keeps them on Our side. Speak to Arctus and Dervenin, the High Priests at the Sacellum Arden-Sul. They can explain what needs to be done.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: Daedric Princes - immortal, fickle, infamous divine beings
+### Title: The Elder Scrolls IV: Oblivion
+### Motivation: NONE

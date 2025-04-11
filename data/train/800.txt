@@ -1,0 +1,15 @@
+### Quest Name: Deal of the Century
+### Objective: bring 2 blocks of diamond to Pate
+### First Tasks: obtain 2 blocks of diamond
+### First Task Locations:  - diamond veins deep in the ground
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - a block of Netherite (amount: 1)
+### Characters: NONE
+### Tools: the player is a friend of Pate
+### Description: My friend, I've got a profitable deal for you today. As you know, I smith weapons from a variety of materials, including diamond. Just so it happens, I'm running low on diamonds: soon I can't make any diamond swords for daring adventurers. I'm not skilled in adventuring; I can't brave the deep underground for diamond veins. Yet, I have a whopping block of Netherite. You definitely don't see those every day! Here's the deal: bring me 2 blocks of diamond, and I'll give you my block of Netherite. A good deal for a good friend.
+### Locations: NONE
+### Items: Netherite - a rare, valuable metal (amount: 1)
+### Enemies: NONE
+### Groups: NONE
+### Title: Minecraft
+### Motivation: equipment

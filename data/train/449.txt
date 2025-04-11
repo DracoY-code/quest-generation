@@ -1,0 +1,15 @@
+### Quest Name: The Reclusive Scholar
+### Objective: travel to Balduran's Island to find Balduran's logbook for Mendas of Waterdeep
+### First Tasks: obtain the sea charts from the sea captain
+### First Task Locations:  - Merchants' League Counting House, northeast section of Baldur's Gate, northeast from Elfsong Tavern
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - treasure (amount: 1)
+### Characters: Balduran - a legendary hero (location: ),  - sea captain (location: Merchants' League Counting House)
+### Tools: The Merchants' League found Balduran's shipwreck on Balduran's Island, Mendas of Waterdeep wants to get Balduran's logbook before the merchants destroy it while they search for treasure, The Merchants' League keeps the sea charts locked up, Mendas of Waterdeep will give the player some gold to obtain the sea charts
+### Description: I am Mendas of Waterdeep, quester of small truth in this land. I am in need of favor from you. Can you help a gentle fellow in search for knowledge? The Merchants' League sailors found Balduran's shipwreck on a small island. I wish to recover the ship's logbook. I will solve mystery of Balduran's final voyage. Merchants' League will destroy my artifacts to get treasure. This must not happen! If you help me, I get things precious to me, you get treasure, merchant men get nothing. You will help, yes? These men that find island, they keep the sea charts locked up. In Baldur's Gate, there is building in northeast section of city called Merchants' League Counting House. To find it, just go northeast from Elfsong Tavern. The sea charts, they are in there. Most likely, captain of ship will have them. I don't know such things as chart retrieval, but you are hero, and it is no problem for heroes. There might be small danger, so I give you some gold for the charts.
+### Locations:  - Balduran's Island, a small island (location: NONE), Baldur's Gate - a large city (location: NONE), Elfsong Tavern - a tavern (location: NONE)
+### Items: Balduran's logbook - logbook (amount: 1),  - sea charts (amount: 1)
+### Enemies: NONE
+### Groups: Merchants' League - a merchants' guild
+### Title: Baldur's Gate
+### Motivation: NONE

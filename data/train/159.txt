@@ -1,0 +1,15 @@
+### Quest Name: A Knife in the Dark
+### Objective: complete your initiation to the Dark Brotherhood
+### First Tasks: assassinate Rufio
+### First Task Locations: Inn of Ill Omen - an inn on the Green Road to the north of Bravil
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - the next time the player sleeps in a secure location, Lucien Lachance comes bearing the love of the player's new family (amount: 1)
+### Characters: Rufio - an old and frail man who sleeps his days away (location: Inn of Ill Omen), Night Mother - the spiritual leader of the Dark Brotherhood, a woman (location: )
+### Tools: Lucien Lachance has awoken the player from their sleep: the player is a murderer whose work pleases the Night Mother, Lucien Lachance gives the player a new blade
+### Description: You sleep rather soundly for a murderer. That's good. You'll need a clear conscience for what I'm about to propose. I am Lucien Lachance, a Speaker for the Dark Brotherhood. And you, you are a killer. A taker of life. A harvester of souls. Your work, your deathcraft, pleases the Night Mother. And so, I come to you with an offering. An opportunity... to join our rather unique family. On the Green Road to the north of Bravil lies the Inn of Ill Omen. There you will find a man named Rufio. Kill him, and your initiation into the Dark Brotherhood will be complete. Know that Rufio is old and weak, and sleeps his days away. You could kill him before he even has a chance to wake. If you so choose. Do this, and the next time you sleep in a location I deem secure, I will reveal myself once more, bearing the love of your new family. Please accept this token from the Dark Brotherhood. It is a virgin blade, and thirsts for blood. May it serve you well, as does your silence.
+### Locations: Bravil - a city (location: NONE)
+### Items: NONE
+### Enemies: NONE
+### Groups: Dark Brotherhood - a guild of assassins
+### Title: The Elder Scrolls IV: Oblivion
+### Motivation: NONE

@@ -1,0 +1,15 @@
+### Quest Name: Kill Roger's Sea Troll
+### Objective: kill the sea troll
+### First Tasks: find the sea troll
+### First Task Locations:  - the sewers
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - gold pieces (amount: 500)
+### Characters: NONE
+### Tools: NONE
+### Description: Hmmn. I don't remember seeing you down here before. Me name be Roger. Oh, the sewers aren't so terrible. The guards don't be comin' down here, and my customers like to be somewhere... out of sight. 'Tis the beasties that are the biggest problem, especially of late. There's this sea troll. People have 'em as pets, and when they grow too large, they huck 'em down here to torment me. I suppose I could part with a few coins for the deed. I tell you what... dispose of the sea troll beastie for me, an' I'll be pleased to pay you 500 gold pieces, aye?
+### Locations: NONE
+### Items: NONE
+### Enemies:  - sea troll (amount: 1)
+### Groups: NONE
+### Title: Baldur's Gate II: Shadows of Amn
+### Motivation: NONE

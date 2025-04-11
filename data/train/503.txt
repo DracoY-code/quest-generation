@@ -1,0 +1,15 @@
+### Quest Name: Ash Research
+### Objective: extract a sample from an ash spawn for Neloth's research
+### First Tasks: kill an ash spawn and harvest a sample from it
+### First Task Locations: NONE - 
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - some septims (amount: 1)
+### Characters: NONE
+### Tools: NONE
+### Description: Hmm. I have a new spell I'm working on. I hope to be able to conjure ash spawn. If I could get a sample of ash from an ash spawn, that would be quite useful. I've made this special tool that will extract... well, you don't need to know the details. Just go harvest a sample. Of course, the creature will have to be dead first, but I trust that's something you can... bring about. There will be some septims for your troubles.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

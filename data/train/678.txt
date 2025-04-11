@@ -1,0 +1,15 @@
+### Quest Name: Lara wants to know what is being guarded in the church
+### Objective: Investigate what is being guarded inside the church for Lara.
+### First Tasks: Talk to Lara to receive the task., Scout the church without alerting the guards., Report back to Lara with the findings.
+### First Task Locations: The Den - A lawless town in Fallout 2 controlled by various factions, including Lara's gang., The Church - A heavily guarded building in The Den that Lara is interested in.
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: Caps - A monetary reward for successfully completing the task. (amount: 100), More work from Lara - Completing this task unlocks additional quests from Lara. (amount: NONE)
+### Characters: NONE
+### Tools: Stealth or Speech skills to avoid suspicion while scouting., A good Perception stat to observe details inside the church.
+### Description: Lara, a gang leader in The Den, wants to know what is inside the guarded church. She asks you to investigate the building and report back without getting caught.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: Fallout 2
+### Motivation: NONE

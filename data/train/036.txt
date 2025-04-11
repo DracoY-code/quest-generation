@@ -1,0 +1,15 @@
+### Quest Name: Grin and Bear It
+### Objective: bring 10 bear pelts to Temba Wide-Arm
+### First Tasks: get 10 bear pelts by killing bears
+### First Task Locations: Skyrim - a wooded province
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - Temba Wide-Arm will pay the player (amount: 1)
+### Characters: NONE
+### Tools: NONE
+### Description: Have you ever seen what a bear does to the trees? They jump up on their hind legs and scratch them to bits... marking their territory or something. It's getting to the point where I have to scour Skyrim for untouched trees at the right size. Costs me too much time and money. Tell you what. Bring me ten of bear pelts from anywhere in Skyrim I'll gladly pay you for thinning out the herd.
+### Locations: NONE
+### Items:  - bear pelts (amount: 10)
+### Enemies: NONE
+### Groups: NONE
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

@@ -1,0 +1,15 @@
+### Quest Name: No Stone Unturned
+### Objective: talk to Vex after collecting the 24 Stones of Barenziah
+### First Tasks: find the 24 Stones of Barenziah
+### First Task Locations: Skyrim - a province
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - Vex buys the whole set of 24 Stones of Barenziah (amount: 1)
+### Characters: Barenziah - a legendary queen (location: )
+### Tools: the player showed a Stone of Barenziah to Vex for appraisal
+### Description: Been a while since I've seen one of those. What you've got there is a Stone of Barenziah. The stone was pried off of Barenziah's ceremonial crown by a thief in order to cover his tracks. I think there were twenty-four in all; supposedly, all of them are in Skyrim. Most people keep them as a curiosity. Some of the Guild members have tried to locate them over the years, but they haven't been successful... well, until now. I only buy things I can turn around quickly for a profit. And no one wants those stones unless they have the whole set. Tell you what, if you find the rest of them, talk to me again. Otherwise, keep it and maybe it'll bring you luck.
+### Locations: NONE
+### Items: Stone of Barenziah, Stones of Barenziah - gem stones that were pried off of Barenziah's ceremonial crown by a thief in order to cover his tracks (amount: 1)
+### Enemies: NONE
+### Groups: Thieves Guild - a guild of thieves
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

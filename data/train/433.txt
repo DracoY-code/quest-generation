@@ -1,0 +1,15 @@
+### Quest Name: Sweets for All
+### Objective: give 10 honey blocks to Martin
+### First Tasks: find some bees
+### First Task Locations: NONE - 
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: Shulker Box - an easily movable storage box (amount: 1)
+### Characters: NONE
+### Tools: NONE
+### Description: I'd like to bake my delicious honey cakes for the whole village! Then they'd certainly know that I have traveled all over the world! I even used to be a wandering trader. I need a lot of honey for the cakes. You are quite a wanderer yourself. Perhaps you could help me procure 10 honey blocks. You can get honey from bees; you just have to find them first. Do this for me, and I'll give you a special reward: a Shulker Box. These things were worth their weight in emeralds every time someone murdered my pack llamas: they made hauling my stock much easier. 
+### Locations: NONE
+### Items:  - honey blocks (amount: 10)
+### Enemies: NONE
+### Groups: NONE
+### Title: Minecraft
+### Motivation: reputation

@@ -1,0 +1,15 @@
+### Quest Name: Endless Adventure
+### Objective: navigate to all sorts of places from the Mapworks
+### First Tasks: go on an adventure
+### First Task Locations: Mapworks - a legendary dungeon hub
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: NONE
+### Tools: NONE
+### Description: The legendary Mapworks is operational once more! From the Mapworks, you can navigate to all sorts of wondrous places! Many fine adventures surely await you within.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: Torchlight II
+### Motivation: NONE

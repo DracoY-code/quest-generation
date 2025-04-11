@@ -1,0 +1,15 @@
+### Quest Name: Impatience of a Saint
+### Objective: help Jiub find the first volume of his opus
+### First Tasks: collect the ten missing pages of Jiub's opus
+### First Task Locations: Soul Cairn - a terrible realm of souls
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: NONE
+### Tools: NONE
+### Description: I am Jiub. Some call me Saint Jiub. Others call me Jiub the Eradicator. Perhaps you've heard of me? If you haven't, I can't say that I am surprised. Until I get my second volume published, no one will ever know of my achievements. In order to write the second volume of my opus, I need the notes from my first volume. Otherwise I need to do all of this from memory. When I was tossed in here I felt myself falling… and I dropped the pages I had been holding. There were ten of them in all. Find them for me, please, I beg you!
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

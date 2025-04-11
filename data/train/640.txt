@@ -1,0 +1,15 @@
+### Quest Name: Light Armor Training
+### Objective: give an unenchanted Elven cuirass to J'bari
+### First Tasks: get an unenchanted Elven cuirass
+### First Task Locations: NONE - 
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - training from J'bari (amount: 1)
+### Characters: NONE
+### Tools: the player told J'bari that they want light armor training from him
+### Description: If you want training from me, you're going to have to get something for me first. I need a new Elven cuirass. Nothing fancy, nothing enchanted. Just a decent piece of armor. You get that for me, and I'll train you. That's the deal.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: The Elder Scrolls IV: Oblivion
+### Motivation: NONE

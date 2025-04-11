@@ -1,0 +1,15 @@
+### Quest Name: Retrieval
+### Objective: retrieve a piece of Wuuthrad
+### First Tasks: find the group of Silver Hand who have the piece of Wuuthrad
+### First Task Locations: Cragslane Cavern - a cave in Eastmarch
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: NONE
+### Tools: NONE
+### Description: The Silver Hand has been scouring the world for more pieces of Wuuthrad. A group of their members has managed to secure one of the pieces. They have gone hidden out in Eastmarch, somewhere inside Cragslane Cavern. The piece of Wuuthrad should be there with them. Get that piece of Wuuthrad back, for the honor of us all.
+### Locations: Eastmarch - a region (location: NONE)
+### Items: Wuuthrad - a legendary battleaxe (amount: 1)
+### Enemies: NONE
+### Groups: Silver Hand - a bandit gang who hate the Companions, Companions - a band of honorable warriors
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

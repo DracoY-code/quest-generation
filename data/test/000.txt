@@ -1,0 +1,15 @@
+### Quest Name: Guard the Brahmin
+### Objective: Protect a herd of Brahmin from nighttime rustlers.
+### First Tasks: Meet with the rancher to begin the guard duty., Stay alert during the night for any rustlers., Defeat any attackers attempting to steal the Brahmin.
+### First Task Locations: Klamath - A small settlement known for Brahmin herding.
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: Caps - A small payment for successfully guarding the Brahmin. (amount: 100), Reputation Boost - Improved reputation in Klamath for assisting the town. (amount: NONE)
+### Characters: NONE
+### Tools: Weapons to defend against rustlers., Stealth or perception skills to detect incoming threats.
+### Description: A group of rustlers has been stealing Brahmin from Klamath. Torr needs help standing guard at night to stop them.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: Fallout 2
+### Motivation: NONE

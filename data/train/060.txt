@@ -1,0 +1,15 @@
+### Quest Name: Amelion's Contract
+### Objective: retrieve something from Biene Amelion's ancestral tomb for her
+### First Tasks: talk to Biene Amelion about her contract
+### First Task Locations: Water's Edge - a settlement
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: Biene Amelion - a woman (location: )
+### Tools: Water's Edge is marked on the player's map
+### Description: I've got another contract for you, meat. I assume you won't embarrass yourself. It's from Biene Amelion at the Water's Edge settlement. She needs something retrieved from her ancestral tomb. You'll find her at the Water's Edge settlement. It's marked on your map. Try not to muck it up.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: Fighters Guild - a mercenary guild
+### Title: The Elder Scrolls IV: Oblivion
+### Motivation: NONE

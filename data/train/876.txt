@@ -1,0 +1,15 @@
+### Quest Name: Investigate the Nashkel Mines
+### Objective: find out what caused miners to go missing and ore to become tainted
+### First Tasks: descend into the mines
+### First Task Locations:  - the mines, southeast of Nashkel
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - gold pieces (amount: 900)
+### Characters: NONE
+### Tools: there is an iron shortage
+### Description: I am Berrun Ghastkill, mayor of Nashkel. I need someone to descend into the mines southeast of town and find what has caused our miners to go missing and our ore to become tainted. It won't solve everything, but it's the first step to easing the effects of the iron shortage. The town can give you a reward of 900 gold pieces. We are a small community and that is all we can afford. Please, go now and do what you can.
+### Locations: Nashkel - a small town (location: NONE)
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: Baldur's Gate
+### Motivation: NONE

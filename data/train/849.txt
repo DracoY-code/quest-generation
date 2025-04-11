@@ -1,0 +1,15 @@
+### Quest Name: Arniel's Endeavors
+### Objective: help Arniel Gane with his unofficial research project
+### First Tasks: bring Arniel Gane 10 Dwemer Cogs
+### First Task Locations: NONE - 
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: NONE
+### Tools: the player has been rising through the ranks of the College of Winterhold
+### Description: I can't help but notice that you're doing quite well for yourself, rising through the ranks and all. It may not be "official", but there is a, uhh, project I've been working on. I wonder if perhaps you could assist with it. Just... Just bring me some Dwemer Cogs. I need to examine them for the methods used in forging them. Ten of them should be enough for me to get a better understanding of how they were crafted. That's all I need, all right?
+### Locations: NONE
+### Items: Dwemer Cogs - special cogs (amount: 10)
+### Enemies: NONE
+### Groups: College of Winterhold - an organization of mages
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

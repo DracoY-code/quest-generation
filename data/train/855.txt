@@ -1,0 +1,15 @@
+### Quest Name: Marksman Training
+### Objective: receive training from Alawen
+### First Tasks: get an Elven Bow
+### First Task Locations: NONE - 
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - marksman training from Alawen (amount: 1)
+### Characters: NONE
+### Tools: the player told Alawen that they want marksman training from her
+### Description: Why do you bother me, stranger? You make far too much noise. You wish to learn? Hmm. You have potential, I see, but your equipment! A true marksman is only as good as his bow. When you have a good, solid Elven bow, then I shall teach you what you need to know.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: The Elder Scrolls IV: Oblivion
+### Motivation: NONE

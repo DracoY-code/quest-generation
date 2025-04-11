@@ -1,0 +1,15 @@
+### Quest Name: Serving the Empire
+### Objective: prove yourself worthy of joining the Imperial Legion
+### First Tasks: wipe out bandits
+### First Task Locations: Fort Hraggstad - a bandit fortress to be turned into an Imperial garrison
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - induction into the Imperial Legion (amount: 1)
+### Characters: NONE
+### Tools: the ancients built many of the fortresses that dot the landscape of Skyrim: most have fallen into disrepair and overrun with bandits
+### Description: I've got a good feeling about you. And I don't often get good feelings about anything. A warrior knows to trust her gut... I'm not going to go through the normal process with you. I've got a little test lined up. Pass that, and we'll talk about you joining the Legion. The ancients built many of the fortresses that dot the landscape of Skyrim. Sadly, most have fallen into disrepair. And nearly all have been overrun with bandits or other vagabonds. Fort Hraggstad is one of the few that remains mostly intact. We're going to install a garrison there, but first, you're going to clean out the bandits that have moved in. Then, it's time for you to officially join the Legion.
+### Locations: Skyrim - a province of the Empire (location: NONE)
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

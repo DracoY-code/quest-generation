@@ -1,0 +1,15 @@
+### Quest Name: Safana's Treasure Hunt
+### Objective: get Black Alaric's treasure for yourself and Safana
+### First Tasks: find Black Alaric's treasure with Safana
+### First Task Locations:  - the pirate cove along the coast, south of Candlekeep
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - Black Alaric's treasure (amount: 1)
+### Characters: Black Alaric - a legendary pirate of old (location: )
+### Tools: Safana will join the player, Safana has a map that shows the location of Black Alaric's treasure
+### Description: My name is Safana and I can make you richer than you could imagine. I know where the pirate Black Alaric dumped his greatest trove of treasure. Knowing that you are a dynamic and intelligent person, I know you'd want to join me in a venture to get this treasure. Well, we should be off then. From what my map showed, the pirate cove is located somewhere along the coast, just south of Candlekeep.
+### Locations: Candlekeep - a fortress (location: NONE)
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: Baldur's Gate
+### Motivation: NONE

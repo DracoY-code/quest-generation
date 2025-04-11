@@ -1,0 +1,15 @@
+### Quest Name: Silenced Tongues
+### Objective: unlock the burial chamber of Tongue Chieftain Kvenel
+### First Tasks: find the two hidden keys
+### First Task Locations: Volunruud - an ancient tomb
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: Tongue Chieftain Kvenel - an ancient warrior, and a forefather of Heddic Volunnar (location: )
+### Tools: Heddic Volunnar is scouting out Volunruud: the relief not far from the entrance hides Tongue Chieftain Kvenel's tomb, the two hidden keys to Tongue Chieftain Kvenel's tomb are ceremonial replicas of Okin and Eduj
+### Description: Heddic's Volunruud Notes by Heddic Volunnar  I was skeptical, but it's obvious now. The old hymns had truth to them! The relief wasn't far from the entrance, just as they said. I've no doubt now that it hides the entrance to Kvenel's tomb. The two keys must be hidden somewhere nearby - ceremonial replicas of Okin and Eduj, favored weapons when Kvenel went into battle. I don't dare explore further without hiring bodyguards to accompany me, however. To think - The Tongue Chieftain Kvenel could be entombed behind just a few feet of stone! The ancestor we scarcely believed was real. Twice damned for planning this foolish scouting trip. I should have hired those sellswords in the first place. Perhaps there's no need. This place is just a tomb, after all, and there are no obvious signs of habitation. It isn't as though the thousand-year dead will mind if I have a look around.
+### Locations: NONE
+### Items: "Heddic's Volunruud Notes" - notes on Heddic Volunnar's research on Volunruud (amount: 1), Okin and Eduj - favored weapons when Tongue Chieftain Kvenel went into battle (amount: 1)
+### Enemies: NONE
+### Groups: NONE
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

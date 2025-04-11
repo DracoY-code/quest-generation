@@ -1,0 +1,15 @@
+### Quest Name: A False Front
+### Objective: deliver false orders to the Imperial Legate in Morthal
+### First Tasks: convince an innkeeper to help you locate an Imperial runner, get the Imperial orders from the runner, and replace them with forgeries
+### First Task Locations:  - an inn in Dragon Bridge or Rorikstead
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: NONE
+### Tools: NONE
+### Description: I Need you to deliver some false orders to the Imperial Legate in Morthal. But first we need to get our hands on some Imperial orders to make the forgeries. The inns at Dragon Bridge and Rorikstead are frequent stops for Imperial runners. See if you can't "convince" one of those innkeepers to help you. One way or another, get me those documents. Talos guide you.
+### Locations: Morthal - a town (location: NONE), Dragon Bridge - a town (location: NONE), Rorikstead - a town (location: NONE)
+### Items: NONE
+### Enemies: NONE
+### Groups: Stormcloaks - rebel forces opposing the Empire
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

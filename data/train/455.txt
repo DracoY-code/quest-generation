@@ -1,0 +1,15 @@
+### Quest Name: Rustle the Brahmin
+### Objective: Steal Brahmin from a local ranch under the cover of darkness.
+### First Tasks: Meet with the rustlers to coordinate the theft., Sneak into the Brahmin pen without alerting the guards., Lead the stolen Brahmin to the designated location.
+### First Task Locations: Klamath - A small settlement known for Brahmin herding.
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: Caps - A payment for successfully delivering the stolen Brahmin. (amount: 150), Negative Karma - Engaging in theft reduces your overall karma. (amount: NONE)
+### Characters: NONE
+### Tools: Stealth skills to avoid detection., Rope or herding skills to control the Brahmin.
+### Description: The Dunton brothers are looking for someone to help them steal Brahmin from local ranchers. This job requires stealth and quick action to avoid getting caught.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: Fallout 2
+### Motivation: NONE

@@ -1,0 +1,15 @@
+### Quest Name: Flowers for Someone Special
+### Objective: bring 32 poppies to Justin
+### First Tasks: gather 32 poppies
+### First Task Locations:  - outdoors in plains and forests
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - emeralds (amount: 32)
+### Characters: NONE
+### Tools: the player a famous hero
+### Description: You must be the hero I have heard so much about. I have a small task for you; it should be child's play for one such as yourself. There is someone I really care about. I'd like to gift them some flowers, perhaps some of those nice, deep red poppies. Please, bring me 32 poppies. You can gather them almost everywhere outdoors in plains and forests. I'll have 32 emeralds waiting for you...
+### Locations: NONE
+### Items:  - poppies, common red flowers (amount: 32)
+### Enemies: NONE
+### Groups: NONE
+### Title: Minecraft
+### Motivation: comfort

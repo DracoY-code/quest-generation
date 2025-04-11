@@ -1,0 +1,15 @@
+### Quest Name: The House of Horrors
+### Objective: investigate the Abandoned House with Tyranus
+### First Tasks: follow Tyranus inside the Abandoned House
+### First Task Locations: Abandoned House - a house in Markarth that might have been used for Daedra worship
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: NONE
+### Tools: no one has seen anyone enter or leave the Abandoned House
+### Description: Excuse me, but do you know anything about this house? Seen anyone enter or leave? Seems no one in this city has. I'm with the Vigil of Stendarr. We believe this house might have been used for Daedra worship. Evil rites and so forth. I was actually just about to head on inside. Be good to have someone watch my back. Follow me, and keep your eyes open. Daedra are powerful creatures and tricksters. Never know what you'll find.
+### Locations: Markarth - a city (location: NONE)
+### Items: NONE
+### Enemies: NONE
+### Groups: Daedra - powerful, evil creatures and tricksters, Vigil of Stendarr - an order of holy warriors
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

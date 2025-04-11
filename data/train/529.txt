@@ -1,0 +1,15 @@
+### Quest Name: The Impatient Jarl
+### Objective: deliver a note to Skald the Elder
+### First Tasks: tell Skald the Elder that he will get his lumber
+### First Task Locations: Dawnstar - a city
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: Skald the Elder - the impatient Jarl of Dawnstar (location: Dawnstar)
+### Tools: NONE
+### Description: If you're one of the Jarl's men, you'll get your lumber. Anga's Mill pays its debts. Sorry, I thought Skald the Elder sent you. We've got an order to fill, and he's not known for patience. Look, if you're heading towards Dawnstar anytime soon, can you give the Jarl this note? Let him know he'll get his lumber.
+### Locations: Anga's Mill - a sawmill (location: NONE)
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

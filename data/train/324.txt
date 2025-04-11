@@ -1,0 +1,15 @@
+### Quest Name: The One That Got Away
+### Objective: recover Heide's fishing rod
+### First Tasks: find the Elder Guardian that swallowed Heide's fishing rod, and kill it
+### First Task Locations:  - an ocean monument: a dangerous underwater temple made out of turquoise stone blocks, located far south of Fishing Hamlet
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - enough cooked salmon to last the player's lifetime (amount: 1)
+### Characters: NONE
+### Tools: the player is an enemy of Heide
+### Description: I just escaped with my life from a friggin' Elder Guardian, and now I run into you, my least favorite person in the whole world. The damn Elder Guardian swallowed the hook, line, and sinker of my fishing rod while I was out in the sea fishing on my boat. It must have eaten the whole fishing rod after it slipped from my grip into the sea. I shouldn't have gone fish so close to the ocean monument far south of this village. I just couldn't see the turquoise stones that make up the monument before it was too late. Who even built those dangerous underwater temples anyway? I have a proposition for you: recover my fishing rod from the Elder Guardian, and I'll set you up with enough cooked salmon to last your lifetime. We might even become friends. First, you have to find the Elder Guardian, and kill it. Elder Guardians are one-eyed, large, pale, evil pufferfish. They can shoot laser, and make you fatigued when you get close to them.
+### Locations: Fishing Hamlet - a fishing village (location: NONE)
+### Items: NONE
+### Enemies: Elder Guardian - one-eyed, large, pale, evil pufferfish that can shoot laser, and make the player fatigued when the player is near them (amount: 1)
+### Groups: NONE
+### Title: Minecraft
+### Motivation: serenity

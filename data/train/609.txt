@@ -1,0 +1,15 @@
+### Quest Name: Return Anna's locket
+### Objective: Find Anna's lost locket and return it to her spirit.
+### First Tasks: Investigate the ghostly presence at the Den church., Find and retrieve Anna's locket.
+### First Task Locations: The Den Church - A rundown church in The Den haunted by Anna's ghost., Mom's Diner - A potential location where the locket might be found.
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: Experience Points - Earn XP for helping Anna find peace. (amount: 500), Improved Karma - Performing a good deed increases your reputation. (amount: NONE)
+### Characters: NONE
+### Tools: Perception or Investigation skills to locate the locket., Speech skills to gather information from townspeople.
+### Description: The ghost of Anna haunts the old church in The Den. She is unable to move on until her lost locket is returned to her. Find it and bring her peace.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: Fallout 2
+### Motivation: NONE

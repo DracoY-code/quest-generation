@@ -1,0 +1,15 @@
+### Quest Name: Ancient Artisanship
+### Objective: bring an ancient device to Zed
+### First Tasks: find the ancient device
+### First Task Locations: Tut's Temple - an ancient desert pyramid filled with traps and treasure, a short way away from Desert Refuge
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - something useful (amount: 1)
+### Characters: NONE
+### Tools: NONE
+### Description: Hello traveler. What brings you to Desert Refuge, this piece of civilization out in the scorching desert? Are you stocking up on supplies on your way to explore desert ruins? If you are, I would like your help. I promise to pay you with something useful. The thing is, there's this ancient pyramid, Tut's Temple, a short way away from this village. It is said to be full of treasure! And some highly lethal traps that are too much to overcome for a meager researcher like me. There are also rumors that say that the ancients had useful devices lost to time. I'd love to get my hands on one, for science. Please, go to Tut's Temple and find an ancient device! It may tell us about many lost crafts!
+### Locations: Desert Refuge - a desert village (location: NONE)
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: Minecraft
+### Motivation: knowledge

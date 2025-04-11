@@ -1,0 +1,15 @@
+### Quest Name: Unfriendly Competition
+### Objective: find proof about Thoronir's wrongdoing
+### First Tasks: investigate Thoronir's store to find out where he gets his inventory
+### First Task Locations: Market District - an area filled with stores
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - a fair bounty in gold (amount: 1)
+### Characters: Thoronir - a male merchant (location: Market District)
+### Tools: trouble began when Thoronir opened his store selling all kinds of merchandise undercutting the competition: Thoronir refuses to join the Society of Concerned Merchants or discuss the matter
+### Description: I think you may be just the kind of person we're looking for. Perhaps you can assist us with a problem we're having here in the Market District. I'm the chairperson for the Society of Concerned Merchants. We formed this group a while back to keep a nice fair economic balance in town. Not every store is a member, but we're slowly trying to convince them to join. Everything was fine until Thoronir opened his shop nearby. Selling all sorts of merchandise, Thoronir undercuts prices like you wouldn't believe. He doesn't always sell what we sell, but it is still a problem. People who buy tend to want to spend their money there. That leaves none for us. It's getting so bad, a few of us may have to close up shop. He outright refuses to join the Society or even discuss the matter. We are convinced he is up to no good. What we need is for you to case his establishment, and figure out where he gets his inventory. Find some proof of his wrongdoing, and let us know. We cannot do it ourselves, as he recognizes all of us. The job pays a fair bounty in gold when he is brought to justice.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: Society of Concerned Merchants - an organization of merchants that keeps a nice fair economic balance in town
+### Title: The Elder Scrolls IV: Oblivion
+### Motivation: NONE

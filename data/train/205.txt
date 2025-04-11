@@ -1,0 +1,15 @@
+### Quest Name: Freedom!
+### Objective: leave Riftkeep with the Guardian of Mana
+### First Tasks: enter the portal to Zeryphesh that the Guardian of Mana opens for you
+### First Task Locations: Riftkeep - a fortress
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: NONE
+### Tools: the player freed Guardian of Mana from her enslavement by beating some sense into her
+### Description: Stop. Enough. You have freed me from my enslavement and I am myself once more! We must leave this place. I will open a portal for you, to Zeryphesh.
+### Locations: Zeryphesh - a city (location: NONE)
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: Torchlight II
+### Motivation: NONE

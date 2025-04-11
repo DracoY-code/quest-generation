@@ -1,0 +1,15 @@
+### Quest Name: A Hidden Base in the Cloakwood
+### Objective: investigate Tazok and his group of bandits
+### First Tasks: go to Cloakwood
+### First Task Locations: Cloakwood - a forest
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: Tazok - a male bandit leader (location: )
+### Tools: Tazok has been going to the Cloakwood regularly, there are important documents in the chest here
+### Description: This whole thing is dirty to the core, that's what I know! These aren't your ordinary bandits here. Tazok's been making regular visits to the Cloakwood, so that's where I'd start if I were you. There are some documents in that chest that might be worth taking a look at, too. Now go step on some toes, all right? And you can tell them Ender Sai sent you.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: Baldur's Gate
+### Motivation: NONE

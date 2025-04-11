@@ -1,0 +1,15 @@
+### Quest Name: Goblin Trouble
+### Objective: stop a goblin war so that Barthel Gernand and his family can finish building their new settlement
+### First Tasks: talk to Mirisa about the goblins
+### First Task Locations: Crestbridge Camp - Barthel Gernand's camp
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: Mirisa - Barthel Gernand's female guide (location: Crestbridge Camp)
+### Tools: Barthel Gernand and his family ran into goblin war parties northwest of here while starting to build a new settlement
+### Description: A word of advice! Watch for goblins if you're heading north. We ran into goblin war parties northwest of here, while starting to build a new settlement. My family and I are still trying to figure out what to do. We spent everything we had to buy the land and supplies, so we can hardly go back. Say, do you think you could help us? We need to get the goblins off our land so we can start building our new settlement. You should talk to Mirisa about the goblins. She's our guide and knows what needs to be done. Take care, friend. Don't get yourself killed on our account.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: The Elder Scrolls IV: Oblivion
+### Motivation: NONE

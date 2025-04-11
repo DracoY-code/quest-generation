@@ -1,0 +1,15 @@
+### Quest Name: Jonny's in the Slag caves. Find a way to get Jonny back home to Balthas
+### Objective: Rescue Jonny from the Slag caves and return him safely to his father, Balthas, in Modoc.
+### First Tasks: Locate Jonny in the Slag caves., Negotiate with the Slags or find an alternative way to free Jonny., Escort Jonny back to Modoc and reunite him with Balthas.
+### First Task Locations: Slag Caves - An underground settlement where Jonny is being held.
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: Caps - A monetary reward from Balthas for safely returning Jonny. (amount: 100), Leather Armor - A suit of leather armor crafted by Balthas as thanks. (amount: NONE), Improved reputation in Modoc - Your heroic actions increase your standing in the community. (amount: NONE)
+### Characters: NONE
+### Tools: Speech skill to negotiate with the Slags., Stealth or combat skills if negotiation fails.
+### Description: Jonny has been found in the Slag caves, and you must figure out how to bring him back home safely to his father in Modoc.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: Fallout 2
+### Motivation: NONE

@@ -1,0 +1,15 @@
+### Quest Name: Toying With The Dead
+### Objective: retrieve the 4 volumes of Arondil's journals for Vekel the Man
+### First Tasks: find the 4 volumes of Arondil's journals
+### First Task Locations: Yngvild - ice caves
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - Vekel the Man would split the reward for the 4 volumes of Arondil's journals with the player (amount: 1)
+### Characters: Arondil - an insane male wizard, and a necromancer performing unspeakable experiments on reanimation (location: Yngvild)
+### Tools: Arondil used to live in Dawnstar: his house was burned down when his necromantic experiments became public knowledge
+### Description: I have a buyer with a very odd taste in literature, looking for some particular books. I'm told they're the ravings of a madman, a wizard named Arondil, and his peculiar cravings. It's said to be in four volumes and very hard to come by. My client is offering quite a reward for them, which I'd split with you. Recently, a woman was found... naked and shivering along the road to Dawnstar. The only information the guard could get from her were tales of strange experiments and Arondil scribbling in his journals. He used to have a home in Dawnstar until they burned it down. The people say he was doing unspeakable experiments on reanimation... rituals only a necromancer would perform. After he made for Yngvild, he was never heard from again. In his later years, Arondil moved into some ice caves known as Yngvild. He preferred the solitude in which to perform his, um... experiments.
+### Locations: Dawnstar - a town (location: NONE)
+### Items:  - volumes of Arondil's journals, necromantic ravings (amount: 4)
+### Enemies: NONE
+### Groups: NONE
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

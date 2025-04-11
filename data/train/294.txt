@@ -1,0 +1,15 @@
+### Quest Name: Song of the Alchemists
+### Objective: bring Lami "Song of the Alchemists"
+### First Tasks: find "Song of the Alchemists"
+### First Task Locations: NONE - 
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - Lami teaches the player things about herbs (amount: 1)
+### Characters: NONE
+### Tools: NONE
+### Description: I'm Lami, an alchemist. I picked up the alchemy trade when I was a girl. One of the temple healers staying here on a pilgrimage showed me the basics. She had a book with her, "Song of the Alchemists", that I used to read over and over. I miss having a copy. Could you find that book for me? I'd be happy to show you a bit about herbs if you find the book.
+### Locations: NONE
+### Items: "Song of the Alchemists" - a book on alchemy (amount: 1)
+### Enemies: NONE
+### Groups: NONE
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

@@ -1,0 +1,15 @@
+### Quest Name: Falling Awake
+### Objective: help Amiable Fanriene to have some sleep
+### First Tasks: find a safe place to sleep outside
+### First Task Locations: NONE - 
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - a reward (amount: 1)
+### Characters: NONE
+### Tools: NONE
+### Description: Hello... don't mind me... Amiable Fanriene. I'm a little tired. Can't sleep at home, you know. The walls. They aren't safe. I need someplace to sleep. I have seen some people sleeping out on the street, but they huddle too close to the walls. I need someplace safe. I can't just sleep anywhere. There're walls and statues and all sorts of things that can fall on me. Can't have that. Nope. But... if you find me a good place to sleep, a safe place -- outside -- I'll reward you! Remember, walk lightly, and always look up.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: The Elder Scrolls IV: Oblivion
+### Motivation: NONE

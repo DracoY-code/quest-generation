@@ -1,0 +1,15 @@
+### Quest Name: Word of the Gods
+### Objective: convince the villagers of Woodridge come to the temple more often
+### First Tasks: talk to the villagers
+### First Task Locations: Woodridge - a village
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - bottles of enchanting (amount: 10)
+### Characters: NONE
+### Tools: NONE
+### Description: People do not care about the gods any more! The temple of gods in this village remains empty! My child, could you convince the villagers of Woodridge come to the temple more often? It would do good to their everlasting souls. Please, talk to the villagers of Woodridge. Do this, and I'll be sure to reward you well with 10 bottles of enchanting.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: Minecraft
+### Motivation: serenity

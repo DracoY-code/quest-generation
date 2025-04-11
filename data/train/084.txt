@@ -1,0 +1,15 @@
+### Quest Name: Arkion's Amulet
+### Objective: steal Arkion's amulet and bring it to Nemphre
+### First Tasks: find Arkion's amulet
+### First Task Locations: Baldur's Gate - a large city
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: Scroll of Vampiric Touch -  (amount: 1)
+### Characters: Arkion - a male necromancer (location: Baldur's Gate)
+### Tools: Arkion was Nemphre's lover
+### Description: Mmm, be a sweet one. Could you do a favor for Nemphre? An old lover of mine has followed me here to the city and has been threatening me with some very dark magic. His name is Arkion and, if you could just get a certain amulet of his to me, perhaps there are a few things I could do for you? Such as giving you a Scroll of Vampiric Touch, mmn?
+### Locations: NONE
+### Items:  - Arkion's amulet (amount: 1)
+### Enemies: NONE
+### Groups: NONE
+### Title: Baldur's Gate
+### Motivation: NONE

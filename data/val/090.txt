@@ -1,0 +1,15 @@
+### Quest Name: The Key to Victory
+### Objective: help Lord Taldimut gather up weapons and armor from the Celestial Armory without Ezrohir noticing
+### First Tasks: use the Golden Gear to get inside the Celestial Armory, and activate the Armory Portal
+### First Task Locations: Celestial Armory - Lord Taldimut's armory that houses some of the finest weapons
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - the player's choice of artifacts from the Celestial Armory (amount: 1)
+### Characters: NONE
+### Tools: Ezrohir have the Celestial Armory under siege
+### Description: It's good to see you again, my friend! I know that I promised you a greater reward, should you come to visit... but that was before I returned to the Ossean Wastes and found the Celestial Armory under siege by Ezrohir. What if I give you your choice of artifacts from the Armory? The Celestial Armory houses some of the finest weapons in the world! You have but to use the Golden Gear to get inside, then activate the Armory Portal, which will allow us to gather up the weapons and armor safely... with the Ezrohir none the wiser!
+### Locations: Ossean Wastes - a desert (location: NONE)
+### Items: Armory Portal - a hidden portal to the Celestial Armory (amount: 1)
+### Enemies: NONE
+### Groups: Ezrohir - Lord Taldimut's enemies
+### Title: Torchlight II
+### Motivation: NONE

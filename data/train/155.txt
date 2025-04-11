@@ -1,0 +1,15 @@
+### Quest Name: Rogatus's Letter
+### Objective: deliver a letter to Leontius
+### First Tasks: find Leontius
+### First Task Locations: Old Hroldan Inn - and old inn to the south
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - the player should make sure that Leontius tips them (amount: 1)
+### Characters: Leontius - Rogatus Salvius' son, a drunk (location: Old Hroldan Inn)
+### Tools: Rogatus Salvius does no think highly of his son
+### Description: My boy Leontius lives in Old Hroldan. Old inn to the south. Damn drunk. The oaf doesn't even bother to visit these days. What am I supposed to do if the dragons burn down the farm? You're a traveler, right? I have this letter for him. Let him know how much of a failure he is. You make sure the lug tips you when he gets it.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

@@ -1,0 +1,15 @@
+### Quest Name: Alduin's Wall
+### Objective: locate Alduin's Wall in Sky Haven Temple
+### First Tasks: find the entrance to Sky Haven Temple with Esbern
+### First Task Locations: Karthspire - a camp in the Reach
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - Alduin's Wall tells the player how to stop Alduin and avert the end of the world (amount: 1)
+### Characters: Alduin - an evil dragon (location: ), Dragonborn - a person who can stop Alduin and avert the end of the world (location: )
+### Tools: the player is the Dragonborn
+### Description: Only a Dragonborn can stop Alduin and avert the end of the world! But... I don't yet know how you can stop him. But Alduin's Wall does. I hope. It's in Sky Haven Temple, an ancient Blades sanctuary, hidden deep in the crags of the Reach. Ah, yes. The entrance to Sky Haven Temple seems to be near what's now known as the Karthspire. We'll have to see what we find when we arrive there. We should be careful. There's no telling what traps and wards the ancient Blades may have set.
+### Locations: Sky Haven Temple - an ancient Blades sanctuary, hidden deep in the crags of the Reach (location: NONE)
+### Items: Alduin's Wall - an ancient mural (amount: 1)
+### Enemies: NONE
+### Groups: Blades - an intelligence organization
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

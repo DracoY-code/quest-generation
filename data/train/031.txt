@@ -1,0 +1,15 @@
+### Quest Name: Get Gizmo's Confession
+### Objective: Gather evidence that Gizmo, the casino owner, ordered Killian Darkwater's assassination.
+### First Tasks: Speak to Killian Darkwater about Gizmo's involvement., Obtain a recording device from Killian., Confront Gizmo and get him to admit to the crime.
+### First Task Locations: Darkwater General Store - Killian’s shop where the player receives the recording device., Gizmo’s Casino - The location where the player records Gizmo’s confession.
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: Caps - A monetary reward for exposing Gizmo’s criminal activity. (amount: 500), Increased reputation in Junktown - Earns the trust of Killian and the town’s residents. (amount: 1)
+### Characters: NONE
+### Tools: Recording Device, Speech Skill, Charisma
+### Description: Killian Darkwater wants solid proof that Gizmo ordered his assassination. The player must record Gizmo’s confession by tricking him into admitting it and then return the evidence to Killian. This leads to further action against Gizmo, determining his fate in Junktown.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: Fallout
+### Motivation: NONE

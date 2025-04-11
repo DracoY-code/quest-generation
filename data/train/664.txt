@@ -1,0 +1,15 @@
+### Quest Name: Briarheart Necropsy
+### Objective: examine a Briarheart for Neloth so that he can improve his heart stone experiments
+### First Tasks: find a Briarheart
+### First Task Locations:  - the hills on the western edge of Skyrim
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: NONE
+### Tools: Briarhearts remove their own hearts, and replace them with large briar seeds, putting their lifesparks in direct connection to the natural forces
+### Description: I've been having difficulties with my heart stone experiments. Have you heard of the Briarhearts? They are fierce warriors of the Forsworn tribes. They actually remove their own hearts, and replace them with large briar seeds. It puts their lifesparks in direct connection to the natural forces. Well, I'm hoping to do something similar... if I could connect a living being to the forces of nature... well... that would be formidable. I've done some experiments in this area, but, well, my test subjects are far too fragile. I'm hoping to learn some of the Briarheart techniques, their methods. I need you to examine one of them. Just investigate as much as you can. The Forsworn live in the hills on the western edge of Skyrim. From there, you're on your own. I'm given to understand that they are not difficult to find, if you gather my inference.
+### Locations: Skyrim - a realm (location: NONE)
+### Items: NONE
+### Enemies: NONE
+### Groups: Forsworn - wild men, Briarhearts - fierce warriors of the Forsworn tribes
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

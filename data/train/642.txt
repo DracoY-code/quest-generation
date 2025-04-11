@@ -1,0 +1,15 @@
+### Quest Name: Research Important Information
+### Objective: Gather crucial intelligence to aid in survival and decision-making.
+### First Tasks: Locate sources of valuable information.
+### First Task Locations: The Brotherhood of Steel - A technologically advanced faction with archives containing pre-war knowledge and classified data., The Hub - A central trading hub where rumors, news, and records of past events can be found., The Followers of the Apocalypse - A group dedicated to preserving and distributing knowledge for the betterment of society.
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: Crucial Intel - New knowledge that can unlock better strategies, locations, and opportunities. (amount: 1), Potential Quest Unlocks - Access to new quests or better solutions to ongoing problems. (amount: 1)
+### Characters: NONE
+### Tools: High Intelligence (for analyzing information), Speech Skill (for extracting useful data from NPCs), Science Skill (for understanding advanced topics)
+### Description: The Vault Dweller must seek out and analyze important information that could influence major decisions. This may involve speaking to knowledgeable individuals, hacking terminals, reading old logs, or piecing together scattered intelligence to uncover the truth about the wasteland and its factions.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: Fallout
+### Motivation: NONE

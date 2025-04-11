@@ -1,0 +1,15 @@
+### Quest Name: Drinks for Stories
+### Objective: convince Roggi that he should not worry about his bar tab to Iddra
+### First Tasks: talk to Roggi
+### First Task Locations: Kynesgrove - a village
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - things Roggi pawned to Iddra (amount: 1)
+### Characters: Roggi - a male Nord storyteller (location: Kynesgrove)
+### Tools: NONE
+### Description: Roggi has been in Kynesgrove forever. Great storyteller. Keeps everyone's spirits up. Owes me a lot of coin for drinks. I keep telling him not to worry about it, but he's got the stubborn Nord blood. Damn fool doesn't have the coin to pay me back, so he just beats himself up over it, and then he gets thirsty, and it cycles all over again. If you could convince him that I don't care about his tab, it'd certainly make me feel better. Roggi pawned a few of his things back when he still had things to pawn. Take them as your reward.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: Nord - a race of stubborn people
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

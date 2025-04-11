@@ -1,0 +1,15 @@
+### Quest Name: Save Trish
+### Objective: Rescue Trish from a dangerous situation in the Hub.
+### First Tasks: Locate Trish in the Downtown Hub., Identify the threat to Trish’s safety., Defeat or negotiate with the aggressors., Ensure Trish's safety and return her to Saul.
+### First Task Locations: Downtown Hub - A central area of the Hub where Trish is in danger.
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: Experience Points - Earned for successfully rescuing Trish. (amount: 500)
+### Characters: NONE
+### Tools: Speech, Small Guns, Melee Weapons
+### Description: Saul is worried about Trish, who is in danger in the Hub. The player must intervene, eliminate the threat, and ensure her safety.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: Fallout
+### Motivation: NONE

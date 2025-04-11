@@ -1,0 +1,15 @@
+### Quest Name: Tolfdir the Absent-Minded
+### Objective: help Tolfdir find his missing alembic
+### First Tasks: find Tolfdir's alembic
+### First Task Locations: NONE - 
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: NONE
+### Tools: NONE
+### Description: This is rather embarrassing, but it seems I've misplaced something. I can't find my Alembic. I need it for some research. I suppose I could use another one, but... well, it sounds silly, but mine has sentimental value. If you happen to see it, would you mind bringing it to me?
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

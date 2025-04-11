@@ -1,0 +1,15 @@
+### Quest Name: A Rat Problem
+### Objective: take care of the rat problem, and return to Azzan
+### First Tasks: talk to Arvena Thelas about the rat problem in her house
+### First Task Locations: Anvil - a city
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: Arvena Thelas - a woman (location: Anvil)
+### Tools: the player has requested their first contract from Azzan
+### Description: A contract for you? I, Azzan, think I've got something that suits your experience. Arvena Thelas has some problem with rats in her house. As I said, rats. I'm sure she can explain it to you better than I. She lives here in Anvil. Go and talk to her. Go take care of the rats. Then talk to me. Good luck!
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: Fighters Guild - a mercenary guild
+### Title: The Elder Scrolls IV: Oblivion
+### Motivation: NONE

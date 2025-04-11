@@ -1,0 +1,15 @@
+### Quest Name: The Forlorn Watchman
+### Objective: lay the Watchman to rest
+### First Tasks: go see the Watchman at 8 o'clock at night
+### First Task Locations: Bawnwatch Camp - a camp on the shore of Niben Bay
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: Watchman - a harmless, sad ghost of a sailor (location: )
+### Tools: the player asked Gilgondorin about the Watchman, Gilgondorin pinpoints where the Watchman appears on the player's map
+### Description: So you want to learn more about the ghostly Watchman? The Watchman looks like he may have been a sailor. No one knows where he came from, or why he looks so sad. I don't like talking about the dead like they're some kind of tourist attraction, but that spirit has been making his ghostly journey for years now. We've learned to just accept that he's there. Every night, sure as clockwork, he appears at Bawnwatch Camp at 8 on the shore of Niben Bay. He's never harmed anyone, but most people give him a wide berth. You seem curious enough, so I'll be glad to pinpoint where he appears on your map.
+### Locations: Niben Bay - a sea bay (location: NONE)
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: The Elder Scrolls IV: Oblivion
+### Motivation: NONE

@@ -1,0 +1,15 @@
+### Quest Name: Finish Temple of Trials
+### Objective: Complete the Temple of Trials to prove your worth as the Chosen One.
+### First Tasks: Navigate through the Temple of Trials., Defeat or sneak past the temple guardians., Solve minor puzzles and avoid traps., Defeat the final guardian at the temple exit.
+### First Task Locations: Temple of Trials - A sacred temple used by the Arroyo tribe to test potential Chosen Ones.
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: Recognition as the Chosen One - Completion of the trial proves your worthiness. (amount: NONE), Basic Equipment - You receive supplies to begin your journey. (amount: NONE)
+### Characters: NONE
+### Tools: N, O, N, E
+### Description: The Temple of Trials is a test of strength, intelligence, and resilience. Only those who successfully complete it can claim the title of the Chosen One and embark on their journey to save Arroyo.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: Fallout 2
+### Motivation: NONE

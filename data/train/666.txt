@@ -1,0 +1,15 @@
+### Quest Name: Sins of the Father
+### Objective: recover an item stolen by Albert Jemane from ogres
+### First Tasks: find the item in a troll lair
+### First Task Locations: Redguard Valley - a well-known ogre den
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - Fathis Ules would pay the player very well for the item (amount: 1)
+### Characters: Albert Jemane - the dead father of the Jemane brothers, and a former professional thief employed by Fathis Ules' organization (location: ), Reynald - one of the Jemane brothers (location: Weatherleah)
+### Tools: the player has recently escorted the two Jemane brothers back to Weatherleah, Albert Jemane was supposed to obtain a valuable item for Fathis Ules, but he kept it for himself, Albert Jemane fled from Chorrol with his family to wilderness, and was never heard from again: only his small son Reynald was found, Albert Jemane kept the item in Weatherleah, but Weatherleah was ransacked by ogres: they took the item
+### Description: Fathis Ules. I may have a bit of a proposition for you involving the Jemane family you so recently assisted. It was kind of you to escort the Jemanes back to Weatherleah. However, their father, the original owner of Weatherleah left them an even greater legacy. My tale actually begins with the father, Albert Jemane. He was once in my employ, or should I say the employ of my organization. He was very good at obtaining things from people who did not want to part with. A professional thief, to put it bluntly. He was assigned to obtain a very valuable item for me. He succeeded, but decided to keep this item for himself. An unfortunate decision. Albert Jemane fled from Chorrol with his family, and was never heard from again. Only his small son Reynald was found, wandering alone in the wilderness. Naturally, my associates and I believed he had perished. The wilderness is, after all, a dangerous place. No place to take your family. Then, these many years later, voila! The brother reappears. It seems the rest of the family did not die in the wilderness after all. What is the point of my tale? Albert Jemane builds Weatherleah way out in the middle of nowhere. He was a thief, not a farmer. The only reason to establish such a place would be to stay out of the Chorrol Guard's sight. I believe that the item Albert stole, which rightly belongs to me, was hidden at Weatherleah. Unfortunately, the notorious Redguard Valley Ogres ransacked the place and probably took all of the loot back with them. If you were to obtain this item, somehow, and bring it to me, I would pay you very well for it.
+### Locations: Weatherleah - a farmhouse built by Albert Jemane, in the middle of nowhere (location: NONE), Chorrol - a city (location: NONE)
+### Items: NONE
+### Enemies: NONE
+### Groups: Jemanes - a family
+### Title: The Elder Scrolls IV: Oblivion
+### Motivation: NONE

@@ -1,0 +1,15 @@
+### Quest Name: Turning a Blind Eye
+### Objective: return to the Gray Fox with Savilla's Stone
+### First Tasks: steal Savilla's Stone
+### First Task Locations: Temple of the Ancestor Moths - an extensive, well-guarded monastery, in the far northeast of Cyrodiil, beyond Cheydinhal
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - if the player succeeds, the Gray Fox will pay the player well (amount: 1)
+### Characters: NONE
+### Tools: retired, blind Moth priests go to die in the Temple of the Ancestor Moths, the Gray Fox will mark the location of the Temple of the Ancestor Moths on the player's map, the player must not kill innocents: however, there is no bloodprice for slaying the stone's guardians
+### Description: I have need of your special gifts. There is an item, hidden away in a remote monastery. I need you to go get it for me. The monastery is extensive and well guarded, so you should make sure to be well prepared. Should you succeed, I will pay you well for your services. The monastery is called the Temple of the Ancestor Moths. It is where retired, blind Moth priests go to wait out the rest of their days. I will mark the location on your map. Look for it in the far northeast of Cyrodiil, beyond Cheydinhal. I need you to acquire Savilla's Stone. It is a large crystal with special properties that I need to gain... advantage. Remember, do not shed innocent blood. However, there is no bloodprice for slaying the stone's guardians, human or inhuman. When I receive word that Savilla's Stone is missing, I will be here waiting for you.
+### Locations: Cheydinhal - a city in Cyrodiil (location: NONE), Cyrodiil - a region (location: NONE)
+### Items: Savilla's Stone - a large crystal with special properties (amount: 1)
+### Enemies: NONE
+### Groups: Thieves Guild - a guild of thieves
+### Title: The Elder Scrolls IV: Oblivion
+### Motivation: NONE

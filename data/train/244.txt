@@ -1,0 +1,15 @@
+### Quest Name: Fulfill Your Duties to Talos
+### Objective: speak to the believers of Talos
+### First Tasks: give guidance to the believers of Talos who seek the guidance of Talos
+### First Task Locations: NONE - 
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: Talos, the Storm Lord - an evil god of thunder and destruction (location: )
+### Tools: the player is a favored of Talos, Acolyte Vilon sends the player a few believers who need the guidance of Talos
+### Description: Chosen of Talos! Over here! I, Acolyte Vilon, have words for you about your duties within the church! As a favored of Talos, you will hear questions from the mewling dogs that seek the guidance of the Storm Lord. These weaklings seek guidance, and you are to give it. These worms are barely worthy of stepping upon the floor of the house of the Storm Lord! Nevertheless, you will hear them! We all take our turn guiding the foolish. I shall send a few your way, and if you do well, perhaps you will not need to speak to any more. We shall see. For now, guide them in the way of Talos. You must do what is best for the church, and that is all. Anything less and you will have your honors stripped. Clear?
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: Baldur's Gate II: Shadows of Amn
+### Motivation: NONE

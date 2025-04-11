@@ -1,0 +1,15 @@
+### Quest Name: Drowned Sorrows
+### Objective: find Isabelle Rolaine
+### First Tasks: talk to Vex about Isabelle Rolaine
+### First Task Locations: Riften - a city
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: Isabelle Rolaine - a young, beautiful woman, and Ranmir's lost love (location: ), Ranmir - a male drunk who used to be happy with Isabelle Rolaine (location: Dagur's inn), Vex - a woman (location: Riften)
+### Tools: Ranmir is sure that Isabelle Rolaine ran away with Vex
+### Description: I'm Dagur, an innkeeper. I wondered if I could ask a favor of you. It's about Ranmir. Don't get me wrong, I don't have a problem with him being in my inn all the time. He mostly keeps to himself, and so far he's been able to pay. I just hate to see what's happened to him. He hasn't always been like this, you know. Drunk, I mean. He was a different person. Happy, outgoing... Like anyone who's in love. See, Ranmir was involved with a pretty young woman named Isabelle Rolaine. The two of them were very happy together, I thought. One day, she just disappeared. Ranmir was convinced she'd run off with someone else, leaving him behind. He turned to drinking, and what's left of him is what you see here every day. I hoped that maybe if she could be found, if he had some sort of explanation, that maybe he could put himself back together. I'm in no position to go searching for her, but perhaps you could. Ranmir seemed convinced that Isabelle'd run off to Riften with someone named Vex. That's all I remember.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

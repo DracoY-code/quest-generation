@@ -1,0 +1,15 @@
+### Quest Name: Climb the Steps
+### Objective: deliver a bag of food supplies to the Greybeards for Klimmek
+### First Tasks: climb the 7,000 steps to High Hrothgar, and put the bag of food supplies in the offering chest at the top of the steps
+### First Task Locations: NONE - 
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: NONE
+### Tools: NONE
+### Description: Passing through on your way to High Hrothgar? About to make a delivery up there myself. I mostly deliver food supplies like dried fish and salted meats; you know, things that keep fresh for a long time. The Greybeards tend not to get out much, if you catch my meaning. It's kind of an understanding between us. I mean, it just wouldn't feel right to charge them for a bit of preserved food. Trouble is, my legs aren't what they used to be and climbing the 7,000 Steps takes its toll. You'd like to make the delivery for me? Really? That would be kind of you. Here, take this bag of supplies. At the top of the steps you'll see the offering chest. Just leave the bag inside and you're done.
+### Locations: High Hrothgar - the secluded home of the Greybeards (location: NONE)
+### Items: NONE
+### Enemies: NONE
+### Groups: Greybeards - an order of wise old men
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

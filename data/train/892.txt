@@ -1,0 +1,15 @@
+### Quest Name: A Cornered Rat
+### Objective: locate Esbern, and ask where he was on the 30th of Frostfall
+### First Tasks: talk to Brynjolf about finding Esbern
+### First Task Locations: Riften - a city
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - Esbern knows how to stop the dragons (amount: 1)
+### Characters: Esbern - a paranoid man (location: Riften), Brynjolf - a 'well-connected' man (location: Riften)
+### Tools: the Thalmor are also looking for Esbern
+### Description: We've got to find Esbern in Riften before the Thalmor do. He'll know how to stop the dragons if anybody does. You'd better get to Riften. Talk to Brynjolf. He's... well-connected. A good starting point at least. Oh, and when you find Esbern... if you think I'm paranoid... you may have some trouble getting him to trust you. Just ask him where he was on the 30th of Frostfall. He'll know what it means.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: Thalmor - the player's enemies
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

@@ -1,0 +1,15 @@
+### Quest Name: The Gibberling Hordes
+### Objective: help Laurel to fend off the gibberlings
+### First Tasks: kill gibberlings
+### First Task Locations:  - a spot in the wilderness
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: NONE
+### Tools: fire spells are effective on gibberlings
+### Description: I am called Laurel. I am a traveling paladin. Ah, travelers, this wilderness is too expansive to keep clear of monsters all on my own. Many gibberlings pass through this very spot day and night. Will you stay here and help fend them off? Fire magics work well against the gibberlings, so if you have such spells, use them.
+### Locations: NONE
+### Items: NONE
+### Enemies: gibberlings - small monsters (amount: 1)
+### Groups: NONE
+### Title: Baldur's Gate
+### Motivation: NONE

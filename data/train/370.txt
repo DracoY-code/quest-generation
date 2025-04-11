@@ -1,0 +1,15 @@
+### Quest Name: Retaking the Fringe
+### Objective: defend the Fringe
+### First Tasks: help Sheogorath's armies to retake the Fringe from the forces of Order
+### First Task Locations: Fringe - the hinterlands of Sheogorath's realm
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: none -  (amount: 1)
+### Characters: NONE
+### Tools: the Greymarch has swept the Fringe
+### Description: The Greymarch has swept the Fringe. Order gathers its forces there as we speak. And I hate when people gather forces in My Fringe. You'll need to put an end to that. Stop them. My armies should already be there, but I want you to see what you can do to help. If they continue to marshal their forces there, we won't be able to contain them. Make sure they can't.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: Daedric Princes - immortal, fickle, infamous divine beings
+### Title: The Elder Scrolls IV: Oblivion
+### Motivation: NONE

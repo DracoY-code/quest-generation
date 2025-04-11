@@ -1,0 +1,15 @@
+### Quest Name: Rebuilding the Gatekeeper
+### Objective: rebuild the Gatekeeper
+### First Tasks: talk to Relmyna
+### First Task Locations: Xaselm - a village
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: Jyggalag - the prince of order, one of the Daedric Princes (location: ), Relmyna - a woman (location: ), Gatekeeper - Sheogorath's guardian, a flesh golem (location: )
+### Tools: Sheogorath does not know how much time he has left: Sheogorath wants the Gatekeeper to guard the Gates and be ready for Jyggalag's forces, the player should tell Relmyna that they are working for Sheogorath: Relmyna would do anything for Sheogorath
+### Description: Things are getting a bit thin. Get that Gatekeeper in place, and do it quickly. I'm not sure how much time I have left. It's essential. Simply essential! If only it were essentially simple... but it's not. I want him there guarding those Gates. If any of Jyggalag's forces show up, he should be ready for them. It wouldn't do to just let them in if more show up. And more always show up. Still and all, I think things are going well, considering! Go talk to Relmyna in Xaselm. Tell her you're working for me. She'd do anything for me, that little minx.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: Daedric Princes - immortal, fickle, infamous divine beings
+### Title: The Elder Scrolls IV: Oblivion
+### Motivation: NONE

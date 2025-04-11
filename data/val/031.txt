@@ -1,0 +1,15 @@
+### Quest Name: Warn the Estherians
+### Objective: head up the pass to the Enclave, and warn the Estherians that the Alchemist is coming to them
+### First Tasks: find Commander Vale and let her know what happened
+### First Task Locations: Enclave - the home of the Estherians
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: Alchemist - an evil man (location: ), Commander Vale - a woman, an old friend to the Destroyer (location: Enclave)
+### Tools: the Alchemist destroyed Torchlight
+### Description: Someone needs to warn the Estherians. Head up the pass to their Enclave. Find my old friend, Commander Vale, and let her know what happened. Tell them that the Alchemist destroyed Torchlight, and is headed their way. He may be there already...
+### Locations: Torchlight - a town (location: NONE)
+### Items: NONE
+### Enemies: NONE
+### Groups: Estherians - a race of people
+### Title: Torchlight II
+### Motivation: NONE

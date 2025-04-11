@@ -1,0 +1,15 @@
+### Quest Name: Join the Mages Guild
+### Objective: advance in the Mages Guild
+### First Tasks: receive a recommendation
+### First Task Locations:  - each local guild hall in Cyrodiil
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - access to the Arcane University (amount: 1)
+### Characters: NONE
+### Tools: the player wants to join the Mages Guild: Carahil makes the player an Associate of the Mages Guild, all recommendations must be sent to the Council of Mages before the player can enter the Arcane University
+### Description: Hello there. Is there something with which I can assist you? Perhaps you're curious about joining the Mages Guild? All right, then. You're now an Associate of the Mages Guild. Congratulations! You'll need to receive a recommendation from each local guild hall in Cyrodiil to advance in the guild, and be given any sort of responsibility. They can be done in any order, but they all must be sent in to the Council before you can enter the Arcane University.
+### Locations: Cyrodiil - a realm (location: NONE), Arcane University - a university for mages (location: NONE)
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: The Elder Scrolls IV: Oblivion
+### Motivation: NONE

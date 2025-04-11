@@ -1,0 +1,15 @@
+### Quest Name: The Coming Storm
+### Objective: help Ahjazda prepare for the coming storm
+### First Tasks: bring the Amulet of Disintegration, the Ring of Desiccation, and the Calming Pants to Ahjazda
+### First Task Locations: Crucible - a district of a big city
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: Ahjazda's Paranoia - a spell that confuses all those around the player (amount: 1)
+### Characters: NONE
+### Tools: Ahjazda is the only one who sees the approaching storm
+### Description: So much to gather, so little time. Perhaps you can help? You might help against the coming storm. It's coming. I, Ahjazda, think I'm the only one who sees it, though. And I'm going to be ready. Oh, yes. I'll be ready. I've been stockpiling supplies. Things I'll need to ride it out... or survive when they come for me. I've been gathering things for quite a while, but there are still a few I'm missing. Perhaps you'd bring them to me? I still need the Amulet of Disintegration, the Ring of Desiccation, and, of course, the Calming Pants. Must have the Calming Pants. Bring these to me, and I will reward you well. Ahjazda has many, many things. Let me teach you a special spell, Ahjazda's Paranoia, after you return with the items. It will affect all those around you. You might find it handy to cause confusion in your enemies. You know... when the time comes.
+### Locations: NONE
+### Items: Amulet of Disintegration - an amulet (amount: 1), Ring of Desiccation - a ring (amount: 1), Calming Pants - pants (amount: 1)
+### Enemies: NONE
+### Groups: NONE
+### Title: The Elder Scrolls IV: Oblivion
+### Motivation: NONE

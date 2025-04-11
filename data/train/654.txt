@@ -1,0 +1,15 @@
+### Quest Name: The Affairs of Hagravens
+### Objective: help Melka reclaim her tower by killing Petra
+### First Tasks: let Melka out of the cage
+### First Task Locations:  - Melka's tower
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - Melka's staff (amount: 1)
+### Characters: Petra - a female Hagraven (location: )
+### Tools: the player entered the room where Melka has been imprisoned
+### Description: Who enters? Will nobody save poor Melka? You, meat! Come, come. Don't leave poor Melka to die. Pretty, pretty flesh. Let me out! Petra! Evil Petra put me in a cage, stole my tower. Hate her, chew her bones! Let me out, kind, kind meat. Ah, I have a pretty staff. Help me find Petra, wring her neck, pluck her eyes. Take my prize staff, I just want my tower back!
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: Hagraven - monsters, a horrific cross between an old crone and a bird
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

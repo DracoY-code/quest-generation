@@ -1,0 +1,15 @@
+### Quest Name: Recipe for Disaster
+### Objective: kill the Gourmet, steal his writ of passage, and assume his identity
+### First Tasks: talk to Festus
+### First Task Locations: NONE - 
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: Gourmet - a famous master chef, whose true identity is not known (location: ), Festus - a fellow Dark Brotherhood member, a man (location: )
+### Tools: the Gourmet is the last target before he Dark Brotherhood strikes out at the emperor: the Gourmet is scheduled to cook for the emperor at a special dinner, Festus is close to uncovering the identity of the Gourmet
+### Description: There's just one more target before we strike out at the Emperor. Have you by chance heard of the "Gourmet"? Read his cookbook? It's become quite a phenomenon. The Gourmet is scheduled to cook for the Emperor at a special dinner. You'll kill him, steal his Writ of Passage, and assume the role of master chef. Festus has been spearheading this part of the assassination plan. He's close to uncovering the identity of the Gourmet. You should report to him.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: Dark Brotherhood - a guild of assassins
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

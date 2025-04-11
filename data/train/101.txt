@@ -1,0 +1,15 @@
+### Quest Name: A Corpse for Arkion
+### Objective: bring a corpse to Arkion
+### First Tasks: find a corpse
+### First Task Locations: sewers - 
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - gold pieces (amount: 250)
+### Characters: NONE
+### Tools: NONE
+### Description: The name's Arkion. I've got a dirty deed fer ya. How 'bout you go down into the sewers and bring me up a body. Now, I don't ask questions 'bout how you come 'bout them and I don't want any questions 'bout what I use 'em fer. Bring 'em to me when ya find 'em. There'll be 250 gold pieces to relieve the stink of it all.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: Baldur's Gate
+### Motivation: NONE

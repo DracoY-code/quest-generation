@@ -1,0 +1,15 @@
+### Quest Name: Go Visit Renesco the Rocketman and Collect Mr. Salvatore's Tribute of $1000
+### Objective: Visit Renesco and collect $1000 on behalf of Mr. Salvatore.
+### First Tasks: Find Renesco the Rocketman in New Reno., Demand Mr. Salvatore's tribute of $1000 from Renesco., Decide how to handle the situation if he refuses to pay.
+### First Task Locations: Renesco's Drug Store - Renesco operates his business in New Reno.
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: Cash Reward - Earn $100 for delivering the tribute. (amount: NONE), Option to Keep the Money - You can choose to keep the full $1000 instead of delivering it. (amount: NONE), Favor with Salvatore Family - Successfully completing the quest increases your standing with Mr. Salvatore. (amount: NONE)
+### Characters: NONE
+### Tools: Speech to persuade Renesco to pay., Barter to negotiate the amount., Guns or melee weapons if intimidation is necessary.
+### Description: Mr. Salvatore demands a tribute from Renesco. Your task is to collect $1000 from Renesco and deliver it to Salvatore, or decide to keep the money for yourself.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: Fallout 2
+### Motivation: NONE

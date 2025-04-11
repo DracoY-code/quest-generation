@@ -1,0 +1,15 @@
+### Quest Name: Barbarians Have Invaded the Theatre
+### Objective: do something about the Turmish fanatics
+### First Tasks: stop the Turmish fanatics
+### First Task Locations:  - the playhouse
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: NONE
+### Tools: the player is Higgold's patron, the Turmish fanatics are not permitting the play: the dress rehearsal is supposed to be tomorrow
+### Description: Ah! Patron! This is unbelievable! There are... a group of Turmish fanatics in the playhouse! They have taken it over! They charged in and scared the cast to death yelling nonsense about not permitting the play! They said they would sooner burn the playhouse than allow the show! And the dress rehearsal is supposed to be tomorrow! Gah! Patron, you've got to do something! Stop them, please!
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: Turmish fanatics - a group of barbarians
+### Title: Baldur's Gate II: Shadows of Amn
+### Motivation: NONE

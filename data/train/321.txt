@@ -1,0 +1,15 @@
+### Quest Name: A Prelude to the End
+### Objective: put a stop to the unseen powers that are unraveling the very fabric of the Dark Brotherhood
+### First Tasks: discuss your special assignment with Lucien Lachance
+### First Task Locations: Fort Farragut - Lucien Lachance's private refuge, a ruined fort located in the forest northeast of the Cheydinhal Sanctuary
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: Ocheeva - the leader of the Cheydinhal Sanctuary (location: Cheydinhal Sanctuary)
+### Tools: "Orders" is addressed toward the player: the player is an Eliminator, the player should not share the contents of this message with anyone at the Cheydinhal Sanctuary, including Ocheeva, and make no mention of their journey to Fort Farragut, Fort Farragut is guarded by rotting sentinels who will attack any interlopers on sight
+### Description: Orders by Lucien Lachance  Eliminator, You have served the Dark Brotherhood well in the short time you have been with us. Indeed, the rate of your advancement has been rather remarkable. Now the Black Hand itself is in need of your abilities. You must proceed with all haste to my private refuge in the ruins of Fort Farragut, located in the forest northeast of the Cheydinhal Sanctuary. When you arrive, we will discuss the nature of your special assignment. I cannot stress to you enough the importance of your swift arrival at Fort Farragut. There are unseen powers working to unravel the very fabric of the Dark Brotherhood. The Black Hand is counting on you to prevent this disaster. Do not share the contents of this message with anyone at the Cheydinhal Sanctuary, including Ocheeva, and make no mention of your journey to Fort Farragut! Also, be warned -- my refuge within Fort Farragut is guarded by denizens who will attack any interloper on sight. Get through these rotting sentinels and you will surely have earned the right to visit my private sanctum. Lucien Lachance
+### Locations: Cheydinhal Sanctuary - one of the guildhalls of the Dark Brotherhood (location: NONE)
+### Items: "Orders" - a message to the player (amount: 1)
+### Enemies: NONE
+### Groups: Dark Brotherhood - a guild of assassins, Black Hand - the governing body of the Dark Brotherhood
+### Title: The Elder Scrolls IV: Oblivion
+### Motivation: NONE

@@ -1,0 +1,15 @@
+### Quest Name: The Cold Flame of Agnon
+### Objective: get the Flame of Agnon to relight the great torch over New Sheoth
+### First Tasks: take care of Sheogorath's minions
+### First Task Locations: Cylarne - a fort
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: NONE
+### Tools: the Flame of Agnon is at Cylarne: Sheogorath's minions are fighting over Cylarne in their eternal quest to please him
+### Description: You've seen the Great Torch that burns brightly over New Sheoth? No? Because it doesn't. It should. But it doesn't. You'll fix that. You'll go to Cylarne and bring back the Flame of Agnon to relight the torch. Oh... and take care with my minions at Cylarne. In their eternal quest to please me, they're constantly fighting over Cylarne. It can be tiresome. But, really, it's divine. Divinely tiresome. Well. That's your problem now. Off with you. I don't want to see you again until the Great Torch is lit. I wouldn't want to have to hurt you.
+### Locations: New Sheoth - the capital city of Sheogorath's realm (location: NONE)
+### Items: Flame of Agnon - a cold flame (amount: 1)
+### Enemies: NONE
+### Groups: Daedric Princes - immortal, fickle, infamous divine beings
+### Title: The Elder Scrolls IV: Oblivion
+### Motivation: NONE

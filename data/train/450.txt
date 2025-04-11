@@ -1,0 +1,15 @@
+### Quest Name: Necromancer's Moon
+### Objective: find information on Black Soul Gems, especially about their powers and creation
+### First Tasks: speak to Tar-Meena about Black Soul Gems
+### First Task Locations: Mystic Archives - archives within the Arcane University
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: Tar-Meena - the Mages Guild's female specialist on magicka arcana (location: Mystic Archives), Arch-Mage - the guildleader of the Mages Guild (location: )
+### Tools: Tar-Meena is reading about Necromancy, only stopping to sleep, at the Arch-Mage's request
+### Description: I'd like you to speak with Tar-Meena at the Mystic Archives. She is our specialist on magicka arcana, and has been helping gather information. I believe we have been asking her the wrong questions, taxing her too much with vague attempts to make sense of all that we know. Speak with her specifically about these Black Soul Gems. If she knows anything about their powers or creation. Her expertise in arcane knowledge and lore could be invaluable to us, if we can make proper use of it. She can likely be found in the Archives now, poring through materials on Necromancy. She stops only to sleep, at the Arch-Mage's request.
+### Locations: Arcane University - a university for mages (location: NONE)
+### Items: NONE
+### Enemies: NONE
+### Groups: Mages Guild - a guild of mages
+### Title: The Elder Scrolls IV: Oblivion
+### Motivation: NONE

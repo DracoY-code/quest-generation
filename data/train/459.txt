@@ -1,0 +1,15 @@
+### Quest Name: Out of Balance
+### Objective: remove pollution from the various points of focus for magic energies with specially enchanted gloves, and return the gloves to Drevis Neloren afterwards
+### First Tasks: find the focus points for magical energy
+### First Task Locations:  - around the College of Winterhold
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: NONE
+### Tools: the College of Winterhold has gone to great lengths to purify and enhance the natural energies of the world
+### Description: There may be a matter in which your... skills... could be useful. The various points of focus for magic energies around the College have become polluted, and need cleansing. As you may be aware, the College has gone to great lengths to purify and enhance the natural energies of the world. This both enhances our connection to the realm of magic, and eliminates possible interference from outside sources. These energies, on occasion, become... polluted. Effort must be made to see that they are kept pure, clean. These specially enchanted gloves will allow you to delve directly into the focal points for these energies. Go to each focal point and remove whatever impurities you may find there. Return the gloves to me when you have finished. Please exercise caution. This is not a procedure without possible... consequences.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: College of Winterhold - a famous college for mages
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

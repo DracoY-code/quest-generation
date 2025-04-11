@@ -1,0 +1,15 @@
+### Quest Name: A Tour of Durlag's Tower
+### Objective: take a tour to Durlag's Tower
+### First Tasks: buy a tour to Durlag's Tower from Ike Cascadion Vendar
+### First Task Locations: NONE - 
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: NONE
+### Tools: Ike Cascadion Vendar is leading a tour to Durlag's Tower, the tour to Durlag's Tower costs 60 gold
+### Description: Step right up folks and HEAR the tale of dread placed before thee. Join with me as I, adventurer extraordinaire Ike Cascadion Vendar, lead yet another group of brave souls through the very SEAT of danger in the realms. To Durlag's Tower we shall go, and witness the perils that have taken the lives of hundreds of courageous men and women. SEE the horror of the treacherous traps! FEEL the presence of the long languishing dead! MARVEL at the wondrous wealth buried below! NOT for the weak of spirit as I will NOT be held accountable for any heart failure during OR after our expedition! Step up, step up! One at a TIME! A special package deal of 60 gold for you, not that you would need a discount.
+### Locations: Durlag's Tower - a dangerous tower filled with traps (location: NONE)
+### Items:  - gold (amount: 60)
+### Enemies: NONE
+### Groups: NONE
+### Title: Baldur's Gate
+### Motivation: NONE

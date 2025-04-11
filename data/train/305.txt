@@ -1,0 +1,15 @@
+### Quest Name: The Voice of the Emperor
+### Objective: find Uriel Septim VII's son and close shut the jaws of Oblivion
+### First Tasks: give the Amulet of Kings to Jauffre, and ask Jauffre about finding Uriel Septim VII's secret son
+### First Task Locations: NONE - 
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: Mehrunes Dagon - the male prince of destruction, one of the Daedric Princes (location: Oblivion)
+### Tools: Uriel Septim VII cannot go further, the player alone must stand against Mehrunes Dagon and his mortal servants: Mehrunes Dagon must not have the Amulet of Kings
+### Description: I can go no further. You alone must stand against the Prince of Destruction and his mortal servants. He must not have the Amulet of Kings! Take the Amulet. Give it to Jauffre. I have a secret son, and Jauffre alone knows where to find him. Find my son, and close shut the jaws of Oblivion.
+### Locations: NONE
+### Items: Amulet of Kings - an important amulet (amount: 1)
+### Enemies: NONE
+### Groups: Daedric Princes - immortal, fickle, infamous divine beings, Jauffre - a trustworthy male servant of Uriel Septim VII
+### Title: The Elder Scrolls IV: Oblivion
+### Motivation: NONE

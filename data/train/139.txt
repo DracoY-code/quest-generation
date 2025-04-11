@@ -1,0 +1,15 @@
+### Quest Name: Withering Away
+### Objective: kill the Wither
+### First Tasks: gather up 3 wither skeleton skulls, and 4 blocks of soul sand, summon the Wither with the gathered items
+### First Task Locations: Nether - a hellish realm,  - a place of the player's choosing
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: Nether Star - a rare item (amount: 1)
+### Characters: NONE
+### Tools: Tove draws the summoning pattern of the Wither for the player
+### Description: I'm a storyteller. I always like to hear new stories that I can pass along to the people of this village. Old legends tell about a mighty skeletal creature known only as the "Wither." It is said that it can bomb out everything in its surroundings. If you killed the Wither, I'd give you a rare Nether Star as a reward. I'll draw you the summoning pattern of the Wither. You need to gather up certain items from the hellish Nether: three wither skeleton skulls, and four blocks of soul sand. Use these items to summon the Wither.
+### Locations: NONE
+### Items:  - wither skeleton skulls (amount: 3),  - blocks of soul sand (amount: 4)
+### Enemies: Wither - an extremely dangerous skeletal creature capable of bombing out everything in its surroundings (amount: 1)
+### Groups: NONE
+### Title: Minecraft
+### Motivation: reputation

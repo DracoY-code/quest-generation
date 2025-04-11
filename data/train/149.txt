@@ -1,0 +1,15 @@
+### Quest Name: The Seven Suns
+### Objective: investigate the Seven Suns, and report back to Scar
+### First Tasks: break into the Seven Suns compound
+### First Task Locations:  - the Seven Suns compound
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - gold (amount: 2000)
+### Characters: Jhasso - the head of the Seven Suns, and an old friend of Scar (location: the Seven Suns compound)
+### Tools: the leadership of the Seven Suns have acted strangely lately by selling off valuable assets and neglecting many profitable trading ventures, Scar talked with Jhasso, but Jhasso rudely rebuffed Scar, use stealth while investigating the Seven Suns compound
+### Description: First off, let me introduce myself. I'm Scar, second-in-command of the Flaming Fist. I need you to begin an investigation of the Seven Suns trading coster. The Seven Suns leadership has been acting strangely of late. They've been selling off valuable assets and neglecting many of their more profitable trading ventures. Considering the importance that the trading coster holds over the economy of the city, the Grand Dukes are noticeably upset. I've gone to talk to the coster's head, Jhasso. He rudely rebuffed me, telling me to mind my own business. I've known Jhasso for many years, and this isn't his usual behavior. I can't start up an official investigation, as there is no real reason for doing so. That's why I need you. I want you to break into the Seven Suns compound and find out what's wrong. Use stealth in your investigations; I don't want this operation to cause too much fuss. The most important person to watch for is Jhasso. Once you've found out as much as possible, report back to me at the Flaming Fist compound. I'll pay you 2,000 gold for this favor.
+### Locations: Baldur's Gate - a city (location: NONE)
+### Items: NONE
+### Enemies: NONE
+### Groups: Seven Suns - an important trading coster in Baldur's Gate, Flaming Fist - a mercenary organization promoting order and law, Grand Dukes - a group of nobles who rule over Baldur's Gate
+### Title: Baldur's Gate
+### Motivation: NONE

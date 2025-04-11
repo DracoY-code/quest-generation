@@ -1,0 +1,15 @@
+### Quest Name: Become an Initiate
+### Objective: Prove your worth to the Brotherhood of Steel to join as an Initiate.
+### First Tasks: Speak with Cabbot at the entrance of the Brotherhood bunker., Accept the challenge to retrieve a holodisk from the Glow., Survive the journey to the Glow and retrieve the required holodisk.
+### First Task Locations: Brotherhood of Steel Bunker - The heavily fortified headquarters of the Brotherhood of Steel., The Glow (West Tek Research Facility) - An irradiated pre-war research complex filled with dangerous obstacles.
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: Brotherhood of Steel Membership - Grants access to the Brotherhood facilities and resources. (amount: NONE), Experience Points - Earned upon successful completion. (amount: 1500)
+### Characters: NONE
+### Tools: Radiation Protection Gear, Rope (to access lower levels of the Glow), Holodisk Reader (optional)
+### Description: The Brotherhood of Steel requires proof of dedication before accepting new members. To join, you must retrieve a holodisk from the Glow, a dangerous and heavily irradiated pre-war research facility.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: Fallout
+### Motivation: NONE

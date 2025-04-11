@@ -1,0 +1,15 @@
+### Quest Name: Stop Officer Jack from Blowing Up the Power Plant
+### Objective: Prevent Officer Jack from sabotaging the power plant in NCR.
+### First Tasks: Locate Officer Jack near the NCR power plant., Decide on an approach—persuasion, combat, or stealth., Disarm any explosives if already planted.
+### First Task Locations: NCR Power Plant - Officer Jack is attempting to sabotage the plant, causing potential destruction.
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: Caps - Payment from NCR for preventing disaster. (amount: NONE), Experience Points - XP for successfully stopping Officer Jack. (amount: NONE)
+### Characters: NONE
+### Tools: Speech skills to convince Officer Jack to stand down., Explosives skill to safely disarm bombs if placed., Combat readiness if a fight is unavoidable.
+### Description: Officer Jack has gone rogue and plans to blow up the NCR power plant. Your task is to intervene and stop him before he causes irreversible damage.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: Fallout 2
+### Motivation: NONE

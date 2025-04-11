@@ -1,0 +1,15 @@
+### Quest Name: Unearthed
+### Objective: become Ralis Sedarys' business partner in his search for the Relics of Ahzidal in Kolbjorn Barrow
+### First Tasks: give 1,000 gold to Ralis Sedarys so that he can hire some diggers from Raven Rock to dig up Kolbjorn Barrow
+### First Task Locations:  - outside Kolbjorn Barrow
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - once there is something worth looking at, Ralis Sedarys sends word to the player (amount: 1)
+### Characters: NONE
+### Tools: the ash storms fill up Kolbjorn Barrow faster than Ralis Sedarys can dig
+### Description: The name's Ralis. Ralis Sedarys, out of Mournhold. I've got a financier waiting for me back on the mainland. Sent me here in the interests of obtaining some rare antiquities. The 'Relics of Ahzidal.' But this whole thing became a disaster right quick, let me tell you. You come out to the northern ashlands, you don't expect things to go easy, you know? But this was something outside my particular expertise. When I first got to Kolbjorn, you couldn't even see it. Buried in the ash, like most other things on this blasted island. Dug out a pile of the stuff taller than me just to find the barrow. Who knows how much to reach the door. Excavating isn't exactly my specialty. Even if it was, the ash storms fill it in faster than you can dig. Could you become my business partner? We can sort out the details of our little arrangement later, but for now, I'll manage the dig if you can manage the coin. When you have 1,000 gold for me, I'll head back to Raven Rock and round up some diggers. Once we've got something worth looking at, I'll send word to you.
+### Locations: Kolbjorn Barrow - an ancient tomb buried in ash in the northern ashlands of Solstheim (location: NONE), Mournhold - a large city on the mainland (location: NONE), Solstheim - an island covered in ash (location: NONE), Raven Rock - a town on Solstheim (location: NONE)
+### Items: Relics of Ahzidal - rare antiquities (amount: 1),  - gold (amount: 1000)
+### Enemies: NONE
+### Groups: NONE
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

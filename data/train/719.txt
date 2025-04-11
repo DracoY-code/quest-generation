@@ -1,0 +1,15 @@
+### Quest Name: At the Summit of Miraak's Defeat
+### Objective: destroy Miraak and lift his master's shadow from the land
+### First Tasks: kill Miraak
+### First Task Locations: NONE - 
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: Miraak - the player's enemy (location: )
+### Tools: NONE
+### Description: Go. My father sacrificed himself so that you could destroy Miraak and lift his master's shadow from the land. Go, then. Kill Miraak. Do not fail.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

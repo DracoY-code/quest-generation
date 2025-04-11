@@ -1,0 +1,15 @@
+### Quest Name: Get the Map from the NCR Rangers for Vortis the Slaver
+### Objective: Retrieve a map from the NCR Rangers and deliver it to Vortis, a slaver in NCR.
+### First Tasks: Locate the NCR Rangers and find a way to acquire the map., Steal, persuade, or fight to obtain the map., Return the map to Vortis in NCR for your reward.
+### First Task Locations: NCR Ranger Safehouse - A hidden location where the NCR Rangers store sensitive information, including the map., Vortis' Hideout - A slaver base in NCR where Vortis operates.
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: Caps - Payment from Vortis upon delivering the map. (amount: 500), Slaver Reputation - Increased standing with slavers for helping Vortis. (amount: NONE)
+### Characters: NONE
+### Tools: Stealth or Lockpicking to retrieve the map undetected., Speech or Barter to convince someone to hand it over., Combat skills if fighting is necessary.
+### Description: Vortis, a slaver in NCR, wants a map currently held by the NCR Rangers. He tasks you with retrieving it through any means necessary, offering a financial reward upon completion. Be prepared for potential conflict with the Rangers if discovered.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: Fallout 2
+### Motivation: NONE

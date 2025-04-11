@@ -1,0 +1,15 @@
+### Quest Name: A Mine of Knowledge
+### Objective: recover "The Nether: Compiled Accounts of the Hellish Plane" for John
+### First Tasks: find "The Nether: Compiled Accounts of the Hellish Plane"
+### First Task Locations:  - a nearby mineshaft
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - enchanted book (amount: 1)
+### Characters: NONE
+### Tools: the player is a famous hero
+### Description: To have more tomes in my library... Now that would be incredibly lovely... Oh hero, I was just dreaming about having more precious, amazing books. Actually, you could recover a book for me. It is called "The Nether: Compiled Accounts of the Hellish Plane", and it tells about the hellish dimension your familiar with. You can find it in a nearby mineshaft. I'm willing to part from an enchanted book, should you succeed in recovering "The Nether: Compiled Accounts of the Hellish Plane".
+### Locations: NONE
+### Items: "The Nether: Compiled Accounts of the Hellish Plane" - a book about the hellish dimension the player is familiar with (amount: 1)
+### Enemies: NONE
+### Groups: NONE
+### Title: Minecraft
+### Motivation: knowledge

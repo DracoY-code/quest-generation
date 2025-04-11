@@ -1,0 +1,15 @@
+### Quest Name: Salty Sea-Dogs
+### Objective: bring Fine-Cut Void Salts back to Captain Wayfinder
+### First Tasks: find the Fine-Cut Void Salts
+### First Task Locations:  - some cave
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - good gold (amount: 1)
+### Characters: NONE
+### Tools: Captain Wayfinder's mother ran the Sea Squall as strictly as she ran the house, Captain Wayfinder's sailors lost their last trade, Fine-Cut Void Salts from the College of Winterhold, after getting drunk
+### Description: I am a sea captain by inheritance, as my men are fond of saying. Can't blame them, my mother ran the Sea Squall as strictly as she ran the house. I've been trying to find new areas of business, trying to win the sailors' respect, but I keep having problems. Take the last trade we did. Some Fine-Cut Void Salts from the College of Winterhold. Plenty of coin if you know who to sell it to. What happened to the Salts? Sailors are what happened to them. They got drunk and ended up losing the merchandise in some cave. If you're not afraid of little exploring, I'll pay good gold to get those Salts.
+### Locations: College of Winterhold - a famous college of mages (location: NONE), Sea Squall - Captain Wayfinder's ship (location: NONE)
+### Items: Fine-Cut Void Salts - valuable salts (amount: 1)
+### Enemies: NONE
+### Groups: NONE
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

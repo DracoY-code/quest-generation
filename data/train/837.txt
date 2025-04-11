@@ -1,0 +1,15 @@
+### Quest Name: The End of Order
+### Objective: fight the last battle against Jyggalag and his forces of Order
+### First Tasks: deactivate the Obelisk of Order
+### First Task Locations:  - Palace courtyard
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: None -  (amount: 1)
+### Characters: Jyggalag - a man who wants the player's Realm (location: )
+### Tools: the Captain's guards are engaging the Knights
+### Description: My Liege. I'm glad to see you. We have a developing situation that requires your attention. An Obelisk of Order has activated in the Palace courtyard. My guards are engaging the Knights as we speak. We will defend the Palace to the end of our strength, and will cast ourselves in the path of cursed Jyggalag himself should he come here. You must deactivate the Obelisk to be rid of the Knights! This will be our final battle against Jyggalag and his forces of Order!
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: Order - Jyggalag's army
+### Title: The Elder Scrolls IV: Oblivion
+### Motivation: NONE

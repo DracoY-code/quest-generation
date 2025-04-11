@@ -1,0 +1,15 @@
+### Quest Name: A Son Missing
+### Objective: find out what happened to Bedlen Daglefodd
+### First Tasks: look for Bedlen Daglefodd
+### First Task Locations: NONE - 
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: Bedlen Daglefodd - Therndle Daglefodd's son (location: )
+### Tools: Therndle Daglefodd cannot work without knowing his sons fate
+### Description: I'm Therndle Daglefodd, a merchant. My child, Bedlen Daglefodd, has been missing for a tunnel's worth of digging. I simply cannot work without knowing his fate. Could you have a look for him?
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: Baldur's Gate II: Shadows of Amn
+### Motivation: NONE

@@ -1,0 +1,15 @@
+### Quest Name: Forgotten Books
+### Objective: bring ancient Falmer tomes to Urag gro-Shub
+### First Tasks: find more ancient Falmer tomes
+### First Task Locations: Skyrim - a province
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - per ancient Falmer tome (amount: 1000),  - a translated edition of each brought Falmer tome (amount: 1)
+### Characters: NONE
+### Tools: the player is presenting an ancient Falmer tome to Urag gro-Shub and asking if Urag gro-Shub is interested in buying it
+### Description: Well, well. I haven't seen one of these beauties in a long time. A rare find in the original Falmer language. You're damn right I'm interested. Question is, are you selling? Well, considering no one else in Skyrim would buy something they couldn't possibly read, I'd say you don't have much of a choice. Tell you what, you bring me books like this, and I'll pay a thousand gold each. I'll even throw in a translated edition I have for free. If you're holding out for more gold, it's never going to happen.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: Falmer - an ancient race of people
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

@@ -1,0 +1,15 @@
+### Quest Name: Coming Out Ahead
+### Objective: save the Bronze Head of Grunnheim from destruction by Sturmbeorn
+### First Tasks: recover the Bronze Head of Grunnheim
+### First Task Locations:  - the temple, houses thousands of years of historical artifacts and documents, overrun by the Sturmbeorn
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: NONE
+### Tools: NONE
+### Description: We are relatively safe here, but the brutish Sturmbeorn will surely destroy everything that isn't made of gold! The temple is home to thousands of years of historical artifacts and documents, and it grieves me immeasurably to think of all of those treasures lost! We were able to gather up some of the artifacts, as we fled, but the Bronze Head of Grunnheim was left behind! Please, find it! Some of its records are the only accounts we have of major historic events!
+### Locations: NONE
+### Items: Bronze Head of Grunnheim - an artifact that contains records, some of which are the only accounts of major historic events (amount: 1)
+### Enemies: NONE
+### Groups: Sturmbeorn - brutish bandits who only value gold
+### Title: Torchlight II
+### Motivation: NONE

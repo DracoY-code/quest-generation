@@ -1,0 +1,15 @@
+### Quest Name: Umaril the Unfeathered
+### Objective: defeat Umaril the Unfeathered and kill him for good, in both the physical and spiritual planes
+### First Tasks: find Umaril the Unfeathered
+### First Task Locations: Garlas Malatar - an ancient temple
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: Pelinal Whitestrake - the legendary male knight who killed Umaril the Unfeathered once before (location: ), Umaril the Unfeathered - an evil male elf (location: )
+### Tools: the player is an embodiment of Pelinal Whitestrake, Umaril the Unfeathered's Daedric nature allows his spirit to escape into Oblivion after death
+### Description: Hear my final passings of praise and wisdom! You have stepped from the humble shadows of obscurity and into legend. No feat you have accomplished in your life compares to what you have become. You are an embodiment of Pelinal Whitestrake, the bane of Umaril the Unfeathered. The time has come for you to fulfill your destiny. Umaril lies hid in the ancient fane of Garlas Malatar. You must go there and destroy him. Umaril's Daedric nature allows his spirit to escape into Oblivion after death. This is what Pelinal learned upon defeating Umaril the first time. You must first kill his living body. While beyond the power of most mortals, this is only the lesser of your two tasks. It will allow you to follow Umaril into the spirit realm upon his death. It will allow you to destroy him, body and soul, utterly and for all time.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: The Elder Scrolls IV: Oblivion
+### Motivation: NONE

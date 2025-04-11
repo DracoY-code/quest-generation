@@ -1,0 +1,15 @@
+### Quest Name: The Pale Lady
+### Objective: Find out what happened in Frostmere Crypt
+### First Tasks: go deeper into Frostmere Crypt
+### First Task Locations: Frostmere Crypt - a crypt that contains a whole forest with a big old monument out in the center
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: Pale Blade - a sword from Frostmere Crypt (amount: 1)
+### Characters: Kyr - a male bandit leader (location: Frostmere Crypt), Ra'jirr - a tough male bandit (location: Frostmere Crypt), Pale Lady - a swamp lady who abducts children at night (location: Frostmere Crypt)
+### Tools: Kyr's bandit gang dug up Frostmere Crypt: Kyr took the Pale Blade from the monument within, Ra'jirr keeps muttering about a Pale Lady, who is going to kill all of Kyr's bandits if they do not return the Pale Blade
+### Description: Eisa's Journal by Eisa Blackthorn  Night shift woke me to say they'd hit something big. Kyr, Ra'jirr, and I went down to take a look. It's huge, like a whole forest was just swallowed up by the earth, with a big old monument out in the center. Kyr took a sword from the monument as a trophy and dubbed it the "Pale Blade", proof his whole plan was finally paying off. For once, he might be right.  Ra'jirr's been having nightmares over the past few days. He keeps muttering about a "Pale Lady" - one of those swamp women who steal children away at night, I think. To think some fool story could turn the toughest bandit I know into a cowering kitten, frightened of his own shadow. I'm just glad none of the others see him like this.  It's getting worse. Ra'jirr can barely sleep at all now, and whenever he dozes off, he wakes up screaming - woke the whole place last night. He says the "Pale Lady" is coming for us - she's down in the forest, we have to return the sword or she'll kill us all. Not a chance - the boss clings to that thing like he was born with it. I've told everyone Ra'jirr just has a fever, but this can't go on. I've pulled a few things together. I'll slip out tonight and never look back.
+### Locations: NONE
+### Items: "Eisa's Journal" - Eisa Blackthorn's journal (amount: 1)
+### Enemies: NONE
+### Groups: NONE
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

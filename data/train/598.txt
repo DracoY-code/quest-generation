@@ -1,0 +1,15 @@
+### Quest Name: Shadow of the Skara
+### Objective: help the Zeraphi any way you can
+### First Tasks: search for surviving Zeraphi
+### First Task Locations: Swarm Point - a Skara nest
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: NONE
+### Tools: Hareph and his Zeraphi crew came to the outpost to deal with the Skara: the crew went to investigate the stacks and never came back, Hareph gives the player explosives
+### Description: I'm so relieved you have arrived! My crew and I journeyed to this outpost to deal with the increasingly aggressive Skara. I remained here to fashion additional explosives while my crew investigated the stacks, but they never returned. I have been unable to leave here because of the swarming Skara. Please take these explosives with you and journey to Swarm Point, and search for any surviving Zeraphi and help them in any way you can!
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: Skara - aggressive, dangerous, flying insects, Zeraphi - a race of people
+### Title: Torchlight II
+### Motivation: NONE

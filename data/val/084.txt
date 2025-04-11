@@ -1,0 +1,15 @@
+### Quest Name: Fit for a Jarl
+### Objective: promote the Radiant Raiment to Jarl Elisif
+### First Tasks: wear one of the Radiant Raiment's outfits, and speak to Elisif about it
+### First Task Locations: Blue Palace - Elisif's palace
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - the player gets to keep the Radiant Raiment outfit, and Taarie pays the player (amount: 1)
+### Characters: Elisif - the female Jarl of Solitude (location: Blue Palace)
+### Tools: the player told Taarie that the player is going to the Blue Palace
+### Description: You're really going to the Blue Palace? That presents an opportunity. If you were willing to wear one of Radiant Raiment's outfits and speak to the Jarl I would not only pay you but let you keep the outfit. Here's the outfit. Try to get Jarl Elisif's opinion on it and if she likes it mention it's from Radiant Raiment.
+### Locations: Solitude - a city (location: NONE), Radiant Raiment - a clothing store (location: NONE)
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

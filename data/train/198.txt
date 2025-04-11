@@ -1,0 +1,15 @@
+### Quest Name: Few and Far Between
+### Objective: help Ingun Black-Briar restock rare ingredients
+### First Tasks: find 20 deathbell, 20 nightshade, and 20 nirnroot
+### First Task Locations: NONE - 
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: Elgrim - a male master alchemist (location: )
+### Tools: NONE
+### Description: I'm aspiring to earn the title of an alchemist. However, the road ahead is paved with loose cobbles and deadly pitfalls. Master Elgrim says I'm a natural; that I have a unique talent. But I fear his approval masks his intolerance for my mistakes. My errant formulas have cost Master Elgrim a fortune in ingredients; some of which are almost irreplaceable. To restore Master Elgrim's supply I would need 20 deathbell, 20 nightshade and 20 nirnroot. Am I sensing that you may be interested in gathering these rare ingredients for me? That means more time for my experiments and less time in the field. Much appreciated.
+### Locations: NONE
+### Items: deathbell - a rare alchemy ingredient (amount: 20), nightshade - a rare alchemy ingredient (amount: 20), nirnroot - a rare alchemy ingredient (amount: 20)
+### Enemies: NONE
+### Groups: NONE
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

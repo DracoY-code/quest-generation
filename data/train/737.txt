@@ -1,0 +1,15 @@
+### Quest Name: Hunting the Monster
+### Objective: destroy a vampire
+### First Tasks: visit the vampire's contact, and find out where the vampire is hiding
+### First Task Locations: NONE - 
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: NONE
+### Tools: NONE
+### Description: I've learned of a possible vampire. And while I do not know its exact whereabouts, I do have information suggesting someone who does. Pay a visit to the beast's last known contact. Do what you must to find where it's hiding now. Then root out the monster, and destroy it.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: Dawnguard - an organization of vampire hunters
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

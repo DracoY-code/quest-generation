@@ -1,0 +1,15 @@
+### Quest Name: The Queen's Sword
+### Objective: retrieve High Queen Freydis' sword for Oengul War-Anvil
+### First Tasks: find High Queen Freydis' sword
+### First Task Locations: Cronvangr Cave - a cave
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - Oengul War-Anvil would be grateful (amount: 1)
+### Characters: High Queen Freydis - a queen who ruled over Windhelm in the Second Era, had a legendary sword (location: )
+### Tools: the player asked Oengul War-Anvil whether he is the castle blacksmith, Oengul War-Anvil is working an a sword: the Jarl of Windhelm wants it to look like High Queen Freydis' sword
+### Description: Of course I am the castle blacksmith. What do I look like, a tavern wench? Ah, don't let my words cut you too deep. I've just been working the forge too hard. Trying to set this sword right. Jarl wants it to look like an ancient blade. High Queen Freydis ruled over Windhelm in the Second Era, and her sword was legendary. Getting the real sword would be even better than making a copy, but no one wants to risk getting it from its resting place, Cronvangr Cave. If you find that sword, traveler, I'd be grateful.
+### Locations: Windhelm - a city (location: NONE)
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

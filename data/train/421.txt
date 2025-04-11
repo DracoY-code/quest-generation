@@ -1,0 +1,15 @@
+### Quest Name: A Mammoth Powered Startup
+### Objective: bring Ysolda a mammoth's tusk
+### First Tasks: find a mammoth's tusk
+### First Task Locations: NONE - 
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - Ysolda teaches the player trading (amount: 1)
+### Characters: Ma'dran - one of the caravan leaders (location: )
+### Tools: Ma'dran would help Ysolda start her own business for a mammoth's tusk
+### Description: I'm Ysolda. Before my ma and da passed, I told them that one day, I'd become the best trader in Skyrim. I met one of the caravan leaders, Ma'dran. He said he'd help get me started if I could bring him a mammoth's tusk. Easier said than done. If you find one, I could teach you a thing or two about trading. Help you get a fair bargain in the future.
+### Locations: Skyrim - a province (location: NONE)
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

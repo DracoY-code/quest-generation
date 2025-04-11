@@ -1,0 +1,15 @@
+### Quest Name: Regroup at the Enclave
+### Objective: plan your next move with Commander Vale
+### First Tasks: return to the Estherian Enclave
+### First Task Locations: Estherian Enclave - a settlement
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: Commander Vale - a female military leader (location: ), Alchemist - an evil man (location: )
+### Tools: the Alchemist gets more dangerous each time he siphons off energy from Guardians
+### Description: The Alchemist must be stopped before he attacks any more Guardians! Each time he siphons off our energy, he becomes more dangerous. You and Commander Vale should return the Estherian Enclave, and plan your next move.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: Guardians - powerful spirits
+### Title: Torchlight II
+### Motivation: NONE

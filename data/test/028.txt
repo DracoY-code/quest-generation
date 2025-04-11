@@ -1,0 +1,15 @@
+### Quest Name: Another Mission for the Temple of Talos
+### Objective: get the Dawn Ring from Travin and bring it to Talon Yarryl
+### First Tasks: find Travin
+### First Task Locations:  - the slums at night
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: Talos - the evil god of thunder and destruction (location: ), Travin - a male thief (location: the slums at night), Stormherald Nallabir - a male priest of Talos (location: the Government District)
+### Tools: Stormherald Nallabir lost this past tenday's theological debate to a a representative of the Lathanderian temple in the Government District, the temple of Talos hired Travin to steal a Dawn Ring from the Lathanderian temple
+### Description: It's Talon Yarryl, priest of Talos. I have a chore for you that may prove interesting. This is not a matter of negotiation or exploration. No, now you are to face true enemies of Talos. Slanderous words have been said. Things did not go well for Stormherald Nallabir at this past tenday's theological debate in the Government District. The growing arrogance of the Lathanderian church is distasteful. Talos should be feared; their irreverence is insulting. We have hired a thief, and he has stolen a Dawn Ring from the Lathanderian temple. Find Travin in the slums at night, collect the ring, and return it here. Remember that the honor of Talos rests upon your shoulders.
+### Locations: NONE
+### Items: Dawn Ring - a ring (amount: 1)
+### Enemies: NONE
+### Groups: Lathanderian temple, Lathanderian church - a church that does not respect Talos
+### Title: Baldur's Gate II: Shadows of Amn
+### Motivation: NONE

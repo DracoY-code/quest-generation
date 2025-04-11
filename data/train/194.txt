@@ -1,0 +1,15 @@
+### Quest Name: Wash Away My Sins
+### Objective: set Edovar free
+### First Tasks: return the Glyph of Balthazar
+### First Task Locations: Wellspring Basin - a temple
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: NONE
+### Tools: Edovar stole the Glyph of Balthazar from the Wellspring Basin: he died while trying to use the Glyph of Balthazar and was trapped drowning forever
+### Description: I am merely spirit, but I mean you no harm. In life, I was an ambitious thief, and I thought I was invincible. My greatest achievement was when I stole the Glyph of Balthazar from the Wellspring Basin. I thought I could master its power over water, but I was very, very wrong. Now I am trapped here in eternal torment, drowning forever, unable to rectify my mistake. Will you return the Glyph of Balthazar to the Wellspring Basin, and set my spirit free at last?
+### Locations: NONE
+### Items: Glyph of Balthazar - an artifact that has power over water (amount: 1)
+### Enemies: NONE
+### Groups: NONE
+### Title: Torchlight II
+### Motivation: NONE

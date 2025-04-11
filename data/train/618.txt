@@ -1,0 +1,15 @@
+### Quest Name: Loud and Clear
+### Objective: teach Aringoth a lesson
+### First Tasks: burn down three bee hives without burning the whole Goldenglow Estate down, and clear out the safe in the main house of the Goldenglow Estate
+### First Task Locations: Goldenglow Estate - a bee farm
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: Aringoth - an arrogant wood elf man who owns the Goldenglow Estate (location: Goldenglow Estate), Maven - a powerful woman with criminal connections (location: ), Mercer - the man who leads the Thieves Guild (location: )
+### Tools: the Thieves Guild had an arrangement with Maven: the Thieves Guild kept an eye on Goldenglow Estate to make sure the honey kept flowing, and Maven allowed the Thieves Guild to extort Aringoth and bring in a huge payout, Aringoth stopped sending the Thieves Guild extortion money: Mercer was angry, the player may kill Aringoth, but Maven would prefer him alive
+### Description: Goldenglow Estate is a bee farm; they raise the wretched little things for honey. It's owned by some smart-mouth wood elf named Aringoth. We had an arrangement with Maven. We kept an eye on Goldenglow Estate to make sure the honey kept flowing. In return, Maven allowed us to extort Aringoth and bring in a huge payout. Goldenglow Estate brought in a mountain of gold for the Guild. You could almost call it our sweetest deal. Then out of the clear blue, Aringoth stops sending us our cut. Mercer was... well, angry to put it kindly. We need you to teach Aringoth a lesson by burning down three of the estate's hives and clearing out the safe in the main house. The catch is that you can't burn the whole place to the ground. Maven would be furious if you did. She also prefers that Aringoth remains alive, but if he tries to stop you from getting the job done, kill him. The Guild has a lot riding on this. Don't make me look foolish by mucking it up.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: Thieves Guild - a guild of thieves
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

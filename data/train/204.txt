@@ -1,0 +1,15 @@
+### Quest Name: Prophet
+### Objective: find a way to read Serana's Elder Scroll
+### First Tasks: ask the wizards about reading Elder Scrolls
+### First Task Locations: College of Winterhold - a college for mages
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: NONE
+### Tools: Serana has a large Elder Scroll on her back: Serana's Elder Scroll will have something that can help the player and Serana stop Serana's father, the moth priests of Cyrodiil are the only people who can read Elder Scrolls
+### Description: So, in case you didn't notice the giant thing on my back, I have an Elder Scroll with me. Whatever it says, it will have something that can help us stop my father. But of course, neither of us can read it. The Moth Priests are the only ones I've heard of who can do it. They spend years preparing before they start reading, though. Not that it helps us anyway, because they're all half a continent away in Cyrodiil. The College of Winterhold was the first place I'd think to go for any kind of magic or historical thing. The wizards there know about all kinds of things that people probably shouldn't know about.
+### Locations: Cyrodiil - a province half a continent away from the player and Serana (location: NONE)
+### Items: Elder Scrolls - mysterious scrolls used in divining prophecies (amount: 1)
+### Enemies: NONE
+### Groups: NONE
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

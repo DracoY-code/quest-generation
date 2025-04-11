@@ -1,0 +1,15 @@
+### Quest Name: Steal Neal's Urn
+### Objective: Steal Neal's cherished urn from his bar.
+### First Tasks: Locate Neal’s bar in Junktown., Find the urn’s exact location inside the bar., Stealthily steal the urn without getting caught.
+### First Task Locations: Neal’s Bar - A bar in Junktown owned by Neal, where the urn is kept.
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: Neal’s Urn - A sentimental object belonging to Neal. (amount: 1)
+### Characters: NONE
+### Tools: Sneak, Lockpick
+### Description: The player must steal Neal’s prized urn without alerting him or other Junktown residents. The consequences of being caught may lead to hostilities.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: Fallout
+### Motivation: NONE

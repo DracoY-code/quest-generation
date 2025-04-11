@@ -1,0 +1,15 @@
+### Quest Name: Listen to Stacy's kitty story
+### Objective: Hear Stacy's story about her lost cat.
+### First Tasks: Find Stacy in The Den., Talk to her and listen to her story.
+### First Task Locations: The Den - A town filled with thieves, traders, and drifters, where Stacy resides.
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: A heartwarming story - No material reward, but you get to hear a touching story about Stacy's lost cat. (amount: NONE)
+### Characters: NONE
+### Tools: Patience to listen to the full story.
+### Description: Stacy, a young girl in The Den, shares a sad story about her lost cat. Taking the time to listen to her might provide insight into the harsh realities of life in The Den.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: Fallout 2
+### Motivation: NONE

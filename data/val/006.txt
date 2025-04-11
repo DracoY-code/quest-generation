@@ -1,0 +1,15 @@
+### Quest Name: Kill the Forsworn Leader
+### Objective: kill a Forsworn leader
+### First Tasks: find the Forsworn leader
+### First Task Locations: Serpent's Bluff Redoubt - a Forsworn camp
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: NONE
+### Tools: NONE
+### Description: Are you a sellsword? I don't like your kind. No honor. No loyalty. Unreliable. But I can't turn away a potential ally in these times. Let's see if you're better than a common mercenary. My scouts have tracked down one of the Forsworn leaders, hiding out in their blood-soaked camps at Serpent's Bluff Redoubt. Deal with that Forsworn leader.
+### Locations: Markarth - a city (location: NONE)
+### Items: NONE
+### Enemies: NONE
+### Groups: Forsworn - savages practicing banditry
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

@@ -1,0 +1,15 @@
+### Quest Name: Speaking With Silence
+### Objective: catch Karliah
+### First Tasks: find Karliah with Mercer Frey
+### First Task Locations: Snow Veil Sanctum - ruins
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: Karliah - an intelligent female thief, on the run from the Thieves Guild (location: Snow Veil Sanctum)
+### Tools: the player agreed to meet Mercer Frey outside Snow Veil Sanctum, Mercer Frey found Karliah's horse and killed it
+### Description: Good, you're finally here. I've scouted the ruins and I'm certain Karliah is still inside. I did not find her in flesh. No, I found her horse. Don't worry, I've taken care of it... she won't be using it to escape. Let's get moving, I want to catch her inside while she's distracted. Take the lead. Just make certain you keep your eyes open. Karliah is as sharp as a blade. The last thing I need is you blundering into a trap and warning her that we're here.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: Thieves Guild - a guild of thieves
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

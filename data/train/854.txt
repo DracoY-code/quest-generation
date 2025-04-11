@@ -1,0 +1,15 @@
+### Quest Name: On the Alchemist's Trail
+### Objective: stop the Alchemist
+### First Tasks: go after the Alchemist
+### First Task Locations: Broken Mines - mines
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: Alchemist - the player's desperate male enemy (location: Broken Mines)
+### Tools: the Alchemist went into the Broken Mines: he is nearing his goal
+### Description: This is the only entrance to the Broken Mines that we've found, so the Alchemist is almost certainly in there. That probably means he's near his goal, whatever that is... and that means he'll do everything he can to keep you from stopping him. He'll be even more desperate, more dangerous. I don't know what we'll encounter in there.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: Torchlight II
+### Motivation: NONE

@@ -1,0 +1,15 @@
+### Quest Name: Medical Breakthrough?
+### Objective: bring Edward's special healing potion to Pope
+### First Tasks: find Pope
+### First Task Locations: Hamlet-By-The-Grass - a village
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - a small compensation from Pope (amount: 1)
+### Characters: Pope - a male cleric (location: Hamlet-By-The-Grass)
+### Tools: NONE
+### Description: I used to be an adventurer. I braved the depths of this world like no one else before me. I still have one of my healing potions as a memento from those days of glory. That potion is quite special... Now that I think of it, the local cleric, Pope, might want to examine it for its peculiar properties. He could make some potent healing potions after researching my special potion. Could you please find him, and give him the potion? The cleric will surely give you a small compensation fee.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: Minecraft
+### Motivation: knowledge

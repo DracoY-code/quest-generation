@@ -1,0 +1,15 @@
+### Quest Name: Up In Smoke
+### Objective: put the slavers out of the picture for good
+### First Tasks: burn down the slavers' houses
+### First Task Locations: Slavers' Camp - home of the slavers who have been harassing the Estherians, in the Frosted Hills
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: NONE
+### Tools: the player freed Elder Josimon from the slavers: he had recovered the Passkey Ember from them, but they captured him
+### Description: Thank you for rescuing me. I had recovered the Passkey Ember from these slavers, but they captured me as I was trying to return to the Enclave. I could use your help with one small matter before you go. These slavers have been harrying the Estherians for several weeks now. You defeated many, but there are many more watching us from the safety of those huts. Burn them out! If they are allowed to remain, the Frosted Hills will never be safe.
+### Locations: Frosted Hills - hills (location: NONE)
+### Items: NONE
+### Enemies: NONE
+### Groups: Estherians - a race of people
+### Title: Torchlight II
+### Motivation: NONE

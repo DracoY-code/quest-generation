@@ -1,0 +1,15 @@
+### Quest Name: Monsters Under Bed?
+### Objective: see that Ron's home is safe, and report to Ron
+### First Tasks: check that there's nothing dangerous inside
+### First Task Locations:  - Ron's home
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - an emerald (amount: 1)
+### Characters: NONE
+### Tools: NONE
+### Description: I don't feel safe in my own home. No one in this village believes me, when I tell them that something's observing me while I'm at home. Traveler, would you like to earn an emerald? You just have to verify that there's nothing dangerous in my home. Just see that my home is safe, and tell me what you've uncovered. This paranoia is weighting heavily on me...
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: Minecraft
+### Motivation: knowledge

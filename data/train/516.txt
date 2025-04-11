@@ -1,0 +1,15 @@
+### Quest Name: It's All in the Taste
+### Objective: spread the word about Geldis Sadri's new Sujamma
+### First Tasks: distribute 10 Sadri's Sujamma to people
+### First Task Locations: NONE - 
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - something extra (amount: 1)
+### Characters: NONE
+### Tools: NONE
+### Description: The house specialty is the finest Sujamma to cross your lips, friend. My own personal formula that I call 'Sadri's Sujamma'. In fact, I've just added some new ingredients to the mixture that I think makes it taste better than ever. All I need to do is get the word out that it's ready and they'll flock here for it. Here, take these ten samples of the Sujamma and spread the word. If you get rid of all of them, there's something extra in it for you.
+### Locations: NONE
+### Items: Sadri's Sujamma - Geldis Sadri's special Sujamma (amount: 10), Sujamma - an alcoholic beverage (amount: 1)
+### Enemies: NONE
+### Groups: NONE
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

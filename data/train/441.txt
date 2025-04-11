@@ -1,0 +1,15 @@
+### Quest Name: Revenge Served Cold
+### Objective: find Kayleen's jade amulet that was stolen by goblins, and bring it back to Corrick Northwode
+### First Tasks: avenge Kayleen by killing the goblins that killed her
+### First Task Locations: Exhausted Mine - a goblin den
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - gems (amount: 6)
+### Characters: Kayleen - Corrick Northwode's dead wife (location: )
+### Tools: goblins killed Kayleen while Corrick Northwode was away on business
+### Description: Please... I implore you, help me, Corrick Northwode, avenge my wife's death! Barely a week ago, I left Harm's Folly to go buy supplies as I usually do once a month. What a fool I was to leave my wife alone. The goblins must have been watching me, as they knew right when to strike. I could hear her screams from far away. Those wretched beasts killed her! Filthy animals! Had I only been there to stop them! I'll tell you how you can help. Go to Exhausted Mine. Kill those goblins. Every last one of them! They destroyed everything I hold dear! In their greed, the creatures grabbed a jade amulet off of Kayleen's... body. Bring me back that amulet, so I may use it to remember her by. Please, I'll give you six gems as a token of my gratitude. They're all I have left of value, but you must have them if you do the deed.
+### Locations: Harm's Folly - Corrick Northwode's home village (location: NONE)
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: The Elder Scrolls IV: Oblivion
+### Motivation: NONE

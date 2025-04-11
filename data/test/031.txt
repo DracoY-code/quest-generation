@@ -1,0 +1,15 @@
+### Quest Name: Enter the Door
+### Objective: recover the Crown from Thiss, and bring it to Robot Eye
+### First Tasks: find Thiss
+### First Task Locations: Forgotten Halls - a dungeon
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - the player will be allowed through the door (amount: 1)
+### Characters: Thiss - a great spectral dragon who stole the Crown from Robot Eye (location: Forgotten Halls)
+### Tools: the player told Robot Eye that the player wants to go through the door
+### Description: You want through THIS door? Ha! Well, it's not as simple as that. Everything has a price - you must know that by now. If you can solve a problem for us, we will solve a problem for you by letting you through the door. Thiss, the great Spectral Dragon, has kept something of ours for many long years. We would like it back - and you will get it for us, oh yes. There is a Crown, a... family heirloom that he stole from us. He will not give it up easily, of course. But this door is im-PENETRABLE - so you've got a much better chance with Thiss than you do waiting around here. You can find Thiss in the Forgotten Halls... good luck! You're going to need it.
+### Locations: NONE
+### Items: Crown - Robot Eye's family heirloom (amount: 1)
+### Enemies: NONE
+### Groups: NONE
+### Title: Torchlight II
+### Motivation: NONE

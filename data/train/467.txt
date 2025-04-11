@@ -1,0 +1,15 @@
+### Quest Name: Served Cold
+### Objective: search Raven Rock and root out traitors who want to assassinate Councilor Morvayn
+### First Tasks: talk to Geldis Sadri and check out any leads he provides you
+### First Task Locations: Retching Netch Cornerclub - a bar in Raven Rock
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: Councilor Morvayn - the nobleman who rules over Raven Rock, a member of House Redoran (location: Raven Rock), Geldis Sadri - a knowledgeable barkeeper (location: Retching Netch Cornerclub)
+### Tools: the player has helped Raven Rock before, the Ulen Family has placed a deathmark on Councilor Morvayn's head
+### Description: After everything you've already done for Raven Rock, I hate to ask for more but I can't risk Councilor Morvayn being killed. The Ulen Family of House Hlaalu, a rival Great House, has placed a deathmark on the Councilor's head. I need you to start out by being my eyes and ears... search Raven Rock and see if you can root out these traitors. The best place to start would be Geldis Sadri over at the Retching Netch Cornerclub. If he provides you any leads, check them out before bringing them to my attention. I can't afford to make any mistakes.
+### Locations: Raven Rock - a city (location: NONE)
+### Items: NONE
+### Enemies: NONE
+### Groups: House Redoran - an honorable great house, House Hlaalu - a dishonorable great house, rivals of House Redoran, Ulen Family - a family belonging to House Hlaalu
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

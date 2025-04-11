@@ -1,0 +1,15 @@
+### Quest Name: Lethal Competition
+### Objective: assassinate Beitild
+### First Tasks: find Beitild
+### First Task Locations: Dawnstar - a mining town
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: Beitild - an angry and desperate female mine owner (location: Dawnstar)
+### Tools: Beitild and her ex-husband run competing mining operations in Dawnstar
+### Description: Someone has contracted us to kill Beitild. She separated from her husband several months ago. Now the two run competing mining operations in Dawnstar. I hear the mining business is extremely cutthroat. And those hours... they're murder. Beitild's angry and desperate. A fighter.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

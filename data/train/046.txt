@@ -1,0 +1,15 @@
+### Quest Name: Mead for Elmus
+### Objective: retrieve one bottle of Ashfire Mead for Elmus
+### First Tasks: grab a bottle of Ashfire Mead
+### First Task Locations: Thirsk Mead Hall - a mead hall
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: NONE
+### Tools: the player asked Elmus if they could help him
+### Description: Actually, now that I think of it, I have been missing the Ashfire Mead. It's a special brew that we make at Thirsk. If you could... somehow... get up there and grab a bottle, I'd be a long way towards forgetting how miserable it is down here.
+### Locations: NONE
+### Items: Ashfire Mead - a special brew made at Thirsk Mead Hall (amount: 1)
+### Enemies: NONE
+### Groups: NONE
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

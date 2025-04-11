@@ -1,0 +1,15 @@
+### Quest Name: Fix the Broken T-51b Power Armor
+### Objective: Repair a damaged T-51b Power Armor suit to restore its functionality.
+### First Tasks: Examine the damaged T-51b Power Armor to assess required repairs., Gather the necessary components for repair., Find a skilled technician or use repair skills to fix the armor.
+### First Task Locations: Brotherhood of Steel Bunker - A possible location where advanced repair facilities and technicians may be found., The Glow - An old military research facility where high-tech components might be scavenged.
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: T-51b Power Armor - A fully functional suit of power armor with high durability and defense. (amount: NONE), Experience Points - Earned upon successfully repairing the armor. (amount: 1500)
+### Characters: NONE
+### Tools: Repair skill, Electronic components, Power armor maintenance manual
+### Description: A rare T-51b Power Armor suit has been found, but it is damaged beyond immediate use. Your task is to repair it using technical skills and scavenged parts. Succeed, and you’ll gain access to one of the best armor sets available.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: Fallout
+### Motivation: NONE

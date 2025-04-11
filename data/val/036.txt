@@ -1,0 +1,15 @@
+### Quest Name: Where Spirits Have Lease
+### Objective: purchase Benirus Manor
+### First Tasks: give 5,000 gold to Velwyn
+### First Task Locations: NONE - 
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: Benirus Manor - a manor in Anvil, across the street from the Chapel (amount: 1)
+### Characters: NONE
+### Tools: Benirus Manor belonged to Velwyn's grandfather: Velwyn is selling Benirus Manor because he has pressing matters elsewhere, the player gets the key to the front door and the deed of ownership after buying Benirus Manor
+### Description: I'm Velwyn. You wouldn't happen to be in the market for a home would you? If you are, I just happen to be selling a manor located right here in Anvil. I'm selling my grandfather's house, Benirus Manor. If you're interested, I could let you have it for a modest sum, 5,000 gold. I have to sell it soon, as I have pressing matters elsewhere. You're welcome to take a look at it. It is located across the street from the Chapel. Once you buy, you get the key to the front door and the deed of ownership. That's the deal.
+### Locations: Anvil - a city (location: NONE)
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: The Elder Scrolls IV: Oblivion
+### Motivation: NONE

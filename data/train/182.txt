@@ -1,0 +1,15 @@
+### Quest Name: Awakening
+### Objective: find out what vampires are looking for at Dimhollow Crypt
+### First Tasks: meet Tolan, who will try to assist you
+### First Task Locations: Dimhollow Crypt - an ancient crypt
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: Tolan - a male member of the Vigilants of Stendarr (location: Dimhollow Crypt)
+### Tools: the Dawnguard are getting the Dawnguard Fortress back into shape, Isran gives the player a crossbow: crossbows are good for hunting vampires before they get too close
+### Description: I need someone out in the field, taking the fight to the damn vampires, while we're getting the fort back into shape... Go see what the vampires were looking for in Dimhollow Crypt. With any luck, they'll still be there. Here, you should take a crossbow. Good for hunting out those fiends before they get too close. Tolan'll meet you at Dimhollow. He will try to assist you. Watch out. Vigilants of Stendarr were never trained for vampire hunting...
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: Dawnguard - an organization of vampire hunters, Vigilants of Stendarr - an order of holy warriors
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

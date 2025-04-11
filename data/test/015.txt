@@ -1,0 +1,15 @@
+### Quest Name: March of the Dead
+### Objective: stop the ash spawn attacks on Raven Rock
+### First Tasks: search for clues about where the ash spawn come from
+### First Task Locations:  - an old farm
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: NONE
+### Tools: the player saved Captain Veleth's life: his guardsman was killed by an ash spawn though, the ash spawn have been coming from this direction to Raven Rock
+### Description: Thanks... I wasn't sure I'd make it off this farm alive. I wish I could have said the same for my man here. Some of the Redoran Guard have taken to calling them "ash spawn". Me? I don't care what they're called... all I know is they're a danger to Raven Rock and they need to be stopped. I was going to search for clues that might lead me to wherever they're coming from. I know it isn't the best place to start, but we know they've been coming from this direction. Could you lend me a hand? We were searching the farm when the ash spawn ambushed us. Have a look around and see if you can turn up anything useful.
+### Locations: Raven Rock - a town ruled by the Redoran (location: NONE)
+### Items: NONE
+### Enemies: NONE
+### Groups: Redoran - a noble family
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

@@ -1,0 +1,15 @@
+### Quest Name: Before the Storm
+### Objective: inform Balgruuf about the dragon in Helgen
+### First Tasks: find Balgruuf
+### First Task Locations: Whiterun - a city
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - Alvor will be in the player's debt (amount: 1)
+### Characters: Balgruuf - the Jarl of Whiterun (location: Whiterun)
+### Tools: the player told Alvor that there was a dragon in Helgen
+### Description: What? A dragon? In Helgen? That explains what I saw earlier... a dragon flying down from the south... I was hoping I was wrong about what I thought it was... Didn't want to believe my own eyes, is all. The Jarl needs to know if there's a dragon on the loose. Riverwood is defenseless... We need to get word to Jarl Balgruuf in Whiterun to send whatever soldiers he can. If you'll do that for me, I'll be in your debt.
+### Locations: Riverwood - a defenseless village (location: NONE), Helgen - a village that was destroyed by a dragon (location: NONE)
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

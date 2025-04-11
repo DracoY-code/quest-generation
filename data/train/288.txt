@@ -1,0 +1,15 @@
+### Quest Name: The Growing Rift
+### Objective: see whether the Rift is closed; if not, close it
+### First Tasks: find the Rift
+### First Task Locations: Gravedeep - a pit mine in the Sundered Battlefield
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: NONE
+### Tools: NONE
+### Description: Listen: If you're headed out to the Sundered Battlefield, there's something you should know. We were surveying out there, and discovered some kind of... hole, in thin air, in the pit mine we've been calling Gravedeep. The hole is very small, right now, but we could see things inside... powerful things, but horrible. Malign. If you're going out there, see if you can find the hole. If we're lucky, it disappeared. But, if not, you should do your best to find a way to close it, before the things we saw get through!
+### Locations: Sundered Battlefield - an ancient battlefield (location: NONE)
+### Items: Rift - a hole between this world and the world of evil, powerful demons (amount: 1)
+### Enemies: NONE
+### Groups: NONE
+### Title: Torchlight II
+### Motivation: NONE

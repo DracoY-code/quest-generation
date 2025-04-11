@@ -1,0 +1,15 @@
+### Quest Name: A Beer for Mironda
+### Objective: bring a cask of Halfling's Help to Mironda
+### First Tasks: get the cask from Old Vyatri
+### First Task Locations: Trademeet - a town
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - Mironda will pay the player well (amount: 1)
+### Characters: Old Vyatri - a male innkeeper (location: Trademeet)
+### Tools: Mironda is not good with names
+### Description: Name's Mironda. Pleased to see yer face and make its acquaintance. I'm no good with names; if ye can remember mine, ye've already beaten me. I forgot yers by the end of the first syllable. Maybe it's the wild mage in me comin' out, but I can't stand not tastin' something new once in a while. Most dwarves will drink the same mountain swill from crib to dust-crib, but I'm always hankering for the latest brew. Old Vyatri in Trademeet was just getting a shipment from Luiren I'd dearly love to sample. If ye happen to run by his place in yer travels, get a cask of it for me and I'll pay ye well! Can't wait to taste it. Halfling's Help, it's called — I hope it works on dwarves, too
+### Locations: Luiren - a country (location: NONE)
+### Items: Halfling's Help - beer from Luiren (amount: 1)
+### Enemies: NONE
+### Groups: NONE
+### Title: Baldur's Gate II: Shadows of Amn
+### Motivation: NONE

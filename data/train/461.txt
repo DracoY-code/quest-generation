@@ -1,0 +1,15 @@
+### Quest Name: Affordable Cooling
+### Objective: bring some ice to Caleb
+### First Tasks: find some ice
+### First Task Locations:  - snowy tundras, in frosted rivers
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - cacti (amount: 42)
+### Characters: NONE
+### Tools: the player is a known villain
+### Description: I know of your dark deeds. I do not want any trouble from you. However... if you have had a change of heart, I could use a little help. The hot desert air of this village is making me rather uncomfortable. I could stave off the heat, if I had some ice. Tell you what, bring me ice, and you may still redeem yourself, villain, and net yourself 42 cacti. Ice is commonplace in snowy tundras, in frosted rivers.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: Minecraft
+### Motivation: comfort

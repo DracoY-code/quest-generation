@@ -1,0 +1,15 @@
+### Quest Name: Raid on Greyland
+### Objective: bring Kylius Lonavo's ring as the proof of his death to Lerexus Callidus
+### First Tasks: kill Kylius Lonavo and his group of Skooma dealers
+### First Task Locations: Greyland - a house just up the road
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - the bounty on Kylius Lonavo (amount: 1)
+### Characters: Kylius Lonavo - a male Dunmer Skooma dealer (location: Greyland)
+### Tools: NONE
+### Description: Hmmm. Perhaps you'll be able to assist me. I'm after some Skooma dealers. A small group of Skooma dealers led by a Dunmer named Kylius Lonavo is holed up in the Greyland house just up the road. I've been trying to catch Lonavo for months, but every time I approach the place, his lookout sees me and he goes running. I need someone to go in there and put a stop to those fetchers. I don't care what it takes. We must get that poison they're selling off the street. Bring me Lonavo's ring as proof he's... been dealt with... and I'll give you the bounty on him. Be vigilant. Lonavo is a snake.
+### Locations: NONE
+### Items: Skooma - an illegal drug (amount: 1)
+### Enemies: NONE
+### Groups: NONE
+### Title: The Elder Scrolls IV: Oblivion
+### Motivation: NONE

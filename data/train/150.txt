@@ -1,0 +1,15 @@
+### Quest Name: Boots of Springheel Jak
+### Objective: find out where Springheel Jak is buried, and retrieve his boots for the Gray Fox
+### First Tasks: search for clues in the Earl of Imbel's house
+### First Task Locations: Imperial City - a large city
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - this quest pays well (amount: 1)
+### Characters: Springheel Jak - a famous long-dead thief (location: ), Earl of Imbel, Jakben - a man , and the last known descendant of Springheel Jak (location: Imperial City)
+### Tools: the Gray Fox has used Savilla's Stone, again, to find out that he needs another special item, the boots of Springheel Jak, to move forward with his plans, the Earl of Imbel is the last known descendant of Springheel Jak
+### Description: Further use of Savilla's Stone has revealed that I need another special item to move forward with my plans. I need the boots of Springheel Jak. He is a famous thief that died some 300 years ago. Legend has it that he was buried with his boots on. Find out where Springheel Jak is buried and bring me back those boots. Will you do this for me? It pays well. The Earl of Imbel is the only descendant of Springheel Jak's line that I have been able to locate. His name is Jakben, and he lives somewhere in the Imperial City. There might be a clue in the Earl's house.
+### Locations: NONE
+### Items: Savilla's Stone - a stone that reveals secrets to its fielder (amount: 1)
+### Enemies: NONE
+### Groups: Thieves Guild - a guild of thieves
+### Title: The Elder Scrolls IV: Oblivion
+### Motivation: NONE

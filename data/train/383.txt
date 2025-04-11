@@ -1,0 +1,15 @@
+### Quest Name: Destroying the Dawnguard
+### Objective: prevent the Dawnguard from becoming a serious threat against the vampires
+### First Tasks: kill the Dawnguard leaders
+### First Task Locations:  - an abandoned fort in the Reach
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: NONE
+### Tools: the Dawnguard will become even more of a nuisance now that Auriel's Bow has been recovered
+### Description: The Dawnguard will, no doubt, soon become even more of a nuisance now that Auriel's Bow has been recovered. We need to strike a crippling blow against them before they muster more men against us. They've holed up in an abandoned fort in the Reach. The Dawnguard are apparently focused on exterminating vampires, noble and brute alike. Not a serious threat, but we can't leave them completely unchecked or they may become one. But their time has come to an end. And you will be the one that ends it. Killing their leaders should discourage them from an out and out war with us.
+### Locations: NONE
+### Items: Auriel's Bow - a divine artifact (amount: 1)
+### Enemies: NONE
+### Groups: Dawnguard - an organization of vampire hunters
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

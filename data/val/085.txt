@@ -1,0 +1,15 @@
+### Quest Name: A More Than Exotic Fruit
+### Objective: bring 6 Chorus Fruits to Kevin
+### First Tasks: find 6 Chorus Fruits
+### First Task Locations: The End - a mysterious, hard to reach dimension
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - diamonds (amount: 12)
+### Characters: NONE
+### Tools: NONE
+### Description: Traveler! Did you know that our dimension is one among many. There exists a dimension called "The End". It is a mysterious place, and supposedly hard to reach. I yearn to know more about that dimension. I have heard vague rumors about fruits native to the End that might teleport you a tiny distance when digested. They are called Chorus Fruits. If you get your hands on six Chorus Fruits, I promise to reward you well with 12 diamonds. Please help a man sate his ever-growing curiosity.
+### Locations: NONE
+### Items: Chorus Fruits - strange fruits that might teleport the player a short distance when eaten (amount: 6)
+### Enemies: NONE
+### Groups: NONE
+### Title: Minecraft
+### Motivation: knowledge

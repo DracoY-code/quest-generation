@@ -1,0 +1,15 @@
+### Quest Name: A Rescue Mission
+### Objective: do not let the Shadow Thieves kill Palern Flynn
+### First Tasks: rescue Palern Flynn
+### First Task Locations:  - on the second floor of the Shadow Thief guild house
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: Palern Flynn - a former male member of the Shadow Thieves (location: on the second floor of the Shadow Thief guild house)
+### Tools: the player has done assignments to Bodhi before, Palern Flynn betrayed the Shadow Thieves: the Shadow Thieves have been questioning Palern Flynn ruthlessly for some days, Palern Flynn will be killed once the Shadow Thieves are through
+### Description: I will give you your next assignment. The Shadow Thieves have other enemies besides me. Recently, they uncovered a traitor, and have been questioning him quite ruthlessly for some days now. You will rescue him. He will be killed once they are through, so go quickly. They have him at the Shadow Thief guild house on the second floor. You know the building, I think? The man's name is Palern Flynn. Remember, if he dies, you fail. Good luck.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: Shadow Thief, Shadow Thieves - a guild of thieves
+### Title: Baldur's Gate II: Shadows of Amn
+### Motivation: NONE

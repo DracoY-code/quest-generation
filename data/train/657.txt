@@ -1,0 +1,15 @@
+### Quest Name: Angry Beasts
+### Objective: calm down the Warbeasts
+### First Tasks: get rid of whatever's making the Warbeasts vicious
+### First Task Locations:  - Warbeast den, in the Bone Defile
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: NONE
+### Tools: NONE
+### Description: I've been charged with culling the Warbeasts here, for the Imperial colonization effort. I can keep their population down, but something is driving them wild, almost like they're rabid or something. Can you get into the Warbeast den, in the Bone Defile, and get rid of whatever's making them so vicious?
+### Locations: Bone Defile - a region (location: NONE)
+### Items: NONE
+### Enemies: NONE
+### Groups: Warbeasts - monstrous animals
+### Title: Torchlight II
+### Motivation: NONE

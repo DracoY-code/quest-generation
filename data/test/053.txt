@@ -1,0 +1,15 @@
+### Quest Name: Typhon's Treasure
+### Objective: Help Typhon find his hidden treasure.
+### First Tasks: Talk to Typhon about his treasure., Search for the burial site where the treasure is hidden.
+### First Task Locations: The Den - A lawless town filled with criminals and scavengers.
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: Caps - A share of the treasure once it's found. (amount: 500), Unique items - Potentially valuable pre-war artifacts buried with the treasure. (amount: NONE)
+### Characters: NONE
+### Tools: Shovel to dig up the treasure., Perception to spot clues leading to the burial site.
+### Description: Typhon, an old ghoul, speaks of a long-lost treasure buried in the wasteland. With the right tools and knowledge, you might be able to uncover its location and claim a share of the riches.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: Fallout 2
+### Motivation: NONE

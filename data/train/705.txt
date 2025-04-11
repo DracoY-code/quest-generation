@@ -1,0 +1,15 @@
+### Quest Name: Homecoming
+### Objective: help Serana back to Castle Volkihar
+### First Tasks: find a boat that takes you and Serana to Castle Volkihar
+### First Task Locations: NONE - 
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - Serana tells the player the whole story (amount: 1)
+### Characters: NONE
+### Tools: the player asked Serana why she was sealed inside a tomb, Serana and her father don't get along
+### Description: That's... complicated. And I'm not totally sure if I can trust you. But if you want to know the whole story, help me get back to my family's home. My family used to live on an island to the west of Solitude. Not the most welcoming place, but depending on whose around, I'll be safe there. My father and I don't really get along. Ugh, saying it out loud makes it sound so... common. "Little girl who doesn't get along with her father." Read that story a hundred times. Hopefully we can find a boat to take us to my family's home.
+### Locations: Castle Volkihar - Serana's family's home, on an island to the west of Solitude (location: NONE), Solitude - a city (location: NONE)
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

@@ -1,0 +1,15 @@
+### Quest Name: Good Fortunes
+### Objective: retrieve Shahvee's amulet for her
+### First Tasks: find Shahvee's amulet
+### First Task Locations: NONE - 
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - Shahvee would be in the player's debt (amount: 1)
+### Characters: Zenithar - the god of wealth (location: )
+### Tools: thieves stole Shahvee's sacred amulet of Zenithar as soon as she bought it
+### Description: I'm Shahvee. We Argonians have not fared well outside our native Black Marsh, but we're determined to make the best of things. I began praying to Zenithar, the god of wealth, to bring us some fortune, but thieves made off with my sacred amulet almost as soon as I bought it. If you found my Amulet, Shahvee would be in your debt, kind one.
+### Locations: Black Marsh - a province (location: NONE)
+### Items: NONE
+### Enemies: NONE
+### Groups: Argonians - a people native to Black Marsh, who have not fared well outside their homeland
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

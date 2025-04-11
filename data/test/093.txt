@@ -1,0 +1,15 @@
+### Quest Name: Get weapons for the Blades
+### Objective: Obtain weapons to help the Blades fight the Regulators.
+### First Tasks: Find someone willing to supply weapons., Transport the weapons back to the Blades.
+### First Task Locations: Gun Runners - A group of arms dealers located in a fortified compound in the Boneyard.
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: Blades' Trust - Increased reputation and alliance with the Blades. (amount: NONE)
+### Characters: NONE
+### Tools: Caps, Negotiation skills
+### Description: Razor and the Blades are struggling against the Regulators. They need weapons to fight back, and you must secure a supplier and deliver the weapons.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: Fallout
+### Motivation: NONE

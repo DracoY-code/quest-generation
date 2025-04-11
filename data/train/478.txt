@@ -1,0 +1,15 @@
+### Quest Name: The Ebony Warrior
+### Objective: fight the Ebony Warrior
+### First Tasks: locate the Ebony Warrior
+### First Task Locations:  - the Ebony Warrior's last vigil
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: NONE
+### Tools: only the player can send the Ebony Warrior to Sovngarde
+### Description: I am the Ebony Warrior. I have come to challenge you to a fight. I have done all that can be done. There is nothing left. No quests to be undertaken. No villains to be slain. No challenges to face. Except for you. You are my last challenge. Only you can send me to Sovngarde with honor. Make your preparations. When you are ready, come find me at my last vigil.
+### Locations: Sovngarde - the afterlife of heroes (location: NONE)
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

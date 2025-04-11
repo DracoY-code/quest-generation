@@ -1,0 +1,15 @@
+### Quest Name: The Elven Maiden
+### Objective: steal a bust of Llathasa Indarys, and bring it back to Armand Christophe
+### First Tasks: ask the beggars where to find the bust of Llathasa Indarys
+### First Task Locations: Cheydinhal - a city
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - a modest sum (amount: 1)
+### Characters: Llathasa Indarys - an Elven woman, and the recently killed Countess of Cheydinhal (location: )
+### Tools: NONE
+### Description: The Guild has received a 'request' to obtain a unique statuette. It is a bust of Llathasa Indarys, the recently slain Countess of Cheydinhal. You will be paid a modest sum. Do you want this job? Travel to Cheydinhal, and ask the beggars for more information about the bust. Bring it back to me once you have it.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: Thieves Guild - a guild of thieves
+### Title: The Elder Scrolls IV: Oblivion
+### Motivation: NONE

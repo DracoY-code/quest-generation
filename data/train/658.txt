@@ -1,0 +1,15 @@
+### Quest Name: An Unexpected Voyage
+### Objective: clear a safe path to the top deck for Graman gro-Marad
+### First Tasks: kill the Blackwater Brigands
+### First Task Locations: Bloated Float - a ship turned into an inn
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - Graman gro-Marad will steer the Bloated Float home (amount: 1)
+### Characters: Ormil - the man who owns the Bloated Float (location: Bloated Float)
+### Tools: the player freed Graman gro-Marad from a storage room, not long ago, the Blackwater Brigands stormed the Bloated Float: the Blackwater Brigands took Graman gro-Marad and Ormil hostage and and put the Bloated Float to the sea
+### Description: About time someone showed up. Thank you for freeing me. I'm Graman gro-Marad, the Bloated Float's bouncer and helmsman. I've been locked in that storage room for hours. I don't know exactly what's going on, but not long ago, a gang of thieves calling themselves The Blackwater Brigands stormed the ship. They took myself and Ormil, the Bloated Float's owner, hostage and put the ship to sea. I have no idea what they're after. If you can get me safely to the top deck, I can steer the Float home. But I'm not budging until the coast is clear. I'm used to dealing with drunken louts, not a gang of well-armed thieves. Good luck... you'll need it.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: Blackwater Brigands - a gang of well-armed thieves
+### Title: The Elder Scrolls IV: Oblivion
+### Motivation: NONE

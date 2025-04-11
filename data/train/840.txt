@@ -1,0 +1,15 @@
+### Quest Name: Meet the Djinni
+### Objective: convince Fazeer Shah to help you
+### First Tasks: locate Fazeer Shah
+### First Task Locations: Salt Barrens - a desert
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: Fazeer Shah - a male djinni (location: Salt Barrens), Ezrek Khan - a male djinni (location: a dark realm)
+### Tools: Fazeer Shah and Ezrek Khan went to war centuries ago: they damaged the cities and devastated the land; Zeraphi sultan had enough and banished them both
+### Description: Centuries ago, a djinni named Fazeer Shah and a djinni named Ezrek Khan quarreled over some trivial matter, and ultimately went to war. They caused considerable damage to the cities, and devastated the land, until the Zeraphi sultan had had enough. He banished them both: one to the desert, and one to... another place; a dark realm. If you can reach Fazeer Shah, you might be able to convince him to help us. You must travel out into the Salt Barrens to locate Fazeer Shah.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: Torchlight II
+### Motivation: NONE

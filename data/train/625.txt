@@ -1,0 +1,15 @@
+### Quest Name: Dealing with the Baron
+### Objective: restore order to the lands of Metrich by solving a land dispute
+### First Tasks: speak with Metrich
+### First Task Locations: a neutral meeting place - a tavern in the Umar Hills, in the village of Imnesvale
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: Metrich - a local male baron (location: a neutral meeting place)
+### Tools: the player is a knight of the Most Noble Order of the Radiant Heart, Metrich wants some squatters removed from his lands: the squatters used violence against Metrich's men
+### Description: Knight, we have been commissioned by a local barony. Such service to political figures is good for the Order, and you will serve quite well in the task. It is necessary for us to be accessible in local concerns lest we seem above the people. In this case, a baron has petitioned us to solve a land dispute. Baron Metrich wishes some squatters removed and has cited violence against his men as reason for it. Go to his lands, restore order, and bring favor to us. The baron waits in a neutral meeting place. He is in a tavern in the Umar Hills, in the village of Imnesvale. Go now.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: Most Noble Order of the Radiant Heart - an order of holy knights
+### Title: Baldur's Gate II: Shadows of Amn
+### Motivation: NONE

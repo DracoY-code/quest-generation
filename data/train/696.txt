@@ -1,0 +1,15 @@
+### Quest Name: No Crown for You
+### Objective: find the Jagged Crown before Galmar Stonefist
+### First Tasks: meet Legate Rikke and her men
+### First Task Locations:  - outside Korvanjund
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: Ulfric - a power-hungry nobleman (location: ), Galmar Stonefist - Ulfric's right-hand man (location: )
+### Tools: NONE
+### Description: Ulfric's right-hand man, Galmar Stonefist, has located what he believes is the final resting place of the Jagged Crown. We're going to make sure he doesn't get his hands on it. The rest of my men are already assembling outside Korvanjund. I'll meet you there as soon as I finish up here.
+### Locations: Korvanjund - a ruin (location: NONE)
+### Items: Jagged Crown - a powerful artifact (amount: 1)
+### Enemies: NONE
+### Groups: NONE
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

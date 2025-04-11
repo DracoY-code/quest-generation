@@ -1,0 +1,15 @@
+### Quest Name: Ghosts of Plunder Cove
+### Objective: avenge Olwin
+### First Tasks: find the hidden refuge of Captain Willy, and kill him
+### First Task Locations: Plunder Cove - a pirate refuge
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: Captain Willy - the leader of Olwin's murderers, a male ghost pirate (location: Plunder Cove)
+### Tools: NONE
+### Description: I mean you no harm; I am but a lonely soul, trapped in the afterlife. Betrayed and drowned by villainous companions, I dwell here, reliving my end, waiting in vain for my death to be avenged. But it has been over a hundred years since I took my last breath, and nearly that many since my murderers themselves perished, in their hidden retreat in Plunder Cove. Seek their leader, Captain Willy. Show him that justice has neither forgotten him... nor forgiven him!
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: Torchlight II
+### Motivation: NONE

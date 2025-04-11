@@ -1,0 +1,15 @@
+### Quest Name: Moss Mother Cavern
+### Objective: help Valdr avenge his fallen friends
+### First Tasks: kill 3 Spriggans with Valdr
+### First Task Locations: Moss Mother Cavern - a dangerous cave
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: Ari - Valdr's dead hunter friend, a woman (location: Moss Mother Cavern), Niels - Valdr's dead hunter friend, a man (location: Moss Mother Cavern)
+### Tools: Valdr, Ari and Niels tracked a bear to Moss Mother Cavern: Spriggans appeared and killed Ari and Niels
+### Description: Name's Valdr. I hunt out of Falkreath. We tracked a bear to this den, Moss Mother Cavern. Good coin for those pelts. We had the big sow cornered when they showed up. Three of them, out of nowhere. Spriggans. Niels went down before we even knew to run. Ari died just inside. I never even thought the things were real. But now what? I can't just walk away. Not with my friends' bodies in there, being torn apart by those beasts. You would help me clear out the Spriggans? You'd do that for a stranger? I don't know what to say. Lead on, I suppose.
+### Locations: Falkreath - a town (location: NONE)
+### Items: NONE
+### Enemies: Spriggans - hostile beasts (amount: 3)
+### Groups: NONE
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

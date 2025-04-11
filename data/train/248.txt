@@ -1,0 +1,15 @@
+### Quest Name: The White Phial
+### Objective: retrieve the White Phial for Nurelion
+### First Tasks: reach Curalmil's resting place
+### First Task Locations: Forsaken Cave - a long forsaken cave to the west of Windhelm
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: Curalmil - a crafty, long-dead alchemist, and the creator of the White Phial (location: Forsaken Cave)
+### Tools: Nurelion's assistant won't let Nurelion get the White Phial himself, Nurelion gives the player the alchemical mixture that is needed to reach Curalmil's resting place
+### Description: I've finally derived the location of the White Phial, but my doting busybody of an assistant won't let me get it. It's buried with its maker, Curalmil, in Forsaken Cave, a long forsaken cave to the west of here. Curalmil was a crafty one, even in death. You would need the skills of a master alchemist to reach his resting place. Luckily for you, I've already made the required mixture. Here, take it. Please... don't dally. I've wasted enough time arguing with my useless assistant here.
+### Locations: Windhelm - a city (location: NONE)
+### Items: White Phial - a legendary bottle that will replenish whatever fluid is placed inside of it (amount: 1)
+### Enemies: NONE
+### Groups: NONE
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

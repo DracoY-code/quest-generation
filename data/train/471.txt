@@ -1,0 +1,15 @@
+### Quest Name: Dragon Seekers
+### Objective: kill a dragon with Farkas
+### First Tasks: lead Farkas to the dragon
+### First Task Locations: NONE - 
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: NONE
+### Tools: Farkas knows where the player might find the dragon
+### Description: Travelers have been coming to Whiterun. They tell stories about dragons. I've heard of them, but didn't think they were real. Rumors also claim that you have defeated dragons before. You are a very brave person worthy of being a Companion. But I already knew that. Let's go kill a dragon together. That's one way to find out if they're real. I even know where we might find one. Lead on!
+### Locations: Whiterun - a city (location: NONE)
+### Items: NONE
+### Enemies: NONE
+### Groups: Companions - a band of honorable warriors
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

@@ -1,0 +1,15 @@
+### Quest Name: Free Ghoul Prisoner
+### Objective: Rescue a captured ghoul from the Super Mutants in Necropolis.
+### First Tasks: Locate the imprisoned ghoul in the Watershed., Find a way to unlock the ghoul’s cell., Evade or eliminate the Super Mutants guarding the area.
+### First Task Locations: Watershed, Necropolis - A heavily guarded location where the ghoul is being held captive.
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: Experience Points - Gained for successfully freeing the ghoul. (amount: 500), Ghoul Favor - Increased reputation with the ghouls of Necropolis. (amount: 1)
+### Characters: NONE
+### Tools: Lockpick skill, Stealth, Weaponry (optional)
+### Description: A ghoul has been captured by the Super Mutants in Necropolis. The player must locate the prisoner, bypass security, and ensure their safe escape.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: Fallout
+### Motivation: NONE

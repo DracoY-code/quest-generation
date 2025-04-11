@@ -1,0 +1,15 @@
+### Quest Name: Galken's Wardstone
+### Objective: get the ward token that opens the way to the labyrinths beneath Durlag's Tower from Galken
+### First Tasks: settle Galken's bar tab
+### First Task Locations:  - a bar
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - ward token (amount: 1)
+### Characters: NONE
+### Tools: Galken gives the player the ward token if the player settles his bar tab
+### Description: I'm Galken. Hey, how'd you like to be supping on fine venison and tippin' back the good stuff? I've the key to wealth legendary if you're up for it. No doubt you've heard of the labyrinth at Durlag's Tower, eh? And how she's been pillaged so often that fat nobles go there for picnics? Well, the TOWER has, but BELOW are dungeons untouched! I've a token, a ward token to be sure, that gives entry to them. 'Tis yours if you'll but settle my tab so I can leave this fine place... with all my limbs intact.
+### Locations: Durlag's Tower - a tower atop untouched dungeons filled with riches (location: NONE)
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: Baldur's Gate
+### Motivation: NONE

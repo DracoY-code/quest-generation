@@ -1,0 +1,15 @@
+### Quest Name: Separated at Birth
+### Objective: investigate the rumors about another Reynald Jemane in Cheydinhal
+### First Tasks: find the person whose impersonating Reynald Jemane and tell him to stop
+### First Task Locations: Cheydinhal - a city
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - gold pieces (amount: 50)
+### Characters: NONE
+### Tools: Reynald Jemane has never been to Cheydinhal
+### Description: If I've told you once, I've told you a thousand times. I've NEVER been to Cheydinhal! I... oh, hang on. You're someone else. Apologies, my good friend, I mistook you for someone else. Always being asked about it, I am. 'Didn't I see you in Cheydinhal?', they say. Well I'm sick of it. Sick and tired, tired and sick. And perhaps a little drunk. But never mind. You look like the honest sort, so I've a job for you. You're going to travel to Cheydinhal, and find out what sort of impostor is trying to besmirch my good name. And you're going to tell him... *hic*... You're going to tell him I am quite capable of besmirching my good name on my own. He should cease and desist immediately. There's fifty gold pieces in it for you, friend...
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: The Elder Scrolls IV: Oblivion
+### Motivation: NONE

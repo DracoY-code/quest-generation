@@ -1,0 +1,15 @@
+### Quest Name: Ulterior Motives
+### Objective: retrieve a book from Janus Hassildor
+### First Tasks: travel to Skingrad
+### First Task Locations: Skingrad - an unusual city southwest of the Imperial City
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: Janus Hassildor - the Count of Skingrad (location: Skingrad)
+### Tools: the Council of Mages is investigating what happened at Wellspring Cave, leaving the ranks of Mages Guild spread thin, Skingrad is an unusual place
+### Description: I, Raminus Polus, have a new task for you. The Council is investigating what happened at Wellspring Cave. Many of our resources are devoted to the task, leaving our ranks spread thin. There is a related book that needs to be recovered. It was recently loaned to Janus Hassildor, the Count of Skingrad. I'd like you to retrieve it. I understand this may not seem the most important of tasks, but still... it needs doing, and you are one of the few available to do it. A note of caution: Skingrad is an... unusual place. Be prepared for the unexpected. The city of Skingrad lies southwest of the Imperial City. You should have no trouble finding it. You have your task. Perform it as well as you would any other.
+### Locations: Wellspring Cave - a cave (location: NONE), Imperial City - a major city (location: NONE)
+### Items: NONE
+### Enemies: NONE
+### Groups: Mages Guild - a guild of mages
+### Title: The Elder Scrolls IV: Oblivion
+### Motivation: NONE

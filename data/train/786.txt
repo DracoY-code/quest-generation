@@ -1,0 +1,15 @@
+### Quest Name: Here Kitty, Kitty, Kitty
+### Objective: bring a cat to Baba
+### First Tasks: tame a cat
+### First Task Locations: NONE - 
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - emeralds (amount: 16)
+### Characters: NONE
+### Tools: NONE
+### Description: Hello. I'm Baba. My parents don't know how to tame animals. I want a kitty. You can have my allowance, 16 emeralds, if you bring me a kitty cat. Can I please have a cat, traveler? You must know how to tame kitties. Pretty please? Tame a cat and bring it to me.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: Minecraft
+### Motivation: comfort

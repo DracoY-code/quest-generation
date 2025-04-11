@@ -1,0 +1,15 @@
+### Quest Name: Infiltration
+### Objective: help Stalleo to take back Treva's Watch from bandits
+### First Tasks: use the mine entrance behind Stalleo and his men, and open the front gate
+### First Task Locations: Treva's Watch - Stalleo's home fortress, overrun by bandits
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - on top of the posted reward, the player can have whatever items they'd like (amount: 1)
+### Characters: Brurid - a man who has been at odds with Stalleo since the king's death (location: )
+### Tools: Stalleo and his men left to help with the war: meanwhile Brurid and his bandits seized Treva's Watch and kidnapped Stalleo's family
+### Description: Are you here to help? Finally, reinforcements have arrived. I was expecting more though, you'd better be good. We left to help with the war and these filth bags swooped in and seized the place. I suspect Brurid planned this, there's been bad blood between us since the king's death. But to invade my home, kidnap my family... The front gate is locked so you'll need to use the mine entrance behind us. Open the front gate and we'll try and give you some support. My family is everything to me. Clear the fort and on top of the posted reward you can have whatever items you'd like.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

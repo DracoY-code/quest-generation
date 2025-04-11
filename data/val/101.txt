@@ -1,0 +1,15 @@
+### Quest Name: Truffle Kerfuffle
+### Objective: bring 12 Ember Truffles to Clive
+### First Tasks: gather 12 Ember Truffles
+### First Task Locations: Muckery - a fungal cave
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: Super Mana Potion - a potion (amount: 1)
+### Characters: NONE
+### Tools: NONE
+### Description: I'm a botanist, serving the Empire by gathering various Ember-infused plants.  And I've found a virtual treasure trove of Ember Truffles, down in the Muckery... but some of them have already attained sentience, and that's making it difficult for me to gather them. If you can bring me, say, a dozen Ember Truffles, I'll keep ten for the Empire, and I'll use the other two to make a Super Mana Potion for you. Do we have a deal?
+### Locations: NONE
+### Items: Ember Truffles - Ember-infused mushrooms (amount: 1)
+### Enemies: NONE
+### Groups: NONE
+### Title: Torchlight II
+### Motivation: NONE

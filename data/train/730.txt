@@ -1,0 +1,15 @@
+### Quest Name: A Shadow of Treachery
+### Objective: investigate Suspicious Man's actions
+### First Tasks: find Suspicious Man's journal, and bring it to Una
+### First Task Locations: Desert Refuge - a village
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - emeralds (amount: 48)
+### Characters: Suspicious Man - a male villager (location: Desert Refuge)
+### Tools: Una thinks that Suspicious Man works for Illagers
+### Description: I need the help of an outsider. I think one of the villagers here works for Illagers in secret! They could be planning an attack on Desert Refuge! Would you please investigate this matter for me? Try to obtain Suspicious Man's journal. It should shed light on his actions. I'me even willing to reward you with 48 emeralds. What are a few gems to peace of mind?
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: Illagers - bandits that torment villagers
+### Title: Minecraft
+### Motivation: knowledge

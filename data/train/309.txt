@@ -1,0 +1,15 @@
+### Quest Name: Tolgerias' Task
+### Objective: find out what Tolgerias wants you to do
+### First Tasks: speak with Tolgerias
+### First Task Locations:  - the government building behind Madeen
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: Tolgerias - a man, and one of the masters of the Athkatla order of the Cowled Wizards (location: the government building behind Madeen)
+### Tools: Tolgerias seeks to employ the player in a matter of some urgency: Madeen has been given little knowledge of the matter
+### Description: Greetings. I am Madeen. I represent one of the masters of the Athkatla order of the Cowled Wizards. He seeks to employ you in a matter of some urgency. The matter is most sensitive... I have been given little knowledge of it. Tolgerias, the one whom I speak for, is eager to meet with you and discuss these matters. Master Tolgerias can be found in the government building behind me... you may go within. Do not tarry overlong, my friend.
+### Locations: Athkatla - a city (location: NONE)
+### Items: NONE
+### Enemies: NONE
+### Groups: Cowled Wizards - an organization of wizards who regulate magic usage
+### Title: Baldur's Gate II: Shadows of Amn
+### Motivation: NONE

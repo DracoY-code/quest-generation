@@ -1,0 +1,15 @@
+### Quest Name: New Silence
+### Objective: help Neloth with his silence experiment
+### First Tasks: let Neloth cast a new kind of silence spell on you
+### First Task Locations: NONE - 
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - Neloth will prepare a version of the silence spell that the player can cast themselves (amount: 1)
+### Characters: NONE
+### Tools: NONE
+### Description: You could help me with my research. I believe I've discovered a new form of silence. Some philosophers postulate seven orders of silence, but I believe there's an eighth. If you allow me, I'd like to envelop you in the eighth form, to study the mental effects. If this works, I'll prepare a version that you can cast yourself, if you ever wish to inflict... er, study silence.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

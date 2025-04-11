@@ -1,0 +1,15 @@
+### Quest Name: Hunt the Hunter
+### Objective: assassinate Anoriath
+### First Tasks: find Anoriath
+### First Task Locations:  - the plains outside Whiterun
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - payment (amount: 1)
+### Characters: Anoriath - a male Wood Elf hunter who runs a market stall in Whiterun (location: the plains outside Whiterun)
+### Tools: NONE
+### Description: There's Anoriath, a Wood Elf, who owns a market stall in the city of Whiterun. He may run a stall in the city, but he retreats to the plains outside Whiterun to hunt. Kill him there, and no one will bear witness... The hunter shall come to know the fear of the hunted, hmm? And I shall have your payment waiting for you, my friend.
+### Locations: Whiterun - a city (location: NONE)
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

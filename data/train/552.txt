@@ -1,0 +1,15 @@
+### Quest Name: Pushing Beliefs
+### Objective: blackmail Raerek into helping the Stormcloaks
+### First Tasks: find proofs of Raerek's Talos worship in his quarters, and use them to blackmail Raerek
+### First Task Locations: Markarth - a city in Skyrim
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: Raerek - the Jarl's male steward, and a secret Talos worshiper (location: Markarth), Talos - the hero-god of humans, whose worship has been banned in the Empire (location: )
+### Tools: Raerek is not a true son of Skyrim, as he still supports the Empire, the Jarl's men will arrest the player if they find the player in Raerek's quarters
+### Description: Get over to Markarth. Rumor has it the Jarl's Steward, Raerek, is a faithful Talos worshiper, if not a true son of Skyrim - he still supports the Empire, after all. But, if confronted with proof of his belief, you might be able to 'persuade' him to aid our cause, indirectly of course. Wouldn't want to sully his reputation, would we? You'll need to be careful with this one. The Jarl's men won't look kindly on you rummaging through the steward's quarters.
+### Locations: Skyrim - a province of the Empire (location: NONE)
+### Items: NONE
+### Enemies: NONE
+### Groups: Stormcloaks - rebel forces opposing the Empire in Skyrim
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

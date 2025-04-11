@@ -1,0 +1,15 @@
+### Quest Name: Optimize the powerplant
+### Objective: Improve the efficiency of the Gecko nuclear power plant to provide clean energy to Vault City.
+### First Tasks: Obtain the optimization data from Vault City’s computer., Upload the optimization data to the reactor’s mainframe.
+### First Task Locations: Vault City - A technologically advanced settlement with strict citizenship rules., Gecko - A ghoul-run settlement with a nuclear power plant.
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: Caps - A monetary reward for successfully optimizing the reactor. (amount: 1000), Improved relations with Vault City - Vault City will be more willing to trade with Gecko. (amount: NONE)
+### Characters: NONE
+### Tools: Science skill to access and upload the optimization data., Vault City citizenship or a way to bypass their security.
+### Description: The nuclear power plant in Gecko is running inefficiently. By obtaining and installing optimization data from Vault City, you can improve its performance and reduce tensions between the two settlements.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: Fallout 2
+### Motivation: NONE

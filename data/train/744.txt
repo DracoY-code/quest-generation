@@ -1,0 +1,15 @@
+### Quest Name: Bloodline
+### Objective: become a vampire, or be banished from Castle Volkihar
+### First Tasks: decide whether you want to become a vampire or remain mortal
+### First Task Locations: Castle Volkihar - a castle ruled by Harkon
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - the player becomes a vampire, or Harkon spares the player's mortal life this time (amount: 1)
+### Characters: NONE
+### Tools: the player is meeting Harkon for the first time: Harkon and his family are among the oldest and most powerful vampires in Skyrim, the player returned Harkon's daughter and her Elder Scroll to him
+### Description: I am Harkon, lord of this court. By now, my daughter will have told you what we are. We are among the oldest and most powerful vampires in Skyrim. You have done me a great service, and now you must be rewarded. There is but one gift I can give that is equal in value to the Elder Scroll and my daughter. I offer you my blood. Take it, and you will walk as a lion among sheep. Men will tremble at your approach, and you will never fear death again. However, if you refuse my gift you will be prey, like all mortals. I will spare your life this once, but you will be banished from this hall. I await your decision.
+### Locations: Skyrim - a realm (location: NONE)
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

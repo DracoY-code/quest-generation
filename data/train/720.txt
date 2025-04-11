@@ -1,0 +1,15 @@
+### Quest Name: A Mission From Oisig
+### Objective: discuss your mission with Oisig
+### First Tasks: follow Oisig
+### First Task Locations:  - the temple of Helm
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: Helm - the god of order (location: )
+### Tools: the player is not a believer of Helm
+### Description: Greetings. I am Oisig, cleric of Helm. I would speak with you. I would hire you as a mercenary in the service of Helm. I would prefer a person of faith, but you will be adequate. Follow me to the temple of Helm. I will discuss what is required of you there. Do not take too long; Helm requires you now.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: Baldur's Gate II: Shadows of Amn
+### Motivation: NONE

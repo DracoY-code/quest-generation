@@ -1,0 +1,15 @@
+### Quest Name: Lair of the Manticore
+### Objective: bring the skin of the Manticore to the Sphinx
+### First Tasks: kill the Manticore
+### First Task Locations: Stygian Aerie - a Manticore nest
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - the Sphinx allows the player passage through the gate (amount: 1)
+### Characters: NONE
+### Tools: NONE
+### Description: My ancient charge, to guard the gate The desert sands to contemplate. In Stygian realm lurks beast of yore Part drake, part lion: Manticore. Lay its skin before my eyes And passage through shall be your prize.
+### Locations: NONE
+### Items: NONE
+### Enemies: Manticore - a half drake, a half lion beast (amount: 1)
+### Groups: NONE
+### Title: Torchlight II
+### Motivation: NONE

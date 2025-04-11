@@ -1,0 +1,15 @@
+### Quest Name: The Adventure Continues
+### Objective: restart your adventure
+### First Tasks: ask Felicia to show you the way
+### First Task Locations: NONE - 
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: NONE
+### Tools: NONE
+### Description: You seem weary - perhaps you are in need of a fresh perspective. If you so desire, I can allow you to retrace your steps with all of the knowledge you currently possess. Simply ask, and I can show you the way!
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: Torchlight II
+### Motivation: NONE

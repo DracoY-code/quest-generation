@@ -1,0 +1,15 @@
+### Quest Name: Look at the Time Fly
+### Objective: give a clock to Anders
+### First Tasks: obtain a clock
+### First Task Locations: NONE - 
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - some blocks of iron (amount: 1)
+### Characters: NONE
+### Tools: Anders has heard that the player help people
+### Description: I don't know when nightfall arrives. As night falls, the world is inherited by monsters, and outdoors become much more dangerous! Even within the village! I could be in the middle of some important task, and then a zombie might attack and kill me! You have been helping others: maybe you could help me too. I want a clock to keep track of time more easily. Would you kindly obtain one? I have some blocks of iron for you...
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: Minecraft
+### Motivation: comfort

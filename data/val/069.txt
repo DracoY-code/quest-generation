@@ -1,0 +1,15 @@
+### Quest Name: Loose Connections
+### Objective: reacquire the rest of Trill-Bot 4000's components
+### First Tasks: find the Cognition Linkage
+### First Task Locations:  - somewhere nearby
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - Trill-Bot 4000 will direct the player toward a treasure trove (amount: 1)
+### Characters: NONE
+### Tools: the player found Trill-Bot 4000's body, which stores his memories
+### Description: It appears you have found my body. Very good. This is where my memories are stored … including the locations of multiple caches of treasure. I could share these with you, if you would help me reacquire the rest of my components. We should begin with my Cognition Linkage. Without that, I won't be able to do much more than repeat this message. My sensors tell me it is somewhere nearby. Find it and reinstall it, and I will direct you to one of those treasure troves.
+### Locations: NONE
+### Items: Cognition Linkage - an important component of Trill-Bot 4000 (amount: 1)
+### Enemies: NONE
+### Groups: NONE
+### Title: Torchlight II
+### Motivation: NONE

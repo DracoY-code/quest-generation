@@ -1,0 +1,15 @@
+### Quest Name: Farthing's Dolly
+### Objective: return Farthing's doll to her
+### First Tasks: find Farthing's doll
+### First Task Locations:  - the woods
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: NONE
+### Tools: the gatekeeper won't let Farthing go and get her doll
+### Description: My name's Farthing. I'm only five. In a few years my papa will let me hunt. Are you allowed to hunt? I've lost my dolly out in the woods. The gatekeeper won't let me go and get it. Can you get it for me?
+### Locations: NONE
+### Items:  - Farthing's doll (amount: 1)
+### Enemies: NONE
+### Groups: NONE
+### Title: Baldur's Gate
+### Motivation: NONE

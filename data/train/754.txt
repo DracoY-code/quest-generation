@@ -1,0 +1,15 @@
+### Quest Name: Get car part for Smitty
+### Objective: Find and retrieve a car part to help Smitty repair a vehicle.
+### First Tasks: Locate a working car part., Bring the part back to Smitty for installation.
+### First Task Locations: The Den - A lawless settlement where Smitty works as a mechanic., New Reno Chop Shop - A potential location to find a working car part.
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: Caps - A monetary reward for retrieving the car part. (amount: 500), Vehicle Access - Smitty can restore a working car, allowing for faster travel. (amount: NONE)
+### Characters: NONE
+### Tools: Bartering skills to negotiate for the part., Lockpicking tools if stealing is necessary.
+### Description: Smitty, a mechanic in The Den, needs a specific car part to repair a vehicle. Find the part and bring it back to him to complete the job.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: Fallout 2
+### Motivation: NONE

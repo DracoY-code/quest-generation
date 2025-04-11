@@ -1,0 +1,15 @@
+### Quest Name: Pests Be Come
+### Objective: take care of the Endermites that have been bothering the villagers
+### First Tasks: kill Endermites
+### First Task Locations:  - a village
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - golden carrots (amount: 16)
+### Characters: NONE
+### Tools: NONE
+### Description: Some incredibly foolish individual's been throwing Ender Pearls all over our village! Now the whole place is crawling with Endermites! Could you take care of those little critters before they cause any serious issues? Kill them all, and receive 16 golden carrots for your trouble. You would have all our thanks, too.
+### Locations: NONE
+### Items: Ender Pearls - spawn Endermites when thrown (amount: 1)
+### Enemies: NONE
+### Groups: Endermites - small, annoying creatures
+### Title: Minecraft
+### Motivation: comfort

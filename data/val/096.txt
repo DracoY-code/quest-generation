@@ -1,0 +1,15 @@
+### Quest Name: Soljund's Sinkhole
+### Objective: make Soljund's Sinkhole safe again
+### First Tasks: clear out draugr
+### First Task Locations: Soljund's Sinkhole - a mine connected to an old Nordic crypt
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: NONE
+### Tools: Perth warns the player to stay out of Soljund's Sinkhole
+### Description: Whoa, there. I don't know where you're going, but stay out of that mine. It isn't safe. We tunneled into an old Nordic crypt. The whole place is crawling with draugr. We're not mining up any ore with those undead around, so I wouldn't go down there if I were you. You want to clear out the draugr? You're joking, right? Those bone-walkers will tear you limb from limb. But if you want to get yourself killed, go ahead. I hear talk about a regiment coming to clear the crypt out. We'll see if that happens.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

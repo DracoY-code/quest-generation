@@ -1,0 +1,15 @@
+### Quest Name: Anomen Returns Home After His Sister's Death
+### Objective: investigate the murder of Anomen's sister
+### First Tasks: go to Lord Cor's home with Anomen
+### First Task Locations: Government District - a district of Athkatla
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: Lord Cor - a nobleman, and Anomen's father (location: Lord Cor's home)
+### Tools: NONE
+### Description: I am Anomen, a warrior priest. I must discover the truth about my sister's murder. We must head for my father's home in the Government District of Athkatla!
+### Locations: Athkatla - a city (location: NONE)
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: Baldur's Gate II: Shadows of Amn
+### Motivation: NONE

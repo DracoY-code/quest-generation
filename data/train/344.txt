@@ -1,0 +1,15 @@
+### Quest Name: Painting the Seas Red
+### Objective: assassinate Safia
+### First Tasks: find Safia
+### First Task Locations: Red Wave - Safia's ship, in the Solitude docks
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - payment (amount: 1)
+### Characters: Safia - a ruthless female pirate captain who is deadly with a blade (location: Red Wave)
+### Tools: this is Nazir's final, most challenging assassination contract, Safia's crew is loyal and bloodthirsty
+### Description: I have an assassination contract for you: Safia, a pirate captain. She can be found aboard her ship, the Red Wave. It's currently docked at the Solitude docks. Safia is a ruthless she-devil, by all accounts. Deadly with a blade. And let's not forget her crew - loyal and bloodthirsty, the lot of them. This is my final contract, and certainly the most challenging. Be careful with this one, my friend. If you are capable of pulling through this, you've not only earned your payment, but my respect as well. And believe me, friend - that does not come easily.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

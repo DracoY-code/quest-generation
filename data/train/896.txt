@@ -1,0 +1,15 @@
+### Quest Name: Spread the Love
+### Objective: distribute all religious missives to the citizens of Riften
+### First Tasks: speak to the citizens
+### First Task Locations: Riften - a city
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - Mara's gift (amount: 1)
+### Characters: Mara - the goddess of love (location: )
+### Tools: keep away from the keep and the city guards: they won't accept the missives
+### Description: Riften is drowning in a sea of sin and wickedness and it's my personal mission to let everyone know that the warmth of Mara can see them through. All I need is a messenger to bring Her words to these poor souls by distributing these missives. Lady Mara would be so pleased, if you could distribute the missives! Let me give you the missives. Here you are. Now make sure you give out every single one, we can't afford to let even one lost soul stray from Her warmth. Almost anyone in Riften is in dire need of those missives. Speak to them, child. You will know who will listen and who will sin. A word of advice, keep away from the Keep and the city guards. They follow their own path and have already forsaken Her. Allow me to give you Mara's gift as a reward... a true blessing to aid you in times of need. Despair not, her warmth will protect you always!
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

@@ -1,0 +1,15 @@
+### Quest Name: Bring the Poisoned Man to his Friends
+### Objective: save Renfeld from dying of poison
+### First Tasks: take Renfeld to Rylock
+### First Task Locations:  - large orange building, in the southwest part of the Docks District
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - nothing aside from Renfeld's gratitude (amount: 1)
+### Characters: Rylock - a man (location: the entrance to the large orange building)
+### Tools: Renfeld has friends nearby in a large orange building, Rylock is guarding the entrance to the large orange building
+### Description: My... my name is Renfeld... *groan* I have been poisoned... I beg you to take me to... friends... they have a building not far away from here... please, I beg you! It is a large building... a large orange building in the southwest part of the Docks District. There will be a man guarding the door... his name is Rylock. Please, take me to him... I... I have nothing to offer you... aside from my gratitude and those of my friends. Please... I do not have much time...
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: Baldur's Gate II: Shadows of Amn
+### Motivation: NONE

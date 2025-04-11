@@ -1,0 +1,15 @@
+### Quest Name: In My Time of Need
+### Objective: help Alik'r Warriors locate Saadia
+### First Tasks: find Saadia, bring information about Saadia to the Alik'r Warriors
+### First Task Locations: Whiterun - a city, Rorikstead - a village
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - Alik'r Warriors will pay good money for information (amount: 1)
+### Characters: Saadia - a Redguard woman, a fugitive from Hammerfell (location: Whiterun)
+### Tools: NONE
+### Description: You there. We are looking for someone in Whiterun, and will pay good money for information. We're looking for a fugitive who comes from Hammerfell. A woman -- a foreigner in these lands. Redguard, like us. She is likely not using her true name. She may be somewhere in this city. We will pay for any information regarding her location. We are not welcome here in Whiterun, so we will be in Rorikstead if you learn anything. Our reasons are none of your concern. All you need to know is that we're paying for information. If that doesn't interest you, feel free to walk away.
+### Locations: Hammerfell - the land of Redguards (location: NONE)
+### Items: NONE
+### Enemies: NONE
+### Groups: Redguards - a race of people
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

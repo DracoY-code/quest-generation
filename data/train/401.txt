@@ -1,0 +1,15 @@
+### Quest Name: Turning Heads
+### Objective: give red dye to Cara
+### First Tasks: find red dye
+### First Task Locations:  - wandering traders
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - emeralds (amount: 12)
+### Characters: NONE
+### Tools: NONE
+### Description: The guys in this village rarely take note of me. I want to dye my hair red to make myself more attractive. Wandering traders often have red dye. Could you find some and give it to me? I'd give you 12 emeralds for the red dye.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: Minecraft
+### Motivation: reputation

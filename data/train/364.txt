@@ -1,0 +1,15 @@
+### Quest Name: Assorted Armors
+### Objective: give an armor stand to Nick
+### First Tasks: craft an armor stand
+### First Task Locations: NONE - 
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - blocks of coal (amount: 10)
+### Characters: NONE
+### Tools: the player can craft an armor stand with 6 sticks and a smooth stone slab
+### Description: I just don't know where I could display my armors for sale. I know that there are armor stands that could do the job, but I'm way too busy hammering down new armors to actually go and hunt for the needed crafting materials. You don't seem to have a day job, stranger. Could you help a busy armorer, and craft an armor stand? You could even have some of my blocks of coal for your reward. Ten blocks of coal in total. You just need six sticks and a smooth stone slab to craft an armor stand.
+### Locations: NONE
+### Items:  - sticks (amount: 6)
+### Enemies: NONE
+### Groups: NONE
+### Title: Minecraft
+### Motivation: comfort

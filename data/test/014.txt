@@ -1,0 +1,15 @@
+### Quest Name: Magely Mischief
+### Objective: find J'skar, and make him re-appear
+### First Tasks: talk to the mages about J'skar's disappearance
+### First Task Locations:  - Bruma Mages Guild, one of the guild halls of the Mages Guild
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - recommendation from Jeanne Frasoric to Raminus (amount: 1)
+### Characters: Raminus - a male mage, and one of the leaders of the Mages Guild (location: ), J'skar - a mischievous male mage who has gone missing for real (location: ), Volanaro - a male mage, and J'skar's friend (location: )
+### Tools: the player asked a recommendation to Raminus from Jeanne Frasoric: the player is an Associate of the Mages Guild, if someone from the Council were to visit Bruma Mages Guild, and find out that J'skar has vanished, it would look bad on Jeanne Frasoric, Volanaro thinks J'skar's spell backfired
+### Description: A recommendation, from me? Well, of course. Raminus would naturally want my opinion, wouldn't he? This is a situation we can both benefit from, Associate. You do me a small favor, and I'll happily send along a glowing recommendation. J'skar's disappeared. I mean he's really disappeared. No one here has seen him in days. Volanaro thinks maybe a spell backfired. If someone from the Council were to stop by, and find him gone, it'd look bad for me. I can't have that. Talk to the mages here, and see what you can find out. If you can make J'skar re-appear, you'll have your recommendation.
+### Locations: Bruma - a city (location: NONE)
+### Items: NONE
+### Enemies: NONE
+### Groups: Mages Guild - a guild of mages, Council - the ruling body of Mages Guild
+### Title: The Elder Scrolls IV: Oblivion
+### Motivation: NONE

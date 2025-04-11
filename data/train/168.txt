@@ -1,0 +1,15 @@
+### Quest Name: Save Jaheira from Ployer's Curse
+### Objective: break Jaheira's curse
+### First Tasks: seek out Ployer, ask about the mages in strange colors who were with Ployer, ask about Belgrade from Bernard
+### First Task Locations:  - poor section of Athkatla,  - the government building in Athkatla, Copper Coronet - an inn in Athkatla
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - Jaheira's curse will be removed (amount: 1)
+### Characters: Ployer - a fat male slaver, who hates Jaheira (location: Athkatla), Belgrade - a male merchant who helped to expose Ployer for his crimes (location: Athkatla), Bernard - a male bartender (location: Copper Coronet)
+### Tools: Ployer has cursed Jaheira: the curse might resist removal by normal means, all magic is regulated in Athkatla, Ployer spoke to Jaheira before: Ployer mentioned that he lived in squalor, and also mentioned Belgrade
+### Description: Ployer! That... that fat excuse for a slaver, he's cursed me! Damn him! If the curse was tailored to me, it might resist removal by normal means. I doubt Ployer would have done this if the solution were simple. I have a few options. Ployer mentioned that he lived in squalor, suggesting he may be in the poor section of the city. Not likely to find him quick though. The mages with him wore odd colors that might be traceable. Ask at the government building, as all magic is regulated in Athkatla. If they will talk... He also mentioned Belgrade, a merchant that helped expose Ployer. He frequents the Copper Coronet, and the bartender Bernard might know his whereabouts. My very bones ache today. It is as though I age on the inside. Ohh, this cannot go on for long. We must remove this curse!
+### Locations: Athkatla - a city (location: NONE)
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: Baldur's Gate II: Shadows of Amn
+### Motivation: NONE

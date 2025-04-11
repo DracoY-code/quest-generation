@@ -1,0 +1,15 @@
+### Quest Name: Destroy the Super Mutants at the Watershed
+### Objective: Eliminate the Super Mutants occupying the Watershed in Necropolis.
+### First Tasks: Scout the Watershed area to assess enemy strength., Plan an attack strategy based on available resources., Engage the Super Mutants in combat., Ensure the Watershed is cleared of all hostiles.
+### First Task Locations: Watershed, Necropolis - A critical water source in Necropolis, now controlled by Super Mutants.
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: Caps - Payment from Set for clearing the Watershed. (amount: 500), Experience Points - Earned for successfully eliminating the Super Mutants. (amount: 1500), Ghoul Favor - Increased standing with the ghouls of Necropolis. (amount: 1)
+### Characters: NONE
+### Tools: Firearms, Explosives, Melee weapons, Tactical planning
+### Description: The Super Mutants have taken control of the Watershed in Necropolis, threatening the local ghouls' water supply. The player must eliminate the threat to secure the area and restore peace to the city.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: Fallout
+### Motivation: NONE

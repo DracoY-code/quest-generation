@@ -1,0 +1,15 @@
+### Quest Name: Arrow of Extrication
+### Objective: steal the Arrow of Extrication from Fathis Aren, and bring it to the Gray Fox
+### First Tasks: talk to the beggars about locating the Arrow of Extrication
+### First Task Locations: Bravil - a city
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - the Gray Fox will pay the player well (amount: 1)
+### Characters: Fathis Aren - a powerful male court wizard (location: Bravil), Malintus - a fellow member of the Thieves Guild (location: Malintus' house)
+### Tools: Savilla's Stone has revealed that the Gray Fox needs something special for his plans: the Arrow of Extrication, the player may kill Fathis Aren, but not in the castle of Bravil
+### Description: My work with Savilla's Stone has revealed that I need something special for my plans. It's a small item in the possession of a powerful court wizard. Will you do this for me? I will pay you well. Bring me the Arrow of Extrication. It has a key shaped head. Bravil's court wizard, Fathis Aren, recently acquired this unique item. You may kill Fathis if necessary, but not in the castle. My spy network will tell me when you have it. Return here with the arrow when you do. The beggars in Bravil will surely know where Aren keeps the Arrow. Now we should get out of Malintus' house before we wear out our welcome.
+### Locations: NONE
+### Items: Savilla's Stone - a stone that reveals secrets to its fielder (amount: 1), Arrow of Extrication - a small, unique item (amount: 1)
+### Enemies: NONE
+### Groups: Thieves Guild - a guild of thieves
+### Title: The Elder Scrolls IV: Oblivion
+### Motivation: NONE

@@ -1,0 +1,15 @@
+### Quest Name: A Cultured Gift
+### Objective: bring Rustleif "Night Falls on Sentinel"
+### First Tasks: find "Night Falls on Sentinel"
+### First Task Locations: NONE - 
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - Rustleif teaches the player smithing (amount: 1)
+### Characters: Seren - Rustleif's pregnant Redguard wife (location: )
+### Tools: Rustleif runs the forge together with his wife Seren, who is a Redguard, Seren worries how she will pass along her traditions to Rustleif and her child
+### Description: My wife Seren and I run the forge together. She still smiths even though we found out she is with child. Our son or daughter isn't going to get much Redguard culture here in Skyrim. I know my wife worries how she will pass along her traditions. Hey, if you find a book called "Night Falls on Sentinel", could you bring it to me? It's a story from my wife's people. Be good to have. Don't know what the Redguards see in books, but it would make my Seren happy. Let me show you some tricks around the forge, when you return with the book.
+### Locations: Skyrim - a province (location: NONE)
+### Items: "Night Falls on Sentinel" - a book about Redguard culture (amount: 1)
+### Enemies: NONE
+### Groups: Redguards - a race of people not from Skyrim
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

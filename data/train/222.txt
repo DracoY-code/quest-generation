@@ -1,0 +1,15 @@
+### Quest Name: Priory of the Nine
+### Objective: retrieve the Cuirass of the Crusader for yourself
+### First Tasks: defeat the ghosts of the Knights of the Nine in honorable combat
+### First Task Locations: NONE - 
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: Cuirass of the Crusader - a holy cuirass (amount: 1)
+### Characters: NONE
+### Tools: the Knights of the Nine failed to uphold their knightly vows in life: they uphold them in death and do not let unworthy souls take the Cuirass of the Crusader
+### Description: By the strength and guidance of the Nine, who comes before us upon this sacred ground seeking the Cuirass of the Divine Crusader? Step forward, adventurer, and face us, the Knights of the Nine, each in honorable combat. For the vows we failed to revere in life, we shall uphold in death. No unworthy soul shall lay hands upon this sacred artifact without the leave of the Knights of the Nine.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: Nine - a pantheon of gods
+### Title: The Elder Scrolls IV: Oblivion
+### Motivation: NONE

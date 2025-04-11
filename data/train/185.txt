@@ -1,0 +1,15 @@
+### Quest Name: Bound Until Death
+### Objective: lure Titus Mede II to Skyrim so that the Dark Brotherhood can assassinate him
+### First Tasks: assassinate Vittoria Vici at her own wedding
+### First Task Locations: Temple of the Divines - a large temple in Solitude
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - a significant bonus if the player kills Vittoria Vici while she addresses the wedding guests (amount: 1)
+### Characters: Titus Mede II - the Emperor (location: ), Vittoria Vici - the overseer of the the East Empire Company's business holdings in Solitude, and the first cousin of the Emperor (location: Temple of the Divines), Night Mother - the female spirit who guides the Dark Brotherhood (location: )
+### Tools: the Night Mother spoke to the player, Vittoria Vici has Imperial connections, and her husband has ties to the Stormcloaks: their marriage is a step toward reconciliation between the Empire and the Stormcloaks, but a murder at the wedding will stall the peace process and send shockwaves throughout the entire Empire
+### Description: Splendid. We're ready to begin. Or, more specifically, you're ready to begin. After all, you're the one the Night Mother spoke to. Now then. I hope you have something nice to wear. Because you're going to a wedding. Well, more like the public reception. It should be a lovely affair. You'll mingle with the guests, eat some cake... stab the bride. Oh yes. You've got to kill the bride. At her wedding. And they say romance is dead. Your target's name is Vittoria Vici. She oversees the East Empire Company's business holdings in Solitude. The wedding is being held in that city, at the Temple of the Divines. Her death will cause an uproar, which is exactly what we want. Vittoria Vici is the first cousin to our dear Emperor, Titus Mede II. Vici has obvious Imperial connections. Her husband has ties to the Stormcloaks. Their union is a step toward reconciliation. So if there's a murder at the wedding... Not only will it stall the peace process - it will send shockwaves throughout the entire Empire. The Emperor's hand will be forced. He'll have to travel to Skyrim to deal with the aftermath... and he'll find the Dark Brotherhood waiting. Vici is likely to address her guests frequently, as is the wedding custom. Kill her when she does that, and I promise you a significant bonus. Now go. And give the city of Solitude a celebration they're not likely to forget.
+### Locations: Solitude - a city (location: NONE), Skyrim - a province of the Empire (location: NONE)
+### Items: NONE
+### Enemies: NONE
+### Groups: Dark Brotherhood - a guild of assassins, Stormcloaks - rebel forces opposing the Empire, East Empire Company - a merchant house
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

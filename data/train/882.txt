@@ -1,0 +1,15 @@
+### Quest Name: Animal Extermination
+### Objective: clear out Bleakcoast Cave for the Jarl
+### First Tasks: kill the beasts
+### First Task Locations: Bleakcoast Cave - a beast den in Winterhold
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: Jarl - the nobleman who rules over Winterhold (location: )
+### Tools: NONE
+### Description: The Jarl of Winterhold has asked for our help. It seems that predators have taken up residence in Bleakcoast Cave and have been attacking farmers and travelers. Someone's got to head out there and take care of the beasts. Get it taken care of right away. Nobody wants a hungry animal left roaming along the roads.
+### Locations: Winterhold - a region (location: NONE)
+### Items: NONE
+### Enemies: NONE
+### Groups: Companions - a band of honorable warriors
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

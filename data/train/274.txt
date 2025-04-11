@@ -1,0 +1,15 @@
+### Quest Name: The Final Descent
+### Objective: find out what happened to Gratian Caerellius
+### First Tasks: find and unlock the locked off section of the mine
+### First Task Locations: Raven Rock Mine - a worthless and tainted mine in Raven Rock
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: Gratian Caerellius - the great-grandfather of Crescius Caerellius, who worked for the East Empire Company (location: )
+### Tools: the East Empire Company swept something big under the rug two centuries ago: it killed Gratian Caerellius and ruined the Raven Rock Mine, Crescius Caerellius and his wife found Gratian Caerellius' things in their home: an unsent letter to the East Empire Company, and a key to the locked off section of the Raven Rock Mine
+### Description: Who in the blazes are you?! Can't you see I'm busy? Or, perhaps you could help me. Hmph, maybe. Been difficult trusting people lately, they think I'm crazy. Mark my words, these mines hold a secret that could put Raven Rock back on the map. A secret the East Empire Company swept under the rug two centuries ago. It killed my great-grandfather, Gratian Caerellius, and left Raven Rock with a worthless and tainted mine. East Empire Company called it "a terrible accident", claiming that he was lost in a rockfall, but I know better. My wife and I were cleaning out our home, and we came across some of my great-grandfather's things locked in an old chest. I found an unsent letter he'd written to the East Empire Company, and a key. The letter describes a discovery that was made in the mine by some of the diggers. They wanted Gratian to take a closer look. The East Empire Company must have felt it was of great value, as they locked that section of the mine off from everyone else. I assume the key unlocks that section of the mine. I haven't been able to find the entrance. I'm telling you... there's something big down there, something that the East Empire Company wanted to hide from everyone.
+### Locations: Raven Rock - a struggling town (location: NONE)
+### Items: NONE
+### Enemies: NONE
+### Groups: East Empire Company - a merchant house
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

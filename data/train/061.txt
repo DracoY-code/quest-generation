@@ -1,0 +1,15 @@
+### Quest Name: The Forgotten Chests of Pale Pass
+### Objective: find the magical ring that G.S. hid inside some old barrels
+### First Tasks: use a key to open a chest to find another key for an another chest until you find the ring
+### First Task Locations: Pale Pass - a valley in the Jeralls with some ruins
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - a magical ring (amount: 1)
+### Characters: NONE
+### Tools: "Crumpled Note" is addressed to an old friend of G.S., G.S. recounts how he stole a magical ring from a wizard and escaped from the owner of the ring until he ended up into Pale Pass
+### Description: Crumpled Note by G.S.  I guess you found the message I told you about, old friend. We've traveled together for so long, and you're the only one I trust with the ring and my story. I knew climbing into the window of that wizard's house was a mistake, but the bounty on the ring was just too enticing to pass up. They said it was worth thousands of drakes... enough to keep me comfortable for a while as I lay low. They also said the owner of the ring was out of town at some meeting of wizards or some such. They were wrong on both counts. You'd think I'd be used to this by now, dealing with the unpredictable in our line of work. But after trying to fence the ring all over the realm, no one would touch it. Worse still, the wizard was pursuing me the entire time. I had to call in many favors to stay one step ahead of him. I decided to strike north and make for the neighboring land. As I was crossing the Jeralls, he finally caught up to me. Two fireballs later, I found myself tumbling down a steep snowy slope into a valley. Don't know where I am, but there are ruins of some old fort here. Luckily, that fetcher didn't follow me down; I assume he gave me up for dead. I think I'm going to stash the ring in this valley, cross the border north, and return later when I feel it's safe. I've used some old chests I found in the ruins to make sure nobody stumbles across the ring by mistake; you know, the old key to a key thing like we used to do. If I don't make it back here, and you're reading this message, then the ring is all yours, my friend. Use it well and remember me. G.S.
+### Locations: Jeralls - a mountain range (location: NONE)
+### Items: "Crumpled Note" - a note (amount: 1)
+### Enemies: NONE
+### Groups: NONE
+### Title: The Elder Scrolls IV: Oblivion
+### Motivation: NONE

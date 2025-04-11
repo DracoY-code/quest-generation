@@ -1,0 +1,15 @@
+### Quest Name: The Potato Snatcher
+### Objective: return the Jumbo Potatoes to S'jirra
+### First Tasks: find the person who stole S'jirra's Jumbo Potatoes
+### First Task Locations:  - the woods to the west
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - S'jirra's famous potato bread (amount: 1)
+### Characters: NONE
+### Tools: NONE
+### Description: Ohhhh... what am I, S'jirra, to do? They're gone... all gone. Can you help me find my lost Jumbo Potatoes? Please, you must help me find them! If I don't have them for the next batch of my famous potato bread, I don't know what I'll do! My potatoes are like my children. I care for and nurture each one individually. That way, they grow up to be big and strong. How stupid I was to leave them outside all alone like that! All I wanted to do was give them some sun. Next thing I knew, they were gone! I saw someone running off to the west, but I'm too frightened to journey into the woods alone. Please... can you help me? I'll give you my famous potato bread. I swear!
+### Locations: NONE
+### Items: Jumbo Potatoes - large potatoes cultivated by S'jirra (amount: 1)
+### Enemies: NONE
+### Groups: NONE
+### Title: The Elder Scrolls IV: Oblivion
+### Motivation: NONE

@@ -1,0 +1,15 @@
+### Quest Name: Samuel the Deserter
+### Objective: capture Samuel
+### First Tasks: find Samuel
+### First Task Locations: NONE - 
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - gold (amount: 50)
+### Characters: Samuel - a man who deserted the Flaming Fist (location: )
+### Tools: Samuel is traveling with a woman
+### Description: I am a proud member of the Flaming Fist. I've been searching for a deserter. His name is Samuel, and he should be traveling with a woman. There is a bounty of 50 gold for his capture.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: Flaming Fist - a mercenary organization promoting order and law
+### Title: Baldur's Gate
+### Motivation: NONE

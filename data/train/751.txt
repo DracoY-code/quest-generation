@@ -1,0 +1,15 @@
+### Quest Name: Go to the Den and tell Karl it's alright to come back home
+### Objective: Find Karl in The Den and inform him that it's safe to return to Modoc.
+### First Tasks: Travel to The Den., Locate Karl in the local bar., Convince him to return home to Modoc.
+### First Task Locations: The Den - A lawless town filled with thieves, slavers, and outcasts.
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: Caps - A small monetary reward for convincing Karl to return. (amount: 500), Improved reputation in Modoc - The people of Modoc will be grateful for Karl’s return. (amount: NONE)
+### Characters: NONE
+### Tools: Speech skill to persuade Karl., Charisma to gain Karl's trust., Information about the Ghost Farm to assure Karl it's safe.
+### Description: Karl, a former Modoc resident, fled to The Den after a traumatic experience. Jo wants him to return home, and it's your job to convince him that Modoc is safe once again.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: Fallout 2
+### Motivation: NONE

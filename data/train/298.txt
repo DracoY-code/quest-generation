@@ -1,0 +1,15 @@
+### Quest Name: A Jarl's Justice
+### Objective: kill a vampire masquerading as a visiting advisor in Brunwulf Free-Winter's court
+### First Tasks: convince Brunwulf Free-Winter that the visiting advisor is a threat to him
+### First Task Locations: Windhelm - a city
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: Brunwulf Free-Winter - a Jarl holding his court in Windhelm (location: )
+### Tools: Brunwulf Free-Winter's guards are unaware of the threat, and will treat violence against the visiting advisor as a crime
+### Description: Jarl Brunwulf Free-Winter is in danger. A vampire plays as a visiting "advisor" to the court of Windhelm. Destroy it before it's able to complete its foul business. But be warned. The Jarl's guards are unaware of the threat, and will treat violence against this "advisor" as a crime. Convince the Jarl of the threat and he'll let you destroy the creature. If not, then do your best not to get caught. Quickly now! The longer you delay, the more danger the Jarl is in.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: Dawnguard - an organization of vampire hunters
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

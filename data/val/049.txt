@@ -1,0 +1,15 @@
+### Quest Name: The Mastermind
+### Objective: infiltrate the Thalmor Embassy, and find out who's behind the dragons
+### First Tasks: meet Delphine to talk about her plan to get inside the Thalmor Embassy
+### First Task Locations: Riverwood - a village
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: NONE
+### Tools: NONE
+### Description: The first thing we need to do is figure out who's behind the dragons. The Thalmor are our best lead. If they aren't involved, they'll know who is. If we could get into the Thalmor Embassy... it's the center of their operations in Skyrim... Problem is, that place is locked up tighter than a miser's purse. They could teach me a few things about paranoia... I have a few ideas about getting inside the Embassy, but I'll need some time to pull things together... Meet me back in Riverwood. If I'm not back when you get there, wait for me. I shouldn't be long. Keep an eye on the sky. This is only going to get worse.
+### Locations:  - Thalmor Embassy, the center of the Thalmor's operations in Skyrim that is locked up tight (location: NONE), Skyrim - a realm (location: NONE)
+### Items: NONE
+### Enemies: NONE
+### Groups: Blades - an intelligence organization, Thalmor - a foreign power who knows who is behind the dragons
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

@@ -1,0 +1,15 @@
+### Quest Name: A Ring Worthy of Alchemists
+### Objective: retrieve the Ring of Pure Mixtures for Frida
+### First Tasks: find the Ring of Pure Mixtures
+### First Task Locations: Shrouded Grove - a cave
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - alchemy training from Frida (amount: 1)
+### Characters: NONE
+### Tools: Frida's husband died while searching for the Ring of Pure Mixtures
+### Description: I'm Frida, the oldest woman in Dawnstar. I picked up the herb trade from my husband. We used to go out in the wilds and collect ingredients together. He used to call me his "pretty Juniper." It's quite romantic, if you're an alchemist. Frost took the old fool a few seasons back, while he was looking for the Ring of Pure Mixtures. I found the ring's resting place, Shrouded Grove, after he died, but I'm far too old to go exploring some cave, now. I'd be happy to give you some alchemy training in exchange for the ring, if you bring it to me.
+### Locations: Dawnstar - a town (location: NONE)
+### Items: Ring of Pure Mixtures - a ring that boosts an alchemist's talents (amount: 1)
+### Enemies: NONE
+### Groups: NONE
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

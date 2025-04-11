@@ -1,0 +1,15 @@
+### Quest Name: Lost Legacy
+### Objective: protect Tharstan while he researches an old tomb
+### First Tasks: meet Tharstan
+### First Task Locations:  - outside Vahlok's Tomb
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - Tharstan will pay the player (amount: 1)
+### Characters: NONE
+### Tools: the passage to Vahlok's Tomb must have been opened by an earthquake that accompanied one of the Red Mountain's eruptions
+### Description: Yes, I think you're just the adventurous sort I need. I have a job offer for you. As a scholar of history, I've always found Solstheim to be most intriguing. I've made many forays into the ancient ruins that cover the island. I've come to know those ruins so well, I could draw you a map from memory. That's why I noticed the new passage the moment I laid eyes on it. it leads to an old tomb, I think. It must have been opened by an earthquake that accompanied one of the Red Mountain's eruptions. I'd love to have a closer look, but those old ruins can be dangerous and I'm no adventurer. I'll pay you to watch my back down there. I'll be heading back there soon. If you're interested, meet me at the ruins and we'll see what we can find. Now I'm off to pack for the expedition!
+### Locations: Vahlok's Tomb - an old, undiscovered tomb (location: NONE), Solstheim - an island that is covered with ancient ruins (location: NONE), Red Mountain - an active volcano (location: NONE)
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

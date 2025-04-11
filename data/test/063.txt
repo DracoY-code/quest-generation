@@ -1,0 +1,15 @@
+### Quest Name: Save Pala
+### Objective: save Pala from poisoning
+### First Tasks: meet Danno in Trademeet
+### First Task Locations: Trademeet - a town
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: Wallace - a peddler (location: ), Pala - the player's sister, and Danno's crush (location: with the player's mother), Mazzy - the player (location: )
+### Tools: Danno bought a love potion from Wallace at the market square: Danno gave Pala the love potion, Pala drank the love potion and collapsed
+### Description: Oh, Mazzy! Thank the gods that I've found you! I've hurt Pala! You have to save her! I didn't mean to do it. I bought a love potion from Wallace the peddler at the market square. I just wanted her to love me. She only had a sip of it, and she collapsed. She is with your mother, Mazzy. How was I to know it was poison? Oh, please hurry! I will meet you in Trademeet.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: Baldur's Gate II: Shadows of Amn
+### Motivation: NONE

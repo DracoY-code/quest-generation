@@ -1,0 +1,15 @@
+### Quest Name: The Merryweather Poultice
+### Objective: help Medrus treat himself
+### First Tasks: bring some Merryweather Leaves to Medrus
+### First Task Locations:  - around here
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - Medrus will reward the player (amount: 1)
+### Characters: NONE
+### Tools: NONE
+### Description: Hello! I thought I heard someone moving around out there. Listen, my name's Medrus. I got ambushed by some raiders, and managed to get clear... but I got pretty badly injured in the process. I can treat it, but I need some Merryweather Leaves. They grow around here, but I'm too weak to look for them. Think you can find some for me, bring 'em back here? You'll be rewarded, I promise.
+### Locations: NONE
+### Items: Merryweather Leaves - a healing herb (amount: 1)
+### Enemies: NONE
+### Groups: NONE
+### Title: Torchlight II
+### Motivation: NONE

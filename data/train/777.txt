@@ -1,0 +1,15 @@
+### Quest Name: Dreppin's Cow
+### Objective: give an antidote potion to Dreppin so he can cure Nessa's illness
+### First Tasks: find one of Hull's antidote potions
+### First Task Locations: NONE - 
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: Nessa - Dreppin's cow (location: next to Dreppin), Hull - a male gateguard (location: )
+### Tools: NONE
+### Description: Hi. I'm Dreppin. Nice day, ain't it? Too bad Nessa the cow here ain't enjoyin' it though, her bein' sick 'n all. I need to get her one of them potions of antidote off Hull. He stayed up drinkin' last night and got hauled outta bed to man the gates early this morning, so I bet he's got a few of them lyin' around somewheres.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: Baldur's Gate
+### Motivation: NONE

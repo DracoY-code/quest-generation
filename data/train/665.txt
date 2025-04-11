@@ -1,0 +1,15 @@
+### Quest Name: The Not-So-Lost Husband
+### Objective: tell Bellethe that Finnas is okay
+### First Tasks: take Snowbell and Sunbeam to Bellethe
+### First Task Locations: NONE - 
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: Bellethe - Finnas' wife (location: ), Snowbell - Finnas and Bellethe's pet (location: ), Sunbeam - Finnas and Bellethe's pet (location: )
+### Tools: the player told Finnas that the player came here to rescue him, Snowbell and Sunbeam
+### Description: You ... you came to rescue us?  Thank the guardians! I've managed to keep Snowbell and Sunbeam safe up here, but I injured my leg. I can't make my way out of this cave while carrying them. If you'll take them to Bellethe, I'll follow you out at my own pace. Tell Bellethe that I'm okay. My thanks to you for your help!
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: Torchlight II
+### Motivation: NONE

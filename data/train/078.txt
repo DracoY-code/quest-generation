@@ -1,0 +1,15 @@
+### Quest Name: Recover Dennis' Mother's Gong
+### Objective: find Dennis' family gong
+### First Tasks: find Roger
+### First Task Locations:  - the sewers below the city
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: Roger - a fence (location: the sewers below the city)
+### Tools: Dennis is the leader of a mercenary band from Riatavin, Roger might have bought Dennis' family gong
+### Description: I be Dennis... the leader of mercenary fellows out o' Riatavin. Me gong was stolen. The gong belonged to my mother... it was her dowry and worth a great deal of coin. A damnable lout stole it before my gong lessons were even finished! The lout sold it to a fence by the name of Roger not too long ago, I do think. He lives in the sewers below th' city, although I knows not exactly where. He might still have it. Please find me family gong!
+### Locations: Riatavin - a city (location: NONE)
+### Items: Dennis' family gong - a gong that belonged to Dennis' mother (amount: 1)
+### Enemies: NONE
+### Groups: NONE
+### Title: Baldur's Gate II: Shadows of Amn
+### Motivation: NONE

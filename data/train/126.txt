@@ -1,0 +1,15 @@
+### Quest Name: Through A Nightmare, Darkly
+### Objective: help Kud-Ei save her friend Henantier
+### First Tasks: follow Kud-Ei to Henantier
+### First Task Locations: Leyawiin - a town
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - a sizable reward (amount: 1)
+### Characters: Henantier - a careless male mage (location: Leyawiin)
+### Tools: Henantier and Kud-Ei were study-mates at the Arcane University, Henantier gets into trouble because of his careless experiments: Kud-Ei fears that Henantier has done this again, Henantier is trapped and there is no way Kud-Ei can free him
+### Description: Kud-Ei. I don't suppose you could help me locate my friend Henantier could you? If you find him, I'll be glad to offer you a sizable reward. I miss Henantier so. We were study-mates at the Arcane University and we've come to grow fond of each other over the years. He's always getting himself into jams with the careless ways he performs his experiments, and well, I'm afraid he's done it again. I'm going to level with you, as you seem like you wish to help. Henantier isn't missing. On the contrary, I know exactly where he is. The problem is he's trapped and there's no way I can free him. Follow me. We aren't going far, so no need to prepare for a long journey. In fact, Henantier's still in town. More I can't say aloud without risk of others hearing.
+### Locations: Arcane University - a school for mages (location: NONE)
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: The Elder Scrolls IV: Oblivion
+### Motivation: NONE

@@ -1,0 +1,15 @@
+### Quest Name: Little Lost Ones
+### Objective: help Bellethe find Finnas and their precious animals
+### First Tasks: find Finnas
+### First Task Locations: Widow's Veil - a cave inhabited by nasty creatures
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: Finnas - Bellethe's husband (location: Widow's Veil)
+### Tools: Bellethe and Finnas are homesteaders with a small farm in the Frosted Hills: they went to get supplies from Estherian Enclave before winter
+### Description: Please, help me! Our dear little ones wandered into that cave! My husband Finnas ventured after them, but it is crawling with nasty creatures, and he hasn't returned! My husband Finnas and I were on our way to the Estherian Enclave. We're homesteaders, with a small farm in the Frosted Hills. The weather is getting harsh, so we were making one last run for supplies before winter. Oh, I'm beside myself with worry! Please, find Finnas and our precious babies! You have to help us! You could have a special item as a token of our gratitude!
+### Locations: Estherian Enclave - a town (location: NONE)
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: Torchlight II
+### Motivation: NONE

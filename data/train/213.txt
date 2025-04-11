@@ -1,0 +1,15 @@
+### Quest Name: Farrel wants you to find Cornelius's gold pocket watch. Find it and return it to Farrel
+### Objective: Locate Cornelius' missing gold pocket watch and return it to Farrel.
+### First Tasks: Search for clues about the missing pocket watch., Investigate Francis as a potential suspect., Retrieve the pocket watch and return it to Farrel.
+### First Task Locations: Broken Hills - A mining town inhabited by humans, ghouls, and super mutants.
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: Caps - A small monetary reward for retrieving the pocket watch. (amount: 100), Improved reputation in Broken Hills - Farrel and the townsfolk will appreciate your efforts. (amount: NONE)
+### Characters: NONE
+### Tools: Perception to spot clues., Speech skill to question Francis., Lockpick in case the watch is hidden away.
+### Description: Farrel believes resolving the dispute over Cornelius' missing gold pocket watch is important for town harmony. Your task is to investigate, retrieve the watch, and return it to him.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: Fallout 2
+### Motivation: NONE

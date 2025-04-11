@@ -1,0 +1,15 @@
+### Quest Name: Recovering "Soultaker"
+### Objective: bring the "Soultaker" to Hurgan Stoneblade
+### First Tasks: find the "Soultaker"
+### First Task Locations:  - Durlag's Tower, a trapped tower
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - an enchanted hammer (amount: 1)
+### Characters: Durlag - a legendary hero who went mad after his family was killed (location: ),  - Hurgan Stoneblade's grandpa, Durlag's friend (location: )
+### Tools: Hurgan Stoneblade's grandpa was killed by a demon, Durlag intended to send "Soultaker" to Hurgan Stoneblade's mother, Durlag did not send "Soultaker": his family was replaced with doppelgangers and he was driven mad after killing the doppelgangers
+### Description: I am Hurgan Stoneblade, presently residing in Citadel Adbar. Have I got the adventure that'll make ye yearn for glory! Ye have heard of Durlag's Tower, mayhaps? Me granda' was a good friend of Durlag's. Me granda' was slain by an evil demon but Durlag survived. Durlag kept "Soultaker" that had been me granda's. He was going to send it to me mother, but he was betrayed. A sad tale, that. After Durlag built the tower his family was replaced by doppelgangers. Durlag killed them all but was driven mad by the act. He entrapped his tower heavily and forgot about me granda's dagger. If ye be interested, I wish to hire ye to retrieve me granda's dagger, "Soultaker," me birthright. An enchanted hammer I can offer ye for yer services.
+### Locations: Citadel Adbar - a fortress (location: NONE)
+### Items: "Soultaker" - a dagger that belonged to Hurgan Stoneblade's grandpa (amount: 1)
+### Enemies: NONE
+### Groups: NONE
+### Title: Baldur's Gate
+### Motivation: NONE

@@ -1,0 +1,15 @@
+### Quest Name: Fade's Passage
+### Objective: ask Fade to open the hidden passage to Cacklespit's realm
+### First Tasks: search for the shrines that mark Fade's resting place
+### First Task Locations: Sundered Battlefield - an ancient battlefield in the north
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: Cacklespit - a female witch who has been harassing the player (location: Cacklespit's realm), Fade - a male spirit, who may want something for his help (location: Sundered Battlefield)
+### Tools: the player helped Widget and his cousins in the past
+### Description: Since you helped us in our time of need, we have been searching for a way to return the favor. It seems you've met with some unexpected trouble from Cacklespit the witch. I've done a little research, and if you'd like to find her, I think I can help! From the lore I've been able to piece together, there is a secret way to her hidden realm. The spirit, Fade, can open the way - but he may ask for something in return. You'll have to journey to the Sundered Battlefield in the north. Search for the shrines that mark Fade's resting place. I hope this helps you on your way! I'll keep researching in hopes of finding more information to help you.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: Torchlight II
+### Motivation: NONE

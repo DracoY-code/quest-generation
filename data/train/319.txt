@@ -1,0 +1,15 @@
+### Quest Name: The Mind of Madness
+### Objective: gain access to the Pelagius Wing, and find Dervenin's master
+### First Tasks: talk to Una or Erdi about entering the Pelagius Wing
+### First Task Locations: Blue Palace - the large palace of the local ruler
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - Dervenin's master will repay the player: it will be worth any inconveniences (amount: 1)
+### Characters: Una - a maid (location: Blue Palace), Erdi - a maid (location: Blue Palace)
+### Tools: Dervenin's master says that Dervenin is interrupting his vacation, without Dervenin's master's guidance, Dervenin's homeland is falling apart, Dervenin's master went into the Pelagius Wing to talk with an old friend, Dervenin gives the player a hip bone: the player can't enter Pelagius Wing without it
+### Description: My master has abandoned me! Abandoned his people. And nothing I say can change his mind. Now he refuses to even see me. He says I interrupt his vacation! It's been so many years... Won't you please help? Without his guidance, our homeland is falling apart. North wages war against the south! We need his return. Oh, but... I'm sure he'll repay you when he comes to his senses! His favor is a powerful, powerful thing. And so very worth any... inconveniences. Last I saw him, he was visiting a friend in the Blue Palace. But no one as mundane as the local ruler. No, no... such people are below him. No, he went into the forbidden wing of the palace, to speak with an old friend. Said it had been ages since they had last had tea. Oh and you'll need the hip bone... it's very important. No entering Pelagius Wing without that. The doors to the Pelagius Wing are locked. But I hear the maids, Una and Erdi, know how to enter it for cleaning. Surely they can help for such an important matter?
+### Locations: Pelagius Wing - a forbidden wing of the Blue Palace (location: NONE)
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

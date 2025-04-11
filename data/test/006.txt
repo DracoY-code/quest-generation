@@ -1,0 +1,15 @@
+### Quest Name: Pillaging the Illagers
+### Objective: bring the plans of Illagers to Xan
+### First Tasks: steal the plans of Illagers who threaten Fishing Hamlet
+### First Task Locations: Deepwood Tower - an Illager outpost tower in the nearby woods
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - enchanted sword (amount: 1)
+### Characters: NONE
+### Tools: the player is a known villain
+### Description: No! Go away! Please don't kill me... Illagers are making me scared enough already! Perhaps you'd like to do something villainous, and even net a reward for it? This village, Fishing Hamlet, has been threatened by nearby Illagers of Deepwood Tower for some time. You could go to their tower in the woods and steal their plans. Bring the plans to me, and I'll give you an enchanted sword as a reward. Just don't test its blade on me, please!
+### Locations: Fishing Hamlet - a village (location: NONE)
+### Items: NONE
+### Enemies: NONE
+### Groups: Illagers - bandits
+### Title: Minecraft
+### Motivation: knowledge

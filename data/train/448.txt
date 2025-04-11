@@ -1,0 +1,15 @@
+### Quest Name: Unbound
+### Objective: escape Imperial custody with Ralof
+### First Tasks: jump through the roof of the inn on the other side and keep running
+### First Task Locations: NONE - 
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: NONE
+### Tools: the player and Ralof are making their escape together: the player is a Nord
+### Description: Hey, Nord. Get up! Come on, the gods won't give us another chance! See the inn on the other side? Jump through the roof and keep going! Go! I'll follow when I can!
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

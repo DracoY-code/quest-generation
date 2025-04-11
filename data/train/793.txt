@@ -1,0 +1,15 @@
+### Quest Name: A Shield for Igmund
+### Objective: retrieve the shield for Igmund
+### First Tasks: get Igmund's father's shield back from Hagravens
+### First Task Locations: Hag's End - a den of Hagravens
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - Igmund's permission to purchase property in Markarth (amount: 1)
+### Characters: NONE
+### Tools: the player asked more work from Igmund, Igmund's father tried to negotiate with the Forsworn: they took his shield to Hagravens
+### Description: I do have more work for you. A personal matter. My father died trying to negotiate with the Forsworn, back when that was possible. They took his shield to Hag's End, to those Hagraven beasts they consort with. I need you to bring it home where it belongs. I warn you, it's dangerous work. No man of mine has ever faced a Hagraven and lived. I'll understand if you decline. Return my father's shield to me and I'll grant you permission to purchase property in my city. Divines watch over you.
+### Locations: Markarth - a city (location: NONE)
+### Items: NONE
+### Enemies: NONE
+### Groups: Forsworn - savage people who consort with Hagravens, Hagravens - monsters
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

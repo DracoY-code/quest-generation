@@ -1,0 +1,15 @@
+### Quest Name: Hand to Hand Training
+### Objective: prove Helvius Cecia that you deserve his training
+### First Tasks: have a sparring match with Helvius Cecia
+### First Task Locations: NONE - 
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - Hand to Hand training from Helvius Cecia (amount: 1)
+### Characters: NONE
+### Tools: the player asked Helvius Cecia to give them Hand to Hand training, Helvius Cecia will not throw a single punch during the sparring match, the rules of the sparring match: 1) the player must not reach for a weapon, 2) Helvius Cecia will tell the player to stop if they hurt him or if the match goes on for too long
+### Description: Hand to Hand training, eh? The real question is, can you fight? You know, throw a good punch? Can you? I'd like to find out if I'm going to spend time working with you. So are you up for a sparring match? I'll make it easy on you. I won't throw a single punch. I just want to see what you've got, anyway. So, is it a deal? If I see you reach for a weapon, I'm calling it off. And if you can actually hurt me, I'll tell you to stop. If this goes on for too long, and I get bored, I'll stop you. Now show me what you've got!
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: The Elder Scrolls IV: Oblivion
+### Motivation: NONE

@@ -1,0 +1,15 @@
+### Quest Name: Coming Soon!
+### Objective: promote the services of Bob in nearby villages
+### First Tasks: talk to the villagers, hand out promotional items to villagers, hand out coupons to villagers
+### First Task Locations: Seaside Settlement - a coastal village, Desert Refuge - a desert village, Stoneburg - a mountain village
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - an enchanted book (amount: 1)
+### Characters: NONE
+### Tools: NONE
+### Description: Hail! It's rare to see another traveler out in the wilderness. I'm a wandering merchant by trade: I travel from village to village to sell my merchandise. You wouldn't mind helping me out a bit in exchange for an enchanted book? I'd like you to promote my services in nearby villages: Seaside Settlement, Desert Refuge, and Stoneburg. I am already fairly well-known in the coastal Seaside Settlement, so you just gotta tell the villagers there that I am coming there soon. For the villagers of Desert Refuge out in the desert, I have some promotional items that I want you to hand out. Lastly, I want you to give some coupons to the villagers of the mountainous Stoneburg. Good luck in your promotional mission!
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: Minecraft
+### Motivation: reputation

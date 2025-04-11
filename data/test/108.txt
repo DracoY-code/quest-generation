@@ -1,0 +1,15 @@
+### Quest Name: Receive Your Weekly Issue
+### Objective: Collect the latest edition of the weekly publication.
+### First Tasks: Find the newspaper vendor or designated distributor., Request or collect the latest issue., Read or deliver the issue as needed.
+### First Task Locations: Hub Marketplace - A bustling market where vendors distribute various goods, including newspapers., Vault Library - A repository of knowledge where publications might be archived.
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: Weekly Issue - A publication containing useful information, news, or stories relevant to the wasteland. (amount: NONE), Experience Points - Earned for successfully collecting and possibly reading the issue. (amount: 100)
+### Characters: NONE
+### Tools: N, O, N, E
+### Description: A routine task to collect the latest issue of a weekly publication, providing updates and insights into current events across the wasteland.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: Fallout
+### Motivation: NONE

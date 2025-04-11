@@ -1,0 +1,15 @@
+### Quest Name: Mephala's Web of Lies
+### Objective: Start a feud between two prominent families
+### First Tasks: kill the leaders of the two families and plant evidence to implicate the other family as the killer
+### First Task Locations: Bleaker's Way - a village
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: Ebony Blade - a sword (amount: 1)
+### Characters: NONE
+### Tools: in Bleaker's Way, two families, Nord and Dunmer, live in perfect harmony, don't get caught or killed while starting the feud
+### Description: I'm Mephala. Call me 'Webspinner'. Pluck but a single thread, and the weave unravels. In Bleaker's Way, two families, Nord and Dunmer, live in perfect harmony. But beneath the surface lurks the secret seed of strife. Kill the leaders of the two families. Plant evidence to implicate the other family as the killer. And don't get caught. Be cunning. Don't spoil my scheme. And don't die... that would spoil everything. Ha-ha-ha-hah! And there'll be a little needle to help you stitch your own tangled tapestries: the Ebony Blade.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: Daedric Princes - immortal, fickle, infamous divine beings
+### Title: The Elder Scrolls IV: Oblivion
+### Motivation: NONE

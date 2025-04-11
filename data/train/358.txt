@@ -1,0 +1,15 @@
+### Quest Name: Make Poison Antidote
+### Objective: Create an antidote to cure radscorpion venom.
+### First Tasks: Obtain a sample of radscorpion venom., Find someone who can create an antidote.
+### First Task Locations: Shady Sands - A small settlement plagued by radscorpions., Radscorpion Caves - A cave system infested with radscorpions.
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: Radscorpion Antidote - A cure for radscorpion venom. (amount: 1), Experience Points - Earn experience for helping the settlement. (amount: 250)
+### Characters: NONE
+### Tools: Radscorpion Venom
+### Description: Shady Sands is dealing with a radscorpion infestation. The player is tasked with acquiring radscorpion venom and bringing it to a knowledgeable NPC to create an antidote.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: Fallout
+### Motivation: NONE

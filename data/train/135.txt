@@ -1,0 +1,15 @@
+### Quest Name: Receive Training from Thomas
+### Objective: Train with Thomas to improve combat skills.
+### First Tasks: Find Thomas and request training., Follow Thomas’s instructions during the session., Complete the required combat drills.
+### First Task Locations: Training Grounds - An outdoor or designated area where Thomas conducts combat training sessions.
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: Combat Skill Improvement - Increased proficiency in combat-related abilities, such as melee or ranged combat. (amount: NONE)
+### Characters: NONE
+### Tools: N, O, N, E
+### Description: Thomas offers training sessions to help wastelanders improve their combat skills, making them better equipped for survival.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: Fallout
+### Motivation: NONE

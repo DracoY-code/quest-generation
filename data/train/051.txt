@@ -1,0 +1,15 @@
+### Quest Name: A Journal of Regret
+### Objective: retrieve Runil's journal for him
+### First Tasks: find Runil's journal
+### First Task Locations: Darkshade Copse - a cave
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - Runil will pay the player (amount: 1)
+### Characters: Kust - Runil's male assistant (location: Falkreath), Arkay - the god of life and death (location: )
+### Tools: Runil became a priest of Arkay after the Great War: many died by Runil's magics, Kust and the people of Falkreath have come to accept Runil as one of their own
+### Description: I am Runil, a priest of Arkay. I came into Arkay's light after the Great War. So many died by my hands, my magics. I'm fortunate that Kust and the people of Falkreath have come to accept me as one of their own. Could you do an old elf a favor? I misplaced my journal in a cave I was exploring. I'll pay for its return. Blessing of Arkay to you for your help.
+### Locations: Falkreath - a town (location: NONE)
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

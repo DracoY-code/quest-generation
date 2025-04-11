@@ -1,0 +1,15 @@
+### Quest Name: Retrieve the Economy Disk and deliver it to McClure in Vault City
+### Objective: Obtain the Economy Disk from Gordon in Gecko and deliver it to McClure in Vault City.
+### First Tasks: Speak with Gordon in Gecko to acquire the Economy Disk., Take the Economy Disk to Councilman McClure in Vault City.
+### First Task Locations: Gecko - A ghoul-run settlement with a nuclear power plant., Vault City - A technologically advanced settlement with strict citizenship rules.
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: Caps - A monetary reward for completing the delivery. (amount: 750), Improved relations with Vault City - Vault City officials will be more cooperative in future dealings. (amount: NONE)
+### Characters: NONE
+### Tools: Speech skill to negotiate with Gordon if necessary., Vault City citizenship or a way to bypass their security.
+### Description: McClure in Vault City seeks economic data from Gecko to assess the power plant's impact on regional trade. You must retrieve the Economy Disk from Gordon in Gecko and deliver it safely.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: Fallout 2
+### Motivation: NONE

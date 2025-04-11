@@ -1,0 +1,15 @@
+### Quest Name: The Djinni's Next Task
+### Objective: complete Fazeer Shah's second task
+### First Tasks: survive
+### First Task Locations: Portal - a portal to another place
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: NONE
+### Tools: the player survived Fazeer Shah's first task with the Tu'tara
+### Description: You survived the Tu'tara more or less in one piece. Congratulations. But it occurs to me that you didn't do anything that you wouldn't ordinarily have done. This second task should prove much more amusing. Step through the Portal. Your second task... is to survive!
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: Tu'tara - monstrous reptiles
+### Title: Torchlight II
+### Motivation: NONE

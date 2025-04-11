@@ -1,0 +1,15 @@
+### Quest Name: The Master's Son
+### Objective: bolster Viranus Donton's confidence by find Galtus Previa in Nonwyll Cavern with Viranus Donton
+### First Tasks: take Viranus Donton on a mission with you
+### First Task Locations: Donton house - Viranus Donton's home
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: Galtus Previa - a fellow member of the Fighters Guild, a missing man (location: Nonwyll Cavern), Viranus Donton - a fellow member of the Fighters Guild, Vilena Donton's son (location: Donton house), Vilena Donton - the female guildmaster of the Fighters Guild, protective of Viranus Donton (location: ), Vitellus Donton - a fellow member of the Fighters Guild, Viranus Donton's older brother, Vilena Donton's eldest son (location: )
+### Tools: Vitellus Donton was killed in action recently: the player may have seen the other wounded around
+### Description: I've got another job for you, slightly off the record. You'll be going on a mission with Viranus Donton. Yes -- the guildmaster's son. You're to accompany him, and make sure he succeeds. He needs some time in the field, to get his confidence up, or he'll never become a good warrior. Vilena coddles the boy too much. Doesn't want him in the line of fire. Suppose it's no surprise after Vitellus. Vitellus was Vilena Donton's eldest son. Good man. We lost him on a botched mission recently. You've probably seen the other wounded around. If you're smart, you'll steer clear of the subject around the guildmaster. Perhaps you and I will have time to discuss it more later. Viranus' mother's been holding him back, protecting him. You'll go to Nonwyll Cavern with him. Galtus Previa was lost there, and you're to find him. And not a word of this to the guildmaster! Go find him. He'll be in the Donton house, most likely. And bring him back in one piece!
+### Locations: Nonwyll Cavern - a cavern (location: NONE)
+### Items: NONE
+### Enemies: NONE
+### Groups: Fighters Guild - a mercenary guild
+### Title: The Elder Scrolls IV: Oblivion
+### Motivation: NONE

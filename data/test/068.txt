@@ -1,0 +1,15 @@
+### Quest Name: Old Friends
+### Objective: find the person who summoned ash spawns and made them attack Neloth
+### First Tasks: wear the ring Neloth gave you to find the source of the ash spawns
+### First Task Locations: NONE - 
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: NONE
+### Tools: Neloth gives the player a ring: it will light up the source of the ash spawn attacks when the player gets close to it
+### Description: I'm under attack. There are too many coincidences. There must be someone behind all of my recent troubles. I have enemies. Legions of them back in Morrowind. However, in this case I have reason to believe it is someone in Solstheim. First I need to identify the culprit. I've enchanted this ring to find the source of the attacks. Here, take it. Just wear the ring I gave you. It will light up the source when you get close to it. I enchanted the ring with a bit of ash from the last ash spawn attack. It can follow the magical link back to its summoner.
+### Locations: Morrowind - a province where Neloth has made many enemies (location: NONE), Solstheim - a remote island (location: NONE)
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

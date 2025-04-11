@@ -1,0 +1,15 @@
+### Quest Name: Voices Without Bodies
+### Objective: help Dagail to find her amulet
+### First Tasks: seek Agata
+### First Task Locations: NONE - 
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - recommendation from Dagail (amount: 1)
+### Characters: Agata - a young woman, whose heart is old and wise (location: )
+### Tools: Dagail hears voices without her amulet
+### Description: You seek wisdom from me, child? Ah, no. You seek words of recommendation. Words are... difficult. They come and go. The voices, though. So loud they are, they drown out the words. Without my amulet, my stone to lock the voices away, the words will never come and stay. Would you lift your hands to help another, to help me find the words? Seek Agata, child. She will see the path, and set you on it. She may be young, but her heart is old and wise. It guides her well through these troubled times. I must rest.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: The Elder Scrolls IV: Oblivion
+### Motivation: NONE

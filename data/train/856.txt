@@ -1,0 +1,15 @@
+### Quest Name: Brain Over Brawl
+### Objective: give 10 pistons to Harry
+### First Tasks: craft 10 pistons
+### First Task Locations: NONE - 
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: Nether Quartz - a rare crafting ingredient, used to make quartz pillars (amount: 32)
+### Characters: NONE
+### Tools: the player is an infamous person, the player can craft a piston with 3 wooden planks, 4 cobblestone, an iron ingot, and Redstone Dust
+### Description: You are the person who's been causing trouble in these parts, aren't you? Why don't we put your energy to a better use? I'm a mason, which means that I have to move large quantities of stone from one place to another. I'd like to automate that process with pistons. That would save me from backache. The problem is I don't have the materials for making pistons, or the know-how to craft them. This is where you enter the picture. Craft 10 pistons, and then bring them to me. I know that you need 3 wooden planks, 4 cobblestone, an iron ingot, and Redstone Dust for crafting a piston. Some quarts pillars broke while we were transporting them. You could have the remaining 32 Nether Quartz from them.
+### Locations: NONE
+### Items:  - wooden planks (amount: 3),  - cobblestone (amount: 4), Redstone Dust - a crafting ingredient that powers up contraptions (amount: 1)
+### Enemies: NONE
+### Groups: NONE
+### Title: Minecraft
+### Motivation: comfort

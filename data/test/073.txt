@@ -1,0 +1,15 @@
+### Quest Name: Kill the evil plants that infest Hakunin's garden
+### Objective: Eliminate the mutated plants threatening Hakunin's garden.
+### First Tasks: Travel to Hakunin's garden in Arroyo., Destroy the mutated plants infesting the area., Return to Hakunin for confirmation.
+### First Task Locations: Hakunin's Garden - A small garden in Arroyo that has become overrun with mutated plants.
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: Healing Powder - A traditional tribal remedy created by Hakunin. (amount: 1), Karma - A small increase in reputation within the tribe. (amount: NONE)
+### Characters: NONE
+### Tools: N, O, N, E
+### Description: Hakunin, the village shaman, requests assistance in dealing with an infestation of mutated plants that have taken over his sacred garden. The player must eliminate these creatures to restore balance.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: Fallout 2
+### Motivation: NONE

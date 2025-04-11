@@ -1,0 +1,15 @@
+### Quest Name: Noster's Lost Helmet
+### Objective: retrieve Noster Eagle-Eye's helmet for him
+### First Tasks: find Noster Eagle-Eye's helmet
+### First Task Locations: NONE - 
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - Noster Eagle-Eye will show the player some of his old scouting tricks (amount: 1)
+### Characters: NONE
+### Tools: Noster Eagle-Eye tracked down all the places in the wilds that were causing people trouble: he lost his helmet in one of the old caves
+### Description: I'm Noster Eagle-Eye. I was the finest scout in the Imperial Legion, once. Tracked down all the places in the wilds that were causing people trouble. Lost my helmet in one of the old caves. My pretty, pretty helmet. Life just got worse after that. Kept losing things. So many things.... Oh, could you find that helmet for me? I sure would love to have it again. Could show you some of my old scouting tricks.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

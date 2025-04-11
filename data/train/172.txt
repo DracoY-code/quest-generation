@@ -1,0 +1,15 @@
+### Quest Name: An Offer
+### Objective: help Calcelmo with his research
+### First Tasks: bring the Dwemer sword you bough from Warmaiden's to Calcelmo
+### First Task Locations: Markarth - a city
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - handsome pay (amount: 1)
+### Characters: Dragonborn - the player (location: )
+### Tools: "Letter from Calcelmo" is addressed toward the player
+### Description: Letter from Calcelmo by Calcelmo  Dragonborn, It has come to my attention you may have recently acquired a certain Dwemer sword from Warmaiden's. I'm not sure how such an object came to find itself resting there... but I've been trying to obtain one for my research. If you still have it, or if not, find another one, I would be most appreciative if you were to bring it to me here in Markarth. I will pay handsomely.  Sincerely, Calcelmo
+### Locations: Warmaiden's - a shop (location: NONE)
+### Items: "Letter from Calcelmo" - a letter (amount: 1)
+### Enemies: NONE
+### Groups: Dwemer - an extinct race of people
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

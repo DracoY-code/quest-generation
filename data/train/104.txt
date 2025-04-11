@@ -1,0 +1,15 @@
+### Quest Name: The Words of Power
+### Objective: find a lost word of power
+### First Tasks: get to the location marked on your map
+### First Task Locations: Skyrim - a province with many words of power
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - the player learns a new word of power (amount: 1)
+### Characters: Dragonborn - a mortal blessed with the blood and soul of a dragon, masters of the Thu'um (location: )
+### Tools: the player is the Dragonborn
+### Description: You have learned so much already, Dragonborn. Growing your gift too quickly would be dangerous. But there are many Words of Power in Skyrim, carved in the Dragon tongue. Even from here, we can feel the Thu'um resonate from them. Finding these lost Words would be a sufficient test, to temper your abilities with experience. We have felt the whisper of a Word. Give me your map, and I will show you where its echo can be found.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

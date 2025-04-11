@@ -1,0 +1,15 @@
+### Quest Name: Refuge for the Elves
+### Objective: help the refugees find a safe place to be
+### First Tasks: find someone who could take the refugees in
+### First Task Locations: NONE - 
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - the refugees' thankfulness (amount: 1)
+### Characters: NONE
+### Tools: the refugees have no money, the innkeeper turned the refugees away
+### Description: We are elven refugees in dire need of help! We have nowhere to stay... we have no choice but to wander the streets. I fear we will soon run into trouble with the soldiers of this town. We have no money, and the innkeeper turned us away because he feared our wives would draw unwanted attention from the soldiers. Who else would have the heart and the room to take us all in? Perhaps you can find someone willing to take us in? We would be truly thankful for your help.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: Baldur's Gate II: Shadows of Amn
+### Motivation: NONE

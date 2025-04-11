@@ -1,0 +1,15 @@
+### Quest Name: The Bedlam Job
+### Objective: steal whatever you can to make an impression
+### First Tasks: steal from anywhere in Whiterun without anyone seeing you steal
+### First Task Locations: Whiterun - a city
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - the player gets to keep everything the player steals (amount: 1)
+### Characters: NONE
+### Tools: NONE
+### Description: Sometimes we like to remind a city that we mean business, so we hit it hard. Just steal whatever we can until we've made an impression. Simple right? Almost. The catch is it doesn't count if anyone sees you take it. The message needs to be clear; we work in the shadows. Steal from anywhere in Whiterun, and you even get to keep everythin' you stole. So, you in?
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: Thieves Guild - a guild of thieves
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

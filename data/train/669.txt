@@ -1,0 +1,15 @@
+### Quest Name: Connecting the Dots
+### Objective: bring Inkspot's map to Mapmaker, and return to Inkspot
+### First Tasks: find Mapmaker
+### First Task Locations: Rivermouth - a village
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - a little something (amount: 1)
+### Characters: Mapmaker - a male cartographer (location: Rivermouth)
+### Tools: NONE
+### Description: Oh my! I'm supposed to deliver a map of mine to one of my colleagues in another village, but I just can't ever spare the time You seen to have a lot of time on your hands. Could you please deliver my map to Mapmaker in Rivermouth? He'd be grateful to you; he has wanted to examine this particular map for a long time. Upon your return, I'd give you a little something for your help.
+### Locations: Desert Refuge - a village (location: NONE)
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: Minecraft
+### Motivation: knowledge

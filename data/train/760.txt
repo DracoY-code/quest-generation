@@ -1,0 +1,15 @@
+### Quest Name: Return to the Enclave
+### Objective: stop the Alchemist before it's too late
+### First Tasks: go to the Ossean Wastes with the help of Commander Vale
+### First Task Locations: Ossean Wastes - a large desert
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: Guardian - a powerful spirit (location: ), Alchemist - a man who has Ordrak's Heart (location: )
+### Tools: Ordrak's Heart wreaking havoc, the Guardian wants the player to go to the Ossean Wastes
+### Description: I don't know if the Alchemist understands that Ordrak's Heart is wreaking such havoc... or if he just doesn't care! I hope there's still a chance to stop him, one way or another, before it's too late. So the Guardian wants you to head to the Ossean Wastes? You know what? I think I can help you with that...
+### Locations: NONE
+### Items: Ordrak's Heart - a destructive artifact (amount: 1)
+### Enemies: NONE
+### Groups: NONE
+### Title: Torchlight II
+### Motivation: NONE

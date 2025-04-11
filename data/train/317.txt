@@ -1,0 +1,15 @@
+### Quest Name: Drunk and Disorderly
+### Objective: find out why several of your fellow members of the Fighters Guild are causing trouble in Leyawiin
+### First Tasks: find out what is wrong with Rellian, Vantus Prelius, and Dubok gro-Shagk
+### First Task Locations: Leyawiin - a city
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: Rellian, Vantus Prelius, Dubok gro-Shagk - 3 fellow members of the Fighters Guild who have never caused issues before (location: Leyawiin)
+### Tools: the player's fellow members of the Fighters Guild have been causing issues at the tavern in Leyawiin
+### Description: Back for more work, are you? Good. Some of our boys are causing trouble in Leyawiin. Looks bad for the guild. Some of your brothers have been getting rowdy at the local tavern. I've got no problem with cutting loose, but I don't like it when we all look bad. You're looking for Rellian, Vantus Prelius, and Dubok gro-Shagk. I haven't had any trouble with them before, so find out what's going on. I'll be waiting.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: Fighters Guild - a mercenary guild
+### Title: The Elder Scrolls IV: Oblivion
+### Motivation: NONE

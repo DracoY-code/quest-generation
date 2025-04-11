@@ -1,0 +1,15 @@
+### Quest Name: Restocking Soul Gems
+### Objective: bring 7 Common Soul Gems to Sergius Turrianus
+### First Tasks: find 7 Common Soul Gems
+### First Task Locations: NONE - 
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: NONE
+### Tools: NONE
+### Description: I need some more supplies. Can you help out with that? I'm running low on Common Soul Gems. Bring me another seven of them, if you can.
+### Locations: NONE
+### Items: Common Soul Gems - mage supplies (amount: 7)
+### Enemies: NONE
+### Groups: NONE
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

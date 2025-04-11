@@ -1,0 +1,15 @@
+### Quest Name: Buying a house in Bravil
+### Objective: purchase the house in Bravil
+### First Tasks: pay 4,000 gold to Regulus Terentius
+### First Task Locations: Bravil - a city
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - house in Bravil, an ugly, modest, fairly bare shack overlooking the canal (amount: 1)
+### Characters: Nilawen - a female trader (location: The Fair Deal)
+### Tools: the player told Regulus Terentius that they are looking to buy a house in Bravil, Nilawen sells furnishings
+### Description: Regulus Terentius, Count of Bravil. So you're looking for a house to buy here in Bravil? Really? It just so happens there is a modest shack overlooking the canal. It's not much to look at, but the smell will soon make you forget how ugly it is. Pay me 4,000 gold, and it's all yours. I'll have my steward register the deed of ownership. It's squalid little shack, I'm sorry to say. Oh, and the place is fairly bare. If I were you, I'd head on over to Nilawen at The Fair Deal and get some furnishings. Or you could always eat off the floor... doesn't matter to me.
+### Locations: The Fair Deal - Nilawen's store (location: NONE)
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: The Elder Scrolls IV: Oblivion
+### Motivation: NONE

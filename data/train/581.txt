@@ -1,0 +1,15 @@
+### Quest Name: Nothing You Can Possess
+### Objective: retrieve a decorative carving from the High Fane for Umbacano
+### First Tasks: locate the ruins of the High Fane
+### First Task Locations: NONE - 
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: NONE
+### Tools: the player has obtained artifacts for Umbacano before, Umbacano gives the player a sketch depicting the High Fane: the High Fane dates from the Late Ayleid Period, following the fall of White Gold Tower, the drawing on the bottom of the page Umbacano gave the player depicts a carved panel from the central chamber of the High Fane, Umbacano gives the player the key to the inner chamber of the High Fane
+### Description: You have proven yourself more than a simple grave robber. I believe you can handle a more complicated assignment. Are you interested? Here, take a look at this sketch. The ancient texts refer to this site only as the "High Fane." Do you know it? Your first task is to locate the ruins of the High Fane. I believe it must now be known by a different name. The High Fane dates from the Late Ayleid Period, following the fall of White Gold Tower, a very troubled time for that ancient people. A time I find most fascinating. The drawing on the bottom of the page I gave you depicts a carved panel from the central chamber of the High Fane. I believe this carving will shed new light on Ayleid history, if I am able to examine it closely. I would like you to retrieve it for me. You will need this as well. It is the key to the inner chamber of the High Fane. I part with it reluctantly, so guard it well. It is what began my search for the High Fane, many years ago.
+### Locations: High Fane - an ancient Ayleid settlement known by a different name today (location: NONE)
+### Items: NONE
+### Enemies: NONE
+### Groups: Ayleids - an ancient, extinct race of people
+### Title: The Elder Scrolls IV: Oblivion
+### Motivation: NONE

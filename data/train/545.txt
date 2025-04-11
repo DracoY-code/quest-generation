@@ -1,0 +1,15 @@
+### Quest Name: Blood Money
+### Objective: investigate a number of merchants' deaths along the Gold Road
+### First Tasks: speak with Arielle Jurard about further instructions
+### First Task Locations: Brina Cross Inn - an inn north of here
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - recommendation from Carahil (amount: 1)
+### Characters: Arielle Jurard - a female mage (location: Brina Cross Inn)
+### Tools: the player asked a recommendation from Carahil: the player is new to the Mages Guild, the Council of Mages has entrusted Carahil to take care of an issue of merchant killings along the Gold Road, a rogue mage is suspected of the merchant killings: the only link between the victims is the Brina Cross Inn, battlemages have been sent to the Brina Cross Inn, the player can learn Restoration while facing a life and death situation
+### Description: So you are here for your recommendation? Unlike some frivolous tasks you may be given at other guild halls, this is a serious matter, and has consequences. Are you prepared? Allow me to explain the task. The Council of Mages has entrusted me with resolving a situation along the Gold Road. Several traveling merchants have been found dead along the Gold Road recently, with even more missing. The Council has asked that I put a stop to it. You are going to help me do so. As you are new to the guild, you are less likely to be recognized as a member. This may give you an advantage in getting to the root of the problem. We believe the killings are the actions of a rogue mage. Battlemages have been sent to the Brina Cross Inn, the only common link between the victims. You are to travel north to the Brina Cross Inn, and speak with Arielle Jurard. She will give you further instructions. This is a harsh, dangerous task for you, I realize. Your unfamiliar face makes you most useful, however. And, what better way to learn the many uses of Restoration? Practical application is often the best educator. Even in life and death situations.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: Mages Guild - a guild of mages, Council of Mages - the ruling body of Mages Guild
+### Title: The Elder Scrolls IV: Oblivion
+### Motivation: NONE

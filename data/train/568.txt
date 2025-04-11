@@ -1,0 +1,15 @@
+### Quest Name: Get 3-step plasma transformer for Skeeter
+### Objective: Retrieve a 3-step plasma transformer so Skeeter can continue his work in Gecko.
+### First Tasks: Find a 3-step plasma transformer, which can be located in Vault City., Return the 3-step plasma transformer to Skeeter in Gecko.
+### First Task Locations: Vault City - A technologically advanced settlement with access to high-end equipment., Gecko - A ghoul-run town with a nuclear power plant, where Skeeter resides.
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: Caps - A monetary reward for delivering the transformer. (amount: 250), Improved Reputation with Gecko - The ghouls of Gecko will appreciate your assistance. (amount: NONE)
+### Characters: NONE
+### Tools: Speech or Barter skill to negotiate for the transformer., Lockpick skill to steal the transformer if necessary.
+### Description: Skeeter needs a 3-step plasma transformer to continue his maintenance work in Gecko. You must locate one and bring it back to him.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: Fallout 2
+### Motivation: NONE

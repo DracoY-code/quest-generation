@@ -1,0 +1,15 @@
+### Quest Name: Hermit Knowledge
+### Objective: ask Lone Wolf about the meaning of life, and return to Mario
+### First Tasks: find Lone Wolf
+### First Task Locations: Lily Forest - a flower forest
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - a compass (amount: 1)
+### Characters: Lone Wolf - a strange woman (location: Lily Forest)
+### Tools: NONE
+### Description: There is a strange woman living alone out in the Lily Forest. Some say that she knows the meaning of life! Could you find her in that flower forest, and ask her about it? I really want to hear what could possibly be the meaning of life. When you return, I'll have a little something for you. A compass. May it point you toward your destinations in life!
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: Minecraft
+### Motivation: knowledge

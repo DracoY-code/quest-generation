@@ -1,0 +1,15 @@
+### Quest Name: Recover Your Stolen Car
+### Objective: Track down and retrieve your stolen vehicle.
+### First Tasks: Investigate where the car was last seen., Gather information from locals or witnesses., Find the thieves and confront them., Recover the car through negotiation or force.
+### First Task Locations: Last Known Location - The place where your car was stolen, possibly leaving clues behind., Thieves' Hideout - The likely location where the thieves have taken the vehicle.
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: Recovered Car - Your stolen car is returned, allowing you to travel quickly again. (amount: NONE), Caps - Potential loot from dealing with the thieves. (amount: 500), Reputation - Your reputation in the area may change depending on how you handle the situation. (amount: NONE)
+### Characters: NONE
+### Tools: Lockpicks or mechanical skills to bypass any security on the car., Speech skills for negotiating with the thieves., Weapons in case of a hostile confrontation.
+### Description: Someone has stolen your vehicle, leaving you stranded. You must track down the culprits and reclaim what is rightfully yours.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: Fallout 2
+### Motivation: NONE

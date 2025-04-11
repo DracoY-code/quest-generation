@@ -1,0 +1,15 @@
+### Quest Name: A Mail Delivery
+### Objective: make a delivery for Sylgja to her parents
+### First Tasks: deliver a satchel of letters to Verner
+### First Task Locations: Darkwater Crossing - a village where Sylgja's parents live
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - a reward for the player's time (amount: 1)
+### Characters: Verner - Sylgja's father (location: Darkwater Crossing)
+### Tools: Sylgja assumes that Verner have something for her
+### Description: Would you happen to be headed towards Darkwater Crossing? My parents live there. I usually make the journey to bring them gifts and to just say hello, but I haven't been well lately. I've written some letters and placed them in a satchel. Perhaps you wouldn't mind delivering it to them on my behalf? I would insist on rewarding you for your time. Here, take my satchel and give it to my father, Verner. He'll likely have something for you to bring back.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

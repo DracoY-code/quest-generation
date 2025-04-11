@@ -1,0 +1,15 @@
+### Quest Name: The Collector
+### Objective: recover the complete set of 10 ancient statues for Umbacano
+### First Tasks: find the 10 ancient statues
+### First Task Locations: Ayleid Ruins - ancient ruins
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - a double pay for each ancient statue (amount: 1)
+### Characters: NONE
+### Tools: Umbacano has invited the player here to his house: the ancient Ayleid statue that the player recently sold cheap to an anonymous merchant is placed on a table
+### Description: Thank you for coming. You may recognize that statue over there on the table. The very one that you recently sold -- for less than its true worth. As you may know, I am somewhat of an enthusiast for Ayleid antiquities. In my own modest way, I have amassed a rather considerable collection. I have recently become interested in obtaining the complete set of these ancient statues. I believe that ten still exist within the various ancient Ayleid Ruins. No mere shopkeeper knows their true worth. If you bring them to me when you find them, I will pay you double for each one.
+### Locations: NONE
+### Items:  - ancient statues (amount: 10)
+### Enemies: NONE
+### Groups: Ayleid - an extinct, ancient race of people
+### Title: The Elder Scrolls IV: Oblivion
+### Motivation: NONE

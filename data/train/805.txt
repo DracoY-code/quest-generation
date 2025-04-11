@@ -1,0 +1,15 @@
+### Quest Name: Durlyle's Task
+### Objective: bring the cloak that draped the village center back to Durlyle
+### First Tasks: find the cloak
+### First Task Locations:  - beyond the village wall
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: NONE
+### Tools: a storm sank the player's ship, there are beasts outside the village wall
+### Description: I am Durlyle, and I am glad to be meeting. I have but a mundane task to ask of you, if you hear me out? The storm you felt that took your ship? It was fierce here too, and a cloak that draped the village center was cast to the wind. I think it is beyond the wall, and will not risk the beasts to get it. Will you?
+### Locations: NONE
+### Items:  - the cloak (amount: 1)
+### Enemies: NONE
+### Groups: NONE
+### Title: Baldur's Gate
+### Motivation: NONE

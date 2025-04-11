@@ -1,0 +1,15 @@
+### Quest Name: Thane of Winterhold
+### Objective: gain the honorary title of thane of Winterhold
+### First Tasks: help the people of Winterhold
+### First Task Locations: Winterhold - the hold ruled over Kraldar
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - the perks of being a thane (amount: 1)
+### Characters: NONE
+### Tools: NONE
+### Description: There is room in my court for a new Thane. It's an honorary title, mainly, but there are a few perks someone like you could make use of. However, I could only grant the title to someone who is known throughout my Hold. You help my people, and I'll make you my Thane.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

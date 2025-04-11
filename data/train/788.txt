@@ -1,0 +1,15 @@
+### Quest Name: Find Giran's Mother Within the Circus Tent
+### Objective: investigate the circus tent
+### First Tasks: find Giran's mother
+### First Task Locations:  - the circus tent
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters:  - Giran's mother (location: )
+### Tools: guards do not let anyone in the circus tent
+### Description: sniff* My momma's still inside. They says she can't come out. My momma went into the tent to see a circus show. But somethin' happened, and now nobody comes out. There's guards who won't let nobody in anymore, too. But my momma's in there! I want my momma! Please find her, please!
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: Baldur's Gate II: Shadows of Amn
+### Motivation: NONE

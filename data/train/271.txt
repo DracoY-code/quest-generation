@@ -1,0 +1,15 @@
+### Quest Name: Sealing the Deal
+### Objective: help Talen-Jei complete Keerava's wedding ring
+### First Tasks: find three flawless amethysts for Keerava's wedding ring
+### First Task Locations: NONE - 
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: Keerava - a female Argonian (location: Riften)
+### Tools: in Black Marsh, tradition dictates Argonians present a potential mate a unique wedding ring to represent their future bond: Talen-Jei already has a gold band for Keerava's wedding ring
+### Description: I met Keerava when I wandered into Riften a few years ago. Been smitten with her ever since. In fact, I'm thinking of asking her to marry me. In Black Marsh, tradition dictates we present a potential mate a unique wedding ring to represent our future bond. I already have the gold band, but all I need are three flawless amethysts to complete the setting.
+### Locations: Riften - a city (location: NONE), Black Marsh - a realm far away (location: NONE)
+### Items: NONE
+### Enemies: NONE
+### Groups: Argonians - a race of people from Black Marsh
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

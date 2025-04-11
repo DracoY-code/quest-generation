@@ -1,0 +1,15 @@
+### Quest Name: Number One Armorer
+### Objective: bring 32 blocks of iron to Arnold
+### First Tasks: obtain iron ore, smelt iron ore into iron ingots, craft iron ingots into blocks of iron
+### First Task Locations:  - iron veins in the ground,  - a furnace somewhere,  - any crafting bench
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - better armor than the player is wearing now (amount: 1)
+### Characters: NONE
+### Tools: the player is a famous hero
+### Description: I want to become famous. Just not quite like you, hero. I seek to become the best armorer in the world. To do that, I need a lot of practice in hammering down pieces of armor. Would you please bring me 32 blocks of iron? Those should help me become a better armorer in no time! First, you have to get iron ore from the many iron veins in the ground. Next, you'll want to smelt the ore into iron ingots in a furnace somewhere. Lastly, you ought to craft those iron ingots into blocks of iron on a crafting table. Do all that, and I promise to outfit you in better armor than what you are wearing now!
+### Locations: NONE
+### Items:  - blocks of iron (amount: 32)
+### Enemies: NONE
+### Groups: NONE
+### Title: Minecraft
+### Motivation: reputation

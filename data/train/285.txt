@@ -1,0 +1,15 @@
+### Quest Name: Listen to Leanne's story about the Master
+### Objective: Hear Leanne's account of the Master and the Unity.
+### First Tasks: Find Leanne in Vault City., Talk to her and listen to her story.
+### First Task Locations: Vault City - A highly advanced and well-guarded settlement, known for its strict regulations and advanced technology.
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: Historical insight - Gain knowledge about the Master, the Unity, and the events of the past. (amount: NONE)
+### Characters: NONE
+### Tools: Curiosity about the past.
+### Description: Leanne in Vault City has a story to share about the Master and the Unity. Listening to her could provide valuable historical insight into the world before and after the war.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: Fallout 2
+### Motivation: NONE

@@ -1,0 +1,15 @@
+### Quest Name: Vaermina's Orb of Nightmares
+### Objective: retrieve the Orb
+### First Tasks: find the Orb
+### First Task Locations:  - Arkved's tower
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: Skull of Corruption - Vaermina's token (amount: 1)
+### Characters: Arkved - a male wizard (location: Arkved's Tower)
+### Tools: Arkved stole the Orb from the the dreams of Vaermina's followers: in the Orb, Arkved has found more than he bargained for
+### Description: We meet again, mortal, for we have met before, whether you know it or not. When you mutter in your sleep, you speak to me. When you waken wet with sweat, you've just left my house. I dwell in your dreams; I savor your nightmares. Now, you will serve me. The wizard Arkved has the Orb of Vaermina... snatched from the dreams of my followers and dragged into the waking world. Travel to his tower and retrieve my Orb. Take care, though, mortal. In the Orb, Arkved has found more than he bargained for. After proving yourself, mortal, you shall bear my token, the Skull of Corruption.
+### Locations: NONE
+### Items: the Orb - one of Vaermina's relics (amount: 1)
+### Enemies: NONE
+### Groups: Daedric Princes - immortal, fickle, infamous divine beings
+### Title: The Elder Scrolls IV: Oblivion
+### Motivation: NONE

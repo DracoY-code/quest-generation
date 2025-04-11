@@ -1,0 +1,15 @@
+### Quest Name: Chasing Echoes
+### Objective: get information about an Elder Scroll from Valerica
+### First Tasks: search for clues about Valerica's whereabouts with Serana
+### First Task Locations:  - a courtyard in Castle Volkihar with Valerica's garden, a peaceful place that Serana's father could not stand
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: Valerica - Serana's mother (location: ), Dexion - a male Moth Priest (location: )
+### Tools: Dexion said the player and Serana needed two other Elder Scrolls, Valerica told Serana that she'd go somewhere safe, somewhere that Serana's father would never search
+### Description: That Moth Priest, Dexion. He said we needed two other Elder Scrolls. I think I know where we can start looking. We need to find my mother, Valerica. She'll definitely know where one of the Scrolls is, and if we're lucky, she actually has it herself. The last time I saw her, she said that she'd go somewhere safe... somewhere that my father would never search. Other than that, she wouldn't tell me anything. But the way she said it... "someplace he would never search." It was cryptic, yet she called attention to it. Wait... There's a courtyard in Castle Volkihar. I used to help her tend a garden there. All of the ingredients for our potions came from there. She used to say that my father couldn't stand the place. Too... peaceful. I don't think we'll actually trip over her there. But it's worth a look.
+### Locations: Castle Volkihar - a castle, and the home of Serana's family (location: NONE)
+### Items: Elder Scrolls - mysterious, powerful scrolls (amount: 1)
+### Enemies: NONE
+### Groups: NONE
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

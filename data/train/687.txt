@@ -1,0 +1,15 @@
+### Quest Name: Message to Whiterun
+### Objective: make a delivery for Ulfric
+### First Tasks: deliver an axe to Balgruuf the Greater
+### First Task Locations: Whiterun - a city
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: Balgruuf the Greater - the Jarl of Whiterun, a man who has stayed neutral in the war between the Stormcloaks and the Empire (location: Whiterun)
+### Tools: if Balgruuf the Greater keeps the axe, Ulfric will bide his time, if Balgruuf the Greater returns the axe to the player, it means war
+### Description: I'm glad you're here. I have a message I need delivered to the Jarl of Whiterun. Deliver this axe to Balgruuf the Greater. Men who understand each other often have no need for words. There are but a few simple truths behind one warrior giving another his axe. Balgruuf will know my meaning. Give the man my axe. If he keeps it, I will bide my time. If he returns it to you, it means war.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: Stormcloaks - rebel forces opposing the Empire
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

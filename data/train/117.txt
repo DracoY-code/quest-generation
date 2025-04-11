@@ -1,0 +1,15 @@
+### Quest Name: Wisdom of the Ages
+### Objective: get the Shield of the Crusader for yourself
+### First Tasks: find the Shield of the Crusader
+### First Task Locations: Fort Bulwark - a fort in the southeast of Cyrodiil, near the Black Marsh border
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: Shield of the Crusader - a holy shield created by Julianos (amount: 1)
+### Characters: Julianos - the god of wisdom (location: )
+### Tools: the knight Order Sir Henrik belonged to crumbled: Sir Henrik found the Shield of the Crusader on his own and brought it to Fort Bulwark, Sir Henrik and his trusted friends began work to keep the Shield of the Crusader safe forever, Sir Henrik died defending the Shield of the Crusader at Fort Bulwark
+### Description: In life, I was known as Sir Henrik. If you are true to the teachings of Julianos, it may be possible for you to find the Shield of the Crusader. When the Order crumbled, I set out on my own. After years of searching, I found the Shield and brought it to Fort Bulwark for safe keeping. With the help of a few trusted friends, I began work to keep the Shield safe for all eternity. I never saw my work finished. I died defending the fort from those who would take and misuse the Shield. I never saw our work finished; I trust that the others carried on without me. The fort lies in the southeast of Cyrodiil, near the Black Marsh border. If all went according to plan, it should be very well guarded now.
+### Locations: Cyrodiil - a province (location: NONE), Black Marsh - a province (location: NONE)
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: The Elder Scrolls IV: Oblivion
+### Motivation: NONE

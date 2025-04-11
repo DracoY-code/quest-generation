@@ -1,0 +1,15 @@
+### Quest Name: A New Order
+### Objective: recruit Isran's old allies for the Dawnguard
+### First Tasks: find Sorine Jurard and Gunmar, and recruit them for the Dawnguard
+### First Task Locations: NONE - 
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - Sorine Jurard and Gunmar as allies (amount: 1)
+### Characters: Sorine Jurard - a smart Breton girl, who is good with tinkering and fascinated with the Dwemer and their weapons (location: Reach, trying to find dwarven ruins), Gunmar - a big, brutish Nord man, who trains animals, especially trolls (location: )
+### Tools: the Dawnguard is fighting against powerful vampires, who have an Elder Scroll
+### Description: We're up against powerful vampires, unlike anything we've seen before. And they have an Elder Scroll. There are people I've met and worked with over the years. We need their skills, their talents, if we're going to survive this. I think we'll want Sorine Jurard. Breton girl, whip-smart and good with tinkering. Fascination with the Dwemer. Weapons in particular. Last I knew, she was out in the Reach, convinced she was about to find the biggest dwarven ruins yet. You'll also want to find Gunmar. Big brute of a Nord, hates vampires almost as much as I do. Got it into his head years back that his experience with animals would help. Trolls in particular, from what I hear. If you can find them, we might have a chance.
+### Locations: NONE
+### Items: Elder Scroll - a powerful piece of creation (amount: 1)
+### Enemies: NONE
+### Groups: Dawnguard - an organization of vampire hunters
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

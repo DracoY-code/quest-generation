@@ -1,0 +1,15 @@
+### Quest Name: To Kill an Empire
+### Objective: assassinate Titus Mede II while disguised as the Gourmet
+### First Tasks: present the Gourmet's writ of passage to Commander Maro to gain unrestricted access to the kitchens, and poison Titus Mede II's meal with Jarrin Root
+### First Task Locations: Castle Dour - a castle in Solitude
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward: NONE -  (amount: 1)
+### Characters: Gourmet - a famous male chef (location: ), Commander Maro - the male officer in charge of Titus Mede II's security (location: Castle Dour), Titus Mede II - the Emperor (location: Castle Dour)
+### Tools: the player killed the Gourmet for Astrid: the player is the Listener of the Dark Brotherhood, Astrid gives the player Jarrin Root, after assassination, escape through the upper door, and across the bridge: Astrid has "arranged" for it to be unguarded
+### Description: So it's done. You've killed the Gourmet. And now Titus Mede II is as good as dead. I've decided you will have the honor of killing the Emperor. Go now to Castle Dour in Solitude. Present the Gourmet's Writ of Passage to the officer in charge, Commander Maro. You'll gain unrestricted access to the kitchens, and then the Emperor. You're posing as a chef, so you'll be able to poison his meal rather easily. Here, take this - it's called jarrin root. All it takes is one taste, and the effects are quite immediate. The Emperor will be serving Sithis before he even knows he's dead. Once Mede has been killed, escape through the upper door, and across the bridge. I've "arranged" for it to be unguarded once the alarm is sounded. Now go, my friend. Go, and fulfill your destiny as Listener.
+### Locations: Solitude - a large city (location: NONE)
+### Items: Jarrin Root - a powerful poison that kills immediately after one bite (amount: 1)
+### Enemies: NONE
+### Groups: Dark Brotherhood - a guild of assassins
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE

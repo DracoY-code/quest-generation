@@ -1,0 +1,15 @@
+### Quest Name: A Few Words with You
+### Objective: convince Mikael to leave Carlotta Valentia alone
+### First Tasks: talk to Mikael
+### First Task Locations: Bannered Mare - an inn
+### Quest Giver: NONE - NONE (location: NONE)
+### Reward:  - some coin (amount: 1)
+### Characters: Mikael - a male bard who boasts about conquering Carlotta Valentia (location: )
+### Tools: NONE
+### Description: That bard Mikael is begging for a dagger up against his throat, the way he goes on about me. I've heard him boasting at the Bannered Mare, saying he'll "conquer me as a true warrior conquers any harsh beast." Hmph. You could try to convince that lute player to stop chasing me. If you want to try, go right ahead. I don't think anything will get through that thick skull of his, though. If you do convince Mikael, I'd thank the gods, but I'll settle for thanking you. There'll be some coin for your help.
+### Locations: NONE
+### Items: NONE
+### Enemies: NONE
+### Groups: NONE
+### Title: The Elder Scrolls V: Skyrim
+### Motivation: NONE
