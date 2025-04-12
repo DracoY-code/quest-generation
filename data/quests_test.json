@@ -29,16 +29,16 @@
         "description":"Improved reputation in Klamath for assisting the town."
       }
     ],
-    "characters":"NONE",
     "tools":[
       "Weapons to defend against rustlers.",
       "Stealth or perception skills to detect incoming threats."
     ],
     "description":"A group of rustlers has been stealing Brahmin from Klamath. Torr needs help standing guard at night to stop them.",
-    "locations":"NONE",
     "items":"NONE",
-    "enemies":"NONE",
+    "characters":"NONE",
     "groups":"NONE",
+    "locations":"NONE",
+    "enemies":"NONE",
     "title":"Fallout 2",
     "motivation":"NONE"
   },
@@ -72,16 +72,16 @@
         "description":"Becky may offer discounts depending on how you handle the situation."
       }
     ],
-    "characters":"NONE",
     "tools":[
       "Persuasion or Barter skill to gather information.",
       "Sneaking ability if investigating illicit sources."
     ],
     "description":"Frankie is suspicious of Becky\u2019s ability to sell alcohol at low prices. Your job is to investigate and uncover the secret behind her business.",
-    "locations":"NONE",
     "items":"NONE",
-    "enemies":"NONE",
+    "characters":"NONE",
     "groups":"NONE",
+    "locations":"NONE",
+    "enemies":"NONE",
     "title":"Fallout 2",
     "motivation":"NONE"
   },
@@ -109,15 +109,15 @@
         "amount":6
       }
     ],
-    "characters":"NONE",
     "tools":[
       "the player is a known villain"
     ],
     "description":"Gee! You okay? *looks at you with a blank expression* You look a dark human-thing.\nMe think me know the right think to cheer you up! A quest. Me want one of those music disc thingies. Find one?\nGet 6 blocks of emerald in return.",
-    "locations":"NONE",
     "items":"NONE",
-    "enemies":"NONE",
+    "characters":"NONE",
     "groups":"NONE",
+    "locations":"NONE",
+    "enemies":"NONE",
     "title":"Minecraft",
     "motivation":"comfort"
   },
@@ -145,16 +145,16 @@
         "amount":500
       }
     ],
-    "characters":"NONE",
     "tools":[
       "ankheg armor is comparable to full plate with half the weight",
       "there is an iron shortage"
     ],
     "description":"Hello there, I'm Taerom Fuiruim, a blacksmith of some renown.\nAn interesting piece o' material you got there. Ankheg, if I'm not mistaken. Been a while since I seen the like, but if I remember correctly, it makes a fine set of armor. If properly treated it's comparable to full plate with half the weight!\nIf you're willing to part with your shells I'll give you 500 gold for the lot of them. No more can I offer with business as slow as it is.\nIron shortage hurting us all.",
-    "locations":"NONE",
     "items":"NONE",
-    "enemies":"NONE",
+    "characters":"NONE",
     "groups":"NONE",
+    "locations":"NONE",
+    "enemies":"NONE",
     "title":"Baldur's Gate",
     "motivation":"NONE"
   },
@@ -192,6 +192,11 @@
         "amount":1
       }
     ],
+    "tools":[
+      "the rings of blood magic increase the abilities of the player's vampiric powers: Molag Bal supposedly gave the rings to vampires"
+    ],
+    "description":"I've discovered the whereabouts of a set of ancient rings of Blood Magic: the Ring of the Erudite in Swindler's Den and the Ring of the Beast in Cragwallow Slope. They belong among our kind, not gathering mold in some vagabond's treasure pile.\nThe rings increase the abilities of your vampiric powers. Some say Molag Bal himself gave these rings to ancient powerful vampire lords. Some say that is just a myth.\nYou'll be able to keep the rings. I wouldn't be telling you where to find them if I desired them for myself.",
+    "items":"NONE",
     "characters":[
       {
         "name":"Molag Bal",
@@ -199,14 +204,9 @@
         "location":""
       }
     ],
-    "tools":[
-      "the rings of blood magic increase the abilities of the player's vampiric powers: Molag Bal supposedly gave the rings to vampires"
-    ],
-    "description":"I've discovered the whereabouts of a set of ancient rings of Blood Magic: the Ring of the Erudite in Swindler's Den and the Ring of the Beast in Cragwallow Slope. They belong among our kind, not gathering mold in some vagabond's treasure pile.\nThe rings increase the abilities of your vampiric powers. Some say Molag Bal himself gave these rings to ancient powerful vampire lords. Some say that is just a myth.\nYou'll be able to keep the rings. I wouldn't be telling you where to find them if I desired them for myself.",
-    "locations":"NONE",
-    "items":"NONE",
-    "enemies":"NONE",
     "groups":"NONE",
+    "locations":"NONE",
+    "enemies":"NONE",
     "title":"The Elder Scrolls V: Skyrim",
     "motivation":"NONE"
   },
@@ -234,13 +234,6 @@
         "amount":1
       }
     ],
-    "characters":[
-      {
-        "name":"Quayle",
-        "description":"Aerie's uncle",
-        "location":""
-      }
-    ],
     "tools":[
       "Aerie works in the circus with Quayle",
       "there's an illusion that makes Aerie look like a monster",
@@ -249,15 +242,22 @@
       "Aerie regains her normal form after becoming free"
     ],
     "description":"M-my name is Aerie. I... work in the circus with my uncle, Quayle... I... I'm not a monster! I'm an elf, a winged elf... or at least I was... This... this covering you see is some kind of illusion, but if you believe in it, then it becomes real! P-please believe me! Now go before something happens to you, I beg of you!\nIf... if you're not going to flee, then maybe you can help free me from the chains that keep me bound in this form \u2014 and then maybe I can help you!\nYou... you need the key to these chains. But... but it won't look like a key! There are a couple of... commoners... in the north side of this chamber...\nDon't be fooled by the illusion, though... they are monsters! They have a sword which is actually my key... if you get it from them, I can remove the chain and regain my normal form!\nBut please be careful! You... you can't trust anything you see here!",
-    "locations":"NONE",
     "items":"NONE",
-    "enemies":"NONE",
+    "characters":[
+      {
+        "name":"Quayle",
+        "description":"Aerie's uncle",
+        "location":""
+      }
+    ],
     "groups":[
       {
         "name":"",
         "description":"commoners, who are actually monsters"
       }
     ],
+    "locations":"NONE",
+    "enemies":"NONE",
     "title":"Baldur's Gate II: Shadows of Amn",
     "motivation":"NONE"
   },
@@ -285,25 +285,25 @@
         "amount":1
       }
     ],
-    "characters":"NONE",
     "tools":[
       "the player is a known villain"
     ],
     "description":"No! Go away! Please don't kill me...\nIllagers are making me scared enough already! Perhaps you'd like to do something villainous, and even net a reward for it?\nThis village, Fishing Hamlet, has been threatened by nearby Illagers of Deepwood Tower for some time. You could go to their tower in the woods and steal their plans.\nBring the plans to me, and I'll give you an enchanted sword as a reward. Just don't test its blade on me, please!",
-    "locations":[
-      {
-        "name":"Fishing Hamlet",
-        "description":"a village"
-      }
-    ],
     "items":"NONE",
-    "enemies":"NONE",
+    "characters":"NONE",
     "groups":[
       {
         "name":"Illagers",
         "description":"bandits"
       }
     ],
+    "locations":[
+      {
+        "name":"Fishing Hamlet",
+        "description":"a village"
+      }
+    ],
+    "enemies":"NONE",
     "title":"Minecraft",
     "motivation":"knowledge"
   },
@@ -331,6 +331,18 @@
         "amount":1
       }
     ],
+    "tools":[
+      "the bandit leader thinks that his men are going to mutiny: Herd and Brodir are leading their own cliques within the bandits",
+      "the bandit leader is going to gather up gold and escape downriver to Dragon Bridge"
+    ],
+    "description":"Bandit Leader's Journal\n\n5th of First Seed, 4E 201\nIdiots! Brodir and Herd were at each others' throats again today, and nearly came to blows. The whole camp is on edge. I've ordered an extra ration of mead, but unless this fighting stops, we'll tear ourselves apart.\n\n11th of First Seed, 4E 201\nRumor is that Herd's gathering followers for a mutiny. Brodir's not stupid; he's probably doing the same, just for insurance. I'd kill them both myself, but the camp's split right down the middle. If I tried, there'd be a knife in my back within a week.\nI can't take this anymore. I've begun skimming a little gold from the take, bringing it down here when I can. If I can scrape enough together, I'll make a run for it, head downriver to Dragon Bridge.\n\n28th of First Seed, 4E 201\nBrodir's getting suspicious -- I caught him poking around in the cove this afternoon. I don't think he found my stash, but it's not safe here. I took the boat out tonight and stowed it on the island to the south, by the old tree stump.\nHad a good haul this week. Another caravan or two and I can finally get out of here, and not a moment too soon.",
+    "items":[
+      {
+        "name":"\"Bandit Leader's Journal\"",
+        "description":"a journal written by the bandit leader",
+        "amount":1
+      }
+    ],
     "characters":[
       {
         "name":"Herd",
@@ -343,26 +355,14 @@
         "location":""
       }
     ],
-    "tools":[
-      "the bandit leader thinks that his men are going to mutiny: Herd and Brodir are leading their own cliques within the bandits",
-      "the bandit leader is going to gather up gold and escape downriver to Dragon Bridge"
-    ],
-    "description":"Bandit Leader's Journal\n\n5th of First Seed, 4E 201\nIdiots! Brodir and Herd were at each others' throats again today, and nearly came to blows. The whole camp is on edge. I've ordered an extra ration of mead, but unless this fighting stops, we'll tear ourselves apart.\n\n11th of First Seed, 4E 201\nRumor is that Herd's gathering followers for a mutiny. Brodir's not stupid; he's probably doing the same, just for insurance. I'd kill them both myself, but the camp's split right down the middle. If I tried, there'd be a knife in my back within a week.\nI can't take this anymore. I've begun skimming a little gold from the take, bringing it down here when I can. If I can scrape enough together, I'll make a run for it, head downriver to Dragon Bridge.\n\n28th of First Seed, 4E 201\nBrodir's getting suspicious -- I caught him poking around in the cove this afternoon. I don't think he found my stash, but it's not safe here. I took the boat out tonight and stowed it on the island to the south, by the old tree stump.\nHad a good haul this week. Another caravan or two and I can finally get out of here, and not a moment too soon.",
+    "groups":"NONE",
     "locations":[
       {
         "name":"Dragon Bridge",
         "description":"a town"
       }
     ],
-    "items":[
-      {
-        "name":"\"Bandit Leader's Journal\"",
-        "description":"a journal written by the bandit leader",
-        "amount":1
-      }
-    ],
     "enemies":"NONE",
-    "groups":"NONE",
     "title":"The Elder Scrolls V: Skyrim",
     "motivation":"NONE"
   },
@@ -390,6 +390,12 @@
         "amount":1
       }
     ],
+    "tools":[
+      "the player saved Malborn from the Thalmor in the past",
+      "Malborn could not leave Windhelm for Morrowind because of the Khajiit"
+    ],
+    "description":"Oh, it's you. I didn't expect to see you again.\nI'm trying to stay alive. I think time's running out though. I'm pretty sure the Thalmor know where I am. Maybe you can help me.\nI was trying to get to Morrowind. The Dunmer don't care much for the Thalmor and I figured I'd be safe there. As safe as anywhere, that is. But there's a Khajiit hanging around the main gate. I didn't like the way he was looking at me. I'm sure he's Thalmor. Just waiting for me to leave Windhelm so he can follow me and kill me in a lonely place.\nYou'd be saving my life. Again. I know I probably seemed ungrateful... I've just been so scared. Expecting a knife at my throat any minute.",
+    "items":"NONE",
     "characters":[
       {
         "name":"Khajiit",
@@ -397,23 +403,6 @@
         "location":"around the main gate of Windhelm"
       }
     ],
-    "tools":[
-      "the player saved Malborn from the Thalmor in the past",
-      "Malborn could not leave Windhelm for Morrowind because of the Khajiit"
-    ],
-    "description":"Oh, it's you. I didn't expect to see you again.\nI'm trying to stay alive. I think time's running out though. I'm pretty sure the Thalmor know where I am. Maybe you can help me.\nI was trying to get to Morrowind. The Dunmer don't care much for the Thalmor and I figured I'd be safe there. As safe as anywhere, that is. But there's a Khajiit hanging around the main gate. I didn't like the way he was looking at me. I'm sure he's Thalmor. Just waiting for me to leave Windhelm so he can follow me and kill me in a lonely place.\nYou'd be saving my life. Again. I know I probably seemed ungrateful... I've just been so scared. Expecting a knife at my throat any minute.",
-    "locations":[
-      {
-        "name":"Windhelm",
-        "description":"a city"
-      },
-      {
-        "name":"Morrowind",
-        "description":"a land inhabited by the Dunmer"
-      }
-    ],
-    "items":"NONE",
-    "enemies":"NONE",
     "groups":[
       {
         "name":"Thalmor",
@@ -424,6 +413,17 @@
         "description":"a race of people who do not like the Thalmor"
       }
     ],
+    "locations":[
+      {
+        "name":"Windhelm",
+        "description":"a city"
+      },
+      {
+        "name":"Morrowind",
+        "description":"a land inhabited by the Dunmer"
+      }
+    ],
+    "enemies":"NONE",
     "title":"The Elder Scrolls V: Skyrim",
     "motivation":"NONE"
   },
@@ -451,6 +451,11 @@
         "amount":1
       }
     ],
+    "tools":[
+      "the spiders of Redbelly Mine almost killed Grogmar and Filnjar"
+    ],
+    "description":"Sorry, the Redbelly Mine's dry right now. What's wrong with the mine, you might ask. It's full of spiders, that's what's wrong with it!\nAlmost killed Grogmar and me when they showed up. I'm worried that they'll come out of the mine looking for food soon... then we're in even bigger trouble.\nYou'd  clear them out for us? Tell you what. Keep to your word, and I'll line your pockets with as much as I can scrape up.",
+    "items":"NONE",
     "characters":[
       {
         "name":"Grogmar",
@@ -458,14 +463,9 @@
         "location":""
       }
     ],
-    "tools":[
-      "the spiders of Redbelly Mine almost killed Grogmar and Filnjar"
-    ],
-    "description":"Sorry, the Redbelly Mine's dry right now. What's wrong with the mine, you might ask. It's full of spiders, that's what's wrong with it!\nAlmost killed Grogmar and me when they showed up. I'm worried that they'll come out of the mine looking for food soon... then we're in even bigger trouble.\nYou'd  clear them out for us? Tell you what. Keep to your word, and I'll line your pockets with as much as I can scrape up.",
-    "locations":"NONE",
-    "items":"NONE",
-    "enemies":"NONE",
     "groups":"NONE",
+    "locations":"NONE",
+    "enemies":"NONE",
     "title":"The Elder Scrolls V: Skyrim",
     "motivation":"NONE"
   },
@@ -493,15 +493,15 @@
         "amount":1
       }
     ],
-    "characters":"NONE",
     "tools":[
       "NONE"
     ],
     "description":"I've found another beast hiding from the light of day.\nWe need to destroy him before he turns his comrades into a brood of vampires. He's holed up in Treva's Watch with a group of a bandits.",
-    "locations":"NONE",
     "items":"NONE",
-    "enemies":"NONE",
+    "characters":"NONE",
     "groups":"NONE",
+    "locations":"NONE",
+    "enemies":"NONE",
     "title":"The Elder Scrolls V: Skyrim",
     "motivation":"NONE"
   },
@@ -529,12 +529,10 @@
         "amount":1
       }
     ],
-    "characters":"NONE",
     "tools":[
       "the player can craft Ender Chests somehow"
     ],
     "description":"I'm planning all sorts of new pranks that would make me a famous man here in the village. There's one integral item that I haven't been able to obtain: an Ender Chest. You know, the chests whose contents are stored separately for everyone?\nI heard you can find Ender Chests in End Cities at the end of time and space. It should also be possible to craft them somehow. Can you obtain an Ender Chest? I would pay you well for one: you could have some powered rails that I used in one of my pranks.",
-    "locations":"NONE",
     "items":[
       {
         "name":"Ender Chests",
@@ -542,8 +540,10 @@
         "amount":1
       }
     ],
-    "enemies":"NONE",
+    "characters":"NONE",
     "groups":"NONE",
+    "locations":"NONE",
+    "enemies":"NONE",
     "title":"Minecraft",
     "motivation":"reputation"
   },
@@ -571,6 +571,13 @@
         "amount":1
       }
     ],
+    "tools":[
+      "the player asked a recommendation from Kud-Ei",
+      "Varon Vamori stole Ardaline's mage's staff",
+      "Kud-Ei gives the player a scroll with a powerful Illusion charm spell"
+    ],
+    "description":"I'm afraid I haven't had time to prepare anything conventional for your recommendation. I'm very preoccupied with this situation concerning Ardaline.\nPerhaps you can help with that, however. I can't directly get involved, for fear of embarrassing the poor girl. Varon Vamori's been bothering Ardaline every day for a while now. He even stole her Mages' Staff! Perhaps he thinks it's amusing; I don't know. But it needs to stop. It's making her miserable.\nI'll need you to have a little chat with Varon Vamori to get Ardaline's staff back, and you can learn something about the power of Illusion in the process. Take this charm scroll. With it, you should find Varon more receptive to questioning.\nDon't come back without that staff. I'll write you a recommendation for your help.",
+    "items":"NONE",
     "characters":[
       {
         "name":"Ardaline",
@@ -583,21 +590,14 @@
         "location":""
       }
     ],
-    "tools":[
-      "the player asked a recommendation from Kud-Ei",
-      "Varon Vamori stole Ardaline's mage's staff",
-      "Kud-Ei gives the player a scroll with a powerful Illusion charm spell"
-    ],
-    "description":"I'm afraid I haven't had time to prepare anything conventional for your recommendation. I'm very preoccupied with this situation concerning Ardaline.\nPerhaps you can help with that, however. I can't directly get involved, for fear of embarrassing the poor girl. Varon Vamori's been bothering Ardaline every day for a while now. He even stole her Mages' Staff! Perhaps he thinks it's amusing; I don't know. But it needs to stop. It's making her miserable.\nI'll need you to have a little chat with Varon Vamori to get Ardaline's staff back, and you can learn something about the power of Illusion in the process. Take this charm scroll. With it, you should find Varon more receptive to questioning.\nDon't come back without that staff. I'll write you a recommendation for your help.",
-    "locations":"NONE",
-    "items":"NONE",
-    "enemies":"NONE",
     "groups":[
       {
         "name":"Mages Guild",
         "description":"a guild of mages"
       }
     ],
+    "locations":"NONE",
+    "enemies":"NONE",
     "title":"The Elder Scrolls IV: Oblivion",
     "motivation":"NONE"
   },
@@ -625,15 +625,15 @@
         "amount":50
       }
     ],
-    "characters":"NONE",
     "tools":[
       "Reynald Jemane has never been to Cheydinhal"
     ],
     "description":"If I've told you once, I've told you a thousand times. I've NEVER been to Cheydinhal! I... oh, hang on. You're someone else. Apologies, my good friend, I mistook you for someone else. Always being asked about it, I am. 'Didn't I see you in Cheydinhal?', they say. Well I'm sick of it. Sick and tired, tired and sick. And perhaps a little drunk. But never mind. You look like the honest sort, so I've a job for you.\nYou're going to travel to Cheydinhal, and find out what sort of impostor is trying to besmirch my good name. And you're going to tell him... *hic*... You're going to tell him I am quite capable of besmirching my good name on my own. He should cease and desist immediately. There's fifty gold pieces in it for you, friend...",
-    "locations":"NONE",
     "items":"NONE",
-    "enemies":"NONE",
+    "characters":"NONE",
     "groups":"NONE",
+    "locations":"NONE",
+    "enemies":"NONE",
     "title":"The Elder Scrolls IV: Oblivion",
     "motivation":"NONE"
   },
@@ -661,6 +661,13 @@
         "amount":1
       }
     ],
+    "tools":[
+      "the player asked a recommendation to Raminus from Jeanne Frasoric: the player is an Associate of the Mages Guild",
+      "if someone from the Council were to visit Bruma Mages Guild, and find out that J'skar has vanished, it would look bad on Jeanne Frasoric",
+      "Volanaro thinks J'skar's spell backfired"
+    ],
+    "description":"A recommendation, from me? Well, of course. Raminus would naturally want my opinion, wouldn't he?\nThis is a situation we can both benefit from, Associate. You do me a small favor, and I'll happily send along a glowing recommendation.\nJ'skar's disappeared. I mean he's really disappeared. No one here has seen him in days. Volanaro thinks maybe a spell backfired. If someone from the Council were to stop by, and find him gone, it'd look bad for me. I can't have that. Talk to the mages here, and see what you can find out.\nIf you can make J'skar re-appear, you'll have your recommendation.",
+    "items":"NONE",
     "characters":[
       {
         "name":"Raminus",
@@ -678,20 +685,6 @@
         "location":""
       }
     ],
-    "tools":[
-      "the player asked a recommendation to Raminus from Jeanne Frasoric: the player is an Associate of the Mages Guild",
-      "if someone from the Council were to visit Bruma Mages Guild, and find out that J'skar has vanished, it would look bad on Jeanne Frasoric",
-      "Volanaro thinks J'skar's spell backfired"
-    ],
-    "description":"A recommendation, from me? Well, of course. Raminus would naturally want my opinion, wouldn't he?\nThis is a situation we can both benefit from, Associate. You do me a small favor, and I'll happily send along a glowing recommendation.\nJ'skar's disappeared. I mean he's really disappeared. No one here has seen him in days. Volanaro thinks maybe a spell backfired. If someone from the Council were to stop by, and find him gone, it'd look bad for me. I can't have that. Talk to the mages here, and see what you can find out.\nIf you can make J'skar re-appear, you'll have your recommendation.",
-    "locations":[
-      {
-        "name":"Bruma",
-        "description":"a city"
-      }
-    ],
-    "items":"NONE",
-    "enemies":"NONE",
     "groups":[
       {
         "name":"Mages Guild",
@@ -702,6 +695,13 @@
         "description":"the ruling body of Mages Guild"
       }
     ],
+    "locations":[
+      {
+        "name":"Bruma",
+        "description":"a city"
+      }
+    ],
+    "enemies":"NONE",
     "title":"The Elder Scrolls IV: Oblivion",
     "motivation":"NONE"
   },
@@ -729,26 +729,26 @@
         "amount":1
       }
     ],
-    "characters":"NONE",
     "tools":[
       "the player saved Captain Veleth's life: his guardsman was killed by an ash spawn though",
       "the ash spawn have been coming from this direction to Raven Rock"
     ],
     "description":"Thanks... I wasn't sure I'd make it off this farm alive. I wish I could have said the same for my man here.\nSome of the Redoran Guard have taken to calling them \"ash spawn\". Me? I don't care what they're called... all I know is they're a danger to Raven Rock and they need to be stopped.\nI was going to search for clues that might lead me to wherever they're coming from. I know it isn't the best place to start, but we know they've been coming from this direction.\nCould you lend me a hand? We were searching the farm when the ash spawn ambushed us. Have a look around and see if you can turn up anything useful.",
-    "locations":[
-      {
-        "name":"Raven Rock",
-        "description":"a town ruled by the Redoran"
-      }
-    ],
     "items":"NONE",
-    "enemies":"NONE",
+    "characters":"NONE",
     "groups":[
       {
         "name":"Redoran",
         "description":"a noble family"
       }
     ],
+    "locations":[
+      {
+        "name":"Raven Rock",
+        "description":"a town ruled by the Redoran"
+      }
+    ],
+    "enemies":"NONE",
     "title":"The Elder Scrolls V: Skyrim",
     "motivation":"NONE"
   },
@@ -776,6 +776,11 @@
         "amount":1
       }
     ],
+    "tools":[
+      "NONE"
+    ],
+    "description":"I am unable to look into something that has been brought to my attention. Are you capable of going on my behalf?\nPlease go to the Bruma Mages Guild; I have not heard from Jeanne Frasoric for a few days now, which is unusual for her. While I welcome the break from correspondence with her, I worry that something may be amiss, given recent developments.\nFind out if Jeanne is all right, and let me know if she needs anything.",
+    "items":"NONE",
     "characters":[
       {
         "name":"Jeanne Frasoric",
@@ -783,24 +788,19 @@
         "location":"Bruma Mages Guild"
       }
     ],
-    "tools":[
-      "NONE"
-    ],
-    "description":"I am unable to look into something that has been brought to my attention. Are you capable of going on my behalf?\nPlease go to the Bruma Mages Guild; I have not heard from Jeanne Frasoric for a few days now, which is unusual for her. While I welcome the break from correspondence with her, I worry that something may be amiss, given recent developments.\nFind out if Jeanne is all right, and let me know if she needs anything.",
-    "locations":[
-      {
-        "name":"Bruma",
-        "description":"a city"
-      }
-    ],
-    "items":"NONE",
-    "enemies":"NONE",
     "groups":[
       {
         "name":"Mages Guild",
         "description":"a guild of mages"
       }
     ],
+    "locations":[
+      {
+        "name":"Bruma",
+        "description":"a city"
+      }
+    ],
+    "enemies":"NONE",
     "title":"The Elder Scrolls IV: Oblivion",
     "motivation":"NONE"
   },
@@ -828,6 +828,11 @@
         "amount":1
       }
     ],
+    "tools":[
+      "pirates have been raiding all along the coast, from Hammerfell to Vvardenfell: the East Empire Company's security forces are limited, and all the mercenaries are tied up in the war"
+    ],
+    "description":"Sad, isn't it? We can't afford to keep the place running since these attacks started. Pirates, you see. Raiding all along the coast, from Hammerfell to Vvardenfell.\nOur own security forces are limited, and all the mercenaries are tied up in this ridiculous war. We don't even know their base of operations, and attacking single ships won't really solve the problem.\nOnly the Shatter-Shields appear safe. They are a very powerful family here in Windhelm. They run a private shipping operation, and would love to have the docks to themselves. Wouldn't surprise me if they were in league with the pirates, somehow.\nNot yet, no. But perhaps an intrepid person such as yourself could help with that. They have a dark elf who oversees their operations. Suvaris Atheron. She's meticulous to a fault, and keeps a logbook with every transaction she makes.\nIf you get me the logbook, I'll have proof of Shatter-Shield's treachery.",
+    "items":"NONE",
     "characters":[
       {
         "name":"Suvaris Atheron",
@@ -835,22 +840,6 @@
         "location":"Windhelm"
       }
     ],
-    "tools":[
-      "pirates have been raiding all along the coast, from Hammerfell to Vvardenfell: the East Empire Company's security forces are limited, and all the mercenaries are tied up in the war"
-    ],
-    "description":"Sad, isn't it? We can't afford to keep the place running since these attacks started. Pirates, you see. Raiding all along the coast, from Hammerfell to Vvardenfell.\nOur own security forces are limited, and all the mercenaries are tied up in this ridiculous war. We don't even know their base of operations, and attacking single ships won't really solve the problem.\nOnly the Shatter-Shields appear safe. They are a very powerful family here in Windhelm. They run a private shipping operation, and would love to have the docks to themselves. Wouldn't surprise me if they were in league with the pirates, somehow.\nNot yet, no. But perhaps an intrepid person such as yourself could help with that. They have a dark elf who oversees their operations. Suvaris Atheron. She's meticulous to a fault, and keeps a logbook with every transaction she makes.\nIf you get me the logbook, I'll have proof of Shatter-Shield's treachery.",
-    "locations":[
-      {
-        "name":"Hammerfell",
-        "description":"a realm"
-      },
-      {
-        "name":"Vvardenfell",
-        "description":"an island"
-      }
-    ],
-    "items":"NONE",
-    "enemies":"NONE",
     "groups":[
       {
         "name":"East Empire Company",
@@ -861,6 +850,17 @@
         "description":"a powerful family in Windhelm that run a private shipping operation at the docks"
       }
     ],
+    "locations":[
+      {
+        "name":"Hammerfell",
+        "description":"a realm"
+      },
+      {
+        "name":"Vvardenfell",
+        "description":"an island"
+      }
+    ],
+    "enemies":"NONE",
     "title":"The Elder Scrolls V: Skyrim",
     "motivation":"NONE"
   },
@@ -888,6 +888,13 @@
         "amount":1
       }
     ],
+    "tools":[
+      "the player told Shum gro-Yarug that they want to buy a house",
+      "Rosethorn Hall is currently occupied by Vandorallen Trebatius",
+      "Shum gro-Yarug will have Vandorallen Trebatius evicted from Rosethorn Hall"
+    ],
+    "description":"I'm Shum gro-Yarug, the Count's butler.\nSo you want to buy a house? I can speak for the Count. Rosethorn Hall is a stately manor currently occupied by Vandorallen Trebatius. You won't find a better property for sale in Skingrad. It's just inside the main gate, near the bridge to the chapel.\nThe house costs 25,000 septims. Give me the septims, and I will order the deed to the house drawn up.\nDon't worry about Vandorallen Trebatius. I'll have him evicted. I'm sure he'll find another home easily.",
+    "items":"NONE",
     "characters":[
       {
         "name":"Vandorallen Trebatius",
@@ -895,16 +902,9 @@
         "location":"Rosethorn Hall"
       }
     ],
-    "tools":[
-      "the player told Shum gro-Yarug that they want to buy a house",
-      "Rosethorn Hall is currently occupied by Vandorallen Trebatius",
-      "Shum gro-Yarug will have Vandorallen Trebatius evicted from Rosethorn Hall"
-    ],
-    "description":"I'm Shum gro-Yarug, the Count's butler.\nSo you want to buy a house? I can speak for the Count. Rosethorn Hall is a stately manor currently occupied by Vandorallen Trebatius. You won't find a better property for sale in Skingrad. It's just inside the main gate, near the bridge to the chapel.\nThe house costs 25,000 septims. Give me the septims, and I will order the deed to the house drawn up.\nDon't worry about Vandorallen Trebatius. I'll have him evicted. I'm sure he'll find another home easily.",
-    "locations":"NONE",
-    "items":"NONE",
-    "enemies":"NONE",
     "groups":"NONE",
+    "locations":"NONE",
+    "enemies":"NONE",
     "title":"The Elder Scrolls IV: Oblivion",
     "motivation":"NONE"
   },
@@ -932,6 +932,12 @@
         "amount":1
       }
     ],
+    "tools":[
+      "Valdar has been holding Hevnoraak in his tomb",
+      "Hevnoraak's minions guard the three vessels"
+    ],
+    "description":"Leave, stranger. Evil stirs in this place. I fear for the security of the very land if it should break free.\nWe stand at the tomb of Hevnoraak, who has been dead for many generations. I fear, however, that his return may be at hand. I have been holding him here. While he regains strength, however, I am fading. By now I can barely contain his power, much less defeat him if he awakens. But with the help of a living champion I may be able to succeed.\nThree vessels in the tomb below hold the power to vanquish Hevnoraak. Before anything else, we need those. Bring them to me - but be careful, mortal. They are guarded by Hevnoraak's minions. They will stop at nothing to see their master return.",
+    "items":"NONE",
     "characters":[
       {
         "name":"Hevnoraak",
@@ -939,15 +945,9 @@
         "location":"tomb of Hevnoraak"
       }
     ],
-    "tools":[
-      "Valdar has been holding Hevnoraak in his tomb",
-      "Hevnoraak's minions guard the three vessels"
-    ],
-    "description":"Leave, stranger. Evil stirs in this place. I fear for the security of the very land if it should break free.\nWe stand at the tomb of Hevnoraak, who has been dead for many generations. I fear, however, that his return may be at hand. I have been holding him here. While he regains strength, however, I am fading. By now I can barely contain his power, much less defeat him if he awakens. But with the help of a living champion I may be able to succeed.\nThree vessels in the tomb below hold the power to vanquish Hevnoraak. Before anything else, we need those. Bring them to me - but be careful, mortal. They are guarded by Hevnoraak's minions. They will stop at nothing to see their master return.",
-    "locations":"NONE",
-    "items":"NONE",
-    "enemies":"NONE",
     "groups":"NONE",
+    "locations":"NONE",
+    "enemies":"NONE",
     "title":"The Elder Scrolls V: Skyrim",
     "motivation":"NONE"
   },
@@ -975,18 +975,10 @@
         "amount":1
       }
     ],
-    "characters":[
-      {
-        "name":"Aduri",
-        "description":"Avrusa Sarethi's younger sister",
-        "location":"Avrusa Sarethi's farm"
-      }
-    ],
     "tools":[
       "Avrusa Sarethi is keeping a a tight rein on Aduri"
     ],
     "description":"Sigh. I've got my hands full here. Between the farm chores, cultivating my supply of Nirnroot and keeping a tight rein on my sister Aduri, there's little time for rest.\nCould you help me? One of the ingredients I need to cultivate Nirnroot are Jazbay Grapes... the acidic content of the juice is perfect for the soil. I need twenty of them for my current crop.\nI'll give you something for your efforts... finding all of them might not be easy... or cheap.",
-    "locations":"NONE",
     "items":[
       {
         "name":"Jazbay Grapes",
@@ -999,8 +991,16 @@
         "amount":1
       }
     ],
-    "enemies":"NONE",
+    "characters":[
+      {
+        "name":"Aduri",
+        "description":"Avrusa Sarethi's younger sister",
+        "location":"Avrusa Sarethi's farm"
+      }
+    ],
     "groups":"NONE",
+    "locations":"NONE",
+    "enemies":"NONE",
     "title":"The Elder Scrolls V: Skyrim",
     "motivation":"NONE"
   },
@@ -1028,6 +1028,12 @@
         "amount":1
       }
     ],
+    "tools":[
+      "Astrid woke the player up from their sleep",
+      "Aventus Aretino was looking for the Dark Brotherhood: Grelod the Kind was a Dark Brotherhood contract, and the player must pay for killing her"
+    ],
+    "description":"Sleep well? Who I am really isn't as important as what I am. And what I am is an admirer. Of sorts.\nYou see, that little Aretino boy was looking for the Dark Brotherhood. For me, and my associates. Grelod the Kind was, by all rights, a Dark Brotherhood contract. A kill... that you stole. A kill you must repay.\nIf you turn around, you'll notice my guests. I've \"collected\" them from... well, that's not really important. The here and now. That's what matters. You see, there's a contract out on one of them, and that person can't leave this room alive. But... which one? Go on, see if you can figure it out.\nMake your choice. Make your kill. I just want to observe... and admire.",
+    "items":"NONE",
     "characters":[
       {
         "name":"Aventus Aretino",
@@ -1040,20 +1046,14 @@
         "location":""
       }
     ],
-    "tools":[
-      "Astrid woke the player up from their sleep",
-      "Aventus Aretino was looking for the Dark Brotherhood: Grelod the Kind was a Dark Brotherhood contract, and the player must pay for killing her"
-    ],
-    "description":"Sleep well? Who I am really isn't as important as what I am. And what I am is an admirer. Of sorts.\nYou see, that little Aretino boy was looking for the Dark Brotherhood. For me, and my associates. Grelod the Kind was, by all rights, a Dark Brotherhood contract. A kill... that you stole. A kill you must repay.\nIf you turn around, you'll notice my guests. I've \"collected\" them from... well, that's not really important. The here and now. That's what matters. You see, there's a contract out on one of them, and that person can't leave this room alive. But... which one? Go on, see if you can figure it out.\nMake your choice. Make your kill. I just want to observe... and admire.",
-    "locations":"NONE",
-    "items":"NONE",
-    "enemies":"NONE",
     "groups":[
       {
         "name":"Dark Brotherhood",
         "description":"a guild of assassins"
       }
     ],
+    "locations":"NONE",
+    "enemies":"NONE",
     "title":"The Elder Scrolls V: Skyrim",
     "motivation":"NONE"
   },
@@ -1083,16 +1083,16 @@
         "amount":1
       }
     ],
-    "characters":"NONE",
     "tools":[
       "Sneak",
       "Lockpick"
     ],
     "description":"The player must steal Neal\u2019s prized urn without alerting him or other Junktown residents. The consequences of being caught may lead to hostilities.",
-    "locations":"NONE",
     "items":"NONE",
-    "enemies":"NONE",
+    "characters":"NONE",
     "groups":"NONE",
+    "locations":"NONE",
+    "enemies":"NONE",
     "title":"Fallout",
     "motivation":"NONE"
   },
@@ -1120,6 +1120,12 @@
         "amount":1
       }
     ],
+    "tools":[
+      "Gulum-Ei acted as a go-between for the sale of Goldenglow Estate: he can finger the buyer",
+      "the player should talk to Brynjolf before they leave if they have any questions"
+    ],
+    "description":"Ah, there you are. I have a job for you.\nGulum-Ei is our inside man at the East Empire Company in Solitude. I'm betting he acted as a go-between for the sale of Goldenglow Estate and that he can finger our buyer.\nGet out there, shake him down and see what you come up with. Talk to Brynjolf before you leave if you have any questions.",
+    "items":"NONE",
     "characters":[
       {
         "name":"Gulum-Ei",
@@ -1132,11 +1138,12 @@
         "location":""
       }
     ],
-    "tools":[
-      "Gulum-Ei acted as a go-between for the sale of Goldenglow Estate: he can finger the buyer",
-      "the player should talk to Brynjolf before they leave if they have any questions"
+    "groups":[
+      {
+        "name":"Thieves Guild",
+        "description":"a guild of thieves"
+      }
     ],
-    "description":"Ah, there you are. I have a job for you.\nGulum-Ei is our inside man at the East Empire Company in Solitude. I'm betting he acted as a go-between for the sale of Goldenglow Estate and that he can finger our buyer.\nGet out there, shake him down and see what you come up with. Talk to Brynjolf before you leave if you have any questions.",
     "locations":[
       {
         "name":"Goldenglow Estate",
@@ -1147,14 +1154,7 @@
         "description":"a city"
       }
     ],
-    "items":"NONE",
     "enemies":"NONE",
-    "groups":[
-      {
-        "name":"Thieves Guild",
-        "description":"a guild of thieves"
-      }
-    ],
     "title":"The Elder Scrolls V: Skyrim",
     "motivation":"NONE"
   },
@@ -1182,20 +1182,20 @@
         "amount":1
       }
     ],
-    "characters":"NONE",
     "tools":[
       "NONE"
     ],
     "description":"A few days ago, some thieves from Riften broke in here and stole it! Can you imagine? Took the only thing of value we had. It was a family heirloom. I can't even put a price on how much that thing means to me.\nI'm sure that they are from Riften. I bumped into them when I was coming back to my farm after buying supplies. I know those lowlifes took it with them back to the Ratway. They left an unmistakable stench behind.\nIf you have the guts to head into the Ratway and get my bow back, I'll pay you what I can. It would be nice to have it back... means a lot to me.",
+    "items":"NONE",
+    "characters":"NONE",
+    "groups":"NONE",
     "locations":[
       {
         "name":"Riften",
         "description":"a city"
       }
     ],
-    "items":"NONE",
     "enemies":"NONE",
-    "groups":"NONE",
     "title":"The Elder Scrolls V: Skyrim",
     "motivation":"NONE"
   },
@@ -1235,16 +1235,16 @@
         "description":"Skeeter will enhance the Highwayman, improving its efficiency."
       }
     ],
-    "characters":"NONE",
     "tools":[
       "Barter skill to purchase the super repair kit at a lower price.",
       "Lockpick skill to steal a kit if necessary."
     ],
     "description":"Skeeter, a skilled mechanic in Gecko, needs a super repair kit to enhance the Highwayman. You must locate and deliver the kit to him for an upgrade.",
-    "locations":"NONE",
     "items":"NONE",
-    "enemies":"NONE",
+    "characters":"NONE",
     "groups":"NONE",
+    "locations":"NONE",
+    "enemies":"NONE",
     "title":"Fallout 2",
     "motivation":"NONE"
   },
@@ -1272,15 +1272,15 @@
         "amount":1
       }
     ],
-    "characters":"NONE",
     "tools":[
       "NONE"
     ],
     "description":"I need to finish my research on dragons.\nWhile you're out hunting dragons, keep a sharp eye open for any dragon scales and bones you might find. I'd be interested in looking at them.\nHave you ever heard of the expression, \"the scale of the lizard that bit you?\" No, I guess not. Well, the principle applies here. I'll make you a potion, made from those dragon parts.",
-    "locations":"NONE",
     "items":"NONE",
-    "enemies":"NONE",
+    "characters":"NONE",
     "groups":"NONE",
+    "locations":"NONE",
+    "enemies":"NONE",
     "title":"The Elder Scrolls V: Skyrim",
     "motivation":"NONE"
   },
@@ -1308,28 +1308,11 @@
         "amount":1
       }
     ],
-    "characters":[
-      {
-        "name":"Ancano",
-        "description":"a power-hungry male wizard",
-        "location":"College of Winterhold"
-      }
-    ],
     "tools":[
       "Tolfdir and the others can't crack Ancano's magical shield around the College of Winterhold",
       "the player got the Staff of Magnus the Labyrinthian"
     ],
     "description":"Ancano has sealed himself inside the College! The Eye of Magnus is is growing his power. We can't crack whatever magic he's using to shield himself.\nI hope your trip to Labyrinthian was worth it. You have the Staff of Magnus, then? Let's hope it's as powerful as the Psijics believe it to be.\nYou're the one with the staff, my child. If it can help us get inside the College, and reach Ancano, we'll have to hope that there's a way to stop all this.",
-    "locations":[
-      {
-        "name":"Labyrinthian",
-        "description":"an ancient ruin"
-      },
-      {
-        "name":"College of Winterhold",
-        "description":"a school of mages"
-      }
-    ],
     "items":[
       {
         "name":"Eye of Magnus",
@@ -1342,13 +1325,30 @@
         "amount":1
       }
     ],
-    "enemies":"NONE",
+    "characters":[
+      {
+        "name":"Ancano",
+        "description":"a power-hungry male wizard",
+        "location":"College of Winterhold"
+      }
+    ],
     "groups":[
       {
         "name":"Psijics",
         "description":"a mysterious order of mages"
       }
     ],
+    "locations":[
+      {
+        "name":"Labyrinthian",
+        "description":"an ancient ruin"
+      },
+      {
+        "name":"College of Winterhold",
+        "description":"a school of mages"
+      }
+    ],
+    "enemies":"NONE",
     "title":"The Elder Scrolls V: Skyrim",
     "motivation":"NONE"
   },
@@ -1376,6 +1376,18 @@
         "amount":1
       }
     ],
+    "tools":[
+      "Stormherald Nallabir lost this past tenday's theological debate to a a representative of the Lathanderian temple in the Government District",
+      "the temple of Talos hired Travin to steal a Dawn Ring from the Lathanderian temple"
+    ],
+    "description":"It's Talon Yarryl, priest of Talos.\nI have a chore for you that may prove interesting.\nThis is not a matter of negotiation or exploration. No, now you are to face true enemies of Talos.\nSlanderous words have been said. Things did not go well for Stormherald Nallabir at this past tenday's theological debate in the Government District. The growing arrogance of the Lathanderian church is distasteful. Talos should be feared; their irreverence is insulting.\nWe have hired a thief, and he has stolen a Dawn Ring from the Lathanderian temple.\nFind Travin in the slums at night, collect the ring, and return it here.\nRemember that the honor of Talos rests upon your shoulders.",
+    "items":[
+      {
+        "name":"Dawn Ring",
+        "description":"a ring",
+        "amount":1
+      }
+    ],
     "characters":[
       {
         "name":"Talos",
@@ -1393,26 +1405,14 @@
         "location":"the Government District"
       }
     ],
-    "tools":[
-      "Stormherald Nallabir lost this past tenday's theological debate to a a representative of the Lathanderian temple in the Government District",
-      "the temple of Talos hired Travin to steal a Dawn Ring from the Lathanderian temple"
-    ],
-    "description":"It's Talon Yarryl, priest of Talos.\nI have a chore for you that may prove interesting.\nThis is not a matter of negotiation or exploration. No, now you are to face true enemies of Talos.\nSlanderous words have been said. Things did not go well for Stormherald Nallabir at this past tenday's theological debate in the Government District. The growing arrogance of the Lathanderian church is distasteful. Talos should be feared; their irreverence is insulting.\nWe have hired a thief, and he has stolen a Dawn Ring from the Lathanderian temple.\nFind Travin in the slums at night, collect the ring, and return it here.\nRemember that the honor of Talos rests upon your shoulders.",
-    "locations":"NONE",
-    "items":[
-      {
-        "name":"Dawn Ring",
-        "description":"a ring",
-        "amount":1
-      }
-    ],
-    "enemies":"NONE",
     "groups":[
       {
         "name":"Lathanderian temple, Lathanderian church",
         "description":"a church that does not respect Talos"
       }
     ],
+    "locations":"NONE",
+    "enemies":"NONE",
     "title":"Baldur's Gate II: Shadows of Amn",
     "motivation":"NONE"
   },
@@ -1440,17 +1440,10 @@
         "amount":100
       }
     ],
-    "characters":"NONE",
     "tools":[
       "NONE"
     ],
     "description":"Hey, I'm Zhurlong! What is a thief to do, huh? You invest in some Boots of Stealth, you set up shop in the badlands to the south of Beregost and then, WHAM... Along comes a tribe of hobgoblins and they tear the boots from right off your feet!\nDamn-blasted hobgoblin bullies... I'll pay you 100 gold pieces to show them who's boss and get those boots back...",
-    "locations":[
-      {
-        "name":"Beregost",
-        "description":"a town"
-      }
-    ],
     "items":[
       {
         "name":"Boots of Stealth",
@@ -1458,8 +1451,15 @@
         "amount":1
       }
     ],
-    "enemies":"NONE",
+    "characters":"NONE",
     "groups":"NONE",
+    "locations":[
+      {
+        "name":"Beregost",
+        "description":"a town"
+      }
+    ],
+    "enemies":"NONE",
     "title":"Baldur's Gate",
     "motivation":"NONE"
   },
@@ -1487,6 +1487,18 @@
         "amount":1
       }
     ],
+    "tools":[
+      "the player thought that the Dark Alchemist is after the Guardian Of Air's power: he left the desert for Grunnheim",
+      "the Dark Alchemist is powerful enough to destroy the barrier between the player's world and the realm of the Netherim"
+    ],
+    "description":"Let us return to the matter of the Dark Alchemist. He has now stolen the energy of three Guardians, and we thought he desired my power as well. But, for some reason, he has left the desert, and is now en route to Grunnheim.\nThat can only mean that he is bound for the Clockwork Core. With the power he has amassed, he could destroy the barrier between our world and the realm of the Netherim. They would pour through by the millions.\nSeek the Railmaster, and depart for Grunnheim as soon as you are able.",
+    "items":[
+      {
+        "name":"",
+        "description":"",
+        "amount":1
+      }
+    ],
     "characters":[
       {
         "name":"Dark Alchemist",
@@ -1499,25 +1511,6 @@
         "location":""
       }
     ],
-    "tools":[
-      "the player thought that the Dark Alchemist is after the Guardian Of Air's power: he left the desert for Grunnheim",
-      "the Dark Alchemist is powerful enough to destroy the barrier between the player's world and the realm of the Netherim"
-    ],
-    "description":"Let us return to the matter of the Dark Alchemist. He has now stolen the energy of three Guardians, and we thought he desired my power as well. But, for some reason, he has left the desert, and is now en route to Grunnheim.\nThat can only mean that he is bound for the Clockwork Core. With the power he has amassed, he could destroy the barrier between our world and the realm of the Netherim. They would pour through by the millions.\nSeek the Railmaster, and depart for Grunnheim as soon as you are able.",
-    "locations":[
-      {
-        "name":"Grunnheim",
-        "description":"a haunted forest"
-      }
-    ],
-    "items":[
-      {
-        "name":"",
-        "description":"",
-        "amount":1
-      }
-    ],
-    "enemies":"NONE",
     "groups":[
       {
         "name":"Guardians",
@@ -1528,6 +1521,13 @@
         "description":"numerous demons residing in another world"
       }
     ],
+    "locations":[
+      {
+        "name":"Grunnheim",
+        "description":"a haunted forest"
+      }
+    ],
+    "enemies":"NONE",
     "title":"Torchlight II",
     "motivation":"NONE"
   },
@@ -1555,18 +1555,10 @@
         "amount":1
       }
     ],
-    "characters":[
-      {
-        "name":"Thiss",
-        "description":"a great spectral dragon who stole the Crown from Robot Eye",
-        "location":"Forgotten Halls"
-      }
-    ],
     "tools":[
       "the player told Robot Eye that the player wants to go through the door"
     ],
     "description":"You want through THIS door? Ha! Well, it's not as simple as that. Everything has a price - you must know that by now.\nIf you can solve a problem for us, we will solve a problem for you by letting you through the door. Thiss, the great Spectral Dragon, has kept something of ours for many long years. We would like it back - and you will get it for us, oh yes.\nThere is a Crown, a... family heirloom that he stole from us. He will not give it up easily, of course. But this door is im-PENETRABLE - so you've got a much better chance with Thiss than you do waiting around here.\nYou can find Thiss in the Forgotten Halls... good luck! You're going to need it.",
-    "locations":"NONE",
     "items":[
       {
         "name":"Crown",
@@ -1574,8 +1566,16 @@
         "amount":1
       }
     ],
-    "enemies":"NONE",
+    "characters":[
+      {
+        "name":"Thiss",
+        "description":"a great spectral dragon who stole the Crown from Robot Eye",
+        "location":"Forgotten Halls"
+      }
+    ],
     "groups":"NONE",
+    "locations":"NONE",
+    "enemies":"NONE",
     "title":"Torchlight II",
     "motivation":"NONE"
   },
@@ -1603,12 +1603,19 @@
         "amount":1
       }
     ],
-    "characters":"NONE",
     "tools":[
       "the player killed a dragon for Balgruuf the Greater and absorbed some kind of power from it",
       "the Greybeards think that the player is a Dragonborn: a Dragonborn is said to be uniquely gifted in the voice - the ability to focus the player's vital essence into a Thu'um, or shout"
     ],
     "description":"So when the dragon died, you absorbed some kind of power from it. So it's true. The Greybeards really were summoning you. They are masters of the Way of the Voice. They live in seclusion high on the slopes of the Throat of the World.\nWhatever happened when you killed that dragon, it revealed something in you, and the Greybeards heard it. If they think you're Dragonborn, who are we to argue?\nThe Dragonborn is said to be uniquely gifted in the Voice - the ability to focus your vital essence into a Thu'um, or Shout. If you really are Dragonborn, they can teach you how to use your gift.\nYou'd better get up to High Hrothgar immediately. There's no refusing the summons of the Greybeards. It's a tremendous honor.",
+    "items":"NONE",
+    "characters":"NONE",
+    "groups":[
+      {
+        "name":"Greybeards",
+        "description":"masters of the way of the voice"
+      }
+    ],
     "locations":[
       {
         "name":"High Hrothgar",
@@ -1619,14 +1626,7 @@
         "description":"a high mountain"
       }
     ],
-    "items":"NONE",
     "enemies":"NONE",
-    "groups":[
-      {
-        "name":"Greybeards",
-        "description":"masters of the way of the voice"
-      }
-    ],
     "title":"The Elder Scrolls V: Skyrim",
     "motivation":"NONE"
   },
@@ -1659,6 +1659,12 @@
         "amount":1
       }
     ],
+    "tools":[
+      "Jaree-Ra and Deeja collect things nobody misses",
+      "with the war, many more ships come through Solitude Docks loaded with weapons and pay, but few people"
+    ],
+    "description":"It's easy to find things to sell. Things nobody will miss. Things from underground, or just left lying around in someone's house. I bet the two of us, we're very alike. So why not take the next step? We can help each other.\nMy sister Deeja and I are treasure hunters. You could be too. We like to collect things. We are not thieves. We just take what will not be missed. What no one needs anymore. Maybe we take some weapons and stop a few deaths. Who would call that thievery?\nWith the war, many more ships come through these docks. Loaded with weapons and pay, but few people. And they pass through dangerous waters. We have an interest in one of those boats, the Icerunner. The Solitude Lighthouse will be guiding it in... but if its fire were to go out, the Icerunner would run aground.\nIf someone were to put out the lighthouse fire and then meet me on the docks afterwards... I could certainly direct them to that loot. That someone could be you.",
+    "items":"NONE",
     "characters":[
       {
         "name":"Deeja",
@@ -1666,11 +1672,7 @@
         "location":""
       }
     ],
-    "tools":[
-      "Jaree-Ra and Deeja collect things nobody misses",
-      "with the war, many more ships come through Solitude Docks loaded with weapons and pay, but few people"
-    ],
-    "description":"It's easy to find things to sell. Things nobody will miss. Things from underground, or just left lying around in someone's house. I bet the two of us, we're very alike. So why not take the next step? We can help each other.\nMy sister Deeja and I are treasure hunters. You could be too. We like to collect things. We are not thieves. We just take what will not be missed. What no one needs anymore. Maybe we take some weapons and stop a few deaths. Who would call that thievery?\nWith the war, many more ships come through these docks. Loaded with weapons and pay, but few people. And they pass through dangerous waters. We have an interest in one of those boats, the Icerunner. The Solitude Lighthouse will be guiding it in... but if its fire were to go out, the Icerunner would run aground.\nIf someone were to put out the lighthouse fire and then meet me on the docks afterwards... I could certainly direct them to that loot. That someone could be you.",
+    "groups":"NONE",
     "locations":[
       {
         "name":"Icerunner",
@@ -1681,9 +1683,7 @@
         "description":"a city"
       }
     ],
-    "items":"NONE",
     "enemies":"NONE",
-    "groups":"NONE",
     "title":"The Elder Scrolls V: Skyrim",
     "motivation":"NONE"
   },
@@ -1717,16 +1717,16 @@
         "description":"Frankie will trust you more and may offer further opportunities."
       }
     ],
-    "characters":"NONE",
     "tools":[
       "Explosives to destroy the still.",
       "Stealth to avoid detection while sabotaging."
     ],
     "description":"Frankie, a rival bar owner, wants Becky\u2019s still destroyed to cripple her business. You must find a way to sabotage it without getting caught.",
-    "locations":"NONE",
     "items":"NONE",
-    "enemies":"NONE",
+    "characters":"NONE",
     "groups":"NONE",
+    "locations":"NONE",
+    "enemies":"NONE",
     "title":"Fallout 2",
     "motivation":"NONE"
   },
@@ -1754,6 +1754,11 @@
         "amount":1
       }
     ],
+    "tools":[
+      "NONE"
+    ],
+    "description":"Bryling's already come down hard on us for missing shipments. Likely to do it again, since we're late.\nYou could take word to her in Solitude that there'll be a shipment soon. Buy us some time and keep her off our backs. In exchange, I'm willing to let a few ingots go missing. Maybe more than a few.\nYou'd do me quite a favor. I wouldn't forget it. I'm sure she'll be angry. Brace yourself.",
+    "items":"NONE",
     "characters":[
       {
         "name":"Bryling",
@@ -1761,14 +1766,9 @@
         "location":"Solitude"
       }
     ],
-    "tools":[
-      "NONE"
-    ],
-    "description":"Bryling's already come down hard on us for missing shipments. Likely to do it again, since we're late.\nYou could take word to her in Solitude that there'll be a shipment soon. Buy us some time and keep her off our backs. In exchange, I'm willing to let a few ingots go missing. Maybe more than a few.\nYou'd do me quite a favor. I wouldn't forget it. I'm sure she'll be angry. Brace yourself.",
-    "locations":"NONE",
-    "items":"NONE",
-    "enemies":"NONE",
     "groups":"NONE",
+    "locations":"NONE",
+    "enemies":"NONE",
     "title":"The Elder Scrolls V: Skyrim",
     "motivation":"NONE"
   },
@@ -1796,15 +1796,15 @@
         "amount":10
       }
     ],
-    "characters":"NONE",
     "tools":[
       "suspicious stew is mushroom stew laced with some flowers: it may have positive or negative effects on its eater"
     ],
     "description":"I keep the villagers fed. Without my crops, our village would surely face a famine!\nSometimes, I like to cook new foods using various natural ingredients to prepare us for poor harvests. This time, I tried to make some mushroom stew, but one of the villagers accidentally tripped, and dropped some flowers into the pot with the stew.\nTraveler, could you please taste the suspicious mushroom stew? It can have either positive or negative effects on its eater. I'm giving you some.\nPlease see what happens after eating the suspicious stew, and report back to me. I'd hate to throw away the whole batch of mushroom stew for nothing. I'll even give you 10 emeralds for being a taster.",
-    "locations":"NONE",
     "items":"NONE",
-    "enemies":"NONE",
+    "characters":"NONE",
     "groups":"NONE",
+    "locations":"NONE",
+    "enemies":"NONE",
     "title":"Minecraft",
     "motivation":"knowledge"
   },
@@ -1832,6 +1832,11 @@
         "amount":1
       }
     ],
+    "tools":[
+      "NONE"
+    ],
+    "description":"I'm just a little girl Drienne.\nMommy says if you ever need to know something important, you should ask an adult. Pixie, my cat, she was playing close to the waterfall and slipped... I hope she's all right.\nYou can have this scroll Daddy gave me, if you find Pixie. I can't read the words yet anyways.",
+    "items":"NONE",
     "characters":[
       {
         "name":"Pixie",
@@ -1839,14 +1844,9 @@
         "location":""
       }
     ],
-    "tools":[
-      "NONE"
-    ],
-    "description":"I'm just a little girl Drienne.\nMommy says if you ever need to know something important, you should ask an adult. Pixie, my cat, she was playing close to the waterfall and slipped... I hope she's all right.\nYou can have this scroll Daddy gave me, if you find Pixie. I can't read the words yet anyways.",
-    "locations":"NONE",
-    "items":"NONE",
-    "enemies":"NONE",
     "groups":"NONE",
+    "locations":"NONE",
+    "enemies":"NONE",
     "title":"Baldur's Gate",
     "motivation":"NONE"
   },
@@ -1874,12 +1874,10 @@
         "amount":1
       }
     ],
-    "characters":"NONE",
     "tools":[
       "NONE"
     ],
     "description":"Hello, I am Firebead Elvenhair: an elderly mage and a bookworm.\nOh, the world of books... I have heard that a new copy of that wondrous tome, \"The History of the Fateful Coin,\" can be had for a pretty penny in one of the stores around here. If you would be so kind as to buy it for an old man like myself, I'd gladly reimburse you.\nI'd even give you a little bonus to help in your travels, a book called \"History of the Dead Three\".",
-    "locations":"NONE",
     "items":[
       {
         "name":"\"The History of the Fateful Coin\"",
@@ -1887,8 +1885,10 @@
         "amount":1
       }
     ],
-    "enemies":"NONE",
+    "characters":"NONE",
     "groups":"NONE",
+    "locations":"NONE",
+    "enemies":"NONE",
     "title":"Baldur's Gate",
     "motivation":"NONE"
   },
@@ -1916,11 +1916,19 @@
         "amount":1
       }
     ],
-    "characters":"NONE",
     "tools":[
       "the player asked Sinderion to train them"
     ],
     "description":"Training? Oh, I'm afraid that's not my area of expertise. I'm very focused on wines right now, you see.\nWonderful thing, wine. It's all about the balance. The flavor, the bouquet, the consistency... just wonderful. I'm sorry, what? Training... right. I'll make you a deal: you fetch me a bottle of each of the best wines from Skingrad, and I'll think about it.\nBoth vineyards, Tamika's and Surilie Brothers. Vintage 399. Oh, what a good year that was...",
+    "items":[
+      {
+        "name":"399",
+        "description":"a great vintage",
+        "amount":1
+      }
+    ],
+    "characters":"NONE",
+    "groups":"NONE",
     "locations":[
       {
         "name":"Tamika's",
@@ -1935,15 +1943,7 @@
         "description":"a city"
       }
     ],
-    "items":[
-      {
-        "name":"399",
-        "description":"a great vintage",
-        "amount":1
-      }
-    ],
     "enemies":"NONE",
-    "groups":"NONE",
     "title":"The Elder Scrolls IV: Oblivion",
     "motivation":"NONE"
   },
@@ -1971,18 +1971,10 @@
         "amount":1
       }
     ],
-    "characters":[
-      {
-        "name":"Giruad Gemane",
-        "description":"a male bard",
-        "location":"Bards College"
-      }
-    ],
     "tools":[
       "NONE"
     ],
     "description":"I write drama, friend. The legends and history of the world made to excite and inspire.\nPoor Giruad Gemane at the Bards College has been waiting for my latest work, \"Olaf and the Dragon,\" for weeks now. Roads are a mess.\nYou'll deliver the book for me? You're sure? When you see Giruad, ask for a tip. I'm sure he'll be in a good mood after reading this.",
-    "locations":"NONE",
     "items":[
       {
         "name":"\"Olaf and the Dragon\"",
@@ -1990,8 +1982,16 @@
         "amount":1
       }
     ],
-    "enemies":"NONE",
+    "characters":[
+      {
+        "name":"Giruad Gemane",
+        "description":"a male bard",
+        "location":"Bards College"
+      }
+    ],
     "groups":"NONE",
+    "locations":"NONE",
+    "enemies":"NONE",
     "title":"The Elder Scrolls V: Skyrim",
     "motivation":"NONE"
   },
@@ -2019,15 +2019,15 @@
         "amount":1
       }
     ],
-    "characters":"NONE",
     "tools":[
       "the player saved Duros the Blade from imprisonment"
     ],
     "description":"Finally saved! Thank you! You look like a person who likes risk! I'm heading back to town now. Meet me there and see if your luck holds out!",
-    "locations":"NONE",
     "items":"NONE",
-    "enemies":"NONE",
+    "characters":"NONE",
     "groups":"NONE",
+    "locations":"NONE",
+    "enemies":"NONE",
     "title":"Torchlight II",
     "motivation":"NONE"
   },
@@ -2055,12 +2055,10 @@
         "amount":1
       }
     ],
-    "characters":"NONE",
     "tools":[
       "the player asked Bralsa Andaren to teach the player Destruction spells"
     ],
     "description":"You seek training? If I were to aid you, you would first have to assist me.\nI would strip the Creators of their works... you will help with this. Bring me 20 bear pelts, as proof that you have helped tear nature asunder.\nThen we shall speak of spells and teaching.",
-    "locations":"NONE",
     "items":[
       {
         "name":"",
@@ -2068,8 +2066,10 @@
         "amount":20
       }
     ],
-    "enemies":"NONE",
+    "characters":"NONE",
     "groups":"NONE",
+    "locations":"NONE",
+    "enemies":"NONE",
     "title":"The Elder Scrolls IV: Oblivion",
     "motivation":"NONE"
   },
@@ -2097,18 +2097,10 @@
         "amount":1
       }
     ],
-    "characters":[
-      {
-        "name":"Alchemist",
-        "description":"a villainous man holding Ordrak's Heart",
-        "location":""
-      }
-    ],
     "tools":[
       "the Clockwork Core can be restored with Ordrak's Heart"
     ],
     "description":"You must overtake the Alchemist before he reaches the Clockwork Core. With the power of Ordrak's Heart, he could destroy the barrier between the worlds, which would mean the end of everything.\nYou must defeat the Alchemist and seize the Heart. He intends to use it for destruction, but, infused with the energy stolen from the Guardians, it now has the power to restore the Clockwork Core, and repair the damage to the barrier.",
-    "locations":"NONE",
     "items":[
       {
         "name":"Ordrak's Heart",
@@ -2121,13 +2113,21 @@
         "amount":1
       }
     ],
-    "enemies":"NONE",
+    "characters":[
+      {
+        "name":"Alchemist",
+        "description":"a villainous man holding Ordrak's Heart",
+        "location":""
+      }
+    ],
     "groups":[
       {
         "name":"Guardians",
         "description":"powerful spirits"
       }
     ],
+    "locations":"NONE",
+    "enemies":"NONE",
     "title":"Torchlight II",
     "motivation":"NONE"
   },
@@ -2155,18 +2155,10 @@
         "amount":1
       }
     ],
-    "characters":[
-      {
-        "name":"Barenziah",
-        "description":"a legendary queen",
-        "location":""
-      }
-    ],
     "tools":[
       "the player showed a Stone of Barenziah to Vex for appraisal"
     ],
     "description":"Been a while since I've seen one of those. What you've got there is a Stone of Barenziah. The stone was pried off of Barenziah's ceremonial crown by a thief in order to cover his tracks.\nI think there were twenty-four in all; supposedly, all of them are in Skyrim. Most people keep them as a curiosity. Some of the Guild members have tried to locate them over the years, but they haven't been successful... well, until now.\nI only buy things I can turn around quickly for a profit. And no one wants those stones unless they have the whole set. Tell you what, if you find the rest of them, talk to me again. Otherwise, keep it and maybe it'll bring you luck.",
-    "locations":"NONE",
     "items":[
       {
         "name":"Stone of Barenziah, Stones of Barenziah",
@@ -2174,13 +2166,21 @@
         "amount":1
       }
     ],
-    "enemies":"NONE",
+    "characters":[
+      {
+        "name":"Barenziah",
+        "description":"a legendary queen",
+        "location":""
+      }
+    ],
     "groups":[
       {
         "name":"Thieves Guild",
         "description":"a guild of thieves"
       }
     ],
+    "locations":"NONE",
+    "enemies":"NONE",
     "title":"The Elder Scrolls V: Skyrim",
     "motivation":"NONE"
   },
@@ -2208,6 +2208,11 @@
         "amount":1
       }
     ],
+    "tools":[
+      "Valdr, Ari and Niels tracked a bear to Moss Mother Cavern: Spriggans appeared and killed Ari and Niels"
+    ],
+    "description":"Name's Valdr. I hunt out of Falkreath.\nWe tracked a bear to this den, Moss Mother Cavern. Good coin for those pelts. We had the big sow cornered when they showed up. Three of them, out of nowhere. Spriggans.\nNiels went down before we even knew to run. Ari died just inside. I never even thought the things were real. But now what? I can't just walk away. Not with my friends' bodies in there, being torn apart by those beasts.\nYou would help me clear out the Spriggans? You'd do that for a stranger? I don't know what to say. Lead on, I suppose.",
+    "items":"NONE",
     "characters":[
       {
         "name":"Ari",
@@ -2220,17 +2225,13 @@
         "location":"Moss Mother Cavern"
       }
     ],
-    "tools":[
-      "Valdr, Ari and Niels tracked a bear to Moss Mother Cavern: Spriggans appeared and killed Ari and Niels"
-    ],
-    "description":"Name's Valdr. I hunt out of Falkreath.\nWe tracked a bear to this den, Moss Mother Cavern. Good coin for those pelts. We had the big sow cornered when they showed up. Three of them, out of nowhere. Spriggans.\nNiels went down before we even knew to run. Ari died just inside. I never even thought the things were real. But now what? I can't just walk away. Not with my friends' bodies in there, being torn apart by those beasts.\nYou would help me clear out the Spriggans? You'd do that for a stranger? I don't know what to say. Lead on, I suppose.",
+    "groups":"NONE",
     "locations":[
       {
         "name":"Falkreath",
         "description":"a town"
       }
     ],
-    "items":"NONE",
     "enemies":[
       {
         "name":"Spriggans",
@@ -2238,7 +2239,6 @@
         "amount":3
       }
     ],
-    "groups":"NONE",
     "title":"The Elder Scrolls V: Skyrim",
     "motivation":"NONE"
   },
@@ -2266,6 +2266,12 @@
         "amount":1
       }
     ],
+    "tools":[
+      "Martin sent a messenger to High Chancellor Ocato while the player was killing Mankar Camoran",
+      "the Elder Council rules in the Emperor's absence: they should not object to crowning Martin the Emperor"
+    ],
+    "description":"While you were gone, I sent a messenger to High Chancellor Ocato. He waits for us in the Imperial City.\nChancellor Ocato is the head of the Elder Council. The Council rules in the Emperor's absence. I don't expect any objections from the Elder Council, but we should defer to their authority.\nLet's go to the Imperial City at once, before the enemy can recover from Mankar Camoran's death. Until we light the Dragonfires, the Gates are open, and Mehrunes Dagon's invasion continues.",
+    "items":"NONE",
     "characters":[
       {
         "name":"Mankar Camoran",
@@ -2283,20 +2289,14 @@
         "location":"Oblivion"
       }
     ],
-    "tools":[
-      "Martin sent a messenger to High Chancellor Ocato while the player was killing Mankar Camoran",
-      "the Elder Council rules in the Emperor's absence: they should not object to crowning Martin the Emperor"
-    ],
-    "description":"While you were gone, I sent a messenger to High Chancellor Ocato. He waits for us in the Imperial City.\nChancellor Ocato is the head of the Elder Council. The Council rules in the Emperor's absence. I don't expect any objections from the Elder Council, but we should defer to their authority.\nLet's go to the Imperial City at once, before the enemy can recover from Mankar Camoran's death. Until we light the Dragonfires, the Gates are open, and Mehrunes Dagon's invasion continues.",
-    "locations":"NONE",
-    "items":"NONE",
-    "enemies":"NONE",
     "groups":[
       {
         "name":"Elder Council",
         "description":"a government body"
       }
     ],
+    "locations":"NONE",
+    "enemies":"NONE",
     "title":"The Elder Scrolls IV: Oblivion",
     "motivation":"NONE"
   },
@@ -2324,6 +2324,11 @@
         "amount":1
       }
     ],
+    "tools":[
+      "NONE"
+    ],
+    "description":"Pavo Attius has asked for our help. It seems a predator has invaded his home, and someone needs to clear the beast out.\nBe cautious. Beasts are not nearly as predictable as men. Give the thing a quick death.",
+    "items":"NONE",
     "characters":[
       {
         "name":"Pavo Attius",
@@ -2331,19 +2336,14 @@
         "location":""
       }
     ],
-    "tools":[
-      "NONE"
-    ],
-    "description":"Pavo Attius has asked for our help. It seems a predator has invaded his home, and someone needs to clear the beast out.\nBe cautious. Beasts are not nearly as predictable as men. Give the thing a quick death.",
-    "locations":"NONE",
-    "items":"NONE",
-    "enemies":"NONE",
     "groups":[
       {
         "name":"Companions",
         "description":"a band of honorable warriors"
       }
     ],
+    "locations":"NONE",
+    "enemies":"NONE",
     "title":"The Elder Scrolls V: Skyrim",
     "motivation":"NONE"
   },
@@ -2376,13 +2376,13 @@
         "amount":1
       }
     ],
-    "characters":"NONE",
     "tools":"NONE",
     "description":"Water rations in Vault 13 are disappearing, and the Overseer tasks the Vault Dweller with uncovering the culprit. By speaking with vault residents and investigating the storage area, the thief\u2014Jacob\u2014can be discovered. The Vault Dweller must then decide whether to report Jacob to the Overseer, let him go, or deal with him personally.",
-    "locations":"NONE",
     "items":"NONE",
-    "enemies":"NONE",
+    "characters":"NONE",
     "groups":"NONE",
+    "locations":"NONE",
+    "enemies":"NONE",
     "title":"Fallout",
     "motivation":"NONE"
   },
@@ -2410,18 +2410,11 @@
         "amount":1
       }
     ],
-    "characters":"NONE",
     "tools":[
       "the player has seen Akaviri relics displayed by Countess Narina Carvain",
       "Countess Narina Carvain gives the player a translation of an Akaviri messenger's translated diary, a rough map and a unique key that may help the player in the ruins in Pale Pass"
     ],
     "description":"Allow me to formally introduce myself. I'm Countess Narina Carvain. I assume you've noticed all of the Akaviri relics I'm displaying.\nWell, it's safe to say I'm a collector of sorts. I've invested a great deal of time and money acquiring these bits of ancient history. In fact, I'd be so bold as to proclaim my collection the most complete in all Cyrodiil; perhaps even beyond. Except for one thing.\nA particular relic has eluded me for many years. Possessing this piece of Akaviri antiquity would make my collection complete. I'm of course referring to The Draconian Madstone. The stone is a fine bit of Akaviri craftsmanship. Worn like an amulet, this talisman is said to protect the wearer from poisons of any type. The talisman appears as a snake coiled around and encircling itself. The eyes of the snake are supposed to be precious gems or some such. Through my sources, I've learned that the last reported location of the Draconian Madstone was the ruins at Pale Pass.\nIf you retrieve the Draconian Madstone for me, I'll be happy to compensate you by rewarding you with another Akaviri artifact. Are you in the game?\nLet me tell you how you're going to find the talisman. I've come into the possession of a diary written by an Akaviri messenger. I suspect that the text within can lead you to the ruins. Here's a translation of the passages we could still read. It was quite damaged. I've also included a rough map that was drawn in the diary as well. I'm also providing you with a unique key that was supposedly found with the diary. I'm assuming it will prove useful when you arrive at the site.",
-    "locations":[
-      {
-        "name":"Cyrodiil",
-        "description":"a realm"
-      }
-    ],
     "items":[
       {
         "name":"Draconian Madstone",
@@ -2429,13 +2422,20 @@
         "amount":1
       }
     ],
-    "enemies":"NONE",
+    "characters":"NONE",
     "groups":[
       {
         "name":"Akaviri",
         "description":"an ancient race of people"
       }
     ],
+    "locations":[
+      {
+        "name":"Cyrodiil",
+        "description":"a realm"
+      }
+    ],
+    "enemies":"NONE",
     "title":"The Elder Scrolls IV: Oblivion",
     "motivation":"NONE"
   },
@@ -2463,17 +2463,10 @@
         "amount":1
       }
     ],
-    "characters":"NONE",
     "tools":[
       "NONE"
     ],
     "description":"It would seem that the College has what you seek. The question now is what you can offer the College.\nNot just anyone is allowed inside. Those wishing to enter must show some degree of skill with magic. A small test, if you will.\nThe Mage Light spell is useful to any mage, not just those specializing in Alteration. Can you cast one on the seal on the ground?",
-    "locations":[
-      {
-        "name":"College of Winterhold",
-        "description":"a college for mages"
-      }
-    ],
     "items":[
       {
         "name":"Mage Light",
@@ -2481,8 +2474,15 @@
         "amount":1
       }
     ],
-    "enemies":"NONE",
+    "characters":"NONE",
     "groups":"NONE",
+    "locations":[
+      {
+        "name":"College of Winterhold",
+        "description":"a college for mages"
+      }
+    ],
+    "enemies":"NONE",
     "title":"The Elder Scrolls V: Skyrim",
     "motivation":"NONE"
   },
@@ -2510,17 +2510,10 @@
         "amount":1
       }
     ],
-    "characters":"NONE",
     "tools":[
       "NONE"
     ],
     "description":"You're here for work? I demand tribute before you can be considered for any real tasks.\nHow about drink? None of that local piss. Real Black-Briar Mead, fresh from Riften.\nYou better bring me my mead. I hate people who waste my time.",
-    "locations":[
-      {
-        "name":"Falkreath",
-        "description":"a city"
-      }
-    ],
     "items":[
       {
         "name":"Black-Briar Mead",
@@ -2528,8 +2521,15 @@
         "amount":1
       }
     ],
-    "enemies":"NONE",
+    "characters":"NONE",
     "groups":"NONE",
+    "locations":[
+      {
+        "name":"Falkreath",
+        "description":"a city"
+      }
+    ],
+    "enemies":"NONE",
     "title":"The Elder Scrolls V: Skyrim",
     "motivation":"NONE"
   },
@@ -2563,17 +2563,17 @@
         "description":"If successful, Modoc and the Slags can coexist peacefully."
       }
     ],
-    "characters":"NONE",
     "tools":[
       "Speech skill to negotiate peace.",
       "Charisma to convince Jo to listen to the Slags.",
       "Knowledge of the Slags\u2019 true nature to counter any misconceptions."
     ],
     "description":"The Slags seek to establish peaceful relations with Modoc. Your task is to deliver their message to Jo and convince him to accept their terms.",
-    "locations":"NONE",
     "items":"NONE",
-    "enemies":"NONE",
+    "characters":"NONE",
     "groups":"NONE",
+    "locations":"NONE",
+    "enemies":"NONE",
     "title":"Fallout 2",
     "motivation":"NONE"
   },
@@ -2606,16 +2606,16 @@
         "description":"Potentially valuable pre-war artifacts buried with the treasure."
       }
     ],
-    "characters":"NONE",
     "tools":[
       "Shovel to dig up the treasure.",
       "Perception to spot clues leading to the burial site."
     ],
     "description":"Typhon, an old ghoul, speaks of a long-lost treasure buried in the wasteland. With the right tools and knowledge, you might be able to uncover its location and claim a share of the riches.",
-    "locations":"NONE",
     "items":"NONE",
-    "enemies":"NONE",
+    "characters":"NONE",
     "groups":"NONE",
+    "locations":"NONE",
+    "enemies":"NONE",
     "title":"Fallout 2",
     "motivation":"NONE"
   },
@@ -2643,6 +2643,12 @@
         "amount":1
       }
     ],
+    "tools":[
+      "the player is meeting Aran Linvail for the first time",
+      "Aran Linvail's shipments and employees are disappearing on the docks"
+    ],
+    "description":"Welcome to this place. I've looked forward to seeing you. I am, as you know, Aran Linvail.\nStrange things are afoot on the docks. Shipments are disappearing, as are my employees with them. We are significantly weakened by this. I think it unlikely you would be captured or wooed to the enemy. If you go to the docks and bolster the guard on the shipments, it will strengthen our position.\nGo at night, and you will find my present guard captain there already, a woman by the name of Mook. Take note of anything odd that happens.\nGood hunting. Report to me if anything happens. Oh, and the reward I have set aside for you... I'll let you have some magical items. You will find them useful, I am sure.",
+    "items":"NONE",
     "characters":[
       {
         "name":"Mook",
@@ -2650,15 +2656,9 @@
         "location":"the docks"
       }
     ],
-    "tools":[
-      "the player is meeting Aran Linvail for the first time",
-      "Aran Linvail's shipments and employees are disappearing on the docks"
-    ],
-    "description":"Welcome to this place. I've looked forward to seeing you. I am, as you know, Aran Linvail.\nStrange things are afoot on the docks. Shipments are disappearing, as are my employees with them. We are significantly weakened by this. I think it unlikely you would be captured or wooed to the enemy. If you go to the docks and bolster the guard on the shipments, it will strengthen our position.\nGo at night, and you will find my present guard captain there already, a woman by the name of Mook. Take note of anything odd that happens.\nGood hunting. Report to me if anything happens. Oh, and the reward I have set aside for you... I'll let you have some magical items. You will find them useful, I am sure.",
-    "locations":"NONE",
-    "items":"NONE",
-    "enemies":"NONE",
     "groups":"NONE",
+    "locations":"NONE",
+    "enemies":"NONE",
     "title":"Baldur's Gate II: Shadows of Amn",
     "motivation":"NONE"
   },
@@ -2686,6 +2686,11 @@
         "amount":1
       }
     ],
+    "tools":[
+      "NONE"
+    ],
+    "description":"I've been pouring over some of the tomes left here in the keep. Interesting stories, indeed. Seems the previous incarnation of the Dawnguard had, at one time, some interesting toys.\nI have located one of their toys. Arkay and I think it could be a great advantage for us. You should look into retrieving it. It is a magical shield that when blocked with, surrounds its wielder with a holy aura that harms the undead. Might come in handy.\nYou'll be up against the Falmer of Sightless Pit, if I understand Arkay correctly. Nothing you can't handle.",
+    "items":"NONE",
     "characters":[
       {
         "name":"Arkay",
@@ -2693,13 +2698,6 @@
         "location":""
       }
     ],
-    "tools":[
-      "NONE"
-    ],
-    "description":"I've been pouring over some of the tomes left here in the keep. Interesting stories, indeed. Seems the previous incarnation of the Dawnguard had, at one time, some interesting toys.\nI have located one of their toys. Arkay and I think it could be a great advantage for us. You should look into retrieving it. It is a magical shield that when blocked with, surrounds its wielder with a holy aura that harms the undead. Might come in handy.\nYou'll be up against the Falmer of Sightless Pit, if I understand Arkay correctly. Nothing you can't handle.",
-    "locations":"NONE",
-    "items":"NONE",
-    "enemies":"NONE",
     "groups":[
       {
         "name":"Dawnguard",
@@ -2710,6 +2708,8 @@
         "description":"blind, small creatures"
       }
     ],
+    "locations":"NONE",
+    "enemies":"NONE",
     "title":"The Elder Scrolls V: Skyrim",
     "motivation":"NONE"
   },
@@ -2737,6 +2737,22 @@
         "amount":1
       }
     ],
+    "tools":[
+      "the player is a holy knight",
+      "Sir Roderic is dead: he was questing for the holy Relics at the Prophet's call with Lathon",
+      "Sir Roderic prayed at all the shrines, and received a disturbing vision featuring Sir Berich: Sir Berich had found the Greaves of the Crusader and the Sword of the Crusader, but had then turned to evil",
+      "Sir Roderic found the Relics and the wraith of Sir Berich within Sir Berich's tomb: Sir Roderic shouted for Lathon to take the Greaves of the Crusader",
+      "Lathon gives the player the Greaves of the Crusader",
+      "the wraith of Sir Berich attacked Sir Roderic with the Sword of the Crusader"
+    ],
+    "description":"Sir knight! I have terrible news. Sir Roderic... I think he's dead.\nSir Roderic was a holy knight, like you, questing for the Relics at the Prophet's call. I, Lathon, was his squire. I believed he was chosen by the gods to reclaim the Relics. At first things were going well. He prayed at all the shrines, and received a vision. A disturbing vision. \"The shade of Sir Berich spoke to me,\" was all he said. \"We must put him to rest.\" He said that Sir Berich's tomb was in Underpall Cave -- which is no cave, but some kind of buried keep.\nHe had learned that Sir Berich had once been a questing knight, like us. He had found the Greaves and Sword of the Crusader, but then turned to evil. Sir Roderic hoped to find the Relics within Sir Berich's tomb. And he did. But we also found a terrible guardian -- the wraith of Sir Berich.\nI brought you... Sir Roderic shouted for me to take them... the Greaves of the Crusader. The holy Relic. They're yours. The wraith used the Sword of the Crusader against Sir Roderic. I don't know how that evil thing could use the holy weapon, but it did.\nYou must avenge Sir Roderic by killing the foul wraith and get yourself the Sword of the Crusader!",
+    "items":[
+      {
+        "name":"Greaves of the Crusader",
+        "description":"holy greaves",
+        "amount":1
+      }
+    ],
     "characters":[
       {
         "name":"Sir Roderic",
@@ -2749,25 +2765,9 @@
         "location":"Underpall Cave"
       }
     ],
-    "tools":[
-      "the player is a holy knight",
-      "Sir Roderic is dead: he was questing for the holy Relics at the Prophet's call with Lathon",
-      "Sir Roderic prayed at all the shrines, and received a disturbing vision featuring Sir Berich: Sir Berich had found the Greaves of the Crusader and the Sword of the Crusader, but had then turned to evil",
-      "Sir Roderic found the Relics and the wraith of Sir Berich within Sir Berich's tomb: Sir Roderic shouted for Lathon to take the Greaves of the Crusader",
-      "Lathon gives the player the Greaves of the Crusader",
-      "the wraith of Sir Berich attacked Sir Roderic with the Sword of the Crusader"
-    ],
-    "description":"Sir knight! I have terrible news. Sir Roderic... I think he's dead.\nSir Roderic was a holy knight, like you, questing for the Relics at the Prophet's call. I, Lathon, was his squire. I believed he was chosen by the gods to reclaim the Relics. At first things were going well. He prayed at all the shrines, and received a vision. A disturbing vision. \"The shade of Sir Berich spoke to me,\" was all he said. \"We must put him to rest.\" He said that Sir Berich's tomb was in Underpall Cave -- which is no cave, but some kind of buried keep.\nHe had learned that Sir Berich had once been a questing knight, like us. He had found the Greaves and Sword of the Crusader, but then turned to evil. Sir Roderic hoped to find the Relics within Sir Berich's tomb. And he did. But we also found a terrible guardian -- the wraith of Sir Berich.\nI brought you... Sir Roderic shouted for me to take them... the Greaves of the Crusader. The holy Relic. They're yours. The wraith used the Sword of the Crusader against Sir Roderic. I don't know how that evil thing could use the holy weapon, but it did.\nYou must avenge Sir Roderic by killing the foul wraith and get yourself the Sword of the Crusader!",
-    "locations":"NONE",
-    "items":[
-      {
-        "name":"Greaves of the Crusader",
-        "description":"holy greaves",
-        "amount":1
-      }
-    ],
-    "enemies":"NONE",
     "groups":"NONE",
+    "locations":"NONE",
+    "enemies":"NONE",
     "title":"The Elder Scrolls IV: Oblivion",
     "motivation":"NONE"
   },
@@ -2795,19 +2795,11 @@
         "amount":1
       }
     ],
-    "characters":[
-      {
-        "name":"One God, Unseeing Eye",
-        "description":"a great god",
-        "location":""
-      }
-    ],
     "tools":[
       "Gaal will gives the player a key to the inner chambers",
       "the door to the inner chambers is located a short distance back the way the player came, at the sewer passages"
     ],
     "description":"I am Gaal, high priest of the One God.\nThere is... something that you could do that the great one cannot, despite his vast power.\nThe Unseeing Eye knows of a valuable item in this area.\nThe item is a rod... or part of a rod, rather, that you will find atop a holy altar. I cannot tell you more than that. You must let your faith guide you.\nIf you were to venture below, you could prove your worth by retrieving this artifact for him. Do this, and I will allow you into our ranks and the One's divine presence.\nI have a key I can give you... This will allow you entrance to the inner chambers through a door a short distance back the way you came, at the sewer passages.",
-    "locations":"NONE",
     "items":[
       {
         "name":"item",
@@ -2815,8 +2807,16 @@
         "amount":1
       }
     ],
-    "enemies":"NONE",
+    "characters":[
+      {
+        "name":"One God, Unseeing Eye",
+        "description":"a great god",
+        "location":""
+      }
+    ],
     "groups":"NONE",
+    "locations":"NONE",
+    "enemies":"NONE",
     "title":"Baldur's Gate II: Shadows of Amn",
     "motivation":"NONE"
   },
@@ -2844,16 +2844,16 @@
         "amount":1
       }
     ],
-    "characters":"NONE",
     "tools":[
       "Marlowe assumes that the player is one of the strangers that all the locals have been talking about, an adventurer from the north",
       "Marlowe and his daughter shall surely perish without the player's help"
     ],
     "description":"Excuse me, I... I do not mean to be rude... but you *are* one of the strangers that all the locals have been talking about, aren't you? An adventurer from the north? Yes, yes, of course you are. Anyone can see that you are an extraordinary person. Please forgive me.\nI would not bother you, stranger, but I am in terrible peril! I need your aid! I beg you for a boon or I and my daughter both shall surely perish! I... cannot speak more of this here. Please come to my home on top of the cliff, I beg you! We can speak freely there!\nMy home is atop the east cliff, adventurer. It is a simple dwelling but... safe, for the moment. My name is Marlowe... please meet me there and I shall explain everything, I swear.",
-    "locations":"NONE",
     "items":"NONE",
-    "enemies":"NONE",
+    "characters":"NONE",
     "groups":"NONE",
+    "locations":"NONE",
+    "enemies":"NONE",
     "title":"Baldur's Gate II: Shadows of Amn",
     "motivation":"NONE"
   },
@@ -2881,13 +2881,14 @@
         "amount":500
       }
     ],
-    "characters":"NONE",
     "tools":[
       "NONE"
     ],
     "description":"Hmmn. I don't remember seeing you down here before. Me name be Roger.\nOh, the sewers aren't so terrible. The guards don't be comin' down here, and my customers like to be somewhere... out of sight. 'Tis the beasties that are the biggest problem, especially of late. There's this sea troll. People have 'em as pets, and when they grow too large, they huck 'em down here to torment me.\nI suppose I could part with a few coins for the deed. I tell you what... dispose of the sea troll beastie for me, an' I'll be pleased to pay you 500 gold pieces, aye?",
-    "locations":"NONE",
     "items":"NONE",
+    "characters":"NONE",
+    "groups":"NONE",
+    "locations":"NONE",
     "enemies":[
       {
         "name":"",
@@ -2895,7 +2896,6 @@
         "amount":1
       }
     ],
-    "groups":"NONE",
     "title":"Baldur's Gate II: Shadows of Amn",
     "motivation":"NONE"
   },
@@ -2923,6 +2923,17 @@
         "amount":1
       }
     ],
+    "tools":[
+      "if the player bumps into Indaryn, they should not tell him anything about Romlyn Dreth's dealings"
+    ],
+    "description":"I'm not selling cheap mead. I'm selling good mead for cheap... Black-Briar Mead. I sell cases of it for half of what the inns and taverns pay through the Black-Briar Meadery.\nIf anyone saw me leave Riften, they'd get suspicious. I need someone to take this small keg of Black-Briar Mead to Wilhelm at the Vilemyr Inn in Ivarstead. Drop it off and he'll trade you something for the delivery. Keep it as payment for the legwork.\nOh, and if you bump into Indaryn from the meadery, keep your mouth shut. He'd rat us out in a second.",
+    "items":[
+      {
+        "name":"Black-Briar Mead",
+        "description":"famous, good mead",
+        "amount":1
+      }
+    ],
     "characters":[
       {
         "name":"Wilhelm",
@@ -2935,10 +2946,7 @@
         "location":"Riften"
       }
     ],
-    "tools":[
-      "if the player bumps into Indaryn, they should not tell him anything about Romlyn Dreth's dealings"
-    ],
-    "description":"I'm not selling cheap mead. I'm selling good mead for cheap... Black-Briar Mead. I sell cases of it for half of what the inns and taverns pay through the Black-Briar Meadery.\nIf anyone saw me leave Riften, they'd get suspicious. I need someone to take this small keg of Black-Briar Mead to Wilhelm at the Vilemyr Inn in Ivarstead. Drop it off and he'll trade you something for the delivery. Keep it as payment for the legwork.\nOh, and if you bump into Indaryn from the meadery, keep your mouth shut. He'd rat us out in a second.",
+    "groups":"NONE",
     "locations":[
       {
         "name":"Riften",
@@ -2953,15 +2961,7 @@
         "description":"a town"
       }
     ],
-    "items":[
-      {
-        "name":"Black-Briar Mead",
-        "description":"famous, good mead",
-        "amount":1
-      }
-    ],
     "enemies":"NONE",
-    "groups":"NONE",
     "title":"The Elder Scrolls V: Skyrim",
     "motivation":"NONE"
   },
@@ -2989,13 +2989,14 @@
         "amount":75
       }
     ],
-    "characters":"NONE",
     "tools":[
       "NONE"
     ],
     "description":"I'm Gerde, a ranger.\nYou've come here to fight ankhegs? Well, listen up: it's mating season, so it's primarily females coming up to the surface, looking to put on a little extra weight. They're hungry, they're aggressive, and there are a lot of them. Now, the point of this exercise is not to exterminate them, but to keep their population to a manageable level. Remember, they aerate the soil and thereby improve crop yields by as much as 15%. Food is going to be scarce enough in the next few years, so keep that in mind when you're out there. No more than four ankhegs per party. After that it's catch and release, all right? Most of the activity starts about fifty yards to the east.\nNow move out, everyone. You'll get 75 gold pieces, if you stick to the quota.",
-    "locations":"NONE",
     "items":"NONE",
+    "characters":"NONE",
+    "groups":"NONE",
+    "locations":"NONE",
     "enemies":[
       {
         "name":"",
@@ -3003,7 +3004,6 @@
         "amount":4
       }
     ],
-    "groups":"NONE",
     "title":"Baldur's Gate",
     "motivation":"NONE"
   },
@@ -3031,14 +3031,12 @@
         "amount":1
       }
     ],
-    "characters":"NONE",
     "tools":[
       "the player is the leader of a party of adventurers that has both men and women: Shar-Teel Dosan only duels men",
       "if Shar-Teel Dosan wins the duel the player has to give 20 gold to her",
       "Shar-Teel Dosan will kill anyone who tries to interfere the duel"
     ],
     "description":"Hold, traveler! I, Shar-Teel Dosan, challenge your best warrior to a duel. I don't fight women, so only men should step forward.\nI win, and you give me 20 gold. In the unlikely event that one of you bests me, I'll pledge my sword to your cause, however stupid it may be..\nWill your champion step forward? I only fight men, so your women will have to be satisfied with just watching. Don't entertain any thoughts about cheating. If any of the rest of you try to interfere in this fight, I'll kill them outright.",
-    "locations":"NONE",
     "items":[
       {
         "name":"",
@@ -3046,8 +3044,10 @@
         "amount":20
       }
     ],
-    "enemies":"NONE",
+    "characters":"NONE",
     "groups":"NONE",
+    "locations":"NONE",
+    "enemies":"NONE",
     "title":"Baldur's Gate",
     "motivation":"NONE"
   },
@@ -3075,6 +3075,12 @@
         "amount":1
       }
     ],
+    "tools":[
+      "Danno bought a love potion from Wallace at the market square: Danno gave Pala the love potion",
+      "Pala drank the love potion and collapsed"
+    ],
+    "description":"Oh, Mazzy! Thank the gods that I've found you! I've hurt Pala!\nYou have to save her! I didn't mean to do it. I bought a love potion from Wallace the peddler at the market square. I just wanted her to love me. She only had a sip of it, and she collapsed.\nShe is with your mother, Mazzy. How was I to know it was poison? Oh, please hurry! I will meet you in Trademeet.",
+    "items":"NONE",
     "characters":[
       {
         "name":"Wallace",
@@ -3092,15 +3098,9 @@
         "location":""
       }
     ],
-    "tools":[
-      "Danno bought a love potion from Wallace at the market square: Danno gave Pala the love potion",
-      "Pala drank the love potion and collapsed"
-    ],
-    "description":"Oh, Mazzy! Thank the gods that I've found you! I've hurt Pala!\nYou have to save her! I didn't mean to do it. I bought a love potion from Wallace the peddler at the market square. I just wanted her to love me. She only had a sip of it, and she collapsed.\nShe is with your mother, Mazzy. How was I to know it was poison? Oh, please hurry! I will meet you in Trademeet.",
-    "locations":"NONE",
-    "items":"NONE",
-    "enemies":"NONE",
     "groups":"NONE",
+    "locations":"NONE",
+    "enemies":"NONE",
     "title":"Baldur's Gate II: Shadows of Amn",
     "motivation":"NONE"
   },
@@ -3128,11 +3128,18 @@
         "amount":1
       }
     ],
-    "characters":"NONE",
     "tools":[
       "NONE"
     ],
     "description":"I think I saw an Illager scout keeping an eye on our village from the shadows of nearby trees. Pineville is not safe! The Illagers of the Dark Hall are going to kill us all!\nTraveler, could you please help me calm my nerves? It is said that there is a woodland mansion called the Dark Hall deep in the thickets of Darkwood. It is supposed to be a safe haven for Illagers, those bloodthirsty outcasts who resorted to banditry!\nI would like you to scout out Darkwood. Be cautious. Darkwood is a dark, dense forest with thick leaf canopies that block sunlight: perfect for ambushes. Find out if the Dark Hall truly exists. I'll pay you a block of emerald! Those are not that easy to come by!",
+    "items":"NONE",
+    "characters":"NONE",
+    "groups":[
+      {
+        "name":"Illagers",
+        "description":"outcasts from villages that became bandits"
+      }
+    ],
     "locations":[
       {
         "name":"Pineville",
@@ -3143,14 +3150,7 @@
         "description":"a woodland mansion inhabited by Illagers"
       }
     ],
-    "items":"NONE",
     "enemies":"NONE",
-    "groups":[
-      {
-        "name":"Illagers",
-        "description":"outcasts from villages that became bandits"
-      }
-    ],
     "title":"Minecraft",
     "motivation":"knowledge"
   },
@@ -3178,15 +3178,15 @@
         "amount":1
       }
     ],
-    "characters":"NONE",
     "tools":[
       "the player is a friend of Carl"
     ],
     "description":"I raise my face from my maps for a moment, and there you are! Just as I need the help of a trusted friend.\nThere are many, many regions in this world: mapping them all out is a tremendous task. I ask you to map out one of them: Spruced Hills. It is a taiga hills region, which means that there might be some rather steep hills covered in spruces and snow.\nAfter making a map of Spruced Hills, come back here and give the map to me. I shall give you a spyglass, a fine tool for an aspiring cartographer.\nTravel safely! Being mindful of your surroundings is an important skill for everyone, not just us cartographers.",
-    "locations":"NONE",
     "items":"NONE",
-    "enemies":"NONE",
+    "characters":"NONE",
     "groups":"NONE",
+    "locations":"NONE",
+    "enemies":"NONE",
     "title":"Minecraft",
     "motivation":"knowledge"
   },
@@ -3214,6 +3214,11 @@
         "amount":1
       }
     ],
+    "tools":[
+      "the player does not know Marius Caro"
+    ],
+    "description":"Marius Caro, by grace of the Gods, Count of Leyawiin. You are a stranger to me, but well-met. Perhaps you would like to do a service for Leyawiin?\nI need your help. An Orc named Mazoga here claims to be a knight, but will not reveal her business. Find out why she is here, and report to me, and you will earn a reward suitable for those who serve Leyawiin.",
+    "items":"NONE",
     "characters":[
       {
         "name":"Mazoga",
@@ -3221,14 +3226,9 @@
         "location":"Leyawiin"
       }
     ],
-    "tools":[
-      "the player does not know Marius Caro"
-    ],
-    "description":"Marius Caro, by grace of the Gods, Count of Leyawiin. You are a stranger to me, but well-met. Perhaps you would like to do a service for Leyawiin?\nI need your help. An Orc named Mazoga here claims to be a knight, but will not reveal her business. Find out why she is here, and report to me, and you will earn a reward suitable for those who serve Leyawiin.",
-    "locations":"NONE",
-    "items":"NONE",
-    "enemies":"NONE",
     "groups":"NONE",
+    "locations":"NONE",
+    "enemies":"NONE",
     "title":"The Elder Scrolls IV: Oblivion",
     "motivation":"NONE"
   },
@@ -3256,20 +3256,20 @@
         "amount":50
       }
     ],
-    "characters":"NONE",
     "tools":[
       "the bandits are working for someone"
     ],
     "description":"I am Officer Vai of the Flaming Fist and, to be honest, I could use your help.\nThe bandit raids have been getting worse. I used to think that they were just your usual brigands out to make a quick buck in troubled times, but not anymore. They're working for someone... Damn it, this is a fine mess, isn't it?\nI'll pay 50 gold pieces for every bandit scalp you can bring me \u2014 and spread the news. I want this whole region cleared, and I want to know what in the Nine Hells is going on here.",
-    "locations":"NONE",
     "items":"NONE",
-    "enemies":"NONE",
+    "characters":"NONE",
     "groups":[
       {
         "name":"Flaming Fist",
         "description":"a mercenary organization promoting order and law"
       }
     ],
+    "locations":"NONE",
+    "enemies":"NONE",
     "title":"Baldur's Gate",
     "motivation":"NONE"
   },
@@ -3297,11 +3297,13 @@
         "amount":1
       }
     ],
-    "characters":"NONE",
     "tools":[
       "Neloth gives the player a ring: it will light up the source of the ash spawn attacks when the player gets close to it"
     ],
     "description":"I'm under attack. There are too many coincidences. There must be someone behind all of my recent troubles.\nI have enemies. Legions of them back in Morrowind. However, in this case I have reason to believe it is someone in Solstheim. First I need to identify the culprit. I've enchanted this ring to find the source of the attacks. Here, take it.\nJust wear the ring I gave you. It will light up the source when you get close to it. I enchanted the ring with a bit of ash from the last ash spawn attack. It can follow the magical link back to its summoner.",
+    "items":"NONE",
+    "characters":"NONE",
+    "groups":"NONE",
     "locations":[
       {
         "name":"Morrowind",
@@ -3312,9 +3314,7 @@
         "description":"a remote island"
       }
     ],
-    "items":"NONE",
     "enemies":"NONE",
-    "groups":"NONE",
     "title":"The Elder Scrolls V: Skyrim",
     "motivation":"NONE"
   },
@@ -3342,6 +3342,18 @@
         "amount":1
       }
     ],
+    "tools":[
+      "Sir Sarles demands illithium as his art medium",
+      "if the player sees the representatives of the other churches, the player must kill them"
+    ],
+    "description":"I, Talon Yarryl, priest of Talos, have a mission for you!\nTalos demands proper tribute, and that occasionally means artwork pleasing to the eye. If a piece of his fury can be represented, more might see and fear it.\nAn artist visits Athkatla now. The artist travels under the name Sir Sarles, though it is surely a fake. He is pretentious, demanding, and very good.\nWe must command a commission from him. But he is not being cooperative. His commission is outlandish, and he demands illithium as his medium! He may as well have asked for dragon tears.\nConvince him to work for Talos. Use whatever means you must. Other churches are trying the same... if you cross their representatives, kill them.\nIncur what debts you must, and use force where it will help. Stop at nothing. This man must realize there is no choice but to work in the service of Talos.",
+    "items":[
+      {
+        "name":"illithium",
+        "description":"an expensive material",
+        "amount":1
+      }
+    ],
     "characters":[
       {
         "name":"Sir Sarles",
@@ -3354,21 +3366,9 @@
         "location":""
       }
     ],
-    "tools":[
-      "Sir Sarles demands illithium as his art medium",
-      "if the player sees the representatives of the other churches, the player must kill them"
-    ],
-    "description":"I, Talon Yarryl, priest of Talos, have a mission for you!\nTalos demands proper tribute, and that occasionally means artwork pleasing to the eye. If a piece of his fury can be represented, more might see and fear it.\nAn artist visits Athkatla now. The artist travels under the name Sir Sarles, though it is surely a fake. He is pretentious, demanding, and very good.\nWe must command a commission from him. But he is not being cooperative. His commission is outlandish, and he demands illithium as his medium! He may as well have asked for dragon tears.\nConvince him to work for Talos. Use whatever means you must. Other churches are trying the same... if you cross their representatives, kill them.\nIncur what debts you must, and use force where it will help. Stop at nothing. This man must realize there is no choice but to work in the service of Talos.",
-    "locations":"NONE",
-    "items":[
-      {
-        "name":"illithium",
-        "description":"an expensive material",
-        "amount":1
-      }
-    ],
-    "enemies":"NONE",
     "groups":"NONE",
+    "locations":"NONE",
+    "enemies":"NONE",
     "title":"Baldur's Gate II: Shadows of Amn",
     "motivation":"NONE"
   },
@@ -3396,6 +3396,11 @@
         "amount":1
       }
     ],
+    "tools":[
+      "NONE"
+    ],
+    "description":"We are forged by Boethiah's example. We carve our will upon the world through our tongues and our blades. You? You are nothing. An empty vapor, dispersed by the slightest breeze.\nIf you desire a glimpse of Boethiah, our Dark Mistress, then this is what you must do. First, prove your tongue can wield a lie. Find someone. Gain his trust. Lead him to the shrine above. Next, instruct your thrall to touch the Pillar of Sacrifice. Its magic will ensnare him, rendering him helpless. Then, girded with certitude, plant the ceremonial blade deeply, so that the waters of his heart wash over you.\nIf your will is strong enough, it will stir Boethiah in her Dark Mansion, and she will appear before us.",
+    "items":"NONE",
     "characters":[
       {
         "name":"Boethiah",
@@ -3403,14 +3408,9 @@
         "location":""
       }
     ],
-    "tools":[
-      "NONE"
-    ],
-    "description":"We are forged by Boethiah's example. We carve our will upon the world through our tongues and our blades. You? You are nothing. An empty vapor, dispersed by the slightest breeze.\nIf you desire a glimpse of Boethiah, our Dark Mistress, then this is what you must do. First, prove your tongue can wield a lie. Find someone. Gain his trust. Lead him to the shrine above. Next, instruct your thrall to touch the Pillar of Sacrifice. Its magic will ensnare him, rendering him helpless. Then, girded with certitude, plant the ceremonial blade deeply, so that the waters of his heart wash over you.\nIf your will is strong enough, it will stir Boethiah in her Dark Mansion, and she will appear before us.",
-    "locations":"NONE",
-    "items":"NONE",
-    "enemies":"NONE",
     "groups":"NONE",
+    "locations":"NONE",
+    "enemies":"NONE",
     "title":"The Elder Scrolls V: Skyrim",
     "motivation":"NONE"
   },
@@ -3438,24 +3438,11 @@
         "amount":1
       }
     ],
-    "characters":[
-      {
-        "name":"Moth Priest",
-        "description":"a priest who has dedicated his whole life to reading and deciphering Elder Scrolls",
-        "location":"Skyrim"
-      }
-    ],
     "tools":[
       "Lord Harkon is giving a speech to the player and their fellow vampires: the player and the other vampires will dominate over the sun itself, and forge a realm of eternal darkness",
       "Lord Harkon has reclaimed one of his Elder Scrolls and needs a Moth Priest to read it"
     ],
     "description":"Scions of the night! Hear my words! The prophesied time is at last upon us. Soon we will claim dominion over the sun itself, and forge a new realm of eternal darkness.\nNow that I have reclaimed one of my Elder Scrolls, we must find a Moth Priest to read it. I have spread false rumors about the discovery of an Elder Scroll in Skyrim to lure a Moth Priest here. Now it is time to see if those efforts have borne fruit.\nGo forth, and search the land for rumors of a Moth Priest within our borders. Look to the cities. Speak to innkeepers, carriage drivers, anyone who would meet a traveler.\nGo now, and carry out this task. This is my command!",
-    "locations":[
-      {
-        "name":"Skyrim",
-        "description":"a province"
-      }
-    ],
     "items":[
       {
         "name":"Elder Scrolls",
@@ -3463,8 +3450,21 @@
         "amount":1
       }
     ],
-    "enemies":"NONE",
+    "characters":[
+      {
+        "name":"Moth Priest",
+        "description":"a priest who has dedicated his whole life to reading and deciphering Elder Scrolls",
+        "location":"Skyrim"
+      }
+    ],
     "groups":"NONE",
+    "locations":[
+      {
+        "name":"Skyrim",
+        "description":"a province"
+      }
+    ],
+    "enemies":"NONE",
     "title":"The Elder Scrolls V: Skyrim",
     "motivation":"NONE"
   },
@@ -3492,14 +3492,15 @@
         "amount":1
       }
     ],
-    "characters":"NONE",
     "tools":[
       "slaughterfish nearly took off Aelwin Merowald's leg",
       "Aelwin Merowald could retire with the money he would get from the slaughterfish scales"
     ],
     "description":"You know, stranger, there comes a time in every man's life when he has to admit that he's lost the fight.\nWell, I've fought and I've lost. Who did I lose to? Who is my great enemy? Well, don't laugh... it's a bunch of damn fish.\nI'm a fisherman. Or at least, I was. Until one of those slaughterfish damn near took my leg off. I was collecting their scales, see. I had a contract with this young alchemist. You wouldn't believe what he was paying for those scales! Then last month, one of the bastards got ahold of my leg. Took me right out of the business. But this alchemist, he needs the scales right away. The alchemist was paying so much for the scales that I'm close to having enough saved so that I can retire. But now, I can't get out there to Lake Rumare -- not with this leg. I only needed twelve more scales! Can you believe it? I was so close!\nI've picked up a few things in my travels. If you head out there and bring me back the twelve scales that I need, I can make it worth your time. Help an old fisherman out, won't you?",
-    "locations":"NONE",
     "items":"NONE",
+    "characters":"NONE",
+    "groups":"NONE",
+    "locations":"NONE",
     "enemies":[
       {
         "name":"slaughterfish",
@@ -3507,7 +3508,6 @@
         "amount":12
       }
     ],
-    "groups":"NONE",
     "title":"The Elder Scrolls IV: Oblivion",
     "motivation":"NONE"
   },
@@ -3541,13 +3541,13 @@
         "description":"A small increase in reputation within the tribe."
       }
     ],
-    "characters":"NONE",
     "tools":"NONE",
     "description":"Hakunin, the village shaman, requests assistance in dealing with an infestation of mutated plants that have taken over his sacred garden. The player must eliminate these creatures to restore balance.",
-    "locations":"NONE",
     "items":"NONE",
-    "enemies":"NONE",
+    "characters":"NONE",
     "groups":"NONE",
+    "locations":"NONE",
+    "enemies":"NONE",
     "title":"Fallout 2",
     "motivation":"NONE"
   },
@@ -3575,12 +3575,10 @@
         "amount":1
       }
     ],
-    "characters":"NONE",
     "tools":[
       "the player is a famous hero"
     ],
     "description":"To have more tomes in my library... Now that would be incredibly lovely...\nOh hero, I was just dreaming about having more precious, amazing books. Actually, you could recover a book for me. It is called \"The Nether: Compiled Accounts of the Hellish Plane\", and it tells about the hellish dimension your familiar with. You can find it in a nearby mineshaft.\nI'm willing to part from an enchanted book, should you succeed in recovering \"The Nether: Compiled Accounts of the Hellish Plane\".",
-    "locations":"NONE",
     "items":[
       {
         "name":"\"The Nether: Compiled Accounts of the Hellish Plane\"",
@@ -3588,8 +3586,10 @@
         "amount":1
       }
     ],
-    "enemies":"NONE",
+    "characters":"NONE",
     "groups":"NONE",
+    "locations":"NONE",
+    "enemies":"NONE",
     "title":"Minecraft",
     "motivation":"knowledge"
   },
@@ -3617,20 +3617,20 @@
         "amount":1
       }
     ],
-    "characters":"NONE",
     "tools":[
       "NONE"
     ],
     "description":"Hello traveler. What brings you to Desert Refuge, this piece of civilization out in the scorching desert? Are you stocking up on supplies on your way to explore desert ruins?\nIf you are, I would like your help. I promise to pay you with something useful. The thing is, there's this ancient pyramid, Tut's Temple, a short way away from this village. It is said to be full of treasure! And some highly lethal traps that are too much to overcome for a meager researcher like me. There are also rumors that say that the ancients had useful devices lost to time. I'd love to get my hands on one, for science.\nPlease, go to Tut's Temple and find an ancient device! It may tell us about many lost crafts!",
+    "items":"NONE",
+    "characters":"NONE",
+    "groups":"NONE",
     "locations":[
       {
         "name":"Desert Refuge",
         "description":"a desert village"
       }
     ],
-    "items":"NONE",
     "enemies":"NONE",
-    "groups":"NONE",
     "title":"Minecraft",
     "motivation":"knowledge"
   },
@@ -3663,6 +3663,15 @@
         "amount":1
       }
     ],
+    "tools":[
+      "Modryn Oreyn has been investigating the Blackwood Company: they are a danger to the Fighters Guild",
+      "the Fighters Guild was contracted by Argoth to recover an artifact from Azani Blackheart: Modryn Oreyn went in there with twenty good men, and left with five",
+      "Vitellus Donton was not one of the survivors: he died while covering the Fighters Guild members' retreat",
+      "Argoth is dead and the artifact is gone after the Blackwood Company supposedly finished the contract instead of the Fighters Guild",
+      "Vilena Donton is not going to know about this mission: it's the player's choice to accept the mission"
+    ],
+    "description":"Good. You're here. We've got duties to attend to.\nI've been looking into the Blackwood Company. Heard some disturbing things. We know they're a danger to us. And we know they're good at what they do.\nI've heard stories, but nothing I can prove is true. Maybe they've got a mage working with them. Maybe they're just well trained. All I know for sure is that they'll accept any contract, and they'll do anything to complete it. And they don't care who gets in the way.\nWe were contracted by a wizard, Argoth, to recover an artifact from Azani Blackheart, a ruthless bandit leader. I went in there with twenty men. I left with five. Vitellus Donton wasn't one of them. He died covering our retreat. I snooped around. Apparently, the Blackwood Company completed that contract for us. I went in there with twenty good men. I can't believe that bunch finished the job. There's more. Argoth -- he's dead, the artifact gone. Sounds like a set-up. Maybe they made a deal with Blackheart. I don't know. But I'll find out.\nNow we find out what really happened. And we let it be known. I want to show the people who the Blackwood Company really are. I can't order you do this with me. It's dangerous, and Vilena Donton isn't going to know about it. It's your choice.\nIf you accept this mission, we leave as soon as you're ready. I want to investigate Blackheart's stronghold at Arpenia. Meet me at the Leyawiin guild hall. We'll go from there.",
+    "items":"NONE",
     "characters":[
       {
         "name":"Azani Blackheart",
@@ -3685,22 +3694,6 @@
         "location":""
       }
     ],
-    "tools":[
-      "Modryn Oreyn has been investigating the Blackwood Company: they are a danger to the Fighters Guild",
-      "the Fighters Guild was contracted by Argoth to recover an artifact from Azani Blackheart: Modryn Oreyn went in there with twenty good men, and left with five",
-      "Vitellus Donton was not one of the survivors: he died while covering the Fighters Guild members' retreat",
-      "Argoth is dead and the artifact is gone after the Blackwood Company supposedly finished the contract instead of the Fighters Guild",
-      "Vilena Donton is not going to know about this mission: it's the player's choice to accept the mission"
-    ],
-    "description":"Good. You're here. We've got duties to attend to.\nI've been looking into the Blackwood Company. Heard some disturbing things. We know they're a danger to us. And we know they're good at what they do.\nI've heard stories, but nothing I can prove is true. Maybe they've got a mage working with them. Maybe they're just well trained. All I know for sure is that they'll accept any contract, and they'll do anything to complete it. And they don't care who gets in the way.\nWe were contracted by a wizard, Argoth, to recover an artifact from Azani Blackheart, a ruthless bandit leader. I went in there with twenty men. I left with five. Vitellus Donton wasn't one of them. He died covering our retreat. I snooped around. Apparently, the Blackwood Company completed that contract for us. I went in there with twenty good men. I can't believe that bunch finished the job. There's more. Argoth -- he's dead, the artifact gone. Sounds like a set-up. Maybe they made a deal with Blackheart. I don't know. But I'll find out.\nNow we find out what really happened. And we let it be known. I want to show the people who the Blackwood Company really are. I can't order you do this with me. It's dangerous, and Vilena Donton isn't going to know about it. It's your choice.\nIf you accept this mission, we leave as soon as you're ready. I want to investigate Blackheart's stronghold at Arpenia. Meet me at the Leyawiin guild hall. We'll go from there.",
-    "locations":[
-      {
-        "name":"Leyawiin",
-        "description":"a city"
-      }
-    ],
-    "items":"NONE",
-    "enemies":"NONE",
     "groups":[
       {
         "name":"Fighters Guild",
@@ -3711,6 +3704,13 @@
         "description":"a shady mercenary organization, who are very good at what they do"
       }
     ],
+    "locations":[
+      {
+        "name":"Leyawiin",
+        "description":"a city"
+      }
+    ],
+    "enemies":"NONE",
     "title":"The Elder Scrolls IV: Oblivion",
     "motivation":"NONE"
   },
@@ -3738,15 +3738,15 @@
         "amount":1
       }
     ],
-    "characters":"NONE",
     "tools":[
       "the player is a famous hero"
     ],
     "description":"I almost didn't see you there, Hero. I'm succumbed in deep, dark thoughts at the moment.\nSomeone's been spying on our village for quite some time. I personally spotted that suspicious individual coming here around dusk.\nPerhaps that person is plotting something malicious, perhaps not. Regardless, I'm worried that something bad might happen to Cocoa Hamlet. You, Hero, are the right person to find out what that suspicious person is up to. The jungle can hide many dangers in its deep thickets of trees and vines. Find and follow the suspicious person, here in Cocoa Hamlet.\nWe can give you a diamond for your time. An adventurer found it in an abandoned jungle temple a long time ago.",
-    "locations":"NONE",
     "items":"NONE",
-    "enemies":"NONE",
+    "characters":"NONE",
     "groups":"NONE",
+    "locations":"NONE",
+    "enemies":"NONE",
     "title":"Minecraft",
     "motivation":"knowledge"
   },
@@ -3774,15 +3774,15 @@
         "amount":1
       }
     ],
-    "characters":"NONE",
     "tools":[
       "NONE"
     ],
     "description":"Pleasure to meet you. The name's Cordyr.\nI'm from down south, where the Cloud Peaks tumble into the sea. A pair of sirines has been trying to move into the area. They sank my fishing boat and put me right out of work. *sigh* If they weren't so dang beautiful, it would be a lot easier to convince people of how much of a nuisance they can be. Can you kill them for me? It's a dirty deed but it's the cost of civilization, isn't it?\nYou can have a haste scroll as payment.",
-    "locations":"NONE",
     "items":"NONE",
-    "enemies":"NONE",
+    "characters":"NONE",
     "groups":"NONE",
+    "locations":"NONE",
+    "enemies":"NONE",
     "title":"Baldur's Gate",
     "motivation":"NONE"
   },
@@ -3810,6 +3810,11 @@
         "amount":1
       }
     ],
+    "tools":[
+      "the player asked Vex information about Vald"
+    ],
+    "description":"Vald? That pig? Oh, I have info on him. More than you care to know. Vald does not have a good side. The only thing he understands is gold. A man after my own heart.\nYou can try to buy him off, but he'll ask for a whole lot. I mean, you are asking him to betray Mercer Frey. Your best bet would be to erase his debt with Maven Black-Briar. If you talk to her, she might be able to give you the details.\nOf course, you could just run him through and take what you need off of his corpse... I could care less.",
+    "items":"NONE",
     "characters":[
       {
         "name":"Vald",
@@ -3827,14 +3832,9 @@
         "location":""
       }
     ],
-    "tools":[
-      "the player asked Vex information about Vald"
-    ],
-    "description":"Vald? That pig? Oh, I have info on him. More than you care to know. Vald does not have a good side. The only thing he understands is gold. A man after my own heart.\nYou can try to buy him off, but he'll ask for a whole lot. I mean, you are asking him to betray Mercer Frey. Your best bet would be to erase his debt with Maven Black-Briar. If you talk to her, she might be able to give you the details.\nOf course, you could just run him through and take what you need off of his corpse... I could care less.",
-    "locations":"NONE",
-    "items":"NONE",
-    "enemies":"NONE",
     "groups":"NONE",
+    "locations":"NONE",
+    "enemies":"NONE",
     "title":"The Elder Scrolls V: Skyrim",
     "motivation":"NONE"
   },
@@ -3862,6 +3862,12 @@
         "amount":1
       }
     ],
+    "tools":[
+      "the player has done assignments to Bodhi before",
+      "Bodhi gives the player a cloak and a dagger to implicate the Shadow Thieves: when Senior Armagaran Vulova is dead, the player must put the cloak and the dagger in the fountain in Senior Armagaran Vulova's house"
+    ],
+    "description":"Now I ask for a more specific task that will disrupt the Shadow Thieves further.\nThe task is... unseemly.\nIt calls for the murder of a man. Not a truly innocent man, but hardly a villain of epic scope. You must kill, blaming the murder on the Shadow Thieves. He is head of a merchant house, and his link to Shadow Thieves is blatant. If he were to die and certain gear were at the scene, it would implicate the guild we oppose.\nTake this cloak and dagger, and go kill Senior Armagaran Vulova. When he is dead, put the cloak and dagger in the fountain in his house. He will die easily, though there may be guards. His small house is in the Government District, between the jail and the government building.\nGo.",
+    "items":"NONE",
     "characters":[
       {
         "name":"Senior Armagaran Vulova",
@@ -3869,20 +3875,14 @@
         "location":"Senior Armagaran Vulova's small house"
       }
     ],
-    "tools":[
-      "the player has done assignments to Bodhi before",
-      "Bodhi gives the player a cloak and a dagger to implicate the Shadow Thieves: when Senior Armagaran Vulova is dead, the player must put the cloak and the dagger in the fountain in Senior Armagaran Vulova's house"
-    ],
-    "description":"Now I ask for a more specific task that will disrupt the Shadow Thieves further.\nThe task is... unseemly.\nIt calls for the murder of a man. Not a truly innocent man, but hardly a villain of epic scope. You must kill, blaming the murder on the Shadow Thieves. He is head of a merchant house, and his link to Shadow Thieves is blatant. If he were to die and certain gear were at the scene, it would implicate the guild we oppose.\nTake this cloak and dagger, and go kill Senior Armagaran Vulova. When he is dead, put the cloak and dagger in the fountain in his house. He will die easily, though there may be guards. His small house is in the Government District, between the jail and the government building.\nGo.",
-    "locations":"NONE",
-    "items":"NONE",
-    "enemies":"NONE",
     "groups":[
       {
         "name":"Shadow Thieves",
         "description":"a guild of thieves"
       }
     ],
+    "locations":"NONE",
+    "enemies":"NONE",
     "title":"Baldur's Gate II: Shadows of Amn",
     "motivation":"NONE"
   },
@@ -3910,6 +3910,11 @@
         "amount":1
       }
     ],
+    "tools":[
+      "NONE"
+    ],
+    "description":"Oh, please help me! I'm Kryla. They kill poor Jondal. The wolf-men.\nThey attack us as we search for roots in the forest. Please avenge my Jondal. He was so young...\nThey are this way. Please kill them, I am so frightened.",
+    "items":"NONE",
     "characters":[
       {
         "name":"Jondal",
@@ -3917,14 +3922,9 @@
         "location":""
       }
     ],
-    "tools":[
-      "NONE"
-    ],
-    "description":"Oh, please help me! I'm Kryla. They kill poor Jondal. The wolf-men.\nThey attack us as we search for roots in the forest. Please avenge my Jondal. He was so young...\nThey are this way. Please kill them, I am so frightened.",
-    "locations":"NONE",
-    "items":"NONE",
-    "enemies":"NONE",
     "groups":"NONE",
+    "locations":"NONE",
+    "enemies":"NONE",
     "title":"Baldur's Gate",
     "motivation":"NONE"
   },
@@ -3956,16 +3956,16 @@
         "description":"Possible weapons, caps, and other valuables."
       }
     ],
-    "characters":"NONE",
     "tools":[
       "Strong weapons and armor to fight Metzger and his guards.",
       "Allies such as Sulik or other companions."
     ],
     "description":"Metzger is the ruthless leader of the Slaver's Guild in The Den. Killing him will free his slaves and remove a dangerous criminal from the wasteland.",
-    "locations":"NONE",
     "items":"NONE",
-    "enemies":"NONE",
+    "characters":"NONE",
     "groups":"NONE",
+    "locations":"NONE",
+    "enemies":"NONE",
     "title":"Fallout 2",
     "motivation":"NONE"
   },
@@ -3993,6 +3993,11 @@
         "amount":1
       }
     ],
+    "tools":[
+      "the player asked smithing training from Gin-Wulm"
+    ],
+    "description":"Mighty bold of you, asking for smithing training. What makes you think you're worth my time?\nI bet you don't know the first thing about smithing. Have you read up on the history of the craft? I doubt it. You answer a simple question, and I'll think about training you.\nSo here it is: What does the name Hazadir mean to you? Few recognize the name anymore, even though he was famous.\nHad a book written about him, in fact! I don't have a copy myself, but there was one in First Edition last time I was browsing there. At least some people take an interest in history.",
+    "items":"NONE",
     "characters":[
       {
         "name":"Hazadir",
@@ -4000,14 +4005,9 @@
         "location":""
       }
     ],
-    "tools":[
-      "the player asked smithing training from Gin-Wulm"
-    ],
-    "description":"Mighty bold of you, asking for smithing training. What makes you think you're worth my time?\nI bet you don't know the first thing about smithing. Have you read up on the history of the craft? I doubt it. You answer a simple question, and I'll think about training you.\nSo here it is: What does the name Hazadir mean to you? Few recognize the name anymore, even though he was famous.\nHad a book written about him, in fact! I don't have a copy myself, but there was one in First Edition last time I was browsing there. At least some people take an interest in history.",
-    "locations":"NONE",
-    "items":"NONE",
-    "enemies":"NONE",
     "groups":"NONE",
+    "locations":"NONE",
+    "enemies":"NONE",
     "title":"The Elder Scrolls IV: Oblivion",
     "motivation":"NONE"
   },
@@ -4040,16 +4040,16 @@
         "description":"Increased standing with Adytum residents for helping the community."
       }
     ],
-    "characters":"NONE",
     "tools":[
       "Repair Kit",
       "Replacement Parts"
     ],
     "description":"The hydroponic farms in Adytum have malfunctioned, threatening the community\u2019s food supply. You must repair the system to restore food production.",
-    "locations":"NONE",
     "items":"NONE",
-    "enemies":"NONE",
+    "characters":"NONE",
     "groups":"NONE",
+    "locations":"NONE",
+    "enemies":"NONE",
     "title":"Fallout",
     "motivation":"NONE"
   },
@@ -4077,6 +4077,11 @@
         "amount":1
       }
     ],
+    "tools":[
+      "the player is a devoted student of restoration: most mages of the College of Winterhold look down on restoration magic"
+    ],
+    "description":"Look at you. Such a devoted student of Restoration. It's comforting to see that not everyone has dismissed it as entirely as most members of the College. Truly comforting.\nIt looks like you're ready to speak with the Augur. He was a brilliant mage. Truly inspired. Mastered spells others could barely comprehend. He was especially gifted when it came to Restoration.\nThe Augur's... Well, he's very particular about who shares the knowledge. So you'll need his approval first. Go on, go talk to him. I'm sure he's been paying attention, and will be expecting you.",
+    "items":"NONE",
     "characters":[
       {
         "name":"Augur",
@@ -4084,19 +4089,14 @@
         "location":""
       }
     ],
-    "tools":[
-      "the player is a devoted student of restoration: most mages of the College of Winterhold look down on restoration magic"
-    ],
-    "description":"Look at you. Such a devoted student of Restoration. It's comforting to see that not everyone has dismissed it as entirely as most members of the College. Truly comforting.\nIt looks like you're ready to speak with the Augur. He was a brilliant mage. Truly inspired. Mastered spells others could barely comprehend. He was especially gifted when it came to Restoration.\nThe Augur's... Well, he's very particular about who shares the knowledge. So you'll need his approval first. Go on, go talk to him. I'm sure he's been paying attention, and will be expecting you.",
-    "locations":"NONE",
-    "items":"NONE",
-    "enemies":"NONE",
     "groups":[
       {
         "name":"College of Winterhold",
         "description":"a college for mages"
       }
     ],
+    "locations":"NONE",
+    "enemies":"NONE",
     "title":"The Elder Scrolls V: Skyrim",
     "motivation":"NONE"
   },
@@ -4124,6 +4124,11 @@
         "amount":1
       }
     ],
+    "tools":[
+      "the player has worked for Azzan before"
+    ],
+    "description":"Looking for more work, eh? Good. I have got a contract for you. I'd like you to go talk to Norbert Lelles, here in Anvil.\nHe runs Quality Merchandise here in Anvil. He's been having problems with break-ins, though, and he's hired us to put a stop to it. Sounds like he wants your help stopping the theft at his store.\nTake care of Lelles. He needs the help.",
+    "items":"NONE",
     "characters":[
       {
         "name":"Norbert Lelles",
@@ -4131,24 +4136,19 @@
         "location":"Quality Merchandise"
       }
     ],
-    "tools":[
-      "the player has worked for Azzan before"
-    ],
-    "description":"Looking for more work, eh? Good. I have got a contract for you. I'd like you to go talk to Norbert Lelles, here in Anvil.\nHe runs Quality Merchandise here in Anvil. He's been having problems with break-ins, though, and he's hired us to put a stop to it. Sounds like he wants your help stopping the theft at his store.\nTake care of Lelles. He needs the help.",
-    "locations":[
-      {
-        "name":"Anvil",
-        "description":"a city"
-      }
-    ],
-    "items":"NONE",
-    "enemies":"NONE",
     "groups":[
       {
         "name":"Fighters Guild",
         "description":"a mercenary guild"
       }
     ],
+    "locations":[
+      {
+        "name":"Anvil",
+        "description":"a city"
+      }
+    ],
+    "enemies":"NONE",
     "title":"The Elder Scrolls IV: Oblivion",
     "motivation":"NONE"
   },
@@ -4176,6 +4176,17 @@
         "amount":1
       }
     ],
+    "tools":[
+      "the High King always wore the Jagged Crown: the Jagged Crown is said to contain a portion of the power of every king who has worn it"
+    ],
+    "description":"I've found the final resting place of the Jagged Crown. Can you believe it? Well, I'm almost certain.\nThe High King always wore the Jagged Crown. It was the symbol of his might and power. The crown is made from the bones and teeth of ancient dragons, and it is said to contain a portion of the power of every king who has worn it. True or not, who would dare deny Ulfric's claim, when the legendary Jagged Crown sits upon his brow?\nWe're headed to Korvanjund. But, if old King Borgas is indeed buried there, we're bound to run into trouble of some kind. Your fellow Stormcloaks are already assembling outside the tomb. I'll meet you there as soon as I'm finished up here.",
+    "items":[
+      {
+        "name":"Jagged Crown",
+        "description":"a crown made from the bones and teeth of ancient dragons that symbolizes the power and might of a High King",
+        "amount":1
+      }
+    ],
     "characters":[
       {
         "name":"Ulfric",
@@ -4188,30 +4199,19 @@
         "location":"Korvanjund"
       }
     ],
-    "tools":[
-      "the High King always wore the Jagged Crown: the Jagged Crown is said to contain a portion of the power of every king who has worn it"
-    ],
-    "description":"I've found the final resting place of the Jagged Crown. Can you believe it? Well, I'm almost certain.\nThe High King always wore the Jagged Crown. It was the symbol of his might and power. The crown is made from the bones and teeth of ancient dragons, and it is said to contain a portion of the power of every king who has worn it. True or not, who would dare deny Ulfric's claim, when the legendary Jagged Crown sits upon his brow?\nWe're headed to Korvanjund. But, if old King Borgas is indeed buried there, we're bound to run into trouble of some kind. Your fellow Stormcloaks are already assembling outside the tomb. I'll meet you there as soon as I'm finished up here.",
-    "locations":[
-      {
-        "name":"Korvanjund",
-        "description":"the tomb of King Borgas"
-      }
-    ],
-    "items":[
-      {
-        "name":"Jagged Crown",
-        "description":"a crown made from the bones and teeth of ancient dragons that symbolizes the power and might of a High King",
-        "amount":1
-      }
-    ],
-    "enemies":"NONE",
     "groups":[
       {
         "name":"Stormcloaks",
         "description":"rebel forces opposing the Empire"
       }
     ],
+    "locations":[
+      {
+        "name":"Korvanjund",
+        "description":"the tomb of King Borgas"
+      }
+    ],
+    "enemies":"NONE",
     "title":"The Elder Scrolls V: Skyrim",
     "motivation":"NONE"
   },
@@ -4239,6 +4239,11 @@
         "amount":1
       }
     ],
+    "tools":[
+      "after saving the temple priests, the player can focus on aiding the Guardian of the Wild"
+    ],
+    "description":"Thank the Gods you are here! A plague is sweeping through the Watchweald Temple, transforming the temple priests into Nether-Thralls! Several uninfected priests are still inside, trapped by the Nether-Thralls. I can protect them, if I can reach them... or if they can reach me.\nLook for places where the temple priests may have hidden from the Nether-Thralls, and send them back here. Once they are all safe, we can focus on aiding the Guardian of the Wild.",
+    "items":"NONE",
     "characters":[
       {
         "name":"Guardian of the Wild",
@@ -4246,12 +4251,8 @@
         "location":""
       }
     ],
-    "tools":[
-      "after saving the temple priests, the player can focus on aiding the Guardian of the Wild"
-    ],
-    "description":"Thank the Gods you are here! A plague is sweeping through the Watchweald Temple, transforming the temple priests into Nether-Thralls! Several uninfected priests are still inside, trapped by the Nether-Thralls. I can protect them, if I can reach them... or if they can reach me.\nLook for places where the temple priests may have hidden from the Nether-Thralls, and send them back here. Once they are all safe, we can focus on aiding the Guardian of the Wild.",
+    "groups":"NONE",
     "locations":"NONE",
-    "items":"NONE",
     "enemies":[
       {
         "name":"Nether-Thralls",
@@ -4259,7 +4260,6 @@
         "amount":1
       }
     ],
-    "groups":"NONE",
     "title":"Torchlight II",
     "motivation":"NONE"
   },
@@ -4287,6 +4287,11 @@
         "amount":1
       }
     ],
+    "tools":[
+      "the Ezrohir are preparing to assault Zeryphesh"
+    ],
+    "description":"Greetings, my friend! Welcome to Zeryphesh! I am Malik Vosh. I speak for the Zeraphi.\nAs you know, the Ezrohir are preparing to assault our city. Our military leader, Commander Muzaffar, has apparently been captured by the Ezrohir, out in the Ossean Wastes. They'll have sent for soldiers to take their prisoners back to their stronghold. Once they get him to Riftkeep, they'll identify him quickly enough, and then they'll interrogate him until they know everything about our defenses.\nI believe you're going out to the Ossean Wastes, the vast desert. Please, rescue Muzaffar. We need him.",
+    "items":"NONE",
     "characters":[
       {
         "name":"Commander Muzaffar",
@@ -4294,22 +4299,6 @@
         "location":"Ossean Wastes"
       }
     ],
-    "tools":[
-      "the Ezrohir are preparing to assault Zeryphesh"
-    ],
-    "description":"Greetings, my friend! Welcome to Zeryphesh! I am Malik Vosh. I speak for the Zeraphi.\nAs you know, the Ezrohir are preparing to assault our city. Our military leader, Commander Muzaffar, has apparently been captured by the Ezrohir, out in the Ossean Wastes. They'll have sent for soldiers to take their prisoners back to their stronghold. Once they get him to Riftkeep, they'll identify him quickly enough, and then they'll interrogate him until they know everything about our defenses.\nI believe you're going out to the Ossean Wastes, the vast desert. Please, rescue Muzaffar. We need him.",
-    "locations":[
-      {
-        "name":"Zeryphesh",
-        "description":"a large city inhabited by the Zeraphi"
-      },
-      {
-        "name":"Riftkeep",
-        "description":"the stronghold of the Ezrohir"
-      }
-    ],
-    "items":"NONE",
-    "enemies":"NONE",
     "groups":[
       {
         "name":"Ezrohir",
@@ -4320,6 +4309,17 @@
         "description":"a race of people"
       }
     ],
+    "locations":[
+      {
+        "name":"Zeryphesh",
+        "description":"a large city inhabited by the Zeraphi"
+      },
+      {
+        "name":"Riftkeep",
+        "description":"the stronghold of the Ezrohir"
+      }
+    ],
+    "enemies":"NONE",
     "title":"Torchlight II",
     "motivation":"NONE"
   },
@@ -4347,6 +4347,12 @@
         "amount":1
       }
     ],
+    "tools":[
+      "the Companions are nearly five thousand years old: the Companions became werewolves a few hundred years ago when the Glenmoril witches promised to grant the Companions great power in exchange for hunting their lord Hircine",
+      "the Companions were deceived: lycanthropy affects not just the Companions' bodies, but the Companions' spirits as well"
+    ],
+    "description":"Have you heard the story of how we came to be werewolves?\nThe Companions are nearly five thousand years old. This matter of beastblood has only troubled us for a few hundred. One of my predecessors was a good, but short-sighted man. He made a bargain with the witches of Glenmoril Coven. If the Companions would hunt in the name of their lord, Hircine, we would be granted great power.\nThe Companions of old became werewolves. They did not believe the change would be permanent. The witches offered payment, like anyone else. But we had been deceived. The disease, you see, affects not just our bodies. It seeps into the spirit. Upon death, werewolves are claimed by Hircine for his Hunting Grounds. For some, this is a paradise. They want nothing more than to chase prey with their master for eternity. And that is their choice. But I am still a true Nord. And I wish for Sovngarde as my spirit home.\nI've spent my twilight years trying to find a cure myself. And now I've found the answer. The witches' magic ensnared us, and only their magic can release us. They won't give it willingly, but we can extract their foul powers by force. I want you to seek them out. Go to their coven in the wilderness. Strike them down as a true warrior of the wild. And bring me their heads. The seat of their abilities. From there, we may begin to undo centuries of impurity.",
+    "items":"NONE",
     "characters":[
       {
         "name":"Hircine",
@@ -4354,23 +4360,6 @@
         "location":""
       }
     ],
-    "tools":[
-      "the Companions are nearly five thousand years old: the Companions became werewolves a few hundred years ago when the Glenmoril witches promised to grant the Companions great power in exchange for hunting their lord Hircine",
-      "the Companions were deceived: lycanthropy affects not just the Companions' bodies, but the Companions' spirits as well"
-    ],
-    "description":"Have you heard the story of how we came to be werewolves?\nThe Companions are nearly five thousand years old. This matter of beastblood has only troubled us for a few hundred. One of my predecessors was a good, but short-sighted man. He made a bargain with the witches of Glenmoril Coven. If the Companions would hunt in the name of their lord, Hircine, we would be granted great power.\nThe Companions of old became werewolves. They did not believe the change would be permanent. The witches offered payment, like anyone else. But we had been deceived. The disease, you see, affects not just our bodies. It seeps into the spirit. Upon death, werewolves are claimed by Hircine for his Hunting Grounds. For some, this is a paradise. They want nothing more than to chase prey with their master for eternity. And that is their choice. But I am still a true Nord. And I wish for Sovngarde as my spirit home.\nI've spent my twilight years trying to find a cure myself. And now I've found the answer. The witches' magic ensnared us, and only their magic can release us. They won't give it willingly, but we can extract their foul powers by force. I want you to seek them out. Go to their coven in the wilderness. Strike them down as a true warrior of the wild. And bring me their heads. The seat of their abilities. From there, we may begin to undo centuries of impurity.",
-    "locations":[
-      {
-        "name":"Sovngarde",
-        "description":"the storied afterlife of heroic Nords"
-      },
-      {
-        "name":"Hunting Grounds",
-        "description":"Hircine's realm, a place where the player can hunt forever"
-      }
-    ],
-    "items":"NONE",
-    "enemies":"NONE",
     "groups":[
       {
         "name":"Companions",
@@ -4381,6 +4370,17 @@
         "description":"a coven of witches"
       }
     ],
+    "locations":[
+      {
+        "name":"Sovngarde",
+        "description":"the storied afterlife of heroic Nords"
+      },
+      {
+        "name":"Hunting Grounds",
+        "description":"Hircine's realm, a place where the player can hunt forever"
+      }
+    ],
+    "enemies":"NONE",
     "title":"The Elder Scrolls V: Skyrim",
     "motivation":"NONE"
   },
@@ -4408,21 +4408,21 @@
         "amount":1
       }
     ],
-    "characters":"NONE",
     "tools":[
       "the player has found Peryite's shrine that is filled with Peryite's paralyzed followers: Peryite's worshipers cast a spell in the hopes of summoning Peryite and got trapped between worlds",
       "Peryite will transport the player to the plane of Oblivion in which his worshipers are trapped: when the player has collected the worshipers' souls, Peryite will return the player here"
     ],
     "description":"This one moves! A welcome change. So, mortal, you have found my shrine, and you have seen my followers. They are an embarrassment to me, Peryite.\nThe fools cast a spell in the hopes of summoning me to them. It was prideful and foolish, and it has had its consequences. My followers are trapped between worlds; their bodies here on this plane, their souls in Oblivion. I would have you reunite the bodies and the souls.\nI will transport you to the plane of Oblivion in which they are trapped. Find their souls. When all are collected, I will return you here.\nYou shall have Spell Breaker, with my blessing. May it bring you order.",
-    "locations":"NONE",
     "items":"NONE",
-    "enemies":"NONE",
+    "characters":"NONE",
     "groups":[
       {
         "name":"Daedric Princes",
         "description":"immortal, fickle, infamous divine beings"
       }
     ],
+    "locations":"NONE",
+    "enemies":"NONE",
     "title":"The Elder Scrolls IV: Oblivion",
     "motivation":"NONE"
   },
@@ -4450,6 +4450,11 @@
         "amount":1
       }
     ],
+    "tools":[
+      "On the second floor of Baenlin's house is a secreted door leading to a crawlspace containing the fastenings of a mounted head that hangs over Baenlin's favorite chair: if the player loosens the fastenings any night between 8:00 pm and 11:00 pm, the head will fall on Baenlin"
+    ],
+    "description":"We need you to stage an... accident. Kill the target in the manner specified, and you'll receive a considerable bonus. The target is a Wood Elf named Baenlin. You will find him at his home in Bruma.\nEnter secretly and avoid his manservant, Gromm. On the second floor is a secreted door leading to a crawlspace. Inside are the fastenings of a mounted head that hangs over Baenlin's favorite chair. Loosen the fastenings any night between 8:00 pm and 11:00 pm, and the head will surely fall on Baenlin as he relaxes in his chair, as is custom. If Baenlin is killed in any other manner, or if the manservant Gromm is killed, you will forfeit the bonus.\nNow go, and may Death be with you.",
+    "items":"NONE",
     "characters":[
       {
         "name":"Baenlin",
@@ -4462,19 +4467,14 @@
         "location":"Baenlin's house"
       }
     ],
-    "tools":[
-      "On the second floor of Baenlin's house is a secreted door leading to a crawlspace containing the fastenings of a mounted head that hangs over Baenlin's favorite chair: if the player loosens the fastenings any night between 8:00 pm and 11:00 pm, the head will fall on Baenlin"
-    ],
-    "description":"We need you to stage an... accident. Kill the target in the manner specified, and you'll receive a considerable bonus. The target is a Wood Elf named Baenlin. You will find him at his home in Bruma.\nEnter secretly and avoid his manservant, Gromm. On the second floor is a secreted door leading to a crawlspace. Inside are the fastenings of a mounted head that hangs over Baenlin's favorite chair. Loosen the fastenings any night between 8:00 pm and 11:00 pm, and the head will surely fall on Baenlin as he relaxes in his chair, as is custom. If Baenlin is killed in any other manner, or if the manservant Gromm is killed, you will forfeit the bonus.\nNow go, and may Death be with you.",
-    "locations":"NONE",
-    "items":"NONE",
-    "enemies":"NONE",
     "groups":[
       {
         "name":"Dark Brotherhood",
         "description":"a guild of assassins"
       }
     ],
+    "locations":"NONE",
+    "enemies":"NONE",
     "title":"The Elder Scrolls IV: Oblivion",
     "motivation":"NONE"
   },
@@ -4502,16 +4502,16 @@
         "description":"Increased reputation and alliance with the Blades."
       }
     ],
-    "characters":"NONE",
     "tools":[
       "Caps",
       "Negotiation skills"
     ],
     "description":"Razor and the Blades are struggling against the Regulators. They need weapons to fight back, and you must secure a supplier and deliver the weapons.",
-    "locations":"NONE",
     "items":"NONE",
-    "enemies":"NONE",
+    "characters":"NONE",
     "groups":"NONE",
+    "locations":"NONE",
+    "enemies":"NONE",
     "title":"Fallout",
     "motivation":"NONE"
   },
@@ -4539,6 +4539,11 @@
         "amount":1
       }
     ],
+    "tools":[
+      "Dawnbringer Sain is supposed to acquire art for the temple of Lathander"
+    ],
+    "description":"Greetings, I am known as Dawnbringer Sain, a priest of Lathander.\nI am charged with the acquisition of art for the temple. The beauty of the dawn must be captured in every nook and cranny of Lathander's home.\nAthkatla is blessed with the presence of perhaps the greatest sculptor of our age. The artist is known as Sir Sarles, and he is making an all too brief visit. We would be foolish not to seize upon the opportunity to have him work for us.\nI would ask you to convince Sir Sarles that it would be best for him to work for us. Go to him now.\nSir Sarles is staying at the Jysstev estate. It is in the southeast section of the Government District.\nRemember, you speak for Lathander in this matter.",
+    "items":"NONE",
     "characters":[
       {
         "name":"Lathander",
@@ -4551,19 +4556,14 @@
         "location":"Jysstev estate"
       }
     ],
-    "tools":[
-      "Dawnbringer Sain is supposed to acquire art for the temple of Lathander"
-    ],
-    "description":"Greetings, I am known as Dawnbringer Sain, a priest of Lathander.\nI am charged with the acquisition of art for the temple. The beauty of the dawn must be captured in every nook and cranny of Lathander's home.\nAthkatla is blessed with the presence of perhaps the greatest sculptor of our age. The artist is known as Sir Sarles, and he is making an all too brief visit. We would be foolish not to seize upon the opportunity to have him work for us.\nI would ask you to convince Sir Sarles that it would be best for him to work for us. Go to him now.\nSir Sarles is staying at the Jysstev estate. It is in the southeast section of the Government District.\nRemember, you speak for Lathander in this matter.",
+    "groups":"NONE",
     "locations":[
       {
         "name":"Athkatla",
         "description":"a city"
       }
     ],
-    "items":"NONE",
     "enemies":"NONE",
-    "groups":"NONE",
     "title":"Baldur's Gate II: Shadows of Amn",
     "motivation":"NONE"
   },
@@ -4591,6 +4591,15 @@
         "amount":1
       }
     ],
+    "tools":[
+      "the player has passed the gauntlet unlike others in three hundred years: the player can redeem the souls of the ghost knights and restore their order",
+      "Sir Ralvas placed his own will and lust for fame over the will of the Nine",
+      "Sir Ralvas failed the challenge of Zenithar: the inscription for the challenge says to \"walk in the faith\"",
+      "the player must pray at the shrine of Saint Kaladas to receive a vision: the player will see the Mace of Zenithar, separated from them by a great chasm",
+      "Sir Ralvas fell from the platform each time he tried to cross the chasm"
+    ],
+    "description":"You have my, Sir Ralvas', tribute, sir knight. In three hundred years, none have passed the gauntlet. In three hundred years, we have never known hope. But for the first time, it seems that someone may succeed where we have failed. I see in you the chance to redeem our souls and restore the order. And now, I must ask you to press forward where I could not. I must ask you to face the challenge of Zenithar.\nI was arrogant and foolhardy. I sought personal glory. I placed my own will and my own lust for fame over the will of the Nine. In facing the challenge of Zenithar, I failed. I tried dozens -- no, hundreds of times to reach the Mace. I fell each time. And each time I awoke in the chapel, I leaped again. I tried to enlist the help of the other knights, but none would come to my aid. The inscription says to \"walk in the faith\" but even now, I do not know what this means.\nBelow the Chapel of Zenithar in Leyawiin there is a shrine to the great craftsman, Saint Kaladas. Those seeking the Mace must pray before the shrine. When you bow, you will receive a vision -- or perhaps not. It is unclear. The priests saw that my body never moved, but it felt so real. You will see the Mace of Zenithar, separated from you by a great chasm. The chasm represents your doubt. Your faith must be your guide across it.\nThis is what I know. As I said, my faith was weak. I did not understand the test and I fell from the platform each time I tried to cross. I have told you all that I know. All that is left is for you to prove yourself more worthy than I. If you seek the Mace, travel to Leyawiin's chapel, kneel at the shrine in the undercroft, and let your faith in the Nine be the salvation of us all.",
+    "items":"NONE",
     "characters":[
       {
         "name":"Zenithar",
@@ -4603,28 +4612,19 @@
         "location":""
       }
     ],
-    "tools":[
-      "the player has passed the gauntlet unlike others in three hundred years: the player can redeem the souls of the ghost knights and restore their order",
-      "Sir Ralvas placed his own will and lust for fame over the will of the Nine",
-      "Sir Ralvas failed the challenge of Zenithar: the inscription for the challenge says to \"walk in the faith\"",
-      "the player must pray at the shrine of Saint Kaladas to receive a vision: the player will see the Mace of Zenithar, separated from them by a great chasm",
-      "Sir Ralvas fell from the platform each time he tried to cross the chasm"
-    ],
-    "description":"You have my, Sir Ralvas', tribute, sir knight. In three hundred years, none have passed the gauntlet. In three hundred years, we have never known hope. But for the first time, it seems that someone may succeed where we have failed. I see in you the chance to redeem our souls and restore the order. And now, I must ask you to press forward where I could not. I must ask you to face the challenge of Zenithar.\nI was arrogant and foolhardy. I sought personal glory. I placed my own will and my own lust for fame over the will of the Nine. In facing the challenge of Zenithar, I failed. I tried dozens -- no, hundreds of times to reach the Mace. I fell each time. And each time I awoke in the chapel, I leaped again. I tried to enlist the help of the other knights, but none would come to my aid. The inscription says to \"walk in the faith\" but even now, I do not know what this means.\nBelow the Chapel of Zenithar in Leyawiin there is a shrine to the great craftsman, Saint Kaladas. Those seeking the Mace must pray before the shrine. When you bow, you will receive a vision -- or perhaps not. It is unclear. The priests saw that my body never moved, but it felt so real. You will see the Mace of Zenithar, separated from you by a great chasm. The chasm represents your doubt. Your faith must be your guide across it.\nThis is what I know. As I said, my faith was weak. I did not understand the test and I fell from the platform each time I tried to cross. I have told you all that I know. All that is left is for you to prove yourself more worthy than I. If you seek the Mace, travel to Leyawiin's chapel, kneel at the shrine in the undercroft, and let your faith in the Nine be the salvation of us all.",
-    "locations":[
-      {
-        "name":"Leyawiin",
-        "description":"a city"
-      }
-    ],
-    "items":"NONE",
-    "enemies":"NONE",
     "groups":[
       {
         "name":"Nine",
         "description":"a pantheon of gods"
       }
     ],
+    "locations":[
+      {
+        "name":"Leyawiin",
+        "description":"a city"
+      }
+    ],
+    "enemies":"NONE",
     "title":"The Elder Scrolls IV: Oblivion",
     "motivation":"NONE"
   },
@@ -4656,16 +4656,16 @@
         "description":"Earned from winning matches."
       }
     ],
-    "characters":"NONE",
     "tools":[
       "High Unarmed skill to improve chances of winning.",
       "Endurance and Strength to withstand hits."
     ],
     "description":"Climb the ranks in New Reno\u2019s boxing circuit by winning fights. Defeat your opponents to earn money, fame, and the title of Prizefighter.",
-    "locations":"NONE",
     "items":"NONE",
-    "enemies":"NONE",
+    "characters":"NONE",
     "groups":"NONE",
+    "locations":"NONE",
+    "enemies":"NONE",
     "title":"Fallout 2",
     "motivation":"NONE"
   },
@@ -4693,6 +4693,11 @@
         "amount":1
       }
     ],
+    "tools":[
+      "NONE"
+    ],
+    "description":"You're looking for work? It seems that law-breakers in the Pale have no desire to stay there. I don't blame them.\nOne of them's escaped, and you're going to find that coward. At this point they don't care what happens to him and neither do I. Best to just kill him and be done with it.\nBe careful. This man is known to be dangerous.",
+    "items":"NONE",
     "characters":[
       {
         "name":"",
@@ -4700,14 +4705,9 @@
         "location":"Pale"
       }
     ],
-    "tools":[
-      "NONE"
-    ],
-    "description":"You're looking for work? It seems that law-breakers in the Pale have no desire to stay there. I don't blame them.\nOne of them's escaped, and you're going to find that coward. At this point they don't care what happens to him and neither do I. Best to just kill him and be done with it.\nBe careful. This man is known to be dangerous.",
-    "locations":"NONE",
-    "items":"NONE",
-    "enemies":"NONE",
     "groups":"NONE",
+    "locations":"NONE",
+    "enemies":"NONE",
     "title":"The Elder Scrolls V: Skyrim",
     "motivation":"NONE"
   },
@@ -4747,16 +4747,16 @@
         "amount":500
       }
     ],
-    "characters":"NONE",
     "tools":[
       "Repair Skill",
       "Replacement Parts"
     ],
     "description":"The air purifier in Redding\u2019s mine has broken down, posing a serious health risk to the miners. Marge LeBarge has asked you to find the necessary parts and repair it to ensure their safety.",
-    "locations":"NONE",
     "items":"NONE",
-    "enemies":"NONE",
+    "characters":"NONE",
     "groups":"NONE",
+    "locations":"NONE",
+    "enemies":"NONE",
     "title":"Fallout 2",
     "motivation":"NONE"
   },
@@ -4794,6 +4794,20 @@
         "amount":1
       }
     ],
+    "tools":[
+      "the Gauldur name wiped out from the annals of history",
+      "Mikrul, Jyrik, and Sigdis lusted after Archmage Gauldur's power and prestige: they discovered Archmage Gauldur's source of power, the Gauldur Amulet",
+      "Archmage Gauldur was murdered by his sons Mikrul, Jyrik, and Sigdis: they split the Gauldur Amulet between them",
+      "Mikrul, Jyrik, and Sigdis laid waste to surrounding villages: the high king sent Archmage Geirmund and his battlemages after Mikrul, Jyrik, and Sigdis"
+    ],
+    "description":"Daynas Valen's Notes\nby Daynas Valen\n\nHow to summarize a lifetime of research? So little of what I have learned matters now - the petty politics of ancient times, the age-long campaign to wipe out all mention of the Gauldur name.\nIn the opening days of the First Era, the Archmage Gauldur was revered throughout the north. Wisdom, wealth, honor, and power were his, and even the legendary heros' heirs sought his counsel.\nSmothered by his shadow, Gauldur's three sons grew cruel and resentful. They lusted after their father's power and prestige, and eventually Jyrik, the eldest, discovered its source: a mysterious amulet, from which he never parted. Together, they conspired to murder their father in his sleep and divide his amulet between them. And so it was done.\nConsumed by their newfound power, the brothers laid waste to the surrounding villages. So great was the carnage that the High King himself intervened, sending a company of battlemages led by the Archmage Geirmund to subdue the brothers. And after a devastating battle, the three fled the field.\nMikrul, the youngest, was run to ground in Folgunthur, the ancient barrows at the foot of Solitude. Geirmund pursued Jyrik to the shattered crypts of Saarthal, half-buried even then. And at last, Sigdis was cornered in the southernmost reaches of land and later entombed in Geirmund's Hall.",
+    "items":[
+      {
+        "name":"\"Daynas Valen's Notes\"",
+        "description":"Daynas Valen's research notes",
+        "amount":1
+      }
+    ],
     "characters":[
       {
         "name":"Archmage Gauldur",
@@ -4821,28 +4835,14 @@
         "location":""
       }
     ],
-    "tools":[
-      "the Gauldur name wiped out from the annals of history",
-      "Mikrul, Jyrik, and Sigdis lusted after Archmage Gauldur's power and prestige: they discovered Archmage Gauldur's source of power, the Gauldur Amulet",
-      "Archmage Gauldur was murdered by his sons Mikrul, Jyrik, and Sigdis: they split the Gauldur Amulet between them",
-      "Mikrul, Jyrik, and Sigdis laid waste to surrounding villages: the high king sent Archmage Geirmund and his battlemages after Mikrul, Jyrik, and Sigdis"
-    ],
-    "description":"Daynas Valen's Notes\nby Daynas Valen\n\nHow to summarize a lifetime of research? So little of what I have learned matters now - the petty politics of ancient times, the age-long campaign to wipe out all mention of the Gauldur name.\nIn the opening days of the First Era, the Archmage Gauldur was revered throughout the north. Wisdom, wealth, honor, and power were his, and even the legendary heros' heirs sought his counsel.\nSmothered by his shadow, Gauldur's three sons grew cruel and resentful. They lusted after their father's power and prestige, and eventually Jyrik, the eldest, discovered its source: a mysterious amulet, from which he never parted. Together, they conspired to murder their father in his sleep and divide his amulet between them. And so it was done.\nConsumed by their newfound power, the brothers laid waste to the surrounding villages. So great was the carnage that the High King himself intervened, sending a company of battlemages led by the Archmage Geirmund to subdue the brothers. And after a devastating battle, the three fled the field.\nMikrul, the youngest, was run to ground in Folgunthur, the ancient barrows at the foot of Solitude. Geirmund pursued Jyrik to the shattered crypts of Saarthal, half-buried even then. And at last, Sigdis was cornered in the southernmost reaches of land and later entombed in Geirmund's Hall.",
+    "groups":"NONE",
     "locations":[
       {
         "name":"Solitude",
         "description":"a city"
       }
     ],
-    "items":[
-      {
-        "name":"\"Daynas Valen's Notes\"",
-        "description":"Daynas Valen's research notes",
-        "amount":1
-      }
-    ],
     "enemies":"NONE",
-    "groups":"NONE",
     "title":"The Elder Scrolls V: Skyrim",
     "motivation":"NONE"
   },
@@ -4870,20 +4870,20 @@
         "amount":1
       }
     ],
-    "characters":"NONE",
     "tools":[
       "NONE"
     ],
     "description":"You here looking for work, meat? Maybe you want a contract?\nI suppose I've got something for you. We need a weapons shipment delivered to Desolate Mine. That's your job.\nMove your ass, boot.",
-    "locations":"NONE",
     "items":"NONE",
-    "enemies":"NONE",
+    "characters":"NONE",
     "groups":[
       {
         "name":"Fighters Guild",
         "description":"a mercenary guild"
       }
     ],
+    "locations":"NONE",
+    "enemies":"NONE",
     "title":"The Elder Scrolls IV: Oblivion",
     "motivation":"NONE"
   },
@@ -4911,11 +4911,13 @@
         "amount":1
       }
     ],
-    "characters":"NONE",
     "tools":[
       "the player helped Elmus and the others reclaim the Thirsk Mead Hall from monsters"
     ],
     "description":"We lost most of the mead batches we had brewing when... before those things were here. One is just ready to take its turn, though, and it's about time to add some of the flavorings.\nYou can't find them on Solstheim, but if you find yourself back in Skyrim, I wouldn't mind you bringing some juniper berries.\nThey add a different kind of sweetness. Tart. Makes the flavor more round.",
+    "items":"NONE",
+    "characters":"NONE",
+    "groups":"NONE",
     "locations":[
       {
         "name":"Thirsk Mead Hall",
@@ -4926,9 +4928,7 @@
         "description":"a remote island"
       }
     ],
-    "items":"NONE",
     "enemies":"NONE",
-    "groups":"NONE",
     "title":"The Elder Scrolls V: Skyrim",
     "motivation":"NONE"
   },
@@ -4956,11 +4956,19 @@
         "amount":1000
       }
     ],
-    "characters":"NONE",
     "tools":[
       "NONE"
     ],
     "description":"Greetings. I'm Nerussa. I'm quite fond of collecting all manners of wines from all over Tamriel. But one vintage continues to elude me: Shadowbanish Wine. How I'd love to add it to my collection.\nApparently the wine is so rare because it was only made in one tiny batch. It's the product of an alchemist who was also a vintner. Besides tasting incredible, the magic within the wine allows the imbiber to be gifted with Night Eye! The vintner made it special for the Legion soldiers posted at the forts when they were active long ago. It was perfect for keeping lookouts warm on cold nights and helping them see better in the dark.\nIf you can retrieve six bottles of Shadowbanish Wine, I'll gladly pay you well: 1,000 gold. All I know about them is that they're found in the many fort ruins scattered all over Cyrodiil.",
+    "items":[
+      {
+        "name":"Shadowbanish Wine",
+        "description":"rare wine from Tamriel that grants its drinker Nighteye",
+        "amount":6
+      }
+    ],
+    "characters":"NONE",
+    "groups":"NONE",
     "locations":[
       {
         "name":"Tamriel",
@@ -4971,15 +4979,7 @@
         "description":"a province in Tamriel"
       }
     ],
-    "items":[
-      {
-        "name":"Shadowbanish Wine",
-        "description":"rare wine from Tamriel that grants its drinker Nighteye",
-        "amount":6
-      }
-    ],
     "enemies":"NONE",
-    "groups":"NONE",
     "title":"The Elder Scrolls IV: Oblivion",
     "motivation":"NONE"
   },
@@ -5007,6 +5007,11 @@
         "amount":1
       }
     ],
+    "tools":[
+      "the Ezrohir captured the Guardian of Mana again: they stripped away her magic and enslaved her"
+    ],
+    "description":"The Ezrohir prepare today for war\nTheir legions number in the score.\nTheir Alchemy and Artifice suffice\nTo capture Mana... not once but twice.\nImprisoned in the Vaults Forsaken:\nSubdued, enslaved, her magic taken.\nForced to lead their troops in battle\nFrom Guardian... to so much chattel.\nThe Ezrohir have Mana enslaved\nBut there's still hope; she might yet be saved.\nThe enemy lie in this foul creche.\nSave the Guardian... save Zeryphesh.",
+    "items":"NONE",
     "characters":[
       {
         "name":"Guardian of Mana",
@@ -5014,24 +5019,19 @@
         "location":"Vaults Forsaken"
       }
     ],
-    "tools":[
-      "the Ezrohir captured the Guardian of Mana again: they stripped away her magic and enslaved her"
-    ],
-    "description":"The Ezrohir prepare today for war\nTheir legions number in the score.\nTheir Alchemy and Artifice suffice\nTo capture Mana... not once but twice.\nImprisoned in the Vaults Forsaken:\nSubdued, enslaved, her magic taken.\nForced to lead their troops in battle\nFrom Guardian... to so much chattel.\nThe Ezrohir have Mana enslaved\nBut there's still hope; she might yet be saved.\nThe enemy lie in this foul creche.\nSave the Guardian... save Zeryphesh.",
-    "locations":[
-      {
-        "name":"Zeryphesh",
-        "description":"a city-state"
-      }
-    ],
-    "items":"NONE",
-    "enemies":"NONE",
     "groups":[
       {
         "name":"Ezrohir",
         "description":"a race of people who are at war with Zeryphesh"
       }
     ],
+    "locations":[
+      {
+        "name":"Zeryphesh",
+        "description":"a city-state"
+      }
+    ],
+    "enemies":"NONE",
     "title":"Torchlight II",
     "motivation":"NONE"
   },
@@ -5059,12 +5059,10 @@
         "amount":1
       }
     ],
-    "characters":"NONE",
     "tools":[
       "NONE"
     ],
     "description":"I've been working on something. An improvement on the Ebonyflesh spell. I've made progress, but then hit a snag. I think perhaps you could help.\nI made some progress using the essence of dragon scales. But they're just not quite potent enough. My knowledge of history is far from complete, but I did some research and discovered two things.\nFirst, there are ancient references to dragon \"heartscales\". What little I could learn suggests they may be what I need. Second, there are stories of a dagger called Kahvozein's Fang, said to be sharp enough to carve heartscales off a dragon.\nFirst you'll need to retrieve the dagger, then use it to carve a few heartscales off a dragon. Presumably a deceased one.\nIf my research succeeds, I certainly think you deserve the first copy of the Dragonhide spell tome.",
-    "locations":"NONE",
     "items":[
       {
         "name":"Dragonhide",
@@ -5082,8 +5080,10 @@
         "amount":1
       }
     ],
-    "enemies":"NONE",
+    "characters":"NONE",
     "groups":"NONE",
+    "locations":"NONE",
+    "enemies":"NONE",
     "title":"The Elder Scrolls V: Skyrim",
     "motivation":"NONE"
   },
@@ -5111,6 +5111,12 @@
         "amount":1
       }
     ],
+    "tools":[
+      "Teinaava needs help with a personal matter",
+      "just as a member of the Dark Brotherhood cannot kill a fellow family member, a Shadowscale is forbidden from slaying another Shadowscale"
+    ],
+    "description":"Ah, dear friend, may I steal a moment of your time? I have a rather delicate situation I was hoping you could help me with. This is a personal matter, and will have no bearing on your standing within the Dark Brotherhood. Would you like to hear more?\nNow, the details. Far south of here, on the southern end of Cyrodiil, lies a swamp called Bogwater. Hiding in that swamp you will find an Argonian Shadowscale named Scar-Tail. Kill this renegade. and bring me his heart as proof of the deed.\nI have some history with Scar-Tail. When Ocheeva and I trained with the Dark Brotherhood as children, we befriended another initiate, a Shadowscale by the name of Scar-Tail. The three of us were inseparable. When our training was completed, we reluctantly parted ways. But now... Now, the unthinkable has happened! Scar-Tail has fled Black Marsh and refuses to fulfill his duties as royal assassin! This is an act of treason! This treachery must be punished! Just as a member of the Dark Brotherhood cannot kill a fellow family member, a Shadowscale is forbidden from slaying another Shadowscale. That is why you must go to Bogwater and eliminate that treacherous snake!\nPlease kill Scar-Tail, so Ocheeva and I can put this matter behind us.",
+    "items":"NONE",
     "characters":[
       {
         "name":"Ocheeva",
@@ -5123,23 +5129,6 @@
         "location":"Bogwater"
       }
     ],
-    "tools":[
-      "Teinaava needs help with a personal matter",
-      "just as a member of the Dark Brotherhood cannot kill a fellow family member, a Shadowscale is forbidden from slaying another Shadowscale"
-    ],
-    "description":"Ah, dear friend, may I steal a moment of your time? I have a rather delicate situation I was hoping you could help me with. This is a personal matter, and will have no bearing on your standing within the Dark Brotherhood. Would you like to hear more?\nNow, the details. Far south of here, on the southern end of Cyrodiil, lies a swamp called Bogwater. Hiding in that swamp you will find an Argonian Shadowscale named Scar-Tail. Kill this renegade. and bring me his heart as proof of the deed.\nI have some history with Scar-Tail. When Ocheeva and I trained with the Dark Brotherhood as children, we befriended another initiate, a Shadowscale by the name of Scar-Tail. The three of us were inseparable. When our training was completed, we reluctantly parted ways. But now... Now, the unthinkable has happened! Scar-Tail has fled Black Marsh and refuses to fulfill his duties as royal assassin! This is an act of treason! This treachery must be punished! Just as a member of the Dark Brotherhood cannot kill a fellow family member, a Shadowscale is forbidden from slaying another Shadowscale. That is why you must go to Bogwater and eliminate that treacherous snake!\nPlease kill Scar-Tail, so Ocheeva and I can put this matter behind us.",
-    "locations":[
-      {
-        "name":"Cyrodiil",
-        "description":"a province"
-      },
-      {
-        "name":"Black Marsh",
-        "description":"a province inhabited by Argonians"
-      }
-    ],
-    "items":"NONE",
-    "enemies":"NONE",
     "groups":[
       {
         "name":"Dark Brotherhood",
@@ -5154,6 +5143,17 @@
         "description":"Argonians who were born to become assassins"
       }
     ],
+    "locations":[
+      {
+        "name":"Cyrodiil",
+        "description":"a province"
+      },
+      {
+        "name":"Black Marsh",
+        "description":"a province inhabited by Argonians"
+      }
+    ],
+    "enemies":"NONE",
     "title":"The Elder Scrolls IV: Oblivion",
     "motivation":"NONE"
   },
@@ -5181,17 +5181,10 @@
         "amount":1
       }
     ],
-    "characters":"NONE",
     "tools":[
       "the player has helped Estherians before"
     ],
     "description":"You must be the human the other Estherians are speaking of. I am glad to have met you. I have been sent on a quest to recover the Scroll of Anom-Irek, stored in a vault in the Corrupted Crypt, here. The scroll should allow us to heal the Estherians who have been corrupted by evil spirits. Unfortunately, the Sturmbeorn have already entered the crypt, and I have been unable to get past them.\nCan I ask you to attempt to retrieve the scroll? I will wait here in the Path of the Honored Dead for your return. Should you succeed, I will see what I can do to provide you with some equipment more fitting a hero of your stature.",
-    "locations":[
-      {
-        "name":"Path of the Honored Dead",
-        "description":"a pass"
-      }
-    ],
     "items":[
       {
         "name":"Scroll of Anom-Irek",
@@ -5199,7 +5192,7 @@
         "amount":1
       }
     ],
-    "enemies":"NONE",
+    "characters":"NONE",
     "groups":[
       {
         "name":"Estherians",
@@ -5210,6 +5203,13 @@
         "description":"ferocious bandits"
       }
     ],
+    "locations":[
+      {
+        "name":"Path of the Honored Dead",
+        "description":"a pass"
+      }
+    ],
+    "enemies":"NONE",
     "title":"Torchlight II",
     "motivation":"NONE"
   },
@@ -5237,6 +5237,11 @@
         "amount":1
       }
     ],
+    "tools":[
+      "NONE"
+    ],
+    "description":"Falkreath is known for its graveyard, traveler. We've buried more dead than you can imagine.\nI just finished giving my old war companion, Berit, a proper burial by fire. Old hard head hated the idea of being lost cold in the ground.\nCould you deliver the ashes to Runil, the priest of Arkay? He'll know the right blessings to make for Berit's soul.",
+    "items":"NONE",
     "characters":[
       {
         "name":"Runil",
@@ -5254,14 +5259,9 @@
         "location":""
       }
     ],
-    "tools":[
-      "NONE"
-    ],
-    "description":"Falkreath is known for its graveyard, traveler. We've buried more dead than you can imagine.\nI just finished giving my old war companion, Berit, a proper burial by fire. Old hard head hated the idea of being lost cold in the ground.\nCould you deliver the ashes to Runil, the priest of Arkay? He'll know the right blessings to make for Berit's soul.",
-    "locations":"NONE",
-    "items":"NONE",
-    "enemies":"NONE",
     "groups":"NONE",
+    "locations":"NONE",
+    "enemies":"NONE",
     "title":"The Elder Scrolls V: Skyrim",
     "motivation":"NONE"
   },
@@ -5299,13 +5299,13 @@
         "amount":100
       }
     ],
-    "characters":"NONE",
     "tools":"NONE",
     "description":"A routine task to collect the latest issue of a weekly publication, providing updates and insights into current events across the wasteland.",
-    "locations":"NONE",
     "items":"NONE",
-    "enemies":"NONE",
+    "characters":"NONE",
     "groups":"NONE",
+    "locations":"NONE",
+    "enemies":"NONE",
     "title":"Fallout",
     "motivation":"NONE"
   },
@@ -5333,12 +5333,10 @@
         "amount":16
       }
     ],
-    "characters":"NONE",
     "tools":[
       "NONE"
     ],
     "description":"Some incredibly foolish individual's been throwing Ender Pearls all over our village! Now the whole place is crawling with Endermites!\nCould you take care of those little critters before they cause any serious issues? Kill them all, and receive 16 golden carrots for your trouble. You would have all our thanks, too.",
-    "locations":"NONE",
     "items":[
       {
         "name":"Ender Pearls",
@@ -5346,13 +5344,15 @@
         "amount":1
       }
     ],
-    "enemies":"NONE",
+    "characters":"NONE",
     "groups":[
       {
         "name":"Endermites",
         "description":"small, annoying creatures"
       }
     ],
+    "locations":"NONE",
+    "enemies":"NONE",
     "title":"Minecraft",
     "motivation":"comfort"
   },
@@ -5380,11 +5380,13 @@
         "amount":1
       }
     ],
-    "characters":"NONE",
     "tools":[
       "the passage to Vahlok's Tomb must have been opened by an earthquake that accompanied one of the Red Mountain's eruptions"
     ],
     "description":"Yes, I think you're just the adventurous sort I need. I have a job offer for you.\nAs a scholar of history, I've always found Solstheim to be most intriguing. I've made many forays into the ancient ruins that cover the island. I've come to know those ruins so well, I could draw you a map from memory. That's why I noticed the new passage the moment I laid eyes on it.\nit leads to an old tomb, I think. It must have been opened by an earthquake that accompanied one of the Red Mountain's eruptions. I'd love to have a closer look, but those old ruins can be dangerous and I'm no adventurer. I'll pay you to watch my back down there.\nI'll be heading back there soon. If you're interested, meet me at the ruins and we'll see what we can find. Now I'm off to pack for the expedition!",
+    "items":"NONE",
+    "characters":"NONE",
+    "groups":"NONE",
     "locations":[
       {
         "name":"Vahlok's Tomb",
@@ -5399,9 +5401,7 @@
         "description":"an active volcano"
       }
     ],
-    "items":"NONE",
     "enemies":"NONE",
-    "groups":"NONE",
     "title":"The Elder Scrolls V: Skyrim",
     "motivation":"NONE"
   },
@@ -5429,6 +5429,11 @@
         "amount":1
       }
     ],
+    "tools":[
+      "Torkild may have become a werebear: a bear-like cursed creature"
+    ],
+    "description":"In days past, my brother Torkild and I would share the hunt, but that was... long ago.\nTorkild had a wild gleam in his eye, more than most. In my darkest times, I fear he fell in among the werebears of the glacier.\nWerebears are twisted, cursed beasts. True bears are noble and great creatures of the wild. I've heard tell of men who, by curse or by heart's desire, become transformed into one of those vile things. It is a pitiable fate. And one that I fear has fallen to my brother.\nIf you happen to cross his path, be wary. He was a fierce warrior as a man. If he fell prey to his more bestial side, he could be deadly.",
+    "items":"NONE",
     "characters":[
       {
         "name":"Torkild",
@@ -5436,14 +5441,9 @@
         "location":""
       }
     ],
-    "tools":[
-      "Torkild may have become a werebear: a bear-like cursed creature"
-    ],
-    "description":"In days past, my brother Torkild and I would share the hunt, but that was... long ago.\nTorkild had a wild gleam in his eye, more than most. In my darkest times, I fear he fell in among the werebears of the glacier.\nWerebears are twisted, cursed beasts. True bears are noble and great creatures of the wild. I've heard tell of men who, by curse or by heart's desire, become transformed into one of those vile things. It is a pitiable fate. And one that I fear has fallen to my brother.\nIf you happen to cross his path, be wary. He was a fierce warrior as a man. If he fell prey to his more bestial side, he could be deadly.",
-    "locations":"NONE",
-    "items":"NONE",
-    "enemies":"NONE",
     "groups":"NONE",
+    "locations":"NONE",
+    "enemies":"NONE",
     "title":"The Elder Scrolls V: Skyrim",
     "motivation":"NONE"
   },
@@ -5471,6 +5471,11 @@
         "amount":1
       }
     ],
+    "tools":[
+      "Ragefast imprisoned Ragefast's nymph in Ragefast's house"
+    ],
+    "description":"Greetings to you and yours, my friend. I'm Ramazith.\nMight I have your ear a moment? My proposition is thus: I would have you enter into the home of a colleague of mine and effect the release of a creature he has imprisoned there. Ragefast be his name, and he has in his possession one of the most beautiful and useful creatures in all of Faer\u00fbn. It's a nymph he captured some time ago, and I know not what laughable plans he has for her, but I am sure she be more... productive in my care.\nI not so rich as to be able to offer huge gold, but as competent wizard I do have the odd magical item of worth. Perhaps an enchanted item will serve your needs, no?",
+    "items":"NONE",
     "characters":[
       {
         "name":"Ragefast",
@@ -5483,19 +5488,14 @@
         "location":"Ragefast's house"
       }
     ],
-    "tools":[
-      "Ragefast imprisoned Ragefast's nymph in Ragefast's house"
-    ],
-    "description":"Greetings to you and yours, my friend. I'm Ramazith.\nMight I have your ear a moment? My proposition is thus: I would have you enter into the home of a colleague of mine and effect the release of a creature he has imprisoned there. Ragefast be his name, and he has in his possession one of the most beautiful and useful creatures in all of Faer\u00fbn. It's a nymph he captured some time ago, and I know not what laughable plans he has for her, but I am sure she be more... productive in my care.\nI not so rich as to be able to offer huge gold, but as competent wizard I do have the odd magical item of worth. Perhaps an enchanted item will serve your needs, no?",
+    "groups":"NONE",
     "locations":[
       {
         "name":"Faer\u00fbn",
         "description":"a continent"
       }
     ],
-    "items":"NONE",
     "enemies":"NONE",
-    "groups":"NONE",
     "title":"Baldur's Gate",
     "motivation":"NONE"
   },
@@ -5523,13 +5523,6 @@
         "amount":1
       }
     ],
-    "characters":[
-      {
-        "name":"Jorundr",
-        "description":"a male thief, and Arnora Auria's ex-boyfriend",
-        "location":"Bruma Castle Dungeons"
-      }
-    ],
     "tools":[
       "Jorundr and Arnora Auria have had a rocky relationship: Jorundr and Arnora Auria committed petty crimes all over Cyrodiil",
       "Jorundr started to take risks and began robbing more dangerous targets",
@@ -5538,6 +5531,15 @@
       "Jorundr had moved the stolen gold away from the campsite"
     ],
     "description":"Here's the deal. Jorundr and I have had a rocky relationship at best.\nAgainst my will, I've been dragged all over Cyrodiil helping him commit petty crimes. I wouldn't say we're thieves. I mean, we've stolen things... sure. But we've never stolen that much at one time. Just enough to keep us going. That is, until last year.\nJorundr started to take risks and began robbing more dangerous targets. Not just lone merchants, mind you. I'm talking about the bigger scores. Like estates and tax shipments. I begged him to stop, as I knew that his capers would one day lead to violence. He just threatened to... hurt me if I got in his way. I think the gold changed him. I really do. He wasn't the man I met seven years ago. The few times I tried to say something, he'd strike me or push me away. I began to become frightened of him.\nOur last score was a tax shipment being delivered to the Imperial City. We robbed it, and in the midst of the chaos, Jorundr killed a guard. I was mortified. We snatched up the gold and holed up in the mountains. He said if I breathed a word of the murder to anyone, he'd kill me. I was terrified of him at this point. Two days later, the Bruma City Guard traced us to our makeshift campsite. I was off gathering food, but Jorundr was captured. Served him right. When I went back to the site later, the gold was gone! He'd moved it! What I need you to do is go to the Bruma Castle Dungeons and speak to him for me. Convince him to tell you where the gold is and then we split it.",
+    "items":"NONE",
+    "characters":[
+      {
+        "name":"Jorundr",
+        "description":"a male thief, and Arnora Auria's ex-boyfriend",
+        "location":"Bruma Castle Dungeons"
+      }
+    ],
+    "groups":"NONE",
     "locations":[
       {
         "name":"Bruma",
@@ -5552,9 +5554,7 @@
         "description":"a province"
       }
     ],
-    "items":"NONE",
     "enemies":"NONE",
-    "groups":"NONE",
     "title":"The Elder Scrolls IV: Oblivion",
     "motivation":"NONE"
   }
