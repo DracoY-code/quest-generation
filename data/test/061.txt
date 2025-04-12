@@ -1,15 +1,22 @@
-### Quest Name: Ankheg Culling
-### Objective: kill exactly 4 ankhegs
-### First Tasks: find 4 ankhegs
-### First Task Locations:  - fifty yards to the east
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - gold pieces (amount: 75)
-### Characters: NONE
-### Tools: NONE
-### Description: I'm Gerde, a ranger. You've come here to fight ankhegs? Well, listen up: it's mating season, so it's primarily females coming up to the surface, looking to put on a little extra weight. They're hungry, they're aggressive, and there are a lot of them. Now, the point of this exercise is not to exterminate them, but to keep their population to a manageable level. Remember, they aerate the soil and thereby improve crop yields by as much as 15%. Food is going to be scarce enough in the next few years, so keep that in mind when you're out there. No more than four ankhegs per party. After that it's catch and release, all right? Most of the activity starts about fifty yards to the east. Now move out, everyone. You'll get 75 gold pieces, if you stick to the quota.
-### Locations: NONE
-### Items: NONE
-### Enemies:  - ankhegs (amount: 4)
-### Groups: NONE
-### Title: Baldur's Gate
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Ankheg Culling
+Objective: kill exactly 4 ankhegs
+First Tasks: find 4 ankhegs
+First Task Locations:  - fifty yards to the east
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - gold pieces (amount: 75)
+Characters: NONE
+Tools: NONE
+Locations: NONE
+Items: NONE
+Enemies:  - ankhegs (amount: 4)
+Groups: NONE
+Title: Baldur's Gate
+Motivation: NONE
+
+### Response:
+
+

@@ -1,15 +1,22 @@
-### Quest Name: A Night to Remember
-### Objective: find Sam as you recover from a bad hangover
-### First Tasks: clean up the mess that you made, and apologize to Senna
-### First Task Locations: Temple of Dibella - a temple to Dibella
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - Senna will aid the player (amount: 1)
-### Characters: Sam - the player's friend, a man (location: ), Dibella - the goddess of love and compassion (location: )
-### Tools: Senna wakes the player up: the player does not remember anything about coming to the Temple of Dibella, blathering about marriage or a goat, and throwing trash all over the Temple of Dibella
-### Description: Wake up! That's right, it's time to wake up, you drunken blasphemer! Of course! You don't remember getting here. I'm guessing you also don't remember coming in here and blathering incoherently about marriage or a goat. Which means you don't remember losing your temper and throwing trash all over the temple. You want to know where your friend Sam has gone? Dibella teaches love and compassion, but that doesn't mean we're just going to tell you what you want to know and let you walk away from this. Pick up your mess, then apologize, and if we think you're sincere we'll consider lending you aid.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: A Night to Remember
+Objective: find Sam as you recover from a bad hangover
+First Tasks: clean up the mess that you made, and apologize to Senna
+First Task Locations: Temple of Dibella - a temple to Dibella
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - Senna will aid the player (amount: 1)
+Characters: Sam - the player's friend, a man (location: ), Dibella - the goddess of love and compassion (location: )
+Tools: Senna wakes the player up: the player does not remember anything about coming to the Temple of Dibella, blathering about marriage or a goat, and throwing trash all over the Temple of Dibella
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+Wake up! That's right, it's time to wake up, you drunken blasphemer! Of course! You don't remember getting here. I'm guessing you also don't remember coming in here and blathering incoherently about marriage or a goat. Which means you don't remember losing your temper and throwing trash all over the temple. You want to know where your friend Sam has gone? Dibella teaches love and compassion, but that doesn't mean we're just going to tell you what you want to know and let you walk away from this. Pick up your mess, then apologize, and if we think you're sincere we'll consider lending you aid.
+

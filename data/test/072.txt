@@ -1,15 +1,22 @@
-### Quest Name: Go Fish
-### Objective: bring 12 slaughterfish scales to Aelwin Merowald
-### First Tasks: kill slaughterfish and collect their scales
-### First Task Locations: Lake Rumare - a lake
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - Aelwin Merowald makes it worth the player's time (amount: 1)
-### Characters: NONE
-### Tools: slaughterfish nearly took off Aelwin Merowald's leg, Aelwin Merowald could retire with the money he would get from the slaughterfish scales
-### Description: You know, stranger, there comes a time in every man's life when he has to admit that he's lost the fight. Well, I've fought and I've lost. Who did I lose to? Who is my great enemy? Well, don't laugh... it's a bunch of damn fish. I'm a fisherman. Or at least, I was. Until one of those slaughterfish damn near took my leg off. I was collecting their scales, see. I had a contract with this young alchemist. You wouldn't believe what he was paying for those scales! Then last month, one of the bastards got ahold of my leg. Took me right out of the business. But this alchemist, he needs the scales right away. The alchemist was paying so much for the scales that I'm close to having enough saved so that I can retire. But now, I can't get out there to Lake Rumare -- not with this leg. I only needed twelve more scales! Can you believe it? I was so close! I've picked up a few things in my travels. If you head out there and bring me back the twelve scales that I need, I can make it worth your time. Help an old fisherman out, won't you?
-### Locations: NONE
-### Items: NONE
-### Enemies: slaughterfish - dangerous fish (amount: 12)
-### Groups: NONE
-### Title: The Elder Scrolls IV: Oblivion
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Go Fish
+Objective: bring 12 slaughterfish scales to Aelwin Merowald
+First Tasks: kill slaughterfish and collect their scales
+First Task Locations: Lake Rumare - a lake
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - Aelwin Merowald makes it worth the player's time (amount: 1)
+Characters: NONE
+Tools: slaughterfish nearly took off Aelwin Merowald's leg, Aelwin Merowald could retire with the money he would get from the slaughterfish scales
+Locations: NONE
+Items: NONE
+Enemies: slaughterfish - dangerous fish (amount: 12)
+Groups: NONE
+Title: The Elder Scrolls IV: Oblivion
+Motivation: NONE
+
+### Response:
+
+

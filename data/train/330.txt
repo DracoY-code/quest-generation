@@ -1,15 +1,22 @@
-### Quest Name: Returning Dradeel's Spellbook
-### Objective: destroy the lycanthropes' lair, and bring Dradeel's spellbook back to its owner
-### First Tasks: find the lycanthropes' lair and Dradeel's spellbook within it
-### First Task Locations:  - Balduran's ship
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - a way out of this island (amount: 1)
-### Characters: Balduran - a legendary hero of old (location: ), Selûne - the goddess of the moon (location: )
-### Tools: Dradeel converted to the Church of Selûne recently, there are werewolves everywhere, Dradeel might find a way out of this island if his spellbook was returned to him
-### Description: I am Dradeel, mage and recent convert to the Church of Selûne. I was the guide for Balduran's brave adventures to the ends of the world and beyond. The wolf-men are everywhere. The lycanthropes' lair is in Balduran's ship. My spellbook lies within. With it, I am a powerful mage. Without it, I am the pauper that stands before you. With my spellbook retrieved, I may be able to discover a way off of the island. If you go to destroy the lycanthropes' lair, I would ask that you find my book.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups:  - lycanthropes, werewolves
-### Title: Baldur's Gate
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Returning Dradeel's Spellbook
+Objective: destroy the lycanthropes' lair, and bring Dradeel's spellbook back to its owner
+First Tasks: find the lycanthropes' lair and Dradeel's spellbook within it
+First Task Locations:  - Balduran's ship
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - a way out of this island (amount: 1)
+Characters: Balduran - a legendary hero of old (location: ), Selûne - the goddess of the moon (location: )
+Tools: Dradeel converted to the Church of Selûne recently, there are werewolves everywhere, Dradeel might find a way out of this island if his spellbook was returned to him
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups:  - lycanthropes, werewolves
+Title: Baldur's Gate
+Motivation: NONE
+
+### Response:
+I am Dradeel, mage and recent convert to the Church of Selûne. I was the guide for Balduran's brave adventures to the ends of the world and beyond. The wolf-men are everywhere. The lycanthropes' lair is in Balduran's ship. My spellbook lies within. With it, I am a powerful mage. Without it, I am the pauper that stands before you. With my spellbook retrieved, I may be able to discover a way off of the island. If you go to destroy the lycanthropes' lair, I would ask that you find my book.
+

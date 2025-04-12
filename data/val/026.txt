@@ -1,15 +1,22 @@
-### Quest Name: The Coldest Sleep
-### Objective: receive Silencer's next contract after killing Havilstein Hoar-Blood
-### First Tasks: assassinate Havilstein Hoar-Blood
-### First Task Locations:  - a small campsite, on the summit of Gnoll Mountain
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - gold (amount: 500)
-### Characters: Silencer - an assassin (location: ), Alval Uvani - a dead man (location: ), Havilstein Hoar-Blood - a male Nord barbarian, lives alone and exposed (location: a small campsite)
-### Tools: "Dead Drop Orders #6" is addressed toward Silencer, Silencer assassinated Alval Uvani like all the others, Havilstein Hoar-Blood savagely butchered the chieftain of a mead hall on Solstheim, in the flooded section of Nornal, Silencer will find a chest submerged in the water: the chest contains contains Silencer's reward for killing Havilstein Hoar-Blood, and Silencer's next contract
-### Description: Dead Drop Orders #6 by Lucien Lachance  Alval Uvani is dead, just like all the others. You continue to impress me, Silencer, and I am only too eager to indulge your homicidal instincts. Your next target is a savage Nord barbarian, living alone and exposed at a small campsite on the summit of Gnoll Mountain. This barbarian, Havilstein Hoar-Blood by name, savagely butchered the chieftain of a mead hall on the island of Solstheim. The chieftain's sister has forgone the Nord custom of extracting the monetary retribution of wergild, and instead wants Hoar-Blood to pay with his life. You, dear Silencer, will help put her family at peace. You are to go to Gnoll Mountain, locate Havilstein Hoar-Blood, and send his soul to the great beyond. When Hoar-Blood has been executed, journey to the ancient ruin of Nornal. In the flooded section of that ruin you will find a chest, submerged in the water. As you may have guessed, the chest contains your reward for killing Havilstein Hoar-Blood, 500 gold, and your next contract.
-### Locations: Nornal - an ancient ruin (location: NONE), Solstheim - an island inhabited by Nords (location: NONE), Gnoll Mountain - a mountain (location: NONE)
-### Items: "Dead Drop Orders #6" - a note (amount: 1)
-### Enemies: NONE
-### Groups: NONE
-### Title: The Elder Scrolls IV: Oblivion
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: The Coldest Sleep
+Objective: receive Silencer's next contract after killing Havilstein Hoar-Blood
+First Tasks: assassinate Havilstein Hoar-Blood
+First Task Locations:  - a small campsite, on the summit of Gnoll Mountain
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - gold (amount: 500)
+Characters: Silencer - an assassin (location: ), Alval Uvani - a dead man (location: ), Havilstein Hoar-Blood - a male Nord barbarian, lives alone and exposed (location: a small campsite)
+Tools: "Dead Drop Orders #6" is addressed toward Silencer, Silencer assassinated Alval Uvani like all the others, Havilstein Hoar-Blood savagely butchered the chieftain of a mead hall on Solstheim, in the flooded section of Nornal, Silencer will find a chest submerged in the water: the chest contains contains Silencer's reward for killing Havilstein Hoar-Blood, and Silencer's next contract
+Locations: Nornal - an ancient ruin (location: NONE), Solstheim - an island inhabited by Nords (location: NONE), Gnoll Mountain - a mountain (location: NONE)
+Items: "Dead Drop Orders #6" - a note (amount: 1)
+Enemies: NONE
+Groups: NONE
+Title: The Elder Scrolls IV: Oblivion
+Motivation: NONE
+
+### Response:
+Dead Drop Orders #6 by Lucien Lachance  Alval Uvani is dead, just like all the others. You continue to impress me, Silencer, and I am only too eager to indulge your homicidal instincts. Your next target is a savage Nord barbarian, living alone and exposed at a small campsite on the summit of Gnoll Mountain. This barbarian, Havilstein Hoar-Blood by name, savagely butchered the chieftain of a mead hall on the island of Solstheim. The chieftain's sister has forgone the Nord custom of extracting the monetary retribution of wergild, and instead wants Hoar-Blood to pay with his life. You, dear Silencer, will help put her family at peace. You are to go to Gnoll Mountain, locate Havilstein Hoar-Blood, and send his soul to the great beyond. When Hoar-Blood has been executed, journey to the ancient ruin of Nornal. In the flooded section of that ruin you will find a chest, submerged in the water. As you may have guessed, the chest contains your reward for killing Havilstein Hoar-Blood, 500 gold, and your next contract.
+

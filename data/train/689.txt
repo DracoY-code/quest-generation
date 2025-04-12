@@ -1,15 +1,22 @@
-### Quest Name: Den of Thieves
-### Objective: get rid of the gang of thieves that has thieved around Anvil
-### First Tasks: track down the gang of thieves with Maglir
-### First Task Locations:  - near Anvil
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: Maglir - a fellow new recruit in the Fighters Guild (location: )
-### Tools: the player has caught thieves for Azzan before, the player has met Maglir
-### Description: Greetings! Looking for some more work, are you? Good to see you're working hard. I've got some more thieves for you to deal with in Anvil. There have been a number of thefts in the area, and witnesses believe the thieves are holed up nearby. Check around, and see what you can learn. I'm not sure the numbers you'll be dealing with, so I'm sending you with another new recruit. Maglir. I believe you two have already met. Get moving. You need to get rid of those thieves.
-### Locations: Anvil - a city (location: NONE)
-### Items: NONE
-### Enemies: NONE
-### Groups: Fighters Guild - a mercenary guild
-### Title: The Elder Scrolls IV: Oblivion
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Den of Thieves
+Objective: get rid of the gang of thieves that has thieved around Anvil
+First Tasks: track down the gang of thieves with Maglir
+First Task Locations:  - near Anvil
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: Maglir - a fellow new recruit in the Fighters Guild (location: )
+Tools: the player has caught thieves for Azzan before, the player has met Maglir
+Locations: Anvil - a city (location: NONE)
+Items: NONE
+Enemies: NONE
+Groups: Fighters Guild - a mercenary guild
+Title: The Elder Scrolls IV: Oblivion
+Motivation: NONE
+
+### Response:
+Greetings! Looking for some more work, are you? Good to see you're working hard. I've got some more thieves for you to deal with in Anvil. There have been a number of thefts in the area, and witnesses believe the thieves are holed up nearby. Check around, and see what you can learn. I'm not sure the numbers you'll be dealing with, so I'm sending you with another new recruit. Maglir. I believe you two have already met. Get moving. You need to get rid of those thieves.
+

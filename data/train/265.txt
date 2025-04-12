@@ -1,15 +1,22 @@
-### Quest Name: The Fishing Job
-### Objective: steal an item out of a mark's pocket for the Thieves Guild
-### First Tasks: find the mark
-### First Task Locations: NONE - 
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - the usual pay (amount: 1)
-### Characters: NONE
-### Tools: NONE
-### Description: There are all sorts of people wandering around carryin' their valuables on their person... just waitin' for someone like you to pick their pocket. So, you in for a little fishin'? One of our marks seems to have an item of value we want to add to our vault. Get it for us and you'll receive the usual pay. Sound good?
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: Thieves Guild - a guild of thieves
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: The Fishing Job
+Objective: steal an item out of a mark's pocket for the Thieves Guild
+First Tasks: find the mark
+First Task Locations: NONE - 
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - the usual pay (amount: 1)
+Characters: NONE
+Tools: NONE
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: Thieves Guild - a guild of thieves
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+There are all sorts of people wandering around carryin' their valuables on their person... just waitin' for someone like you to pick their pocket. So, you in for a little fishin'? One of our marks seems to have an item of value we want to add to our vault. Get it for us and you'll receive the usual pay. Sound good?
+

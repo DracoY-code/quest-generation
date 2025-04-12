@@ -1,15 +1,22 @@
-### Quest Name: Rising at Dawn
-### Objective: return to Falion with a filled black soul gem, and he will perform a vampirism cure ritual
-### First Tasks: get a black soul gem, and fill it by killing someone
-### First Task Locations: NONE - 
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - the player's vampirism will be cured (amount: 1)
-### Characters: Agni - a young girl, and Falion's ward (location: )
-### Tools: the player is a vampire, Falion has considered becoming a vampire himself, but that would endanger Agni
-### Description: I know many things. I have studied things beyond the reach of most humans, traveled the other planes, seen things one should not see. I have met gods and long-dead races of people and everything in between and I know enough to see a vampire where others would see a man. I met several of your kind during my studies of life-extending magics. I even considered becoming a vampire myself. In the end, vampirism would endanger my ward Agni which would defeat the intended purpose. It is possible to cure vampirism. I know of a ritual but I've never performed it. It requires a filled black soul gem. You will need to kill someone. When you have a gem and have filled it return to me and I will perform the ritual. I will bring life to your dead body, vampire.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Rising at Dawn
+Objective: return to Falion with a filled black soul gem, and he will perform a vampirism cure ritual
+First Tasks: get a black soul gem, and fill it by killing someone
+First Task Locations: NONE - 
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - the player's vampirism will be cured (amount: 1)
+Characters: Agni - a young girl, and Falion's ward (location: )
+Tools: the player is a vampire, Falion has considered becoming a vampire himself, but that would endanger Agni
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+I know many things. I have studied things beyond the reach of most humans, traveled the other planes, seen things one should not see. I have met gods and long-dead races of people and everything in between and I know enough to see a vampire where others would see a man. I met several of your kind during my studies of life-extending magics. I even considered becoming a vampire myself. In the end, vampirism would endanger my ward Agni which would defeat the intended purpose. It is possible to cure vampirism. I know of a ritual but I've never performed it. It requires a filled black soul gem. You will need to kill someone. When you have a gem and have filled it return to me and I will perform the ritual. I will bring life to your dead body, vampire.
+

@@ -1,15 +1,22 @@
-### Quest Name: Assassin at Large
-### Objective: kill the Khajiit who wants to assassinate Malborn
-### First Tasks: find the Khajiit
-### First Task Locations:  - around the main gate of Windhelm
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: Khajiit - a suspected male Thalmor assassin (location: around the main gate of Windhelm)
-### Tools: the player saved Malborn from the Thalmor in the past, Malborn could not leave Windhelm for Morrowind because of the Khajiit
-### Description: Oh, it's you. I didn't expect to see you again. I'm trying to stay alive. I think time's running out though. I'm pretty sure the Thalmor know where I am. Maybe you can help me. I was trying to get to Morrowind. The Dunmer don't care much for the Thalmor and I figured I'd be safe there. As safe as anywhere, that is. But there's a Khajiit hanging around the main gate. I didn't like the way he was looking at me. I'm sure he's Thalmor. Just waiting for me to leave Windhelm so he can follow me and kill me in a lonely place. You'd be saving my life. Again. I know I probably seemed ungrateful... I've just been so scared. Expecting a knife at my throat any minute.
-### Locations: Windhelm - a city (location: NONE), Morrowind - a land inhabited by the Dunmer (location: NONE)
-### Items: NONE
-### Enemies: NONE
-### Groups: Thalmor - an organization that kills anyone who oppose them, Dunmer - a race of people who do not like the Thalmor
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Assassin at Large
+Objective: kill the Khajiit who wants to assassinate Malborn
+First Tasks: find the Khajiit
+First Task Locations:  - around the main gate of Windhelm
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: Khajiit - a suspected male Thalmor assassin (location: around the main gate of Windhelm)
+Tools: the player saved Malborn from the Thalmor in the past, Malborn could not leave Windhelm for Morrowind because of the Khajiit
+Locations: Windhelm - a city (location: NONE), Morrowind - a land inhabited by the Dunmer (location: NONE)
+Items: NONE
+Enemies: NONE
+Groups: Thalmor - an organization that kills anyone who oppose them, Dunmer - a race of people who do not like the Thalmor
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+
+

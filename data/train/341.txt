@@ -1,15 +1,22 @@
-### Quest Name: Turn on Power for the Glow
-### Objective: Reactivate the power at the Glow facility.
-### First Tasks: Gain access to the Glow (West Tek Research Facility)., Find a functional power terminal., Restore power by activating the main reactor.
-### First Task Locations: The Glow (West Tek Research Facility) - A pre-war research complex heavily irradiated and filled with dangerous obstacles.
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: Experience Points - Earned upon successful power restoration. (amount: 1000), Potential Access to Brotherhood of Steel (Optional) - Can prove your worth to the Brotherhood. (amount: NONE)
-### Characters: NONE
-### Tools: Radiation Protection Gear, Electronic Lockpick (Optional), Science Skill
-### Description: The Glow, once a research center, is now an irradiated ruin. Restoring power could uncover secrets hidden within the facility, but the radiation and security systems pose a significant challenge.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: Fallout
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Turn on Power for the Glow
+Objective: Reactivate the power at the Glow facility.
+First Tasks: Gain access to the Glow (West Tek Research Facility)., Find a functional power terminal., Restore power by activating the main reactor.
+First Task Locations: The Glow (West Tek Research Facility) - A pre-war research complex heavily irradiated and filled with dangerous obstacles.
+Quest Giver: NONE - NONE (location: NONE)
+Reward: Experience Points - Earned upon successful power restoration. (amount: 1000), Potential Access to Brotherhood of Steel (Optional) - Can prove your worth to the Brotherhood. (amount: NONE)
+Characters: NONE
+Tools: Radiation Protection Gear, Electronic Lockpick (Optional), Science Skill
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: Fallout
+Motivation: NONE
+
+### Response:
+The Glow, once a research center, is now an irradiated ruin. Restoring power could uncover secrets hidden within the facility, but the radiation and security systems pose a significant challenge.
+

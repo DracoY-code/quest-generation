@@ -1,15 +1,22 @@
-### Quest Name: Fix the Necropolis Water Pump
-### Objective: Repair the broken water pump in Necropolis to restore the ghouls' water supply.
-### First Tasks: Locate the broken water pump in the Watershed., Find the necessary parts to repair the pump., Repair the pump to restore water flow.
-### First Task Locations: Watershed, Necropolis - An underground facility containing the water pump, currently in disrepair.
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: Caps - Payment for successfully fixing the water pump. (amount: 500), Experience Points - Earned for repairing the pump and helping the ghouls. (amount: 1000), Ghoul Favor - Increased standing with the ghouls of Necropolis. (amount: 1)
-### Characters: NONE
-### Tools: Repair skill, Tool kit, Spare pump parts
-### Description: The water pump in Necropolis has broken down, cutting off the ghouls' water supply. The player must find a way to repair it to ensure the survival of the Necropolis inhabitants.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: Fallout
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Fix the Necropolis Water Pump
+Objective: Repair the broken water pump in Necropolis to restore the ghouls' water supply.
+First Tasks: Locate the broken water pump in the Watershed., Find the necessary parts to repair the pump., Repair the pump to restore water flow.
+First Task Locations: Watershed, Necropolis - An underground facility containing the water pump, currently in disrepair.
+Quest Giver: NONE - NONE (location: NONE)
+Reward: Caps - Payment for successfully fixing the water pump. (amount: 500), Experience Points - Earned for repairing the pump and helping the ghouls. (amount: 1000), Ghoul Favor - Increased standing with the ghouls of Necropolis. (amount: 1)
+Characters: NONE
+Tools: Repair skill, Tool kit, Spare pump parts
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: Fallout
+Motivation: NONE
+
+### Response:
+The water pump in Necropolis has broken down, cutting off the ghouls' water supply. The player must find a way to repair it to ensure the survival of the Necropolis inhabitants.
+

@@ -1,15 +1,22 @@
-### Quest Name: Help Bess the Brahmin
-### Objective: Heal the injured brahmin named Bess and decide her fate.
-### First Tasks: Find Bess, the injured brahmin., Use a Doctor or First Aid skill to heal her wounds., Decide whether to let her go or sell her to Grisham.
-### First Task Locations: Modoc - A small farming town where Bess is found injured.
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: Improved karma - Healing Bess without selling her to Grisham earns good karma. (amount: NONE), Caps - Selling Bess to Grisham provides monetary compensation. (amount: 100)
-### Characters: NONE
-### Tools: Doctor skill or First Aid skill to treat Bess., Optionally, Speech skill to negotiate with Grisham.
-### Description: Bess, an injured brahmin near Modoc, requires medical assistance. You can heal her and set her free for karma or sell her to Grisham for a profit.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: Fallout 2
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Help Bess the Brahmin
+Objective: Heal the injured brahmin named Bess and decide her fate.
+First Tasks: Find Bess, the injured brahmin., Use a Doctor or First Aid skill to heal her wounds., Decide whether to let her go or sell her to Grisham.
+First Task Locations: Modoc - A small farming town where Bess is found injured.
+Quest Giver: NONE - NONE (location: NONE)
+Reward: Improved karma - Healing Bess without selling her to Grisham earns good karma. (amount: NONE), Caps - Selling Bess to Grisham provides monetary compensation. (amount: 100)
+Characters: NONE
+Tools: Doctor skill or First Aid skill to treat Bess., Optionally, Speech skill to negotiate with Grisham.
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: Fallout 2
+Motivation: NONE
+
+### Response:
+Bess, an injured brahmin near Modoc, requires medical assistance. You can heal her and set her free for karma or sell her to Grisham for a profit.
+

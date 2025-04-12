@@ -1,15 +1,22 @@
-### Quest Name: Innocence Lost
-### Objective: do an assassination contract for Aventus Aretino
-### First Tasks: kill Grelod the Kind, the evil, cruel woman who works as the headmistress
-### First Task Locations: Honorhall Orphanage - an orphanage in Riften
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - Aventus Aretino's valuable family heirloom (amount: 1)
-### Characters: Grelod the Kind - an evil, cruel woman, and the headmistress of Honorhall Orphanage (location: Honorhall Orphanage)
-### Tools: Aventus Aretino did the Black Sacrament: he thinks that the player is an assassin from the Dark Brotherhood, Aventus Aretino was sent to Honorhall Orphanage after his mother died: he ran away back to Aretino Residence
-### Description: I did the Black Sacrament, over and over. And then you came! An assassin from the Dark Brotherhood! It took so long. So very long. But now that you're here, you can accept my contract. My mother, she... she died. I... I'm all alone now. So they sent me to that terrible orphanage in Riften. Honorhall. The headmistress is an evil, cruel woman. They call her Grelod the Kind. But she's not kind. She's terrible. To all of us. So I ran away, and came home. And performed the Black Sacrament. And you can kill Grelod the Kind! I have a family heirloom you can have. Supposed to be sort of valuable. I hope that's all right.
-### Locations: Aretino Residence - Aventus Aretino's home (location: NONE), Riften - a city (location: NONE)
-### Items: Black Sacrament - a dark ritual used to employ the services of the Dark Brotherhood (amount: 1)
-### Enemies: NONE
-### Groups: Dark Brotherhood - a guild of assassins
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Innocence Lost
+Objective: do an assassination contract for Aventus Aretino
+First Tasks: kill Grelod the Kind, the evil, cruel woman who works as the headmistress
+First Task Locations: Honorhall Orphanage - an orphanage in Riften
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - Aventus Aretino's valuable family heirloom (amount: 1)
+Characters: Grelod the Kind - an evil, cruel woman, and the headmistress of Honorhall Orphanage (location: Honorhall Orphanage)
+Tools: Aventus Aretino did the Black Sacrament: he thinks that the player is an assassin from the Dark Brotherhood, Aventus Aretino was sent to Honorhall Orphanage after his mother died: he ran away back to Aretino Residence
+Locations: Aretino Residence - Aventus Aretino's home (location: NONE), Riften - a city (location: NONE)
+Items: Black Sacrament - a dark ritual used to employ the services of the Dark Brotherhood (amount: 1)
+Enemies: NONE
+Groups: Dark Brotherhood - a guild of assassins
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+I did the Black Sacrament, over and over. And then you came! An assassin from the Dark Brotherhood! It took so long. So very long. But now that you're here, you can accept my contract. My mother, she... she died. I... I'm all alone now. So they sent me to that terrible orphanage in Riften. Honorhall. The headmistress is an evil, cruel woman. They call her Grelod the Kind. But she's not kind. She's terrible. To all of us. So I ran away, and came home. And performed the Black Sacrament. And you can kill Grelod the Kind! I have a family heirloom you can have. Supposed to be sort of valuable. I hope that's all right.
+

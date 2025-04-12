@@ -1,15 +1,22 @@
-### Quest Name: Fix the Mine's Air Purifier
-### Objective: Repair the air purifier in Redding’s mine to ensure safe working conditions for the miners.
-### First Tasks: Speak to Marge LeBarge about the malfunctioning air purifier., Obtain the necessary parts to fix the purifier., Locate the air purifier within the mine., Repair the purifier to restore clean airflow.
-### First Task Locations: Redding - A mining town where workers rely on the air purifier for safe working conditions., Redding Mine - The site of the malfunctioning air purifier, filled with miners and possible threats.
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: Experience Points - Earned for successfully repairing the air purifier. (amount: 1500), Caps - A monetary reward from Marge LeBarge for fixing the purifier. (amount: 500)
-### Characters: NONE
-### Tools: Repair Skill, Replacement Parts
-### Description: The air purifier in Redding’s mine has broken down, posing a serious health risk to the miners. Marge LeBarge has asked you to find the necessary parts and repair it to ensure their safety.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: Fallout 2
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Fix the Mine's Air Purifier
+Objective: Repair the air purifier in Redding’s mine to ensure safe working conditions for the miners.
+First Tasks: Speak to Marge LeBarge about the malfunctioning air purifier., Obtain the necessary parts to fix the purifier., Locate the air purifier within the mine., Repair the purifier to restore clean airflow.
+First Task Locations: Redding - A mining town where workers rely on the air purifier for safe working conditions., Redding Mine - The site of the malfunctioning air purifier, filled with miners and possible threats.
+Quest Giver: NONE - NONE (location: NONE)
+Reward: Experience Points - Earned for successfully repairing the air purifier. (amount: 1500), Caps - A monetary reward from Marge LeBarge for fixing the purifier. (amount: 500)
+Characters: NONE
+Tools: Repair Skill, Replacement Parts
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: Fallout 2
+Motivation: NONE
+
+### Response:
+
+

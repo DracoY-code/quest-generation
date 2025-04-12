@@ -1,15 +1,22 @@
-### Quest Name: Find Some Endorphin Blockers to Make a Cure for Jet
-### Objective: Retrieve endorphin blockers to help create a cure for Jet addiction.
-### First Tasks: Talk to Myron in New Reno to learn about the cure., Locate a source of endorphin blockers., Deliver the blockers to the appropriate researcher.
-### First Task Locations: New Reno - Speak with Myron, the creator of Jet, to learn about the potential cure., Vault City or Another Medical Facility - Find a source of endorphin blockers needed for the cure.
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: Cash Reward - Earn $1000 for retrieving the blockers. (amount: NONE), Reputation Boost - Gaining favor in Vault City or another settlement affected by Jet addiction. (amount: NONE), Potential Access to More Information on Jet - Uncover additional details about the drug's origins and effects. (amount: NONE)
-### Characters: NONE
-### Tools: Speech to persuade people to provide the blockers., Doctor skill to understand the effects and potential sources., Stealth if acquiring the blockers through non-conventional means.
-### Description: Jet addiction has become a major issue, and you have the opportunity to help create a cure by locating endorphin blockers.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: Fallout 2
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Find Some Endorphin Blockers to Make a Cure for Jet
+Objective: Retrieve endorphin blockers to help create a cure for Jet addiction.
+First Tasks: Talk to Myron in New Reno to learn about the cure., Locate a source of endorphin blockers., Deliver the blockers to the appropriate researcher.
+First Task Locations: New Reno - Speak with Myron, the creator of Jet, to learn about the potential cure., Vault City or Another Medical Facility - Find a source of endorphin blockers needed for the cure.
+Quest Giver: NONE - NONE (location: NONE)
+Reward: Cash Reward - Earn $1000 for retrieving the blockers. (amount: NONE), Reputation Boost - Gaining favor in Vault City or another settlement affected by Jet addiction. (amount: NONE), Potential Access to More Information on Jet - Uncover additional details about the drug's origins and effects. (amount: NONE)
+Characters: NONE
+Tools: Speech to persuade people to provide the blockers., Doctor skill to understand the effects and potential sources., Stealth if acquiring the blockers through non-conventional means.
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: Fallout 2
+Motivation: NONE
+
+### Response:
+Jet addiction has become a major issue, and you have the opportunity to help create a cure by locating endorphin blockers.
+

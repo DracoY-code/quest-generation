@@ -1,15 +1,22 @@
-### Quest Name: Trinity Restored
-### Objective: transact the oath with Nocturnal and become one of the Nightingales
-### First Tasks: undergo the ceremony to become a Nightingale
-### First Task Locations: NONE - 
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - all of the power and knowledge befitting a Nightingale (amount: 1)
-### Characters: Nocturnal - the goddess of thieves (location: )
-### Tools: the binding terms of the oath with Nocturnal: the player will be required to defend the Twilight Sepulcher and everything within when the need arises, and upon the player's death, the player's spirit will be bound to the Twilight Sepulcher as one of its guardians
-### Description: Are you ready to transact the Oath with Nocturnal? By transacting the Oath with Nocturnal, you're entering into a business deal. You'll be provided all of the power and knowledge befitting a Nightingale. You're free to use those powers as you see fit to further your own goals or the goals of the Thieves Guild. In return, you'll be required to defend the Twilight Sepulcher and everything within when the need arises. More importantly, upon your death, your spirit will be bound to the Twilight Sepulcher as one of its guardians. Once the Oath has been struck, the terms are binding. Knowing this, are you ready to undergo the ceremony?
-### Locations: Twilight Sepulcher - temple of Nocturnal (location: NONE)
-### Items: NONE
-### Enemies: NONE
-### Groups: Thieves Guild - a guild of thieves, Nightingales - a trio of highly skilled thieves dedicated to the service of Nocturnal
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Trinity Restored
+Objective: transact the oath with Nocturnal and become one of the Nightingales
+First Tasks: undergo the ceremony to become a Nightingale
+First Task Locations: NONE - 
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - all of the power and knowledge befitting a Nightingale (amount: 1)
+Characters: Nocturnal - the goddess of thieves (location: )
+Tools: the binding terms of the oath with Nocturnal: the player will be required to defend the Twilight Sepulcher and everything within when the need arises, and upon the player's death, the player's spirit will be bound to the Twilight Sepulcher as one of its guardians
+Locations: Twilight Sepulcher - temple of Nocturnal (location: NONE)
+Items: NONE
+Enemies: NONE
+Groups: Thieves Guild - a guild of thieves, Nightingales - a trio of highly skilled thieves dedicated to the service of Nocturnal
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+Are you ready to transact the Oath with Nocturnal? By transacting the Oath with Nocturnal, you're entering into a business deal. You'll be provided all of the power and knowledge befitting a Nightingale. You're free to use those powers as you see fit to further your own goals or the goals of the Thieves Guild. In return, you'll be required to defend the Twilight Sepulcher and everything within when the need arises. More importantly, upon your death, your spirit will be bound to the Twilight Sepulcher as one of its guardians. Once the Oath has been struck, the terms are binding. Knowing this, are you ready to undergo the ceremony?
+

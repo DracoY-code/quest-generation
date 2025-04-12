@@ -1,15 +1,22 @@
-### Quest Name: Conjuration Training
-### Objective: prove Olyn Seran that you are worthy of his teachings
-### First Tasks: summon a Faded Wraith right here, before Olyn Seran
-### First Task Locations:  - a shrine to Molag Bal
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - Conjuration training from Olyn Seran (amount: 1)
-### Characters: Faded Wraith - a ghostly creature (location: ), Molag Bal - the prince of domination, one of the Daedric Princes (location: )
-### Tools: the player asked Olyn Seran to train them  in Conjuration
-### Description: You would seek Conjuration training from me? Well, then my request is small. Prove to me that you are capable of serving Molag Bal in your own way. Summon a Faded Wraith right here, before me. When I have seen it with my own eyes, you shall be worthy of my teachings.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: Daedric Princes - immortal, fickle, infamous divine beings
-### Title: The Elder Scrolls IV: Oblivion
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Conjuration Training
+Objective: prove Olyn Seran that you are worthy of his teachings
+First Tasks: summon a Faded Wraith right here, before Olyn Seran
+First Task Locations:  - a shrine to Molag Bal
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - Conjuration training from Olyn Seran (amount: 1)
+Characters: Faded Wraith - a ghostly creature (location: ), Molag Bal - the prince of domination, one of the Daedric Princes (location: )
+Tools: the player asked Olyn Seran to train them  in Conjuration
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: Daedric Princes - immortal, fickle, infamous divine beings
+Title: The Elder Scrolls IV: Oblivion
+Motivation: NONE
+
+### Response:
+You would seek Conjuration training from me? Well, then my request is small. Prove to me that you are capable of serving Molag Bal in your own way. Summon a Faded Wraith right here, before me. When I have seen it with my own eyes, you shall be worthy of my teachings.
+

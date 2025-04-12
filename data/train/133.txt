@@ -1,15 +1,22 @@
-### Quest Name: Revealing the Unseen
-### Objective: learn the location of the Staff of Magnus
-### First Tasks: find the members of the Synod
-### First Task Locations: Mzulft - a ruin in Skyrim
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: NONE
-### Tools: the Synod seemed convinced the Staff of Magnus was somewhere in Skyrim: the Synod will not be cooperative
-### Description: The Synod seemed convinced the Staff of Magnus was somewhere in Skyrim. They inquired about the ruins of Mzulft, but that's all I remember. It sounded like they were heading there, though they were rather secretive about why. I suppose if you're intent on looking for the staff, there's a chance they might be in Mzulft yet. Just don't expect them to be cooperative.
-### Locations: Skyrim - a realm (location: NONE)
-### Items: Staff of Magnus - a legendary mage's staff (amount: 1)
-### Enemies: NONE
-### Groups: Synod - an authoritative organization of mages
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Revealing the Unseen
+Objective: learn the location of the Staff of Magnus
+First Tasks: find the members of the Synod
+First Task Locations: Mzulft - a ruin in Skyrim
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: NONE
+Tools: the Synod seemed convinced the Staff of Magnus was somewhere in Skyrim: the Synod will not be cooperative
+Locations: Skyrim - a realm (location: NONE)
+Items: Staff of Magnus - a legendary mage's staff (amount: 1)
+Enemies: NONE
+Groups: Synod - an authoritative organization of mages
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+The Synod seemed convinced the Staff of Magnus was somewhere in Skyrim. They inquired about the ruins of Mzulft, but that's all I remember. It sounded like they were heading there, though they were rather secretive about why. I suppose if you're intent on looking for the staff, there's a chance they might be in Mzulft yet. Just don't expect them to be cooperative.
+

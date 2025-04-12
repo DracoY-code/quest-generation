@@ -1,15 +1,22 @@
-### Quest Name: Alchemy Training
-### Objective: bring a bottle of each of the best wines from Skingrad to Sinderion
-### First Tasks: find a bottle of Tamika's, and Surilie Brothers vintages of year 399
-### First Task Locations: NONE - 
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - alchemy training from Sinderion (amount: 1)
-### Characters: NONE
-### Tools: the player asked Sinderion to train them
-### Description: Training? Oh, I'm afraid that's not my area of expertise. I'm very focused on wines right now, you see. Wonderful thing, wine. It's all about the balance. The flavor, the bouquet, the consistency... just wonderful. I'm sorry, what? Training... right. I'll make you a deal: you fetch me a bottle of each of the best wines from Skingrad, and I'll think about it. Both vineyards, Tamika's and Surilie Brothers. Vintage 399. Oh, what a good year that was...
-### Locations: Tamika's - a vineyard in Skingrad (location: NONE), Surilie Brothers - a vineyard in Skingrad (location: NONE), Skingrad - a city (location: NONE)
-### Items: 399 - a great vintage (amount: 1)
-### Enemies: NONE
-### Groups: NONE
-### Title: The Elder Scrolls IV: Oblivion
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Alchemy Training
+Objective: bring a bottle of each of the best wines from Skingrad to Sinderion
+First Tasks: find a bottle of Tamika's, and Surilie Brothers vintages of year 399
+First Task Locations: NONE - 
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - alchemy training from Sinderion (amount: 1)
+Characters: NONE
+Tools: the player asked Sinderion to train them
+Locations: Tamika's - a vineyard in Skingrad (location: NONE), Surilie Brothers - a vineyard in Skingrad (location: NONE), Skingrad - a city (location: NONE)
+Items: 399 - a great vintage (amount: 1)
+Enemies: NONE
+Groups: NONE
+Title: The Elder Scrolls IV: Oblivion
+Motivation: NONE
+
+### Response:
+
+

@@ -1,15 +1,22 @@
-### Quest Name: Honor Thy Mother
-### Objective: perform an ancient ritual to wake the Night Mother from her slumber, and seek her guidance
-### First Tasks: ask about the Night Mother from Arquen between 12.00 PM and 3:00 AM, go to the Night Mother's home with Arquen
-### First Task Locations: Applewatch - a farm, Bravil - a city
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: Lucien Lachance - a male Speaker of the Black Hand, who betrayed the Dark Brotherhood for some reason (location: Applewatch), Night Mother - an immortal female spirit who is revered and worshiped by the Dark Brotherhood (location: Bravil)
-### Tools: the player is a Silencer of the Dark Brotherhood, as the player can see, the Black Hand have dealt with Lucien Lachance, Lucien Lachance tricked the player to kill the Black Hand off: the player killed the Listener and the Listener's successor, Arquen promotes the player to Speaker from Silencer: the player becomes a member of the Black Hand, there are only five members of the Black Hand, including the player
-### Description: Silencer! At last you've arrived! Fear not, for the crisis that has threatened the Dark Brotherhood has finally come to an end. I am Arquen, Speaker for the Black Hand. As you can see, we have dealt with the betrayer, Lucien Lachance! No longer will you serve as his puppet! It seems Lachance wanted revenge against the Dark Brotherhood for some reason, and used you to do his dirty work. But now, we can begin anew! I bestow upon you the title of Speaker. You will take Lucien Lachance's place on the Black Hand! Welcome! As you know, the Black Hand is now in a state of disarray. Lachance ordered you to kill us off! We five, including you, are now all that remain. Even worse, you killed the Listener! The Black Hand without a Listener is like a hand with no thumb. Even the Listener's successor is dead! So, we have no choice but to invoke an ancient ritual. We must wake the Night Mother from her slumber, and seek her guidance! Between the hours of midnight and 3:00 AM, ask me about the Night Mother, and we will away to our Lady's home in Bravil. Only then will the ritual begin. May the Night Mother hold you in her cold embrace.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: Dark Brotherhood - a guild of assassins, Black Hand - the governing body of the Dark Brotherhood
-### Title: The Elder Scrolls IV: Oblivion
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Honor Thy Mother
+Objective: perform an ancient ritual to wake the Night Mother from her slumber, and seek her guidance
+First Tasks: ask about the Night Mother from Arquen between 12.00 PM and 3:00 AM, go to the Night Mother's home with Arquen
+First Task Locations: Applewatch - a farm, Bravil - a city
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: Lucien Lachance - a male Speaker of the Black Hand, who betrayed the Dark Brotherhood for some reason (location: Applewatch), Night Mother - an immortal female spirit who is revered and worshiped by the Dark Brotherhood (location: Bravil)
+Tools: the player is a Silencer of the Dark Brotherhood, as the player can see, the Black Hand have dealt with Lucien Lachance, Lucien Lachance tricked the player to kill the Black Hand off: the player killed the Listener and the Listener's successor, Arquen promotes the player to Speaker from Silencer: the player becomes a member of the Black Hand, there are only five members of the Black Hand, including the player
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: Dark Brotherhood - a guild of assassins, Black Hand - the governing body of the Dark Brotherhood
+Title: The Elder Scrolls IV: Oblivion
+Motivation: NONE
+
+### Response:
+Silencer! At last you've arrived! Fear not, for the crisis that has threatened the Dark Brotherhood has finally come to an end. I am Arquen, Speaker for the Black Hand. As you can see, we have dealt with the betrayer, Lucien Lachance! No longer will you serve as his puppet! It seems Lachance wanted revenge against the Dark Brotherhood for some reason, and used you to do his dirty work. But now, we can begin anew! I bestow upon you the title of Speaker. You will take Lucien Lachance's place on the Black Hand! Welcome! As you know, the Black Hand is now in a state of disarray. Lachance ordered you to kill us off! We five, including you, are now all that remain. Even worse, you killed the Listener! The Black Hand without a Listener is like a hand with no thumb. Even the Listener's successor is dead! So, we have no choice but to invoke an ancient ritual. We must wake the Night Mother from her slumber, and seek her guidance! Between the hours of midnight and 3:00 AM, ask me about the Night Mother, and we will away to our Lady's home in Bravil. Only then will the ritual begin. May the Night Mother hold you in her cold embrace.
+

@@ -1,15 +1,22 @@
-### Quest Name: Locate the Assassin of Old
-### Objective: go on an adventure
-### First Tasks: find the final resting place of the assassin of old
-### First Task Locations: Hag's End - a ruin far to the northeast of Deepwood Redoubt
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - the earthly possessions of the assassin of old (amount: 1)
-### Characters: NONE
-### Tools: the player came to Olava the Feeble for a reading
-### Description: Come to Olava for a reading, did you? Hmph. Yes. Yes, I surely can give you a reading. It's not something I do lightly, mind you, and it's not as specific as you might want. But yes. I will do this for you. Please, relax. Free your mind. Yes, that's it... A potential for adventure, and wealth. It is a ruin, ripe for the plunder. Deepwood Redoubt. Far to the northwest... Through there is... Hag's End. The last resting place of an assassin of old. A dark brother, who bequeaths his ancient earthly possessions... to you. No... no, that is all. Now... now please. I find myself very weary all of sudden.
-### Locations: Deepwood Redoubt - a camp (location: NONE)
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Locate the Assassin of Old
+Objective: go on an adventure
+First Tasks: find the final resting place of the assassin of old
+First Task Locations: Hag's End - a ruin far to the northeast of Deepwood Redoubt
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - the earthly possessions of the assassin of old (amount: 1)
+Characters: NONE
+Tools: the player came to Olava the Feeble for a reading
+Locations: Deepwood Redoubt - a camp (location: NONE)
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+Come to Olava for a reading, did you? Hmph. Yes. Yes, I surely can give you a reading. It's not something I do lightly, mind you, and it's not as specific as you might want. But yes. I will do this for you. Please, relax. Free your mind. Yes, that's it... A potential for adventure, and wealth. It is a ruin, ripe for the plunder. Deepwood Redoubt. Far to the northwest... Through there is... Hag's End. The last resting place of an assassin of old. A dark brother, who bequeaths his ancient earthly possessions... to you. No... no, that is all. Now... now please. I find myself very weary all of sudden.
+

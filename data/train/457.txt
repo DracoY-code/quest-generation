@@ -1,15 +1,22 @@
-### Quest Name: The Killing Field
-### Objective: reclaim the Odiil Farm from the creatures of the Great Forest with Rallus and Antus
-### First Tasks: meet up with Rallus and Antus
-### First Task Locations: Weynon Priory - a monastery
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: Rallus, Antus - Valus Odiil's two sons (location: Weynon Priory)
-### Tools: Rallus may know more about the creatures that attacked the Odiil Farm
-### Description: My sons! Have you seen my sons Rallus and Antus? They're going to fight off the creatures at our farm, but I fear for their safety. For the last few days, we've suffered attacks from these creatures at our farm not far from Chorrol. They're coming from someplace in the Great Forest. I don't know where, but Rallus may know more by now. My boys will take up the fight even if the guards won't. Doesn't matter if it's outside the town walls - it still affects us all. They expect me to go with them, but... I fear in my old age, I'm not the warrior I once was. Would you... would you go in my place? I'm supposed to meet them at Weynon Priory. You'd best get whatever supplies you need now, so you can get there in time. I... I need a drink to calm my nerves. Please, excuse me.
-### Locations: Odiil Farm - Valus Odiil, Rallus and Antus' farm, not far from Chorrol (location: NONE), Chorrol - a town (location: NONE)
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: The Elder Scrolls IV: Oblivion
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: The Killing Field
+Objective: reclaim the Odiil Farm from the creatures of the Great Forest with Rallus and Antus
+First Tasks: meet up with Rallus and Antus
+First Task Locations: Weynon Priory - a monastery
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: Rallus, Antus - Valus Odiil's two sons (location: Weynon Priory)
+Tools: Rallus may know more about the creatures that attacked the Odiil Farm
+Locations: Odiil Farm - Valus Odiil, Rallus and Antus' farm, not far from Chorrol (location: NONE), Chorrol - a town (location: NONE)
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: The Elder Scrolls IV: Oblivion
+Motivation: NONE
+
+### Response:
+My sons! Have you seen my sons Rallus and Antus? They're going to fight off the creatures at our farm, but I fear for their safety. For the last few days, we've suffered attacks from these creatures at our farm not far from Chorrol. They're coming from someplace in the Great Forest. I don't know where, but Rallus may know more by now. My boys will take up the fight even if the guards won't. Doesn't matter if it's outside the town walls - it still affects us all. They expect me to go with them, but... I fear in my old age, I'm not the warrior I once was. Would you... would you go in my place? I'm supposed to meet them at Weynon Priory. You'd best get whatever supplies you need now, so you can get there in time. I... I need a drink to calm my nerves. Please, excuse me.
+

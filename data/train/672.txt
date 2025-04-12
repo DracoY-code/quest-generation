@@ -1,15 +1,22 @@
-### Quest Name: Buying a house in Chorrol
-### Objective: purchase Arborwatch
-### First Tasks: give 20,000 gold to Countess Valga
-### First Task Locations: Chorrol - a city
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: Arborwatch - a gorgeous house in Chorrol, on the main plaza (amount: 1)
-### Characters: Seed-Neeus - a female merchant (location: Northern Goods and Trade)
-### Tools: the last tenant of Arborwatch has cleaned the place of furniture, Seed-Neeus should have furniture for sale
-### Description: It is a pleasure to meet you. I am Countess Valga of Chorrol. Are you looking for a house to buy? There is a positively gorgeous home for sale right on the main plaza. You'll be hard pressed to find a nicer home for sale in Chorrol. The house is called Arborwatch, and it costs 20,000 gold to buy the house from me. It would be a pleasure to have you become a citizen of Chorrol. The last tenant of Arborwatch has cleaned the place of furniture. I'd recommend stopping by Northern Goods and Trade. The owner, Seed-Neeus, should have everything you need.
-### Locations: Northern Goods and Trade - Seed-Neeus's store (location: NONE)
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: The Elder Scrolls IV: Oblivion
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Buying a house in Chorrol
+Objective: purchase Arborwatch
+First Tasks: give 20,000 gold to Countess Valga
+First Task Locations: Chorrol - a city
+Quest Giver: NONE - NONE (location: NONE)
+Reward: Arborwatch - a gorgeous house in Chorrol, on the main plaza (amount: 1)
+Characters: Seed-Neeus - a female merchant (location: Northern Goods and Trade)
+Tools: the last tenant of Arborwatch has cleaned the place of furniture, Seed-Neeus should have furniture for sale
+Locations: Northern Goods and Trade - Seed-Neeus's store (location: NONE)
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: The Elder Scrolls IV: Oblivion
+Motivation: NONE
+
+### Response:
+It is a pleasure to meet you. I am Countess Valga of Chorrol. Are you looking for a house to buy? There is a positively gorgeous home for sale right on the main plaza. You'll be hard pressed to find a nicer home for sale in Chorrol. The house is called Arborwatch, and it costs 20,000 gold to buy the house from me. It would be a pleasure to have you become a citizen of Chorrol. The last tenant of Arborwatch has cleaned the place of furniture. I'd recommend stopping by Northern Goods and Trade. The owner, Seed-Neeus, should have everything you need.
+

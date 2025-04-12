@@ -1,15 +1,22 @@
-### Quest Name: First Lessons
-### Objective: join the College of Winterhold
-### First Tasks: cast Mage Light on the seal on the ground
-### First Task Locations: NONE - 
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - membership of the College of Winterhold (amount: 1)
-### Characters: NONE
-### Tools: NONE
-### Description: It would seem that the College has what you seek. The question now is what you can offer the College. Not just anyone is allowed inside. Those wishing to enter must show some degree of skill with magic. A small test, if you will. The Mage Light spell is useful to any mage, not just those specializing in Alteration. Can you cast one on the seal on the ground?
-### Locations: College of Winterhold - a college for mages (location: NONE)
-### Items: Mage Light - a useful alteration spell (amount: 1)
-### Enemies: NONE
-### Groups: NONE
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: First Lessons
+Objective: join the College of Winterhold
+First Tasks: cast Mage Light on the seal on the ground
+First Task Locations: NONE - 
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - membership of the College of Winterhold (amount: 1)
+Characters: NONE
+Tools: NONE
+Locations: College of Winterhold - a college for mages (location: NONE)
+Items: Mage Light - a useful alteration spell (amount: 1)
+Enemies: NONE
+Groups: NONE
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+
+

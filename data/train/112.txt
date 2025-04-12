@@ -1,15 +1,22 @@
-### Quest Name: A Forged Path
-### Objective: deliver false orders to the Stormcloak commander in Dawnstar
-### First Tasks: convince an innkeeper to help you get some real Stormcloak orders
-### First Task Locations: Nightgate or Candlehearth - inns, frequent stops for Stormcloak runners
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: NONE
-### Tools: NONE
-### Description: I need you to deliver some false orders to the Stormcloak commander in Dawnstar. But first we need to get our hands on some rebel orders to make the forgeries. The Nightgate and Candlehearth inns are frequent stops for Stormcloak runners. See if you can't "convince" one of those innkeepers to help you. One way or another, get me those documents. Show the rebels the futility of their cause.
-### Locations: Dawnstar - a town (location: NONE)
-### Items: NONE
-### Enemies: NONE
-### Groups: Stormcloaks - rebel forces opposing the Empire
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: A Forged Path
+Objective: deliver false orders to the Stormcloak commander in Dawnstar
+First Tasks: convince an innkeeper to help you get some real Stormcloak orders
+First Task Locations: Nightgate or Candlehearth - inns, frequent stops for Stormcloak runners
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: NONE
+Tools: NONE
+Locations: Dawnstar - a town (location: NONE)
+Items: NONE
+Enemies: NONE
+Groups: Stormcloaks - rebel forces opposing the Empire
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+I need you to deliver some false orders to the Stormcloak commander in Dawnstar. But first we need to get our hands on some rebel orders to make the forgeries. The Nightgate and Candlehearth inns are frequent stops for Stormcloak runners. See if you can't "convince" one of those innkeepers to help you. One way or another, get me those documents. Show the rebels the futility of their cause.
+

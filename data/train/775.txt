@@ -1,15 +1,22 @@
-### Quest Name: The Raid
-### Objective: help Laila Law-Giver to uncover and stop the illegal Skooma trade in Riften
-### First Tasks: convince Sarthis close down his Skooma operation permanently
-### First Task Locations:  - the warehouse within Riften
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: Sarthis - a male Skooma dealer (location: the warehouse within Riften)
-### Tools: Laila Law-Giver gives the player the key to the warehouse
-### Description: We're aware of a Skooma dealer's presence in the warehouse within this city. Unfortunately, we're certain this Skooma dealer, Sarthis, has informants within the city guard. Every time we've made a move to arrest him, he's escaped. However, if you'd take care of this discreetly, you might be able to surprise him without warning. Here, this is the key to the warehouse. See if you can drop in on this dealer of poison and convince him to close down his operation permanently.
-### Locations: Riften - a city (location: NONE)
-### Items: Skooma - an illegal drug (amount: 1)
-### Enemies: NONE
-### Groups: NONE
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: The Raid
+Objective: help Laila Law-Giver to uncover and stop the illegal Skooma trade in Riften
+First Tasks: convince Sarthis close down his Skooma operation permanently
+First Task Locations:  - the warehouse within Riften
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: Sarthis - a male Skooma dealer (location: the warehouse within Riften)
+Tools: Laila Law-Giver gives the player the key to the warehouse
+Locations: Riften - a city (location: NONE)
+Items: Skooma - an illegal drug (amount: 1)
+Enemies: NONE
+Groups: NONE
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+We're aware of a Skooma dealer's presence in the warehouse within this city. Unfortunately, we're certain this Skooma dealer, Sarthis, has informants within the city guard. Every time we've made a move to arrest him, he's escaped. However, if you'd take care of this discreetly, you might be able to surprise him without warning. Here, this is the key to the warehouse. See if you can drop in on this dealer of poison and convince him to close down his operation permanently.
+

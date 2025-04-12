@@ -1,15 +1,22 @@
-### Quest Name: Artifice of Evil
-### Objective: save the Guardian of Mana, and Zeryphesh
-### First Tasks: find the Guardian of Mana
-### First Task Locations: Vaults Forsaken - a foul dungeon filled with Ezrohir
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: Guardian of Mana - a good female spirit (location: Vaults Forsaken)
-### Tools: the Ezrohir captured the Guardian of Mana again: they stripped away her magic and enslaved her
-### Description: The Ezrohir prepare today for war Their legions number in the score. Their Alchemy and Artifice suffice To capture Mana... not once but twice. Imprisoned in the Vaults Forsaken: Subdued, enslaved, her magic taken. Forced to lead their troops in battle From Guardian... to so much chattel. The Ezrohir have Mana enslaved But there's still hope; she might yet be saved. The enemy lie in this foul creche. Save the Guardian... save Zeryphesh.
-### Locations: Zeryphesh - a city-state (location: NONE)
-### Items: NONE
-### Enemies: NONE
-### Groups: Ezrohir - a race of people who are at war with Zeryphesh
-### Title: Torchlight II
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Artifice of Evil
+Objective: save the Guardian of Mana, and Zeryphesh
+First Tasks: find the Guardian of Mana
+First Task Locations: Vaults Forsaken - a foul dungeon filled with Ezrohir
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: Guardian of Mana - a good female spirit (location: Vaults Forsaken)
+Tools: the Ezrohir captured the Guardian of Mana again: they stripped away her magic and enslaved her
+Locations: Zeryphesh - a city-state (location: NONE)
+Items: NONE
+Enemies: NONE
+Groups: Ezrohir - a race of people who are at war with Zeryphesh
+Title: Torchlight II
+Motivation: NONE
+
+### Response:
+
+

@@ -1,15 +1,22 @@
-### Quest Name: Diplomatic Immunity
-### Objective: infiltrate the party at the Thalmor Embassy, and find Elenwen's secret files
-### First Tasks: talk to Malborn, meet Delphine
-### First Task Locations: The Winking Skeever - an inn in Solitude,  - Solitude stables
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: Elenwen - the female Thalmor ambassador (location: Thalmor Embassy), Malborn - a male wood elf who is Delphine's trusty contact inside the Thalmor Embassy (location: The Winking Skeever)
-### Tools: Elenwen regularly throws parties: while the player is talking with Malborn, Delphine gets the player an invitation to one of Elenwen's parties
-### Description: The Thalmor ambassador, Elenwen, regularly throws parties where the rich and connected cozy up to the Thalmor. I can get you into one of those parties. Once you're inside the Embassy, you get away and find Elenwen's secret files. I have a contact inside the Embassy. He's not up for this kind of high-risk mission, but he can help you. His name's Malborn. Wood elf, plenty of reason to hate the Thalmor. You can trust him. I'll get word for him to meet you in Solitude, at the Winking Skeever -- you know it? While you're doing that, I'll work on getting you an invitation to Elenwen's little party. Meet me at the Solitude stables after you've arranged things with Malborn.
-### Locations:  - Thalmor Embassy, the embassy of the Thalmor (location: NONE), Solitude - a city (location: NONE)
-### Items: NONE
-### Enemies: NONE
-### Groups: Blades - an intelligence organization, Thalmor - a foreign power
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Diplomatic Immunity
+Objective: infiltrate the party at the Thalmor Embassy, and find Elenwen's secret files
+First Tasks: talk to Malborn, meet Delphine
+First Task Locations: The Winking Skeever - an inn in Solitude,  - Solitude stables
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: Elenwen - the female Thalmor ambassador (location: Thalmor Embassy), Malborn - a male wood elf who is Delphine's trusty contact inside the Thalmor Embassy (location: The Winking Skeever)
+Tools: Elenwen regularly throws parties: while the player is talking with Malborn, Delphine gets the player an invitation to one of Elenwen's parties
+Locations:  - Thalmor Embassy, the embassy of the Thalmor (location: NONE), Solitude - a city (location: NONE)
+Items: NONE
+Enemies: NONE
+Groups: Blades - an intelligence organization, Thalmor - a foreign power
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+The Thalmor ambassador, Elenwen, regularly throws parties where the rich and connected cozy up to the Thalmor. I can get you into one of those parties. Once you're inside the Embassy, you get away and find Elenwen's secret files. I have a contact inside the Embassy. He's not up for this kind of high-risk mission, but he can help you. His name's Malborn. Wood elf, plenty of reason to hate the Thalmor. You can trust him. I'll get word for him to meet you in Solitude, at the Winking Skeever -- you know it? While you're doing that, I'll work on getting you an invitation to Elenwen's little party. Meet me at the Solitude stables after you've arranged things with Malborn.
+

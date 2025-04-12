@@ -1,15 +1,22 @@
-### Quest Name: Uncharted Waters
-### Objective: bring 6 tropical fish to Mickey
-### First Tasks: catch 6 tropical fish
-### First Task Locations:  - oceans
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - an enchanted fishing rod (amount: 1)
-### Characters: NONE
-### Tools: NONE
-### Description: I've caught a mountain of salmon and cod. Yet, there are still some more exotic fish that have eluded my fishing rod. Traveler, do you like fishing? May I ask you to catch 6 tropical fish for me? These sort of fish are common in vast oceans of our world. I yearn to take a look at new kinds of fish. I could even try to breed them. If you happen to give me 6 exotic fish, I'll be glad to reward you with an enchanted fishing rod of mine. A best kind of tool for a passionate fisher.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: Minecraft
-### Motivation: knowledge
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Uncharted Waters
+Objective: bring 6 tropical fish to Mickey
+First Tasks: catch 6 tropical fish
+First Task Locations:  - oceans
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - an enchanted fishing rod (amount: 1)
+Characters: NONE
+Tools: NONE
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: Minecraft
+Motivation: knowledge
+
+### Response:
+I've caught a mountain of salmon and cod. Yet, there are still some more exotic fish that have eluded my fishing rod. Traveler, do you like fishing? May I ask you to catch 6 tropical fish for me? These sort of fish are common in vast oceans of our world. I yearn to take a look at new kinds of fish. I could even try to breed them. If you happen to give me 6 exotic fish, I'll be glad to reward you with an enchanted fishing rod of mine. A best kind of tool for a passionate fisher.
+

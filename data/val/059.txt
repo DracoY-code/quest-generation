@@ -1,15 +1,22 @@
-### Quest Name: Blood of the Daedra
-### Objective: acquire a Daedric artifact for Martin
-### First Tasks: locate one of the Daedric cults
-### First Task Locations: NONE - 
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: NONE
-### Tools: Martin has deciphered one of the four items needed for the ritual needed to open a portal to Camoran's Paradise with the Mysterium Xarxes: the blood of a Daedra Lord, "Modern Heretics" is the best introduction to Daedric cults: the library here has a copy, the Mysterium Xarxes ritual will consume the physical form of the Daedric artifact
-### Description: I've deciphered part of the ritual needed to open a portal to Camoran's Paradise. The Mysterium Xarxes mentions four items needed for the ritual, but so far I have only deciphered one of them: the 'blood of a Daedra Lord'. In fact, Daedric artifacts are known to be formed from the essence of a Daedric Lord, from whence they derive their great power. Not an easy thing to come by, obviously, but we will need a Daedric artifact. The only way to obtain a Daedric artifact is through the cults devoted to each of the Daedric Lords. The book "Modern Heretics" is the best introduction to Daedric cults. The library here has a copy if you need it. Bring the artifact to me when you have acquired one. Remember, the Mysterium Xarxes ritual will consume the physical form of the artifact in order to release its Daedric power.
-### Locations: Camoran's Paradise - the hideout of the player's enemy (location: NONE)
-### Items: "Modern Heretics" - a book (amount: 1), Mysterium Xarxes - a book of rituals (amount: 1), Daedric - an adjective referring to the Daedra (amount: 1)
-### Enemies: NONE
-### Groups: Daedra - immortal, fickle, infamous beings who have artifacts in the mortal world
-### Title: The Elder Scrolls IV: Oblivion
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Blood of the Daedra
+Objective: acquire a Daedric artifact for Martin
+First Tasks: locate one of the Daedric cults
+First Task Locations: NONE - 
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: NONE
+Tools: Martin has deciphered one of the four items needed for the ritual needed to open a portal to Camoran's Paradise with the Mysterium Xarxes: the blood of a Daedra Lord, "Modern Heretics" is the best introduction to Daedric cults: the library here has a copy, the Mysterium Xarxes ritual will consume the physical form of the Daedric artifact
+Locations: Camoran's Paradise - the hideout of the player's enemy (location: NONE)
+Items: "Modern Heretics" - a book (amount: 1), Mysterium Xarxes - a book of rituals (amount: 1), Daedric - an adjective referring to the Daedra (amount: 1)
+Enemies: NONE
+Groups: Daedra - immortal, fickle, infamous beings who have artifacts in the mortal world
+Title: The Elder Scrolls IV: Oblivion
+Motivation: NONE
+
+### Response:
+I've deciphered part of the ritual needed to open a portal to Camoran's Paradise. The Mysterium Xarxes mentions four items needed for the ritual, but so far I have only deciphered one of them: the 'blood of a Daedra Lord'. In fact, Daedric artifacts are known to be formed from the essence of a Daedric Lord, from whence they derive their great power. Not an easy thing to come by, obviously, but we will need a Daedric artifact. The only way to obtain a Daedric artifact is through the cults devoted to each of the Daedric Lords. The book "Modern Heretics" is the best introduction to Daedric cults. The library here has a copy if you need it. Bring the artifact to me when you have acquired one. Remember, the Mysterium Xarxes ritual will consume the physical form of the artifact in order to release its Daedric power.
+

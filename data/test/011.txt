@@ -1,15 +1,22 @@
-### Quest Name: A Box of Tricks
-### Objective: give an Ender Chest to Loki
-### First Tasks: obtain an Ender Chest
-### First Task Locations: End Cities - storied cities at the end of time and space
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - some powered rails (amount: 1)
-### Characters: NONE
-### Tools: the player can craft Ender Chests somehow
-### Description: I'm planning all sorts of new pranks that would make me a famous man here in the village. There's one integral item that I haven't been able to obtain: an Ender Chest. You know, the chests whose contents are stored separately for everyone? I heard you can find Ender Chests in End Cities at the end of time and space. It should also be possible to craft them somehow. Can you obtain an Ender Chest? I would pay you well for one: you could have some powered rails that I used in one of my pranks.
-### Locations: NONE
-### Items: Ender Chests - chests whose contents are stored separately for all people (amount: 1)
-### Enemies: NONE
-### Groups: NONE
-### Title: Minecraft
-### Motivation: reputation
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: A Box of Tricks
+Objective: give an Ender Chest to Loki
+First Tasks: obtain an Ender Chest
+First Task Locations: End Cities - storied cities at the end of time and space
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - some powered rails (amount: 1)
+Characters: NONE
+Tools: the player can craft Ender Chests somehow
+Locations: NONE
+Items: Ender Chests - chests whose contents are stored separately for all people (amount: 1)
+Enemies: NONE
+Groups: NONE
+Title: Minecraft
+Motivation: reputation
+
+### Response:
+
+

@@ -1,15 +1,22 @@
-### Quest Name: Disco Sheep
-### Objective: name one of Sean's sheep "jeb_", and observe what happens
-### First Tasks: get a name tag
-### First Task Locations:  - dungeons, mineshafts, and woodland mansions
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - a mountain of wool in all different colors (amount: 1)
-### Characters: NONE
-### Tools: the player helped Sean before: the player brought him colorful sheep
-### Description: Good day to you, traveler! I just love the colorful sheep you brought me: they are so pretty. There's an interesting thing I heard from a fellow shepherd: if you name a sheep "jeb_", something bizarre is supposed to happen. I'm happy at the moment, but knowing what happens to any sheep named "jeb_" would make me even happier. I something good happens, I shall name all of them so. If something bad happens, I will warn all shepherds about this particular name. You have to find a name tag. Those are scattered in dangerous places; monster-filled dungeons, abandoned mineshafts, and even the ominous woodland mansions. Feel free to name one of my sheep "jeb_", and please make note of what happens. Do this, and I promise to give you a mountain of wool in all possible colors.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: Minecraft
-### Motivation: knowledge
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Disco Sheep
+Objective: name one of Sean's sheep "jeb_", and observe what happens
+First Tasks: get a name tag
+First Task Locations:  - dungeons, mineshafts, and woodland mansions
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - a mountain of wool in all different colors (amount: 1)
+Characters: NONE
+Tools: the player helped Sean before: the player brought him colorful sheep
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: Minecraft
+Motivation: knowledge
+
+### Response:
+Good day to you, traveler! I just love the colorful sheep you brought me: they are so pretty. There's an interesting thing I heard from a fellow shepherd: if you name a sheep "jeb_", something bizarre is supposed to happen. I'm happy at the moment, but knowing what happens to any sheep named "jeb_" would make me even happier. I something good happens, I shall name all of them so. If something bad happens, I will warn all shepherds about this particular name. You have to find a name tag. Those are scattered in dangerous places; monster-filled dungeons, abandoned mineshafts, and even the ominous woodland mansions. Feel free to name one of my sheep "jeb_", and please make note of what happens. Do this, and I promise to give you a mountain of wool in all possible colors.
+

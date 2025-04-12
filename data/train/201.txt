@@ -1,15 +1,22 @@
-### Quest Name: The Forgemaster's Fingers
-### Objective: bring the Forgemaster's Fingers, an enchanted pair on gauntlets, to the chief of the Orcs
-### First Tasks: find the Forgemaster's Fingers
-### First Task Locations: Stony Creek Cave - a cave
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - the player will become Blood-Kin to the Orcs: the player will be allowed to enter Orc strongholds (amount: 1)
-### Characters: Malacath - the god of the Orcs (location: )
-### Tools: the player is not an Orc or blood-kin to the Orcs: the player is not welcome at the Orc stronghold by the code of Malacath
-### Description: Halt, outlander. By the Code of Malacath, this stronghold belongs to the Orcs. Your kind are unwelcome. You're not an Orc, or Blood-Kin, so stay out. We only help our own. Hmm... there is a way to become Blood-Kin, if you truly insist on entering our stronghold. We've heard whispers of an enchanted pair of gauntlets, hidden and protected by dangerous men, beasts, or worse. They are called the Forgemaster's Fingers. Find them at Stony Creek Cave. Bring them to our chief, and he will decide if you're worthy to be Blood-Kin to the Orcs.
-### Locations: NONE
-### Items: Forgemaster's Fingers - a pair of gauntlets (amount: 1)
-### Enemies: NONE
-### Groups: Orcs - a rough race of people
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: The Forgemaster's Fingers
+Objective: bring the Forgemaster's Fingers, an enchanted pair on gauntlets, to the chief of the Orcs
+First Tasks: find the Forgemaster's Fingers
+First Task Locations: Stony Creek Cave - a cave
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - the player will become Blood-Kin to the Orcs: the player will be allowed to enter Orc strongholds (amount: 1)
+Characters: Malacath - the god of the Orcs (location: )
+Tools: the player is not an Orc or blood-kin to the Orcs: the player is not welcome at the Orc stronghold by the code of Malacath
+Locations: NONE
+Items: Forgemaster's Fingers - a pair of gauntlets (amount: 1)
+Enemies: NONE
+Groups: Orcs - a rough race of people
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+Halt, outlander. By the Code of Malacath, this stronghold belongs to the Orcs. Your kind are unwelcome. You're not an Orc, or Blood-Kin, so stay out. We only help our own. Hmm... there is a way to become Blood-Kin, if you truly insist on entering our stronghold. We've heard whispers of an enchanted pair of gauntlets, hidden and protected by dangerous men, beasts, or worse. They are called the Forgemaster's Fingers. Find them at Stony Creek Cave. Bring them to our chief, and he will decide if you're worthy to be Blood-Kin to the Orcs.
+

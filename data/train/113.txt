@@ -1,15 +1,22 @@
-### Quest Name: Missing Citizens
-### Objective: discover what's been happening with the disappearing citizens, and come see Scar
-### First Tasks: patrol and find an entrance to the sewers
-### First Task Locations:  - the east of the city
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - gold in advance (amount: 300),  - gold bonus (amount: 1000)
-### Characters: NONE
-### Tools: Scar knows the player, every night people have been disappearing from the streets of the city, possible tracks of a many-legged centipede-like monster have been found
-### Description: It is I, Scar, second-in-command of the Flaming Fist. I have another job you might be interested in. You'll be well paid for your services. The problem is this: Every night people have been disappearing from the streets of the city. My men have been scouring the city trying to find the culprit, but so far to no avail. People have begun to get scared, and very few are willing to leave their homes at night. Something has to be done, and quickly. Would you be willing to take the job? I'd pay you 300 gold in advance with a 1,000 gold bonus if you discover what's been happening with the disappearing citizens. Your job is really simple. All I want you to do is patrol the east of the city and find an entrance to the sewers. Perhaps you'll get lucky and find out what's been happening. If you do find out what's been happening, come to see me at the Flaming Fist barracks. Our only clue so far has led us to the sewers, so if you want to explore them first, it would probably be a good idea. Also, we've found tracks of some many-legged creature, perhaps a centipede-like monster.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: Flaming Fist - a mercenary organization promoting order and law
-### Title: Baldur's Gate
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Missing Citizens
+Objective: discover what's been happening with the disappearing citizens, and come see Scar
+First Tasks: patrol and find an entrance to the sewers
+First Task Locations:  - the east of the city
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - gold in advance (amount: 300),  - gold bonus (amount: 1000)
+Characters: NONE
+Tools: Scar knows the player, every night people have been disappearing from the streets of the city, possible tracks of a many-legged centipede-like monster have been found
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: Flaming Fist - a mercenary organization promoting order and law
+Title: Baldur's Gate
+Motivation: NONE
+
+### Response:
+It is I, Scar, second-in-command of the Flaming Fist. I have another job you might be interested in. You'll be well paid for your services. The problem is this: Every night people have been disappearing from the streets of the city. My men have been scouring the city trying to find the culprit, but so far to no avail. People have begun to get scared, and very few are willing to leave their homes at night. Something has to be done, and quickly. Would you be willing to take the job? I'd pay you 300 gold in advance with a 1,000 gold bonus if you discover what's been happening with the disappearing citizens. Your job is really simple. All I want you to do is patrol the east of the city and find an entrance to the sewers. Perhaps you'll get lucky and find out what's been happening. If you do find out what's been happening, come to see me at the Flaming Fist barracks. Our only clue so far has led us to the sewers, so if you want to explore them first, it would probably be a good idea. Also, we've found tracks of some many-legged creature, perhaps a centipede-like monster.
+

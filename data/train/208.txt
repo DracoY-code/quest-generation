@@ -1,15 +1,22 @@
-### Quest Name: Our Father in the Sky Like the Diamonds
-### Objective: bring 9 diamonds to Paul
-### First Tasks: find 9 diamonds
-### First Task Locations:  - ancient ruins, and deep within the Overworld itself
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: Glowstone Dust - a potion ingredient (amount: 64)
-### Characters: NONE
-### Tools: NONE
-### Description: My child, my temple could use a donation. I have to tend the sick and needy: I cannot procure all my potion ingredients myself. I often have to participate in rather complicated trades for the ingredients. Please, help a humble servant of the Gods: bring me 9 diamonds. I know that they are rare, but you can find still find them in ancient ruins, and even deep within the Overworld itself. I have a vast surplus of some potion ingredients that cannot be traded further: I can give you 64 Glowstone Dust for your time and effort.
-### Locations: NONE
-### Items:  - diamonds (amount: 9)
-### Enemies: NONE
-### Groups: NONE
-### Title: Minecraft
-### Motivation: comfort
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Our Father in the Sky Like the Diamonds
+Objective: bring 9 diamonds to Paul
+First Tasks: find 9 diamonds
+First Task Locations:  - ancient ruins, and deep within the Overworld itself
+Quest Giver: NONE - NONE (location: NONE)
+Reward: Glowstone Dust - a potion ingredient (amount: 64)
+Characters: NONE
+Tools: NONE
+Locations: NONE
+Items:  - diamonds (amount: 9)
+Enemies: NONE
+Groups: NONE
+Title: Minecraft
+Motivation: comfort
+
+### Response:
+My child, my temple could use a donation. I have to tend the sick and needy: I cannot procure all my potion ingredients myself. I often have to participate in rather complicated trades for the ingredients. Please, help a humble servant of the Gods: bring me 9 diamonds. I know that they are rare, but you can find still find them in ancient ruins, and even deep within the Overworld itself. I have a vast surplus of some potion ingredients that cannot be traded further: I can give you 64 Glowstone Dust for your time and effort.
+

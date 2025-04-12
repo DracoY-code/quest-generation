@@ -1,15 +1,22 @@
-### Quest Name: Salt for Arcadia
-### Objective: deliver some frost salts for Farengar Secret-Fire
-### First Tasks: give the frost salts to Arcadia, the local alchemist
-### First Task Locations: Whiterun - a city
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - Arcadia will provide something (amount: 1)
-### Characters: Arcadia - a female alchemist (location: Whiterun)
-### Tools: the player asked Farengar Secret-Fire whether he is the only wizard in Whiterun: Farengar Secret-Fire is the only wizard, but Whiterun is also home to a priest, a priestess, and alchemist, and others
-### Description: I believe I am, yes. Technically speaking, of course. The city is also home to a priest, a priestess, an alchemist, and I'm sure others who practice. Ah, that reminds me. Speaking of alchemists, I have some frost salts for Arcadia. She asked me to obtain them for one of her potions. Would you be so kind as to deliver the frost salts for me? I'm sure Arcadia will provide some form of recompense…
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Salt for Arcadia
+Objective: deliver some frost salts for Farengar Secret-Fire
+First Tasks: give the frost salts to Arcadia, the local alchemist
+First Task Locations: Whiterun - a city
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - Arcadia will provide something (amount: 1)
+Characters: Arcadia - a female alchemist (location: Whiterun)
+Tools: the player asked Farengar Secret-Fire whether he is the only wizard in Whiterun: Farengar Secret-Fire is the only wizard, but Whiterun is also home to a priest, a priestess, and alchemist, and others
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+I believe I am, yes. Technically speaking, of course. The city is also home to a priest, a priestess, an alchemist, and I'm sure others who practice. Ah, that reminds me. Speaking of alchemists, I have some frost salts for Arcadia. She asked me to obtain them for one of her potions. Would you be so kind as to deliver the frost salts for me? I'm sure Arcadia will provide some form of recompense…
+

@@ -1,15 +1,22 @@
-### Quest Name: Helping Tiris
-### Objective: figure out why Tiris is frightened
-### First Tasks: speak with Tiris
-### First Task Locations:  - Tiris and Jenia's home, north of the Alibakkar estate
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - nothing (amount: 1)
-### Characters: Tiris - Jenia's son (location: Tiris and Jenia's home)
-### Tools: Tiris is too frightened to leave Tiris and Jenia's home
-### Description: My name is Jenia, and I come to you on behalf of my son, Tiris. He is very frightened. Too frightened to even leave our home! I beg of you to come and speak to him! To see what has frightened him so and perhaps help him! Tiris is at our home, the one just north of the Alibakkar estate. Please come as soon as you are able to! I so despair seeing him like this! I know I am poor and have nothing to offer, but I beg you to help my son!
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: Alibakkar - a noble family
-### Title: Baldur's Gate II: Shadows of Amn
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Helping Tiris
+Objective: figure out why Tiris is frightened
+First Tasks: speak with Tiris
+First Task Locations:  - Tiris and Jenia's home, north of the Alibakkar estate
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - nothing (amount: 1)
+Characters: Tiris - Jenia's son (location: Tiris and Jenia's home)
+Tools: Tiris is too frightened to leave Tiris and Jenia's home
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: Alibakkar - a noble family
+Title: Baldur's Gate II: Shadows of Amn
+Motivation: NONE
+
+### Response:
+My name is Jenia, and I come to you on behalf of my son, Tiris. He is very frightened. Too frightened to even leave our home! I beg of you to come and speak to him! To see what has frightened him so and perhaps help him! Tiris is at our home, the one just north of the Alibakkar estate. Please come as soon as you are able to! I so despair seeing him like this! I know I am poor and have nothing to offer, but I beg you to help my son!
+

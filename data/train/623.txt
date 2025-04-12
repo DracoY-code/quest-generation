@@ -1,15 +1,22 @@
-### Quest Name: A Missing Mage
-### Objective: find Erthor
-### First Tasks: ask around about Erthor
-### First Task Locations:  - a Guild Hall of the Mages Guild
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - Adrienne Berene's recommendation (amount: 1)
-### Characters: Erthor - a male guild mage at Guild Hall (location: )
-### Tools: NONE
-### Description: My research occupies nearly all of my time. Now that I think about it, I do have a small problem concerning Erthor. He's one of the guild mages here. Think you can do something about it? I just don't have the time to search for him again, but I do need to consult him about some notes he borrowed. You might want to ask around the Guild Hall, and see if anyone can be of some help. Let me know when he's back, and you'll have your recommendation.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: Mages Guild - a guild of mages
-### Title: The Elder Scrolls IV: Oblivion
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: A Missing Mage
+Objective: find Erthor
+First Tasks: ask around about Erthor
+First Task Locations:  - a Guild Hall of the Mages Guild
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - Adrienne Berene's recommendation (amount: 1)
+Characters: Erthor - a male guild mage at Guild Hall (location: )
+Tools: NONE
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: Mages Guild - a guild of mages
+Title: The Elder Scrolls IV: Oblivion
+Motivation: NONE
+
+### Response:
+My research occupies nearly all of my time. Now that I think about it, I do have a small problem concerning Erthor. He's one of the guild mages here. Think you can do something about it? I just don't have the time to search for him again, but I do need to consult him about some notes he borrowed. You might want to ask around the Guild Hall, and see if anyone can be of some help. Let me know when he's back, and you'll have your recommendation.
+

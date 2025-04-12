@@ -1,15 +1,22 @@
-### Quest Name: Destroy the Source of the Mutants
-### Objective: Destroy the Military Base producing Super Mutants.
-### First Tasks: Locate the Mariposa Military Base and find a way inside.
-### First Task Locations: Mariposa Military Base - A pre-war military installation repurposed by the Master’s forces as a Super Mutant production facility.
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: Experience Points - Earned for successfully destroying the base. (amount: 13000), Brotherhood Assistance - Continued support from the Brotherhood for future endeavors. (amount: 1)
-### Characters: NONE
-### Tools: C4 Explosives, Stealth Boy, Plasma Rifle
-### Description: The Vault Dweller must infiltrate the Mariposa Military Base, which is heavily guarded by Super Mutants. The base contains the vats responsible for the Forced Evolutionary Virus (FEV) mutation process. To stop the creation of new mutants, the facility must be sabotaged, either by setting off an explosion in the reactor or activating the self-destruct sequence. The mission is critical to weakening the Master's army.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: Fallout
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Destroy the Source of the Mutants
+Objective: Destroy the Military Base producing Super Mutants.
+First Tasks: Locate the Mariposa Military Base and find a way inside.
+First Task Locations: Mariposa Military Base - A pre-war military installation repurposed by the Master’s forces as a Super Mutant production facility.
+Quest Giver: NONE - NONE (location: NONE)
+Reward: Experience Points - Earned for successfully destroying the base. (amount: 13000), Brotherhood Assistance - Continued support from the Brotherhood for future endeavors. (amount: 1)
+Characters: NONE
+Tools: C4 Explosives, Stealth Boy, Plasma Rifle
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: Fallout
+Motivation: NONE
+
+### Response:
+The Vault Dweller must infiltrate the Mariposa Military Base, which is heavily guarded by Super Mutants. The base contains the vats responsible for the Forced Evolutionary Virus (FEV) mutation process. To stop the creation of new mutants, the facility must be sabotaged, either by setting off an explosion in the reactor or activating the self-destruct sequence. The mission is critical to weakening the Master's army.
+

@@ -1,15 +1,22 @@
-### Quest Name: Enchanting Pick-Up
-### Objective: bring an item from a client to Sergius Turrianus
-### First Tasks: get the item from Sergius Turrianus' client
-### First Task Locations: NONE - 
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: NONE
-### Tools: the player is a student at the College of Winterhold, Sergius Turrianus gives the player the name and the location of the client
-### Description: There's more enchanting to be done. You can acquire whatever it is and bring it back here, and I'll take care of it. Be quick about it, will you? This is a good way for the College to bring in some money. Here's the name and location of the client.
-### Locations: College of Winterhold - a school of mages (location: NONE)
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Enchanting Pick-Up
+Objective: bring an item from a client to Sergius Turrianus
+First Tasks: get the item from Sergius Turrianus' client
+First Task Locations: NONE - 
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: NONE
+Tools: the player is a student at the College of Winterhold, Sergius Turrianus gives the player the name and the location of the client
+Locations: College of Winterhold - a school of mages (location: NONE)
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+There's more enchanting to be done. You can acquire whatever it is and bring it back here, and I'll take care of it. Be quick about it, will you? This is a good way for the College to bring in some money. Here's the name and location of the client.
+

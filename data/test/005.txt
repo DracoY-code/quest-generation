@@ -1,15 +1,22 @@
-### Quest Name: Set Aerie Free
-### Objective: free Aerie
-### First Tasks: get the key to Aerie's chains from commoners
-### First Task Locations:  - in the north side of this chamber
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - Aerie might be able to help the player (amount: 1)
-### Characters: Quayle - Aerie's uncle (location: )
-### Tools: Aerie works in the circus with Quayle, there's an illusion that makes Aerie look like a monster, Aerie has been chained: the key to her chains looks like a sword, the commoners have the key, Aerie regains her normal form after becoming free
-### Description: M-my name is Aerie. I... work in the circus with my uncle, Quayle... I... I'm not a monster! I'm an elf, a winged elf... or at least I was... This... this covering you see is some kind of illusion, but if you believe in it, then it becomes real! P-please believe me! Now go before something happens to you, I beg of you! If... if you're not going to flee, then maybe you can help free me from the chains that keep me bound in this form — and then maybe I can help you! You... you need the key to these chains. But... but it won't look like a key! There are a couple of... commoners... in the north side of this chamber... Don't be fooled by the illusion, though... they are monsters! They have a sword which is actually my key... if you get it from them, I can remove the chain and regain my normal form! But please be careful! You... you can't trust anything you see here!
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups:  - commoners, who are actually monsters
-### Title: Baldur's Gate II: Shadows of Amn
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Set Aerie Free
+Objective: free Aerie
+First Tasks: get the key to Aerie's chains from commoners
+First Task Locations:  - in the north side of this chamber
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - Aerie might be able to help the player (amount: 1)
+Characters: Quayle - Aerie's uncle (location: )
+Tools: Aerie works in the circus with Quayle, there's an illusion that makes Aerie look like a monster, Aerie has been chained: the key to her chains looks like a sword, the commoners have the key, Aerie regains her normal form after becoming free
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups:  - commoners, who are actually monsters
+Title: Baldur's Gate II: Shadows of Amn
+Motivation: NONE
+
+### Response:
+
+

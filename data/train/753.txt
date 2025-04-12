@@ -1,15 +1,22 @@
-### Quest Name: Bring Renesco some glasses
-### Objective: Find and deliver a pair of glasses to Renesco in New Reno.
-### First Tasks: Locate Renesco's shop in New Reno., Find a pair of glasses to bring to him., Deliver the glasses to Renesco.
-### First Task Locations: Renesco's shop - A small shop in New Reno run by Renesco.
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: Caps - A small payment for your efforts. (amount: 50)
-### Characters: NONE
-### Tools: Barter skill to negotiate a better reward., Luck to possibly find glasses in random loot locations.
-### Description: Renesco, a shopkeeper in New Reno, needs a new pair of glasses. Find and deliver a pair to him to complete the task.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: Fallout 2
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Bring Renesco some glasses
+Objective: Find and deliver a pair of glasses to Renesco in New Reno.
+First Tasks: Locate Renesco's shop in New Reno., Find a pair of glasses to bring to him., Deliver the glasses to Renesco.
+First Task Locations: Renesco's shop - A small shop in New Reno run by Renesco.
+Quest Giver: NONE - NONE (location: NONE)
+Reward: Caps - A small payment for your efforts. (amount: 50)
+Characters: NONE
+Tools: Barter skill to negotiate a better reward., Luck to possibly find glasses in random loot locations.
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: Fallout 2
+Motivation: NONE
+
+### Response:
+Renesco, a shopkeeper in New Reno, needs a new pair of glasses. Find and deliver a pair to him to complete the task.
+

@@ -1,15 +1,22 @@
-### Quest Name: The Lover's Requital
-### Objective: help Sibbi Black-Briar in his plans to kill Svidi
-### First Tasks: find Svidi
-### First Task Locations: NONE - 
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - compensation (amount: 1)
-### Characters: Svidi - a buxom young woman with long flowing black hair and beautiful singing voice, Sibbi Black-Briar's former fiancée (location: ), Wulfur - Svidi's brother (location: )
-### Tools: Svidi found out that Sibbi Black-Briar had an affair and told Wulfur about it, Wulfur attacked Sibbi Black-Briar: Sibbi Black-Briar killed Wulfur and was arrested for Wulfur's murder, Sibbi Black-Briar has to stay in jail for 8 months
-### Description: Look, we all have our flaws; mine is that women can't get enough of me. So I had this little affair going on while I was betrothed to a beautiful girl named Svidi. Well, she finds out and she tells her brother, Wulfur. Then her brother attacks me with a knife... I mean, I had to defend myself! So I got arrested for his murder. And now I have to stare at these bars for eight months. Can you believe it? I was about to let that wench Svidi marry into the richest family in Riften, and this is how she repays me. I'd do anything to have that whore's head on a platter. All I need to know is where she is. Find her and I promise you'll be well compensated. Svidi was a young woman... buxom, with long flowing black hair. She used to sing the most lovely songs to me when we were courting. I've never heard a voice so beautiful. All that talent will go to waste when I'm finished with her.
-### Locations: Riften - a city (location: NONE)
-### Items: NONE
-### Enemies: NONE
-### Groups: Black-Briars - the richest family in Riften
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: The Lover's Requital
+Objective: help Sibbi Black-Briar in his plans to kill Svidi
+First Tasks: find Svidi
+First Task Locations: NONE - 
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - compensation (amount: 1)
+Characters: Svidi - a buxom young woman with long flowing black hair and beautiful singing voice, Sibbi Black-Briar's former fiancée (location: ), Wulfur - Svidi's brother (location: )
+Tools: Svidi found out that Sibbi Black-Briar had an affair and told Wulfur about it, Wulfur attacked Sibbi Black-Briar: Sibbi Black-Briar killed Wulfur and was arrested for Wulfur's murder, Sibbi Black-Briar has to stay in jail for 8 months
+Locations: Riften - a city (location: NONE)
+Items: NONE
+Enemies: NONE
+Groups: Black-Briars - the richest family in Riften
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+Look, we all have our flaws; mine is that women can't get enough of me. So I had this little affair going on while I was betrothed to a beautiful girl named Svidi. Well, she finds out and she tells her brother, Wulfur. Then her brother attacks me with a knife... I mean, I had to defend myself! So I got arrested for his murder. And now I have to stare at these bars for eight months. Can you believe it? I was about to let that wench Svidi marry into the richest family in Riften, and this is how she repays me. I'd do anything to have that whore's head on a platter. All I need to know is where she is. Find her and I promise you'll be well compensated. Svidi was a young woman... buxom, with long flowing black hair. She used to sing the most lovely songs to me when we were courting. I've never heard a voice so beautiful. All that talent will go to waste when I'm finished with her.
+

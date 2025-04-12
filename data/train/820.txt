@@ -1,15 +1,22 @@
-### Quest Name: Fix the well for Feargus
-### Objective: Repair the broken well in Arroyo to restore water access.
-### First Tasks: Inspect the well to identify the damage., Gather the necessary tools or materials for repairs., Fix the well and restore its functionality.
-### First Task Locations: Arroyo Village - A small tribal village where Feargus lives and relies on the well for water.
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: Experience Points - A reward for successfully fixing the well. (amount: 100)
-### Characters: NONE
-### Tools: Basic Repair Tools
-### Description: Feargus, a resident of Arroyo, requests your help in fixing a broken well that the village relies on for water. You'll need to assess the damage and find a way to repair it.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: Fallout 2
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Fix the well for Feargus
+Objective: Repair the broken well in Arroyo to restore water access.
+First Tasks: Inspect the well to identify the damage., Gather the necessary tools or materials for repairs., Fix the well and restore its functionality.
+First Task Locations: Arroyo Village - A small tribal village where Feargus lives and relies on the well for water.
+Quest Giver: NONE - NONE (location: NONE)
+Reward: Experience Points - A reward for successfully fixing the well. (amount: 100)
+Characters: NONE
+Tools: Basic Repair Tools
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: Fallout 2
+Motivation: NONE
+
+### Response:
+Feargus, a resident of Arroyo, requests your help in fixing a broken well that the village relies on for water. You'll need to assess the damage and find a way to repair it.
+

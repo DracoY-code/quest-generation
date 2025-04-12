@@ -1,15 +1,22 @@
-### Quest Name: Deliver ten Cat's Paw magazines to Miss Kitty
-### Objective: Find and deliver ten Cat’s Paw magazines to Miss Kitty in New Reno.
-### First Tasks: Locate and collect ten Cat’s Paw magazines., Travel to New Reno and find Miss Kitty., Deliver the magazines to her.
-### First Task Locations: Various locations - Cat’s Paw magazines can be found in multiple locations, including merchants and lootable containers., Miss Kitty’s establishment in New Reno - Miss Kitty is located in the Cat’s Paw building in New Reno.
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: Caps Reward - Earn $500 for completing the delivery. (amount: NONE), Reputation Boost - Increased reputation in New Reno. (amount: NONE)
-### Characters: NONE
-### Tools: Trading skills to acquire the magazines more efficiently., Barter with merchants or search lootable areas for the magazines.
-### Description: Miss Kitty in New Reno wants a collection of Cat’s Paw magazines. Your task is to find and deliver ten copies to her.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: Fallout 2
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Deliver ten Cat's Paw magazines to Miss Kitty
+Objective: Find and deliver ten Cat’s Paw magazines to Miss Kitty in New Reno.
+First Tasks: Locate and collect ten Cat’s Paw magazines., Travel to New Reno and find Miss Kitty., Deliver the magazines to her.
+First Task Locations: Various locations - Cat’s Paw magazines can be found in multiple locations, including merchants and lootable containers., Miss Kitty’s establishment in New Reno - Miss Kitty is located in the Cat’s Paw building in New Reno.
+Quest Giver: NONE - NONE (location: NONE)
+Reward: Caps Reward - Earn $500 for completing the delivery. (amount: NONE), Reputation Boost - Increased reputation in New Reno. (amount: NONE)
+Characters: NONE
+Tools: Trading skills to acquire the magazines more efficiently., Barter with merchants or search lootable areas for the magazines.
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: Fallout 2
+Motivation: NONE
+
+### Response:
+Miss Kitty in New Reno wants a collection of Cat’s Paw magazines. Your task is to find and deliver ten copies to her.
+

@@ -1,15 +1,22 @@
-### Quest Name: Head Hunter
-### Objective: bring 5 zombie heads to Elena
-### First Tasks: obtain 5 zombie heads
-### First Task Locations: NONE - 
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: Elytra - wings that let the player fly (amount: 1)
-### Characters: NONE
-### Tools: Elena has heard that the player helps people, powerful creepers are somehow related to obtaining the zombie heads
-### Description: I want all monsters in this world know how much I hate them. Perhaps I could get some of their heads to show my disdain toward them. Zombie heads should show all zombies that I am not to be trifled with. You will certainly help me; many people in this village have told me that you are a resourceful and eager to work. Bring me five zombie heads. Powerful creepers are somehow related to getting the heads, but I don't know how exactly. Get me the heads, and I'll give you wings that let you soar the skies: an Elytra.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: Minecraft
-### Motivation: reputation
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Head Hunter
+Objective: bring 5 zombie heads to Elena
+First Tasks: obtain 5 zombie heads
+First Task Locations: NONE - 
+Quest Giver: NONE - NONE (location: NONE)
+Reward: Elytra - wings that let the player fly (amount: 1)
+Characters: NONE
+Tools: Elena has heard that the player helps people, powerful creepers are somehow related to obtaining the zombie heads
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: Minecraft
+Motivation: reputation
+
+### Response:
+I want all monsters in this world know how much I hate them. Perhaps I could get some of their heads to show my disdain toward them. Zombie heads should show all zombies that I am not to be trifled with. You will certainly help me; many people in this village have told me that you are a resourceful and eager to work. Bring me five zombie heads. Powerful creepers are somehow related to getting the heads, but I don't know how exactly. Get me the heads, and I'll give you wings that let you soar the skies: an Elytra.
+

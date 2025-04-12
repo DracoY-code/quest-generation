@@ -1,15 +1,22 @@
-### Quest Name: Kindred Judgment
-### Objective: kill Harkon
-### First Tasks: face Harkon with Serana
-### First Task Locations: NONE - 
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: Harkon - Serana's father, and the lord of the vampires (location: )
-### Tools: Serana thinks that the player can't trust Harkon after they spoke with Serana's mother in the Soul Cairn: the player can't bring the bow to Harkon
-### Description: I think we both know... it's time to face my father Harkon. If we don't, he'll keep chasing us for the rest of our lives. Well, before we spoke to my mother in the Soul Cairn, I would have said we bring the bow to my father. But after everything with her... I don't think we can trust him. No. He has to die. We have no choice. Let's face him together.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Kindred Judgment
+Objective: kill Harkon
+First Tasks: face Harkon with Serana
+First Task Locations: NONE - 
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: Harkon - Serana's father, and the lord of the vampires (location: )
+Tools: Serana thinks that the player can't trust Harkon after they spoke with Serana's mother in the Soul Cairn: the player can't bring the bow to Harkon
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+I think we both know... it's time to face my father Harkon. If we don't, he'll keep chasing us for the rest of our lives. Well, before we spoke to my mother in the Soul Cairn, I would have said we bring the bow to my father. But after everything with her... I don't think we can trust him. No. He has to die. We have no choice. Let's face him together.
+

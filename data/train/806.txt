@@ -1,15 +1,22 @@
-### Quest Name: Lively Living
-### Objective: help Greta redecorate her home
-### First Tasks: place the decorations Greta gives you in her home
-### First Task Locations: Hamlet-By-The-Grass - a village
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - gold ingot (amount: 1)
-### Characters: NONE
-### Tools: NONE
-### Description: My home is starting to look a bit drab. Could you help me redecorate my home here in Hamlet-By-The-Grass? I don't know you that well; you definitely should come up with something fresh and interesting. Here. Take these decorations and place them in my home. Afterwards, you can have this gold ingot.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: Minecraft
-### Motivation: comfort
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Lively Living
+Objective: help Greta redecorate her home
+First Tasks: place the decorations Greta gives you in her home
+First Task Locations: Hamlet-By-The-Grass - a village
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - gold ingot (amount: 1)
+Characters: NONE
+Tools: NONE
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: Minecraft
+Motivation: comfort
+
+### Response:
+My home is starting to look a bit drab. Could you help me redecorate my home here in Hamlet-By-The-Grass? I don't know you that well; you definitely should come up with something fresh and interesting. Here. Take these decorations and place them in my home. Afterwards, you can have this gold ingot.
+

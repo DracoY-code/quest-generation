@@ -1,15 +1,22 @@
-### Quest Name: Magic Student
-### Objective: help an aspiring wizard learn warding spells
-### First Tasks: raise your own warding spell and allow the aspiring wizard to cast a spell at it
-### First Task Locations: NONE - 
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: NONE
-### Tools: the aspiring wizard wants to join the College of Winterhold
-### Description: I've finally found you! I want to join the College of Winterhold. But I need help with my wards. Can you teach me? So, first, you raise your ward and I'll throw a little spell at it. That way I can see the 'right' way to do things.
-### Locations: College of Winterhold - a college for mages (location: NONE)
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Magic Student
+Objective: help an aspiring wizard learn warding spells
+First Tasks: raise your own warding spell and allow the aspiring wizard to cast a spell at it
+First Task Locations: NONE - 
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: NONE
+Tools: the aspiring wizard wants to join the College of Winterhold
+Locations: College of Winterhold - a college for mages (location: NONE)
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+I've finally found you! I want to join the College of Winterhold. But I need help with my wards. Can you teach me? So, first, you raise your ward and I'll throw a little spell at it. That way I can see the 'right' way to do things.
+

@@ -1,15 +1,22 @@
-### Quest Name: Kill the Bandits
-### Objective: slay bandits for Siddgeir
-### First Tasks: find all bandits, and kill them
-### First Task Locations: Embershard Mine - a mine
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: NONE
-### Tools: the player has proven themselves to Siddgeir
-### Description: You've proven reliable. There's a group of bandits in my hold that I... may have had a few discreet dealings with. The cut they were giving me was good at first, but now it's time to clean things up. Go to Embershard Mine and take care of them. Teach them to stop paying me. Execute every last bandit. Spare no one.
-### Locations: Falkreath - a city (location: NONE)
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Kill the Bandits
+Objective: slay bandits for Siddgeir
+First Tasks: find all bandits, and kill them
+First Task Locations: Embershard Mine - a mine
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: NONE
+Tools: the player has proven themselves to Siddgeir
+Locations: Falkreath - a city (location: NONE)
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+You've proven reliable. There's a group of bandits in my hold that I... may have had a few discreet dealings with. The cut they were giving me was good at first, but now it's time to clean things up. Go to Embershard Mine and take care of them. Teach them to stop paying me. Execute every last bandit. Spare no one.
+

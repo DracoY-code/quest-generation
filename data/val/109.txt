@@ -1,15 +1,22 @@
-### Quest Name: No More Pain
-### Objective: find your prisoner's treasure for yourself
-### First Tasks: get your prisoner's hidden things from a hollowed-out rock
-### First Task Locations:  - just north of Windhelm
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - some things (amount: 1)
-### Characters: NONE
-### Tools: the player is hurting their prisoner
-### Description: I'll tell you anything. Anything! Just please stop... hurting me... I just... can't take the pain. Not a second longer. I'll give you money. Treasure. I have some things hidden away. Take them all. They're yours. Just please... stop. Just north of Windhelm. There's a hollowed-out rock. I have some things hidden in there. Take them! They're yours. I've told you everything I can. I don't know what else you could want...
-### Locations: Windhelm - a city (location: NONE)
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: No More Pain
+Objective: find your prisoner's treasure for yourself
+First Tasks: get your prisoner's hidden things from a hollowed-out rock
+First Task Locations:  - just north of Windhelm
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - some things (amount: 1)
+Characters: NONE
+Tools: the player is hurting their prisoner
+Locations: Windhelm - a city (location: NONE)
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+I'll tell you anything. Anything! Just please stop... hurting me... I just... can't take the pain. Not a second longer. I'll give you money. Treasure. I have some things hidden away. Take them all. They're yours. Just please... stop. Just north of Windhelm. There's a hollowed-out rock. I have some things hidden in there. Take them! They're yours. I've told you everything I can. I don't know what else you could want...
+

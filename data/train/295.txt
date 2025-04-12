@@ -1,15 +1,22 @@
-### Quest Name: More Unfinished Business
-### Objective: make sure that Maglir's contract gets done, and send Maglir to Modryn Oreyn
-### First Tasks: find Maglir, and find out why he has defaulted on yet another contract
-### First Task Locations: Bravil - a city
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: Maglir - a man, and a fellow Fighters Guild member (location: Bravil)
-### Tools: the player had to find Maglir before, Maglir had an easy contract for a local mage in Bravil: he has not reported to the client at all
-### Description: I'm going to need you to find Maglir again. The little fetcher. The little vermin has defaulted on another contract. I need you to go babysit him again. Wish I knew what happened. He had a contract for a local mage in Bravil. Didn't seem like a particularly difficult assignment. He hasn't reported to the client at all. Get yourself down to Bravil and find Maglir. Make sure that contract of his gets done. And send him to me.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: Fighters Guild - a mercenary guild
-### Title: The Elder Scrolls IV: Oblivion
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: More Unfinished Business
+Objective: make sure that Maglir's contract gets done, and send Maglir to Modryn Oreyn
+First Tasks: find Maglir, and find out why he has defaulted on yet another contract
+First Task Locations: Bravil - a city
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: Maglir - a man, and a fellow Fighters Guild member (location: Bravil)
+Tools: the player had to find Maglir before, Maglir had an easy contract for a local mage in Bravil: he has not reported to the client at all
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: Fighters Guild - a mercenary guild
+Title: The Elder Scrolls IV: Oblivion
+Motivation: NONE
+
+### Response:
+I'm going to need you to find Maglir again. The little fetcher. The little vermin has defaulted on another contract. I need you to go babysit him again. Wish I knew what happened. He had a contract for a local mage in Bravil. Didn't seem like a particularly difficult assignment. He hasn't reported to the client at all. Get yourself down to Bravil and find Maglir. Make sure that contract of his gets done. And send him to me.
+

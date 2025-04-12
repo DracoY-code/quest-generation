@@ -1,15 +1,22 @@
-### Quest Name: A New Book to Read
-### Objective: deliver "Olaf and the Dragon" to Giruad Gemane
-### First Tasks: find Giruad Gemane and ask for a tip
-### First Task Locations: Bards College - a college for bards
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: Giruad Gemane - a male bard (location: Bards College)
-### Tools: NONE
-### Description: I write drama, friend. The legends and history of the world made to excite and inspire. Poor Giruad Gemane at the Bards College has been waiting for my latest work, "Olaf and the Dragon," for weeks now. Roads are a mess. You'll deliver the book for me? You're sure? When you see Giruad, ask for a tip. I'm sure he'll be in a good mood after reading this.
-### Locations: NONE
-### Items: "Olaf and the Dragon" - a new book written by Adonato Leotelli (amount: 1)
-### Enemies: NONE
-### Groups: NONE
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: A New Book to Read
+Objective: deliver "Olaf and the Dragon" to Giruad Gemane
+First Tasks: find Giruad Gemane and ask for a tip
+First Task Locations: Bards College - a college for bards
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: Giruad Gemane - a male bard (location: Bards College)
+Tools: NONE
+Locations: NONE
+Items: "Olaf and the Dragon" - a new book written by Adonato Leotelli (amount: 1)
+Enemies: NONE
+Groups: NONE
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+
+

@@ -1,15 +1,22 @@
-### Quest Name: A Talkative Pet
-### Objective: bring a tamed parrot to Olivia
-### First Tasks: tame a parrot
-### First Task Locations:  - jungles
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - a diamond (amount: 1)
-### Characters: NONE
-### Tools: Olivia gives the player seeds that can be used to tame a parrot
-### Description: My mommy and daddy say that I can't go outside the village. I don't! But I really wanna have a parrot. The other kids would certainly like me better if I had a cool pet like a parrot! You a big enough to travel to places on your own without your parents. Traveler, please tame a parrot and bring it to me. I even have some seeds for you: tame the parrot with them. Parrots live in jungles. I will give you this diamond I once found on the ground. Even a kid like me knows that those are valuable.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: Minecraft
-### Motivation: reputation
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: A Talkative Pet
+Objective: bring a tamed parrot to Olivia
+First Tasks: tame a parrot
+First Task Locations:  - jungles
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - a diamond (amount: 1)
+Characters: NONE
+Tools: Olivia gives the player seeds that can be used to tame a parrot
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: Minecraft
+Motivation: reputation
+
+### Response:
+My mommy and daddy say that I can't go outside the village. I don't! But I really wanna have a parrot. The other kids would certainly like me better if I had a cool pet like a parrot! You a big enough to travel to places on your own without your parents. Traveler, please tame a parrot and bring it to me. I even have some seeds for you: tame the parrot with them. Parrots live in jungles. I will give you this diamond I once found on the ground. Even a kid like me knows that those are valuable.
+

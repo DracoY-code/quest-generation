@@ -1,15 +1,22 @@
-### Quest Name: Materials for Smithing
-### Objective: bring Stalhrim or Ebony to Halbarn Iron-Fur
-### First Tasks: find Stalhrim or Ebony
-### First Task Locations: NONE - 
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: NONE
-### Tools: the player drove Rieklings away from Halbarn Iron-Fur's forge
-### Description: Cleaning out the forge was the easy part. But those blasted Rieklings made off with most of my materials. And I can't forge air. You tend to wander around, don't you? If you come across any Stalhrim or Ebony in your travels, bring them back to old Halbarn. Help each other out.
-### Locations: NONE
-### Items: Ebony - an ore (amount: 1), Stalhrim - an ore (amount: 1)
-### Enemies: NONE
-### Groups: Rieklings - small, bothersome, thieving creatures
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Materials for Smithing
+Objective: bring Stalhrim or Ebony to Halbarn Iron-Fur
+First Tasks: find Stalhrim or Ebony
+First Task Locations: NONE - 
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: NONE
+Tools: the player drove Rieklings away from Halbarn Iron-Fur's forge
+Locations: NONE
+Items: Ebony - an ore (amount: 1), Stalhrim - an ore (amount: 1)
+Enemies: NONE
+Groups: Rieklings - small, bothersome, thieving creatures
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+Cleaning out the forge was the easy part. But those blasted Rieklings made off with most of my materials. And I can't forge air. You tend to wander around, don't you? If you come across any Stalhrim or Ebony in your travels, bring them back to old Halbarn. Help each other out.
+

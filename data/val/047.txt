@@ -1,15 +1,22 @@
-### Quest Name: Retrieve the GECK for Arroyo
-### Objective: Find and bring back the Garden of Eden Creation Kit (GECK) to save Arroyo.
-### First Tasks: Travel to Vault City to inquire about the GECK., Gain access to Vault 8., Search the Vault for the GECK., Find an alternative source if the GECK is unavailable.
-### First Task Locations: Vault City - A technologically advanced settlement that may have information on the GECK.
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: Experience Points - Earned for finding the GECK. (amount: 4000)
-### Characters: NONE
-### Tools: N, O, N, E
-### Description: Arroyo is in desperate need of the GECK, a device that can revitalize barren lands. You must search Vault City and beyond to locate it and ensure the survival of your home.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: Fallout 2
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Retrieve the GECK for Arroyo
+Objective: Find and bring back the Garden of Eden Creation Kit (GECK) to save Arroyo.
+First Tasks: Travel to Vault City to inquire about the GECK., Gain access to Vault 8., Search the Vault for the GECK., Find an alternative source if the GECK is unavailable.
+First Task Locations: Vault City - A technologically advanced settlement that may have information on the GECK.
+Quest Giver: NONE - NONE (location: NONE)
+Reward: Experience Points - Earned for finding the GECK. (amount: 4000)
+Characters: NONE
+Tools: N, O, N, E
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: Fallout 2
+Motivation: NONE
+
+### Response:
+Arroyo is in desperate need of the GECK, a device that can revitalize barren lands. You must search Vault City and beyond to locate it and ensure the survival of your home.
+

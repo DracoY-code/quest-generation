@@ -1,15 +1,22 @@
-### Quest Name: Andurs' Arkay Amulet
-### Objective: retrieve Andurs' amulet of Arkay
-### First Tasks: search for Andurs' amulet of Arkay
-### First Task Locations:  - the catacombs, filled with undead
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: Arkay - the god of burial and funeral rites (location: )
-### Tools: NONE
-### Description: Perhaps you'll take pity on a humble priest who has lost something precious? I lost my amulet of Arkay. It's the source of my divine powers and also a sacred badge of office. I misplaced it in the catacombs. I'd look for it, but I've been hearing noises down there. I fear the dead have become... restless. Without that amulet, I'm powerless to confront them. Would you be willing to search for it? I'll just wait here and make sure nothing foul escapes the catacombs.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Andurs' Arkay Amulet
+Objective: retrieve Andurs' amulet of Arkay
+First Tasks: search for Andurs' amulet of Arkay
+First Task Locations:  - the catacombs, filled with undead
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: Arkay - the god of burial and funeral rites (location: )
+Tools: NONE
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+Perhaps you'll take pity on a humble priest who has lost something precious? I lost my amulet of Arkay. It's the source of my divine powers and also a sacred badge of office. I misplaced it in the catacombs. I'd look for it, but I've been hearing noises down there. I fear the dead have become... restless. Without that amulet, I'm powerless to confront them. Would you be willing to search for it? I'll just wait here and make sure nothing foul escapes the catacombs.
+

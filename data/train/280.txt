@@ -1,15 +1,22 @@
-### Quest Name: The Angry Merchant
-### Objective: find out why Tolmas Bendelia is angry
-### First Tasks: grant an audience to Tolmas Bendelia
-### First Task Locations: NONE - 
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: Tolmas Bendelia - an angry male merchant (location: )
-### Tools: the player is a noble, Tolmas Bendelia's caravan was waylaid by bandits, Tolmas Bendelia owns the deed to more than one local farmhold
-### Description: Greetings, Your Grace. I actually have a rather angry merchant by the name of Tolmas Bendelia that has been demanding to see you. It might have something to do with his caravan being waylaid by bandits passing through the region, but he refuses to speak to anyone but Your Grace. He is an influential merchant in this area; I believe he owns the deed to more than one local farmhold. Will you grant this man an audience, my liege? I shall show him in.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: Baldur's Gate II: Shadows of Amn
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: The Angry Merchant
+Objective: find out why Tolmas Bendelia is angry
+First Tasks: grant an audience to Tolmas Bendelia
+First Task Locations: NONE - 
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: Tolmas Bendelia - an angry male merchant (location: )
+Tools: the player is a noble, Tolmas Bendelia's caravan was waylaid by bandits, Tolmas Bendelia owns the deed to more than one local farmhold
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: Baldur's Gate II: Shadows of Amn
+Motivation: NONE
+
+### Response:
+Greetings, Your Grace. I actually have a rather angry merchant by the name of Tolmas Bendelia that has been demanding to see you. It might have something to do with his caravan being waylaid by bandits passing through the region, but he refuses to speak to anyone but Your Grace. He is an influential merchant in this area; I believe he owns the deed to more than one local farmhold. Will you grant this man an audience, my liege? I shall show him in.
+

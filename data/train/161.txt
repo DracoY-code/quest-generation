@@ -1,15 +1,22 @@
-### Quest Name: The Heist Job
-### Objective: steal an item from a store strongbox
-### First Tasks: break into a store strongbox
-### First Task Locations: NONE - 
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: NONE
-### Tools: NONE
-### Description: Every now and again, we like to remind the shopkeepers that we're in charge. If that means breaking into their strongboxes and stealing something valuable from them, then so be it. Feel like doing a bit of shopping... the Guild way? The owner of this shop stiffed us on their last protection payment, but we're taking it anyway.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: Thieves Guild - a guild of thieves
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: The Heist Job
+Objective: steal an item from a store strongbox
+First Tasks: break into a store strongbox
+First Task Locations: NONE - 
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: NONE
+Tools: NONE
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: Thieves Guild - a guild of thieves
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+Every now and again, we like to remind the shopkeepers that we're in charge. If that means breaking into their strongboxes and stealing something valuable from them, then so be it. Feel like doing a bit of shopping... the Guild way? The owner of this shop stiffed us on their last protection payment, but we're taking it anyway.
+

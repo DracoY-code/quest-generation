@@ -1,15 +1,22 @@
-### Quest Name: A Crumbling Empire
-### Objective: conquer Solitude, and free Skyrim from the Empire
-### First Tasks: fight your way to Castle Dour to cut the head off the Imperial legion itself
-### First Task Locations: Solitude - a city in Skyrim
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: NONE
-### Tools: Ulfric is addressing the player and the player's fellow Stormcloaks: the true sons and daughters of Skyrim, Sovngarde awaits those who die fighting, the gods will look down and see Skyrim as she was meant to be: full of Nords who are mighty, powerful, and free
-### Description: This is it men! It's time to make this city ours! We come to this moment carried by the sacrifices and the courage of our fellows. Those who have fallen. And those still bearing the shields to our right. On this day, our enemy will know the fullness of our determination, the true depth of our anger, and the exalted righteousness of our cause. The gods are watching. The spirits of our ancestors are stirring. And the men under suns yet to dawn will be transformed by what we do here today. Fear neither pain, nor darkness. For Sovngarde awaits those who die with weapons in their hands, and courage in their hearts. We now fight our way to Castle Dour to cut the head off the legion itself! And in that moment, the gods will look down and see Skyrim as she was meant to be. Full of Nords who are mighty, powerful, and free! Ready now! Everyone, with me! For the sons and daughters of Skyrim!
-### Locations: Castle Dour - the headquarters of the Imperial legion (location: NONE), Skyrim - a province of the Empire (location: NONE), Sovngarde - the storied afterlife of heroes (location: NONE)
-### Items: NONE
-### Enemies: NONE
-### Groups: Stormcloaks - rebel forces opposing the Empire
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: A Crumbling Empire
+Objective: conquer Solitude, and free Skyrim from the Empire
+First Tasks: fight your way to Castle Dour to cut the head off the Imperial legion itself
+First Task Locations: Solitude - a city in Skyrim
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: NONE
+Tools: Ulfric is addressing the player and the player's fellow Stormcloaks: the true sons and daughters of Skyrim, Sovngarde awaits those who die fighting, the gods will look down and see Skyrim as she was meant to be: full of Nords who are mighty, powerful, and free
+Locations: Castle Dour - the headquarters of the Imperial legion (location: NONE), Skyrim - a province of the Empire (location: NONE), Sovngarde - the storied afterlife of heroes (location: NONE)
+Items: NONE
+Enemies: NONE
+Groups: Stormcloaks - rebel forces opposing the Empire
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+This is it men! It's time to make this city ours! We come to this moment carried by the sacrifices and the courage of our fellows. Those who have fallen. And those still bearing the shields to our right. On this day, our enemy will know the fullness of our determination, the true depth of our anger, and the exalted righteousness of our cause. The gods are watching. The spirits of our ancestors are stirring. And the men under suns yet to dawn will be transformed by what we do here today. Fear neither pain, nor darkness. For Sovngarde awaits those who die with weapons in their hands, and courage in their hearts. We now fight our way to Castle Dour to cut the head off the legion itself! And in that moment, the gods will look down and see Skyrim as she was meant to be. Full of Nords who are mighty, powerful, and free! Ready now! Everyone, with me! For the sons and daughters of Skyrim!
+

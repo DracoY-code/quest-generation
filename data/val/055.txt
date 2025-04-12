@@ -1,15 +1,22 @@
-### Quest Name: Take Up Arms
-### Objective: prove that you are worthy of joining the Companions
-### First Tasks: go with Vilkas out to the yard, and let him see what you can do
-### First Task Locations: NONE - 
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - membership in the Companions (amount: 1)
-### Characters: Vilkas - a male member of the Companions (location: next to Kodlak Whitemane)
-### Tools: the player told Kodlak Whitemane that they want to join the Companions
-### Description: You would like to join the Companions? Would you now? Here, let me have a look at you. Hm. Yes, perhaps. A certain strength of spirit. How are you in a battle, child? Don't feel like you need to show off for our sake. Vilkas, here, will be the one testing your mettle. Let Vilkas take you out to the yard and see what you can do.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: Companions - a band of honorable warriors
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Take Up Arms
+Objective: prove that you are worthy of joining the Companions
+First Tasks: go with Vilkas out to the yard, and let him see what you can do
+First Task Locations: NONE - 
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - membership in the Companions (amount: 1)
+Characters: Vilkas - a male member of the Companions (location: next to Kodlak Whitemane)
+Tools: the player told Kodlak Whitemane that they want to join the Companions
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: Companions - a band of honorable warriors
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+You would like to join the Companions? Would you now? Here, let me have a look at you. Hm. Yes, perhaps. A certain strength of spirit. How are you in a battle, child? Don't feel like you need to show off for our sake. Vilkas, here, will be the one testing your mettle. Let Vilkas take you out to the yard and see what you can do.
+

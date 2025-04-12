@@ -1,15 +1,22 @@
-### Quest Name: Feeding the Addiction
-### Objective: convince Geldis to let Bralsa Drel drink at The Retching Netch
-### First Tasks: talk to Geldis about Bralsa Drel
-### First Task Locations: The Retching Netch - a bar
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - the player gets what's coming to them (amount: 1)
-### Characters: Geldis - a male barkeeper who owns the The Retching Netch (location: The Retching Netch)
-### Tools: NONE
-### Description: Doesn't everyone pity the hopeless? Look at me... I'm no better than a beggar. I used to be a miner, a good one too. I made more gold digging up ore in a month than some people earn in a lifetime. When the mine dried up, I was lost. I have no other trade, so I spend my time drinking my fortune away at the Retching Netch... or I used to anyway. That fetcher Geldis won't even allow me inside. Said I was bad for business. If I want to spend my last bag of coins getting drunk, that's my business. What does he care? If you can get that stubborn mule to let me into the Netch, I'll make sure you get what's coming to you.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Feeding the Addiction
+Objective: convince Geldis to let Bralsa Drel drink at The Retching Netch
+First Tasks: talk to Geldis about Bralsa Drel
+First Task Locations: The Retching Netch - a bar
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - the player gets what's coming to them (amount: 1)
+Characters: Geldis - a male barkeeper who owns the The Retching Netch (location: The Retching Netch)
+Tools: NONE
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+Doesn't everyone pity the hopeless? Look at me... I'm no better than a beggar. I used to be a miner, a good one too. I made more gold digging up ore in a month than some people earn in a lifetime. When the mine dried up, I was lost. I have no other trade, so I spend my time drinking my fortune away at the Retching Netch... or I used to anyway. That fetcher Geldis won't even allow me inside. Said I was bad for business. If I want to spend my last bag of coins getting drunk, that's my business. What does he care? If you can get that stubborn mule to let me into the Netch, I'll make sure you get what's coming to you.
+

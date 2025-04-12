@@ -1,15 +1,22 @@
-### Quest Name: Rescue Mission
-### Objective: rescue a kidnapped citizen
-### First Tasks: find the kidnapped citizen
-### First Task Locations: Faldar's Tooth - a bandit lair in the Rift
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - good pay (amount: 1)
-### Characters: NONE
-### Tools: NONE
-### Description: We've received a desperate missive. A citizen of the Rift has been kidnapped. The Companions have been asked for assistance, and we shall answer. Particularly when the pay is as good as this. Get moving. Find the kidnapped citizen at Faldar's Tooth and save them. I shudder to think what might happen if you're too late. Bring honor to the Companions and yourself.
-### Locations: Rift - a region (location: NONE)
-### Items: NONE
-### Enemies: NONE
-### Groups: Companions - a band of honorable warriors
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Rescue Mission
+Objective: rescue a kidnapped citizen
+First Tasks: find the kidnapped citizen
+First Task Locations: Faldar's Tooth - a bandit lair in the Rift
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - good pay (amount: 1)
+Characters: NONE
+Tools: NONE
+Locations: Rift - a region (location: NONE)
+Items: NONE
+Enemies: NONE
+Groups: Companions - a band of honorable warriors
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+We've received a desperate missive. A citizen of the Rift has been kidnapped. The Companions have been asked for assistance, and we shall answer. Particularly when the pay is as good as this. Get moving. Find the kidnapped citizen at Faldar's Tooth and save them. I shudder to think what might happen if you're too late. Bring honor to the Companions and yourself.
+

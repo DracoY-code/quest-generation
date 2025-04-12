@@ -1,15 +1,22 @@
-### Quest Name: The Crab Trap
-### Objective: stop the Ezrohir from getting scrap metal from the crabs
-### First Tasks: prevent the Crab King from finishing his negotiations with the Ezrohir
-### First Task Locations: Dead Shoals - a deep crevice below Mashal
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - a potion (amount: 1)
-### Characters: Crab King - the king of the crabs (location: Dead Shoals)
-### Tools: the player is a friend of the Zeraphi
-### Description: Your timing is perfect, my friend! Below us, in the Dead Shoals, the Crab King is negotiating with a representative of the Ezrohir, to provide the Ezrohir with a huge cache of scrap metal they have salvaged. The Ezrohir will use that scrap to forge more arms to bring against us! They must be stopped! I beg you: Go down into the Dead Shoals and prevent the Crab King from concluding his negotiations with the Ezrohir! I realize this is not much in the way of a reward, but this potion is all I can offer.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: Ezrohir - a hostile race of people who are at war with Zeraphi, Zeraphi - a race of people
-### Title: Torchlight II
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: The Crab Trap
+Objective: stop the Ezrohir from getting scrap metal from the crabs
+First Tasks: prevent the Crab King from finishing his negotiations with the Ezrohir
+First Task Locations: Dead Shoals - a deep crevice below Mashal
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - a potion (amount: 1)
+Characters: Crab King - the king of the crabs (location: Dead Shoals)
+Tools: the player is a friend of the Zeraphi
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: Ezrohir - a hostile race of people who are at war with Zeraphi, Zeraphi - a race of people
+Title: Torchlight II
+Motivation: NONE
+
+### Response:
+Your timing is perfect, my friend! Below us, in the Dead Shoals, the Crab King is negotiating with a representative of the Ezrohir, to provide the Ezrohir with a huge cache of scrap metal they have salvaged. The Ezrohir will use that scrap to forge more arms to bring against us! They must be stopped! I beg you: Go down into the Dead Shoals and prevent the Crab King from concluding his negotiations with the Ezrohir! I realize this is not much in the way of a reward, but this potion is all I can offer.
+

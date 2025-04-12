@@ -1,15 +1,22 @@
-### Quest Name: Unwanted Tenants
-### Objective: kill a beast for Pavo Attius
-### First Tasks: kill the beast
-### First Task Locations:  - Pavo Attius' home
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: Pavo Attius - a man (location: )
-### Tools: NONE
-### Description: Pavo Attius has asked for our help. It seems a predator has invaded his home, and someone needs to clear the beast out. Be cautious. Beasts are not nearly as predictable as men. Give the thing a quick death.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: Companions - a band of honorable warriors
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Unwanted Tenants
+Objective: kill a beast for Pavo Attius
+First Tasks: kill the beast
+First Task Locations:  - Pavo Attius' home
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: Pavo Attius - a man (location: )
+Tools: NONE
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: Companions - a band of honorable warriors
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+
+

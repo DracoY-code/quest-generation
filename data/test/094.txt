@@ -1,15 +1,22 @@
-### Quest Name: Gain the services of Sir Sarles for the Temple of Lathander
-### Objective: convince Sir Sarles to sculpt a statue for the temple of Lathander
-### First Tasks: find Sir Sarles
-### First Task Locations: Jysstev estate - in Athkatla, southeast section of the Government District
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: Lathander - the good god of dawn (location: ), Sir Sarles - a gifted male sculptor (location: Jysstev estate)
-### Tools: Dawnbringer Sain is supposed to acquire art for the temple of Lathander
-### Description: Greetings, I am known as Dawnbringer Sain, a priest of Lathander. I am charged with the acquisition of art for the temple. The beauty of the dawn must be captured in every nook and cranny of Lathander's home. Athkatla is blessed with the presence of perhaps the greatest sculptor of our age. The artist is known as Sir Sarles, and he is making an all too brief visit. We would be foolish not to seize upon the opportunity to have him work for us. I would ask you to convince Sir Sarles that it would be best for him to work for us. Go to him now. Sir Sarles is staying at the Jysstev estate. It is in the southeast section of the Government District. Remember, you speak for Lathander in this matter.
-### Locations: Athkatla - a city (location: NONE)
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: Baldur's Gate II: Shadows of Amn
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Gain the services of Sir Sarles for the Temple of Lathander
+Objective: convince Sir Sarles to sculpt a statue for the temple of Lathander
+First Tasks: find Sir Sarles
+First Task Locations: Jysstev estate - in Athkatla, southeast section of the Government District
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: Lathander - the good god of dawn (location: ), Sir Sarles - a gifted male sculptor (location: Jysstev estate)
+Tools: Dawnbringer Sain is supposed to acquire art for the temple of Lathander
+Locations: Athkatla - a city (location: NONE)
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: Baldur's Gate II: Shadows of Amn
+Motivation: NONE
+
+### Response:
+
+

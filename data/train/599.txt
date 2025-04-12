@@ -1,15 +1,22 @@
-### Quest Name: Through the Fringe of Madness
-### Objective: become Sheogorath's champion
-### First Tasks: get past the Gates of Madness
-### First Task Locations: NONE - 
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: Sheogorath - the Prince of Madness and the Lord of the Never-There, one of the Daedric Princes (location: ), Gatekeeper - a creature that guards the Gates of Madness (location: )
-### Tools: the Shivering Isles lie through the door behind Haskill, Sheogorath seeks a mortal to act as his Champion, the Gatekeeper dislikes strangers to the Shivering Isles
-### Description: I am Haskill, Chamberlain to the Lord Sheogorath. You approach the Shivering Isles. Through the door behind me lies the realm of Sheogorath, Prince of Madness, Lord of the Never-There. My Lord seeks a mortal to act as His Champion. Perhaps the Lord Sheogorath will find a use for you. You'll want to pass through the Gates of Madness. Oh, and mind the Gatekeeper. He dislikes strangers to the Realm.
-### Locations: Shivering Isles - Sheogorath's Realm (location: NONE)
-### Items: NONE
-### Enemies: NONE
-### Groups: Daedric Princes - immortal, fickle, infamous divine beings
-### Title: The Elder Scrolls IV: Oblivion
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Through the Fringe of Madness
+Objective: become Sheogorath's champion
+First Tasks: get past the Gates of Madness
+First Task Locations: NONE - 
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: Sheogorath - the Prince of Madness and the Lord of the Never-There, one of the Daedric Princes (location: ), Gatekeeper - a creature that guards the Gates of Madness (location: )
+Tools: the Shivering Isles lie through the door behind Haskill, Sheogorath seeks a mortal to act as his Champion, the Gatekeeper dislikes strangers to the Shivering Isles
+Locations: Shivering Isles - Sheogorath's Realm (location: NONE)
+Items: NONE
+Enemies: NONE
+Groups: Daedric Princes - immortal, fickle, infamous divine beings
+Title: The Elder Scrolls IV: Oblivion
+Motivation: NONE
+
+### Response:
+I am Haskill, Chamberlain to the Lord Sheogorath. You approach the Shivering Isles. Through the door behind me lies the realm of Sheogorath, Prince of Madness, Lord of the Never-There. My Lord seeks a mortal to act as His Champion. Perhaps the Lord Sheogorath will find a use for you. You'll want to pass through the Gates of Madness. Oh, and mind the Gatekeeper. He dislikes strangers to the Realm.
+

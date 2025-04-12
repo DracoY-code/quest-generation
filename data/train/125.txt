@@ -1,15 +1,22 @@
-### Quest Name: Alduin's Bane
-### Objective: defeat Alduin
-### First Tasks: take the Elder Scroll to the Time-Wound
-### First Task Locations: Time-Wound - a hole in time
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: Alduin - an evil dragon (location: ), Akatosh - the god of dragons (location: )
-### Tools: the player has the Elder Scroll
-### Description: You have it. The Scroll - the Elder Scroll. Time bends... touch. Time shudders at its touch. There is no question. You are doom-driven. Blessings of Akatosh. The very bones of the earth are at your disposal. Go then. Fulfill your destiny. Take the Scroll to the Time-Wound. Do not delay. Alduin will be coming. He cannot miss the signs. You must defeat him.
-### Locations: NONE
-### Items: Elder Scroll - a mythological scroll that can bend time itself (amount: 1)
-### Enemies: NONE
-### Groups: NONE
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Alduin's Bane
+Objective: defeat Alduin
+First Tasks: take the Elder Scroll to the Time-Wound
+First Task Locations: Time-Wound - a hole in time
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: Alduin - an evil dragon (location: ), Akatosh - the god of dragons (location: )
+Tools: the player has the Elder Scroll
+Locations: NONE
+Items: Elder Scroll - a mythological scroll that can bend time itself (amount: 1)
+Enemies: NONE
+Groups: NONE
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+You have it. The Scroll - the Elder Scroll. Time bends... touch. Time shudders at its touch. There is no question. You are doom-driven. Blessings of Akatosh. The very bones of the earth are at your disposal. Go then. Fulfill your destiny. Take the Scroll to the Time-Wound. Do not delay. Alduin will be coming. He cannot miss the signs. You must defeat him.
+

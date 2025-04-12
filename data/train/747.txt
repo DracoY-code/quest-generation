@@ -1,15 +1,22 @@
-### Quest Name: Namira Versus the Priests of Arkay
-### Objective: assist Forgotten in eliminating some priests of Arkay
-### First Tasks: cast a spell Namira gives you upon the priests of Arkay, and let Forgotten kill the priests
-### First Task Locations: Anga - a dark dungeon
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - Ring of Namira (amount: 1)
-### Characters: Arkay - the god of the cycle of birth and death (location: )
-### Tools: the player has approached Namira's shrine, Forgotten have lived in peace for many years worshiping Namira from the dark, basking in their misery and filth: priests of Arkay seek to bring light to the Forgotten's darkness
-### Description: You dare approach Namira's shrine, Child of the Light? You, who walk this plane basking in the light of the warm, cruel sun? Prove to me that you deserve my favor. In Anga, my Forgotten have lived in peace for many years. They worship me from the dark, basking in their misery and filth. Now, though, some would seek to bring light to their darkness. Priests of Arkay have intruded upon their squalor. I want you to help my Forgotten kill these priests of the Light. Cast this spell upon the priests. Allow my beloved Forgotten to kill the interlopers. When this is done, I shall reward you for your efforts. You shall have my ring. Let it bring pain to others who would wish it upon you.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: Daedric Princes - immortal, fickle, infamous divine beings, Forgotten - a sect of Namira's worshipers
-### Title: The Elder Scrolls IV: Oblivion
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Namira Versus the Priests of Arkay
+Objective: assist Forgotten in eliminating some priests of Arkay
+First Tasks: cast a spell Namira gives you upon the priests of Arkay, and let Forgotten kill the priests
+First Task Locations: Anga - a dark dungeon
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - Ring of Namira (amount: 1)
+Characters: Arkay - the god of the cycle of birth and death (location: )
+Tools: the player has approached Namira's shrine, Forgotten have lived in peace for many years worshiping Namira from the dark, basking in their misery and filth: priests of Arkay seek to bring light to the Forgotten's darkness
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: Daedric Princes - immortal, fickle, infamous divine beings, Forgotten - a sect of Namira's worshipers
+Title: The Elder Scrolls IV: Oblivion
+Motivation: NONE
+
+### Response:
+You dare approach Namira's shrine, Child of the Light? You, who walk this plane basking in the light of the warm, cruel sun? Prove to me that you deserve my favor. In Anga, my Forgotten have lived in peace for many years. They worship me from the dark, basking in their misery and filth. Now, though, some would seek to bring light to their darkness. Priests of Arkay have intruded upon their squalor. I want you to help my Forgotten kill these priests of the Light. Cast this spell upon the priests. Allow my beloved Forgotten to kill the interlopers. When this is done, I shall reward you for your efforts. You shall have my ring. Let it bring pain to others who would wish it upon you.
+

@@ -1,15 +1,22 @@
-### Quest Name: Defeat the professor's radscorpion in three challenges
-### Objective: Win three challenges against the professor's radscorpion.
-### First Tasks: Talk to the professor to start the challenges., Compete in the three challenges: speed, intelligence, and combat.
-### First Task Locations: New Reno - A lawless city controlled by warring crime families.
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: Caps - A wagered amount of money if you win. (amount: 200), Increased reputation in New Reno - Winning the challenges boosts your recognition in the city. (amount: NONE)
-### Characters: NONE
-### Tools: High Agility to win the speed challenge., High Intelligence or Speech to win the intelligence challenge., Strong weapons or Unarmed skill for the combat challenge.
-### Description: A professor in New Reno has trained a radscorpion to compete in challenges. You must prove your skills by defeating the radscorpion in speed, intelligence, and combat trials.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: Fallout 2
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Defeat the professor's radscorpion in three challenges
+Objective: Win three challenges against the professor's radscorpion.
+First Tasks: Talk to the professor to start the challenges., Compete in the three challenges: speed, intelligence, and combat.
+First Task Locations: New Reno - A lawless city controlled by warring crime families.
+Quest Giver: NONE - NONE (location: NONE)
+Reward: Caps - A wagered amount of money if you win. (amount: 200), Increased reputation in New Reno - Winning the challenges boosts your recognition in the city. (amount: NONE)
+Characters: NONE
+Tools: High Agility to win the speed challenge., High Intelligence or Speech to win the intelligence challenge., Strong weapons or Unarmed skill for the combat challenge.
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: Fallout 2
+Motivation: NONE
+
+### Response:
+A professor in New Reno has trained a radscorpion to compete in challenges. You must prove your skills by defeating the radscorpion in speed, intelligence, and combat trials.
+

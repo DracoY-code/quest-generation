@@ -1,15 +1,22 @@
-### Quest Name: The Straw that Broke
-### Objective: help Narfi get closure about Reyda
-### First Tasks: talk to Wilhelm about Reyda
-### First Task Locations: NONE - 
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: Reyda - Narfi's sister who went missing (location: ), Wilhelm - a man who told Narfi that Reyda will be back (location: )
-### Tools: NONE
-### Description: Reyda was here, then gone. Went to gather plants and never came home... nope, nope. Everyone looked and no one could find her. Wilhelm said she'll be back... told Narfi not to worry... Reyda will come back. With father I said goodbye... with mother I said goodbye. Reyda leaves and Narfi can't say goodbye. Makes Narfi very, very sad. Narfi needs Reyda to say goodbye.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: The Straw that Broke
+Objective: help Narfi get closure about Reyda
+First Tasks: talk to Wilhelm about Reyda
+First Task Locations: NONE - 
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: Reyda - Narfi's sister who went missing (location: ), Wilhelm - a man who told Narfi that Reyda will be back (location: )
+Tools: NONE
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+Reyda was here, then gone. Went to gather plants and never came home... nope, nope. Everyone looked and no one could find her. Wilhelm said she'll be back... told Narfi not to worry... Reyda will come back. With father I said goodbye... with mother I said goodbye. Reyda leaves and Narfi can't say goodbye. Makes Narfi very, very sad. Narfi needs Reyda to say goodbye.
+

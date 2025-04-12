@@ -1,15 +1,22 @@
-### Quest Name: No News Is Good News
-### Objective: find out information about Fura from Captain Aldis
-### First Tasks: talk to Captain Aldis
-### First Task Locations: NONE - 
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: Fura - Angeline Morrard's daughter (location: ), Captain Aldis - a male officer of the Imperial army (location: )
-### Tools: Fura was assigned to Whiterun after she joined the Imperial army
-### Description: You're a traveler, correct? Have you been to Whiterun? My daughter, Fura, was assigned to Whiterun after she joined the Imperial Army. I was hoping you might have met her. I haven't heard from her lately. I've tried talking to Captain Aldis but he hasn't been any help. It would be very sweet of you to get more information about my daughter. Anything you can find out from Captain Aldis would be welcome news.
-### Locations: Whiterun - a city (location: NONE)
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: No News Is Good News
+Objective: find out information about Fura from Captain Aldis
+First Tasks: talk to Captain Aldis
+First Task Locations: NONE - 
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: Fura - Angeline Morrard's daughter (location: ), Captain Aldis - a male officer of the Imperial army (location: )
+Tools: Fura was assigned to Whiterun after she joined the Imperial army
+Locations: Whiterun - a city (location: NONE)
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+You're a traveler, correct? Have you been to Whiterun? My daughter, Fura, was assigned to Whiterun after she joined the Imperial Army. I was hoping you might have met her. I haven't heard from her lately. I've tried talking to Captain Aldis but he hasn't been any help. It would be very sweet of you to get more information about my daughter. Anything you can find out from Captain Aldis would be welcome news.
+

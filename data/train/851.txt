@@ -1,15 +1,22 @@
-### Quest Name: Sovngarde
-### Objective: go over the Whalebone Bridge to the Hall of Valor
-### First Tasks: complete Tsun's warrior's test
-### First Task Locations: Sovngarde - the storied underworld of heroic souls
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - the player will be allowed to pass the Whalebone Bridge (amount: 1)
-### Characters: Alduin, World Eater - a dragon who is eating the souls of Sovngarde (location: Sovngarde), Shor - the chief of the gods (location: Sovngarde)
-### Tools: Tsun judges which heroic souls are allowed to go to the Hall of Valor, the player pursues Alduin: Shor did not let the heroic, angry souls of Sovngarde to attack Alduin
-### Description: I am Tsun, shield-thane to Shor. The Whalebone Bridge he bade me guard and winnow all those souls whose heroic end sent them here, to Shor's lofty hall where welcome, well earned, awaits those I judge fit to join that fellowship of honor. You pursue Alduin, the World Eater. A fateful errand. No few have chafed to face the Worm since first he set his soul-snare here at Sovngarde's threshold. But Shor restrained our wrathful onslaught - perhaps, deep counseled, your doom he foresaw. Living or dead, by decree of Shor, none may pass this perilous bridge 'till I judge them worthy by the warrior's test.
-### Locations: Whalebone Bridge - a perilous bridge (location: NONE), Hall of Valor - Shor's lofty hall (location: NONE)
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Sovngarde
+Objective: go over the Whalebone Bridge to the Hall of Valor
+First Tasks: complete Tsun's warrior's test
+First Task Locations: Sovngarde - the storied underworld of heroic souls
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - the player will be allowed to pass the Whalebone Bridge (amount: 1)
+Characters: Alduin, World Eater - a dragon who is eating the souls of Sovngarde (location: Sovngarde), Shor - the chief of the gods (location: Sovngarde)
+Tools: Tsun judges which heroic souls are allowed to go to the Hall of Valor, the player pursues Alduin: Shor did not let the heroic, angry souls of Sovngarde to attack Alduin
+Locations: Whalebone Bridge - a perilous bridge (location: NONE), Hall of Valor - Shor's lofty hall (location: NONE)
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+I am Tsun, shield-thane to Shor. The Whalebone Bridge he bade me guard and winnow all those souls whose heroic end sent them here, to Shor's lofty hall where welcome, well earned, awaits those I judge fit to join that fellowship of honor. You pursue Alduin, the World Eater. A fateful errand. No few have chafed to face the Worm since first he set his soul-snare here at Sovngarde's threshold. But Shor restrained our wrathful onslaught - perhaps, deep counseled, your doom he foresaw. Living or dead, by decree of Shor, none may pass this perilous bridge 'till I judge them worthy by the warrior's test.
+

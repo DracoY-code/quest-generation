@@ -1,15 +1,22 @@
-### Quest Name: With Friends Like These...
-### Objective: kill one of the kidnapped people for the Dark brotherhood
-### First Tasks: turn around, and select the person who shall not leave the room alive
-### First Task Locations: NONE - 
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - the player's debt to the Dark Brotherhood will be paid (amount: 1)
-### Characters: Aventus Aretino - a young boy who wanted Grelod the Kind dead (location: ), Grelod the Kind - a cruel, old female orphanage headmistress, killed by the player (location: )
-### Tools: Astrid woke the player up from their sleep, Aventus Aretino was looking for the Dark Brotherhood: Grelod the Kind was a Dark Brotherhood contract, and the player must pay for killing her
-### Description: Sleep well? Who I am really isn't as important as what I am. And what I am is an admirer. Of sorts. You see, that little Aretino boy was looking for the Dark Brotherhood. For me, and my associates. Grelod the Kind was, by all rights, a Dark Brotherhood contract. A kill... that you stole. A kill you must repay. If you turn around, you'll notice my guests. I've "collected" them from... well, that's not really important. The here and now. That's what matters. You see, there's a contract out on one of them, and that person can't leave this room alive. But... which one? Go on, see if you can figure it out. Make your choice. Make your kill. I just want to observe... and admire.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: Dark Brotherhood - a guild of assassins
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: With Friends Like These...
+Objective: kill one of the kidnapped people for the Dark brotherhood
+First Tasks: turn around, and select the person who shall not leave the room alive
+First Task Locations: NONE - 
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - the player's debt to the Dark Brotherhood will be paid (amount: 1)
+Characters: Aventus Aretino - a young boy who wanted Grelod the Kind dead (location: ), Grelod the Kind - a cruel, old female orphanage headmistress, killed by the player (location: )
+Tools: Astrid woke the player up from their sleep, Aventus Aretino was looking for the Dark Brotherhood: Grelod the Kind was a Dark Brotherhood contract, and the player must pay for killing her
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: Dark Brotherhood - a guild of assassins
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+
+

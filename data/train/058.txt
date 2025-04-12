@@ -1,15 +1,22 @@
-### Quest Name: Weapons of Monster Mass Destruction
-### Objective: bring 8 Ancient Debris to Kaz
-### First Tasks: mine 8 Ancient Debris
-### First Task Locations: Nether - a lethal dimension, where the player can easily burn in lava
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - a new kind of sword (amount: 1)
-### Characters: NONE
-### Tools: the player is an enemy of Kaz
-### Description: A nasty person like you can go to the Nether. No one would miss you, if you were to die in there. If you don't burn yourself in lava, you could do a bit something for me there. I have heard that there's a new kind of metal that can be fashioned into a sword that cuts sharper than diamond! I can't wait to experiment on that metal: it's called Netherite, and it can be refined from a rare ore known only as "Ancient Debris". Mine 8 Ancient Debris, and bring them to me. I'll even fashion you a new kind of sword for your help. Only use it on monsters: you'll just dull its blade for nothing by sticking it into innocent villagers.
-### Locations: NONE
-### Items: Netherite - a metal that cuts sharper than diamond (amount: 1), Ancient Debris - a rare ore that can be refined into Netherite (amount: 1)
-### Enemies: NONE
-### Groups: NONE
-### Title: Minecraft
-### Motivation: knowledge
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Weapons of Monster Mass Destruction
+Objective: bring 8 Ancient Debris to Kaz
+First Tasks: mine 8 Ancient Debris
+First Task Locations: Nether - a lethal dimension, where the player can easily burn in lava
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - a new kind of sword (amount: 1)
+Characters: NONE
+Tools: the player is an enemy of Kaz
+Locations: NONE
+Items: Netherite - a metal that cuts sharper than diamond (amount: 1), Ancient Debris - a rare ore that can be refined into Netherite (amount: 1)
+Enemies: NONE
+Groups: NONE
+Title: Minecraft
+Motivation: knowledge
+
+### Response:
+A nasty person like you can go to the Nether. No one would miss you, if you were to die in there. If you don't burn yourself in lava, you could do a bit something for me there. I have heard that there's a new kind of metal that can be fashioned into a sword that cuts sharper than diamond! I can't wait to experiment on that metal: it's called Netherite, and it can be refined from a rare ore known only as "Ancient Debris". Mine 8 Ancient Debris, and bring them to me. I'll even fashion you a new kind of sword for your help. Only use it on monsters: you'll just dull its blade for nothing by sticking it into innocent villagers.
+

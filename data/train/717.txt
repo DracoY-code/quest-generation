@@ -1,15 +1,22 @@
-### Quest Name: Dealing with the Trademeet Genies
-### Objective: investigate the issue with the Dao genies
-### First Tasks: talk with Guildmistress Busya about what needs to be done
-### First Task Locations:  - the next room
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: Guildmistress Busya - a woman (location: ), Ihtafeer - a rakshasa (location: the next room)
-### Tools: Dao genies came to Trademeet, Dao genies are hunting Ihtafeer, Dao genies won't allow trade to occur in Trademeet until Ihtafeer's head is delivered to them
-### Description: My name is Lord Logan Coprith, and I am the High Merchant of Trademeet. A group of Dao genies from Calimshan arrived to Trademeet a while ago. They and their gold were welcome enough at first... But in only weeks, they have taken all business and put a stop to it. They are hunting a rakshasa named Ihtafeer and insist that she is present in the town. The genies will allow no trade to occur until Ihtafeer is found and her head given to them. Why... why they have chosen this particular tactic, I am unsure. Without proper trade, however, the merchants are penniless. Soon, the food resources will dry up as well, so something must be done... and done soon. Perhaps you might be able to look into this genie issue for us? Guildmistress Busya in the next room can tell you more about what needs to be done.
-### Locations: Trademeet - a merchant town (location: NONE), Calimshan - a country (location: NONE)
-### Items: NONE
-### Enemies: NONE
-### Groups: Dao genies - a group of genies from Calimshan
-### Title: Baldur's Gate II: Shadows of Amn
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Dealing with the Trademeet Genies
+Objective: investigate the issue with the Dao genies
+First Tasks: talk with Guildmistress Busya about what needs to be done
+First Task Locations:  - the next room
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: Guildmistress Busya - a woman (location: ), Ihtafeer - a rakshasa (location: the next room)
+Tools: Dao genies came to Trademeet, Dao genies are hunting Ihtafeer, Dao genies won't allow trade to occur in Trademeet until Ihtafeer's head is delivered to them
+Locations: Trademeet - a merchant town (location: NONE), Calimshan - a country (location: NONE)
+Items: NONE
+Enemies: NONE
+Groups: Dao genies - a group of genies from Calimshan
+Title: Baldur's Gate II: Shadows of Amn
+Motivation: NONE
+
+### Response:
+My name is Lord Logan Coprith, and I am the High Merchant of Trademeet. A group of Dao genies from Calimshan arrived to Trademeet a while ago. They and their gold were welcome enough at first... But in only weeks, they have taken all business and put a stop to it. They are hunting a rakshasa named Ihtafeer and insist that she is present in the town. The genies will allow no trade to occur until Ihtafeer is found and her head given to them. Why... why they have chosen this particular tactic, I am unsure. Without proper trade, however, the merchants are penniless. Soon, the food resources will dry up as well, so something must be done... and done soon. Perhaps you might be able to look into this genie issue for us? Guildmistress Busya in the next room can tell you more about what needs to be done.
+

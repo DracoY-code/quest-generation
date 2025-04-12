@@ -1,15 +1,22 @@
-### Quest Name: Forbidden Legend
-### Objective: investigate the forgotten legend of Gauldur, and find the 3 pieces of the Gauldur Amulet
-### First Tasks: find Mikrul's amulet piece, find Jyrik's amulet piece, find Sigdis' amulet piece
-### First Task Locations: Folgunthur - the ancient barrows at the foot of Solitude, Saarthal - ancient, shattered, half-buried crypts, Geirmund's Hall - a tomb
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: Gauldur Amulet - a powerful amulet that belonged to Archmage Gauldur (amount: 1)
-### Characters: Archmage Gauldur - a man revered throughout the north for his wisdom, wealth, honor, and power, who lived during the first era (location: ), Mikrul - the youngest of Archmage Gauldur's three sons (location: ), Jyrik - the oldest of Archmage Gauldur's three sons (location: ), Sigdis - the middle child of Archmage Gauldur's three sons (location: ), Archmage Geirmund - a tough male wizard (location: )
-### Tools: the Gauldur name wiped out from the annals of history, Mikrul, Jyrik, and Sigdis lusted after Archmage Gauldur's power and prestige: they discovered Archmage Gauldur's source of power, the Gauldur Amulet, Archmage Gauldur was murdered by his sons Mikrul, Jyrik, and Sigdis: they split the Gauldur Amulet between them, Mikrul, Jyrik, and Sigdis laid waste to surrounding villages: the high king sent Archmage Geirmund and his battlemages after Mikrul, Jyrik, and Sigdis
-### Description: Daynas Valen's Notes by Daynas Valen  How to summarize a lifetime of research? So little of what I have learned matters now - the petty politics of ancient times, the age-long campaign to wipe out all mention of the Gauldur name. In the opening days of the First Era, the Archmage Gauldur was revered throughout the north. Wisdom, wealth, honor, and power were his, and even the legendary heros' heirs sought his counsel. Smothered by his shadow, Gauldur's three sons grew cruel and resentful. They lusted after their father's power and prestige, and eventually Jyrik, the eldest, discovered its source: a mysterious amulet, from which he never parted. Together, they conspired to murder their father in his sleep and divide his amulet between them. And so it was done. Consumed by their newfound power, the brothers laid waste to the surrounding villages. So great was the carnage that the High King himself intervened, sending a company of battlemages led by the Archmage Geirmund to subdue the brothers. And after a devastating battle, the three fled the field. Mikrul, the youngest, was run to ground in Folgunthur, the ancient barrows at the foot of Solitude. Geirmund pursued Jyrik to the shattered crypts of Saarthal, half-buried even then. And at last, Sigdis was cornered in the southernmost reaches of land and later entombed in Geirmund's Hall.
-### Locations: Solitude - a city (location: NONE)
-### Items: "Daynas Valen's Notes" - Daynas Valen's research notes (amount: 1)
-### Enemies: NONE
-### Groups: NONE
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Forbidden Legend
+Objective: investigate the forgotten legend of Gauldur, and find the 3 pieces of the Gauldur Amulet
+First Tasks: find Mikrul's amulet piece, find Jyrik's amulet piece, find Sigdis' amulet piece
+First Task Locations: Folgunthur - the ancient barrows at the foot of Solitude, Saarthal - ancient, shattered, half-buried crypts, Geirmund's Hall - a tomb
+Quest Giver: NONE - NONE (location: NONE)
+Reward: Gauldur Amulet - a powerful amulet that belonged to Archmage Gauldur (amount: 1)
+Characters: Archmage Gauldur - a man revered throughout the north for his wisdom, wealth, honor, and power, who lived during the first era (location: ), Mikrul - the youngest of Archmage Gauldur's three sons (location: ), Jyrik - the oldest of Archmage Gauldur's three sons (location: ), Sigdis - the middle child of Archmage Gauldur's three sons (location: ), Archmage Geirmund - a tough male wizard (location: )
+Tools: the Gauldur name wiped out from the annals of history, Mikrul, Jyrik, and Sigdis lusted after Archmage Gauldur's power and prestige: they discovered Archmage Gauldur's source of power, the Gauldur Amulet, Archmage Gauldur was murdered by his sons Mikrul, Jyrik, and Sigdis: they split the Gauldur Amulet between them, Mikrul, Jyrik, and Sigdis laid waste to surrounding villages: the high king sent Archmage Geirmund and his battlemages after Mikrul, Jyrik, and Sigdis
+Locations: Solitude - a city (location: NONE)
+Items: "Daynas Valen's Notes" - Daynas Valen's research notes (amount: 1)
+Enemies: NONE
+Groups: NONE
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+
+

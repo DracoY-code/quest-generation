@@ -1,15 +1,22 @@
-### Quest Name: The Hunt
-### Objective: send a message to the Dawnguard by killing one of them without drawing attention
-### First Tasks: kill a Dawnguard spy
-### First Task Locations: NONE - 
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: NONE
-### Tools: NONE
-### Description: You're going to go kill a Dawnguard spy. But don't draw attention. Some kills are for fun, some for profit. And others are for sending messages. This one is a message. Don't make a big scene. Don't get caught. The corpse is to be the message, not the attack. With any luck he'll bleed to death before anyone notices. A cold corpse will say what we want better than a warm one.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: Dawnguard - an organization of vampire hunters
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: The Hunt
+Objective: send a message to the Dawnguard by killing one of them without drawing attention
+First Tasks: kill a Dawnguard spy
+First Task Locations: NONE - 
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: NONE
+Tools: NONE
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: Dawnguard - an organization of vampire hunters
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+You're going to go kill a Dawnguard spy. But don't draw attention. Some kills are for fun, some for profit. And others are for sending messages. This one is a message. Don't make a big scene. Don't get caught. The corpse is to be the message, not the attack. With any luck he'll bleed to death before anyone notices. A cold corpse will say what we want better than a warm one.
+

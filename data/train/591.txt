@@ -1,15 +1,22 @@
-### Quest Name: The Dainty Sload
-### Objective: frame Captain Volf by planting some contraband
-### First Tasks: get some Balmora Blue from Sabine Nyette, plant the Balmora Blue in Captain Volf's footlocker
-### First Task Locations:  - down by the docks, Dainty Sload - Captain Volf's ship
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: Delvin - the player's male superior in the Thieves Guild (location: ), Captain Volf - a male sea captain (location: ashore), Sabine Nyette - the female first mate of the Red Wave (location: down by the docks)
-### Tools: Delvin sent the player to Erikur, Captain Volf neglected to honor a trade agreement between him and Erikur
-### Description: It's about time you got here. I'm not accustomed to dealing with people who are unreliable. That's why I asked Delvin to send me his best. Nothing raises my ire more than having an agreement broken. It's bad for business and it wastes time. Captain Volf of the Dainty Sload has decided to test my patience on this matter by neglecting to honor a trade agreement we had established. I need you to help me show him the error of his ways by sneaking on board the Sload and planting some contraband. You'll need to get your hands on some Balmora Blue from Sabine Nyette down by the docks. She's the first mate on another ship, the Red Wave. Once you get your hands on it, I want you to plant it in Captain Volf's footlocker. I'll take care of the rest. Captain Volf is ashore right now and I want the authorities waiting for him when he gets back. Now get going... I don't want to see your face until the job's done.
-### Locations: Red Wave - a ship (location: NONE)
-### Items: Balmora Blue - an illegal drug (amount: 1)
-### Enemies: NONE
-### Groups: Thieves Guild - a guild of thieves
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: The Dainty Sload
+Objective: frame Captain Volf by planting some contraband
+First Tasks: get some Balmora Blue from Sabine Nyette, plant the Balmora Blue in Captain Volf's footlocker
+First Task Locations:  - down by the docks, Dainty Sload - Captain Volf's ship
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: Delvin - the player's male superior in the Thieves Guild (location: ), Captain Volf - a male sea captain (location: ashore), Sabine Nyette - the female first mate of the Red Wave (location: down by the docks)
+Tools: Delvin sent the player to Erikur, Captain Volf neglected to honor a trade agreement between him and Erikur
+Locations: Red Wave - a ship (location: NONE)
+Items: Balmora Blue - an illegal drug (amount: 1)
+Enemies: NONE
+Groups: Thieves Guild - a guild of thieves
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+It's about time you got here. I'm not accustomed to dealing with people who are unreliable. That's why I asked Delvin to send me his best. Nothing raises my ire more than having an agreement broken. It's bad for business and it wastes time. Captain Volf of the Dainty Sload has decided to test my patience on this matter by neglecting to honor a trade agreement we had established. I need you to help me show him the error of his ways by sneaking on board the Sload and planting some contraband. You'll need to get your hands on some Balmora Blue from Sabine Nyette down by the docks. She's the first mate on another ship, the Red Wave. Once you get your hands on it, I want you to plant it in Captain Volf's footlocker. I'll take care of the rest. Captain Volf is ashore right now and I want the authorities waiting for him when he gets back. Now get going... I don't want to see your face until the job's done.
+

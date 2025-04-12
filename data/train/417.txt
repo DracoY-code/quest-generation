@@ -1,15 +1,22 @@
-### Quest Name: Misdirection
-### Objective: help the Thieves Guild get the Imperial City Waterfront back to normal
-### First Tasks: find Methredhel, who is co-ordinating the Thieves Guild's response
-### First Task Locations: Imperial City - a large city
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - the Thieves Guild will even pay a reward (amount: 1)
-### Characters: Methredhel - a fellow member of the Thieves Guild, a woman (location: Imperial City), Hieronymus Lex - the male captain of the Imperial Watch (location: Imperial City Waterfront), Gray Fox - a legendary thief and defender of the poor, and the guildleader of the Thieves Guild (location: )
-### Tools: Hieronymus Lex and the Imperial Watch have invaded the Imperial City Waterfront: Hieronymus Lex has vowed not to leave until the Gray Fox is in custody
-### Description: I have a small problem that you may be able to help with. The guild will even pay a reward. That buffoon, Hieronymus Lex, has invaded the Imperial City Waterfront. Imperial Watch guards from all over the city prowl the streets. Hieronymus Lex has vowed not to leave until the Gray Fox is in custody. The Fox is safe, but the Thieves Guild cannot do business like this. The poor of the Waterfront are kindred to the Gray Fox, and will not betray him. However, cubs soon get hungry. Soon someone will break. Many guild members could be jailed. Find Methredhel in the Imperial City. She is co-ordinating the guild's response. Shadow hide the hunter.
-### Locations: Imperial City Waterfront - a poor district in the Imperial City (location: NONE)
-### Items: NONE
-### Enemies: NONE
-### Groups: Thieves Guild - a guild of thieves, Imperial Watch - the city guard of the Imperial City
-### Title: The Elder Scrolls IV: Oblivion
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Misdirection
+Objective: help the Thieves Guild get the Imperial City Waterfront back to normal
+First Tasks: find Methredhel, who is co-ordinating the Thieves Guild's response
+First Task Locations: Imperial City - a large city
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - the Thieves Guild will even pay a reward (amount: 1)
+Characters: Methredhel - a fellow member of the Thieves Guild, a woman (location: Imperial City), Hieronymus Lex - the male captain of the Imperial Watch (location: Imperial City Waterfront), Gray Fox - a legendary thief and defender of the poor, and the guildleader of the Thieves Guild (location: )
+Tools: Hieronymus Lex and the Imperial Watch have invaded the Imperial City Waterfront: Hieronymus Lex has vowed not to leave until the Gray Fox is in custody
+Locations: Imperial City Waterfront - a poor district in the Imperial City (location: NONE)
+Items: NONE
+Enemies: NONE
+Groups: Thieves Guild - a guild of thieves, Imperial Watch - the city guard of the Imperial City
+Title: The Elder Scrolls IV: Oblivion
+Motivation: NONE
+
+### Response:
+I have a small problem that you may be able to help with. The guild will even pay a reward. That buffoon, Hieronymus Lex, has invaded the Imperial City Waterfront. Imperial Watch guards from all over the city prowl the streets. Hieronymus Lex has vowed not to leave until the Gray Fox is in custody. The Fox is safe, but the Thieves Guild cannot do business like this. The poor of the Waterfront are kindred to the Gray Fox, and will not betray him. However, cubs soon get hungry. Soon someone will break. Many guild members could be jailed. Find Methredhel in the Imperial City. She is co-ordinating the guild's response. Shadow hide the hunter.
+

@@ -1,15 +1,22 @@
-### Quest Name: Animal trouble in Trademeet
-### Objective: investigate why forest animals are attacking Trademeet
-### First Tasks: go talk with the High Merchant
-### First Task Locations: Trademeet - a town
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: High Merchant - the mayor of Trademeet (location: Trademeet)
-### Tools: Flydian was sent by the High Merchant, druids are suspected of the animal attacks
-### Description: I am Flydian, a messenger sent by the High Merchant of Trademeet to find someone to help our town. Trademeet is under attack by forest animals. The High Merchant thinks druids may be responsible, but we haven't the manpower to find them and stop it. The High Merchant will have more information for you.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: Baldur's Gate II: Shadows of Amn
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Animal trouble in Trademeet
+Objective: investigate why forest animals are attacking Trademeet
+First Tasks: go talk with the High Merchant
+First Task Locations: Trademeet - a town
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: High Merchant - the mayor of Trademeet (location: Trademeet)
+Tools: Flydian was sent by the High Merchant, druids are suspected of the animal attacks
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: Baldur's Gate II: Shadows of Amn
+Motivation: NONE
+
+### Response:
+I am Flydian, a messenger sent by the High Merchant of Trademeet to find someone to help our town. Trademeet is under attack by forest animals. The High Merchant thinks druids may be responsible, but we haven't the manpower to find them and stop it. The High Merchant will have more information for you.
+

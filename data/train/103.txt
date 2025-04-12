@@ -1,15 +1,22 @@
-### Quest Name: Blackmail Iguana Bob
-### Objective: Use evidence against Iguana Bob to extort caps or shut down his operation.
-### First Tasks: Investigate Iguana Bob’s meat supply., Obtain proof that he is selling human flesh., Confront Iguana Bob and demand caps or threaten exposure.
-### First Task Locations: Iguana Bob's Stand - A food stand in the Hub selling 'Iguana-on-a-Stick' with a questionable meat source.
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: Caps - A bribe from Iguana Bob in exchange for silence. (amount: 100), Moral Outcome - Choice to report Iguana Bob to authorities instead of blackmailing him. (amount: Reputation impact)
-### Characters: NONE
-### Tools: Speech, Barter, Investigation skills
-### Description: The player uncovers that Iguana Bob is selling human meat disguised as iguana. They must decide whether to blackmail him for caps, expose him to the authorities, or let the operation continue.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: Fallout
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Blackmail Iguana Bob
+Objective: Use evidence against Iguana Bob to extort caps or shut down his operation.
+First Tasks: Investigate Iguana Bob’s meat supply., Obtain proof that he is selling human flesh., Confront Iguana Bob and demand caps or threaten exposure.
+First Task Locations: Iguana Bob's Stand - A food stand in the Hub selling 'Iguana-on-a-Stick' with a questionable meat source.
+Quest Giver: NONE - NONE (location: NONE)
+Reward: Caps - A bribe from Iguana Bob in exchange for silence. (amount: 100), Moral Outcome - Choice to report Iguana Bob to authorities instead of blackmailing him. (amount: Reputation impact)
+Characters: NONE
+Tools: Speech, Barter, Investigation skills
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: Fallout
+Motivation: NONE
+
+### Response:
+The player uncovers that Iguana Bob is selling human meat disguised as iguana. They must decide whether to blackmail him for caps, expose him to the authorities, or let the operation continue.
+

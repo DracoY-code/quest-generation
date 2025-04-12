@@ -1,15 +1,22 @@
-### Quest Name: Moving to Places
-### Objective: bring a horse to Tammy
-### First Tasks: tame a horse
-### First Task Locations:  - plains and savannas
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - block of emeralds (amount: 1)
-### Characters: NONE
-### Tools: the player can tame a horse by trying to mount it until it stops throwing the player off its back
-### Description: *sigh* I dream of leaving this tiny village every day. If only I had a horse... then I could go anywhere I want. Wherever my wanderlust takes me to. Traveler, you must have covered a lot of land, learned many new skills. Please help me: tame a horse, and bring it to me. Horses are commonly found grazing plains, and their warmer cousins savannas. You can tame a horse by trying to mount it until it stops throwing you off its back. I'll pay a whole block of emeralds for it. Then I too, could take on the life on road.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: Minecraft
-### Motivation: comfort
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Moving to Places
+Objective: bring a horse to Tammy
+First Tasks: tame a horse
+First Task Locations:  - plains and savannas
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - block of emeralds (amount: 1)
+Characters: NONE
+Tools: the player can tame a horse by trying to mount it until it stops throwing the player off its back
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: Minecraft
+Motivation: comfort
+
+### Response:
+*sigh* I dream of leaving this tiny village every day. If only I had a horse... then I could go anywhere I want. Wherever my wanderlust takes me to. Traveler, you must have covered a lot of land, learned many new skills. Please help me: tame a horse, and bring it to me. Horses are commonly found grazing plains, and their warmer cousins savannas. You can tame a horse by trying to mount it until it stops throwing you off its back. I'll pay a whole block of emeralds for it. Then I too, could take on the life on road.
+

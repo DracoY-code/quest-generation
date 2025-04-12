@@ -1,15 +1,22 @@
-### Quest Name: Bleak Falls Barrow
-### Objective: retrieve the Dragonstone for Farengar Secret-Fire
-### First Tasks: find the Dragonstone in the main chamber of Bleak Falls Barrow
-### First Task Locations: Bleak Falls Barrow - a dangerous ruin
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: NONE
-### Tools: NONE
-### Description: I could use someone to fetch something for me. Well, when I say fetch, I really mean delve into a dangerous ruin in search of an ancient stone tablet that may or may not actually be there. I, ah, learned of a certain stone tablet said to be housed in Bleak Falls Barrow - a 'Dragonstone,' said to contain a map of dragon burial sites. Go to Bleak Falls Barrow, find this tablet - no doubt interred in the main chamber - and bring it to me. Simplicity itself.
-### Locations: NONE
-### Items: Dragonstone - a stone tablet that contains a map of dragon burial sites (amount: 1)
-### Enemies: NONE
-### Groups: NONE
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Bleak Falls Barrow
+Objective: retrieve the Dragonstone for Farengar Secret-Fire
+First Tasks: find the Dragonstone in the main chamber of Bleak Falls Barrow
+First Task Locations: Bleak Falls Barrow - a dangerous ruin
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: NONE
+Tools: NONE
+Locations: NONE
+Items: Dragonstone - a stone tablet that contains a map of dragon burial sites (amount: 1)
+Enemies: NONE
+Groups: NONE
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+I could use someone to fetch something for me. Well, when I say fetch, I really mean delve into a dangerous ruin in search of an ancient stone tablet that may or may not actually be there. I, ah, learned of a certain stone tablet said to be housed in Bleak Falls Barrow - a 'Dragonstone,' said to contain a map of dragon burial sites. Go to Bleak Falls Barrow, find this tablet - no doubt interred in the main chamber - and bring it to me. Simplicity itself.
+

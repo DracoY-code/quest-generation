@@ -1,15 +1,22 @@
-### Quest Name: Some Assembly Required
-### Objective: open the Great Door
-### First Tasks: find a power source for the dwarven automaton
-### First Task Locations: Scrapworks - a dangerous junkyard
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: Alchemist - the player's male enemy (location: )
-### Tools: the Alchemist came through the Imperial Camp an hour ago: he went through the Great Door and sealed it behind him, the Great Door leads to the Clockwork Core
-### Description: I wish you had gotten here sooner! The Alchemist came through here about an hour ago. He laid waste to the camp and then went through the Great Door, there - sealed it shut behind him. We believe that door leads to the Clockwork Core. We've been unable to open it ourselves, but we know how in theory. See that dwarven automaton? It's designed to open the door, but it's missing its Power Source. There should be one in the Scrapworks, but it was too dangerous for us to enter. Perhaps you will have more luck.
-### Locations: Great Door - a door that leads to the Clockwork Core (location: NONE)
-### Items: Clockwork Core - a terrible machine (amount: 1)
-### Enemies: NONE
-### Groups: NONE
-### Title: Torchlight II
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Some Assembly Required
+Objective: open the Great Door
+First Tasks: find a power source for the dwarven automaton
+First Task Locations: Scrapworks - a dangerous junkyard
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: Alchemist - the player's male enemy (location: )
+Tools: the Alchemist came through the Imperial Camp an hour ago: he went through the Great Door and sealed it behind him, the Great Door leads to the Clockwork Core
+Locations: Great Door - a door that leads to the Clockwork Core (location: NONE)
+Items: Clockwork Core - a terrible machine (amount: 1)
+Enemies: NONE
+Groups: NONE
+Title: Torchlight II
+Motivation: NONE
+
+### Response:
+I wish you had gotten here sooner! The Alchemist came through here about an hour ago. He laid waste to the camp and then went through the Great Door, there - sealed it shut behind him. We believe that door leads to the Clockwork Core. We've been unable to open it ourselves, but we know how in theory. See that dwarven automaton? It's designed to open the door, but it's missing its Power Source. There should be one in the Scrapworks, but it was too dangerous for us to enter. Perhaps you will have more luck.
+

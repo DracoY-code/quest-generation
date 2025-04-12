@@ -1,15 +1,22 @@
-### Quest Name: Pieces of the Past
-### Objective: retrieve the scattered pieces of Mehrunes' Razor for Silus Vesuius
-### First Tasks: find Ghunzul, Drascua, and Jorgen, the owners of the pieces of Mehrunes' Razor
-### First Task Locations: Skyrim - a province
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - Silus Vesuius will pay the player (amount: 1)
-### Characters: Ghunzul - a dangerous marauder (location: Skyrim), Drascua - a dangerous marauder (location: Skyrim), Jorgen - a man (location: Morthal), Mehrunes Dagon - the evil god of the Mythic Dawn (location: )
-### Tools: after the Oblivion crisis, a number of groups cropped up dedicated to wiping out the remnants of the Mythic Dawn: one of the groups found Mehrunes' Razor and split it into three fragments almost 150 years ago, the descendants of the group still have the fragments of Mehrunes' Razor: Silus Vesuius gives the player his notes on the owners
-### Description: I have a job you look perfect for. A little history, first. After the Oblivion Crisis, a number of groups cropped up dedicated to wiping out the remnants of the Mythic Dawn. One of these groups found Mehrunes' Razor, the artifact of Mehrunes Dagon. They split it into three fragments and pledged to keep them apart forever. That was almost 150 years ago, and the pieces are still being kept by the descendants of that group. And they're right here, in Skyrim. At least two of the owners, Ghunzul and Drascua, are dangerous marauders. And the third owner, Jorgen, I only know he lives in Morthal. Here are my notes about them. I'll gladly pay you for getting the pieces any way you can. No questions asked.
-### Locations: Morthal - a city in Skyrim (location: NONE)
-### Items: Mehrunes' Razor - an artifact of Mehrunes Dagon (amount: 1)
-### Enemies: NONE
-### Groups: Mythic Dawn - an evil cult that wanted to destroy everything during the Oblivion crisis
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Pieces of the Past
+Objective: retrieve the scattered pieces of Mehrunes' Razor for Silus Vesuius
+First Tasks: find Ghunzul, Drascua, and Jorgen, the owners of the pieces of Mehrunes' Razor
+First Task Locations: Skyrim - a province
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - Silus Vesuius will pay the player (amount: 1)
+Characters: Ghunzul - a dangerous marauder (location: Skyrim), Drascua - a dangerous marauder (location: Skyrim), Jorgen - a man (location: Morthal), Mehrunes Dagon - the evil god of the Mythic Dawn (location: )
+Tools: after the Oblivion crisis, a number of groups cropped up dedicated to wiping out the remnants of the Mythic Dawn: one of the groups found Mehrunes' Razor and split it into three fragments almost 150 years ago, the descendants of the group still have the fragments of Mehrunes' Razor: Silus Vesuius gives the player his notes on the owners
+Locations: Morthal - a city in Skyrim (location: NONE)
+Items: Mehrunes' Razor - an artifact of Mehrunes Dagon (amount: 1)
+Enemies: NONE
+Groups: Mythic Dawn - an evil cult that wanted to destroy everything during the Oblivion crisis
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+I have a job you look perfect for. A little history, first. After the Oblivion Crisis, a number of groups cropped up dedicated to wiping out the remnants of the Mythic Dawn. One of these groups found Mehrunes' Razor, the artifact of Mehrunes Dagon. They split it into three fragments and pledged to keep them apart forever. That was almost 150 years ago, and the pieces are still being kept by the descendants of that group. And they're right here, in Skyrim. At least two of the owners, Ghunzul and Drascua, are dangerous marauders. And the third owner, Jorgen, I only know he lives in Morthal. Here are my notes about them. I'll gladly pay you for getting the pieces any way you can. No questions asked.
+

@@ -1,15 +1,22 @@
-### Quest Name: Athletics Training
-### Objective: prove that you are well-traveled enough to receive training from Rusia
-### First Tasks: discover to new places and travel to lands you've never seen
-### First Task Locations: NONE - 
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - athletics training from Rusia (amount: 1)
-### Characters: General Silgor Bradus - one of County Anvil's commanders in the field, and Rusia's husband (location: )
-### Tools: NONE
-### Description: I'm Rusia. My husband is General Silgor Bradus, one of County Anvil's commanders in the field. I did quite a bit of traveling. Back before I met Silgor, and decided to settle down. It's all about pacing yourself. You should get out there, and experience things for yourself. Discover new places, travel to lands you've never seen. Maybe once you've done that, we can talk about how to better pace yourself. I'll teach you what I know about athletics. Maybe we can swap stories about life on the road, too.
-### Locations: County Anvil - a county (location: NONE)
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: The Elder Scrolls IV: Oblivion
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Athletics Training
+Objective: prove that you are well-traveled enough to receive training from Rusia
+First Tasks: discover to new places and travel to lands you've never seen
+First Task Locations: NONE - 
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - athletics training from Rusia (amount: 1)
+Characters: General Silgor Bradus - one of County Anvil's commanders in the field, and Rusia's husband (location: )
+Tools: NONE
+Locations: County Anvil - a county (location: NONE)
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: The Elder Scrolls IV: Oblivion
+Motivation: NONE
+
+### Response:
+I'm Rusia. My husband is General Silgor Bradus, one of County Anvil's commanders in the field. I did quite a bit of traveling. Back before I met Silgor, and decided to settle down. It's all about pacing yourself. You should get out there, and experience things for yourself. Discover new places, travel to lands you've never seen. Maybe once you've done that, we can talk about how to better pace yourself. I'll teach you what I know about athletics. Maybe we can swap stories about life on the road, too.
+

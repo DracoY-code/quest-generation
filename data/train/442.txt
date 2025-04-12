@@ -1,15 +1,22 @@
-### Quest Name: Beat Francis at armwrestling
-### Objective: Defeat Francis in an armwrestling match.
-### First Tasks: Challenge Francis to an armwrestling match., Increase your Strength or find a way to improve your chances of winning.
-### First Task Locations: Broken Hills - A mining town inhabited by both humans and super mutants.
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: Caps - A wagered amount of money if you win. (amount: 100), Increased reputation with Broken Hills - Winning earns the respect of the town's inhabitants. (amount: NONE)
-### Characters: NONE
-### Tools: High Strength stat or Buffout to temporarily boost Strength., Gambling skill to increase chances of a favorable outcome.
-### Description: Francis, a super mutant from Broken Hills, loves to armwrestle challengers. Defeat him to prove your strength and earn some caps.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: Fallout 2
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Beat Francis at armwrestling
+Objective: Defeat Francis in an armwrestling match.
+First Tasks: Challenge Francis to an armwrestling match., Increase your Strength or find a way to improve your chances of winning.
+First Task Locations: Broken Hills - A mining town inhabited by both humans and super mutants.
+Quest Giver: NONE - NONE (location: NONE)
+Reward: Caps - A wagered amount of money if you win. (amount: 100), Increased reputation with Broken Hills - Winning earns the respect of the town's inhabitants. (amount: NONE)
+Characters: NONE
+Tools: High Strength stat or Buffout to temporarily boost Strength., Gambling skill to increase chances of a favorable outcome.
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: Fallout 2
+Motivation: NONE
+
+### Response:
+Francis, a super mutant from Broken Hills, loves to armwrestle challengers. Defeat him to prove your strength and earn some caps.
+

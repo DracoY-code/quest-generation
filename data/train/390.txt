@@ -1,15 +1,22 @@
-### Quest Name: Lost Histories
-### Objective: help Theranis bring back the "Lost Histories of Tamriel", or bring it yourself if Theranis is unwilling or unable
-### First Tasks: find Theranis who was sent to find "Lost Histories of Tamriel"
-### First Task Locations: Skingrad - a city
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: Theranis - a male cat burglar, and a fellow member of the Thieves Guild (location: Skingrad), Gray Fox - the leader of the Thieves Guild (location: )
-### Tools: the Gray Fox himself hunts for the "Lost Histories of Tamriel"
-### Description: We meet again. I have need of a very special book, the "Lost Histories of Tamriel". The cat burglar Theranis was sent hunting in Skingrad for this book. However, Theranis has not been seen since. The Gray Fox himself hunts for this book. I need you to find Theranis. Help Theranis bring back this book. If Theranis is unwilling or unable, bring back the book yourself. Go to Skingrad. The trail starts there.
-### Locations: NONE
-### Items: "Lost Histories of Tamriel" - a book (amount: 1)
-### Enemies: NONE
-### Groups: Thieves Guild - a guild of thieves
-### Title: The Elder Scrolls IV: Oblivion
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Lost Histories
+Objective: help Theranis bring back the "Lost Histories of Tamriel", or bring it yourself if Theranis is unwilling or unable
+First Tasks: find Theranis who was sent to find "Lost Histories of Tamriel"
+First Task Locations: Skingrad - a city
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: Theranis - a male cat burglar, and a fellow member of the Thieves Guild (location: Skingrad), Gray Fox - the leader of the Thieves Guild (location: )
+Tools: the Gray Fox himself hunts for the "Lost Histories of Tamriel"
+Locations: NONE
+Items: "Lost Histories of Tamriel" - a book (amount: 1)
+Enemies: NONE
+Groups: Thieves Guild - a guild of thieves
+Title: The Elder Scrolls IV: Oblivion
+Motivation: NONE
+
+### Response:
+We meet again. I have need of a very special book, the "Lost Histories of Tamriel". The cat burglar Theranis was sent hunting in Skingrad for this book. However, Theranis has not been seen since. The Gray Fox himself hunts for this book. I need you to find Theranis. Help Theranis bring back this book. If Theranis is unwilling or unable, bring back the book yourself. Go to Skingrad. The trail starts there.
+

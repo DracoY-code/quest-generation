@@ -1,15 +1,22 @@
-### Quest Name: A Shadow Over Hackdirt
-### Objective: find Dar-Ma
-### First Tasks: find clues about Dar-Ma's whereabouts from Etira Moslin
-### First Task Locations: Hackdirt - an isolated village, south of Chorrol
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - Seed-Neeus' friendship and gratitude to the end of her days (amount: 1)
-### Characters: Dar-Ma - Seed-Neeus' daughter (location: ), Etira Moslin - a female trader (location: Hackdirt), Blossom - Dar-Ma's beloved female horse, whom Dar-Ma would never abandon (location: )
-### Tools: Dar-Ma was supposed to make a delivery to Etira Moslin, because Seed-Neeus was not feeling well, Dar-Ma went with Blossom
-### Description: I'm Seed-Neeus. I don't mean to impose, but I'm hoping you can help me. My daughter, Dar-Ma is missing and I don't know what to do. Dar-Ma never came back from Hackdirt. I'm dreadfully worried something may have happened to her. Can you help? Dar-Ma was supposed to make a delivery to Etira Moslin in Hackdirt, so I would start there. Hackdirt is a rather isolated village, south of Chorrol. We do some business with the trader there. Small volume, but she pays well. Normally I make the deliveries, but I wasn't feeling well so Dar-Ma insisted on going this time. In case it may be useful, she was with Blossom -- her horse, I mean. Dar-Ma loves that animal, and would never willingly abandon her. If you find my daughter, you have my friendship and gratitude to the end of my days!
-### Locations: Chorrol - a city (location: NONE)
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: The Elder Scrolls IV: Oblivion
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: A Shadow Over Hackdirt
+Objective: find Dar-Ma
+First Tasks: find clues about Dar-Ma's whereabouts from Etira Moslin
+First Task Locations: Hackdirt - an isolated village, south of Chorrol
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - Seed-Neeus' friendship and gratitude to the end of her days (amount: 1)
+Characters: Dar-Ma - Seed-Neeus' daughter (location: ), Etira Moslin - a female trader (location: Hackdirt), Blossom - Dar-Ma's beloved female horse, whom Dar-Ma would never abandon (location: )
+Tools: Dar-Ma was supposed to make a delivery to Etira Moslin, because Seed-Neeus was not feeling well, Dar-Ma went with Blossom
+Locations: Chorrol - a city (location: NONE)
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: The Elder Scrolls IV: Oblivion
+Motivation: NONE
+
+### Response:
+I'm Seed-Neeus. I don't mean to impose, but I'm hoping you can help me. My daughter, Dar-Ma is missing and I don't know what to do. Dar-Ma never came back from Hackdirt. I'm dreadfully worried something may have happened to her. Can you help? Dar-Ma was supposed to make a delivery to Etira Moslin in Hackdirt, so I would start there. Hackdirt is a rather isolated village, south of Chorrol. We do some business with the trader there. Small volume, but she pays well. Normally I make the deliveries, but I wasn't feeling well so Dar-Ma insisted on going this time. In case it may be useful, she was with Blossom -- her horse, I mean. Dar-Ma loves that animal, and would never willingly abandon her. If you find my daughter, you have my friendship and gratitude to the end of my days!
+

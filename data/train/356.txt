@@ -1,15 +1,22 @@
-### Quest Name: Origin of the Gray Prince
-### Objective: find proof of Agronak gro-Malog's noble birthright
-### First Tasks: travel to the place of Agronak gro-Malog's birth
-### First Task Locations: Crowhaven - a ruined fort far to the west of the Imperial City, and Agronak gro-Malog's birthplace
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - Agronak gro-Malog's finest combat techniques (amount: 1)
-### Characters: Lord Lovidicus - a nobleman, and Agronak gro-Malog's father (location: ), Lady Lovidicus - a noblewoman, the wife of Lord Lovidicus (location: ),  - Agronak gro-Malog's mother, a former servant in the employ of Lord Lovidicus, and Lord Lovidicus' lover (location: )
-### Tools: Agronak gro-Malog's mother fled with Agronak gro-Malog from the wrath of Lady Lovidicus, Agronak gro-Malog's mother gave Agronak gro-Malog a key to Crowhaven to "unlock the truth" before dying
-### Description: Hail, friend. I don't believe I've ever seen you down here in the Bloodworks before. Allow me to introduce myself. My name is Agronak gro-Malog. I grew up here in the Imperial City, but I was born elsewhere. My mother was a servant in the employ of Lord Lovidicus, and resided at his fortress. Lady Lovidicus was a shrew of a woman. The Lord and my mother grew close, and ultimately fell in love. I was the result of their union. When the Lady learned of my birth she was furious, and threatened to kill both my mother and me. So we fled, leaving my claim to nobility behind. My mother died recently. Before she passed, she gave me this key, and told me it would "unlock the truth," at the place of my birth, Crowhaven. Crowhaven is a ruined fort far to the west of here. I'd go myself, but my training regiment doesn't allow for the luxury of such an excursion. My friend, you must travel to Crowhaven and use the key to unlock whatever it is that holds the proof of my birthright! Find this proof and return it to me, and I'll share with you some of my finest combat techniques. Trust me, you can't learn these moves in a book!
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: Lovidicus - a noble family
-### Title: The Elder Scrolls IV: Oblivion
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Origin of the Gray Prince
+Objective: find proof of Agronak gro-Malog's noble birthright
+First Tasks: travel to the place of Agronak gro-Malog's birth
+First Task Locations: Crowhaven - a ruined fort far to the west of the Imperial City, and Agronak gro-Malog's birthplace
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - Agronak gro-Malog's finest combat techniques (amount: 1)
+Characters: Lord Lovidicus - a nobleman, and Agronak gro-Malog's father (location: ), Lady Lovidicus - a noblewoman, the wife of Lord Lovidicus (location: ),  - Agronak gro-Malog's mother, a former servant in the employ of Lord Lovidicus, and Lord Lovidicus' lover (location: )
+Tools: Agronak gro-Malog's mother fled with Agronak gro-Malog from the wrath of Lady Lovidicus, Agronak gro-Malog's mother gave Agronak gro-Malog a key to Crowhaven to "unlock the truth" before dying
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: Lovidicus - a noble family
+Title: The Elder Scrolls IV: Oblivion
+Motivation: NONE
+
+### Response:
+Hail, friend. I don't believe I've ever seen you down here in the Bloodworks before. Allow me to introduce myself. My name is Agronak gro-Malog. I grew up here in the Imperial City, but I was born elsewhere. My mother was a servant in the employ of Lord Lovidicus, and resided at his fortress. Lady Lovidicus was a shrew of a woman. The Lord and my mother grew close, and ultimately fell in love. I was the result of their union. When the Lady learned of my birth she was furious, and threatened to kill both my mother and me. So we fled, leaving my claim to nobility behind. My mother died recently. Before she passed, she gave me this key, and told me it would "unlock the truth," at the place of my birth, Crowhaven. Crowhaven is a ruined fort far to the west of here. I'd go myself, but my training regiment doesn't allow for the luxury of such an excursion. My friend, you must travel to Crowhaven and use the key to unlock whatever it is that holds the proof of my birthright! Find this proof and return it to me, and I'll share with you some of my finest combat techniques. Trust me, you can't learn these moves in a book!
+

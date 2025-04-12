@@ -1,15 +1,22 @@
-### Quest Name: Culling the Beast
-### Objective: kill thin-blooded vampires
-### First Tasks: find the thin-blooded vampires
-### First Task Locations: Haemar's Shame - a cave
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: NONE
-### Tools: NONE
-### Description: A bunch of feral vampires are running wild, upsetting the mortals. When the prey is riled, it makes things difficult for us. Go cull the brutish beasts in Haemar's Shame before the problem gets out of hand. At first you may pity the thin-bloods. But after disposing of a few, you realize they aren't worth the worry.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Culling the Beast
+Objective: kill thin-blooded vampires
+First Tasks: find the thin-blooded vampires
+First Task Locations: Haemar's Shame - a cave
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: NONE
+Tools: NONE
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+A bunch of feral vampires are running wild, upsetting the mortals. When the prey is riled, it makes things difficult for us. Go cull the brutish beasts in Haemar's Shame before the problem gets out of hand. At first you may pity the thin-bloods. But after disposing of a few, you realize they aren't worth the worry.
+

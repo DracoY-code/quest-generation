@@ -1,15 +1,22 @@
-### Quest Name: The Fate of the Skaal
-### Objective: free the Skaal at the Wind Stone from control
-### First Tasks: learn the word of power that Miraak learned long ago, use the word of power on the Wind Stone
-### First Task Locations: Saering's Watch - a dragon lair, Wind Stone - a sacred stone of the Skaal
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: Miraak - a man (location: )
-### Tools: NONE
-### Description: Our time here is running out. The few of us left free of control cannot protect ourselves for much longer. You must go to Saering's Watch. Learn there the Word of Power that Miraak learned long ago, and use that knowledge on the Wind Stone. You may be able to break the hold on our people there, and free them from control.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: Skaal - a tribe of people
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: The Fate of the Skaal
+Objective: free the Skaal at the Wind Stone from control
+First Tasks: learn the word of power that Miraak learned long ago, use the word of power on the Wind Stone
+First Task Locations: Saering's Watch - a dragon lair, Wind Stone - a sacred stone of the Skaal
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: Miraak - a man (location: )
+Tools: NONE
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: Skaal - a tribe of people
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+Our time here is running out. The few of us left free of control cannot protect ourselves for much longer. You must go to Saering's Watch. Learn there the Word of Power that Miraak learned long ago, and use that knowledge on the Wind Stone. You may be able to break the hold on our people there, and free them from control.
+

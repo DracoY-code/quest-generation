@@ -1,15 +1,22 @@
-### Quest Name: Lost Relic
-### Objective: retrieve the Dawnguard Shield for yourself
-### First Tasks: kill the Falmer preventing you from getting the Dawnguard Shield
-### First Task Locations: Sightless Pit - a Falmer lair
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: Dawnguard Shield - a relic of the Dawnguard of old, a magical shield that when blocked with surrounds its wielder with a holy aura that harms the undead (amount: 1)
-### Characters: Arkay - the god of life and death (location: )
-### Tools: NONE
-### Description: I've been pouring over some of the tomes left here in the keep. Interesting stories, indeed. Seems the previous incarnation of the Dawnguard had, at one time, some interesting toys. I have located one of their toys. Arkay and I think it could be a great advantage for us. You should look into retrieving it. It is a magical shield that when blocked with, surrounds its wielder with a holy aura that harms the undead. Might come in handy. You'll be up against the Falmer of Sightless Pit, if I understand Arkay correctly. Nothing you can't handle.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: Dawnguard - an organization of vampire hunters, Falmer - blind, small creatures
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Lost Relic
+Objective: retrieve the Dawnguard Shield for yourself
+First Tasks: kill the Falmer preventing you from getting the Dawnguard Shield
+First Task Locations: Sightless Pit - a Falmer lair
+Quest Giver: NONE - NONE (location: NONE)
+Reward: Dawnguard Shield - a relic of the Dawnguard of old, a magical shield that when blocked with surrounds its wielder with a holy aura that harms the undead (amount: 1)
+Characters: Arkay - the god of life and death (location: )
+Tools: NONE
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: Dawnguard - an organization of vampire hunters, Falmer - blind, small creatures
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+
+

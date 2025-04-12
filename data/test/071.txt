@@ -1,15 +1,22 @@
-### Quest Name: Prophet of the Night
-### Objective: locate a Moth Priest for Lord Harkon
-### First Tasks: speak to innkeepers, carriage drivers and travelers about the rumors of a Moth Priest in Skyrim
-### First Task Locations: NONE - 
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: Moth Priest - a priest who has dedicated his whole life to reading and deciphering Elder Scrolls (location: Skyrim)
-### Tools: Lord Harkon is giving a speech to the player and their fellow vampires: the player and the other vampires will dominate over the sun itself, and forge a realm of eternal darkness, Lord Harkon has reclaimed one of his Elder Scrolls and needs a Moth Priest to read it
-### Description: Scions of the night! Hear my words! The prophesied time is at last upon us. Soon we will claim dominion over the sun itself, and forge a new realm of eternal darkness. Now that I have reclaimed one of my Elder Scrolls, we must find a Moth Priest to read it. I have spread false rumors about the discovery of an Elder Scroll in Skyrim to lure a Moth Priest here. Now it is time to see if those efforts have borne fruit. Go forth, and search the land for rumors of a Moth Priest within our borders. Look to the cities. Speak to innkeepers, carriage drivers, anyone who would meet a traveler. Go now, and carry out this task. This is my command!
-### Locations: Skyrim - a province (location: NONE)
-### Items: Elder Scrolls - mysterious scrolls used in divining prophecies (amount: 1)
-### Enemies: NONE
-### Groups: NONE
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Prophet of the Night
+Objective: locate a Moth Priest for Lord Harkon
+First Tasks: speak to innkeepers, carriage drivers and travelers about the rumors of a Moth Priest in Skyrim
+First Task Locations: NONE - 
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: Moth Priest - a priest who has dedicated his whole life to reading and deciphering Elder Scrolls (location: Skyrim)
+Tools: Lord Harkon is giving a speech to the player and their fellow vampires: the player and the other vampires will dominate over the sun itself, and forge a realm of eternal darkness, Lord Harkon has reclaimed one of his Elder Scrolls and needs a Moth Priest to read it
+Locations: Skyrim - a province (location: NONE)
+Items: Elder Scrolls - mysterious scrolls used in divining prophecies (amount: 1)
+Enemies: NONE
+Groups: NONE
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+
+

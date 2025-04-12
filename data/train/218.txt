@@ -1,15 +1,22 @@
-### Quest Name: Boethia's Bloody Tournament
-### Objective: prove your worthiness to Boethia in the Tournament of Ten Bloods
-### First Tasks: survive the Tournament of Ten Bloods
-### First Task Locations:  - one of Boethia's realms in Oblivion
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: Goldbrand - a sword (amount: 1)
-### Characters: NONE
-### Tools: the player has summoned Boethia: the player is not a worshiper of Boethia, Boethia shall open a portal for the player to one of his realms in Oblivion, if the player fails the Tournament of Ten Bloods, the player's soul belongs to Boethia
-### Description: Why do you summon Boethia? You are not one of my faithful. Do you hope to be counted among my Chosen? Then prove yourself to me, mortal. I shall open a portal for you to one of my realms in Oblivion. Go, and take your place in my Tournament of Ten Bloods. Survive, and you will be rewarded with my glorious sword Goldbrand. Fail, and your soul belongs to me.
-### Locations: NONE
-### Items: Tournament of Ten Bloods - Boethia's tournament (amount: 1)
-### Enemies: NONE
-### Groups: Daedric Princes - immortal, fickle, infamous divine beings
-### Title: The Elder Scrolls IV: Oblivion
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Boethia's Bloody Tournament
+Objective: prove your worthiness to Boethia in the Tournament of Ten Bloods
+First Tasks: survive the Tournament of Ten Bloods
+First Task Locations:  - one of Boethia's realms in Oblivion
+Quest Giver: NONE - NONE (location: NONE)
+Reward: Goldbrand - a sword (amount: 1)
+Characters: NONE
+Tools: the player has summoned Boethia: the player is not a worshiper of Boethia, Boethia shall open a portal for the player to one of his realms in Oblivion, if the player fails the Tournament of Ten Bloods, the player's soul belongs to Boethia
+Locations: NONE
+Items: Tournament of Ten Bloods - Boethia's tournament (amount: 1)
+Enemies: NONE
+Groups: Daedric Princes - immortal, fickle, infamous divine beings
+Title: The Elder Scrolls IV: Oblivion
+Motivation: NONE
+
+### Response:
+Why do you summon Boethia? You are not one of my faithful. Do you hope to be counted among my Chosen? Then prove yourself to me, mortal. I shall open a portal for you to one of my realms in Oblivion. Go, and take your place in my Tournament of Ten Bloods. Survive, and you will be rewarded with my glorious sword Goldbrand. Fail, and your soul belongs to me.
+

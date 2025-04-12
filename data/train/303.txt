@@ -1,15 +1,22 @@
-### Quest Name: An Errand for Fuller
-### Objective: bring a quarrel of crossbow bolts to Fuller
-### First Tasks: buy crossbow bolts from Winthrop
-### First Task Locations: Candlekeep Inn - an inn
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - a dagger (amount: 1)
-### Characters: Winthrop - an innkeeper (location: Candlekeep Inn)
-### Tools: Fuller knows the player
-### Description: Hey kid, it's me, Fuller. I need a quarrel of crossbow bolts. If you could get some off Winthrop at the inn, I'll reimburse you. there'll be a dagger in it for you too. My father killed a hobgoblin with it once, many years ago. Stabbed him right in the back, he did. It ain't no broadsword, but it'll do in a pinch.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: Baldur's Gate
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: An Errand for Fuller
+Objective: bring a quarrel of crossbow bolts to Fuller
+First Tasks: buy crossbow bolts from Winthrop
+First Task Locations: Candlekeep Inn - an inn
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - a dagger (amount: 1)
+Characters: Winthrop - an innkeeper (location: Candlekeep Inn)
+Tools: Fuller knows the player
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: Baldur's Gate
+Motivation: NONE
+
+### Response:
+Hey kid, it's me, Fuller. I need a quarrel of crossbow bolts. If you could get some off Winthrop at the inn, I'll reimburse you. there'll be a dagger in it for you too. My father killed a hobgoblin with it once, many years ago. Stabbed him right in the back, he did. It ain't no broadsword, but it'll do in a pinch.
+

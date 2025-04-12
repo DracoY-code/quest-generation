@@ -1,15 +1,22 @@
-### Quest Name: Solve the Riddle of the Sewers
-### Objective: follow the One's path, and return to Quallo
-### First Tasks: find the clues from the One
-### First Task Locations:  - where the topside filth drains
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - the blade (amount: 1)
-### Characters: One - a mysterious being (location: )
-### Tools: Quallo is standing next to a creature that he calls a friend, the blade is hidden
-### Description: I'm Quallo, and this thing here is my friend. You have come for the blade, I suppose. It is as we have always expected, my friend. (He glances to the creature beside him.) Too long in this pit, too long. The gleam in your eye! It belies your greed, your passion. I've found this blade, child! It is hidden most insidiously. A cruel jest has been played upon us all. My friend here knows this! The One has left clues for you. Have you not found the clues? Where the topside filth drains, there are the clues. Return to me ere you follow the One's path, for there is much that you must learn.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: Baldur's Gate II: Shadows of Amn
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Solve the Riddle of the Sewers
+Objective: follow the One's path, and return to Quallo
+First Tasks: find the clues from the One
+First Task Locations:  - where the topside filth drains
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - the blade (amount: 1)
+Characters: One - a mysterious being (location: )
+Tools: Quallo is standing next to a creature that he calls a friend, the blade is hidden
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: Baldur's Gate II: Shadows of Amn
+Motivation: NONE
+
+### Response:
+I'm Quallo, and this thing here is my friend. You have come for the blade, I suppose. It is as we have always expected, my friend. (He glances to the creature beside him.) Too long in this pit, too long. The gleam in your eye! It belies your greed, your passion. I've found this blade, child! It is hidden most insidiously. A cruel jest has been played upon us all. My friend here knows this! The One has left clues for you. Have you not found the clues? Where the topside filth drains, there are the clues. Return to me ere you follow the One's path, for there is much that you must learn.
+

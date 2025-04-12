@@ -1,15 +1,22 @@
-### Quest Name: Bittneld and Emfrid
-### Objective: help to bring Emfrid and Bittneld the Curse-Bringer together
-### First Tasks: talk to Emfrid about Bittneld the Curse-Bringer, and talk to Bittneld the Curse-Bringer about Emfrid
-### First Task Locations: NONE - 
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: Emfrid - the female proprietor of the Grey Mare (location: ), Bittneld the Curse-Bringer - a male guard captain (location: )
-### Tools: NONE
-### Description: Hello. I'm Casta Scribonia. The writer. Author of 'Woman Gone Wild'. Who is the fairest of them all? Other than myself? Emfrid, the proprietor of the Grey Mare is lovely. She and Bittneld the Curse-Bringer, the guard captain would be a nice couple.... Perhaps you could bring them together somehow... try talking to them both about each other?
-### Locations: Grey Mare - a tavern (location: NONE)
-### Items: 'Woman Gone Wild' - a book (amount: 1)
-### Enemies: NONE
-### Groups: NONE
-### Title: The Elder Scrolls IV: Oblivion
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Bittneld and Emfrid
+Objective: help to bring Emfrid and Bittneld the Curse-Bringer together
+First Tasks: talk to Emfrid about Bittneld the Curse-Bringer, and talk to Bittneld the Curse-Bringer about Emfrid
+First Task Locations: NONE - 
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: Emfrid - the female proprietor of the Grey Mare (location: ), Bittneld the Curse-Bringer - a male guard captain (location: )
+Tools: NONE
+Locations: Grey Mare - a tavern (location: NONE)
+Items: 'Woman Gone Wild' - a book (amount: 1)
+Enemies: NONE
+Groups: NONE
+Title: The Elder Scrolls IV: Oblivion
+Motivation: NONE
+
+### Response:
+Hello. I'm Casta Scribonia. The writer. Author of 'Woman Gone Wild'. Who is the fairest of them all? Other than myself? Emfrid, the proprietor of the Grey Mare is lovely. She and Bittneld the Curse-Bringer, the guard captain would be a nice couple.... Perhaps you could bring them together somehow... try talking to them both about each other?
+

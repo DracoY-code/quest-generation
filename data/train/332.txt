@@ -1,15 +1,22 @@
-### Quest Name: Complete Brahmin Drive
-### Objective: Safely escort a herd of brahmin to their destination while defending against potential threats.
-### First Tasks: Meet the brahmin drive leader to receive instructions., Ensure the herd is properly gathered before departure., Defend the brahmin from raiders, wild animals, or other dangers along the way.
-### First Task Locations: Starting Point - The initial location where the brahmin drive begins.
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: Caps - Payment for successfully completing the drive. (amount: NONE), Experience Points - XP for safely escorting the brahmin. (amount: NONE)
-### Characters: NONE
-### Tools: Weapons to fight off raiders or wild animals., Survival skills to navigate dangerous terrain., Herding techniques to keep the brahmin in line.
-### Description: A caravan of brahmin needs to be moved to a new location, but the route is fraught with danger. Your task is to ensure the safe arrival of the herd while dealing with any threats along the way.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: Fallout 2
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Complete Brahmin Drive
+Objective: Safely escort a herd of brahmin to their destination while defending against potential threats.
+First Tasks: Meet the brahmin drive leader to receive instructions., Ensure the herd is properly gathered before departure., Defend the brahmin from raiders, wild animals, or other dangers along the way.
+First Task Locations: Starting Point - The initial location where the brahmin drive begins.
+Quest Giver: NONE - NONE (location: NONE)
+Reward: Caps - Payment for successfully completing the drive. (amount: NONE), Experience Points - XP for safely escorting the brahmin. (amount: NONE)
+Characters: NONE
+Tools: Weapons to fight off raiders or wild animals., Survival skills to navigate dangerous terrain., Herding techniques to keep the brahmin in line.
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: Fallout 2
+Motivation: NONE
+
+### Response:
+A caravan of brahmin needs to be moved to a new location, but the route is fraught with danger. Your task is to ensure the safe arrival of the herd while dealing with any threats along the way.
+

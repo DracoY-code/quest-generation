@@ -1,15 +1,22 @@
-### Quest Name: Restore Kangaxx's Body
-### Objective: reverse Kangaxx's curse
-### First Tasks: find Kangaxx's arms, legs, and torso
-### First Task Locations:  - within the city in tombs such as this one
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - anything the player wants (amount: 1)
-### Characters: NONE
-### Tools: Kangaxx has been cursed to eternal entrapment in this tomb by his enemies, Kangaxx's curse can be reversed by collecting the pieces of his body: he will become mortal again
-### Description: I am Kangaxx, and I have been cursed. I am dead yet not dead. Cursed to eternal entrapment in this tomb by cruel enemies! Cursed to a fate worse than death! But the curse can be reversed! With your assistance, I may live again. I have suffered for so long... will you help me? The fiends that did this to me keep me from returning by tearing apart my mortal form and keeping the pieces separated. You must find my body that I might again take mortal form. The pieces are very close! I have no doubt that they lie within the city in tombs such as this. My enemies are predictable if nothing else. Seek my arms, legs, and torso. I will give you anything you want. Power, riches beyond number! Anything!
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: Baldur's Gate II: Shadows of Amn
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Restore Kangaxx's Body
+Objective: reverse Kangaxx's curse
+First Tasks: find Kangaxx's arms, legs, and torso
+First Task Locations:  - within the city in tombs such as this one
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - anything the player wants (amount: 1)
+Characters: NONE
+Tools: Kangaxx has been cursed to eternal entrapment in this tomb by his enemies, Kangaxx's curse can be reversed by collecting the pieces of his body: he will become mortal again
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: Baldur's Gate II: Shadows of Amn
+Motivation: NONE
+
+### Response:
+I am Kangaxx, and I have been cursed. I am dead yet not dead. Cursed to eternal entrapment in this tomb by cruel enemies! Cursed to a fate worse than death! But the curse can be reversed! With your assistance, I may live again. I have suffered for so long... will you help me? The fiends that did this to me keep me from returning by tearing apart my mortal form and keeping the pieces separated. You must find my body that I might again take mortal form. The pieces are very close! I have no doubt that they lie within the city in tombs such as this. My enemies are predictable if nothing else. Seek my arms, legs, and torso. I will give you anything you want. Power, riches beyond number! Anything!
+

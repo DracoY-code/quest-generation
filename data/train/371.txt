@@ -1,15 +1,22 @@
-### Quest Name: Destroy the Mutant Leader
-### Objective: Eliminate the Master, leader of the mutant army.
-### First Tasks: Infiltrate the Cathedral and locate the Master.
-### First Task Locations: The Cathedral - A heavily guarded structure serving as the headquarters of the Children of the Cathedral, where the Master resides.
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: Experience Points - Earned for eliminating the Master. (amount: 10000), Brotherhood Support - Assistance from the Brotherhood in future battles. (amount: 1)
-### Characters: NONE
-### Tools: Power Armor, Plasma Rifle, Stealth Boy
-### Description: The Master, a mutated being seeking to unite all life under a single species, leads a growing army of Super Mutants. The Vault Dweller is tasked with infiltrating the Cathedral, navigating its defenses, and eliminating the Master through direct combat or by sabotaging his life support system. The outcome affects the future of the wasteland.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: Fallout
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Destroy the Mutant Leader
+Objective: Eliminate the Master, leader of the mutant army.
+First Tasks: Infiltrate the Cathedral and locate the Master.
+First Task Locations: The Cathedral - A heavily guarded structure serving as the headquarters of the Children of the Cathedral, where the Master resides.
+Quest Giver: NONE - NONE (location: NONE)
+Reward: Experience Points - Earned for eliminating the Master. (amount: 10000), Brotherhood Support - Assistance from the Brotherhood in future battles. (amount: 1)
+Characters: NONE
+Tools: Power Armor, Plasma Rifle, Stealth Boy
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: Fallout
+Motivation: NONE
+
+### Response:
+The Master, a mutated being seeking to unite all life under a single species, leads a growing army of Super Mutants. The Vault Dweller is tasked with infiltrating the Cathedral, navigating its defenses, and eliminating the Master through direct combat or by sabotaging his life support system. The outcome affects the future of the wasteland.
+

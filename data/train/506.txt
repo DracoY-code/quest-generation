@@ -1,15 +1,22 @@
-### Quest Name: The Bloodstone Chalice
-### Objective: fill the Bloodstone Chalice for Harkon
-### First Tasks: follow Garan Marethi to the Bloodstone Chalice
-### First Task Locations: NONE - 
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: Harkon - the Lord of the player and Garan Marethi's vampire clan (location: )
-### Tools: the player told Garan Marethi that Harkon wants the Bloodstone Chalice without addressing Harkon properly as Lord Harkon, Harkon has owned the Bloodstone Chalice for a long time
-### Description: Lord Harkon. Remember your place. Now, he wants the Chalice, then. You've heard of the Bloodstone Chalice? The Chalice has been in Lord Harkon's possession for quite some time now. It is, when used properly, able to increase the potency of our powers. Lord Harkon has neglected using the Chalice for ages. If he wants it filled now, then grander things are afoot. This is good. Follow me. I'll take you to the Bloodstone Chalice.
-### Locations: NONE
-### Items: Bloodstone Chalice - a chalice that is able to increase the potency of the player's vampiric powers (amount: 1)
-### Enemies: NONE
-### Groups: NONE
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: The Bloodstone Chalice
+Objective: fill the Bloodstone Chalice for Harkon
+First Tasks: follow Garan Marethi to the Bloodstone Chalice
+First Task Locations: NONE - 
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: Harkon - the Lord of the player and Garan Marethi's vampire clan (location: )
+Tools: the player told Garan Marethi that Harkon wants the Bloodstone Chalice without addressing Harkon properly as Lord Harkon, Harkon has owned the Bloodstone Chalice for a long time
+Locations: NONE
+Items: Bloodstone Chalice - a chalice that is able to increase the potency of the player's vampiric powers (amount: 1)
+Enemies: NONE
+Groups: NONE
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+Lord Harkon. Remember your place. Now, he wants the Chalice, then. You've heard of the Bloodstone Chalice? The Chalice has been in Lord Harkon's possession for quite some time now. It is, when used properly, able to increase the potency of our powers. Lord Harkon has neglected using the Chalice for ages. If he wants it filled now, then grander things are afoot. This is good. Follow me. I'll take you to the Bloodstone Chalice.
+

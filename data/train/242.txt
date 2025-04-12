@@ -1,15 +1,22 @@
-### Quest Name: To Kill a Guild
-### Objective: kill Aran Linvail
-### First Tasks: find a way to access Aran Linvail's sanctum
-### First Task Locations:  - the basement of the Shadow Thief guild house
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - Bodhi and the player's arrangement will be fulfilled (amount: 1)
-### Characters: Aran Linvail, the Shadowmaster - the male leader of the Shadow Thieves (location: Aran Linvail's sanctum), Tizzak - Bodhi's male employee (location: )
-### Tools: the player has worked for Bodhi before, Aran Linvail is in the basement of the Shadow Thief guild house: the player needs a key to the basement, Tizzak is missing, and the Shadow Thieves may have him: he may know how to access Aran Linvail's sanctum
-### Description: Again, I require your talents. Now to the task at hand. It is time to take down the leadership of the Shadow Thieves and throw them into a more permanent disarray from which they may not recover. You must invade their lair one last time. You must kill Aran Linvail, the Shadowmaster. Do this for me, and our arrangement will be fulfilled. Aran is in the basement of the Shadow Thief guild house, so you need a key. The lock is likely unpickable. What good is a lock in a thieves' guild if any thief can pick it? One more thing: Tizzak, an employee of mine, is missing, and the Thieves may have him. Find him, and he may tell you how to access Aran's sanctum. Go now!
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: Shadow Thief, Shadow Thieves - a guild of thieves
-### Title: Baldur's Gate II: Shadows of Amn
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: To Kill a Guild
+Objective: kill Aran Linvail
+First Tasks: find a way to access Aran Linvail's sanctum
+First Task Locations:  - the basement of the Shadow Thief guild house
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - Bodhi and the player's arrangement will be fulfilled (amount: 1)
+Characters: Aran Linvail, the Shadowmaster - the male leader of the Shadow Thieves (location: Aran Linvail's sanctum), Tizzak - Bodhi's male employee (location: )
+Tools: the player has worked for Bodhi before, Aran Linvail is in the basement of the Shadow Thief guild house: the player needs a key to the basement, Tizzak is missing, and the Shadow Thieves may have him: he may know how to access Aran Linvail's sanctum
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: Shadow Thief, Shadow Thieves - a guild of thieves
+Title: Baldur's Gate II: Shadows of Amn
+Motivation: NONE
+
+### Response:
+Again, I require your talents. Now to the task at hand. It is time to take down the leadership of the Shadow Thieves and throw them into a more permanent disarray from which they may not recover. You must invade their lair one last time. You must kill Aran Linvail, the Shadowmaster. Do this for me, and our arrangement will be fulfilled. Aran is in the basement of the Shadow Thief guild house, so you need a key. The lock is likely unpickable. What good is a lock in a thieves' guild if any thief can pick it? One more thing: Tizzak, an employee of mine, is missing, and the Thieves may have him. Find him, and he may tell you how to access Aran's sanctum. Go now!
+

@@ -1,15 +1,22 @@
-### Quest Name: The Ghost of Old Hroldan
-### Objective: put the Ghost of Old Hroldan to rest
-### First Tasks: find Hjalti's sword ,and give it to the Ghost of Old Hroldan
-### First Task Locations: NONE - 
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: Hjalti - Ghost of Old Hroldan's long-dead brother-in-arms (location: )
-### Tools: the Ghost of Old Hroldan thinks that the player is Hjalti
-### Description: You don't remember me, Hjalti? Two campaigns we served together. You saved my life time and time again. You promised me, Hjalti. You promised that when we sacked Hroldan, you would make me your sworn brother. And I've waited. Even after the enemies' arrows dug into my chest and their hammers crushed my bones. I've waited. Give me your sword, Hjalti. That we may become brothers as you promised.
-### Locations: Hroldan - an ancient, sacked village (location: NONE)
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: The Ghost of Old Hroldan
+Objective: put the Ghost of Old Hroldan to rest
+First Tasks: find Hjalti's sword ,and give it to the Ghost of Old Hroldan
+First Task Locations: NONE - 
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: Hjalti - Ghost of Old Hroldan's long-dead brother-in-arms (location: )
+Tools: the Ghost of Old Hroldan thinks that the player is Hjalti
+Locations: Hroldan - an ancient, sacked village (location: NONE)
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+You don't remember me, Hjalti? Two campaigns we served together. You saved my life time and time again. You promised me, Hjalti. You promised that when we sacked Hroldan, you would make me your sworn brother. And I've waited. Even after the enemies' arrows dug into my chest and their hammers crushed my bones. I've waited. Give me your sword, Hjalti. That we may become brothers as you promised.
+

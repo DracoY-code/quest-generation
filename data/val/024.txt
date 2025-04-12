@@ -1,15 +1,22 @@
-### Quest Name: Joining the Stormcloaks
-### Objective: prove yourself worthy of becoming a Stormcloak
-### First Tasks: kill an Ice Wraith
-### First Task Locations: Serpentstone Isle - a strange rock formation that attracts Ice Wraiths
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - the player becomes a Stormcloak (amount: 1)
-### Characters: NONE
-### Tools: NONE
-### Description: The Stormcloaks need dedicated men and women who're devoted to the cause and willing to die for it. Before I can put you to use, I need to know how much you can take. I have a little test for you. I'm sending you to Serpentstone Isle. If you survive, you pass. If you die, well, you weren't going to be much use to me anyway. It's where men have tested their mettle for ages. There's a strange rock formation, built by the ancients. Something about that place attracts the Ice Wraiths. You kill an Ice Wraith out there, and I'll have all the proof I need about you being Stormcloak material.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: Stormcloaks - rebel forces opposing the Empire, Ice Wraiths - dangerous creatures
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Joining the Stormcloaks
+Objective: prove yourself worthy of becoming a Stormcloak
+First Tasks: kill an Ice Wraith
+First Task Locations: Serpentstone Isle - a strange rock formation that attracts Ice Wraiths
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - the player becomes a Stormcloak (amount: 1)
+Characters: NONE
+Tools: NONE
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: Stormcloaks - rebel forces opposing the Empire, Ice Wraiths - dangerous creatures
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+The Stormcloaks need dedicated men and women who're devoted to the cause and willing to die for it. Before I can put you to use, I need to know how much you can take. I have a little test for you. I'm sending you to Serpentstone Isle. If you survive, you pass. If you die, well, you weren't going to be much use to me anyway. It's where men have tested their mettle for ages. There's a strange rock formation, built by the ancients. Something about that place attracts the Ice Wraiths. You kill an Ice Wraith out there, and I'll have all the proof I need about you being Stormcloak material.
+

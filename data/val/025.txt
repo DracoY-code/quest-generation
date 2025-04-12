@@ -1,15 +1,22 @@
-### Quest Name: Heeding the Spirit of the Grove
-### Objective: serve the grove as a leader bringing balance
-### First Tasks: kill Nilthiri
-### First Task Locations:  - along the path to the east of the troll mound
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: Nilthiri - a shamaness, and the leader of the trolls of the troll mound (location: along the path to the east of the troll mound)
-### Tools: the player is a druid, Nilthiri will overrun the grove if not stopped
-### Description: I am the spirit of the grove, child. I am the water, the earth, the trees, and the sun. I am life and death: the eternal cycle. A druid who serves the cause of balance is needed. The grove requires leadership, a gentle hand. Will you serve the grove as such? There is much work to be done. Listen and learn the path of balance, the path of the Eternal Cycle. Long have the trolls of the mound lived beneath the protection of the grove. But a new leader has arisen. Nilthiri the shamaness leads the trolls to chaos. She urges them to expand their territory, and she brings more trolls to the mound without thought to the consequences. If this continues, the trolls will overrun the grove, and nature will suffer. A servant of nature must bring the life cycle of Nilthiri to a close for the good of all. You will find Nilthiri along the path to the east of the troll mound.
-### Locations:  - grove (location: NONE)
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: Baldur's Gate II: Shadows of Amn
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Heeding the Spirit of the Grove
+Objective: serve the grove as a leader bringing balance
+First Tasks: kill Nilthiri
+First Task Locations:  - along the path to the east of the troll mound
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: Nilthiri - a shamaness, and the leader of the trolls of the troll mound (location: along the path to the east of the troll mound)
+Tools: the player is a druid, Nilthiri will overrun the grove if not stopped
+Locations:  - grove (location: NONE)
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: Baldur's Gate II: Shadows of Amn
+Motivation: NONE
+
+### Response:
+I am the spirit of the grove, child. I am the water, the earth, the trees, and the sun. I am life and death: the eternal cycle. A druid who serves the cause of balance is needed. The grove requires leadership, a gentle hand. Will you serve the grove as such? There is much work to be done. Listen and learn the path of balance, the path of the Eternal Cycle. Long have the trolls of the mound lived beneath the protection of the grove. But a new leader has arisen. Nilthiri the shamaness leads the trolls to chaos. She urges them to expand their territory, and she brings more trolls to the mound without thought to the consequences. If this continues, the trolls will overrun the grove, and nature will suffer. A servant of nature must bring the life cycle of Nilthiri to a close for the good of all. You will find Nilthiri along the path to the east of the troll mound.
+

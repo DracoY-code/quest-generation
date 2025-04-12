@@ -1,15 +1,22 @@
-### Quest Name: Malacath's Family of Monsters
-### Objective: rescue ogres from slavery under Lord Drad
-### First Tasks: let Malacath's ogres loose and get them out of Lord Drad's mines
-### First Task Locations:  - Lord Drad's estate
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: Volendrung - a legendary hammer (amount: 1)
-### Characters: Lord Drad - a nobleman (location: Lord Drad's estate)
-### Tools: Lord Drad took Malacath's ogres: ogres are Malacath's little brothers, Lord Drad put Malacath's ogres in chains, working in the mines
-### Description: You want something from Malacath? Then, if you're smart, you do what I tell you. Lord Drad took my ogres. Says he owns them. Lying maggot! They're MY ogres! Lord Drad put my little brothers in chains, working in the mines. I don't like that. Get over to Lord Drad's estate. Let my ogres loose, and get them out! Okay? Get going! You get a present, Volendrung. Be nice to my little brothers!
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: Daedric Princes - immortal, fickle, infamous divine beings
-### Title: The Elder Scrolls IV: Oblivion
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Malacath's Family of Monsters
+Objective: rescue ogres from slavery under Lord Drad
+First Tasks: let Malacath's ogres loose and get them out of Lord Drad's mines
+First Task Locations:  - Lord Drad's estate
+Quest Giver: NONE - NONE (location: NONE)
+Reward: Volendrung - a legendary hammer (amount: 1)
+Characters: Lord Drad - a nobleman (location: Lord Drad's estate)
+Tools: Lord Drad took Malacath's ogres: ogres are Malacath's little brothers, Lord Drad put Malacath's ogres in chains, working in the mines
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: Daedric Princes - immortal, fickle, infamous divine beings
+Title: The Elder Scrolls IV: Oblivion
+Motivation: NONE
+
+### Response:
+You want something from Malacath? Then, if you're smart, you do what I tell you. Lord Drad took my ogres. Says he owns them. Lying maggot! They're MY ogres! Lord Drad put my little brothers in chains, working in the mines. I don't like that. Get over to Lord Drad's estate. Let my ogres loose, and get them out! Okay? Get going! You get a present, Volendrung. Be nice to my little brothers!
+

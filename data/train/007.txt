@@ -1,15 +1,22 @@
-### Quest Name: That Belongs to a Library!
-### Objective: recover writings of a lost culture for Jane
-### First Tasks: find the writings of a lost culture
-### First Task Locations:  - an ocean ruin far west of here
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - some bookshelves (amount: 1)
-### Characters: NONE
-### Tools: the player is a famous hero
-### Description: There are ruins scattered on both land and the bottom of the sea, hero. These ruins tell us many things about the people who inhabited them: their hardships and hopes. I'm not a hero like you, just your everyday librarian. I know of a submerged ruin in an ocean far west of here that you could explore. I implore you: find writings of a lost culture that lived in the ruin. The writings will be reduced to a lump of watery paper, if we don't recover them in time. I have some unused bookshelves that I could give you in return. Even heroes need to civilize themselves with quality literature sometimes.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: Minecraft
-### Motivation: knowledge
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: That Belongs to a Library!
+Objective: recover writings of a lost culture for Jane
+First Tasks: find the writings of a lost culture
+First Task Locations:  - an ocean ruin far west of here
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - some bookshelves (amount: 1)
+Characters: NONE
+Tools: the player is a famous hero
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: Minecraft
+Motivation: knowledge
+
+### Response:
+There are ruins scattered on both land and the bottom of the sea, hero. These ruins tell us many things about the people who inhabited them: their hardships and hopes. I'm not a hero like you, just your everyday librarian. I know of a submerged ruin in an ocean far west of here that you could explore. I implore you: find writings of a lost culture that lived in the ruin. The writings will be reduced to a lump of watery paper, if we don't recover them in time. I have some unused bookshelves that I could give you in return. Even heroes need to civilize themselves with quality literature sometimes.
+

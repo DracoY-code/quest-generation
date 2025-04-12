@@ -1,15 +1,22 @@
-### Quest Name: Skilled Apprenticeship
-### Objective: bring 'The Last Scabbard of Akrash' to Ghorza gra-Bagol
-### First Tasks: find a copy of 'The Last Scabbard of Akrash'
-### First Task Locations: NONE - 
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - Ghorza gra-Bagol teaches the player smithing (amount: 1)
-### Characters: Tacitus - a young Imperial man, and Ghorza gra-Bagol's apprentice (location: )
-### Tools: Tacitus is not learning smithing by example: Ghorza gra-Bagol thinks that 'The Last Scabbard of Akrash' could help him learn
-### Description: You'd think an apprentice could forge a few hinges. Not Tacitus. I keep showing him how to treat the iron, but he never gets it. In the Legion, the Imperial smiths used to read books when they couldn't set their hammers straight. Wisdom of the old, I guess. If you find a book called 'The Last Scabbard of Akrash', could you bring it to me? Tacitus sure isn't learning by example. Books. Don't know why the Imperials like them so much. It should help the boy, though, Malacath willing. Bring the book, and I'll show you how an Orc learns to smith.
-### Locations: NONE
-### Items: 'The Last Scabbard of Akrash' - a book on smithing (amount: 1)
-### Enemies: NONE
-### Groups: NONE
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Skilled Apprenticeship
+Objective: bring 'The Last Scabbard of Akrash' to Ghorza gra-Bagol
+First Tasks: find a copy of 'The Last Scabbard of Akrash'
+First Task Locations: NONE - 
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - Ghorza gra-Bagol teaches the player smithing (amount: 1)
+Characters: Tacitus - a young Imperial man, and Ghorza gra-Bagol's apprentice (location: )
+Tools: Tacitus is not learning smithing by example: Ghorza gra-Bagol thinks that 'The Last Scabbard of Akrash' could help him learn
+Locations: NONE
+Items: 'The Last Scabbard of Akrash' - a book on smithing (amount: 1)
+Enemies: NONE
+Groups: NONE
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+You'd think an apprentice could forge a few hinges. Not Tacitus. I keep showing him how to treat the iron, but he never gets it. In the Legion, the Imperial smiths used to read books when they couldn't set their hammers straight. Wisdom of the old, I guess. If you find a book called 'The Last Scabbard of Akrash', could you bring it to me? Tacitus sure isn't learning by example. Books. Don't know why the Imperials like them so much. It should help the boy, though, Malacath willing. Bring the book, and I'll show you how an Orc learns to smith.
+

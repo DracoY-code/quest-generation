@@ -1,15 +1,22 @@
-### Quest Name: Sanguine, the Party Prince
-### Objective: crash a dinner party at Castle Leyawiin and play a prank on the guests
-### First Tasks: find a way in to the dinner party
-### First Task Locations: Castle Leyawiin - a castle in Leyawiin
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: Countess - the somber noblewoman who rules over Castle Leyawiin (location: Castle Leyawiin)
-### Tools: the player has summoned Sanguine, the Countess is hosting a dinner party, Sanguine gives the player a spell: the player should use it on the Countess and her guests to liven up the dinner party, the dinner party is invitation only
-### Description: Ah... another mortal come to beg Sanguine to add a bit of spice to an otherwise drab existence. I would have you perform a service for me. The Castle Leyawiin is a dull, dreary place. The mistress is an especially somber soul, and tomorrow she will hold another excruciating dinner party. I want you to liven it up. Use this spell on the Countess and her guests. I think it will make the party much more interesting. You should probably try to be inconspicuous. Or they might kill you. Oh, and the party is by invitation only. You'll have to find a way in. Have fun!
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: Daedric Princes - immortal, fickle, infamous divine beings
-### Title: The Elder Scrolls IV: Oblivion
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Sanguine, the Party Prince
+Objective: crash a dinner party at Castle Leyawiin and play a prank on the guests
+First Tasks: find a way in to the dinner party
+First Task Locations: Castle Leyawiin - a castle in Leyawiin
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: Countess - the somber noblewoman who rules over Castle Leyawiin (location: Castle Leyawiin)
+Tools: the player has summoned Sanguine, the Countess is hosting a dinner party, Sanguine gives the player a spell: the player should use it on the Countess and her guests to liven up the dinner party, the dinner party is invitation only
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: Daedric Princes - immortal, fickle, infamous divine beings
+Title: The Elder Scrolls IV: Oblivion
+Motivation: NONE
+
+### Response:
+Ah... another mortal come to beg Sanguine to add a bit of spice to an otherwise drab existence. I would have you perform a service for me. The Castle Leyawiin is a dull, dreary place. The mistress is an especially somber soul, and tomorrow she will hold another excruciating dinner party. I want you to liven it up. Use this spell on the Countess and her guests. I think it will make the party much more interesting. You should probably try to be inconspicuous. Or they might kill you. Oh, and the party is by invitation only. You'll have to find a way in. Have fun!
+

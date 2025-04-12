@@ -1,15 +1,22 @@
-### Quest Name: Get book from Derek
-### Objective: Retrieve a book from Derek and return it to the quest giver.
-### First Tasks: Find Derek and ask him about the book., Convince or persuade Derek to hand over the book.
-### First Task Locations: The Den - A small town where Derek can be found.
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: Caps - A monetary reward for retrieving the book. (amount: 100), Experience Points - XP gained for successfully completing the task. (amount: NONE)
-### Characters: NONE
-### Tools: Speech skill to persuade Derek to give up the book., Stealth to pickpocket the book if needed.
-### Description: A person in The Den needs you to retrieve a book from Derek, who may not be willing to part with it easily.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: Fallout 2
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Get book from Derek
+Objective: Retrieve a book from Derek and return it to the quest giver.
+First Tasks: Find Derek and ask him about the book., Convince or persuade Derek to hand over the book.
+First Task Locations: The Den - A small town where Derek can be found.
+Quest Giver: NONE - NONE (location: NONE)
+Reward: Caps - A monetary reward for retrieving the book. (amount: 100), Experience Points - XP gained for successfully completing the task. (amount: NONE)
+Characters: NONE
+Tools: Speech skill to persuade Derek to give up the book., Stealth to pickpocket the book if needed.
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: Fallout 2
+Motivation: NONE
+
+### Response:
+A person in The Den needs you to retrieve a book from Derek, who may not be willing to part with it easily.
+

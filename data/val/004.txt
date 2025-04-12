@@ -1,15 +1,22 @@
-### Quest Name: Free Adytum from the Regulators
-### Objective: Eliminate the Regulators and free Adytum from their control.
-### First Tasks: Gather allies to fight against the Regulators., Attack the Regulators' headquarters in Adytum.
-### First Task Locations: Adytum - A settlement in the Boneyard under the oppressive rule of the Regulators.
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: Caps - A monetary reward for successfully overthrowing the Regulators. (amount: 1500), Improved standing with Adytum citizens - The people of Adytum will recognize you as a hero. (amount: NONE)
-### Characters: NONE
-### Tools: Strong allies such as the Blades or Followers of the Apocalypse, Powerful weapons and armor for combat
-### Description: Adytum is under the control of the Regulators, a corrupt group posing as law enforcers. Jon Zimmerman wants them removed, and you must lead an effort to free the town.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: Fallout
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Free Adytum from the Regulators
+Objective: Eliminate the Regulators and free Adytum from their control.
+First Tasks: Gather allies to fight against the Regulators., Attack the Regulators' headquarters in Adytum.
+First Task Locations: Adytum - A settlement in the Boneyard under the oppressive rule of the Regulators.
+Quest Giver: NONE - NONE (location: NONE)
+Reward: Caps - A monetary reward for successfully overthrowing the Regulators. (amount: 1500), Improved standing with Adytum citizens - The people of Adytum will recognize you as a hero. (amount: NONE)
+Characters: NONE
+Tools: Strong allies such as the Blades or Followers of the Apocalypse, Powerful weapons and armor for combat
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: Fallout
+Motivation: NONE
+
+### Response:
+Adytum is under the control of the Regulators, a corrupt group posing as law enforcers. Jon Zimmerman wants them removed, and you must lead an effort to free the town.
+

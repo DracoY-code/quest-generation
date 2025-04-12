@@ -1,15 +1,22 @@
-### Quest Name: Baiting the Trap
-### Objective: get out of Xedilian
-### First Tasks: deal with the adventurers
-### First Task Locations: Xedilian - a looping dungeon that is used to get rid of unwanted people
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: Sheogorath - a man who employs Kiliban Nyrandil (location: )
-### Tools: Xedilian would normally have sent the player back to the entrance when they stepped on the pad in the Resonator Chamber: the player mus deal with the adventurers who are entering Xedilian before the player can leave Xedilian, the player should consult Kiliban Nyrandil or the Manual
-### Description: Welcome to Xedilian, I'm the dungeon caretaker, Kiliban Nyrandil. Xedilian would normally have sent you back to the entrance when you stepped on the pad in the Resonator Chamber. Since you're up here, I can only surmise that adventurers are already entering the dungeon as we speak. I'm afraid until the adventurers are dealt with, Xedilian will keep you here. Even I can't will its doors to open. To put it bluntly, you're stuck here for the moment. No disrespect intended. The only thing we can do is let the adventurers complete a cycle through here. I'll be glad to help. I assume Sheogorath gave you the Manual. You can consult it for more information, or I can provide instructions.
-### Locations: NONE
-### Items: the Manual - a manual that tells the player how Xedilian works, given to the player by Sheogorath (amount: 1)
-### Enemies: NONE
-### Groups: NONE
-### Title: The Elder Scrolls IV: Oblivion
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Baiting the Trap
+Objective: get out of Xedilian
+First Tasks: deal with the adventurers
+First Task Locations: Xedilian - a looping dungeon that is used to get rid of unwanted people
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: Sheogorath - a man who employs Kiliban Nyrandil (location: )
+Tools: Xedilian would normally have sent the player back to the entrance when they stepped on the pad in the Resonator Chamber: the player mus deal with the adventurers who are entering Xedilian before the player can leave Xedilian, the player should consult Kiliban Nyrandil or the Manual
+Locations: NONE
+Items: the Manual - a manual that tells the player how Xedilian works, given to the player by Sheogorath (amount: 1)
+Enemies: NONE
+Groups: NONE
+Title: The Elder Scrolls IV: Oblivion
+Motivation: NONE
+
+### Response:
+Welcome to Xedilian, I'm the dungeon caretaker, Kiliban Nyrandil. Xedilian would normally have sent you back to the entrance when you stepped on the pad in the Resonator Chamber. Since you're up here, I can only surmise that adventurers are already entering the dungeon as we speak. I'm afraid until the adventurers are dealt with, Xedilian will keep you here. Even I can't will its doors to open. To put it bluntly, you're stuck here for the moment. No disrespect intended. The only thing we can do is let the adventurers complete a cycle through here. I'll be glad to help. I assume Sheogorath gave you the Manual. You can consult it for more information, or I can provide instructions.
+

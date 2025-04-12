@@ -1,15 +1,22 @@
-### Quest Name: Kill Razor
-### Objective: Eliminate Razor, the leader of the Blades.
-### First Tasks: Locate Razor in Adytum., Engage and eliminate Razor.
-### First Task Locations: Adytum - A settlement in the Boneyard where the Blades reside.
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: Caps - A monetary reward for completing the task. (amount: 0), Favor with the Regulators - Increased reputation with the Regulators for carrying out their orders. (amount: NONE)
-### Characters: NONE
-### Tools: Weapons, Armor
-### Description: The Regulators of Adytum have ordered the assassination of Razor, the leader of the Blades. You must locate and kill her.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: Fallout
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Kill Razor
+Objective: Eliminate Razor, the leader of the Blades.
+First Tasks: Locate Razor in Adytum., Engage and eliminate Razor.
+First Task Locations: Adytum - A settlement in the Boneyard where the Blades reside.
+Quest Giver: NONE - NONE (location: NONE)
+Reward: Caps - A monetary reward for completing the task. (amount: 0), Favor with the Regulators - Increased reputation with the Regulators for carrying out their orders. (amount: NONE)
+Characters: NONE
+Tools: Weapons, Armor
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: Fallout
+Motivation: NONE
+
+### Response:
+The Regulators of Adytum have ordered the assassination of Razor, the leader of the Blades. You must locate and kill her.
+

@@ -1,15 +1,22 @@
-### Quest Name: A New Debt
-### Objective: help Drovas Relvi with his debt to Mogrul
-### First Tasks: pay Drovas Relvi's debt
-### First Task Locations: NONE - 
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - Mogrul will stop sending his debt collectors after the player (amount: 1)
-### Characters: Drovas Relvi - a man the player recruited for Neloth, and thus became untouchable (location: ), Neloth - a powerful male wizard (location: )
-### Tools: Drovas Relvi owes Mogrul 1,000 septims: Mogrul thinks that the player should pay Drovas Relvi's debt
-### Description: It seems you've inherited a problem. Drovas Relvi owes me 1,000 septims. At least he did until you set him up with that powerful wizard. Now he's untouchable. The way I figure it, it's your fault he can't pay me. So I guess I'm going to have to collect it from you. And if you don't pay me? Nothing for now. But watch your back. I'll be sending collectors to find you. They won't ask so nicely. One way or the other, I'll get my money. When you are tired of looking over your shoulder, you'll pay me.
-### Locations: NONE
-### Items: septims - a currency (amount: 1000)
-### Enemies: NONE
-### Groups: NONE
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: A New Debt
+Objective: help Drovas Relvi with his debt to Mogrul
+First Tasks: pay Drovas Relvi's debt
+First Task Locations: NONE - 
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - Mogrul will stop sending his debt collectors after the player (amount: 1)
+Characters: Drovas Relvi - a man the player recruited for Neloth, and thus became untouchable (location: ), Neloth - a powerful male wizard (location: )
+Tools: Drovas Relvi owes Mogrul 1,000 septims: Mogrul thinks that the player should pay Drovas Relvi's debt
+Locations: NONE
+Items: septims - a currency (amount: 1000)
+Enemies: NONE
+Groups: NONE
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+It seems you've inherited a problem. Drovas Relvi owes me 1,000 septims. At least he did until you set him up with that powerful wizard. Now he's untouchable. The way I figure it, it's your fault he can't pay me. So I guess I'm going to have to collect it from you. And if you don't pay me? Nothing for now. But watch your back. I'll be sending collectors to find you. They won't ask so nicely. One way or the other, I'll get my money. When you are tired of looking over your shoulder, you'll pay me.
+

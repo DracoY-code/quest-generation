@@ -1,15 +1,22 @@
-### Quest Name: The Inheritance
-### Objective: find the hidden treasure for yourself
-### First Tasks: get your prisoner's treasure from a hollowed-out tree stump
-### First Task Locations:  - the marsh south of Solitude
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - treasure (amount: 1)
-### Characters: NONE
-### Tools: the player is torturing their prisoner, the player's prisoner has hidden her inheritance
-### Description: Why are you people doing this? Is it information you want? This... this is about the inheritance, isn't it? All right! I'll tell you where I've hidden it. It's in a hollowed-out tree stump. In the marsh, south of Solitude. Now please, you'll let me go now. Right? Why don't you be a dear and let me go now. All right? I won't say a word to anyone. Our little secret. I promise.
-### Locations: Solitude - a city (location: NONE)
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: The Inheritance
+Objective: find the hidden treasure for yourself
+First Tasks: get your prisoner's treasure from a hollowed-out tree stump
+First Task Locations:  - the marsh south of Solitude
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - treasure (amount: 1)
+Characters: NONE
+Tools: the player is torturing their prisoner, the player's prisoner has hidden her inheritance
+Locations: Solitude - a city (location: NONE)
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+Why are you people doing this? Is it information you want? This... this is about the inheritance, isn't it? All right! I'll tell you where I've hidden it. It's in a hollowed-out tree stump. In the marsh, south of Solitude. Now please, you'll let me go now. Right? Why don't you be a dear and let me go now. All right? I won't say a word to anyone. Our little secret. I promise.
+

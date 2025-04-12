@@ -1,15 +1,22 @@
-### Quest Name: Find Out What Happened to Montaron
-### Objective: return to Xzar after you have found Montaron
-### First Tasks: find Montaron
-### First Task Locations:  - Harpers' building
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: Montaron, Monty - a short, male halfling thief, and Xzar's friend (location: )
-### Tools: Montaron was captured by Harpers
-### Description: My friend Montaron has been taken captive by those irksome Harpers. I would have you enter their building and find Monty for me. Short... halfling... thief... even one of your intellectual capacity can't miss him. Go to their building and return once you have found him.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: Harpers - an organization dedicated to upholding the balance between good and evil
-### Title: Baldur's Gate II: Shadows of Amn
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Find Out What Happened to Montaron
+Objective: return to Xzar after you have found Montaron
+First Tasks: find Montaron
+First Task Locations:  - Harpers' building
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: Montaron, Monty - a short, male halfling thief, and Xzar's friend (location: )
+Tools: Montaron was captured by Harpers
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: Harpers - an organization dedicated to upholding the balance between good and evil
+Title: Baldur's Gate II: Shadows of Amn
+Motivation: NONE
+
+### Response:
+My friend Montaron has been taken captive by those irksome Harpers. I would have you enter their building and find Monty for me. Short... halfling... thief... even one of your intellectual capacity can't miss him. Go to their building and return once you have found him.
+

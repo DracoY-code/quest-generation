@@ -1,15 +1,22 @@
-### Quest Name: Help Irwin
-### Objective: Assist Irwin in reclaiming his home from raiders.
-### First Tasks: Talk to Irwin to learn about the raiders., Travel to Irwin's farm., Eliminate the raiders occupying the farm.
-### First Task Locations: Hub Downtown - The area where Irwin is found, seeking help from travelers., Irwin's Farm - A small farm outside the Hub, now occupied by raiders.
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: Leather Armor - A piece of armor given by Irwin as thanks for helping him reclaim his farm. (amount: 1), Experience Points - Earned for successfully clearing out the raiders. (amount: 500)
-### Characters: NONE
-### Tools: Combat skills, Firearms, Melee weapons
-### Description: Irwin, a displaced farmer in the Hub, pleads for help in reclaiming his farm from a group of raiders. The player can take on the challenge, eliminate the raiders, and restore Irwin’s home, earning a reward for their efforts.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: Fallout
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Help Irwin
+Objective: Assist Irwin in reclaiming his home from raiders.
+First Tasks: Talk to Irwin to learn about the raiders., Travel to Irwin's farm., Eliminate the raiders occupying the farm.
+First Task Locations: Hub Downtown - The area where Irwin is found, seeking help from travelers., Irwin's Farm - A small farm outside the Hub, now occupied by raiders.
+Quest Giver: NONE - NONE (location: NONE)
+Reward: Leather Armor - A piece of armor given by Irwin as thanks for helping him reclaim his farm. (amount: 1), Experience Points - Earned for successfully clearing out the raiders. (amount: 500)
+Characters: NONE
+Tools: Combat skills, Firearms, Melee weapons
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: Fallout
+Motivation: NONE
+
+### Response:
+Irwin, a displaced farmer in the Hub, pleads for help in reclaiming his farm from a group of raiders. The player can take on the challenge, eliminate the raiders, and restore Irwin’s home, earning a reward for their efforts.
+

@@ -1,15 +1,22 @@
-### Quest Name: Ghorak the Diseased
-### Objective: take Kereph's skull to Agnasia
-### First Tasks: find Kereph's skull
-### First Task Locations:  - behind a painting at the Three Old Kegs
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: Agnasia - a female priestess (location: The Lady's Hall), Kereph - Ghorak's dead brother (location: )
-### Tools: Ghorak was cursed with an illness for killing his brother, Agnasia knows how to cure Ghorak
-### Description: For your own health and that of your children, come no closer. I, Ghorak, was cursed with this fell disease as punishment for my wickedness... No, your potions and magics are of little use. The only way to cure this sickness is to right the wrongs of the past. Behind a painting at the Three Old Kegs, you will find the skull of my brother, Kereph. Take it to Agnasia in The Lady's Hall. She will know what to do with it.
-### Locations: Three Old Kegs - a tavern (location: NONE), The Lady's Hall - a temple (location: NONE)
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: Baldur's Gate
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Ghorak the Diseased
+Objective: take Kereph's skull to Agnasia
+First Tasks: find Kereph's skull
+First Task Locations:  - behind a painting at the Three Old Kegs
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: Agnasia - a female priestess (location: The Lady's Hall), Kereph - Ghorak's dead brother (location: )
+Tools: Ghorak was cursed with an illness for killing his brother, Agnasia knows how to cure Ghorak
+Locations: Three Old Kegs - a tavern (location: NONE), The Lady's Hall - a temple (location: NONE)
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: Baldur's Gate
+Motivation: NONE
+
+### Response:
+For your own health and that of your children, come no closer. I, Ghorak, was cursed with this fell disease as punishment for my wickedness... No, your potions and magics are of little use. The only way to cure this sickness is to right the wrongs of the past. Behind a painting at the Three Old Kegs, you will find the skull of my brother, Kereph. Take it to Agnasia in The Lady's Hall. She will know what to do with it.
+

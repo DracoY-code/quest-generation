@@ -1,15 +1,22 @@
-### Quest Name: Ghosts of Vitharn
-### Objective: break the cycle of torment for the ghosts of Vitharn
-### First Tasks: correct the mistakes of the four people who failed to protect the gate lever
-### First Task Locations: Vitharn - a castle keep
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: Sheogorath - a fickle god (location: )
-### Tools: Vitharn was overrun by Fanatics centuries ago: Count Cirion and his people failed to defend Vitharn, Sheogorath cursed the shades of Count Cirion's people to repeat the final moments of their failures, within Vitharn, no one will attack the player
-### Description: I am Count Cirion, and you have violated the inner sanctum of Vitharn Keep. However, my people and I are in need. Maybe you can help us. Centuries ago, Vitharn was overrun by Fanatics. We were soft and failed to defend ourselves. I was the weakest of all. Now, the shades of my people are cursed by Sheogorath to repeat the final moments of their failures, over and over again. You must help us break the cycle of torment. Help my people overcome their weakness and defend Vitharn from the Fanatics. Walk among them. There were four who failed to protect the gate lever. Find out what they did wrong and help them correct it. You can put away your sword in these halls. Unlike the defending spirits, within these walls, none will war with you. Not even the Fanatics. My people long to be laid to rest. Please help them.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: Fanatics - 
-### Title: The Elder Scrolls IV: Oblivion
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Ghosts of Vitharn
+Objective: break the cycle of torment for the ghosts of Vitharn
+First Tasks: correct the mistakes of the four people who failed to protect the gate lever
+First Task Locations: Vitharn - a castle keep
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: Sheogorath - a fickle god (location: )
+Tools: Vitharn was overrun by Fanatics centuries ago: Count Cirion and his people failed to defend Vitharn, Sheogorath cursed the shades of Count Cirion's people to repeat the final moments of their failures, within Vitharn, no one will attack the player
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: Fanatics - 
+Title: The Elder Scrolls IV: Oblivion
+Motivation: NONE
+
+### Response:
+I am Count Cirion, and you have violated the inner sanctum of Vitharn Keep. However, my people and I are in need. Maybe you can help us. Centuries ago, Vitharn was overrun by Fanatics. We were soft and failed to defend ourselves. I was the weakest of all. Now, the shades of my people are cursed by Sheogorath to repeat the final moments of their failures, over and over again. You must help us break the cycle of torment. Help my people overcome their weakness and defend Vitharn from the Fanatics. Walk among them. There were four who failed to protect the gate lever. Find out what they did wrong and help them correct it. You can put away your sword in these halls. Unlike the defending spirits, within these walls, none will war with you. Not even the Fanatics. My people long to be laid to rest. Please help them.
+

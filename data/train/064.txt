@@ -1,15 +1,22 @@
-### Quest Name: The Dragon Slayer
-### Objective: retrieve the Holy Avenger from Firkraag
-### First Tasks: slay Firkraag in his lair
-### First Task Locations: Windspear Hills - hills
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: Holy Avenger - a holy sword (amount: 1)
-### Characters: NONE
-### Tools: the player is a knight of the Most Noble Order of the Radiant Heart, this is the player's final task
-### Description: Greetings. It is William Reirrac of the Most Noble Order of the Radiant Heart and I believe it is time for you to perform one final task, if you are willing. There is an item, a holy artifact, that lies within the hands of a great evil. Firkraag, the great red dragon, looms over the Windspear Hills. His reign must end, and from his lair you must retrieve the most holy of blades, the Holy Avenger. This tool of good has been in his possession for too long. Knight, I call upon you to slay the dragon and make a statement for right and justice. The blade will be rescued, but so shall the lands that he rules. This is a great risk, but it must be dealt with sometime. Go, and may the forces of good be your salvation. Accomplish this, and I can think of no one more worthy of wielding the Holy Avenger. In your hands, such a blade will strike deep to evil's heart.
-### Locations: NONE
-### Items: NONE
-### Enemies: Firkraag - a red dragon (amount: 1)
-### Groups: Most Noble Order of the Radiant Heart - an order of holy knights
-### Title: Baldur's Gate II: Shadows of Amn
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: The Dragon Slayer
+Objective: retrieve the Holy Avenger from Firkraag
+First Tasks: slay Firkraag in his lair
+First Task Locations: Windspear Hills - hills
+Quest Giver: NONE - NONE (location: NONE)
+Reward: Holy Avenger - a holy sword (amount: 1)
+Characters: NONE
+Tools: the player is a knight of the Most Noble Order of the Radiant Heart, this is the player's final task
+Locations: NONE
+Items: NONE
+Enemies: Firkraag - a red dragon (amount: 1)
+Groups: Most Noble Order of the Radiant Heart - an order of holy knights
+Title: Baldur's Gate II: Shadows of Amn
+Motivation: NONE
+
+### Response:
+Greetings. It is William Reirrac of the Most Noble Order of the Radiant Heart and I believe it is time for you to perform one final task, if you are willing. There is an item, a holy artifact, that lies within the hands of a great evil. Firkraag, the great red dragon, looms over the Windspear Hills. His reign must end, and from his lair you must retrieve the most holy of blades, the Holy Avenger. This tool of good has been in his possession for too long. Knight, I call upon you to slay the dragon and make a statement for right and justice. The blade will be rescued, but so shall the lands that he rules. This is a great risk, but it must be dealt with sometime. Go, and may the forces of good be your salvation. Accomplish this, and I can think of no one more worthy of wielding the Holy Avenger. In your hands, such a blade will strike deep to evil's heart.
+

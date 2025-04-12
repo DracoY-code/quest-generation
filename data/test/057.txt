@@ -1,15 +1,22 @@
-### Quest Name: Serve the One God
-### Objective: retrieve an item for the One God
-### First Tasks: venture below, and retrieve the item
-### First Task Locations:  - in this area, atop a holy altar
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - the player will be added to the ranks of the One God (amount: 1)
-### Characters: One God, Unseeing Eye - a great god (location: )
-### Tools: Gaal will gives the player a key to the inner chambers, the door to the inner chambers is located a short distance back the way the player came, at the sewer passages
-### Description: I am Gaal, high priest of the One God. There is... something that you could do that the great one cannot, despite his vast power. The Unseeing Eye knows of a valuable item in this area. The item is a rod... or part of a rod, rather, that you will find atop a holy altar. I cannot tell you more than that. You must let your faith guide you. If you were to venture below, you could prove your worth by retrieving this artifact for him. Do this, and I will allow you into our ranks and the One's divine presence. I have a key I can give you... This will allow you entrance to the inner chambers through a door a short distance back the way you came, at the sewer passages.
-### Locations: NONE
-### Items: item - an artifact, a part of a rod (amount: 1)
-### Enemies: NONE
-### Groups: NONE
-### Title: Baldur's Gate II: Shadows of Amn
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Serve the One God
+Objective: retrieve an item for the One God
+First Tasks: venture below, and retrieve the item
+First Task Locations:  - in this area, atop a holy altar
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - the player will be added to the ranks of the One God (amount: 1)
+Characters: One God, Unseeing Eye - a great god (location: )
+Tools: Gaal will gives the player a key to the inner chambers, the door to the inner chambers is located a short distance back the way the player came, at the sewer passages
+Locations: NONE
+Items: item - an artifact, a part of a rod (amount: 1)
+Enemies: NONE
+Groups: NONE
+Title: Baldur's Gate II: Shadows of Amn
+Motivation: NONE
+
+### Response:
+
+

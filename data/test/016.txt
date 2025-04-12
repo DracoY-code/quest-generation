@@ -1,15 +1,22 @@
-### Quest Name: A Plot Revealed
-### Objective: find out why Jeanne Frasoric has stopped correspondence with Arch-Mage Traven
-### First Tasks: find out if Jeanne Frasoric is all right, and let Arch-Mage Traven know if she needs anything
-### First Task Locations:  - Bruma Mages Guild
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: Jeanne Frasoric - a female mage who leads the Bruma Mages Guild, and constantly sends letters to Arch-Mage Traven (location: Bruma Mages Guild)
-### Tools: NONE
-### Description: I am unable to look into something that has been brought to my attention. Are you capable of going on my behalf? Please go to the Bruma Mages Guild; I have not heard from Jeanne Frasoric for a few days now, which is unusual for her. While I welcome the break from correspondence with her, I worry that something may be amiss, given recent developments. Find out if Jeanne is all right, and let me know if she needs anything.
-### Locations: Bruma - a city (location: NONE)
-### Items: NONE
-### Enemies: NONE
-### Groups: Mages Guild - a guild of mages
-### Title: The Elder Scrolls IV: Oblivion
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: A Plot Revealed
+Objective: find out why Jeanne Frasoric has stopped correspondence with Arch-Mage Traven
+First Tasks: find out if Jeanne Frasoric is all right, and let Arch-Mage Traven know if she needs anything
+First Task Locations:  - Bruma Mages Guild
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: Jeanne Frasoric - a female mage who leads the Bruma Mages Guild, and constantly sends letters to Arch-Mage Traven (location: Bruma Mages Guild)
+Tools: NONE
+Locations: Bruma - a city (location: NONE)
+Items: NONE
+Enemies: NONE
+Groups: Mages Guild - a guild of mages
+Title: The Elder Scrolls IV: Oblivion
+Motivation: NONE
+
+### Response:
+
+

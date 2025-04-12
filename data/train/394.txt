@@ -1,15 +1,22 @@
-### Quest Name: Under New Management
-### Objective: become the guild master of the Thieves Guild
-### First Tasks: meet the members of the Thieves Guild
-### First Task Locations:  - in the center of the cistern room
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - the player becomes the guild master of the Thieves Guild (amount: 1)
-### Characters: NONE
-### Tools: NONE
-### Description: Well, my friend... the time's come to make it official. It's time to become our Guild Master. Don't worry, I promise this will be short and sweet. If you'll just meet us in the center of the cistern room, we can begin.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: Thieves Guild - a guild of thieves
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Under New Management
+Objective: become the guild master of the Thieves Guild
+First Tasks: meet the members of the Thieves Guild
+First Task Locations:  - in the center of the cistern room
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - the player becomes the guild master of the Thieves Guild (amount: 1)
+Characters: NONE
+Tools: NONE
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: Thieves Guild - a guild of thieves
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+Well, my friend... the time's come to make it official. It's time to become our Guild Master. Don't worry, I promise this will be short and sweet. If you'll just meet us in the center of the cistern room, we can begin.
+

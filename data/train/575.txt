@@ -1,15 +1,22 @@
-### Quest Name: Sanctuary
-### Objective: begin your new life as a member of the Dark Brotherhood, and see Astrid
-### First Tasks: find the entrance to the Dark Brotherhood Sanctuary, and answer "Silence, my brother." when questioned by the black door
-### First Task Locations:  - in the southwest reaches of the realm, in the pine forest
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: NONE
-### Tools: Astrid officially welcomes the player to the Dark Brotherhood
-### Description: I would like to officially extend to you an invitation to join my Family: the Dark Brotherhood. In the southwest reaches of the realm, in the Pine Forest, you'll find the entrance to our Sanctuary. It's just beneath the road, hidden from view. When questioned by the Black Door, answer with the correct passphrase: "Silence, my brother." Then you're in. And your new life begins. I'll see you at home.
-### Locations: Dark Brotherhood Sanctuary - the headquarters of the Dark Brotherhood (location: NONE)
-### Items: "Silence, my brother." - the passphrase to the Dark Brotherhood Sanctuary (amount: 1)
-### Enemies: NONE
-### Groups: Dark Brotherhood - a guild of assassins
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Sanctuary
+Objective: begin your new life as a member of the Dark Brotherhood, and see Astrid
+First Tasks: find the entrance to the Dark Brotherhood Sanctuary, and answer "Silence, my brother." when questioned by the black door
+First Task Locations:  - in the southwest reaches of the realm, in the pine forest
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: NONE
+Tools: Astrid officially welcomes the player to the Dark Brotherhood
+Locations: Dark Brotherhood Sanctuary - the headquarters of the Dark Brotherhood (location: NONE)
+Items: "Silence, my brother." - the passphrase to the Dark Brotherhood Sanctuary (amount: 1)
+Enemies: NONE
+Groups: Dark Brotherhood - a guild of assassins
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+I would like to officially extend to you an invitation to join my Family: the Dark Brotherhood. In the southwest reaches of the realm, in the Pine Forest, you'll find the entrance to our Sanctuary. It's just beneath the road, hidden from view. When questioned by the Black Door, answer with the correct passphrase: "Silence, my brother." Then you're in. And your new life begins. I'll see you at home.
+

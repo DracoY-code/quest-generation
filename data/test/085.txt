@@ -1,15 +1,22 @@
-### Quest Name: Restoration Ritual
-### Objective: learn more about restoration magic from the Augur
-### First Tasks: talk with the Augur, who's expecting you
-### First Task Locations: NONE - 
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - the player will learn more about restoration (amount: 1)
-### Characters: Augur - a powerful male mage gifted in restoration (location: )
-### Tools: the player is a devoted student of restoration: most mages of the College of Winterhold look down on restoration magic
-### Description: Look at you. Such a devoted student of Restoration. It's comforting to see that not everyone has dismissed it as entirely as most members of the College. Truly comforting. It looks like you're ready to speak with the Augur. He was a brilliant mage. Truly inspired. Mastered spells others could barely comprehend. He was especially gifted when it came to Restoration. The Augur's... Well, he's very particular about who shares the knowledge. So you'll need his approval first. Go on, go talk to him. I'm sure he's been paying attention, and will be expecting you.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: College of Winterhold - a college for mages
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Restoration Ritual
+Objective: learn more about restoration magic from the Augur
+First Tasks: talk with the Augur, who's expecting you
+First Task Locations: NONE - 
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - the player will learn more about restoration (amount: 1)
+Characters: Augur - a powerful male mage gifted in restoration (location: )
+Tools: the player is a devoted student of restoration: most mages of the College of Winterhold look down on restoration magic
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: College of Winterhold - a college for mages
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+
+

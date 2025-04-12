@@ -1,15 +1,22 @@
-### Quest Name: The Fork of Horripilation
-### Objective: find the Fork of Horripilation for Big Head
-### First Tasks: talk to Bolwing to hear his secret
-### First Task Locations: NONE - 
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: Bolwing - a mute male beggar (location: )
-### Tools: Big Head will give the player his charm so that the player can speak with Bolwing
-### Description: Sing for Big Head. The Fork for Big Head. Oh, where has Master put the Fork? It sings alone. Far from home. Sad, sad Fork. Sad, sad Big Head. The Fork! The precious, precious fork! Hear how it sings to Big Head! Beautiful, perfect Fork of Horripilation! But it is gone. Gone, gone, gone. No more singing. No more ringing. Taken from Big Head, never returned. That is when Big Head came here. Master brought me! Whispered shouts into my ear! Songs of Madgods! Songs of bad gods! Softly, Master. Softly. It went away. But it will come back! It always comes back! It is close. Big Head can hear it! The Fork of Horripilation! Hear it singing! Songs of home! It comes again. It brings presents! It is not present. Soon it will be! You will find it! Bring the Fork! Hear the music. Music of toads. Music of roads! Sing to yourself, so all can hear! Talk to the beggar! Talk to Bolwing! He knows secrets, but no one can hear them. No one but Big Head. Take Big Head's charm! Listen to Bolwing! His tongue is tied, but his mind is unraveled! He'll tell you the secret. Who has the Fork?
-### Locations: NONE
-### Items: Fork of Horripilation - a special fork (amount: 1)
-### Enemies: NONE
-### Groups: NONE
-### Title: The Elder Scrolls IV: Oblivion
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: The Fork of Horripilation
+Objective: find the Fork of Horripilation for Big Head
+First Tasks: talk to Bolwing to hear his secret
+First Task Locations: NONE - 
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: Bolwing - a mute male beggar (location: )
+Tools: Big Head will give the player his charm so that the player can speak with Bolwing
+Locations: NONE
+Items: Fork of Horripilation - a special fork (amount: 1)
+Enemies: NONE
+Groups: NONE
+Title: The Elder Scrolls IV: Oblivion
+Motivation: NONE
+
+### Response:
+Sing for Big Head. The Fork for Big Head. Oh, where has Master put the Fork? It sings alone. Far from home. Sad, sad Fork. Sad, sad Big Head. The Fork! The precious, precious fork! Hear how it sings to Big Head! Beautiful, perfect Fork of Horripilation! But it is gone. Gone, gone, gone. No more singing. No more ringing. Taken from Big Head, never returned. That is when Big Head came here. Master brought me! Whispered shouts into my ear! Songs of Madgods! Songs of bad gods! Softly, Master. Softly. It went away. But it will come back! It always comes back! It is close. Big Head can hear it! The Fork of Horripilation! Hear it singing! Songs of home! It comes again. It brings presents! It is not present. Soon it will be! You will find it! Bring the Fork! Hear the music. Music of toads. Music of roads! Sing to yourself, so all can hear! Talk to the beggar! Talk to Bolwing! He knows secrets, but no one can hear them. No one but Big Head. Take Big Head's charm! Listen to Bolwing! His tongue is tied, but his mind is unraveled! He'll tell you the secret. Who has the Fork?
+

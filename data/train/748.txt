@@ -1,15 +1,22 @@
-### Quest Name: The Stone of St. Alessia
-### Objective: return the stolen Stone of St. Alessia to the Bruma Chapel
-### First Tasks: talk to Cirroc
-### First Task Locations: Bruma - a city
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: Cirroc - a male priest (location: Bruma)
-### Tools: Azzan only has one more contract for the player
-### Description: I've only got one more thing on my plate for you, but it's an important one. The Stone of St. Alessia has been stolen from the Bruma Chapel. I don't know if you're religious, but a lot of folks are, and the Stone is important. Talk to Cirroc in Bruma. He'll fill you in on the details.
-### Locations: NONE
-### Items: Stone of St. Alessia - an important religious artifact (amount: 1)
-### Enemies: NONE
-### Groups: Fighters Guild - a mercenary guild
-### Title: The Elder Scrolls IV: Oblivion
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: The Stone of St. Alessia
+Objective: return the stolen Stone of St. Alessia to the Bruma Chapel
+First Tasks: talk to Cirroc
+First Task Locations: Bruma - a city
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: Cirroc - a male priest (location: Bruma)
+Tools: Azzan only has one more contract for the player
+Locations: NONE
+Items: Stone of St. Alessia - an important religious artifact (amount: 1)
+Enemies: NONE
+Groups: Fighters Guild - a mercenary guild
+Title: The Elder Scrolls IV: Oblivion
+Motivation: NONE
+
+### Response:
+I've only got one more thing on my plate for you, but it's an important one. The Stone of St. Alessia has been stolen from the Bruma Chapel. I don't know if you're religious, but a lot of folks are, and the Stone is important. Talk to Cirroc in Bruma. He'll fill you in on the details.
+

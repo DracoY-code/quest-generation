@@ -1,15 +1,22 @@
-### Quest Name: A Sickly Brother
-### Objective: deliver a note about Joric's health to Danica Pure-Spring
-### First Tasks: find Danica Pure-Spring
-### First Task Locations: Temple of Kynareth - a temple
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: Joric - Idgrod the Younger's brother, a sensitive boy (location: ), Danica Pure-Spring - a priestess (location: Temple of Kynareth)
-### Tools: NONE
-### Description: My brother Joric is... sensitive. He has trouble focusing his attention on things. We were taking him to the Temple of Kynareth in Whiterun, just so the healers could make sure he was in good health, and they say he's fine. Are you heading to Whiterun? Could you take this letter to the priestess, Danica Pure-Spring? It's a note about Joric's health.
-### Locations: Whiterun - a city (location: NONE)
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: A Sickly Brother
+Objective: deliver a note about Joric's health to Danica Pure-Spring
+First Tasks: find Danica Pure-Spring
+First Task Locations: Temple of Kynareth - a temple
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: Joric - Idgrod the Younger's brother, a sensitive boy (location: ), Danica Pure-Spring - a priestess (location: Temple of Kynareth)
+Tools: NONE
+Locations: Whiterun - a city (location: NONE)
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+My brother Joric is... sensitive. He has trouble focusing his attention on things. We were taking him to the Temple of Kynareth in Whiterun, just so the healers could make sure he was in good health, and they say he's fine. Are you heading to Whiterun? Could you take this letter to the priestess, Danica Pure-Spring? It's a note about Joric's health.
+

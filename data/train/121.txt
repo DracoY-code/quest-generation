@@ -1,15 +1,22 @@
-### Quest Name: Discerning the Transmundane
-### Objective: uncover the secrets of the mysterious Dwemer lockbox with Septimus Signus
-### First Tasks: gather the blood of Altmer, Bosmer, Dunmer, Falmer, and Orsimer with an extractor Septimus Signus gives you
-### First Task Locations: NONE - 
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: NONE
-### Tools: the player looks at the Dwemer lockbox with Septimus Signus, Dwemer blood can unlock the Dwemer lockbox: the blood of Altmer, Bosmer, Dunmer, Falmer, and Orsimer, can be used instead
-### Description: You see this masterwork of the Dwemer. Deep inside their greatest knowings. Septimus is clever among men, but he is but an idiot child compared to the dullest of the Dwemer. To harness it is to know. The fundaments. The Dwemer lockbox hides it from me. I see it now. The sealing structure interlocks in the tiniest fractals. Dwemer blood can loose the hooks, but none alive remain to bear it. A panoply of their brethren could gather to form a facsimile. A trick. Something they didn't anticipate, no, not even them. The blood of Altmer, Bosmer, Dunmer, Falmer, and Orsimer. The elves still living provide the key. Bear you hence this extractor. It will drink the fresh blood of elves. Come when its set is complete.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: Altmer, Bosmer, Dunmer, Falmer, Orsimer - the living races of elves, Dwemer - an extinct race of crafty elves of superior intelligence
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Discerning the Transmundane
+Objective: uncover the secrets of the mysterious Dwemer lockbox with Septimus Signus
+First Tasks: gather the blood of Altmer, Bosmer, Dunmer, Falmer, and Orsimer with an extractor Septimus Signus gives you
+First Task Locations: NONE - 
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: NONE
+Tools: the player looks at the Dwemer lockbox with Septimus Signus, Dwemer blood can unlock the Dwemer lockbox: the blood of Altmer, Bosmer, Dunmer, Falmer, and Orsimer, can be used instead
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: Altmer, Bosmer, Dunmer, Falmer, Orsimer - the living races of elves, Dwemer - an extinct race of crafty elves of superior intelligence
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+You see this masterwork of the Dwemer. Deep inside their greatest knowings. Septimus is clever among men, but he is but an idiot child compared to the dullest of the Dwemer. To harness it is to know. The fundaments. The Dwemer lockbox hides it from me. I see it now. The sealing structure interlocks in the tiniest fractals. Dwemer blood can loose the hooks, but none alive remain to bear it. A panoply of their brethren could gather to form a facsimile. A trick. Something they didn't anticipate, no, not even them. The blood of Altmer, Bosmer, Dunmer, Falmer, and Orsimer. The elves still living provide the key. Bear you hence this extractor. It will drink the fresh blood of elves. Come when its set is complete.
+

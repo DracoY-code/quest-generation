@@ -1,15 +1,22 @@
-### Quest Name: Perilous Passage
-### Objective: save the Mana Queen
-### First Tasks: go through the gate to the Forsaken Vaults
-### First Task Locations: Forsaken Vaults - a perilous dungeon
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: Mana Queen - a good female spirit (location: Forsaken Vaults)
-### Tools: NONE
-### Description: The Mana Queen has come and gone Through this gate, she journeyed on. Follow her and pay the cost. Hasten forth, or she'll be lost.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: Torchlight II
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Perilous Passage
+Objective: save the Mana Queen
+First Tasks: go through the gate to the Forsaken Vaults
+First Task Locations: Forsaken Vaults - a perilous dungeon
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: Mana Queen - a good female spirit (location: Forsaken Vaults)
+Tools: NONE
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: Torchlight II
+Motivation: NONE
+
+### Response:
+The Mana Queen has come and gone Through this gate, she journeyed on. Follow her and pay the cost. Hasten forth, or she'll be lost.
+

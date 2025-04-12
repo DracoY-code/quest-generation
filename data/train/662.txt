@@ -1,15 +1,22 @@
-### Quest Name: The Sunken One
-### Objective: investigate the Sunken One
-### First Tasks: find Slythe Seringi
-### First Task Locations: Sandstone Cavern - the offering place of the Sunken One
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: Sunken One, He Who Shakes The Ground - an old, forgotten god (location: )
-### Tools: Kvatch was destroyed because they did not heed Slythe Seringi's warning about the Sunken One, Slythe Seringi has gone to give an offering to the Sunken One so that he does not sack any other cities: Anvil, Chorrol, the Imperial City
-### Description: Slythe's Journal by Slythe Seringi  As midnight approaches, I still watch the fires burn. The great city of man, Kvatch, lay in ruins. They didn't heed my words. They didn't listen to my voice. Now, they are all paying the cost of ignorance. The Sunken One strikes swift and hard. He swats those who oppose Him as if they did not exist at all. The excuses of man fall upon deaf ears. The Sunken One has no pity; He has no mercy, He only sits below and passes sentence. And now, with a mighty stroke, He's toppled one of man's pitiful blights on His land. And yet, He still hungers. His appetite is voracious. Kvatch will not be the last city to fall by His hand. The world of man grows more and more corrupt, and it angers Him. Man's lies and deceit will be his undoing as The Sunken One grows impatient and no longer waits for or accepts the proper offering. The burden is mine to shoulder. I am the last who knows of He Who Shakes The Ground. If I do not bring him the Offering, who knows what city may fall prey to his whim? Anvil? Chorrol? Or perhaps He will turn his eyes on the greatest boil of all, the great Imperial City itself. No, I must not let that happen. I must get the Offering to him like my father did before me. Man may be fallen in His eyes, but they must have time to learn The Sunken One's teachings. Destroying man now would be a waste, when I am certain that given the chance, they will come to see His ways. Yes, I will do this thing. I will brave the depths of Sandstone Cavern to see Him. My weapons will be my will and my word. The Sunken One will watch over me and guide me. I must depart soon, before it is too late. If anyone finds this journal, let them know that I, Slythe Seringi, do this for the good of all man.
-### Locations: Kvatch - a great city (location: NONE), Anvil - a city (location: NONE), Chorrol - a city (location: NONE), Imperial City - the capital city (location: NONE)
-### Items:  - "Slythe's Journal" (amount: 1)
-### Enemies: NONE
-### Groups: NONE
-### Title: The Elder Scrolls IV: Oblivion
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: The Sunken One
+Objective: investigate the Sunken One
+First Tasks: find Slythe Seringi
+First Task Locations: Sandstone Cavern - the offering place of the Sunken One
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: Sunken One, He Who Shakes The Ground - an old, forgotten god (location: )
+Tools: Kvatch was destroyed because they did not heed Slythe Seringi's warning about the Sunken One, Slythe Seringi has gone to give an offering to the Sunken One so that he does not sack any other cities: Anvil, Chorrol, the Imperial City
+Locations: Kvatch - a great city (location: NONE), Anvil - a city (location: NONE), Chorrol - a city (location: NONE), Imperial City - the capital city (location: NONE)
+Items:  - "Slythe's Journal" (amount: 1)
+Enemies: NONE
+Groups: NONE
+Title: The Elder Scrolls IV: Oblivion
+Motivation: NONE
+
+### Response:
+Slythe's Journal by Slythe Seringi  As midnight approaches, I still watch the fires burn. The great city of man, Kvatch, lay in ruins. They didn't heed my words. They didn't listen to my voice. Now, they are all paying the cost of ignorance. The Sunken One strikes swift and hard. He swats those who oppose Him as if they did not exist at all. The excuses of man fall upon deaf ears. The Sunken One has no pity; He has no mercy, He only sits below and passes sentence. And now, with a mighty stroke, He's toppled one of man's pitiful blights on His land. And yet, He still hungers. His appetite is voracious. Kvatch will not be the last city to fall by His hand. The world of man grows more and more corrupt, and it angers Him. Man's lies and deceit will be his undoing as The Sunken One grows impatient and no longer waits for or accepts the proper offering. The burden is mine to shoulder. I am the last who knows of He Who Shakes The Ground. If I do not bring him the Offering, who knows what city may fall prey to his whim? Anvil? Chorrol? Or perhaps He will turn his eyes on the greatest boil of all, the great Imperial City itself. No, I must not let that happen. I must get the Offering to him like my father did before me. Man may be fallen in His eyes, but they must have time to learn The Sunken One's teachings. Destroying man now would be a waste, when I am certain that given the chance, they will come to see His ways. Yes, I will do this thing. I will brave the depths of Sandstone Cavern to see Him. My weapons will be my will and my word. The Sunken One will watch over me and guide me. I must depart soon, before it is too late. If anyone finds this journal, let them know that I, Slythe Seringi, do this for the good of all man.
+

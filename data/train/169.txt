@@ -1,15 +1,22 @@
-### Quest Name: The Whispering Door
-### Objective: find out why Nelkir has become brooding
-### First Tasks: talk to Nelkir
-### First Task Locations: NONE - 
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - Balgruuf the Greater would be grateful (amount: 1)
-### Characters: Nelkir - Balgruuf the Greater's youngest son, a quiet boy (location: )
-### Tools: NONE
-### Description: My youngest son, Nelkir, is a dark child. I don't know what to do with him. He was always a quiet lad, but lately... something has changed. He's become brooding. Violent. He won't say a word to me, but I don't know how I upset him. If you could speak to him. Draw out the truth. I would be immensely grateful.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: The Whispering Door
+Objective: find out why Nelkir has become brooding
+First Tasks: talk to Nelkir
+First Task Locations: NONE - 
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - Balgruuf the Greater would be grateful (amount: 1)
+Characters: Nelkir - Balgruuf the Greater's youngest son, a quiet boy (location: )
+Tools: NONE
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+My youngest son, Nelkir, is a dark child. I don't know what to do with him. He was always a quiet lad, but lately... something has changed. He's become brooding. Violent. He won't say a word to me, but I don't know how I upset him. If you could speak to him. Draw out the truth. I would be immensely grateful.
+

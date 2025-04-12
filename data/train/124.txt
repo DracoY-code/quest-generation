@@ -1,15 +1,22 @@
-### Quest Name: The Dragon at the End of It All
-### Objective: slay the Ender Dragon, and report back to Weak Will
-### First Tasks: enter The End
-### First Task Locations: The End - a mysterious place at the end of space and time
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - something cool (amount: 1)
-### Characters: Ender Dragon - an evil dragon (location: )
-### Tools: NONE
-### Description: Me useless moron, say many people of this village. Me want to seem like a hero instead. Would make I happier, less thinking of dying. Me know!!! Go to The End. That strange place at the end. Kill that big meanie Ender Dragon. Tell I how you did it, and me can tell everyone me did it! Me give you something cool for me white lie.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: Minecraft
-### Motivation: reputation
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: The Dragon at the End of It All
+Objective: slay the Ender Dragon, and report back to Weak Will
+First Tasks: enter The End
+First Task Locations: The End - a mysterious place at the end of space and time
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - something cool (amount: 1)
+Characters: Ender Dragon - an evil dragon (location: )
+Tools: NONE
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: Minecraft
+Motivation: reputation
+
+### Response:
+Me useless moron, say many people of this village. Me want to seem like a hero instead. Would make I happier, less thinking of dying. Me know!!! Go to The End. That strange place at the end. Kill that big meanie Ender Dragon. Tell I how you did it, and me can tell everyone me did it! Me give you something cool for me white lie.
+

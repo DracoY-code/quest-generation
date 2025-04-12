@@ -1,15 +1,22 @@
-### Quest Name: A Tab to Pay
-### Objective: convince Ranmir pay his debts to Haran
-### First Tasks: talk to Ranmir
-### First Task Locations: The Frozen Hearth - a tavern
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: Ranmir - a male drunk (location: The Frozen Hearth)
-### Tools: NONE
-### Description: Ranmir owes this tavern enough coin to burn it down, build it back up, then burn it down again just for laughs. He's had some troubles in his life, but I can't have him drinking here without at least paying back some of the coin he owes. Go right ahead and talk to him. He just might be sober enough to listen to you.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: A Tab to Pay
+Objective: convince Ranmir pay his debts to Haran
+First Tasks: talk to Ranmir
+First Task Locations: The Frozen Hearth - a tavern
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: Ranmir - a male drunk (location: The Frozen Hearth)
+Tools: NONE
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+Ranmir owes this tavern enough coin to burn it down, build it back up, then burn it down again just for laughs. He's had some troubles in his life, but I can't have him drinking here without at least paying back some of the coin he owes. Go right ahead and talk to him. He just might be sober enough to listen to you.
+

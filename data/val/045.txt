@@ -1,15 +1,22 @@
-### Quest Name: Nature's Fury
-### Objective: retrieve the Boots of the Crusader for yourself
-### First Tasks: talk to the priests of Kynareth
-### First Task Locations: Shrine of Kynareth - west of the Imperial City, on the edge of the Great Forest
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: Boots of the Crusader - holy boots (amount: 1)
-### Characters: Kynareth - the goddess of nature (location: )
-### Tools: Sir Juncan died while seeking out the Boots of the Crusader
-### Description: My name was Sir Juncan. I wish to see you succeed where I failed. I was on the path to the Boots of the Crusader, but died before I reached them. I cannot tell you exactly how to find the Boots, for that will be up to Kynareth. I can tell you to seek out her Priests, though. West of the Imperial City, on the edge of the Great Forest, is a shrine. You will find them there, and they will tell you what you need to know.
-### Locations: Imperial City - a major city (location: NONE)
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: The Elder Scrolls IV: Oblivion
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Nature's Fury
+Objective: retrieve the Boots of the Crusader for yourself
+First Tasks: talk to the priests of Kynareth
+First Task Locations: Shrine of Kynareth - west of the Imperial City, on the edge of the Great Forest
+Quest Giver: NONE - NONE (location: NONE)
+Reward: Boots of the Crusader - holy boots (amount: 1)
+Characters: Kynareth - the goddess of nature (location: )
+Tools: Sir Juncan died while seeking out the Boots of the Crusader
+Locations: Imperial City - a major city (location: NONE)
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: The Elder Scrolls IV: Oblivion
+Motivation: NONE
+
+### Response:
+My name was Sir Juncan. I wish to see you succeed where I failed. I was on the path to the Boots of the Crusader, but died before I reached them. I cannot tell you exactly how to find the Boots, for that will be up to Kynareth. I can tell you to seek out her Priests, though. West of the Imperial City, on the edge of the Great Forest, is a shrine. You will find them there, and they will tell you what you need to know.
+

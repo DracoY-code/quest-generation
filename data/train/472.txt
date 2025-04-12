@@ -1,15 +1,22 @@
-### Quest Name: A Suspicious Deal
-### Objective: get the item from Enthir for Arniel Gane
-### First Tasks: talk to Enthir and convince him to give you the item Arniel Gane hired Enthir to acquire
-### First Task Locations: NONE - 
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: Enthir - a shady merchant (location: )
-### Tools: NONE
-### Description: There is something you can do for me. I had retained Enthir's services in, uhh, acquiring something specific. But now he's refusing to deliver. Could you perhaps speak with him, and see if we can come to some sort of arrangement?
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: A Suspicious Deal
+Objective: get the item from Enthir for Arniel Gane
+First Tasks: talk to Enthir and convince him to give you the item Arniel Gane hired Enthir to acquire
+First Task Locations: NONE - 
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: Enthir - a shady merchant (location: )
+Tools: NONE
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+There is something you can do for me. I had retained Enthir's services in, uhh, acquiring something specific. But now he's refusing to deliver. Could you perhaps speak with him, and see if we can come to some sort of arrangement?
+

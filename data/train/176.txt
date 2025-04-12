@@ -1,15 +1,22 @@
-### Quest Name: Whispers in the Dark
-### Objective: spy on Cicero and the person he is talking with
-### First Tasks: hide inside the Night Mother's coffin to eavesdrop on the meeting between Cicero and a mystery person
-### First Task Locations:  - Night Mother's Chamber in the Dark Brotherhood Sanctuary
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: Cicero - an insane male member of the Dark Brotherhood, and the Night Mother's Keeper (location: Night Mother's Chamber), Night Mother - the corpse of the spiritual female leader of the Dark Brotherhood (location: Night Mother's Chamber)
-### Tools: Cicero has been concerning Astrid ever since he arrived at the Dark Brotherhood Sanctuary: Astrid thinks that Cicero is plotting to overtake the Dark Brotherhood Sanctuary and restore the Old Ways
-### Description: Cicero concerns me. Ever since he arrived, his behavior's been... Well, erratic would be an understatement. I do believe he is truly mad. But it's worse than that. Cicero's taken to locking himself in the Night Mother's chamber, and talking. To someone. In hushed, but frantic tones. Who is he speaking with? What are they planning? I fear treachery. As the Night Mother's Keeper, he believes he's entitled to the rule of this Sanctuary. Cicero will cite our independence as the need to revert to the Old Ways. He'll claim we're undisciplined, unruly. Heretical, even. Ironically, the Night Mother could prove to be just as much a victim. The queen in a fool's twisted game of chess. I need you to steal into that chamber, and eavesdrop on their meeting. It'll be no use clinging to the shadows. They'll see you for sure. No, you need a hiding place. Somewhere they'd never think to look. Like inside the Night Mother's coffin.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: Dark Brotherhood - a guild of assassins
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Whispers in the Dark
+Objective: spy on Cicero and the person he is talking with
+First Tasks: hide inside the Night Mother's coffin to eavesdrop on the meeting between Cicero and a mystery person
+First Task Locations:  - Night Mother's Chamber in the Dark Brotherhood Sanctuary
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: Cicero - an insane male member of the Dark Brotherhood, and the Night Mother's Keeper (location: Night Mother's Chamber), Night Mother - the corpse of the spiritual female leader of the Dark Brotherhood (location: Night Mother's Chamber)
+Tools: Cicero has been concerning Astrid ever since he arrived at the Dark Brotherhood Sanctuary: Astrid thinks that Cicero is plotting to overtake the Dark Brotherhood Sanctuary and restore the Old Ways
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: Dark Brotherhood - a guild of assassins
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+Cicero concerns me. Ever since he arrived, his behavior's been... Well, erratic would be an understatement. I do believe he is truly mad. But it's worse than that. Cicero's taken to locking himself in the Night Mother's chamber, and talking. To someone. In hushed, but frantic tones. Who is he speaking with? What are they planning? I fear treachery. As the Night Mother's Keeper, he believes he's entitled to the rule of this Sanctuary. Cicero will cite our independence as the need to revert to the Old Ways. He'll claim we're undisciplined, unruly. Heretical, even. Ironically, the Night Mother could prove to be just as much a victim. The queen in a fool's twisted game of chess. I need you to steal into that chamber, and eavesdrop on their meeting. It'll be no use clinging to the shadows. They'll see you for sure. No, you need a hiding place. Somewhere they'd never think to look. Like inside the Night Mother's coffin.
+

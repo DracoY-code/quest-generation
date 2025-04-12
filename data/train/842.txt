@@ -1,15 +1,22 @@
-### Quest Name: Ogre Hunting
-### Objective: kill ogres
-### First Tasks: find ogres
-### First Task Locations:  - to the south
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: NONE
-### Tools: NONE
-### Description: Hmph. I am Sarhedra and I don't like you. I bet you're another one of those adventurers wantin' to change the world or somethin'. Well, go pick on the ogres to the south if it will make you feel better. Go find someone else to talk to, I'm no good at this quest stuff. I have... ummm... people to see and places to be.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: Baldur's Gate
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Ogre Hunting
+Objective: kill ogres
+First Tasks: find ogres
+First Task Locations:  - to the south
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: NONE
+Tools: NONE
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: Baldur's Gate
+Motivation: NONE
+
+### Response:
+Hmph. I am Sarhedra and I don't like you. I bet you're another one of those adventurers wantin' to change the world or somethin'. Well, go pick on the ogres to the south if it will make you feel better. Go find someone else to talk to, I'm no good at this quest stuff. I have... ummm... people to see and places to be.
+

@@ -1,15 +1,22 @@
-### Quest Name: A Witch of the Wild
-### Objective: help Zara determine whether the rumors about a witch in Darkwater Bog are true
-### First Tasks: search Darkwater Bog for a witch
-### First Task Locations: Darkwater Bog - a nearby swamp
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - diamonds (amount: 16)
-### Characters: NONE
-### Tools: the player is a known villain
-### Description: Oh great. It's the evil-doer. Our village faces enough hardship even without the likes of you! On the contrary... Perhaps evil plus evil equals good. There are rumors about a witch in living in a nearby swamp. Many villagers, myself included, worry about the presence of a witch. Would you like to search Darkwater Bog for that witch, and confirm whether the rumors are true? Even a villain can't resist the price I'm willing to pay for that knowledge: 16 diamonds.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: Minecraft
-### Motivation: knowledge
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: A Witch of the Wild
+Objective: help Zara determine whether the rumors about a witch in Darkwater Bog are true
+First Tasks: search Darkwater Bog for a witch
+First Task Locations: Darkwater Bog - a nearby swamp
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - diamonds (amount: 16)
+Characters: NONE
+Tools: the player is a known villain
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: Minecraft
+Motivation: knowledge
+
+### Response:
+Oh great. It's the evil-doer. Our village faces enough hardship even without the likes of you! On the contrary... Perhaps evil plus evil equals good. There are rumors about a witch in living in a nearby swamp. Many villagers, myself included, worry about the presence of a witch. Would you like to search Darkwater Bog for that witch, and confirm whether the rumors are true? Even a villain can't resist the price I'm willing to pay for that knowledge: 16 diamonds.
+

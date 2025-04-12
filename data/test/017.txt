@@ -1,15 +1,22 @@
-### Quest Name: Rise in the East
-### Objective: help Orthus Endario prove that the Shatter-Shields are in league with pirates
-### First Tasks: steal Suvaris Atheron's logbook and bring it to Orthus Endario
-### First Task Locations: Windhelm - a city
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: Suvaris Atheron - a female dark elf, and the meticulous overseer of the Shatter-Shields' shipping operation (location: Windhelm)
-### Tools: pirates have been raiding all along the coast, from Hammerfell to Vvardenfell: the East Empire Company's security forces are limited, and all the mercenaries are tied up in the war
-### Description: Sad, isn't it? We can't afford to keep the place running since these attacks started. Pirates, you see. Raiding all along the coast, from Hammerfell to Vvardenfell. Our own security forces are limited, and all the mercenaries are tied up in this ridiculous war. We don't even know their base of operations, and attacking single ships won't really solve the problem. Only the Shatter-Shields appear safe. They are a very powerful family here in Windhelm. They run a private shipping operation, and would love to have the docks to themselves. Wouldn't surprise me if they were in league with the pirates, somehow. Not yet, no. But perhaps an intrepid person such as yourself could help with that. They have a dark elf who oversees their operations. Suvaris Atheron. She's meticulous to a fault, and keeps a logbook with every transaction she makes. If you get me the logbook, I'll have proof of Shatter-Shield's treachery.
-### Locations: Hammerfell - a realm (location: NONE), Vvardenfell - an island (location: NONE)
-### Items: NONE
-### Enemies: NONE
-### Groups: East Empire Company - an eastern merchant organization, Shatter-Shields - a powerful family in Windhelm that run a private shipping operation at the docks
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Rise in the East
+Objective: help Orthus Endario prove that the Shatter-Shields are in league with pirates
+First Tasks: steal Suvaris Atheron's logbook and bring it to Orthus Endario
+First Task Locations: Windhelm - a city
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: Suvaris Atheron - a female dark elf, and the meticulous overseer of the Shatter-Shields' shipping operation (location: Windhelm)
+Tools: pirates have been raiding all along the coast, from Hammerfell to Vvardenfell: the East Empire Company's security forces are limited, and all the mercenaries are tied up in the war
+Locations: Hammerfell - a realm (location: NONE), Vvardenfell - an island (location: NONE)
+Items: NONE
+Enemies: NONE
+Groups: East Empire Company - an eastern merchant organization, Shatter-Shields - a powerful family in Windhelm that run a private shipping operation at the docks
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+
+

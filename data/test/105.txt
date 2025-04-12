@@ -1,15 +1,22 @@
-### Quest Name: The Renegade Shadowscale
-### Objective: bring back Scar-Tail's heart as proof for Teinaava
-### First Tasks: assassinate Scar-Tail
-### First Task Locations: Bogwater - a swamp far south of here, on the southern end of Cyrodiil
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: Ocheeva - Teinaava's sister, a fellow member of the Dark Brotherhood, and a Shadowscale (location: ), Scar-Tail - an Argonian Shadowscale, Ocheeva and Teinaava's childhood friend, and a royal assassin of Black Marsh who escaped his duties (location: Bogwater)
-### Tools: Teinaava needs help with a personal matter, just as a member of the Dark Brotherhood cannot kill a fellow family member, a Shadowscale is forbidden from slaying another Shadowscale
-### Description: Ah, dear friend, may I steal a moment of your time? I have a rather delicate situation I was hoping you could help me with. This is a personal matter, and will have no bearing on your standing within the Dark Brotherhood. Would you like to hear more? Now, the details. Far south of here, on the southern end of Cyrodiil, lies a swamp called Bogwater. Hiding in that swamp you will find an Argonian Shadowscale named Scar-Tail. Kill this renegade. and bring me his heart as proof of the deed. I have some history with Scar-Tail. When Ocheeva and I trained with the Dark Brotherhood as children, we befriended another initiate, a Shadowscale by the name of Scar-Tail. The three of us were inseparable. When our training was completed, we reluctantly parted ways. But now... Now, the unthinkable has happened! Scar-Tail has fled Black Marsh and refuses to fulfill his duties as royal assassin! This is an act of treason! This treachery must be punished! Just as a member of the Dark Brotherhood cannot kill a fellow family member, a Shadowscale is forbidden from slaying another Shadowscale. That is why you must go to Bogwater and eliminate that treacherous snake! Please kill Scar-Tail, so Ocheeva and I can put this matter behind us.
-### Locations: Cyrodiil - a province (location: NONE), Black Marsh - a province inhabited by Argonians (location: NONE)
-### Items: NONE
-### Enemies: NONE
-### Groups: Dark Brotherhood - a guild of assassins, Argonians - a race of people, Shadowscale - Argonians who were born to become assassins
-### Title: The Elder Scrolls IV: Oblivion
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: The Renegade Shadowscale
+Objective: bring back Scar-Tail's heart as proof for Teinaava
+First Tasks: assassinate Scar-Tail
+First Task Locations: Bogwater - a swamp far south of here, on the southern end of Cyrodiil
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: Ocheeva - Teinaava's sister, a fellow member of the Dark Brotherhood, and a Shadowscale (location: ), Scar-Tail - an Argonian Shadowscale, Ocheeva and Teinaava's childhood friend, and a royal assassin of Black Marsh who escaped his duties (location: Bogwater)
+Tools: Teinaava needs help with a personal matter, just as a member of the Dark Brotherhood cannot kill a fellow family member, a Shadowscale is forbidden from slaying another Shadowscale
+Locations: Cyrodiil - a province (location: NONE), Black Marsh - a province inhabited by Argonians (location: NONE)
+Items: NONE
+Enemies: NONE
+Groups: Dark Brotherhood - a guild of assassins, Argonians - a race of people, Shadowscale - Argonians who were born to become assassins
+Title: The Elder Scrolls IV: Oblivion
+Motivation: NONE
+
+### Response:
+
+

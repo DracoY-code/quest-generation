@@ -1,15 +1,22 @@
-### Quest Name: Deliver Hubologist's Field Report to AHS-9 in San Francisco
-### Objective: Take the Hubologist's field report and deliver it to AHS-9 in San Francisco.
-### First Tasks: Obtain the Hubologist's field report., Travel to San Francisco., Locate AHS-9 within the Hubologist compound., Hand over the field report to complete the delivery.
-### First Task Locations: Hubologist Camp - A settlement where the Hubologists operate and collect data for their cause., San Francisco - A city controlled by various factions, including the Hubologists.
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: Caps - A payment for successfully delivering the report. (amount: 500), Hubologist Reputation - Increased standing with the Hubologists. (amount: NONE)
-### Characters: NONE
-### Tools: Travel gear to safely navigate the wasteland., Speech to ensure smooth interactions with AHS-9.
-### Description: The Hubologists need a field report delivered to their leader, AHS-9, in San Francisco. This task is simple but may have political implications depending on your alliances.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: Fallout 2
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Deliver Hubologist's Field Report to AHS-9 in San Francisco
+Objective: Take the Hubologist's field report and deliver it to AHS-9 in San Francisco.
+First Tasks: Obtain the Hubologist's field report., Travel to San Francisco., Locate AHS-9 within the Hubologist compound., Hand over the field report to complete the delivery.
+First Task Locations: Hubologist Camp - A settlement where the Hubologists operate and collect data for their cause., San Francisco - A city controlled by various factions, including the Hubologists.
+Quest Giver: NONE - NONE (location: NONE)
+Reward: Caps - A payment for successfully delivering the report. (amount: 500), Hubologist Reputation - Increased standing with the Hubologists. (amount: NONE)
+Characters: NONE
+Tools: Travel gear to safely navigate the wasteland., Speech to ensure smooth interactions with AHS-9.
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: Fallout 2
+Motivation: NONE
+
+### Response:
+The Hubologists need a field report delivered to their leader, AHS-9, in San Francisco. This task is simple but may have political implications depending on your alliances.
+

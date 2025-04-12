@@ -1,15 +1,22 @@
-### Quest Name: On to Grunnheim!
-### Objective: defeat the Dark Alchemist before he gets to the Clockwork Core
-### First Tasks: speak to the Railmaster, and depart to Grunnheim
-### First Task Locations: NONE - 
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: Clockwork Core - a device that upholds the barriers between different worlds (amount: 1)
-### Characters: Dark Alchemist - an evil man who has stolen the energy of three Guardians (location: ), Railmaster - a male transport expert (location: )
-### Tools: the player thought that the Dark Alchemist is after the Guardian Of Air's power: he left the desert for Grunnheim, the Dark Alchemist is powerful enough to destroy the barrier between the player's world and the realm of the Netherim
-### Description: Let us return to the matter of the Dark Alchemist. He has now stolen the energy of three Guardians, and we thought he desired my power as well. But, for some reason, he has left the desert, and is now en route to Grunnheim. That can only mean that he is bound for the Clockwork Core. With the power he has amassed, he could destroy the barrier between our world and the realm of the Netherim. They would pour through by the millions. Seek the Railmaster, and depart for Grunnheim as soon as you are able.
-### Locations: Grunnheim - a haunted forest (location: NONE)
-### Items:  -  (amount: 1)
-### Enemies: NONE
-### Groups: Guardians - powerful spirits who uphold the balance between the elements, Netherim - numerous demons residing in another world
-### Title: Torchlight II
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: On to Grunnheim!
+Objective: defeat the Dark Alchemist before he gets to the Clockwork Core
+First Tasks: speak to the Railmaster, and depart to Grunnheim
+First Task Locations: NONE - 
+Quest Giver: NONE - NONE (location: NONE)
+Reward: Clockwork Core - a device that upholds the barriers between different worlds (amount: 1)
+Characters: Dark Alchemist - an evil man who has stolen the energy of three Guardians (location: ), Railmaster - a male transport expert (location: )
+Tools: the player thought that the Dark Alchemist is after the Guardian Of Air's power: he left the desert for Grunnheim, the Dark Alchemist is powerful enough to destroy the barrier between the player's world and the realm of the Netherim
+Locations: Grunnheim - a haunted forest (location: NONE)
+Items:  -  (amount: 1)
+Enemies: NONE
+Groups: Guardians - powerful spirits who uphold the balance between the elements, Netherim - numerous demons residing in another world
+Title: Torchlight II
+Motivation: NONE
+
+### Response:
+
+

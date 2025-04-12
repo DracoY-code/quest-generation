@@ -1,15 +1,22 @@
-### Quest Name: Work is Never Done
-### Objective: help Tove build a sky boat from calipers and tongs
-### First Tasks: sell calipers and tongs to Tove
-### First Task Locations: NONE - 
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - gold per calipers and tongs (amount: 5)
-### Characters: NONE
-### Tools: NONE
-### Description: Hello, my name is Tove. "The Unrestful," they call me. So much to do, and so little time. There's only one of me to go around, you know! I keep forgetting that most people don't remember when we'll meet in the future. Wait, this is yesterday's future. I'm the one that's confused. Anyway, you're going to help me find calipers and tongs. No point in denying it. You've already agreed tomorrow. I'm using them to build my skyboat. Just between you and me, the hardest part has been getting the water to not fall out of the air. Now if I can just get the water to fly through the air. That's what the calipers and tongs are for. I need them to keep the water airborne. Are you willing to sell me calipers and tongs? Five gold each, just like I told you next week.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: The Elder Scrolls IV: Oblivion
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Work is Never Done
+Objective: help Tove build a sky boat from calipers and tongs
+First Tasks: sell calipers and tongs to Tove
+First Task Locations: NONE - 
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - gold per calipers and tongs (amount: 5)
+Characters: NONE
+Tools: NONE
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: The Elder Scrolls IV: Oblivion
+Motivation: NONE
+
+### Response:
+Hello, my name is Tove. "The Unrestful," they call me. So much to do, and so little time. There's only one of me to go around, you know! I keep forgetting that most people don't remember when we'll meet in the future. Wait, this is yesterday's future. I'm the one that's confused. Anyway, you're going to help me find calipers and tongs. No point in denying it. You've already agreed tomorrow. I'm using them to build my skyboat. Just between you and me, the hardest part has been getting the water to not fall out of the air. Now if I can just get the water to fly through the air. That's what the calipers and tongs are for. I need them to keep the water airborne. Are you willing to sell me calipers and tongs? Five gold each, just like I told you next week.
+

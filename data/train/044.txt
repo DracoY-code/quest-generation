@@ -1,15 +1,22 @@
-### Quest Name: Azura's Unfortunate Followers
-### Objective: perform a service to Azura
-### First Tasks: kill 5 followers of Azura
-### First Task Locations: Gutted Mine - a vampire lair
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: Azura's Star - a powerful artifact (amount: 1)
-### Characters: Dratik - a dead vampire (location: )
-### Tools: 5 followers of Azura slew Dratik and its vampire kin: the 5 followers of Azura were infected with vampirism and sealed themselves in the Gutted Mine
-### Description: Greetings, traveler. I am Azura, known as the Queen of Dawn and Dusk. I have seen your name, traveler, and heard it whispered in twilight. I ask a service, which holds promise of fame and reward. Many years ago, five followers of mine slew the vampire Dratik and its kin, but all were infected by the foul creature. Knowing their fate, they sealed themselves up in the vampire's lair. Their suffering weighs heavily on me. Five bright candles shall burn forever in memory of their sacrifice. Travel to the Gutted Mine. The door will open to you. Bring the peace of death to my followers, and you shall earn my gratitude. For your service, you shall have my Star, that your deeds might be entered in the Book of Fate.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: Daedric Princes - immortal, fickle, infamous divine beings
-### Title: The Elder Scrolls IV: Oblivion
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Azura's Unfortunate Followers
+Objective: perform a service to Azura
+First Tasks: kill 5 followers of Azura
+First Task Locations: Gutted Mine - a vampire lair
+Quest Giver: NONE - NONE (location: NONE)
+Reward: Azura's Star - a powerful artifact (amount: 1)
+Characters: Dratik - a dead vampire (location: )
+Tools: 5 followers of Azura slew Dratik and its vampire kin: the 5 followers of Azura were infected with vampirism and sealed themselves in the Gutted Mine
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: Daedric Princes - immortal, fickle, infamous divine beings
+Title: The Elder Scrolls IV: Oblivion
+Motivation: NONE
+
+### Response:
+Greetings, traveler. I am Azura, known as the Queen of Dawn and Dusk. I have seen your name, traveler, and heard it whispered in twilight. I ask a service, which holds promise of fame and reward. Many years ago, five followers of mine slew the vampire Dratik and its kin, but all were infected by the foul creature. Knowing their fate, they sealed themselves up in the vampire's lair. Their suffering weighs heavily on me. Five bright candles shall burn forever in memory of their sacrifice. Travel to the Gutted Mine. The door will open to you. Bring the peace of death to my followers, and you shall earn my gratitude. For your service, you shall have my Star, that your deeds might be entered in the Book of Fate.
+

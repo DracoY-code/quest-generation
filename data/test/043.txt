@@ -1,15 +1,22 @@
-### Quest Name: Into the Dark
-### Objective: defeat the Alchemist and seize Ordrak's Heart before he destroys the Clockwork Core
-### First Tasks: overtake the Alchemist before he reaches the Clockwork Core
-### First Task Locations: NONE - 
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: Alchemist - a villainous man holding Ordrak's Heart (location: )
-### Tools: the Clockwork Core can be restored with Ordrak's Heart
-### Description: You must overtake the Alchemist before he reaches the Clockwork Core. With the power of Ordrak's Heart, he could destroy the barrier between the worlds, which would mean the end of everything. You must defeat the Alchemist and seize the Heart. He intends to use it for destruction, but, infused with the energy stolen from the Guardians, it now has the power to restore the Clockwork Core, and repair the damage to the barrier.
-### Locations: NONE
-### Items: Ordrak's Heart - a powerful relic infused with the energy stolen from the Guardians (amount: 1), Clockwork Core - a device that upholds the barriers between the worlds (amount: 1)
-### Enemies: NONE
-### Groups: Guardians - powerful spirits
-### Title: Torchlight II
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Into the Dark
+Objective: defeat the Alchemist and seize Ordrak's Heart before he destroys the Clockwork Core
+First Tasks: overtake the Alchemist before he reaches the Clockwork Core
+First Task Locations: NONE - 
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: Alchemist - a villainous man holding Ordrak's Heart (location: )
+Tools: the Clockwork Core can be restored with Ordrak's Heart
+Locations: NONE
+Items: Ordrak's Heart - a powerful relic infused with the energy stolen from the Guardians (amount: 1), Clockwork Core - a device that upholds the barriers between the worlds (amount: 1)
+Enemies: NONE
+Groups: Guardians - powerful spirits
+Title: Torchlight II
+Motivation: NONE
+
+### Response:
+
+

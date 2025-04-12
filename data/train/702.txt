@@ -1,15 +1,22 @@
-### Quest Name: Showing Your True Colors
-### Objective: bring 16 cyan dye to Lee
-### First Tasks: obtain 16 cyan dye
-### First Task Locations: NONE - 
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - emeralds (amount: 32)
-### Characters: NONE
-### Tools: cyan dye is made by combining green dye and blue dye
-### Description: I want to make my leather works more... dashing and colorful. Bring me 16 cyan dye, and I'll reward you with 32 emeralds. You can make cyan dye by combining green dye with blue dye, I think. I'd obtain the dye myself, but the smell of my tanning chemicals attracts all sorts of unsavory creatures to me out there.
-### Locations: NONE
-### Items:  - cyan dye (amount: 16)
-### Enemies: NONE
-### Groups: NONE
-### Title: Minecraft
-### Motivation: comfort
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Showing Your True Colors
+Objective: bring 16 cyan dye to Lee
+First Tasks: obtain 16 cyan dye
+First Task Locations: NONE - 
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - emeralds (amount: 32)
+Characters: NONE
+Tools: cyan dye is made by combining green dye and blue dye
+Locations: NONE
+Items:  - cyan dye (amount: 16)
+Enemies: NONE
+Groups: NONE
+Title: Minecraft
+Motivation: comfort
+
+### Response:
+I want to make my leather works more... dashing and colorful. Bring me 16 cyan dye, and I'll reward you with 32 emeralds. You can make cyan dye by combining green dye with blue dye, I think. I'd obtain the dye myself, but the smell of my tanning chemicals attracts all sorts of unsavory creatures to me out there.
+

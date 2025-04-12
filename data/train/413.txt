@@ -1,15 +1,22 @@
-### Quest Name: Kagain's Quest
-### Objective: kill the bandits that raided the caravan under Kagain's protection
-### First Tasks: find the caravan
-### First Task Locations:  - on route from Amn to Baldur's Gate
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - gold per dead bandit (amount: 30),  - a share of booty, if there's no one left alive to claim it (amount: 1)
-### Characters: NONE
-### Tools: NONE
-### Description: Greetings, I'm Kagain. I hire mercenaries to escort caravans on route from Amn to Baldur's Gate. Right now I'm lookin' for some strong sword arms, and I'm willing to pay high. It seems that one of the caravans under my protection never arrived at Baldur's Gate, and I need to know what happened. I've been having a lot of problems with bandit activity lately, but they've always only taken the cargo and let the caravan go afterward. I'll pay each of you 30 gold per dead bandit, plus a share of any booty, if there's no one left alive to claim it.
-### Locations: Amn - a country (location: NONE), Baldur's Gate - a major city (location: NONE)
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: Baldur's Gate
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Kagain's Quest
+Objective: kill the bandits that raided the caravan under Kagain's protection
+First Tasks: find the caravan
+First Task Locations:  - on route from Amn to Baldur's Gate
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - gold per dead bandit (amount: 30),  - a share of booty, if there's no one left alive to claim it (amount: 1)
+Characters: NONE
+Tools: NONE
+Locations: Amn - a country (location: NONE), Baldur's Gate - a major city (location: NONE)
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: Baldur's Gate
+Motivation: NONE
+
+### Response:
+Greetings, I'm Kagain. I hire mercenaries to escort caravans on route from Amn to Baldur's Gate. Right now I'm lookin' for some strong sword arms, and I'm willing to pay high. It seems that one of the caravans under my protection never arrived at Baldur's Gate, and I need to know what happened. I've been having a lot of problems with bandit activity lately, but they've always only taken the cargo and let the caravan go afterward. I'll pay each of you 30 gold per dead bandit, plus a share of any booty, if there's no one left alive to claim it.
+

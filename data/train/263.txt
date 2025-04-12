@@ -1,15 +1,22 @@
-### Quest Name: Nimhe, the Poisoned One
-### Objective: kill Nimhe
-### First Tasks: locate Nimhe
-### First Task Locations: Nchuand-Zel - Calcelmo's excavation site
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - access to Nchuand-Zel and Calcelmo's Dwemer museum (amount: 1)
-### Characters: NONE
-### Tools: the player asked Calcelmo to let the player inside his Dwemer museum: the Dwemer museum is a private place where Calcelmo can catalog his research
-### Description: You idiot. Do you even know who I am? The most recognized scholar on the Dwemer in all of Tamriel, and you people keep bothering me! I... I'm sorry I... I got too excited. I'm in the middle of some very... stressful work, and I shouldn't have yelled. How can I help you? You want to access my Dwemer museum? It's a private place where I can catalog my research. Occasionally, the nobles will come in and have questions, but that's thankfully rare. I'll let you in if you agree to something for me. There's a giant spider in Nchuand-Zel, my excavation site. My workers call her 'Nimhe', the Poisoned One. If you deal with Nimhe, I'll let you into both the excavation site and my Dwemer Museum. What do you say?
-### Locations: NONE
-### Items: NONE
-### Enemies: Nimhe, Poisoned One - a giant, poisonous spider (amount: 1)
-### Groups: Dwemer - an extinct, ancient race of people
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Nimhe, the Poisoned One
+Objective: kill Nimhe
+First Tasks: locate Nimhe
+First Task Locations: Nchuand-Zel - Calcelmo's excavation site
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - access to Nchuand-Zel and Calcelmo's Dwemer museum (amount: 1)
+Characters: NONE
+Tools: the player asked Calcelmo to let the player inside his Dwemer museum: the Dwemer museum is a private place where Calcelmo can catalog his research
+Locations: NONE
+Items: NONE
+Enemies: Nimhe, Poisoned One - a giant, poisonous spider (amount: 1)
+Groups: Dwemer - an extinct, ancient race of people
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+You idiot. Do you even know who I am? The most recognized scholar on the Dwemer in all of Tamriel, and you people keep bothering me! I... I'm sorry I... I got too excited. I'm in the middle of some very... stressful work, and I shouldn't have yelled. How can I help you? You want to access my Dwemer museum? It's a private place where I can catalog my research. Occasionally, the nobles will come in and have questions, but that's thankfully rare. I'll let you in if you agree to something for me. There's a giant spider in Nchuand-Zel, my excavation site. My workers call her 'Nimhe', the Poisoned One. If you deal with Nimhe, I'll let you into both the excavation site and my Dwemer Museum. What do you say?
+

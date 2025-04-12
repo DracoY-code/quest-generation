@@ -1,15 +1,22 @@
-### Quest Name: Unlock the Armory
-### Objective: Gain access to a restricted armory to acquire powerful weapons and equipment.
-### First Tasks: Find a way to bypass or unlock the armory doors.
-### First Task Locations: Military Base - A heavily fortified location containing high-grade weapons and armor., Vault Armory - A secure storage area within a vault, filled with pre-war supplies.
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: Advanced Weaponry - Powerful weapons such as energy rifles, explosives, or heavy firearms. (amount: 1), High-Quality Armor - Stronger defensive gear to improve survivability. (amount: 1), Additional Supplies - Ammunition, medical supplies, and explosives. (amount: 1)
-### Characters: NONE
-### Tools: Lockpicking Skill (to manually bypass security), Science Skill (to hack electronic locks), Explosives (as a last resort to force entry)
-### Description: The Vault Dweller must find a way to enter a secured armory, either through skill, deception, or force. The armory holds valuable supplies that can significantly impact survival and combat effectiveness.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: Fallout
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Unlock the Armory
+Objective: Gain access to a restricted armory to acquire powerful weapons and equipment.
+First Tasks: Find a way to bypass or unlock the armory doors.
+First Task Locations: Military Base - A heavily fortified location containing high-grade weapons and armor., Vault Armory - A secure storage area within a vault, filled with pre-war supplies.
+Quest Giver: NONE - NONE (location: NONE)
+Reward: Advanced Weaponry - Powerful weapons such as energy rifles, explosives, or heavy firearms. (amount: 1), High-Quality Armor - Stronger defensive gear to improve survivability. (amount: 1), Additional Supplies - Ammunition, medical supplies, and explosives. (amount: 1)
+Characters: NONE
+Tools: Lockpicking Skill (to manually bypass security), Science Skill (to hack electronic locks), Explosives (as a last resort to force entry)
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: Fallout
+Motivation: NONE
+
+### Response:
+The Vault Dweller must find a way to enter a secured armory, either through skill, deception, or force. The armory holds valuable supplies that can significantly impact survival and combat effectiveness.
+

@@ -1,15 +1,22 @@
-### Quest Name: A Chance Arrangement
-### Objective: put Brand-Shei out of the business permanently
-### First Tasks: tell Brynjolf when you are ready, steal Madesi's silver ring from a strongbox under his stand, and place Madesi's silver ring in Brand-Shei's pocket without him noticing
-### First Task Locations: NONE - 
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - the player will be well-paid (amount: 1)
-### Characters: Madesi - a male merchant (location: ), Brand-Shei - a male merchant (location: )
-### Tools: Brynjolf will cause a distraction
-### Description: I've got a bit of an errand to perform, but I need an extra pair of hands. And in my line of work, extra hands are well-paid. It's simple... I'm going to cause a distraction and you're going to steal Madesi's silver ring from a strongbox under his stand. Once you have it, I want you to place it in Brand-Shei's pocket without him noticing. There's someone that wants to see Brand-Shei put out of business permanently. That's all you need to know. Now, you tell me when you're ready and we'll get started.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: A Chance Arrangement
+Objective: put Brand-Shei out of the business permanently
+First Tasks: tell Brynjolf when you are ready, steal Madesi's silver ring from a strongbox under his stand, and place Madesi's silver ring in Brand-Shei's pocket without him noticing
+First Task Locations: NONE - 
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - the player will be well-paid (amount: 1)
+Characters: Madesi - a male merchant (location: ), Brand-Shei - a male merchant (location: )
+Tools: Brynjolf will cause a distraction
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+I've got a bit of an errand to perform, but I need an extra pair of hands. And in my line of work, extra hands are well-paid. It's simple... I'm going to cause a distraction and you're going to steal Madesi's silver ring from a strongbox under his stand. Once you have it, I want you to place it in Brand-Shei's pocket without him noticing. There's someone that wants to see Brand-Shei put out of business permanently. That's all you need to know. Now, you tell me when you're ready and we'll get started.
+

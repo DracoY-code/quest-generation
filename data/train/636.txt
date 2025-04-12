@@ -1,15 +1,22 @@
-### Quest Name: Blood to the Blades!
-### Objective: kill Paarthurnax
-### First Tasks: go to Paarthurnax
-### First Task Locations: NONE - 
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - further aid from the Blades (amount: 1)
-### Characters: Paarthurnax - the leader of the Greybeards, who is actually a dragon (location: ), Alduin - an evil dragon (location: )
-### Tools: Paarthurnax was the right hand of Alduin, and responsible for many atrocities during the ancient dragon war
-### Description: I'm afraid there's a problem. A serious one. I've discovered who the Greybeards' leader really is. He's a dragon. Not just any dragon, but the right hand of Alduin, responsible for many atrocities during the ancient Dragon War. It's true that his crimes are long in the past, but justice does not count the passage of years. Justice demands that he, Paarthurnax, dies for his crimes. Until he is dead, I'm afraid my oath as a Blade prevents me from offering you aid and comfort.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: Blades - an intelligence organization, Greybeards - a group of wise old men who helped the player
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Blood to the Blades!
+Objective: kill Paarthurnax
+First Tasks: go to Paarthurnax
+First Task Locations: NONE - 
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - further aid from the Blades (amount: 1)
+Characters: Paarthurnax - the leader of the Greybeards, who is actually a dragon (location: ), Alduin - an evil dragon (location: )
+Tools: Paarthurnax was the right hand of Alduin, and responsible for many atrocities during the ancient dragon war
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: Blades - an intelligence organization, Greybeards - a group of wise old men who helped the player
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+I'm afraid there's a problem. A serious one. I've discovered who the Greybeards' leader really is. He's a dragon. Not just any dragon, but the right hand of Alduin, responsible for many atrocities during the ancient Dragon War. It's true that his crimes are long in the past, but justice does not count the passage of years. Justice demands that he, Paarthurnax, dies for his crimes. Until he is dead, I'm afraid my oath as a Blade prevents me from offering you aid and comfort.
+

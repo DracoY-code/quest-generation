@@ -1,15 +1,22 @@
-### Quest Name: The Thieving Guard
-### Objective: punish Lastin for thieving in the keep
-### First Tasks: decide punishment on Lastin
-### First Task Locations: NONE - 
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: Lady de'Arnise - a dead noblewoman (location: ), Lastin - a new male guard, and one of the player's subjects (location: here with Cernick)
-### Tools: the player is a noble, there have been minor thefts in the player's keep: Cernick investigated the thefts and caught Lastin taking a necklace that belonged to Lady de'Arnise, Lastin has confessed his crime, the player is being watched carefully by the people who oppose the player's rule
-### Description: Greetings, my liege. It is I, Cernick, your captain of the guard. I am not sure if you have been aware, but we have been experiencing a number of thefts in the keep over the past couple of weeks. A goblet, some silverware, a few coins from the servants' quarters. All of these things have value, although none of them were major thefts. Still... I investigated. Lastin here is one of the new guards. I caught him red-handed, attempting to take a necklace that belonged to the late Lady de'Arnise. Lastin has confessed his crime. I am unsure how to punish him, my liege, so I have brought this before you. He is your subject, my liege, so yours is the right to decide punishment, but you are also... being watched carefully by those who oppose your rule, however.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: Baldur's Gate II: Shadows of Amn
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: The Thieving Guard
+Objective: punish Lastin for thieving in the keep
+First Tasks: decide punishment on Lastin
+First Task Locations: NONE - 
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: Lady de'Arnise - a dead noblewoman (location: ), Lastin - a new male guard, and one of the player's subjects (location: here with Cernick)
+Tools: the player is a noble, there have been minor thefts in the player's keep: Cernick investigated the thefts and caught Lastin taking a necklace that belonged to Lady de'Arnise, Lastin has confessed his crime, the player is being watched carefully by the people who oppose the player's rule
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: Baldur's Gate II: Shadows of Amn
+Motivation: NONE
+
+### Response:
+Greetings, my liege. It is I, Cernick, your captain of the guard. I am not sure if you have been aware, but we have been experiencing a number of thefts in the keep over the past couple of weeks. A goblet, some silverware, a few coins from the servants' quarters. All of these things have value, although none of them were major thefts. Still... I investigated. Lastin here is one of the new guards. I caught him red-handed, attempting to take a necklace that belonged to the late Lady de'Arnise. Lastin has confessed his crime. I am unsure how to punish him, my liege, so I have brought this before you. He is your subject, my liege, so yours is the right to decide punishment, but you are also... being watched carefully by those who oppose your rule, however.
+

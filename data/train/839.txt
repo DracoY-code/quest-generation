@@ -1,15 +1,22 @@
-### Quest Name: Tales of Terror
-### Objective: visit a Nether Fortress, and report back to Yves
-### First Tasks: go to the Nether, find a Nether Fortress
-### First Task Locations: Nether - a dangerous, hellish dimension, Nether Fortress - a terrible fortress in the Nether, inhabited by fierce creatures
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - a diamond (amount: 1)
-### Characters: NONE
-### Tools: NONE
-### Description: I love to tell stories to others. I'd like to bolster my reputation as a storyteller with some novel, unheard stories about the Nether. To recount its dangers and hellish nature... A witness' account of a Nether Fortress would help me devise some dashing tales. A terrible fortress with equally terrible inhabitants... Would you be my witness? Please, go to the Nether and find a Nether Fortress. Visit it, and tell me all about it. I'll have a diamond for you. It should entice you to help me.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: Minecraft
-### Motivation: reputation
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Tales of Terror
+Objective: visit a Nether Fortress, and report back to Yves
+First Tasks: go to the Nether, find a Nether Fortress
+First Task Locations: Nether - a dangerous, hellish dimension, Nether Fortress - a terrible fortress in the Nether, inhabited by fierce creatures
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - a diamond (amount: 1)
+Characters: NONE
+Tools: NONE
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: Minecraft
+Motivation: reputation
+
+### Response:
+I love to tell stories to others. I'd like to bolster my reputation as a storyteller with some novel, unheard stories about the Nether. To recount its dangers and hellish nature... A witness' account of a Nether Fortress would help me devise some dashing tales. A terrible fortress with equally terrible inhabitants... Would you be my witness? Please, go to the Nether and find a Nether Fortress. Visit it, and tell me all about it. I'll have a diamond for you. It should entice you to help me.
+

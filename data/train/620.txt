@@ -1,15 +1,22 @@
-### Quest Name: Acrobatics Training
-### Objective: seek acrobatics training from Aerin
-### First Tasks: find Aerin
-### First Task Locations: Aerin's Camp - a camp located in the mountains in the north of Cyrodiil
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - acrobatics training from Aerin (amount: 1)
-### Characters: Aerin - a female master acrobat (location: Aerin's Camp)
-### Tools: NONE
-### Description: Ganredhel. I train dogs. And people. Prefer dogs. People, I teach them advanced acrobatics. Up and jump. Dogs, I teach them to bite people. If you require further training, you might consider venturing into the mountains in the north of Cyrodiil. Aerin's Camp, specifically. Aerin's a very gifted acrobat, and could teach you anything you needed to know.
-### Locations: Cyrodiil - a province (location: NONE)
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: The Elder Scrolls IV: Oblivion
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Acrobatics Training
+Objective: seek acrobatics training from Aerin
+First Tasks: find Aerin
+First Task Locations: Aerin's Camp - a camp located in the mountains in the north of Cyrodiil
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - acrobatics training from Aerin (amount: 1)
+Characters: Aerin - a female master acrobat (location: Aerin's Camp)
+Tools: NONE
+Locations: Cyrodiil - a province (location: NONE)
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: The Elder Scrolls IV: Oblivion
+Motivation: NONE
+
+### Response:
+Ganredhel. I train dogs. And people. Prefer dogs. People, I teach them advanced acrobatics. Up and jump. Dogs, I teach them to bite people. If you require further training, you might consider venturing into the mountains in the north of Cyrodiil. Aerin's Camp, specifically. Aerin's a very gifted acrobat, and could teach you anything you needed to know.
+

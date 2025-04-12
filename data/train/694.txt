@@ -1,15 +1,22 @@
-### Quest Name: Pantea's Flute
-### Objective: recover Pantea's flute for her
-### First Tasks: find the flute
-### First Task Locations: Hob's Fall Cave - a necromancer base
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - Pantea Ateia teaches the player magic skills (amount: 1)
-### Characters: Larina - Pantea Ateia's foolish female student (location: )
-### Tools: Larina stole Pantea's flute and sold it to a necromancer
-### Description: That damn fool! I should wring Larina's neck! That fool student of mine stole my flute and sold it to some necromancer in Hob's Fall Cave. Apparently Larina told him some story about the flute being able to make the dead dance. It's just a flute. A really old and valuable flute, but just a flute. I just got a ransom note for it. That flute has been handed down for seventeen generations! Well don't just stand there. Go get my flute! I don't have any money to give you. but I can show you a few tricks I learned playing for wizards.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Pantea's Flute
+Objective: recover Pantea's flute for her
+First Tasks: find the flute
+First Task Locations: Hob's Fall Cave - a necromancer base
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - Pantea Ateia teaches the player magic skills (amount: 1)
+Characters: Larina - Pantea Ateia's foolish female student (location: )
+Tools: Larina stole Pantea's flute and sold it to a necromancer
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+That damn fool! I should wring Larina's neck! That fool student of mine stole my flute and sold it to some necromancer in Hob's Fall Cave. Apparently Larina told him some story about the flute being able to make the dead dance. It's just a flute. A really old and valuable flute, but just a flute. I just got a ransom note for it. That flute has been handed down for seventeen generations! Well don't just stand there. Go get my flute! I don't have any money to give you. but I can show you a few tricks I learned playing for wizards.
+

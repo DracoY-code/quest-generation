@@ -1,15 +1,22 @@
-### Quest Name: Healing a House
-### Objective: help Elynea Mothren to repair Neloth's tower
-### First Tasks: find 3 taproots, soak them in the headwaters of Harstrad, and bring them to Elynea Mothren
-### First Task Locations: NONE - 
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - Elynea Mothren pays the player (amount: 1)
-### Characters: Neloth - a pompous master wizard (location: )
-### Tools: NONE
-### Description: I don't care if he's a master wizard. He can't treat me like this! Master Neloth, that fetcher, told me to fix his house. If I don't, he'll find a new mycologist who will. Decades of loyal service, and he'd just throw me out like yesterday's breakfast! I need three taproots soaked in the headwaters of the Harstrad river to fix Neloth's tower. I'm an old woman. I can't possibly make that trip. It's way too dangerous. If you get some taproots, I'll pay you to dip them in the headwaters and bring them to me.
-### Locations: Harstrad - a river (location: NONE)
-### Items:  - taproots (amount: 3)
-### Enemies: NONE
-### Groups: NONE
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Healing a House
+Objective: help Elynea Mothren to repair Neloth's tower
+First Tasks: find 3 taproots, soak them in the headwaters of Harstrad, and bring them to Elynea Mothren
+First Task Locations: NONE - 
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - Elynea Mothren pays the player (amount: 1)
+Characters: Neloth - a pompous master wizard (location: )
+Tools: NONE
+Locations: Harstrad - a river (location: NONE)
+Items:  - taproots (amount: 3)
+Enemies: NONE
+Groups: NONE
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+I don't care if he's a master wizard. He can't treat me like this! Master Neloth, that fetcher, told me to fix his house. If I don't, he'll find a new mycologist who will. Decades of loyal service, and he'd just throw me out like yesterday's breakfast! I need three taproots soaked in the headwaters of the Harstrad river to fix Neloth's tower. I'm an old woman. I can't possibly make that trip. It's way too dangerous. If you get some taproots, I'll pay you to dip them in the headwaters and bring them to me.
+

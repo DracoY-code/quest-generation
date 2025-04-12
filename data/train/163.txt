@@ -1,15 +1,22 @@
-### Quest Name: Dawnguard
-### Objective: join the Dawnguard
-### First Tasks: speak with Isran about joining the Dawnguard
-### First Task Locations: Fort Dawnguard - a fort southeast of Riften
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: Isran - the male leader of the Dawnguard (location: Fort Dawnguard)
-### Tools: vampires are becoming a larger threat
-### Description: I'm Durak of the Dawnguard. We are vampire hunters. We search out and destroy those bloodsucking scum wherever we find them. We are looking for anyone willing to fight against the growing vampire menace. Everybody says that they are not interested about joining, right up until they find their throat being ripped out by a pack of hungry vampires. Want to sign up to the Dawnguard and kill vampires? Go talk to Isran, our leader, at Fort Dawnguard, southeast of Riften. He'll decide if you're Dawnguard material.
-### Locations: Riften - a city (location: NONE)
-### Items: NONE
-### Enemies: NONE
-### Groups: Dawnguard - an organization of vampire hunters
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Dawnguard
+Objective: join the Dawnguard
+First Tasks: speak with Isran about joining the Dawnguard
+First Task Locations: Fort Dawnguard - a fort southeast of Riften
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: Isran - the male leader of the Dawnguard (location: Fort Dawnguard)
+Tools: vampires are becoming a larger threat
+Locations: Riften - a city (location: NONE)
+Items: NONE
+Enemies: NONE
+Groups: Dawnguard - an organization of vampire hunters
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+I'm Durak of the Dawnguard. We are vampire hunters. We search out and destroy those bloodsucking scum wherever we find them. We are looking for anyone willing to fight against the growing vampire menace. Everybody says that they are not interested about joining, right up until they find their throat being ripped out by a pack of hungry vampires. Want to sign up to the Dawnguard and kill vampires? Go talk to Isran, our leader, at Fort Dawnguard, southeast of Riften. He'll decide if you're Dawnguard material.
+

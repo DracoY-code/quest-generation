@@ -1,15 +1,22 @@
-### Quest Name: Speechcraft Training
-### Objective: do a task for Gruiand Garrana and return to her afterwards
-### First Tasks: speak to all beggars
-### First Task Locations:  - all cities in Cyrodiil
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - training from Gruiand Garrana (amount: 1)
-### Characters: NONE
-### Tools: the player told Gruiand Garrana that they want to better themselves
-### Description: I am Gruiand Garrana. You would seek to better yourself? First, I would ask that you look to the poor and the suffering around Cyrodiil. Travel to all of our cities, and speak with the unfortunate souls forced to beg for change. Look into their hearts, and then look into your own. Return to me when you have spoken with all of them. Then we shall talk of training.
-### Locations: Cyrodiil - a realm (location: NONE)
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: The Elder Scrolls IV: Oblivion
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Speechcraft Training
+Objective: do a task for Gruiand Garrana and return to her afterwards
+First Tasks: speak to all beggars
+First Task Locations:  - all cities in Cyrodiil
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - training from Gruiand Garrana (amount: 1)
+Characters: NONE
+Tools: the player told Gruiand Garrana that they want to better themselves
+Locations: Cyrodiil - a realm (location: NONE)
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: The Elder Scrolls IV: Oblivion
+Motivation: NONE
+
+### Response:
+I am Gruiand Garrana. You would seek to better yourself? First, I would ask that you look to the poor and the suffering around Cyrodiil. Travel to all of our cities, and speak with the unfortunate souls forced to beg for change. Look into their hearts, and then look into your own. Return to me when you have spoken with all of them. Then we shall talk of training.
+

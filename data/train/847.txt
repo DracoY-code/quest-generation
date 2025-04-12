@@ -1,15 +1,22 @@
-### Quest Name: Investigate the Cult of the Eyeless
-### Objective: investigate the Cult of the Eyeless
-### First Tasks: meet Keldorn
-### First Task Locations:  - the sewers
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - the player will be rewarded if they serve well (amount: 1)
-### Characters: Helm, He of the Unsleeping Eyes, The Vigilant One - the god of order (location: ), Keldorn - a male paladin of Torm, and an ally of Helm, who will assist the player in finding the Cult of the Eyeless (location: the sewers), Torm - the god of duty (location: )
-### Tools: blindness is abhorrent to Helm, the Cult of the Eyeless is hiding in the sewers: the player must infiltrate the sewers and find a hidden passage leading to the Cult of the Eyeless
-### Description: The task I ask will be treacherous, but you seem capable. Serve well, and you will be rewarded. Display any treachery, and it will be seen. Now to the task. A cult of the eyeless has emerged: He of the Unsleeping Eyes must know of this cult. The blindness they promote is abhorrent to Helm. We ask you to investigate and identify the cult. The Vigilant One informs us that the cult is underground and close, but we cannot see past the sewers. You must infiltrate it, as friend or conqueror. You must suffer the filth of the sewers to find the filth of the cult. They are not hiding amidst the pipes, so there must be a passage leading further away. Our resources are thin at the moment, but an ally of Helm and servant of Torm is awaiting you in the sewers now. Seek Keldorn to serve with you. Faith guide you both.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: Cult of the Eyeless - a cult that promotes blindness
-### Title: Baldur's Gate II: Shadows of Amn
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Investigate the Cult of the Eyeless
+Objective: investigate the Cult of the Eyeless
+First Tasks: meet Keldorn
+First Task Locations:  - the sewers
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - the player will be rewarded if they serve well (amount: 1)
+Characters: Helm, He of the Unsleeping Eyes, The Vigilant One - the god of order (location: ), Keldorn - a male paladin of Torm, and an ally of Helm, who will assist the player in finding the Cult of the Eyeless (location: the sewers), Torm - the god of duty (location: )
+Tools: blindness is abhorrent to Helm, the Cult of the Eyeless is hiding in the sewers: the player must infiltrate the sewers and find a hidden passage leading to the Cult of the Eyeless
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: Cult of the Eyeless - a cult that promotes blindness
+Title: Baldur's Gate II: Shadows of Amn
+Motivation: NONE
+
+### Response:
+The task I ask will be treacherous, but you seem capable. Serve well, and you will be rewarded. Display any treachery, and it will be seen. Now to the task. A cult of the eyeless has emerged: He of the Unsleeping Eyes must know of this cult. The blindness they promote is abhorrent to Helm. We ask you to investigate and identify the cult. The Vigilant One informs us that the cult is underground and close, but we cannot see past the sewers. You must infiltrate it, as friend or conqueror. You must suffer the filth of the sewers to find the filth of the cult. They are not hiding amidst the pipes, so there must be a passage leading further away. Our resources are thin at the moment, but an ally of Helm and servant of Torm is awaiting you in the sewers now. Seek Keldorn to serve with you. Faith guide you both.
+

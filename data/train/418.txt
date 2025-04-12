@@ -1,15 +1,22 @@
-### Quest Name: Supply and Demand
-### Objective: destroy the source of Skooma and report back to Laila Law-Giver
-### First Tasks: go to the source of Skooma
-### First Task Locations: NONE - 
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - the player will be on their way to a title in Riften (amount: 1)
-### Characters: Sarthis - a male Skooma dealer (location: )
-### Tools: the player raided Sarthis' warehouse and killed him for Laila Law-Giver: the player knows where the source of the Skooma is
-### Description: It's nice to receive good news for a change. Did you recover anything else from the warehouse worth mentioning? If you have discovered the source of Skooma, then there's no time to lose. It won't take long for Sarthis's associates to learn of his death. The source of the poison must be destroyed once and for all, otherwise another dealer will simply take his place. Do this task for me and you'll be well on your way to a title in Riften. Report back to me when your task is complete.
-### Locations: Riften - a city (location: NONE)
-### Items: Skooma - an illegal, dangerous drug (amount: 1)
-### Enemies: NONE
-### Groups: NONE
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Supply and Demand
+Objective: destroy the source of Skooma and report back to Laila Law-Giver
+First Tasks: go to the source of Skooma
+First Task Locations: NONE - 
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - the player will be on their way to a title in Riften (amount: 1)
+Characters: Sarthis - a male Skooma dealer (location: )
+Tools: the player raided Sarthis' warehouse and killed him for Laila Law-Giver: the player knows where the source of the Skooma is
+Locations: Riften - a city (location: NONE)
+Items: Skooma - an illegal, dangerous drug (amount: 1)
+Enemies: NONE
+Groups: NONE
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+It's nice to receive good news for a change. Did you recover anything else from the warehouse worth mentioning? If you have discovered the source of Skooma, then there's no time to lose. It won't take long for Sarthis's associates to learn of his death. The source of the poison must be destroyed once and for all, otherwise another dealer will simply take his place. Do this task for me and you'll be well on your way to a title in Riften. Report back to me when your task is complete.
+

@@ -1,15 +1,22 @@
-### Quest Name: Roggi's Family Shield
-### Objective: retrieve the Knot-Beard shield for Roggi Knot-Beard
-### First Tasks: find the Knot-Beard shield
-### First Task Locations: Ansilvund - a cave
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - Roggi Knot-Beard will show the player some shield techniques (amount: 1)
-### Characters: Lenne - a forefather of Roggi Knot-Beard who lost the Knot-Beard shield (location: )
-### Tools: Roggi Knot-Beard's clan was one of the first to settle Kynesgrove: Lenne was the first to discover the mines
-### Description: I'm from from here. I've wandered a bit, but I always come back to Kynesgrove. My clan was one of the first to settle here. Legend says that my forefather Lenne discovered the mines after he stumbled into a dark cave to relieve himself. Too much mead. Of course, there's another story of Lenne losing the family shield in a different cave, so it depends on who you believe. According to my grandfather at least, the family shield should be in the cave. He swore that version of the legend was true, even found the cave old Lenne stumbled into: Ansilvund. Hey, if you find it, I could show you some of the clan's favorite fighting moves. They're all shield techniques.
-### Locations: Kynesgrove - a mining village (location: NONE)
-### Items: Knot-Beard shield - Roggi Knot-Beard's family shield (amount: 1)
-### Enemies: NONE
-### Groups: NONE
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Roggi's Family Shield
+Objective: retrieve the Knot-Beard shield for Roggi Knot-Beard
+First Tasks: find the Knot-Beard shield
+First Task Locations: Ansilvund - a cave
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - Roggi Knot-Beard will show the player some shield techniques (amount: 1)
+Characters: Lenne - a forefather of Roggi Knot-Beard who lost the Knot-Beard shield (location: )
+Tools: Roggi Knot-Beard's clan was one of the first to settle Kynesgrove: Lenne was the first to discover the mines
+Locations: Kynesgrove - a mining village (location: NONE)
+Items: Knot-Beard shield - Roggi Knot-Beard's family shield (amount: 1)
+Enemies: NONE
+Groups: NONE
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+I'm from from here. I've wandered a bit, but I always come back to Kynesgrove. My clan was one of the first to settle here. Legend says that my forefather Lenne discovered the mines after he stumbled into a dark cave to relieve himself. Too much mead. Of course, there's another story of Lenne losing the family shield in a different cave, so it depends on who you believe. According to my grandfather at least, the family shield should be in the cave. He swore that version of the legend was true, even found the cave old Lenne stumbled into: Ansilvund. Hey, if you find it, I could show you some of the clan's favorite fighting moves. They're all shield techniques.
+

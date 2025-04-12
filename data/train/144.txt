@@ -1,15 +1,22 @@
-### Quest Name: The Mystery of Monster Knights
-### Objective: discover why you were tricked to kill knights
-### First Tasks: take sanctuary with Garren Windspear
-### First Task Locations:  - Garren Windspear's cabin, a short distance south of here
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: Helm - the god of order (location: )
-### Tools: Garren Windspear saw the player change their shape, Garren Windspear observed the player kill knights who looked like beasts: priests of Helm will seek justice and only the player's head will suffice
-### Description: I'm Garren Windspear. What goes on here? I've seen many a strange thing in my time, but the events of the past few moments tops them all. Who are you that can change shape so readily, and why have you slain these beasts that become men? It appears that you have been tricked into killing these knights! Though the priests of Helm will not believe what has happened. They will seek justice, and only your head will suffice. I suggest that you take sanctuary with me until you can discover how this unfortunate event came to pass. My cabin is but a short distance south of here. I will meet you there.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups:  - knights,  - priests of Helm
-### Title: Baldur's Gate II: Shadows of Amn
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: The Mystery of Monster Knights
+Objective: discover why you were tricked to kill knights
+First Tasks: take sanctuary with Garren Windspear
+First Task Locations:  - Garren Windspear's cabin, a short distance south of here
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: Helm - the god of order (location: )
+Tools: Garren Windspear saw the player change their shape, Garren Windspear observed the player kill knights who looked like beasts: priests of Helm will seek justice and only the player's head will suffice
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups:  - knights,  - priests of Helm
+Title: Baldur's Gate II: Shadows of Amn
+Motivation: NONE
+
+### Response:
+I'm Garren Windspear. What goes on here? I've seen many a strange thing in my time, but the events of the past few moments tops them all. Who are you that can change shape so readily, and why have you slain these beasts that become men? It appears that you have been tricked into killing these knights! Though the priests of Helm will not believe what has happened. They will seek justice, and only your head will suffice. I suggest that you take sanctuary with me until you can discover how this unfortunate event came to pass. My cabin is but a short distance south of here. I will meet you there.
+

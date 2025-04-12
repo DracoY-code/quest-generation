@@ -1,15 +1,22 @@
-### Quest Name: De'Tranion's Liquor
-### Objective: give a jug of this town's hardest liquor to Captain Tollar Kieres
-### First Tasks: get liquor from De'Tranion
-### First Task Locations: Blushing Mermaid - a tavern
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: De'Tranion - an old coot who brews liquor (location: )
-### Tools: NONE
-### Description: Ohoy, I'm Captain Tollar Kieres. A jug o' this town's hardest liquor would make for a fine departure, if ye'd be so kind. Old De'Tranion brews a vile swill at'll do the trick. Ye can find the old coot at the Blushing Mermaid.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: Baldur's Gate
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: De'Tranion's Liquor
+Objective: give a jug of this town's hardest liquor to Captain Tollar Kieres
+First Tasks: get liquor from De'Tranion
+First Task Locations: Blushing Mermaid - a tavern
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: De'Tranion - an old coot who brews liquor (location: )
+Tools: NONE
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: Baldur's Gate
+Motivation: NONE
+
+### Response:
+Ohoy, I'm Captain Tollar Kieres. A jug o' this town's hardest liquor would make for a fine departure, if ye'd be so kind. Old De'Tranion brews a vile swill at'll do the trick. Ye can find the old coot at the Blushing Mermaid.
+

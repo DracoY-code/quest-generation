@@ -1,15 +1,22 @@
-### Quest Name: Free the Genie
-### Objective: return Malaaq's flask to him
-### First Tasks: find Malaaq's flask
-### First Task Locations: NONE - 
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - the player's weapon (amount: 1)
-### Characters: Irenicus - an evil male wizard (location: )
-### Tools: Malaaq was bound to guard Irenicus' items and the player's weapon, Malaaq was captured from his home, Plane of Air, by Irenicus, Malaaq will be free if he is given his original flask
-### Description: I am djinni Malaaq and I have been bound by a wizard to guard his items, and your item it seems. I can sense your touch upon this weapon. If you can secure the means of my release, I will give you your weapon. I was captured in my home, on Plane of Air, by some wizard. He bound me to this flask that I might guard his things. You must find my original flask and bring it back to me. Once it is within my grasp, I can break the enchantment and be freed.
-### Locations: Plane of Air - realm of genies (location: NONE)
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: Baldur's Gate II: Shadows of Amn
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Free the Genie
+Objective: return Malaaq's flask to him
+First Tasks: find Malaaq's flask
+First Task Locations: NONE - 
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - the player's weapon (amount: 1)
+Characters: Irenicus - an evil male wizard (location: )
+Tools: Malaaq was bound to guard Irenicus' items and the player's weapon, Malaaq was captured from his home, Plane of Air, by Irenicus, Malaaq will be free if he is given his original flask
+Locations: Plane of Air - realm of genies (location: NONE)
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: Baldur's Gate II: Shadows of Amn
+Motivation: NONE
+
+### Response:
+I am djinni Malaaq and I have been bound by a wizard to guard his items, and your item it seems. I can sense your touch upon this weapon. If you can secure the means of my release, I will give you your weapon. I was captured in my home, on Plane of Air, by some wizard. He bound me to this flask that I might guard his things. You must find my original flask and bring it back to me. Once it is within my grasp, I can break the enchantment and be freed.
+

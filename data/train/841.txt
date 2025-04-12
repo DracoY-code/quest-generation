@@ -1,15 +1,22 @@
-### Quest Name: Workplace Enjoyment
-### Objective: convince Mulush treat his workers better
-### First Tasks: talk to Mulush
-### First Task Locations: NONE - 
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - coin (amount: 1)
-### Characters: Mulush - the harsh male smelter overseer for the Silver-Bloods (location: )
-### Tools: NONE
-### Description: Mulush is a damn tyrant. Always being goaded on by the Silver-Bloods to get more work out of us. They pay us next to nothing. We get beaten if we make a mistake, and where are our kind Silver-Blood rulers? What are they doing? Typical. You would stick up for us. You're going to try to talk sense into that man? I'll believe it when I see it. It's a week's wages for me, but you've earned every coin if you talk some sense into Mulush.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: Silver-Bloods - a wealthy family
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Workplace Enjoyment
+Objective: convince Mulush treat his workers better
+First Tasks: talk to Mulush
+First Task Locations: NONE - 
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - coin (amount: 1)
+Characters: Mulush - the harsh male smelter overseer for the Silver-Bloods (location: )
+Tools: NONE
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: Silver-Bloods - a wealthy family
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+Mulush is a damn tyrant. Always being goaded on by the Silver-Bloods to get more work out of us. They pay us next to nothing. We get beaten if we make a mistake, and where are our kind Silver-Blood rulers? What are they doing? Typical. You would stick up for us. You're going to try to talk sense into that man? I'll believe it when I see it. It's a week's wages for me, but you've earned every coin if you talk some sense into Mulush.
+

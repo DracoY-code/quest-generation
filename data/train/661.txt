@@ -1,15 +1,22 @@
-### Quest Name: Everything In Its Place
-### Objective: liberate Ranarr-Jo and others from mind control
-### First Tasks: gain Kishashi's trust
-### First Task Locations: NONE - 
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - Ranarr-Jo's trust (amount: 1)
-### Characters: Cindanwe - a woman (location: ), Kishashi - Ranarr-Jo's beloved woman (location: )
-### Tools: Ranarr-Jo thinks that Cindanwe can control minds
-### Description: I'm Ranarr-Jo. Perhaps you could help us? But why should I trust you? You might be, you know... one of Them. Our situation is desperate, she controls our minds... but wait, I've said too much. Talk to my Kishashi. If she will trust you, I will trust you.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: The Elder Scrolls IV: Oblivion
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Everything In Its Place
+Objective: liberate Ranarr-Jo and others from mind control
+First Tasks: gain Kishashi's trust
+First Task Locations: NONE - 
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - Ranarr-Jo's trust (amount: 1)
+Characters: Cindanwe - a woman (location: ), Kishashi - Ranarr-Jo's beloved woman (location: )
+Tools: Ranarr-Jo thinks that Cindanwe can control minds
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: The Elder Scrolls IV: Oblivion
+Motivation: NONE
+
+### Response:
+I'm Ranarr-Jo. Perhaps you could help us? But why should I trust you? You might be, you know... one of Them. Our situation is desperate, she controls our minds... but wait, I've said too much. Talk to my Kishashi. If she will trust you, I will trust you.
+

@@ -1,15 +1,22 @@
-### Quest Name: Blight of the Bugs
-### Objective: discover what has been blighting Skara eggs
-### First Tasks: find the rigged Skara hives and detonate them, destroy all infected eggs
-### First Task Locations: Swarm Point - a Skara nest, Brood Hive - the innermost part of the Swarm Point
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: Hareph - a male demolition master (location: )
-### Tools: Hareph sent the player to find his demolition crew: he gave the player explosives, some Skara hives seem to be infected with something
-### Description: Ah, Hareph sent you with some explosives. Finally some good news! Don't bother looking for the rest of the crew - I'm the only one that survived.  There's something wrong with some of the Skara hives - they seem to be infected. You'll need to locate the rigged hives and detonate them, then descend into the Brood Hive itself and destroy any infected eggs you find. Perhaps you will discover what has been blighting the eggs! This is a great task, but it must be done. We will all be in your debt.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: Skara - aggressive, dangerous, flying insects
-### Title: Torchlight II
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Blight of the Bugs
+Objective: discover what has been blighting Skara eggs
+First Tasks: find the rigged Skara hives and detonate them, destroy all infected eggs
+First Task Locations: Swarm Point - a Skara nest, Brood Hive - the innermost part of the Swarm Point
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: Hareph - a male demolition master (location: )
+Tools: Hareph sent the player to find his demolition crew: he gave the player explosives, some Skara hives seem to be infected with something
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: Skara - aggressive, dangerous, flying insects
+Title: Torchlight II
+Motivation: NONE
+
+### Response:
+Ah, Hareph sent you with some explosives. Finally some good news! Don't bother looking for the rest of the crew - I'm the only one that survived.  There's something wrong with some of the Skara hives - they seem to be infected. You'll need to locate the rigged hives and detonate them, then descend into the Brood Hive itself and destroy any infected eggs you find. Perhaps you will discover what has been blighting the eggs! This is a great task, but it must be done. We will all be in your debt.
+

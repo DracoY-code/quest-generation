@@ -1,15 +1,22 @@
-### Quest Name: Death Incarnate
-### Objective: fulfill Astrid's contract
-### First Tasks: kill Astrid
-### First Task Locations: NONE - 
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - the player becomes the new leader of the Dark Brotherhood (amount: 1), Blade of Woe - a dagger (amount: 1)
-### Characters: Maro - the man who leads the Penitus Oculatus (location: ), Night Mother - a female spirit (location: )
-### Tools: Astrid betrayed the player by giving the player to the Penitus Oculatus: the Penitus Oculatus destroyed the Dark Brotherhood, Astrid opposed the old ways that guided the Dark Brotherhood for centuries unlike the player and the Night Mother
-### Description: Alive.... You're alive... Thank Sithis... Ssshhh.... Please. There is much... I have to say. And... not much time... I'm sorry. So very sorry. The Penitus Oculatus... Maro... He said that by giving you to them, he would leave the Dark Brotherhood alone. Forever. By Sithis, I was such a fool. All of this... it's all my fault. You are the best of us, and I nearly killed you... as I've killed everyone else... I'm saying you were right. The Night Mother was right. The old ways... they guided the Dark Brotherhood for centuries. I was a fool to oppose them. And to prove my... sincerity, I have prayed for a contract. You lead this Family now. I give you the Blade of Woe, so that you can see it through. You must kill... Me.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: Dark Brotherhood - a guild of assassins, Penitus Oculatus - law enforcers
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Death Incarnate
+Objective: fulfill Astrid's contract
+First Tasks: kill Astrid
+First Task Locations: NONE - 
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - the player becomes the new leader of the Dark Brotherhood (amount: 1), Blade of Woe - a dagger (amount: 1)
+Characters: Maro - the man who leads the Penitus Oculatus (location: ), Night Mother - a female spirit (location: )
+Tools: Astrid betrayed the player by giving the player to the Penitus Oculatus: the Penitus Oculatus destroyed the Dark Brotherhood, Astrid opposed the old ways that guided the Dark Brotherhood for centuries unlike the player and the Night Mother
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: Dark Brotherhood - a guild of assassins, Penitus Oculatus - law enforcers
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+Alive.... You're alive... Thank Sithis... Ssshhh.... Please. There is much... I have to say. And... not much time... I'm sorry. So very sorry. The Penitus Oculatus... Maro... He said that by giving you to them, he would leave the Dark Brotherhood alone. Forever. By Sithis, I was such a fool. All of this... it's all my fault. You are the best of us, and I nearly killed you... as I've killed everyone else... I'm saying you were right. The Night Mother was right. The old ways... they guided the Dark Brotherhood for centuries. I was a fool to oppose them. And to prove my... sincerity, I have prayed for a contract. You lead this Family now. I give you the Blade of Woe, so that you can see it through. You must kill... Me.
+

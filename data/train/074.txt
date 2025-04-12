@@ -1,15 +1,22 @@
-### Quest Name: Is Today Someone's Birthday?
-### Objective: bring a cake to Baker
-### First Tasks: bake a cake
-### First Task Locations: NONE - 
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - golden apples (amount: 3)
-### Characters: NONE
-### Tools: the player is a friend of Baker
-### Description: My friend, as you might know, I'm not a man to say no to the sweeter temptations in life. I'd be overjoyed, if you baked me a delicious cake and brought it to me. I'm not leaving you hanging either: I have 3 golden apples for you.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: Minecraft
-### Motivation: comfort
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Is Today Someone's Birthday?
+Objective: bring a cake to Baker
+First Tasks: bake a cake
+First Task Locations: NONE - 
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - golden apples (amount: 3)
+Characters: NONE
+Tools: the player is a friend of Baker
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: Minecraft
+Motivation: comfort
+
+### Response:
+My friend, as you might know, I'm not a man to say no to the sweeter temptations in life. I'd be overjoyed, if you baked me a delicious cake and brought it to me. I'm not leaving you hanging either: I have 3 golden apples for you.
+

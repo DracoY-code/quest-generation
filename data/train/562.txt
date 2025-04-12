@@ -1,15 +1,22 @@
-### Quest Name: Kill the Rat God
-### Objective: Eliminate the so-called 'Rat God' that has been terrorizing the local area.
-### First Tasks: Locate the Rat God’s lair beneath Klamath., Fight through hordes of mutated rats., Defeat the Rat God and put an end to the threat.
-### First Task Locations: Klamath Sewers - An underground network filled with aggressive rats and the so-called Rat God.
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: Caps - A reward from the locals for eliminating the Rat God. (amount: 100), Karma Boost - Helping the town improves your reputation. (amount: NONE)
-### Characters: NONE
-### Tools: Melee weapons or firearms to fight off rats., Healing supplies to recover from the battle.
-### Description: Klamath's sewers are infested with aggressive rats, and rumors speak of a larger, more intelligent creature—the Rat God. The locals need someone brave enough to put an end to this menace.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: Fallout 2
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Kill the Rat God
+Objective: Eliminate the so-called 'Rat God' that has been terrorizing the local area.
+First Tasks: Locate the Rat God’s lair beneath Klamath., Fight through hordes of mutated rats., Defeat the Rat God and put an end to the threat.
+First Task Locations: Klamath Sewers - An underground network filled with aggressive rats and the so-called Rat God.
+Quest Giver: NONE - NONE (location: NONE)
+Reward: Caps - A reward from the locals for eliminating the Rat God. (amount: 100), Karma Boost - Helping the town improves your reputation. (amount: NONE)
+Characters: NONE
+Tools: Melee weapons or firearms to fight off rats., Healing supplies to recover from the battle.
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: Fallout 2
+Motivation: NONE
+
+### Response:
+Klamath's sewers are infested with aggressive rats, and rumors speak of a larger, more intelligent creature—the Rat God. The locals need someone brave enough to put an end to this menace.
+

@@ -1,15 +1,22 @@
-### Quest Name: Begging for Death
-### Objective: assassinate Narfi
-### First Tasks: find Narfi
-### First Task Locations:  - ruins just outside of Ivarstead
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - payment (amount: 1)
-### Characters: Narfi - a hapless beggar (location: ruins just outside of Ivarstead)
-### Tools: NONE
-### Description: Go assassinate Narfi. He's a hapless beggar living in some ruins just outside the village of Ivarstead. Easy even for you. You get to slaughter an emaciated beggar in cold blood. You are truly an opponent to be feared. I'll have your payment waiting for you.
-### Locations: Ivarstead - a village (location: NONE)
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Begging for Death
+Objective: assassinate Narfi
+First Tasks: find Narfi
+First Task Locations:  - ruins just outside of Ivarstead
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - payment (amount: 1)
+Characters: Narfi - a hapless beggar (location: ruins just outside of Ivarstead)
+Tools: NONE
+Locations: Ivarstead - a village (location: NONE)
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+Go assassinate Narfi. He's a hapless beggar living in some ruins just outside the village of Ivarstead. Easy even for you. You get to slaughter an emaciated beggar in cold blood. You are truly an opponent to be feared. I'll have your payment waiting for you.
+

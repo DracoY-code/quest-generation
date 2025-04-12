@@ -1,15 +1,22 @@
-### Quest Name: Helping Irenicus' Captive Dryads
-### Objective: take the three dryads' acorns to the Fairy Queen in the south end of the Windspear Hills
-### First Tasks: get the three dryads' acorns from Ilyich
-### First Task Locations:  - Irenicus' dungeon
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: Irenicus - an evil male wizard (location: ), Ilyich - the clan leader of Irenicus's duergar slaves (location: Irenicus' dungeon), Fairy Queen - the queen of fairies (location: the south end of the Windspear Hills)
-### Tools: Irenicus has enslaved the three dryads
-### Description: We are the three dryads. You must help us get free of this... creature Irenicus! We are Irenicus's possessions, servants, and concubines. You must get our acorns back from Ilyich, the clan leader of Irenicus's duergar slaves. He is somewhere within this dungeon. Please take the acorns to the Fairy Queen who lives in the south end of the Windspear Hills.
-### Locations: Windspear Hills - windy hills (location: NONE)
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: Baldur's Gate II: Shadows of Amn
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Helping Irenicus' Captive Dryads
+Objective: take the three dryads' acorns to the Fairy Queen in the south end of the Windspear Hills
+First Tasks: get the three dryads' acorns from Ilyich
+First Task Locations:  - Irenicus' dungeon
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: Irenicus - an evil male wizard (location: ), Ilyich - the clan leader of Irenicus's duergar slaves (location: Irenicus' dungeon), Fairy Queen - the queen of fairies (location: the south end of the Windspear Hills)
+Tools: Irenicus has enslaved the three dryads
+Locations: Windspear Hills - windy hills (location: NONE)
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: Baldur's Gate II: Shadows of Amn
+Motivation: NONE
+
+### Response:
+We are the three dryads. You must help us get free of this... creature Irenicus! We are Irenicus's possessions, servants, and concubines. You must get our acorns back from Ilyich, the clan leader of Irenicus's duergar slaves. He is somewhere within this dungeon. Please take the acorns to the Fairy Queen who lives in the south end of the Windspear Hills.
+

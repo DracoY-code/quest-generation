@@ -1,15 +1,22 @@
-### Quest Name: The Thing
-### Objective: destroy the Thing before it infects the whole world
-### First Tasks: find the Thing
-### First Task Locations: Norsk Leiren - a cold, icy dungeon
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: Bennings - one of Blair's fellow researchers (location: Norsk Leiren), Fuchs - one of Blair's fellow researchers (location: Norsk Leiren)
-### Tools: the Thing got in Bennings, but then Fuchs disappeared
-### Description: "Blair's Notes" by Blair  It was in the ice. Who knows how long? But it wasn't dead. And now it's hiding, here somewhere... in one of us. We found it in Bennings, but then Fuchs disappeared. It's still here, and it's looking for a way out. If it gets out into the world, it can infect everyone, everywhere. Three years, at most. Gods forgive us for what we've set loose upon the world.
-### Locations: NONE
-### Items: "Blair's Notes" - notes on the discovery of the Thing (amount: 1)
-### Enemies: Thing - a dangerous parasitic, infectious creature (amount: 1)
-### Groups: NONE
-### Title: Torchlight II
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: The Thing
+Objective: destroy the Thing before it infects the whole world
+First Tasks: find the Thing
+First Task Locations: Norsk Leiren - a cold, icy dungeon
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: Bennings - one of Blair's fellow researchers (location: Norsk Leiren), Fuchs - one of Blair's fellow researchers (location: Norsk Leiren)
+Tools: the Thing got in Bennings, but then Fuchs disappeared
+Locations: NONE
+Items: "Blair's Notes" - notes on the discovery of the Thing (amount: 1)
+Enemies: Thing - a dangerous parasitic, infectious creature (amount: 1)
+Groups: NONE
+Title: Torchlight II
+Motivation: NONE
+
+### Response:
+"Blair's Notes" by Blair  It was in the ice. Who knows how long? But it wasn't dead. And now it's hiding, here somewhere... in one of us. We found it in Bennings, but then Fuchs disappeared. It's still here, and it's looking for a way out. If it gets out into the world, it can infect everyone, everywhere. Three years, at most. Gods forgive us for what we've set loose upon the world.
+

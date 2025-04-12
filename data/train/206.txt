@@ -1,15 +1,22 @@
-### Quest Name: Track Down Pretty Boy Lloyd, Recover the Stolen Money, and Make an Example of Him
-### Objective: Locate Pretty Boy Lloyd, retrieve the money he stole from Bishop, and deal with him as you see fit.
-### First Tasks: Gather information on Pretty Boy Lloyd’s whereabouts., Confront him and demand the stolen money., Decide his fate: let him go, kill him, or turn him in.
-### First Task Locations: New Reno - Pretty Boy Lloyd is hiding somewhere in New Reno., Bishop's Casino - The Bishop family will provide details about Lloyd’s theft.
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: Cash Reward - Receive $1,000 from Bishop for completing the task. (amount: NONE), Option to Keep the Money - If you choose not to return the money, you can keep $2,000 for yourself. (amount: NONE), Bishop Family Favor - Completing the quest as instructed may improve your standing with the Bishop family. (amount: NONE)
-### Characters: NONE
-### Tools: Speech to persuade Lloyd to hand over the money., Sneak to pickpocket or stealthily retrieve the cash., Guns or melee weapons if you decide to kill him.
-### Description: John Bishop has tasked you with hunting down Pretty Boy Lloyd, a thief who stole from him. Find Lloyd, retrieve the money, and decide his fate.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: Fallout 2
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Track Down Pretty Boy Lloyd, Recover the Stolen Money, and Make an Example of Him
+Objective: Locate Pretty Boy Lloyd, retrieve the money he stole from Bishop, and deal with him as you see fit.
+First Tasks: Gather information on Pretty Boy Lloyd’s whereabouts., Confront him and demand the stolen money., Decide his fate: let him go, kill him, or turn him in.
+First Task Locations: New Reno - Pretty Boy Lloyd is hiding somewhere in New Reno., Bishop's Casino - The Bishop family will provide details about Lloyd’s theft.
+Quest Giver: NONE - NONE (location: NONE)
+Reward: Cash Reward - Receive $1,000 from Bishop for completing the task. (amount: NONE), Option to Keep the Money - If you choose not to return the money, you can keep $2,000 for yourself. (amount: NONE), Bishop Family Favor - Completing the quest as instructed may improve your standing with the Bishop family. (amount: NONE)
+Characters: NONE
+Tools: Speech to persuade Lloyd to hand over the money., Sneak to pickpocket or stealthily retrieve the cash., Guns or melee weapons if you decide to kill him.
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: Fallout 2
+Motivation: NONE
+
+### Response:
+John Bishop has tasked you with hunting down Pretty Boy Lloyd, a thief who stole from him. Find Lloyd, retrieve the money, and decide his fate.
+

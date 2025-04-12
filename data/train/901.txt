@@ -1,15 +1,22 @@
-### Quest Name: The Priest of Tempus
-### Objective: deal with Bolumir
-### First Tasks: decide whether to accept Bolumir's offer or not
-### First Task Locations: NONE - 
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - Bolumir's services as a priest if the player accepts Bolumir's offer (amount: 1)
-### Characters: Tempus - the god of battles (location: )
-### Tools: the player is a noble: Bolumir would like to be the chaplain of the player's keep, Bolumir does not promise to stay long at the player's keep
-### Description: My name be Bolumir, priest of Tempus, the god of battles! Hahr... it has been some time since I have rested my feet in any place, to tell the truth. I've been wandering for many a year now. The traveling does wear on me, to tell the truth. I've come to ask if you've a chapel that a priest of Tempus might set himself up in... bring the good Word to the folk of the area. What do you say, eh? If my manner does not strike you as offensive, I would be glad to be chaplain of your wee keep here. I can help your people here much while I stay. But I do not promise to stay for long. Either you accept me or you don't, my liege... that is your choice, and I'll not begrudge it you.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: Baldur's Gate II: Shadows of Amn
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: The Priest of Tempus
+Objective: deal with Bolumir
+First Tasks: decide whether to accept Bolumir's offer or not
+First Task Locations: NONE - 
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - Bolumir's services as a priest if the player accepts Bolumir's offer (amount: 1)
+Characters: Tempus - the god of battles (location: )
+Tools: the player is a noble: Bolumir would like to be the chaplain of the player's keep, Bolumir does not promise to stay long at the player's keep
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: Baldur's Gate II: Shadows of Amn
+Motivation: NONE
+
+### Response:
+My name be Bolumir, priest of Tempus, the god of battles! Hahr... it has been some time since I have rested my feet in any place, to tell the truth. I've been wandering for many a year now. The traveling does wear on me, to tell the truth. I've come to ask if you've a chapel that a priest of Tempus might set himself up in... bring the good Word to the folk of the area. What do you say, eh? If my manner does not strike you as offensive, I would be glad to be chaplain of your wee keep here. I can help your people here much while I stay. But I do not promise to stay for long. Either you accept me or you don't, my liege... that is your choice, and I'll not begrudge it you.
+

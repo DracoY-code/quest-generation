@@ -1,15 +1,22 @@
-### Quest Name: Suspect: Jules
-### Objective: Investigate whether Jules was responsible for Richard Wright’s overdose.
-### First Tasks: Find and question Jules about his involvement in the overdose., Check Jules' drug supply for matches with the substance found at the scene., Gather testimonies from witnesses regarding Jules' activities., Report your findings to the Wright family.
-### First Task Locations: Jules' Hangout - A common gathering spot where Jules is often seen dealing., Overdose Scene - Reexamine for any evidence linking Jules to the case., Wright Family Residence - Return to Orville Wright with your findings.
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: Caps - A monetary reward for uncovering the truth. (amount: 500), Wright Family Favor - Increased standing with the Wrights, granting potential future benefits. (amount: NONE)
-### Characters: NONE
-### Tools: Speech or Barter to persuade Jules into talking., Science or Medicine to analyze drug samples., Perception to detect inconsistencies in Jules’ story.
-### Description: Jules is a known figure in the New Reno drug scene and a potential suspect in Richard Wright’s overdose. Investigate his involvement and determine the truth.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: Fallout 2
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Suspect: Jules
+Objective: Investigate whether Jules was responsible for Richard Wright’s overdose.
+First Tasks: Find and question Jules about his involvement in the overdose., Check Jules' drug supply for matches with the substance found at the scene., Gather testimonies from witnesses regarding Jules' activities., Report your findings to the Wright family.
+First Task Locations: Jules' Hangout - A common gathering spot where Jules is often seen dealing., Overdose Scene - Reexamine for any evidence linking Jules to the case., Wright Family Residence - Return to Orville Wright with your findings.
+Quest Giver: NONE - NONE (location: NONE)
+Reward: Caps - A monetary reward for uncovering the truth. (amount: 500), Wright Family Favor - Increased standing with the Wrights, granting potential future benefits. (amount: NONE)
+Characters: NONE
+Tools: Speech or Barter to persuade Jules into talking., Science or Medicine to analyze drug samples., Perception to detect inconsistencies in Jules’ story.
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: Fallout 2
+Motivation: NONE
+
+### Response:
+Jules is a known figure in the New Reno drug scene and a potential suspect in Richard Wright’s overdose. Investigate his involvement and determine the truth.
+

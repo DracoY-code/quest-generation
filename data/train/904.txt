@@ -1,15 +1,22 @@
-### Quest Name: Stabilized
-### Objective: help Shadr clear his debt with Sapphire
-### First Tasks: talk with Sapphire about Shadr's debt
-### First Task Locations: NONE - 
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: Sapphire - a female thief (location: )
-### Tools: Shadr thinks that Sapphire cheated him: Shadr ordered a shipment from the Whiterun stables, it never came
-### Description: I owe a great deal of money to someone and I think they cheated me. I don't know what to do. I was able to work out a deal with the stables in Whiterun to sell me some of their tack and harnesses. I borrowed some gold from Sapphire to pay for the shipment, but it got robbed before it even arrived. Now Sapphire wants her money back, and if I don't pay her, I think she's going to kill me. Can you help me pay off my debt? You should go talk with Sapphire about it.
-### Locations: Whiterun - a city (location: NONE)
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Stabilized
+Objective: help Shadr clear his debt with Sapphire
+First Tasks: talk with Sapphire about Shadr's debt
+First Task Locations: NONE - 
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: Sapphire - a female thief (location: )
+Tools: Shadr thinks that Sapphire cheated him: Shadr ordered a shipment from the Whiterun stables, it never came
+Locations: Whiterun - a city (location: NONE)
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+I owe a great deal of money to someone and I think they cheated me. I don't know what to do. I was able to work out a deal with the stables in Whiterun to sell me some of their tack and harnesses. I borrowed some gold from Sapphire to pay for the shipment, but it got robbed before it even arrived. Now Sapphire wants her money back, and if I don't pay her, I think she's going to kill me. Can you help me pay off my debt? You should go talk with Sapphire about it.
+

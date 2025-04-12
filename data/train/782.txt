@@ -1,15 +1,22 @@
-### Quest Name: Vahtacen's Secret
-### Objective: help with Irlav Jarol's research project at Vahtacen
-### First Tasks: talk to Irlav Jarol
-### First Task Locations: Arch Mage's Tower - in Arcane University
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: Irlav Jarol - a male mage (location: Arch Mage's Tower)
-### Tools: there are no Necromancers involved in this task
-### Description: I, Raminus Polus, have a new task for you, and I assure you there are no Necromancers involved. There's a research project going on at Vahtacen, one of the Ayleid ruin sites on the eastern side of the province. Irlav Jarol is in charge of the project, and is apparently in need of some help. I thought you might need a break, after the things you've been exposed to lately. You can find Irlav here in the Arch Mage's Tower.
-### Locations: Arcane University - a university for mages (location: NONE), Vahtacen - one of the Ayleid ruin sites on the eastern side of the province (location: NONE)
-### Items: NONE
-### Enemies: NONE
-### Groups: Mages Guild - a guild of mages, Ayleid - a lost race of people
-### Title: The Elder Scrolls IV: Oblivion
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Vahtacen's Secret
+Objective: help with Irlav Jarol's research project at Vahtacen
+First Tasks: talk to Irlav Jarol
+First Task Locations: Arch Mage's Tower - in Arcane University
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: Irlav Jarol - a male mage (location: Arch Mage's Tower)
+Tools: there are no Necromancers involved in this task
+Locations: Arcane University - a university for mages (location: NONE), Vahtacen - one of the Ayleid ruin sites on the eastern side of the province (location: NONE)
+Items: NONE
+Enemies: NONE
+Groups: Mages Guild - a guild of mages, Ayleid - a lost race of people
+Title: The Elder Scrolls IV: Oblivion
+Motivation: NONE
+
+### Response:
+I, Raminus Polus, have a new task for you, and I assure you there are no Necromancers involved. There's a research project going on at Vahtacen, one of the Ayleid ruin sites on the eastern side of the province. Irlav Jarol is in charge of the project, and is apparently in need of some help. I thought you might need a break, after the things you've been exposed to lately. You can find Irlav here in the Arch Mage's Tower.
+

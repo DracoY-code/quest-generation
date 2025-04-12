@@ -1,15 +1,22 @@
-### Quest Name: Lurkers in Shadows
-### Objective: find out what the suspicious person is after
-### First Tasks: find and follow the suspicious person at dusk
-### First Task Locations: Cocoa Hamlet - a village in a jungle
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - a diamond (amount: 1)
-### Characters: NONE
-### Tools: the player is a famous hero
-### Description: I almost didn't see you there, Hero. I'm succumbed in deep, dark thoughts at the moment. Someone's been spying on our village for quite some time. I personally spotted that suspicious individual coming here around dusk. Perhaps that person is plotting something malicious, perhaps not. Regardless, I'm worried that something bad might happen to Cocoa Hamlet. You, Hero, are the right person to find out what that suspicious person is up to. The jungle can hide many dangers in its deep thickets of trees and vines. Find and follow the suspicious person, here in Cocoa Hamlet. We can give you a diamond for your time. An adventurer found it in an abandoned jungle temple a long time ago.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: Minecraft
-### Motivation: knowledge
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Lurkers in Shadows
+Objective: find out what the suspicious person is after
+First Tasks: find and follow the suspicious person at dusk
+First Task Locations: Cocoa Hamlet - a village in a jungle
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - a diamond (amount: 1)
+Characters: NONE
+Tools: the player is a famous hero
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: Minecraft
+Motivation: knowledge
+
+### Response:
+
+

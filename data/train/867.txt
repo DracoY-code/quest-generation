@@ -1,15 +1,22 @@
-### Quest Name: Last Goodbyes
-### Objective: take Bera's necklace to Runil, and return to Morwen
-### First Tasks: give Bera's necklace to Runil and tell him that Morwen sent you
-### First Task Locations: Falkreath - a town in Skyrim
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - Morwen will do what she can (amount: 1)
-### Characters: Bera - Morwen's mother, a Skaal (location: ), Runil - a male Priest (location: Falkreath)
-### Tools: Bera left the Skaal village to return to Skyrim with her love: Morwen's father, a sailor from Skyrim, Morwen thinks that Bera would like her necklace be placed upon her grave in Falkreath
-### Description: My mother, Bera, was Skaal, but she left the village and I was born in Skyrim. A trade ship from Skyrim struck ice off the coast near the village, and the Skaal took in the surviving sailors. My mother fell in love with one of the sailors - my father - and eventually returned with him to Skyrim. I came across a few of my mother's old things not long ago. Among them was a necklace that my father gave to her when they were married. I believe she would want it placed upon her tombstone in Falkreath, as a symbol of her undying love and the great sacrifice she made for it. If you find yourself in Falkreath, please give this amulet to the priest Runil and tell him that I sent you. He will understand. I don't have much to give in reward, but return to me when the task is done and I'll do what I can. Thank you, Skaal-friend.
-### Locations: Skyrim - a realm (location: NONE)
-### Items: NONE
-### Enemies: NONE
-### Groups: Skaal - a friendly tribe of people living on a cold, remote island
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Last Goodbyes
+Objective: take Bera's necklace to Runil, and return to Morwen
+First Tasks: give Bera's necklace to Runil and tell him that Morwen sent you
+First Task Locations: Falkreath - a town in Skyrim
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - Morwen will do what she can (amount: 1)
+Characters: Bera - Morwen's mother, a Skaal (location: ), Runil - a male Priest (location: Falkreath)
+Tools: Bera left the Skaal village to return to Skyrim with her love: Morwen's father, a sailor from Skyrim, Morwen thinks that Bera would like her necklace be placed upon her grave in Falkreath
+Locations: Skyrim - a realm (location: NONE)
+Items: NONE
+Enemies: NONE
+Groups: Skaal - a friendly tribe of people living on a cold, remote island
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+My mother, Bera, was Skaal, but she left the village and I was born in Skyrim. A trade ship from Skyrim struck ice off the coast near the village, and the Skaal took in the surviving sailors. My mother fell in love with one of the sailors - my father - and eventually returned with him to Skyrim. I came across a few of my mother's old things not long ago. Among them was a necklace that my father gave to her when they were married. I believe she would want it placed upon her tombstone in Falkreath, as a symbol of her undying love and the great sacrifice she made for it. If you find yourself in Falkreath, please give this amulet to the priest Runil and tell him that I sent you. He will understand. I don't have much to give in reward, but return to me when the task is done and I'll do what I can. Thank you, Skaal-friend.
+

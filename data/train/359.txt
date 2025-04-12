@@ -1,15 +1,22 @@
-### Quest Name: Break Manson and Franc Out of Prison
-### Objective: Help Manson and Franc escape from the NCR prison in Fallout 2.
-### First Tasks: Talk to Manson in the NCR prison to learn about the escape plan., Disable or distract the guards to create an opportunity for escape., Unlock the prison cells using lockpicking or a key., Ensure Manson and Franc safely exit the prison without getting caught.
-### First Task Locations: NCR Prison - A secure facility in the New California Republic where Manson and Franc are being held.
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: Experience Points - Earned for successfully freeing Manson and Franc. (amount: 1000), Caps - A monetary reward from Manson and Franc for helping them escape. (amount: 500)
-### Characters: NONE
-### Tools: Lockpick Skill, Stealth Skill, Speech Skill
-### Description: Manson and Franc are locked up in the NCR prison and need your help to escape. You must find a way to free them without getting caught.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: Fallout 2
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Break Manson and Franc Out of Prison
+Objective: Help Manson and Franc escape from the NCR prison in Fallout 2.
+First Tasks: Talk to Manson in the NCR prison to learn about the escape plan., Disable or distract the guards to create an opportunity for escape., Unlock the prison cells using lockpicking or a key., Ensure Manson and Franc safely exit the prison without getting caught.
+First Task Locations: NCR Prison - A secure facility in the New California Republic where Manson and Franc are being held.
+Quest Giver: NONE - NONE (location: NONE)
+Reward: Experience Points - Earned for successfully freeing Manson and Franc. (amount: 1000), Caps - A monetary reward from Manson and Franc for helping them escape. (amount: 500)
+Characters: NONE
+Tools: Lockpick Skill, Stealth Skill, Speech Skill
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: Fallout 2
+Motivation: NONE
+
+### Response:
+Manson and Franc are locked up in the NCR prison and need your help to escape. You must find a way to free them without getting caught.
+

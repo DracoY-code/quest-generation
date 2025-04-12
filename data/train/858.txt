@@ -1,15 +1,22 @@
-### Quest Name: Hunt the Skin Dancer with Darsidian Moor
-### Objective: help Darsidian Moor kill a skin dancer
-### First Tasks: meet Darsidian Moor
-### First Task Locations:  - the skin dancer's lair north of the east gate, in a walled-off section of town with an orange pavilion
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: NONE
-### Tools: NONE
-### Description: I am Darsidian Moor, and I hunt a creature known as the skin dancer, a man-like beast without true flesh of its own. I must follow the leads I have found here and confront this creature once and for all. Will you aid me in killing this creature of evil? The skin dancer's lair is just north of the east gate, in a walled-off section of town with an orange pavilion. I intend to travel ahead and scout out the area. Meet me there as soon as possible... I could certainly use your aid.
-### Locations: NONE
-### Items: NONE
-### Enemies: skin dancer - a human-like creature that wears the flesh of a human (amount: 1)
-### Groups: NONE
-### Title: Baldur's Gate II: Shadows of Amn
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Hunt the Skin Dancer with Darsidian Moor
+Objective: help Darsidian Moor kill a skin dancer
+First Tasks: meet Darsidian Moor
+First Task Locations:  - the skin dancer's lair north of the east gate, in a walled-off section of town with an orange pavilion
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: NONE
+Tools: NONE
+Locations: NONE
+Items: NONE
+Enemies: skin dancer - a human-like creature that wears the flesh of a human (amount: 1)
+Groups: NONE
+Title: Baldur's Gate II: Shadows of Amn
+Motivation: NONE
+
+### Response:
+I am Darsidian Moor, and I hunt a creature known as the skin dancer, a man-like beast without true flesh of its own. I must follow the leads I have found here and confront this creature once and for all. Will you aid me in killing this creature of evil? The skin dancer's lair is just north of the east gate, in a walled-off section of town with an orange pavilion. I intend to travel ahead and scout out the area. Meet me there as soon as possible... I could certainly use your aid.
+

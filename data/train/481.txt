@@ -1,15 +1,22 @@
-### Quest Name: The Prey
-### Objective: remind the Dawnguard that they are the prey
-### First Tasks: track down a Dawnguard member, and kill him discreetly
-### First Task Locations: NONE - 
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: NONE
-### Tools: NONE
-### Description: I've learned the whereabouts of a troublesome Dawnguard member. You will track him down and dispose of him. But please, do be discreet. Don't. Get. Caught. Our aim isn't to stir the nest, just to skin a rat, reminding them that they are the prey.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: Dawnguard - an organization of vampire hunters
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: The Prey
+Objective: remind the Dawnguard that they are the prey
+First Tasks: track down a Dawnguard member, and kill him discreetly
+First Task Locations: NONE - 
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: NONE
+Tools: NONE
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: Dawnguard - an organization of vampire hunters
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+I've learned the whereabouts of a troublesome Dawnguard member. You will track him down and dispose of him. But please, do be discreet. Don't. Get. Caught. Our aim isn't to stir the nest, just to skin a rat, reminding them that they are the prey.
+

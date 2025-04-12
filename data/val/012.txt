@@ -1,15 +1,22 @@
-### Quest Name: Joseph's Wife
-### Objective: investigate Joseph's fate for his wife
-### First Tasks: find Joseph
-### First Task Locations:  - the mines
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: Joseph - a male miner (location: the mines)
-### Tools: Joseph wears a greenstone wedding ring on his left hand, Joseph went missing in the mines, men have disappeared in the mines before
-### Description: My husband is missing in the mines. All I know about the mines are that men keep on disappearing in their hellish depths. My husband is one of the miners, but he hasn't been home for weeks. His name is Joseph, and he wears his wedding ring on his left hand. It's a greenstone ring. Please, find him and tell me how he is doing!
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: Baldur's Gate
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Joseph's Wife
+Objective: investigate Joseph's fate for his wife
+First Tasks: find Joseph
+First Task Locations:  - the mines
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: Joseph - a male miner (location: the mines)
+Tools: Joseph wears a greenstone wedding ring on his left hand, Joseph went missing in the mines, men have disappeared in the mines before
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: Baldur's Gate
+Motivation: NONE
+
+### Response:
+My husband is missing in the mines. All I know about the mines are that men keep on disappearing in their hellish depths. My husband is one of the miners, but he hasn't been home for weeks. His name is Joseph, and he wears his wedding ring on his left hand. It's a greenstone ring. Please, find him and tell me how he is doing!
+

@@ -1,15 +1,22 @@
-### Quest Name: Recruit Ian
-### Objective: Convince Ian to join as a companion.
-### First Tasks: Talk to Ian and persuade him to join.
-### First Task Locations: Shady Sands - A small settlement trying to survive in the wasteland.
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: Ian's Assistance - Ian joins the player as a companion, aiding in combat. (amount: 1)
-### Characters: NONE
-### Tools: N, O, N, E
-### Description: Ian, a former caravan guard, is willing to join the Vault Dweller if convinced. He can be recruited through conversation, offering him payment, or appealing to his sense of adventure.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: Fallout
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Recruit Ian
+Objective: Convince Ian to join as a companion.
+First Tasks: Talk to Ian and persuade him to join.
+First Task Locations: Shady Sands - A small settlement trying to survive in the wasteland.
+Quest Giver: NONE - NONE (location: NONE)
+Reward: Ian's Assistance - Ian joins the player as a companion, aiding in combat. (amount: 1)
+Characters: NONE
+Tools: N, O, N, E
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: Fallout
+Motivation: NONE
+
+### Response:
+Ian, a former caravan guard, is willing to join the Vault Dweller if convinced. He can be recruited through conversation, offering him payment, or appealing to his sense of adventure.
+

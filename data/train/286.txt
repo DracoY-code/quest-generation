@@ -1,15 +1,22 @@
-### Quest Name: Melicamp the Chicken
-### Objective: turn Melicamp of Beregost back into a human from a chicken
-### First Tasks: talk to Thalantyr
-### First Task Locations: High Hedge - a tower directly to the west of Beregost
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: Thalantyr - a powerful mage, and Melicamp of Beregost's master (location: High Hedge)
-### Tools: Melicamp of Beregost was turned into a chicken by a spell gone wrong, Melicamp of Beregost will nest in the player's pack
-### Description: Buc-becaw! HELLLLP-becaw! I am "no ordinary talking chicken," and I am in need of your *cluck* help. I am Melicamp of Beregost, a *cluck* mage adept in the mystical arts. A... misread... incantation seems to be *cluck* the source of my troubling form. 'Tis been over a month since I *cluck* uttered a polymorph spell, and I simply cannot return to my normal *cluck* form! There is a tower directly to the west of *cluck* Beregost, about which can be found the mage Thalantyr. I am his apprentice, and I am certain he will *cluck* aid me. I'll just nestle in your pack until we get there.
-### Locations: Beregost - a town (location: NONE)
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: Baldur's Gate
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Melicamp the Chicken
+Objective: turn Melicamp of Beregost back into a human from a chicken
+First Tasks: talk to Thalantyr
+First Task Locations: High Hedge - a tower directly to the west of Beregost
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: Thalantyr - a powerful mage, and Melicamp of Beregost's master (location: High Hedge)
+Tools: Melicamp of Beregost was turned into a chicken by a spell gone wrong, Melicamp of Beregost will nest in the player's pack
+Locations: Beregost - a town (location: NONE)
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: Baldur's Gate
+Motivation: NONE
+
+### Response:
+Buc-becaw! HELLLLP-becaw! I am "no ordinary talking chicken," and I am in need of your *cluck* help. I am Melicamp of Beregost, a *cluck* mage adept in the mystical arts. A... misread... incantation seems to be *cluck* the source of my troubling form. 'Tis been over a month since I *cluck* uttered a polymorph spell, and I simply cannot return to my normal *cluck* form! There is a tower directly to the west of *cluck* Beregost, about which can be found the mage Thalantyr. I am his apprentice, and I am certain he will *cluck* aid me. I'll just nestle in your pack until we get there.
+

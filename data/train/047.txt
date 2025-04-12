@@ -1,15 +1,22 @@
-### Quest Name: Flight or Fight
-### Objective: tell Liefnarr that he is not welcome home
-### First Tasks: find Liefnarr
-### First Task Locations: Broken Helm Hollow - a camp east towards the border of Morrowind
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: Liefnarr - Grosta's missing husband (location: Broken Helm Hollow)
-### Tools: Liefnarr went to trade some grain with people at Broken Helm Hollow: he never came back
-### Description: My husband Liefnarr said he was going east towards the border of Morrowind to trade some of our grain to some folks at Broken Helm Hollow. I waited and waited, and he never came back. Probably shacked up with some elven whore. Good riddance to him I say. If I only knew where he was, I'd sure give him a piece of my mind. If you see him, tell him Grosta said he can go straight to hell... he's not welcome here any more.
-### Locations: Morrowind - a province inhabited by elves (location: NONE)
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Flight or Fight
+Objective: tell Liefnarr that he is not welcome home
+First Tasks: find Liefnarr
+First Task Locations: Broken Helm Hollow - a camp east towards the border of Morrowind
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: Liefnarr - Grosta's missing husband (location: Broken Helm Hollow)
+Tools: Liefnarr went to trade some grain with people at Broken Helm Hollow: he never came back
+Locations: Morrowind - a province inhabited by elves (location: NONE)
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+My husband Liefnarr said he was going east towards the border of Morrowind to trade some of our grain to some folks at Broken Helm Hollow. I waited and waited, and he never came back. Probably shacked up with some elven whore. Good riddance to him I say. If I only knew where he was, I'd sure give him a piece of my mind. If you see him, tell him Grosta said he can go straight to hell... he's not welcome here any more.
+

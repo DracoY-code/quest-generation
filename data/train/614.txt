@@ -1,15 +1,22 @@
-### Quest Name: Evalt's Missing Brother
-### Objective: find Evan
-### First Tasks: find the Blue Lady
-### First Task Locations:  - along the west coast of Balduran's Isle
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: Evan - Evalt's brother (location: ), Blue Lady - a witch (location: Balduran's Isle)
-### Tools: Evan sought out the Blue Lady and disappeared, Evalt thinks that Evan is under the Blue Lady's spell
-### Description: I am Evalt, I fish for clan in these savage waters. Listen, outsider, may I ask you for help? There is a witch on this isle. My brother called her the Blue Lady and those of us who ply these waters have all heard her singing at one time or another. My brother, Evan, heard her more than most. I think that he went to find her. I think that he is under her spell. I must go and find him. This witch might kill him. He is strong but he is under her spell. I fear that she will kill him before he realizes what is happening. Can you find my brother? I don't know exactly where the Blue Lady is. I have the sense to avoid her, unlike Evan. But I have only heard her singing along the west coast of the island.
-### Locations: Balduran's Isle - a small island (location: NONE)
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: Baldur's Gate
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Evalt's Missing Brother
+Objective: find Evan
+First Tasks: find the Blue Lady
+First Task Locations:  - along the west coast of Balduran's Isle
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: Evan - Evalt's brother (location: ), Blue Lady - a witch (location: Balduran's Isle)
+Tools: Evan sought out the Blue Lady and disappeared, Evalt thinks that Evan is under the Blue Lady's spell
+Locations: Balduran's Isle - a small island (location: NONE)
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: Baldur's Gate
+Motivation: NONE
+
+### Response:
+I am Evalt, I fish for clan in these savage waters. Listen, outsider, may I ask you for help? There is a witch on this isle. My brother called her the Blue Lady and those of us who ply these waters have all heard her singing at one time or another. My brother, Evan, heard her more than most. I think that he went to find her. I think that he is under her spell. I must go and find him. This witch might kill him. He is strong but he is under her spell. I fear that she will kill him before he realizes what is happening. Can you find my brother? I don't know exactly where the Blue Lady is. I have the sense to avoid her, unlike Evan. But I have only heard her singing along the west coast of the island.
+

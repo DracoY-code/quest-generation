@@ -1,15 +1,22 @@
-### Quest Name: Gold. GOLD. GOLD!
-### Objective: bring gold ore to Nila
-### First Tasks: find some gold ore
-### First Task Locations:  - ore veins deep in the ground
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - melon seeds (amount: 1)
-### Characters: NONE
-### Tools: the player is an enemy of Nila
-### Description: What are YOU doing here! If it was up to me, I'd never let you in the village. Perhaps you'd like to mend our relations? Bring me some gold ore, the more the better. You can never have enough of it; it's so beautiful. My gold. I wish to have it all to myself. Too bad it's mainly found in the ore veins deep in the ground. I guess you could have these melon seeds as a reward. I have no use for them; melons have nothing on gold.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: Minecraft
-### Motivation: comfort
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Gold. GOLD. GOLD!
+Objective: bring gold ore to Nila
+First Tasks: find some gold ore
+First Task Locations:  - ore veins deep in the ground
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - melon seeds (amount: 1)
+Characters: NONE
+Tools: the player is an enemy of Nila
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: Minecraft
+Motivation: comfort
+
+### Response:
+What are YOU doing here! If it was up to me, I'd never let you in the village. Perhaps you'd like to mend our relations? Bring me some gold ore, the more the better. You can never have enough of it; it's so beautiful. My gold. I wish to have it all to myself. Too bad it's mainly found in the ore veins deep in the ground. I guess you could have these melon seeds as a reward. I have no use for them; melons have nothing on gold.
+

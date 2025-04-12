@@ -1,15 +1,22 @@
-### Quest Name: A Misguided Murder
-### Objective: pin the murder of Senior Armagaran Vulova on the Shadow Thieves
-### First Tasks: murder Senior Armagaran Vulova
-### First Task Locations:  - Senior Armagaran Vulova's small house, in the Government District, between the jail and the government building
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: Senior Armagaran Vulova - a man leading a merchant house, linked to the Shadow Thieves (location: Senior Armagaran Vulova's small house)
-### Tools: the player has done assignments to Bodhi before, Bodhi gives the player a cloak and a dagger to implicate the Shadow Thieves: when Senior Armagaran Vulova is dead, the player must put the cloak and the dagger in the fountain in Senior Armagaran Vulova's house
-### Description: Now I ask for a more specific task that will disrupt the Shadow Thieves further. The task is... unseemly. It calls for the murder of a man. Not a truly innocent man, but hardly a villain of epic scope. You must kill, blaming the murder on the Shadow Thieves. He is head of a merchant house, and his link to Shadow Thieves is blatant. If he were to die and certain gear were at the scene, it would implicate the guild we oppose. Take this cloak and dagger, and go kill Senior Armagaran Vulova. When he is dead, put the cloak and dagger in the fountain in his house. He will die easily, though there may be guards. His small house is in the Government District, between the jail and the government building. Go.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: Shadow Thieves - a guild of thieves
-### Title: Baldur's Gate II: Shadows of Amn
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: A Misguided Murder
+Objective: pin the murder of Senior Armagaran Vulova on the Shadow Thieves
+First Tasks: murder Senior Armagaran Vulova
+First Task Locations:  - Senior Armagaran Vulova's small house, in the Government District, between the jail and the government building
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: Senior Armagaran Vulova - a man leading a merchant house, linked to the Shadow Thieves (location: Senior Armagaran Vulova's small house)
+Tools: the player has done assignments to Bodhi before, Bodhi gives the player a cloak and a dagger to implicate the Shadow Thieves: when Senior Armagaran Vulova is dead, the player must put the cloak and the dagger in the fountain in Senior Armagaran Vulova's house
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: Shadow Thieves - a guild of thieves
+Title: Baldur's Gate II: Shadows of Amn
+Motivation: NONE
+
+### Response:
+
+

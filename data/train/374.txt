@@ -1,15 +1,22 @@
-### Quest Name: Kill Hubologist in NCR for Merk
-### Objective: Eliminate a Hubologist in NCR as requested by Merk.
-### First Tasks: Meet with Merk to receive details on the target., Locate the Hubologist in NCR., Neutralize the target without attracting unnecessary attention.
-### First Task Locations: Merk's Hideout - The location where Merk provides the assassination contract., NCR - The city where the Hubologist is located.
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: Caps - Payment for completing the assassination. (amount: NONE), Karma Change - Negative karma for committing murder. (amount: NONE)
-### Characters: NONE
-### Tools: Stealth skills for avoiding detection., Weapons to efficiently eliminate the target., Escape plan to leave NCR safely after the job.
-### Description: Merk wants a Hubologist in NCR taken out, offering caps in return. The job requires tracking the target, eliminating them, and avoiding unnecessary complications.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: Fallout 2
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Kill Hubologist in NCR for Merk
+Objective: Eliminate a Hubologist in NCR as requested by Merk.
+First Tasks: Meet with Merk to receive details on the target., Locate the Hubologist in NCR., Neutralize the target without attracting unnecessary attention.
+First Task Locations: Merk's Hideout - The location where Merk provides the assassination contract., NCR - The city where the Hubologist is located.
+Quest Giver: NONE - NONE (location: NONE)
+Reward: Caps - Payment for completing the assassination. (amount: NONE), Karma Change - Negative karma for committing murder. (amount: NONE)
+Characters: NONE
+Tools: Stealth skills for avoiding detection., Weapons to efficiently eliminate the target., Escape plan to leave NCR safely after the job.
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: Fallout 2
+Motivation: NONE
+
+### Response:
+Merk wants a Hubologist in NCR taken out, offering caps in return. The job requires tracking the target, eliminating them, and avoiding unnecessary complications.
+

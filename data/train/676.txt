@@ -1,15 +1,22 @@
-### Quest Name: Put the Spirit of the Child Wellyn to Rest
-### Objective: return Littleman to Wellyn
-### First Tasks: find Llynis
-### First Task Locations:  - inn in the slums, The Copper something, one of the bedrooms in the back
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: Llynis - a craven thief (location: inn in the slums)
-### Tools: Llynis killed Wellyn and stole Littleman
-### Description: I... my name is Wellyn. I just want... I just want my stuffed bear back... It's my favorite bear, Littleman... The bad man who came into our house... he—he hurt me, and he took Littleman with everything else... *sob* I can never go to sleep without Littleman! The bad man has it at that inn in the slums. The Copper something. *sniff* He's in one of those bedrooms in the back! I think his name is "Llynis"... I've... I've gone to him... *sob*... I've tried to tell him that I just want my bear, please, but he just gets too frightened of me. *sob* Oh, please get it from him!
-### Locations: NONE
-### Items: Littleman - Wellyn's stuffed bear (amount: 1)
-### Enemies: NONE
-### Groups: NONE
-### Title: Baldur's Gate II: Shadows of Amn
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Put the Spirit of the Child Wellyn to Rest
+Objective: return Littleman to Wellyn
+First Tasks: find Llynis
+First Task Locations:  - inn in the slums, The Copper something, one of the bedrooms in the back
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: Llynis - a craven thief (location: inn in the slums)
+Tools: Llynis killed Wellyn and stole Littleman
+Locations: NONE
+Items: Littleman - Wellyn's stuffed bear (amount: 1)
+Enemies: NONE
+Groups: NONE
+Title: Baldur's Gate II: Shadows of Amn
+Motivation: NONE
+
+### Response:
+I... my name is Wellyn. I just want... I just want my stuffed bear back... It's my favorite bear, Littleman... The bad man who came into our house... he—he hurt me, and he took Littleman with everything else... *sob* I can never go to sleep without Littleman! The bad man has it at that inn in the slums. The Copper something. *sniff* He's in one of those bedrooms in the back! I think his name is "Llynis"... I've... I've gone to him... *sob*... I've tried to tell him that I just want my bear, please, but he just gets too frightened of me. *sob* Oh, please get it from him!
+

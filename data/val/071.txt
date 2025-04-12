@@ -1,15 +1,22 @@
-### Quest Name: Bruma Gate
-### Objective: help the Bruma guard close an Oblivion Gate just outside Bruma
-### First Tasks: meet up with Captain Burd and let him show you the Oblivion Gate
-### First Task Locations:  - outside the Bruma city gate
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: Countess - the female noble who rules Bruma (location: Bruma), Captain Burd - the male captain of the Bruma guard (location: outside the Bruma city gate)
-### Tools: Jauffre has received a message from the Countess: an Oblivion Gate has opened outside the city, and the Mythic Dawn are putting their plan to attack Bruma into motion, Jauffre wants the player to show the Countess's guard how to close Oblivion Gates
-### Description: I've just received word from the Countess of Bruma that an Oblivion Gate has opened outside the city. It seems that the Mythic Dawn are putting their plan to attack Bruma into motion. Since you've dealt with these Gates before, I'd like you to help the Countess's guard close this gate. Once they've seen how it's done, they should be able to handle any new gates on their own. Captain Burd is waiting for you outside the Bruma city gate. He'll show you the Oblivion Gate. Although I doubt it will be hard to find.
-### Locations: Bruma - a city (location: NONE)
-### Items: NONE
-### Enemies: NONE
-### Groups: Mythic Dawn - an evil cult that wants to destroy everything
-### Title: The Elder Scrolls IV: Oblivion
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Bruma Gate
+Objective: help the Bruma guard close an Oblivion Gate just outside Bruma
+First Tasks: meet up with Captain Burd and let him show you the Oblivion Gate
+First Task Locations:  - outside the Bruma city gate
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: Countess - the female noble who rules Bruma (location: Bruma), Captain Burd - the male captain of the Bruma guard (location: outside the Bruma city gate)
+Tools: Jauffre has received a message from the Countess: an Oblivion Gate has opened outside the city, and the Mythic Dawn are putting their plan to attack Bruma into motion, Jauffre wants the player to show the Countess's guard how to close Oblivion Gates
+Locations: Bruma - a city (location: NONE)
+Items: NONE
+Enemies: NONE
+Groups: Mythic Dawn - an evil cult that wants to destroy everything
+Title: The Elder Scrolls IV: Oblivion
+Motivation: NONE
+
+### Response:
+I've just received word from the Countess of Bruma that an Oblivion Gate has opened outside the city. It seems that the Mythic Dawn are putting their plan to attack Bruma into motion. Since you've dealt with these Gates before, I'd like you to help the Countess's guard close this gate. Once they've seen how it's done, they should be able to handle any new gates on their own. Captain Burd is waiting for you outside the Bruma city gate. He'll show you the Oblivion Gate. Although I doubt it will be hard to find.
+

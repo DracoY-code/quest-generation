@@ -1,15 +1,22 @@
-### Quest Name: The Ghost Ship of Anvil
-### Objective: return the crystal ball to Varulae
-### First Tasks: get Varulae's crystal ball from a chest in the Serpent's Wake's hold
-### First Task Locations: Serpent's Wake - a haunted ship right beside the player in Anvil
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - an enchanted cutlass (amount: 1)
-### Characters: NONE
-### Tools: Varulae sent the crew of Serpent's Wake to the Summerset Isle to retrieve Varulae's crystal ball: someone murdered the crew when they came back to Anvil, Varulae gives the player a key
-### Description: This is a travesty. A complete and utter travesty. The crystal ball is just sitting there in the hold, but I'll be damned if I'm going back onboard. And nobody will help me. Nobody! Not with those spirits roaming the decks. I don't suppose you'll help me? No, of course you won't... Wait... Did you actually say you'd help me? I've been going out of my mind ever since my crew was murdered! This is my ship, you see. The Serpent's Wake. I hired the crew to sail to Summerset Isle to retrieve a family heirloom, my mother's crystal ball. They made the journey, and arrived back all right, but then... Someone murdered them! All of them! Now their spirits are haunting the ship! The crystal ball is in a chest in the ship's hold, but I can't get to it. I made it as far as the captain's cabin, but the spirits nearly killed me! Get the crystal ball and return it to me here, and I'll make it worth your trouble. Here, you'll need this key. Thank you so much! There will be a reward waiting for you! It's the captain's enchanted cutlass. I managed to grab it when I was in his cabin, before his spirit chased me out!
-### Locations: Anvil - a city (location: NONE), Summerset Isle - an island (location: NONE)
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: The Elder Scrolls IV: Oblivion
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: The Ghost Ship of Anvil
+Objective: return the crystal ball to Varulae
+First Tasks: get Varulae's crystal ball from a chest in the Serpent's Wake's hold
+First Task Locations: Serpent's Wake - a haunted ship right beside the player in Anvil
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - an enchanted cutlass (amount: 1)
+Characters: NONE
+Tools: Varulae sent the crew of Serpent's Wake to the Summerset Isle to retrieve Varulae's crystal ball: someone murdered the crew when they came back to Anvil, Varulae gives the player a key
+Locations: Anvil - a city (location: NONE), Summerset Isle - an island (location: NONE)
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: The Elder Scrolls IV: Oblivion
+Motivation: NONE
+
+### Response:
+This is a travesty. A complete and utter travesty. The crystal ball is just sitting there in the hold, but I'll be damned if I'm going back onboard. And nobody will help me. Nobody! Not with those spirits roaming the decks. I don't suppose you'll help me? No, of course you won't... Wait... Did you actually say you'd help me? I've been going out of my mind ever since my crew was murdered! This is my ship, you see. The Serpent's Wake. I hired the crew to sail to Summerset Isle to retrieve a family heirloom, my mother's crystal ball. They made the journey, and arrived back all right, but then... Someone murdered them! All of them! Now their spirits are haunting the ship! The crystal ball is in a chest in the ship's hold, but I can't get to it. I made it as far as the captain's cabin, but the spirits nearly killed me! Get the crystal ball and return it to me here, and I'll make it worth your trouble. Here, you'll need this key. Thank you so much! There will be a reward waiting for you! It's the captain's enchanted cutlass. I managed to grab it when I was in his cabin, before his spirit chased me out!
+

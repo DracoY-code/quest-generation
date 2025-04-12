@@ -1,15 +1,22 @@
-### Quest Name: Coran the Wyvern Hunter
-### Objective: bring the wyvern's head to the mayor of Beregost
-### First Tasks: find the wyvern's nest with Coran and kill the wyvern
-### First Task Locations: NONE - 
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - gold (amount: 2000)
-### Characters:  - the mayor of Beregost (location: Beregost)
-### Tools: the player met Coran in this wood, the mayor of Beregost hired Coran to hunt down a dragon with a barbed tail: Coran knows that dragons do not have barbed tails
-### Description: It's refreshing to find other people in this wood. I am Coran, thief and archer! I've been alone in the wilderness for far too long. I wouldn't mind returning to the big city, but I have yet to collect my bounty. I'd share the reward with the lot of you if you would help hasten the hunt. The deal is this: I've been hired out by the mayor of Beregost to hunt down a great winged dragon that's been plaguing the caravan routes. He's offered 2,000 gold for its head. Now before you get cold feet, let me allay your fears. The only descriptions of the beast have always mentioned its deadly barbed tail. From what I know about dragons they don't have barbs on their tails — that's something unique to wyverns. So all we have to do is find this wyvern's nest and kill it. Our only worries are if it has friends over for dinner! We shouldn't tarry any longer; let's collect the head of this soon-to-be-sorry wyvern.
-### Locations: Beregost - a city (location: NONE)
-### Items: NONE
-### Enemies: wyvern - a dragon-like creature with a barbed tail (amount: 1)
-### Groups: NONE
-### Title: Baldur's Gate
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Coran the Wyvern Hunter
+Objective: bring the wyvern's head to the mayor of Beregost
+First Tasks: find the wyvern's nest with Coran and kill the wyvern
+First Task Locations: NONE - 
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - gold (amount: 2000)
+Characters:  - the mayor of Beregost (location: Beregost)
+Tools: the player met Coran in this wood, the mayor of Beregost hired Coran to hunt down a dragon with a barbed tail: Coran knows that dragons do not have barbed tails
+Locations: Beregost - a city (location: NONE)
+Items: NONE
+Enemies: wyvern - a dragon-like creature with a barbed tail (amount: 1)
+Groups: NONE
+Title: Baldur's Gate
+Motivation: NONE
+
+### Response:
+It's refreshing to find other people in this wood. I am Coran, thief and archer! I've been alone in the wilderness for far too long. I wouldn't mind returning to the big city, but I have yet to collect my bounty. I'd share the reward with the lot of you if you would help hasten the hunt. The deal is this: I've been hired out by the mayor of Beregost to hunt down a great winged dragon that's been plaguing the caravan routes. He's offered 2,000 gold for its head. Now before you get cold feet, let me allay your fears. The only descriptions of the beast have always mentioned its deadly barbed tail. From what I know about dragons they don't have barbs on their tails — that's something unique to wyverns. So all we have to do is find this wyvern's nest and kill it. Our only worries are if it has friends over for dinner! We shouldn't tarry any longer; let's collect the head of this soon-to-be-sorry wyvern.
+

@@ -1,15 +1,22 @@
-### Quest Name: Ahdarji's Heirloom
-### Objective: recover Ahdarji's ring that was stolen by a freelance thief, and return it to Ahdarji
-### First Tasks: speak with Ahdarji about her ring that was stolen
-### First Task Locations: Leyawiin - a city
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - Ahdarji is offering a reward for recovering her ring (amount: 1)
-### Characters: Ahdarji - the widow of a former fence (location: Leyawiin)
-### Tools: NONE
-### Description: I have a special request from the widow of a former fence in Leyawiin. As your new Doyen, I am asking you to help her. A street scavenger made off with a ring that the widow Ahdarji values highly. She is offering a reward. The guild frowns on freelance thieves. Go to Leyawiin. Speak with Ahdarji and help her find her ring.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: Thieves Guild - a guild of thieves
-### Title: The Elder Scrolls IV: Oblivion
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Ahdarji's Heirloom
+Objective: recover Ahdarji's ring that was stolen by a freelance thief, and return it to Ahdarji
+First Tasks: speak with Ahdarji about her ring that was stolen
+First Task Locations: Leyawiin - a city
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - Ahdarji is offering a reward for recovering her ring (amount: 1)
+Characters: Ahdarji - the widow of a former fence (location: Leyawiin)
+Tools: NONE
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: Thieves Guild - a guild of thieves
+Title: The Elder Scrolls IV: Oblivion
+Motivation: NONE
+
+### Response:
+I have a special request from the widow of a former fence in Leyawiin. As your new Doyen, I am asking you to help her. A street scavenger made off with a ring that the widow Ahdarji values highly. She is offering a reward. The guild frowns on freelance thieves. Go to Leyawiin. Speak with Ahdarji and help her find her ring.
+

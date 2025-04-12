@@ -1,15 +1,22 @@
-### Quest Name: Imperial Corruption
-### Objective: do something about the corrupt watchman
-### First Tasks: ask around about the corrupt watchman
-### First Task Locations: Market District - a shopping district
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: Luronk - Ruslan's male friend (location: ), Jensine - a female shopkeeper (location: Market District),  - the corrupt watchman, a male guard (location: )
-### Tools: the corrupt watchman took Ruslan's last septim, Luronk and Ruslan were shopping at Jensine's when the corrupt watchman accused them of stealing: the corrupt watchman fined Luronk and Ruslan even though Jensine said that they were innocent, the corrupt watchman has shaken down most of the shopkeepers in the Market District
-### Description: Hey stranger, can you spare a few coins? I've just been shaken down by that bastard watchman and he took my last septim. I don't know his name, but I'd recognize him if I saw him again. Luronk and I were shopping at Jensine's when he accused us of stealing. Even Jensine said we were innocent, but he didn't care. We had to pay his "fine" or go to jail. He's shaken down most of the shopkeepers in the Market District. They're all too afraid of him to do anything. Jensine wouldn't even talk about it. Someone ought to do something about him.
-### Locations: NONE
-### Items: septim - a currency, coins (amount: 1)
-### Enemies: NONE
-### Groups: NONE
-### Title: The Elder Scrolls IV: Oblivion
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Imperial Corruption
+Objective: do something about the corrupt watchman
+First Tasks: ask around about the corrupt watchman
+First Task Locations: Market District - a shopping district
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: Luronk - Ruslan's male friend (location: ), Jensine - a female shopkeeper (location: Market District),  - the corrupt watchman, a male guard (location: )
+Tools: the corrupt watchman took Ruslan's last septim, Luronk and Ruslan were shopping at Jensine's when the corrupt watchman accused them of stealing: the corrupt watchman fined Luronk and Ruslan even though Jensine said that they were innocent, the corrupt watchman has shaken down most of the shopkeepers in the Market District
+Locations: NONE
+Items: septim - a currency, coins (amount: 1)
+Enemies: NONE
+Groups: NONE
+Title: The Elder Scrolls IV: Oblivion
+Motivation: NONE
+
+### Response:
+Hey stranger, can you spare a few coins? I've just been shaken down by that bastard watchman and he took my last septim. I don't know his name, but I'd recognize him if I saw him again. Luronk and I were shopping at Jensine's when he accused us of stealing. Even Jensine said we were innocent, but he didn't care. We had to pay his "fine" or go to jail. He's shaken down most of the shopkeepers in the Market District. They're all too afraid of him to do anything. Jensine wouldn't even talk about it. Someone ought to do something about him.
+

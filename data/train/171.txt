@@ -1,15 +1,22 @@
-### Quest Name: The Lost Key
-### Objective: help Lord Taldimut bring the Golden Gear to Zeryphesh
-### First Tasks: recover the Golden Gear
-### First Task Locations: Whispering Cave - a deep cave
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: NONE
-### Tools: Lord Taldimut has been studying the crests
-### Description: I have continued studying the crests, and I am more convinced than ever that the Golden Gear is hidden in the the Whispering Cave. If you can retrieve it, I can bring it back to Zeryphesh, to aid in the city's defense against the Ezrohir siege.
-### Locations: Zeryphesh - a city sieged by Ezrohir (location: NONE)
-### Items: Golden Gear - important object related to defense of Zeryphesh (amount: 1)
-### Enemies: NONE
-### Groups: Ezrohir - a hostile race of people
-### Title: Torchlight II
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: The Lost Key
+Objective: help Lord Taldimut bring the Golden Gear to Zeryphesh
+First Tasks: recover the Golden Gear
+First Task Locations: Whispering Cave - a deep cave
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: NONE
+Tools: Lord Taldimut has been studying the crests
+Locations: Zeryphesh - a city sieged by Ezrohir (location: NONE)
+Items: Golden Gear - important object related to defense of Zeryphesh (amount: 1)
+Enemies: NONE
+Groups: Ezrohir - a hostile race of people
+Title: Torchlight II
+Motivation: NONE
+
+### Response:
+I have continued studying the crests, and I am more convinced than ever that the Golden Gear is hidden in the the Whispering Cave. If you can retrieve it, I can bring it back to Zeryphesh, to aid in the city's defense against the Ezrohir siege.
+

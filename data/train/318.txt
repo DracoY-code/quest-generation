@@ -1,15 +1,22 @@
-### Quest Name: Heart Stones
-### Objective: bring a Heart Stone to Neloth
-### First Tasks: find a Heart Stone
-### First Task Locations: Solstheim - an island
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - Neloth pays the player (amount: 1)
-### Characters: NONE
-### Tools: every time the Red Mountain belches, more of Heart Stones land on Solstheim: the player may need to pick away at stone to pry the Heart Stone
-### Description: I'm running low on Heart Stones. If you have any with you, I'll buy one. Otherwise, I can tell you where you might find one. Every time the Red Mountain belches, more of them land here on Solstheim. Look around for impact craters, exposed rock, that sort of thing. You may need to pick away at it to pry the heart stone itself loose, but you look... strong. Good luck.
-### Locations: Red Mountain - an active volcano (location: NONE)
-### Items: Heart Stones - magical stones (amount: 1)
-### Enemies: NONE
-### Groups: NONE
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Heart Stones
+Objective: bring a Heart Stone to Neloth
+First Tasks: find a Heart Stone
+First Task Locations: Solstheim - an island
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - Neloth pays the player (amount: 1)
+Characters: NONE
+Tools: every time the Red Mountain belches, more of Heart Stones land on Solstheim: the player may need to pick away at stone to pry the Heart Stone
+Locations: Red Mountain - an active volcano (location: NONE)
+Items: Heart Stones - magical stones (amount: 1)
+Enemies: NONE
+Groups: NONE
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+I'm running low on Heart Stones. If you have any with you, I'll buy one. Otherwise, I can tell you where you might find one. Every time the Red Mountain belches, more of them land here on Solstheim. Look around for impact craters, exposed rock, that sort of thing. You may need to pick away at it to pry the heart stone itself loose, but you look... strong. Good luck.
+

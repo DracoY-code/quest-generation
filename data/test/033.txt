@@ -1,15 +1,22 @@
-### Quest Name: Lights Out!
-### Objective: help run the Icerunner aground
-### First Tasks: put out the lighthouse fire, meet Jaree-Ra
-### First Task Locations: Solitude Lighthouse - a lighthouse in Solitude, Solitude Docks - the docks in Solitude
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - loot from the Icerunner (amount: 1)
-### Characters: Deeja - Jaree-Ra's sister, a female treasure hunter (location: )
-### Tools: Jaree-Ra and Deeja collect things nobody misses, with the war, many more ships come through Solitude Docks loaded with weapons and pay, but few people
-### Description: It's easy to find things to sell. Things nobody will miss. Things from underground, or just left lying around in someone's house. I bet the two of us, we're very alike. So why not take the next step? We can help each other. My sister Deeja and I are treasure hunters. You could be too. We like to collect things. We are not thieves. We just take what will not be missed. What no one needs anymore. Maybe we take some weapons and stop a few deaths. Who would call that thievery? With the war, many more ships come through these docks. Loaded with weapons and pay, but few people. And they pass through dangerous waters. We have an interest in one of those boats, the Icerunner. The Solitude Lighthouse will be guiding it in... but if its fire were to go out, the Icerunner would run aground. If someone were to put out the lighthouse fire and then meet me on the docks afterwards... I could certainly direct them to that loot. That someone could be you.
-### Locations: Icerunner - a cargo ship (location: NONE), Solitude - a city (location: NONE)
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Lights Out!
+Objective: help run the Icerunner aground
+First Tasks: put out the lighthouse fire, meet Jaree-Ra
+First Task Locations: Solitude Lighthouse - a lighthouse in Solitude, Solitude Docks - the docks in Solitude
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - loot from the Icerunner (amount: 1)
+Characters: Deeja - Jaree-Ra's sister, a female treasure hunter (location: )
+Tools: Jaree-Ra and Deeja collect things nobody misses, with the war, many more ships come through Solitude Docks loaded with weapons and pay, but few people
+Locations: Icerunner - a cargo ship (location: NONE), Solitude - a city (location: NONE)
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+
+

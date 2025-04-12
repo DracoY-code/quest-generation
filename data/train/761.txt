@@ -1,15 +1,22 @@
-### Quest Name: Deal Like A Steal
-### Objective: secure a merchandise transportation deal for the Thieves Guild
-### First Tasks: deliver a satchel of Moon Sugar to Ri'saad to secure the deal
-### First Task Locations: NONE - 
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: Ri'saad - the male leader of the caravans that travel across the realm (location: )
-### Tools: the caravans are notorious for transporting illegal substances
-### Description: Before we get down to business, I've got something I need you to do. Well, as you know, the Guild's growing and things are looking up around here. The only thing we're lacking is a reliable way to transport our merchandise across the land. I'm not sure if you've noticed, but there are several caravans that travel across the realm. They're shrewd traders and don't mind getting their hands dirty. I've bartered with their leader, Ri'saad, on more than one occasion. I want you to bring him something. You see, the caravans are notorious for transporting illegal substances. Present Ri'saad with this satchel of Moon Sugar, and I bet my last coin he'll make a deal.
-### Locations: NONE
-### Items: Moon Sugar - an illegal substance (amount: 1)
-### Enemies: NONE
-### Groups: Thieves Guild - a guild of thieves
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Deal Like A Steal
+Objective: secure a merchandise transportation deal for the Thieves Guild
+First Tasks: deliver a satchel of Moon Sugar to Ri'saad to secure the deal
+First Task Locations: NONE - 
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: Ri'saad - the male leader of the caravans that travel across the realm (location: )
+Tools: the caravans are notorious for transporting illegal substances
+Locations: NONE
+Items: Moon Sugar - an illegal substance (amount: 1)
+Enemies: NONE
+Groups: Thieves Guild - a guild of thieves
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+Before we get down to business, I've got something I need you to do. Well, as you know, the Guild's growing and things are looking up around here. The only thing we're lacking is a reliable way to transport our merchandise across the land. I'm not sure if you've noticed, but there are several caravans that travel across the realm. They're shrewd traders and don't mind getting their hands dirty. I've bartered with their leader, Ri'saad, on more than one occasion. I want you to bring him something. You see, the caravans are notorious for transporting illegal substances. Present Ri'saad with this satchel of Moon Sugar, and I bet my last coin he'll make a deal.
+

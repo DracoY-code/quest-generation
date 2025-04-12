@@ -1,15 +1,22 @@
-### Quest Name: The Staff of Magnus
-### Objective: bring the Staff of Magnus to the College of Winterhold
-### First Tasks: find the Staff of Magnus
-### First Task Locations: Labyrinthian - a ruin
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: Ancano - a power-hungry male wizard (location: College of Winterhold), Savos Aren - the male Arch-Mage of the College of Winterhold (location: )
-### Tools: the player needs the Staff of Magnus to break through Ancano's dangerous magic, the player knows that the Staff of Magnus is in Labyrinthian: Savos Aren gave Mirabelle Ervine something from Labyrinthian before he died, Mirabelle Ervine gives the player this item and Savos Aren's amulet
-### Description: You need to get your hands on the Staff of Magnus. Now. I've got to stay here, to see if we can get to Ancano and stop this. I need someone I can trust to do it. If the stories about the staff are true, if it really can absorb a tremendous amount of power, maybe we can break through Ancano's magic. You know that the staff is in Labyrinthian? Are you... Are you sure? The staff is there? That can't be a coincidence. The Arch-Mage. Before... before he died. He... He gave me something just a little while ago. He told me it was from Labyrinthian, and that I would know what to do with it when the time came. I think... I think he meant this for you, then. I'm not sure why, but there was something very personal about it for him. Also, I think you should take this amulet. It belonged to Savos, but I think would do you the most good now. Take it, and get out of here. Bring back that staff before Ancano brings the whole College down around us. If we can't stop this, what happens to the rest of Skyrim?
-### Locations: College of Winterhold - a school for mages in Skyrim (location: NONE), Skyrim - a realm (location: NONE)
-### Items: Staff of Magnus - a mage's staff that can absorb a tremendous amount of power (amount: 1)
-### Enemies: NONE
-### Groups: NONE
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: The Staff of Magnus
+Objective: bring the Staff of Magnus to the College of Winterhold
+First Tasks: find the Staff of Magnus
+First Task Locations: Labyrinthian - a ruin
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: Ancano - a power-hungry male wizard (location: College of Winterhold), Savos Aren - the male Arch-Mage of the College of Winterhold (location: )
+Tools: the player needs the Staff of Magnus to break through Ancano's dangerous magic, the player knows that the Staff of Magnus is in Labyrinthian: Savos Aren gave Mirabelle Ervine something from Labyrinthian before he died, Mirabelle Ervine gives the player this item and Savos Aren's amulet
+Locations: College of Winterhold - a school for mages in Skyrim (location: NONE), Skyrim - a realm (location: NONE)
+Items: Staff of Magnus - a mage's staff that can absorb a tremendous amount of power (amount: 1)
+Enemies: NONE
+Groups: NONE
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+You need to get your hands on the Staff of Magnus. Now. I've got to stay here, to see if we can get to Ancano and stop this. I need someone I can trust to do it. If the stories about the staff are true, if it really can absorb a tremendous amount of power, maybe we can break through Ancano's magic. You know that the staff is in Labyrinthian? Are you... Are you sure? The staff is there? That can't be a coincidence. The Arch-Mage. Before... before he died. He... He gave me something just a little while ago. He told me it was from Labyrinthian, and that I would know what to do with it when the time came. I think... I think he meant this for you, then. I'm not sure why, but there was something very personal about it for him. Also, I think you should take this amulet. It belonged to Savos, but I think would do you the most good now. Take it, and get out of here. Bring back that staff before Ancano brings the whole College down around us. If we can't stop this, what happens to the rest of Skyrim?
+

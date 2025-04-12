@@ -1,15 +1,22 @@
-### Quest Name: Spies
-### Objective: track down the spies, kill them and find out what they know
-### First Tasks: talk to Steffan, talk to Captain Burd
-### First Task Locations: Cloud Ruler - a military fort, Bruma - a city near Cloud Ruler
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: Steffan - a male gate guard who has seen the spies (location: Cloud Ruler), Captain Burd - a male captain of the guard (location: Bruma)
-### Tools: the gate guards have reported seeing strangers on the road for the past several nights: Jauffre cannot leave Cloud Ruler undefended while his men search the whole mountainside, Jauffre has asked the Countess of Bruma to have the guard keep an eye out for strangers
-### Description: I hope you can help. The gate guards have reported seeing strangers on the road for the past several nights. I cannot leave Cloud Ruler undefended while my men search the whole mountainside, but these spies must be eliminated. Talk to Steffan. He can tell you where he has seen them. Captain Burd in Bruma may also be able to help. I've asked the authorities of Bruma to have the guard keep an eye out for strangers. Track down the spies and kill them. Find out what they know, and what they're planning, if possible.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: The Elder Scrolls IV: Oblivion
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Spies
+Objective: track down the spies, kill them and find out what they know
+First Tasks: talk to Steffan, talk to Captain Burd
+First Task Locations: Cloud Ruler - a military fort, Bruma - a city near Cloud Ruler
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: Steffan - a male gate guard who has seen the spies (location: Cloud Ruler), Captain Burd - a male captain of the guard (location: Bruma)
+Tools: the gate guards have reported seeing strangers on the road for the past several nights: Jauffre cannot leave Cloud Ruler undefended while his men search the whole mountainside, Jauffre has asked the Countess of Bruma to have the guard keep an eye out for strangers
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: The Elder Scrolls IV: Oblivion
+Motivation: NONE
+
+### Response:
+I hope you can help. The gate guards have reported seeing strangers on the road for the past several nights. I cannot leave Cloud Ruler undefended while my men search the whole mountainside, but these spies must be eliminated. Talk to Steffan. He can tell you where he has seen them. Captain Burd in Bruma may also be able to help. I've asked the authorities of Bruma to have the guard keep an eye out for strangers. Track down the spies and kill them. Find out what they know, and what they're planning, if possible.
+

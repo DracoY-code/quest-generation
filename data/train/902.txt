@@ -1,15 +1,22 @@
-### Quest Name: A Bit Bling-Bling
-### Objective: give a diamond hoe to Fred
-### First Tasks: obtain a diamond hoe
-### First Task Locations: NONE - 
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - melons (amount: 32)
-### Characters: NONE
-### Tools: the player is an enemy of Fred
-### Description: Don't you go anywhere close my crops! Have you not tormented me enough already? Or are you here to reconcile? I could use a new hoe. Perhaps even something somewhat more fancier than my old one. Alright. Bring me a diamond hoe. Then I might forgive you. And I may even give you a small reward on top of that: 32 melons that I grew myself.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: Minecraft
-### Motivation: comfort
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: A Bit Bling-Bling
+Objective: give a diamond hoe to Fred
+First Tasks: obtain a diamond hoe
+First Task Locations: NONE - 
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - melons (amount: 32)
+Characters: NONE
+Tools: the player is an enemy of Fred
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: Minecraft
+Motivation: comfort
+
+### Response:
+Don't you go anywhere close my crops! Have you not tormented me enough already? Or are you here to reconcile? I could use a new hoe. Perhaps even something somewhat more fancier than my old one. Alright. Bring me a diamond hoe. Then I might forgive you. And I may even give you a small reward on top of that: 32 melons that I grew myself.
+

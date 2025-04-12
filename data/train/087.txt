@@ -1,15 +1,22 @@
-### Quest Name: A Scroll For Anska
-### Objective: help Anska find a scroll about her family legend
-### First Tasks: defeat Vokun, a powerful old priest buried here, with Anska
-### First Task Locations:  - Vokun's crypt
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: anything but the scroll -  (amount: 1)
-### Characters: Vokun - a powerful old male priest who was buried long ago (location: Vokun's crypt), Ysgramor - a famous male hero of old (location: )
-### Tools: Anska's family legend states that they are descendants of Ysgramor
-### Description: I'm Anska. Are you here to help? I've finally located Vokun's crypt! The scroll I'm looking for just has to be here. Maybe you could help find it, I just know it's in here. Vokun is some old priest buried here long ago. I've been searching for his tomb for a few years now. If Vokun is as powerful as I think, I may need a little help um... dealing with him. With the two of us this should be easy. You can have anything except the scroll of course. It's probably meaningless to you, but according to family legend it links our bloodline back to Ysgramor himself.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: A Scroll For Anska
+Objective: help Anska find a scroll about her family legend
+First Tasks: defeat Vokun, a powerful old priest buried here, with Anska
+First Task Locations:  - Vokun's crypt
+Quest Giver: NONE - NONE (location: NONE)
+Reward: anything but the scroll -  (amount: 1)
+Characters: Vokun - a powerful old male priest who was buried long ago (location: Vokun's crypt), Ysgramor - a famous male hero of old (location: )
+Tools: Anska's family legend states that they are descendants of Ysgramor
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+I'm Anska. Are you here to help? I've finally located Vokun's crypt! The scroll I'm looking for just has to be here. Maybe you could help find it, I just know it's in here. Vokun is some old priest buried here long ago. I've been searching for his tomb for a few years now. If Vokun is as powerful as I think, I may need a little help um... dealing with him. With the two of us this should be easy. You can have anything except the scroll of course. It's probably meaningless to you, but according to family legend it links our bloodline back to Ysgramor himself.
+

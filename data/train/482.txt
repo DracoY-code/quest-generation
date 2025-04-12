@@ -1,15 +1,22 @@
-### Quest Name: Nadarin and the Basilisk
-### Objective: kill a basilisk and return to Nadarin for your reward
-### First Tasks: find the basilisk
-### First Task Locations:  - a warehouse at the harbor
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - gold pieces (amount: 500),  - a pair of boots (amount: 1)
-### Characters: NONE
-### Tools: NONE
-### Description: Hey, you! Are you either bored or foolish? Either way, I, Nadarin, could use your services. Some wiseacre tried to send a basilisk by freight and now it's broken free and is making a mess of one of the warehouses at the harbor. There'll be 500 gold pieces for taking care of that on such short notice. Also, you might want these. They're an item I obtained from a fence I know in a far-away city. You never know, they might fit you.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: Baldur's Gate
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Nadarin and the Basilisk
+Objective: kill a basilisk and return to Nadarin for your reward
+First Tasks: find the basilisk
+First Task Locations:  - a warehouse at the harbor
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - gold pieces (amount: 500),  - a pair of boots (amount: 1)
+Characters: NONE
+Tools: NONE
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: Baldur's Gate
+Motivation: NONE
+
+### Response:
+Hey, you! Are you either bored or foolish? Either way, I, Nadarin, could use your services. Some wiseacre tried to send a basilisk by freight and now it's broken free and is making a mess of one of the warehouses at the harbor. There'll be 500 gold pieces for taking care of that on such short notice. Also, you might want these. They're an item I obtained from a fence I know in a far-away city. You never know, they might fit you.
+

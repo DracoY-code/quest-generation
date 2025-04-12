@@ -1,15 +1,22 @@
-### Quest Name: Escaped Criminal
-### Objective: hunt down an escaped criminal
-### First Tasks: find the escaped criminal
-### First Task Locations: Pale - a cold province
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters:  - escaped criminal, a dangerous man (location: Pale)
-### Tools: NONE
-### Description: You're looking for work? It seems that law-breakers in the Pale have no desire to stay there. I don't blame them. One of them's escaped, and you're going to find that coward. At this point they don't care what happens to him and neither do I. Best to just kill him and be done with it. Be careful. This man is known to be dangerous.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Escaped Criminal
+Objective: hunt down an escaped criminal
+First Tasks: find the escaped criminal
+First Task Locations: Pale - a cold province
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters:  - escaped criminal, a dangerous man (location: Pale)
+Tools: NONE
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+
+

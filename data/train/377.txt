@@ -1,15 +1,22 @@
-### Quest Name: Unseen Visions
-### Objective: read "Blood"
-### First Tasks: perform the ritual of the Ancestor Moth to gain the second sight needed to decipher the Elder Scrolls
-### First Task Locations:  - an Ancestor Glade in Skyrim, in the pine forest
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - the answers the player seeks (amount: 1)
-### Characters: NONE
-### Tools: the ritual of the Ancestor Moth: the player must remove the bark from a canticle tree with a draw knife to attract Ancestor Moths to them
-### Description: Scattered across Tamriel are secluded locations known only as Ancestor Glades. There's one in Skyrim, in the Pine Forest. Performing the Ritual of the Ancestor Moth within the glade should provide the answers you seek. It involves carefully removing the bark from a Canticle Tree which will in turn attract Ancestor Moths to you. In keeping with tradition, you must use a specific tool in the Ancestor Glade, an implement known as a Draw Knife. Every Moth Priest is taught this ritual, but few ever get the chance to perform it... you should consider yourself fortunate if it works for you. Once enough of the moths are following, they'll provide you with the second sight needed to decipher the Elder Scrolls. From what I saw in the vision, the Elder Scroll which foreshadows the defiance of the gods with the blood of mortals is the key to the prophecy.
-### Locations: Ancestor Glades - secluded locations scattered across Tamriel (location: NONE), Tamriel - a continent (location: NONE), Skyrim - a province on Tamriel (location: NONE)
-### Items: "Blood" - an Elder Scroll which foreshadows the defiance of the gods with the blood of mortals (amount: 1), Elder Scrolls - mysterious scrolls which are fragments of creation from outside time and space (amount: 1)
-### Enemies: NONE
-### Groups: Ancestor Moths - moths that provide the player with the second sight needed to decipher the Elder Scrolls
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Unseen Visions
+Objective: read "Blood"
+First Tasks: perform the ritual of the Ancestor Moth to gain the second sight needed to decipher the Elder Scrolls
+First Task Locations:  - an Ancestor Glade in Skyrim, in the pine forest
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - the answers the player seeks (amount: 1)
+Characters: NONE
+Tools: the ritual of the Ancestor Moth: the player must remove the bark from a canticle tree with a draw knife to attract Ancestor Moths to them
+Locations: Ancestor Glades - secluded locations scattered across Tamriel (location: NONE), Tamriel - a continent (location: NONE), Skyrim - a province on Tamriel (location: NONE)
+Items: "Blood" - an Elder Scroll which foreshadows the defiance of the gods with the blood of mortals (amount: 1), Elder Scrolls - mysterious scrolls which are fragments of creation from outside time and space (amount: 1)
+Enemies: NONE
+Groups: Ancestor Moths - moths that provide the player with the second sight needed to decipher the Elder Scrolls
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+Scattered across Tamriel are secluded locations known only as Ancestor Glades. There's one in Skyrim, in the Pine Forest. Performing the Ritual of the Ancestor Moth within the glade should provide the answers you seek. It involves carefully removing the bark from a Canticle Tree which will in turn attract Ancestor Moths to you. In keeping with tradition, you must use a specific tool in the Ancestor Glade, an implement known as a Draw Knife. Every Moth Priest is taught this ritual, but few ever get the chance to perform it... you should consider yourself fortunate if it works for you. Once enough of the moths are following, they'll provide you with the second sight needed to decipher the Elder Scrolls. From what I saw in the vision, the Elder Scroll which foreshadows the defiance of the gods with the blood of mortals is the key to the prophecy.
+

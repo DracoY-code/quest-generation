@@ -1,15 +1,22 @@
-### Quest Name: The Eye of Magnus
-### Objective: force Ancano stop exploiting the Eye of Magnus
-### First Tasks: get inside the College of Winterhold with the Staff of Magnus and reach Ancano
-### First Task Locations: NONE - 
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: Ancano - a power-hungry male wizard (location: College of Winterhold)
-### Tools: Tolfdir and the others can't crack Ancano's magical shield around the College of Winterhold, the player got the Staff of Magnus the Labyrinthian
-### Description: Ancano has sealed himself inside the College! The Eye of Magnus is is growing his power. We can't crack whatever magic he's using to shield himself. I hope your trip to Labyrinthian was worth it. You have the Staff of Magnus, then? Let's hope it's as powerful as the Psijics believe it to be. You're the one with the staff, my child. If it can help us get inside the College, and reach Ancano, we'll have to hope that there's a way to stop all this.
-### Locations: Labyrinthian - an ancient ruin (location: NONE), College of Winterhold - a school of mages (location: NONE)
-### Items: Eye of Magnus - a dangerous, powerful artifact (amount: 1), Staff of Magnus - a powerful staff that can breach magical shields according to the Psijics (amount: 1)
-### Enemies: NONE
-### Groups: Psijics - a mysterious order of mages
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: The Eye of Magnus
+Objective: force Ancano stop exploiting the Eye of Magnus
+First Tasks: get inside the College of Winterhold with the Staff of Magnus and reach Ancano
+First Task Locations: NONE - 
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: Ancano - a power-hungry male wizard (location: College of Winterhold)
+Tools: Tolfdir and the others can't crack Ancano's magical shield around the College of Winterhold, the player got the Staff of Magnus the Labyrinthian
+Locations: Labyrinthian - an ancient ruin (location: NONE), College of Winterhold - a school of mages (location: NONE)
+Items: Eye of Magnus - a dangerous, powerful artifact (amount: 1), Staff of Magnus - a powerful staff that can breach magical shields according to the Psijics (amount: 1)
+Enemies: NONE
+Groups: Psijics - a mysterious order of mages
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+
+

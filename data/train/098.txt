@@ -1,15 +1,22 @@
-### Quest Name: Restoration Training
-### Objective: receive restoration training from Oleta
-### First Tasks: save Kvatch from Daedra
-### First Task Locations: Kvatch - a city
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - restoration training from Oleta (amount: 1)
-### Characters: NONE
-### Tools: the player seeks restoration training from Oleta
-### Description: Greetings, traveler. You would seek restoration training from me? Your courage is admirable, but now is not the time. Once Kvatch is safe from these attackers, then we might speak of training. While Daedra still roam free in Kvatch, I can think of nothing else. When my city is safe, then I will train you.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: Daedra - demonic denizens from another dimension
-### Title: The Elder Scrolls IV: Oblivion
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Restoration Training
+Objective: receive restoration training from Oleta
+First Tasks: save Kvatch from Daedra
+First Task Locations: Kvatch - a city
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - restoration training from Oleta (amount: 1)
+Characters: NONE
+Tools: the player seeks restoration training from Oleta
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: Daedra - demonic denizens from another dimension
+Title: The Elder Scrolls IV: Oblivion
+Motivation: NONE
+
+### Response:
+Greetings, traveler. You would seek restoration training from me? Your courage is admirable, but now is not the time. Once Kvatch is safe from these attackers, then we might speak of training. While Daedra still roam free in Kvatch, I can think of nothing else. When my city is safe, then I will train you.
+

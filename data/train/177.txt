@@ -1,15 +1,22 @@
-### Quest Name: Trolls of Forsaken Mine
-### Objective: find out what happened at Forsaken Mine and report back to Modryn Oreyn
-### First Tasks: find Viranus Donton and other Fighters Guild members who went missing
-### First Task Locations: Forsaken Mine - a troll lair
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: Viranus Donton - the son of the guildleader of the Fighters Guild (location: Forsaken Mine)
-### Tools: Modryn Oreyn sent Viranus Donton and some other Fighters Guild members on a troll killing mission to Forsaken Mine: Modryn Oreyn felt that they were up to the task
-### Description: I have got another job for you. It's a sensitive one. I need you to find Viranus Donton. I sent him on a mission to Forsaken Mine. He and some others were supposed to clear the place of trolls. Haven't heard back from them in days. I want you to go check it out. I don't need to tell you how sensitive a matter this is. We'd been contracted to clear the place of trolls. It was a tough job, but I felt the men I sent were up to it. I want to know what happened. Get moving, and report back to me as soon as possible.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: Fighters Guild - a mercenary guild
-### Title: The Elder Scrolls IV: Oblivion
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Trolls of Forsaken Mine
+Objective: find out what happened at Forsaken Mine and report back to Modryn Oreyn
+First Tasks: find Viranus Donton and other Fighters Guild members who went missing
+First Task Locations: Forsaken Mine - a troll lair
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: Viranus Donton - the son of the guildleader of the Fighters Guild (location: Forsaken Mine)
+Tools: Modryn Oreyn sent Viranus Donton and some other Fighters Guild members on a troll killing mission to Forsaken Mine: Modryn Oreyn felt that they were up to the task
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: Fighters Guild - a mercenary guild
+Title: The Elder Scrolls IV: Oblivion
+Motivation: NONE
+
+### Response:
+I have got another job for you. It's a sensitive one. I need you to find Viranus Donton. I sent him on a mission to Forsaken Mine. He and some others were supposed to clear the place of trolls. Haven't heard back from them in days. I want you to go check it out. I don't need to tell you how sensitive a matter this is. We'd been contracted to clear the place of trolls. It was a tough job, but I felt the men I sent were up to it. I want to know what happened. Get moving, and report back to me as soon as possible.
+

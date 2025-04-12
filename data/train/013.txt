@@ -1,15 +1,22 @@
-### Quest Name: The Forsworn Conspiracy
-### Objective: investigate the attack market in the market
-### First Tasks: find out why Margret was attacked, and who is behind the Forsworn
-### First Task Locations: Markarth - a city
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - Eltrys will pay the player for any information they bring him (amount: 1)
-### Characters: Margret - a woman who was attacked by a crazed man at the Markarth market (location: Markarth)
-### Tools: NONE
-### Description: I'm sorry to drag you into Markarth's problems, but after that attack in the market, I'm running out of time. You want answers? Well so do I. So does everyone in this city. A man goes crazy in the market. Everyone knows he's a Forsworn agent. Guards do nothing. Nothing but clean up the mess. This has been going on for years. And all I've been able to find is murder and blood. I need help. Please. You find out why that woman Margret was attacked, who's behind the Forsworn, and I'll pay you for any information you bring me.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: Forsworn - a group of savages
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: The Forsworn Conspiracy
+Objective: investigate the attack market in the market
+First Tasks: find out why Margret was attacked, and who is behind the Forsworn
+First Task Locations: Markarth - a city
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - Eltrys will pay the player for any information they bring him (amount: 1)
+Characters: Margret - a woman who was attacked by a crazed man at the Markarth market (location: Markarth)
+Tools: NONE
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: Forsworn - a group of savages
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+I'm sorry to drag you into Markarth's problems, but after that attack in the market, I'm running out of time. You want answers? Well so do I. So does everyone in this city. A man goes crazy in the market. Everyone knows he's a Forsworn agent. Guards do nothing. Nothing but clean up the mess. This has been going on for years. And all I've been able to find is murder and blood. I need help. Please. You find out why that woman Margret was attacked, who's behind the Forsworn, and I'll pay you for any information you bring me.
+

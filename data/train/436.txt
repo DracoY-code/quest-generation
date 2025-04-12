@@ -1,15 +1,22 @@
-### Quest Name: Misguided Arrows
-### Objective: collect what a creeper drops upon death after being killed by a skeleton, and report to Oliver
-### First Tasks: make a skeleton kill a creeper
-### First Task Locations: NONE - 
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - blocks of diamond (amount: 5)
-### Characters: NONE
-### Tools: Oliver has heard that the player help people
-### Description: I've been pondering about something. Village legends tell that creepers drop something very peculiar when killed by skeletons. I have heard that you are a helpful person. Could you perhaps collect that item and report back to me? You just have to figure out how to get a skeleton kill a creeper. This might be a difficult task to accomplish. You will be rewarded accordingly: five blocks of diamond. Surely you too are curious about what happens.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: Minecraft
-### Motivation: knowledge
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Misguided Arrows
+Objective: collect what a creeper drops upon death after being killed by a skeleton, and report to Oliver
+First Tasks: make a skeleton kill a creeper
+First Task Locations: NONE - 
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - blocks of diamond (amount: 5)
+Characters: NONE
+Tools: Oliver has heard that the player help people
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: Minecraft
+Motivation: knowledge
+
+### Response:
+I've been pondering about something. Village legends tell that creepers drop something very peculiar when killed by skeletons. I have heard that you are a helpful person. Could you perhaps collect that item and report back to me? You just have to figure out how to get a skeleton kill a creeper. This might be a difficult task to accomplish. You will be rewarded accordingly: five blocks of diamond. Surely you too are curious about what happens.
+

@@ -1,15 +1,22 @@
-### Quest Name: The Scroll of Anom-Irek
-### Objective: retrieve the Scroll of Anom-Irek, and return to Miamin
-### First Tasks: find the Scroll of Anom-Irek in a vault
-### First Task Locations: Corrupted Crypt - a crypt crawling with the Sturmbeorn in the Path of the Honored Dead
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - equipment fit for a hero (amount: 1)
-### Characters: NONE
-### Tools: the player has helped Estherians before
-### Description: You must be the human the other Estherians are speaking of. I am glad to have met you. I have been sent on a quest to recover the Scroll of Anom-Irek, stored in a vault in the Corrupted Crypt, here. The scroll should allow us to heal the Estherians who have been corrupted by evil spirits. Unfortunately, the Sturmbeorn have already entered the crypt, and I have been unable to get past them. Can I ask you to attempt to retrieve the scroll? I will wait here in the Path of the Honored Dead for your return. Should you succeed, I will see what I can do to provide you with some equipment more fitting a hero of your stature.
-### Locations: Path of the Honored Dead - a pass (location: NONE)
-### Items: Scroll of Anom-Irek - a powerful healing scroll (amount: 1)
-### Enemies: NONE
-### Groups: Estherians - magical humanoids, Sturmbeorn - ferocious bandits
-### Title: Torchlight II
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: The Scroll of Anom-Irek
+Objective: retrieve the Scroll of Anom-Irek, and return to Miamin
+First Tasks: find the Scroll of Anom-Irek in a vault
+First Task Locations: Corrupted Crypt - a crypt crawling with the Sturmbeorn in the Path of the Honored Dead
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - equipment fit for a hero (amount: 1)
+Characters: NONE
+Tools: the player has helped Estherians before
+Locations: Path of the Honored Dead - a pass (location: NONE)
+Items: Scroll of Anom-Irek - a powerful healing scroll (amount: 1)
+Enemies: NONE
+Groups: Estherians - magical humanoids, Sturmbeorn - ferocious bandits
+Title: Torchlight II
+Motivation: NONE
+
+### Response:
+
+

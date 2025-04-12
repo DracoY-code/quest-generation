@@ -1,15 +1,22 @@
-### Quest Name: Spiders in the Cloakwood
-### Objective: investigate what happened to Chelak
-### First Tasks: find Chelak
-### First Task Locations:  - spider colony, in Cloakwood
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: Chelak - Tiber's brother (location: Cloakwood)
-### Tools: Chelak found "Spider's Bane", Chelak went to Cloakwood to clear the spider colony with "Spider's Bane"
-### Description: He-hello, travelers. I'm Tiber. Could... could I take up some of your time? I would be very grateful if you would just listen to... if you would just help me! It's my brother, you see. He and I went into the Cloakwood to clear the woods of the spider colony that infests it. I know it sounds foolish... but my brother had found the sword "Spider's Bane"! The sword was created to kill spiders... and we thought we could become famous... the heroes of Cloakwood, and all that. But my brother hasn't returned yet... and it's been more than a week. Please, could you go into the woods and find him for me? His name's Chelak. My mother would be so shattered if Chelak were to be dead.
-### Locations: Cloakwood - a forest (location: NONE)
-### Items: "Spider's Bane" - a sword that was created to kill spiders (amount: 1)
-### Enemies: NONE
-### Groups: NONE
-### Title: Baldur's Gate
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Spiders in the Cloakwood
+Objective: investigate what happened to Chelak
+First Tasks: find Chelak
+First Task Locations:  - spider colony, in Cloakwood
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: Chelak - Tiber's brother (location: Cloakwood)
+Tools: Chelak found "Spider's Bane", Chelak went to Cloakwood to clear the spider colony with "Spider's Bane"
+Locations: Cloakwood - a forest (location: NONE)
+Items: "Spider's Bane" - a sword that was created to kill spiders (amount: 1)
+Enemies: NONE
+Groups: NONE
+Title: Baldur's Gate
+Motivation: NONE
+
+### Response:
+He-hello, travelers. I'm Tiber. Could... could I take up some of your time? I would be very grateful if you would just listen to... if you would just help me! It's my brother, you see. He and I went into the Cloakwood to clear the woods of the spider colony that infests it. I know it sounds foolish... but my brother had found the sword "Spider's Bane"! The sword was created to kill spiders... and we thought we could become famous... the heroes of Cloakwood, and all that. But my brother hasn't returned yet... and it's been more than a week. Please, could you go into the woods and find him for me? His name's Chelak. My mother would be so shattered if Chelak were to be dead.
+

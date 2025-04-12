@@ -1,15 +1,22 @@
-### Quest Name: Lost Lore
-### Objective: collect "Secrets of the Overworld" for Dagon
-### First Tasks: find "Secrets of the Overworld"
-### First Task Locations:  - a jungle temple
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - blocks of emerald (amount: 5)
-### Characters: NONE
-### Tools: the player is an infamous person
-### Description: Arrg! Important books are just rotting away in remote places, and no one is doing a damn thing about recovering them. All that precious knowledge... lost forever. Wait. Aren't you that infamous, misbehaving wreck of a person? I'm sorry, I have more important things to worry about than you. Unless, you want to start cleaning up your act. I know for sure that there's this book, "Secrets of the Overworld", just laying around somewhere withing a jungle temple. Just think what moist jungle air is doing to that precious tome of forgotten knowledge! I need to find it, and collect it for me. I can't leave the village myself; no one else can tend my library! I'm willing to pay a lot for the book: 5 blocks of emerald.
-### Locations: NONE
-### Items: "Secrets of the Overworld" - a book containing forgotten knowledge (amount: 1)
-### Enemies: NONE
-### Groups: NONE
-### Title: Minecraft
-### Motivation: knowledge
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Lost Lore
+Objective: collect "Secrets of the Overworld" for Dagon
+First Tasks: find "Secrets of the Overworld"
+First Task Locations:  - a jungle temple
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - blocks of emerald (amount: 5)
+Characters: NONE
+Tools: the player is an infamous person
+Locations: NONE
+Items: "Secrets of the Overworld" - a book containing forgotten knowledge (amount: 1)
+Enemies: NONE
+Groups: NONE
+Title: Minecraft
+Motivation: knowledge
+
+### Response:
+Arrg! Important books are just rotting away in remote places, and no one is doing a damn thing about recovering them. All that precious knowledge... lost forever. Wait. Aren't you that infamous, misbehaving wreck of a person? I'm sorry, I have more important things to worry about than you. Unless, you want to start cleaning up your act. I know for sure that there's this book, "Secrets of the Overworld", just laying around somewhere withing a jungle temple. Just think what moist jungle air is doing to that precious tome of forgotten knowledge! I need to find it, and collect it for me. I can't leave the village myself; no one else can tend my library! I'm willing to pay a lot for the book: 5 blocks of emerald.
+

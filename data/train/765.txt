@@ -1,15 +1,22 @@
-### Quest Name: Find the Kidnappers Who Buried Tirdir
-### Objective: find the 3 men who buried Tirdir alive
-### First Tasks: talk to the gravekeeper about the man dressed in red
-### First Task Locations: NONE - 
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters:  - man dressed in red, the youngest of the 3 men (location: ),  - the gravekeeper, a man (location: )
-### Tools: the player saved Tirdir from a grave, Tirdir was kidnapped: the 3 men who kidnapped Tirdir buried him alive in the grave, Tirdir tore off something from the shirt of the youngest man dressed in red, the gravekeeper might have spoken to the man dressed in red
-### Description: Thank you for saving me! I'm Tirdir. I was buried by the men who kidnapped me! *cough* They held me for ransom from my family, and after my family had paid, they knocked me out. I remember being carried here and thrown into that grave next to another body! And then they buried me alive! *cough* I don't know their names. There were three of them. The youngest carried me here. He dressed all in red... strange and bright as you please. I woke up with this in my hand. I think I must have torn it off his shirt when he threw me in the grave. Perhaps it will help you find him. You must stop them! I beg of you! There was someone who spoke to this man. Perhaps the gravekeeper. You should talk to him at least... he must have seen something!
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: 3 men - a group of three men who kidnapped Tirdir
-### Title: Baldur's Gate II: Shadows of Amn
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Find the Kidnappers Who Buried Tirdir
+Objective: find the 3 men who buried Tirdir alive
+First Tasks: talk to the gravekeeper about the man dressed in red
+First Task Locations: NONE - 
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters:  - man dressed in red, the youngest of the 3 men (location: ),  - the gravekeeper, a man (location: )
+Tools: the player saved Tirdir from a grave, Tirdir was kidnapped: the 3 men who kidnapped Tirdir buried him alive in the grave, Tirdir tore off something from the shirt of the youngest man dressed in red, the gravekeeper might have spoken to the man dressed in red
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: 3 men - a group of three men who kidnapped Tirdir
+Title: Baldur's Gate II: Shadows of Amn
+Motivation: NONE
+
+### Response:
+Thank you for saving me! I'm Tirdir. I was buried by the men who kidnapped me! *cough* They held me for ransom from my family, and after my family had paid, they knocked me out. I remember being carried here and thrown into that grave next to another body! And then they buried me alive! *cough* I don't know their names. There were three of them. The youngest carried me here. He dressed all in red... strange and bright as you please. I woke up with this in my hand. I think I must have torn it off his shirt when he threw me in the grave. Perhaps it will help you find him. You must stop them! I beg of you! There was someone who spoke to this man. Perhaps the gravekeeper. You should talk to him at least... he must have seen something!
+

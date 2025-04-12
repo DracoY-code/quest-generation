@@ -1,15 +1,22 @@
-### Quest Name: The Sweep Job
-### Objective: clear out valuables from Atheron Residence
-### First Tasks: steal three items of value
-### First Task Locations: Atheron Residence - a wealthy house house in Windhelm
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: NONE
-### Tools: NONE
-### Description: One of the quickest ways to make some coin in Skyrim is to clear out some of the wealthier homes of their valuables. If you're interested, I could point out a good place that could use a little housecleaning by stealing three items of value. The place in question is the Atheron Residence in Windhelm. The people in this home recently got one of your fellow Guild mates sent to jail. How about you make them pay for that? Just remember the order: do job first, get drunk second.
-### Locations: Windhelm - a city in Skyrim (location: NONE), Skyrim - a realm (location: NONE)
-### Items: NONE
-### Enemies: NONE
-### Groups: Thieves Guild - a guild of thieves
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: The Sweep Job
+Objective: clear out valuables from Atheron Residence
+First Tasks: steal three items of value
+First Task Locations: Atheron Residence - a wealthy house house in Windhelm
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: NONE
+Tools: NONE
+Locations: Windhelm - a city in Skyrim (location: NONE), Skyrim - a realm (location: NONE)
+Items: NONE
+Enemies: NONE
+Groups: Thieves Guild - a guild of thieves
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+One of the quickest ways to make some coin in Skyrim is to clear out some of the wealthier homes of their valuables. If you're interested, I could point out a good place that could use a little housecleaning by stealing three items of value. The place in question is the Atheron Residence in Windhelm. The people in this home recently got one of your fellow Guild mates sent to jail. How about you make them pay for that? Just remember the order: do job first, get drunk second.
+

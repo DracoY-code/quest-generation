@@ -1,15 +1,22 @@
-### Quest Name: Paid in Full
-### Objective: recover the bonemold formula for Glover Mallory
-### First Tasks: find the bonemold formula
-### First Task Locations: Castle Karstaag - the home of Rieklings
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - some coin (amount: 1)
-### Characters: Esmond Tyne - a Breton man (location: Castle Karstaag)
-### Tools: Esmond Tyne stole Glover Mallory's bonemold formula, Esmond Tyne talked about trying to fence goods to the Rieklings at Castle Karstaag
-### Description: Eager to make some coin, eh? That's the spirit. I'll tell you what. The Guild's got a problem out here that I've been trying to deal with for years, but haven't been able to handle. A fellow Breton who went by the name Esmond Tyne showed up on my doorstep about a fortnight ago. He stole something from me: my own formula for improved bonemold. Took me years to perfect. Before he ran off, he was talking some nonsense about trying to fence goods to the Rieklings at Castle Karstaag. I told him he was crazy to even think about talking to those vicious little buggers, but he wouldn't listen. I'd bet a fat purse of coin that he's either dead or hiding out up there.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: Thieves Guild - a guild of thieves, Rieklings - vicious little creatures
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Paid in Full
+Objective: recover the bonemold formula for Glover Mallory
+First Tasks: find the bonemold formula
+First Task Locations: Castle Karstaag - the home of Rieklings
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - some coin (amount: 1)
+Characters: Esmond Tyne - a Breton man (location: Castle Karstaag)
+Tools: Esmond Tyne stole Glover Mallory's bonemold formula, Esmond Tyne talked about trying to fence goods to the Rieklings at Castle Karstaag
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: Thieves Guild - a guild of thieves, Rieklings - vicious little creatures
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+Eager to make some coin, eh? That's the spirit. I'll tell you what. The Guild's got a problem out here that I've been trying to deal with for years, but haven't been able to handle. A fellow Breton who went by the name Esmond Tyne showed up on my doorstep about a fortnight ago. He stole something from me: my own formula for improved bonemold. Took me years to perfect. Before he ran off, he was talking some nonsense about trying to fence goods to the Rieklings at Castle Karstaag. I told him he was crazy to even think about talking to those vicious little buggers, but he wouldn't listen. I'd bet a fat purse of coin that he's either dead or hiding out up there.
+

@@ -1,15 +1,22 @@
-### Quest Name: The Burglary Job
-### Objective: commit a burglary
-### First Tasks: break into a house, and steal a specific item
-### First Task Locations: NONE - 
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: NONE
-### Tools: the player can't kill anyone who lives in the house or they forfeit the payment
-### Description: I have a little job for you. Pretty simple. Break into a house, grab a specific item and get out before they realize what's going on. The catch is you can't kill anyone who lives there or you forfeit the payment. You ready for some good old-fashioned burglary?
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: Thieves Guild - a guild of thieves
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: The Burglary Job
+Objective: commit a burglary
+First Tasks: break into a house, and steal a specific item
+First Task Locations: NONE - 
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: NONE
+Tools: the player can't kill anyone who lives in the house or they forfeit the payment
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: Thieves Guild - a guild of thieves
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+I have a little job for you. Pretty simple. Break into a house, grab a specific item and get out before they realize what's going on. The catch is you can't kill anyone who lives there or you forfeit the payment. You ready for some good old-fashioned burglary?
+

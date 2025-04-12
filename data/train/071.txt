@@ -1,15 +1,22 @@
-### Quest Name: Untaxing the Poor
-### Objective: steal back the taxes of the poor Waterfront citizens
-### First Tasks: find out where Hieronymus Lex is keeping the taxes and tax records
-### First Task Locations: NONE - 
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: Gray Fox - a legendary thief (location: ), Hieronymus Lex - male captain of the city watch (location: )
-### Tools: the player is the newest member of the Thieves Guild, Hieronymus Lex collected taxes from the Waterfront: the city usually doesn't bother collecting taxes from the Waterfront District, because it costs more money than its worth, the Gray Fox has always protected the poor of the Waterfront
-### Description: Ah! Our newest member. I'm glad you stopped by. I have a... situation that you might be able to help with. The Gray Fox has asked me to take care of a problem, and I'm putting you on it. Hieronymus Lex actually collected taxes from everyone living here on the Waterfront! Your job is to recover those taxes. The people of the waterfront are very poor. Traditionally the city has not collected taxes from them, even though by law they could. The money the city would collect would barely cover the cost of collecting. The Gray Fox has always guaranteed protection to the poor of the waterfront. He doesn't want to let this injustice stand. It's a matter of principle. Find out where Hieronymus Lex is keeping the taxes and bring them to me. I'll also need the tax records of what each citizen paid so we can return it.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: Thieves Guild - a guild of thieves lead by the Gray Fox
-### Title: The Elder Scrolls IV: Oblivion
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Untaxing the Poor
+Objective: steal back the taxes of the poor Waterfront citizens
+First Tasks: find out where Hieronymus Lex is keeping the taxes and tax records
+First Task Locations: NONE - 
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: Gray Fox - a legendary thief (location: ), Hieronymus Lex - male captain of the city watch (location: )
+Tools: the player is the newest member of the Thieves Guild, Hieronymus Lex collected taxes from the Waterfront: the city usually doesn't bother collecting taxes from the Waterfront District, because it costs more money than its worth, the Gray Fox has always protected the poor of the Waterfront
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: Thieves Guild - a guild of thieves lead by the Gray Fox
+Title: The Elder Scrolls IV: Oblivion
+Motivation: NONE
+
+### Response:
+Ah! Our newest member. I'm glad you stopped by. I have a... situation that you might be able to help with. The Gray Fox has asked me to take care of a problem, and I'm putting you on it. Hieronymus Lex actually collected taxes from everyone living here on the Waterfront! Your job is to recover those taxes. The people of the waterfront are very poor. Traditionally the city has not collected taxes from them, even though by law they could. The money the city would collect would barely cover the cost of collecting. The Gray Fox has always guaranteed protection to the poor of the waterfront. He doesn't want to let this injustice stand. It's a matter of principle. Find out where Hieronymus Lex is keeping the taxes and bring them to me. I'll also need the tax records of what each citizen paid so we can return it.
+

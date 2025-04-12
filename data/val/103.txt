@@ -1,15 +1,22 @@
-### Quest Name: The Golden Claw
-### Objective: retrieve a golden dragon claw for Lucan Valerius
-### First Tasks: find the golden dragon claw
-### First Task Locations: Bleak Falls Barrow - a tomb northeast of town
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - some coin (amount: 1)
-### Characters: NONE
-### Tools: the golden dragon claw was stolen from Lucan Valerius' shop
-### Description: We did have a bit of a... break-in. But we still have plenty to sell. Robbers were only after one thing. An ornament, solid gold. In the shape of a dragon's claw. I've got some coin coming in from my last shipment. It's yours if you bring my claw back. If you're going after those thieves, you should head to Bleak Falls Barrow, northeast of town.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: The Golden Claw
+Objective: retrieve a golden dragon claw for Lucan Valerius
+First Tasks: find the golden dragon claw
+First Task Locations: Bleak Falls Barrow - a tomb northeast of town
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - some coin (amount: 1)
+Characters: NONE
+Tools: the golden dragon claw was stolen from Lucan Valerius' shop
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+We did have a bit of a... break-in. But we still have plenty to sell. Robbers were only after one thing. An ornament, solid gold. In the shape of a dragon's claw. I've got some coin coming in from my last shipment. It's yours if you bring my claw back. If you're going after those thieves, you should head to Bleak Falls Barrow, northeast of town.
+

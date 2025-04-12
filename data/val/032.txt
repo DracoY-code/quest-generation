@@ -1,15 +1,22 @@
-### Quest Name: Calm Rebel Faction
-### Objective: Convince the rebel faction in Vault 13 to remain within the vault.
-### First Tasks: Speak to upset Vault 13 citizens to learn about the rebel meetings.
-### First Task Locations: Vault 13 Living Quarters - Residential area where Vault 13 inhabitants reside.
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: Experience Points - Awarded for successfully convincing the rebels to stay. (amount: 750)
-### Characters: NONE
-### Tools: None
-### Description: Upon returning to Vault 13 during the search for the water chip, the Vault Dweller discovers unrest among the citizens. Some residents, led by Theresa, are contemplating leaving the safety of the vault to face the unknowns of the wasteland. By engaging with the upset dwellers and attending their meeting at 17:00 in Theresa's quarters, the Vault Dweller has an opportunity to persuade them to remain, ensuring the stability and unity of the vault community.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: Fallout
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Calm Rebel Faction
+Objective: Convince the rebel faction in Vault 13 to remain within the vault.
+First Tasks: Speak to upset Vault 13 citizens to learn about the rebel meetings.
+First Task Locations: Vault 13 Living Quarters - Residential area where Vault 13 inhabitants reside.
+Quest Giver: NONE - NONE (location: NONE)
+Reward: Experience Points - Awarded for successfully convincing the rebels to stay. (amount: 750)
+Characters: NONE
+Tools: None
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: Fallout
+Motivation: NONE
+
+### Response:
+Upon returning to Vault 13 during the search for the water chip, the Vault Dweller discovers unrest among the citizens. Some residents, led by Theresa, are contemplating leaving the safety of the vault to face the unknowns of the wasteland. By engaging with the upset dwellers and attending their meeting at 17:00 in Theresa's quarters, the Vault Dweller has an opportunity to persuade them to remain, ensuring the stability and unity of the vault community.
+

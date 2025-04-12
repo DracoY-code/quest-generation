@@ -1,15 +1,22 @@
-### Quest Name: Rescue Smiley the Trapper
-### Objective: Find and rescue Smiley, the missing trapper.
-### First Tasks: Investigate Smiley's last known location., Defeat any threats preventing his return., Escort Smiley back to safety.
-### First Task Locations: Toxic Caves - A dangerous cave filled with geckos where Smiley was last seen.
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: Caps - A monetary reward for rescuing Smiley. (amount: 300), Survival Training - Smiley will teach you how to skin geckos, allowing you to collect pelts. (amount: NONE)
-### Characters: NONE
-### Tools: Weapons to fend off geckos in the Toxic Caves., Rad-X or RadAway to counter radiation if necessary.
-### Description: Smiley the Trapper went missing while hunting geckos in the Toxic Caves. Ardin Buckner asks you to track him down and ensure his safe return.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: Fallout 2
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Rescue Smiley the Trapper
+Objective: Find and rescue Smiley, the missing trapper.
+First Tasks: Investigate Smiley's last known location., Defeat any threats preventing his return., Escort Smiley back to safety.
+First Task Locations: Toxic Caves - A dangerous cave filled with geckos where Smiley was last seen.
+Quest Giver: NONE - NONE (location: NONE)
+Reward: Caps - A monetary reward for rescuing Smiley. (amount: 300), Survival Training - Smiley will teach you how to skin geckos, allowing you to collect pelts. (amount: NONE)
+Characters: NONE
+Tools: Weapons to fend off geckos in the Toxic Caves., Rad-X or RadAway to counter radiation if necessary.
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: Fallout 2
+Motivation: NONE
+
+### Response:
+Smiley the Trapper went missing while hunting geckos in the Toxic Caves. Ardin Buckner asks you to track him down and ensure his safe return.
+

@@ -1,15 +1,22 @@
-### Quest Name: An Enchanter in Chains
-### Objective: get your reward from Malo
-### First Tasks: go see Malo
-### First Task Locations: Estherian Enclave - a settlement
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - a reward (amount: 1)
-### Characters: NONE
-### Tools: the player freed Malo from bandits
-### Description: Oh, thank you so much!  Here I was, afraid I'd never enchant anything ever again! I'm was on my way to the Estherian Enclave when these brigands ambushed me. Once I gather my wits, I'll head over there. Come by and see me, if you get a chance! I'll have a reward for you.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: Torchlight II
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: An Enchanter in Chains
+Objective: get your reward from Malo
+First Tasks: go see Malo
+First Task Locations: Estherian Enclave - a settlement
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - a reward (amount: 1)
+Characters: NONE
+Tools: the player freed Malo from bandits
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: Torchlight II
+Motivation: NONE
+
+### Response:
+Oh, thank you so much!  Here I was, afraid I'd never enchant anything ever again! I'm was on my way to the Estherian Enclave when these brigands ambushed me. Once I gather my wits, I'll head over there. Come by and see me, if you get a chance! I'll have a reward for you.
+

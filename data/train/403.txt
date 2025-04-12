@@ -1,15 +1,22 @@
-### Quest Name: Zombie Infestation
-### Objective: return to Wenric after killing all zombies
-### First Tasks: kill 20 zombies
-### First Task Locations:  - around the farms here
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - gold pieces (amount: 150)
-### Characters: NONE
-### Tools: people around here have not been able to sleep for a week
-### Description: I be Wenric, a farmer by profession. There's been something killing peoples in and 'round the farms here. Zombies or something. I can understands if you can't stomach the task but, just between you an' me real personal-likes, I don't know who else is gonna do it... All of us haves been goin' for a week now without sleep. We've counted twenty zombies or so, so keep track as you kill 'em, if that's what you plans on doing. Once you got 'em all, come back here and I'll gives you the 150 gold pieces that some of us have pooled together.
-### Locations: NONE
-### Items: NONE
-### Enemies:  - zombies (amount: 20)
-### Groups: NONE
-### Title: Baldur's Gate
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Zombie Infestation
+Objective: return to Wenric after killing all zombies
+First Tasks: kill 20 zombies
+First Task Locations:  - around the farms here
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - gold pieces (amount: 150)
+Characters: NONE
+Tools: people around here have not been able to sleep for a week
+Locations: NONE
+Items: NONE
+Enemies:  - zombies (amount: 20)
+Groups: NONE
+Title: Baldur's Gate
+Motivation: NONE
+
+### Response:
+I be Wenric, a farmer by profession. There's been something killing peoples in and 'round the farms here. Zombies or something. I can understands if you can't stomach the task but, just between you an' me real personal-likes, I don't know who else is gonna do it... All of us haves been goin' for a week now without sleep. We've counted twenty zombies or so, so keep track as you kill 'em, if that's what you plans on doing. Once you got 'em all, come back here and I'll gives you the 150 gold pieces that some of us have pooled together.
+

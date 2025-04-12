@@ -1,15 +1,22 @@
-### Quest Name: Find Vic the Trader
-### Objective: Locate the missing trader, Vic, and determine his whereabouts.
-### First Tasks: Ask around Klamath for information about Vic., Search Vic’s home for clues., Travel to The Den and investigate his last known location., Find out where Vic is being held.
-### First Task Locations: Klamath - A small settlement where Vic was last seen before his disappearance.
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: Experience Points - Earned for successfully locating Vic. (amount: 500)
-### Characters: NONE
-### Tools: N, O, N, E
-### Description: Vic, a trader who might have valuable information about a Vault water flask, has gone missing. You need to track him down, starting with clues from Klamath and leading to The Den.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: Fallout 2
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Find Vic the Trader
+Objective: Locate the missing trader, Vic, and determine his whereabouts.
+First Tasks: Ask around Klamath for information about Vic., Search Vic’s home for clues., Travel to The Den and investigate his last known location., Find out where Vic is being held.
+First Task Locations: Klamath - A small settlement where Vic was last seen before his disappearance.
+Quest Giver: NONE - NONE (location: NONE)
+Reward: Experience Points - Earned for successfully locating Vic. (amount: 500)
+Characters: NONE
+Tools: N, O, N, E
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: Fallout 2
+Motivation: NONE
+
+### Response:
+Vic, a trader who might have valuable information about a Vault water flask, has gone missing. You need to track him down, starting with clues from Klamath and leading to The Den.
+

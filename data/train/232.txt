@@ -1,15 +1,22 @@
-### Quest Name: The Brave Ones
-### Objective: destroy the Ezrohir machines that pump "Manatoxin" in Zeryphesh's water supply
-### First Tasks: enter the Undercurrents
-### First Task Locations: Undercurrents - a sewer in Zeryphesh, inhabited by poisonous creatures
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - Dilawar will reward the player (amount: 1)
-### Characters: NONE
-### Tools: NONE
-### Description: My friend, I need your help! My squad and I had observed a group of Ezrohir moving in and out of the Undercurrents. They have installed machines to pump a virulent poison into the city's water supply. Their "Manatoxin" is specifically designed to disrupt Zeraphi physiology. Unfortunately, the noxious atmosphere seems to have attracted a horde of poisonous beasts, and I only just escaped with my life. If you can enter the Undercurrents and destroy those machines for me, I will reward you. What do you say? I won't lie to you: Destroying those machines won't be simple... but it's vital, and you're the only one who can do it.
-### Locations: Zeryphesh - a city inhabited by Zeraphi (location: NONE)
-### Items: "Manatoxin" - a poison designed to disrupt Zeraphi physiology, created by Ezrohir (amount: 1)
-### Enemies: NONE
-### Groups: Zeraphi - a race of people, Ezrohir - a race of people hostile to the Zeraphi
-### Title: Torchlight II
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: The Brave Ones
+Objective: destroy the Ezrohir machines that pump "Manatoxin" in Zeryphesh's water supply
+First Tasks: enter the Undercurrents
+First Task Locations: Undercurrents - a sewer in Zeryphesh, inhabited by poisonous creatures
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - Dilawar will reward the player (amount: 1)
+Characters: NONE
+Tools: NONE
+Locations: Zeryphesh - a city inhabited by Zeraphi (location: NONE)
+Items: "Manatoxin" - a poison designed to disrupt Zeraphi physiology, created by Ezrohir (amount: 1)
+Enemies: NONE
+Groups: Zeraphi - a race of people, Ezrohir - a race of people hostile to the Zeraphi
+Title: Torchlight II
+Motivation: NONE
+
+### Response:
+My friend, I need your help! My squad and I had observed a group of Ezrohir moving in and out of the Undercurrents. They have installed machines to pump a virulent poison into the city's water supply. Their "Manatoxin" is specifically designed to disrupt Zeraphi physiology. Unfortunately, the noxious atmosphere seems to have attracted a horde of poisonous beasts, and I only just escaped with my life. If you can enter the Undercurrents and destroy those machines for me, I will reward you. What do you say? I won't lie to you: Destroying those machines won't be simple... but it's vital, and you're the only one who can do it.
+

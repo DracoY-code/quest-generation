@@ -1,15 +1,22 @@
-### Quest Name: Sanctity
-### Objective: cure Farkas' lycanthropy
-### First Tasks: get a special Hagraven's head with Farkas
-### First Task Locations:  - the place that is already known to the player
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: Kodlak - the dead male leader of the Companions, who was cured of lycanthropy (location: ), Aela - a female member of the Companions (location: )
-### Tools: Kodlak said that werewolves can't be good Nords, Aela said a Hagraven's head is needed to cure lycanthropy
-### Description: There is always work. My mind is someplace else, though. I think that maybe Kodlak was right. As a werewolf, I can't be a good Nord. I want to be clean, like he was, and go to Sovngarde when I finally die. Aela said we would need a Hagraven's head. I already have one of them, but she said it was a special kind. And that you knew where to get more. Let's go find one!
-### Locations: Sovngarde - the storied underworld of the Nords (location: NONE)
-### Items: NONE
-### Enemies: NONE
-### Groups: Companions - a band of honorable warriors, Nords - a race of people
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Sanctity
+Objective: cure Farkas' lycanthropy
+First Tasks: get a special Hagraven's head with Farkas
+First Task Locations:  - the place that is already known to the player
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: Kodlak - the dead male leader of the Companions, who was cured of lycanthropy (location: ), Aela - a female member of the Companions (location: )
+Tools: Kodlak said that werewolves can't be good Nords, Aela said a Hagraven's head is needed to cure lycanthropy
+Locations: Sovngarde - the storied underworld of the Nords (location: NONE)
+Items: NONE
+Enemies: NONE
+Groups: Companions - a band of honorable warriors, Nords - a race of people
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+There is always work. My mind is someplace else, though. I think that maybe Kodlak was right. As a werewolf, I can't be a good Nord. I want to be clean, like he was, and go to Sovngarde when I finally die. Aela said we would need a Hagraven's head. I already have one of them, but she said it was a special kind. And that you knew where to get more. Let's go find one!
+

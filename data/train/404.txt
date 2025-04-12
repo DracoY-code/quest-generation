@@ -1,15 +1,22 @@
-### Quest Name: Jo is suspicious of the Slags. Find out about the dead bodies at the Ghost Farm and find out what happened to Karl
-### Objective: Investigate the Ghost Farm to uncover the truth about the dead bodies and the disappearance of Karl.
-### First Tasks: Travel to the Ghost Farm., Examine the area for clues about the dead bodies., Find information about Karl's whereabouts., Report your findings back to Jo in Modoc.
-### First Task Locations: Ghost Farm - A desolate farm near Modoc where strange events have been reported, including dead bodies and disappearances.
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: Caps - A monetary reward for uncovering the truth about the Ghost Farm. (amount: 750), Improved Standing in Modoc - Earn the trust of Jo and the townspeople of Modoc. (amount: NONE)
-### Characters: NONE
-### Tools: Perception to notice hidden details., Speech to persuade or question people about Karl., Combat skills in case of a confrontation.
-### Description: Jo is uneasy about the Ghost Farm and the mysterious Slags. He wants answers regarding the dead bodies found there and the fate of Karl, a former resident of Modoc who disappeared.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: Fallout 2
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Jo is suspicious of the Slags. Find out about the dead bodies at the Ghost Farm and find out what happened to Karl
+Objective: Investigate the Ghost Farm to uncover the truth about the dead bodies and the disappearance of Karl.
+First Tasks: Travel to the Ghost Farm., Examine the area for clues about the dead bodies., Find information about Karl's whereabouts., Report your findings back to Jo in Modoc.
+First Task Locations: Ghost Farm - A desolate farm near Modoc where strange events have been reported, including dead bodies and disappearances.
+Quest Giver: NONE - NONE (location: NONE)
+Reward: Caps - A monetary reward for uncovering the truth about the Ghost Farm. (amount: 750), Improved Standing in Modoc - Earn the trust of Jo and the townspeople of Modoc. (amount: NONE)
+Characters: NONE
+Tools: Perception to notice hidden details., Speech to persuade or question people about Karl., Combat skills in case of a confrontation.
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: Fallout 2
+Motivation: NONE
+
+### Response:
+Jo is uneasy about the Ghost Farm and the mysterious Slags. He wants answers regarding the dead bodies found there and the fate of Karl, a former resident of Modoc who disappeared.
+

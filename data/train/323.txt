@@ -1,15 +1,22 @@
-### Quest Name: Magreb and Rilsa
-### Objective: avenge Rilsa and give her a proper burial
-### First Tasks: find goblins that killed Rilsa
-### First Task Locations:  - a set of caves to the northeast
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: Rilsa - Magreb's dead female friend (location: ),  - old mage (location: a set of caves to the northeast)
-### Tools: goblins first appeared around the house of an old mage, the old mage was captured by goblins
-### Description: Goblins! All I know is they killed Rilsa when she tried to talk to them, and I can't face them by myself. At first they appeared around the house of an old mage, but soon they moved into a set of caves to the northeast, taking him with them. Forgive me. My name is Magreb. Rilsa and I have watched over this area for years, and we never had any trouble with goblins before. Since they killed her, I've been half out of my mind with grief. Please avenge my Rilsa and give her a proper burial!
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: Baldur's Gate
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Magreb and Rilsa
+Objective: avenge Rilsa and give her a proper burial
+First Tasks: find goblins that killed Rilsa
+First Task Locations:  - a set of caves to the northeast
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: Rilsa - Magreb's dead female friend (location: ),  - old mage (location: a set of caves to the northeast)
+Tools: goblins first appeared around the house of an old mage, the old mage was captured by goblins
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: Baldur's Gate
+Motivation: NONE
+
+### Response:
+Goblins! All I know is they killed Rilsa when she tried to talk to them, and I can't face them by myself. At first they appeared around the house of an old mage, but soon they moved into a set of caves to the northeast, taking him with them. Forgive me. My name is Magreb. Rilsa and I have watched over this area for years, and we never had any trouble with goblins before. Since they killed her, I've been half out of my mind with grief. Please avenge my Rilsa and give her a proper burial!
+

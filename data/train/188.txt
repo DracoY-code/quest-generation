@@ -1,15 +1,22 @@
-### Quest Name: Save Killian's Life
-### Objective: Prevent the assassination of Killian Darkwater, the mayor and shopkeeper of Junktown.
-### First Tasks: Speak with Killian in his store., Witness the assassination attempt by a hired gun., Stop the assassin before he kills Killian.
-### First Task Locations: Darkwater General Store - Killian's shop in Junktown, where the assassination attempt occurs.
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: Caps - A monetary reward for stopping the assassin. (amount: 400), Discount at Darkwater General Store - Killian offers better prices on his wares after being saved. (amount: 1)
-### Characters: NONE
-### Tools: Weapons, Combat Skills, Perception
-### Description: An assassin, hired by Gizmo, attempts to kill Killian in his store. The player must intervene and stop the attack. Successfully saving Killian allows the player to gain his trust and potentially work with him against Gizmo.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: Fallout
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Save Killian's Life
+Objective: Prevent the assassination of Killian Darkwater, the mayor and shopkeeper of Junktown.
+First Tasks: Speak with Killian in his store., Witness the assassination attempt by a hired gun., Stop the assassin before he kills Killian.
+First Task Locations: Darkwater General Store - Killian's shop in Junktown, where the assassination attempt occurs.
+Quest Giver: NONE - NONE (location: NONE)
+Reward: Caps - A monetary reward for stopping the assassin. (amount: 400), Discount at Darkwater General Store - Killian offers better prices on his wares after being saved. (amount: 1)
+Characters: NONE
+Tools: Weapons, Combat Skills, Perception
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: Fallout
+Motivation: NONE
+
+### Response:
+An assassin, hired by Gizmo, attempts to kill Killian in his store. The player must intervene and stop the attack. Successfully saving Killian allows the player to gain his trust and potentially work with him against Gizmo.
+

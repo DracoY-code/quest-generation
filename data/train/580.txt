@@ -1,15 +1,22 @@
-### Quest Name: The Wraithring
-### Objective: discover Jessa's father's fate
-### First Tasks: find Jessa's father
-### First Task Locations:  - the catacombs, where dark things live
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: NONE
-### Tools: Jessa and her father came here to recover the Wraithring: they wanted to bring it to the Temple for study, Jessa's father wears a locket around his neck
-### Description: Please, traveler! Wait a moment! I am Jessa - a traveler from Estheria. My father and I came to this place to recover an ancient artifact - the Wraithring - which is said to have power over death itself. We sought to bring it to the Temple for study. My father entered the catacombs while I tended our camp - but he has not returned, and there are dark things stirring below. Please - I only ask that you discover his fate - perhaps he is wounded and only needs aid to escape! If the worst comes to pass... he wears a locket around his neck, and you will know him by it.
-### Locations: Estheria - a country (location: NONE), Temple - a temple in Estheria (location: NONE)
-### Items: Wraithring - an ancient artifact which is said to have power over death (amount: 1)
-### Enemies: NONE
-### Groups: NONE
-### Title: Torchlight II
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: The Wraithring
+Objective: discover Jessa's father's fate
+First Tasks: find Jessa's father
+First Task Locations:  - the catacombs, where dark things live
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: NONE
+Tools: Jessa and her father came here to recover the Wraithring: they wanted to bring it to the Temple for study, Jessa's father wears a locket around his neck
+Locations: Estheria - a country (location: NONE), Temple - a temple in Estheria (location: NONE)
+Items: Wraithring - an ancient artifact which is said to have power over death (amount: 1)
+Enemies: NONE
+Groups: NONE
+Title: Torchlight II
+Motivation: NONE
+
+### Response:
+Please, traveler! Wait a moment! I am Jessa - a traveler from Estheria. My father and I came to this place to recover an ancient artifact - the Wraithring - which is said to have power over death itself. We sought to bring it to the Temple for study. My father entered the catacombs while I tended our camp - but he has not returned, and there are dark things stirring below. Please - I only ask that you discover his fate - perhaps he is wounded and only needs aid to escape! If the worst comes to pass... he wears a locket around his neck, and you will know him by it.
+

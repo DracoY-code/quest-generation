@@ -1,15 +1,22 @@
-### Quest Name: Mastering Destruction
-### Objective: learn powerful Destruction magics lost to the ages
-### First Tasks: read the "Power of the Elements" that Faralda gives you
-### First Task Locations: NONE - 
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - powerful Destruction magics (amount: 1)
-### Characters: NONE
-### Tools: Faralda has taught the player everything she can about Destruction magic
-### Description: I daresay you've learned all I can teach you about Destruction magic. But... That doesn't mean there isn't more out there. Over the years I've heard things. Powerful magics lost to the ages, incredible spells that only the most skilled mages can master. This book, "Power of the Elements", is the only thing I've ever found. I think it's better off in your hands.
-### Locations: NONE
-### Items: "Power of the Elements" - a book that contains clues about powerful Destruction magics (amount: 1)
-### Enemies: NONE
-### Groups: NONE
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Mastering Destruction
+Objective: learn powerful Destruction magics lost to the ages
+First Tasks: read the "Power of the Elements" that Faralda gives you
+First Task Locations: NONE - 
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - powerful Destruction magics (amount: 1)
+Characters: NONE
+Tools: Faralda has taught the player everything she can about Destruction magic
+Locations: NONE
+Items: "Power of the Elements" - a book that contains clues about powerful Destruction magics (amount: 1)
+Enemies: NONE
+Groups: NONE
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+I daresay you've learned all I can teach you about Destruction magic. But... That doesn't mean there isn't more out there. Over the years I've heard things. Powerful magics lost to the ages, incredible spells that only the most skilled mages can master. This book, "Power of the Elements", is the only thing I've ever found. I think it's better off in your hands.
+

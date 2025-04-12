@@ -1,15 +1,22 @@
-### Quest Name: Canceled Wedding
-### Objective: find the hidden dowry for yourself
-### First Tasks: get your prisoner's dowry from a hollowed-out tree stump
-### First Task Locations:  - just outside Riften
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - the player's prisoner's dowry (amount: 1)
-### Characters: NONE
-### Tools: the player is torturing their prisoner: the prisoner's father hid her dowry
-### Description: You... you can't do this to me. Do you have any idea who I am? When my father hears about this, he will gut you. Ah, now I understand. This is about my father's hidden cache, isn't it? The dowry for my wedding? Ha! Well it's safely hidden away, in a hollowed-out tree stump. Just outside Riften, tucked away nice and secure. You'll never find it. Damn it. I gave it away, didn't I?
-### Locations: Riften - a city (location: NONE)
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Canceled Wedding
+Objective: find the hidden dowry for yourself
+First Tasks: get your prisoner's dowry from a hollowed-out tree stump
+First Task Locations:  - just outside Riften
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - the player's prisoner's dowry (amount: 1)
+Characters: NONE
+Tools: the player is torturing their prisoner: the prisoner's father hid her dowry
+Locations: Riften - a city (location: NONE)
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+You... you can't do this to me. Do you have any idea who I am? When my father hears about this, he will gut you. Ah, now I understand. This is about my father's hidden cache, isn't it? The dowry for my wedding? Ha! Well it's safely hidden away, in a hollowed-out tree stump. Just outside Riften, tucked away nice and secure. You'll never find it. Damn it. I gave it away, didn't I?
+

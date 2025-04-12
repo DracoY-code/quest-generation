@@ -1,15 +1,22 @@
-### Quest Name: Investigating the Merchants' League Estate
-### Objective: investigate Irlentree and Zorl Miyar, and report back to Aldeth Sashenstar
-### First Tasks: go with Aldeth Sashenstar, let him introduce you as his old friend and quarter you in the guest chambers
-### First Task Locations:  - Merchants' League Estate, the headquarters of the Merchants' League
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: Irlentree, Zorl Miyar - Aldeth Sashenstar's business partners (location: the Merchants' League Estate)
-### Tools: the player saved Aldeth Sashenstar on his hunting trip, Aldeth Sashenstar thinks that Irlentree and Zorl Miyar have become different people when he was gone: they spend their and Aldeth Sashenstar's company's resources on frivolous and stupid ideas
-### Description: It is so pleasant to see your face once again. Don't you recognize me? It is I, Aldeth Sashenstar. I am so glad to have met you, especially at a time like this. I need to speak with you privately. I'm sorry for all of this hiding and skulking, but there are dire events afoot. You know that I am one of the principal shareholders of the Merchants' League. Well, I share ownership of the company with two others: Irlentree and Zorl Miyar, two very distinguished gentlemen. When I returned from my hunting trip — thanks to you, I might add — I found that my two partners had undergone some profound changes, nothing physical or overt, but something far more sinister. It's as if my partners had become wholly different people while I was gone. They almost take an active interest in squandering our company's resources on frivolous and stupid ideas. If they continue on this course, the company will be in shambles in but a few weeks. I know you have already helped me once, but I ask for your assistance again. I have no other recourse. Come into the Merchants' League Estate with me. I will explain that you are an old friend of mine and will quarter you in the guest chambers. From there, please investigate my partners, perhaps using magic or any of the other skills you possess. Learn as much as you can during your visit and then report back to me after you're done. It should only take a couple of days.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: Merchants' League - a business company
-### Title: Baldur's Gate
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Investigating the Merchants' League Estate
+Objective: investigate Irlentree and Zorl Miyar, and report back to Aldeth Sashenstar
+First Tasks: go with Aldeth Sashenstar, let him introduce you as his old friend and quarter you in the guest chambers
+First Task Locations:  - Merchants' League Estate, the headquarters of the Merchants' League
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: Irlentree, Zorl Miyar - Aldeth Sashenstar's business partners (location: the Merchants' League Estate)
+Tools: the player saved Aldeth Sashenstar on his hunting trip, Aldeth Sashenstar thinks that Irlentree and Zorl Miyar have become different people when he was gone: they spend their and Aldeth Sashenstar's company's resources on frivolous and stupid ideas
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: Merchants' League - a business company
+Title: Baldur's Gate
+Motivation: NONE
+
+### Response:
+It is so pleasant to see your face once again. Don't you recognize me? It is I, Aldeth Sashenstar. I am so glad to have met you, especially at a time like this. I need to speak with you privately. I'm sorry for all of this hiding and skulking, but there are dire events afoot. You know that I am one of the principal shareholders of the Merchants' League. Well, I share ownership of the company with two others: Irlentree and Zorl Miyar, two very distinguished gentlemen. When I returned from my hunting trip — thanks to you, I might add — I found that my two partners had undergone some profound changes, nothing physical or overt, but something far more sinister. It's as if my partners had become wholly different people while I was gone. They almost take an active interest in squandering our company's resources on frivolous and stupid ideas. If they continue on this course, the company will be in shambles in but a few weeks. I know you have already helped me once, but I ask for your assistance again. I have no other recourse. Come into the Merchants' League Estate with me. I will explain that you are an old friend of mine and will quarter you in the guest chambers. From there, please investigate my partners, perhaps using magic or any of the other skills you possess. Learn as much as you can during your visit and then report back to me after you're done. It should only take a couple of days.
+

@@ -1,15 +1,22 @@
-### Quest Name: The Purification
-### Objective: perform the ancient rite known as Purification by killing everyone at the Cheydinhal Sanctuary, and return to Lucien Lachance
-### First Tasks: assassinate Ocheeva, Vicente Valtieri, Antoinetta Marie, Gogron gro-Bolmog, Telaendril, M'raaj-Dar and Teinaava
-### First Task Locations: Cheydinhal Sanctuary - a hideout belonging to the Dark Brotherhood
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: Ocheeva, Vicente Valtieri, Antoinetta Marie, Gogron gro-Bolmog, Telaendril, M'raaj-Dar, Teinaava - fellow members of the Dark Brotherhood (location: Cheydinhal Sanctuary), Sithis - the dark god of the Dark Brotherhood (location: )
-### Tools: the player is an assassin of the Dark Brotherhood: Lucien Lachance has not spoken to the player in a while, the Black Hand has learned that the Dark Brotherhood has been infiltrated: the player is not suspected, because they joined the Dark Brotherhood after the traitor became active, from this point forward, the player is no longer bound by the Five Tenets: Sithis will forgive any murder, any theft, so long as the player serves the Black Hand, Lucien Lachance gives the player a poisoned apple and a unique scroll of summoning
-### Description: I have been waiting for you, assassin. We have not spoken in some time, but I am well aware of your accomplishments within the Dark Brotherhood. That is why I have sent for you. I'm afraid there is a... situation. The time has come to test both your skill and your loyalty to Sithis. The Black Hand has learned that the Dark Brotherhood has been infiltrated. By whom, and for what purpose, we do not yet know. What we do know is that there is some link between the traitor and the Cheydinhal Sanctuary. The traitor has tainted that place beyond repair. It was learned that the traitor has been active for quite some time, since before you joined the Brotherhood. That absolves you of any suspicion. The Black Hand has chosen you to perform the ancient rite known as Purification. Everyone inside the Sanctuary must die! You must break one of the Tenets you have sworn to uphold. I know this is an unexpected turn of events, but drastic measures must be taken. Ocheeva, Vicente Valtieri, Antoinetta Marie, Gogron gro-Bolmog, Telaendril, M'raaj-Dar and Teinaava. All of these family members must die! From this point forward, you are no longer bound by the Five Tenets! Sithis will forgive any murder, any theft, so long as you serve the Black Hand! When the rite of Purification has been completed, return to me here at Fort Farragut, and we will discuss your future. Now, take these special gifts. They will help you greatly. One is a poisoned apple. The other, a unique scroll of summoning. Good luck... assassin.
-### Locations: Fort Farragut - a ruined fort (location: NONE)
-### Items: NONE
-### Enemies: NONE
-### Groups: Dark Brotherhood - a guild of assassins, Black Hand - the governing body of the Dark Brotherhood
-### Title: The Elder Scrolls IV: Oblivion
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: The Purification
+Objective: perform the ancient rite known as Purification by killing everyone at the Cheydinhal Sanctuary, and return to Lucien Lachance
+First Tasks: assassinate Ocheeva, Vicente Valtieri, Antoinetta Marie, Gogron gro-Bolmog, Telaendril, M'raaj-Dar and Teinaava
+First Task Locations: Cheydinhal Sanctuary - a hideout belonging to the Dark Brotherhood
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: Ocheeva, Vicente Valtieri, Antoinetta Marie, Gogron gro-Bolmog, Telaendril, M'raaj-Dar, Teinaava - fellow members of the Dark Brotherhood (location: Cheydinhal Sanctuary), Sithis - the dark god of the Dark Brotherhood (location: )
+Tools: the player is an assassin of the Dark Brotherhood: Lucien Lachance has not spoken to the player in a while, the Black Hand has learned that the Dark Brotherhood has been infiltrated: the player is not suspected, because they joined the Dark Brotherhood after the traitor became active, from this point forward, the player is no longer bound by the Five Tenets: Sithis will forgive any murder, any theft, so long as the player serves the Black Hand, Lucien Lachance gives the player a poisoned apple and a unique scroll of summoning
+Locations: Fort Farragut - a ruined fort (location: NONE)
+Items: NONE
+Enemies: NONE
+Groups: Dark Brotherhood - a guild of assassins, Black Hand - the governing body of the Dark Brotherhood
+Title: The Elder Scrolls IV: Oblivion
+Motivation: NONE
+
+### Response:
+I have been waiting for you, assassin. We have not spoken in some time, but I am well aware of your accomplishments within the Dark Brotherhood. That is why I have sent for you. I'm afraid there is a... situation. The time has come to test both your skill and your loyalty to Sithis. The Black Hand has learned that the Dark Brotherhood has been infiltrated. By whom, and for what purpose, we do not yet know. What we do know is that there is some link between the traitor and the Cheydinhal Sanctuary. The traitor has tainted that place beyond repair. It was learned that the traitor has been active for quite some time, since before you joined the Brotherhood. That absolves you of any suspicion. The Black Hand has chosen you to perform the ancient rite known as Purification. Everyone inside the Sanctuary must die! You must break one of the Tenets you have sworn to uphold. I know this is an unexpected turn of events, but drastic measures must be taken. Ocheeva, Vicente Valtieri, Antoinetta Marie, Gogron gro-Bolmog, Telaendril, M'raaj-Dar and Teinaava. All of these family members must die! From this point forward, you are no longer bound by the Five Tenets! Sithis will forgive any murder, any theft, so long as you serve the Black Hand! When the rite of Purification has been completed, return to me here at Fort Farragut, and we will discuss your future. Now, take these special gifts. They will help you greatly. One is a poisoned apple. The other, a unique scroll of summoning. Good luck... assassin.
+

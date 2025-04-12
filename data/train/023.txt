@@ -1,15 +1,22 @@
-### Quest Name: Bust Up Wright's Still
-### Objective: Destroy the Wright family's moonshine still.
-### First Tasks: Locate the Wright family's still., Disable or destroy the still using explosives or another method., Report back to the quest giver.
-### First Task Locations: New Reno - The Wright family operates in New Reno, where their still is located.
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: Cash Reward - Earn $500 for successfully sabotaging the still. (amount: NONE), Reputation Boost - Gain favor with the rival crime family. (amount: NONE)
-### Characters: NONE
-### Tools: Explosives or another method to destroy the still., Stealth if avoiding detection is necessary., Speech to convince someone to let you near the still.
-### Description: The Wright family operates a moonshine still in New Reno. A rival faction wants it destroyed to weaken their influence, and you have been tasked with the job.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: Fallout 2
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Bust Up Wright's Still
+Objective: Destroy the Wright family's moonshine still.
+First Tasks: Locate the Wright family's still., Disable or destroy the still using explosives or another method., Report back to the quest giver.
+First Task Locations: New Reno - The Wright family operates in New Reno, where their still is located.
+Quest Giver: NONE - NONE (location: NONE)
+Reward: Cash Reward - Earn $500 for successfully sabotaging the still. (amount: NONE), Reputation Boost - Gain favor with the rival crime family. (amount: NONE)
+Characters: NONE
+Tools: Explosives or another method to destroy the still., Stealth if avoiding detection is necessary., Speech to convince someone to let you near the still.
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: Fallout 2
+Motivation: NONE
+
+### Response:
+The Wright family operates a moonshine still in New Reno. A rival faction wants it destroyed to weaken their influence, and you have been tasked with the job.
+

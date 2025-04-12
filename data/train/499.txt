@@ -1,15 +1,22 @@
-### Quest Name: Not Just Black Sheep
-### Objective: bring some colorful sheep to James
-### First Tasks: find some colorful sheep
-### First Task Locations:  - practically everywhere with grass
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - a pile of white wool (amount: 1)
-### Characters: NONE
-### Tools: NONE
-### Description: I've been told that there are sheep in all possible colors; not just black, gray, white and brown. I'm not the sharpest shepherd around. You seem like a clever person: perhaps you know how to find these colorful sheep. Sheep love grass; they tend to stay in grassy areas. Let me have some colorful, beautiful sheep. I want to test breeding a flock of sheep in all colors of the rainbow. I'll let you have a pile of regular ole white wool.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: Minecraft
-### Motivation: knowledge
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Not Just Black Sheep
+Objective: bring some colorful sheep to James
+First Tasks: find some colorful sheep
+First Task Locations:  - practically everywhere with grass
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - a pile of white wool (amount: 1)
+Characters: NONE
+Tools: NONE
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: Minecraft
+Motivation: knowledge
+
+### Response:
+I've been told that there are sheep in all possible colors; not just black, gray, white and brown. I'm not the sharpest shepherd around. You seem like a clever person: perhaps you know how to find these colorful sheep. Sheep love grass; they tend to stay in grassy areas. Let me have some colorful, beautiful sheep. I want to test breeding a flock of sheep in all colors of the rainbow. I'll let you have a pile of regular ole white wool.
+

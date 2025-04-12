@@ -1,15 +1,22 @@
-### Quest Name: The Path of Knowledge
-### Objective: find the Black Book
-### First Tasks: go to Nchardak with Neloth
-### First Task Locations: Nchardak - a Dwemer ruin
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: Black Book - a book that is connected with Miraak (amount: 1)
-### Characters: Miraak - the player's male enemy (location: )
-### Tools: the Dwemer discovered the Black Book that is connected with Miraak, Neloth found the Dwemer's "reading room" in Nchardak: Neloth was not able to open the protective case where the Black Book is sealed
-### Description: I know where to find the Black Book connected with Miraak. I haven't been able to get it, though. But maybe together we can unlock the secrets the Dwemer left behind. Forbidden knowledge was somewhat a specialty of the ancient Dwemer. It seems they discovered this book and took it to study. I have found their "reading room" in the ruins of Nchardak. The book is there, but it's sealed in a protective case which I wasn't able to open. But perhaps the two of us together will be able to get the book. To Nchardak, then. Follow me.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: Dwemer - an ancient, extinct race of people who were specialized in forbidden knowledge
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: The Path of Knowledge
+Objective: find the Black Book
+First Tasks: go to Nchardak with Neloth
+First Task Locations: Nchardak - a Dwemer ruin
+Quest Giver: NONE - NONE (location: NONE)
+Reward: Black Book - a book that is connected with Miraak (amount: 1)
+Characters: Miraak - the player's male enemy (location: )
+Tools: the Dwemer discovered the Black Book that is connected with Miraak, Neloth found the Dwemer's "reading room" in Nchardak: Neloth was not able to open the protective case where the Black Book is sealed
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: Dwemer - an ancient, extinct race of people who were specialized in forbidden knowledge
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+I know where to find the Black Book connected with Miraak. I haven't been able to get it, though. But maybe together we can unlock the secrets the Dwemer left behind. Forbidden knowledge was somewhat a specialty of the ancient Dwemer. It seems they discovered this book and took it to study. I have found their "reading room" in the ruins of Nchardak. The book is there, but it's sealed in a protective case which I wasn't able to open. But perhaps the two of us together will be able to get the book. To Nchardak, then. Follow me.
+

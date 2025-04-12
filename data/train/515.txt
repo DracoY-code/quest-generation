@@ -1,15 +1,22 @@
-### Quest Name: Symbols of Office
-### Objective: remake the Staff of Sheogorath and fill the throne of Madness after Sheogorath's passing
-### First Tasks: find the being who can help you to remake the Staff of Sheogorath
-### First Task Locations: Knifepoint Hollow - once a great library
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: Staff of Sheogorath - a staff, and the symbol of power in this Realm (amount: 1)
-### Characters: Sheogorath - the prince of madness, one of the Daedric Princes (location: ), Jyggalag - the prince of order, one of the Daedric Princes (location: )
-### Tools: Sheogorath is gone: Jyggalag will win, if the throne of Madness remains empty, the Staff of Sheogorath faded with Sheogorath, Haskill gives the player a crystal that opens the sealed door at Knifepoint Hollow: the library is a thing of Order, and it will still serve that end
-### Description: Sheogorath is gone, but hope is not lost. We have a rare opportunity here, but I hesitate to do what must be done. If the Throne of Madness remains empty when Jyggalag storms the palace, he will prevail. But there is a chance that the throne may not be empty. The only way to protect the Realm from Jyggalag is to place you in the Throne of Madness. Unfortunately, when Sheogorath faded, the power of the Staff of Sheogorath faded with him. It must now be remade. The Staff is the symbol of power in this Realm. He who rightfully holds the Staff may hold the throne of the Shivering Isles. However, the secrets of its construction are lost. That which is lost can be found again. There is one being in the Shivering Isles who may be able to assist you in the construction of a new Staff. The ruins of Knifepoint Hollow once served as a great library. There, you will find a door. Behind that door, you will find the answer you seek. Take this crystal. It contains the power to open the sealed door. Inside, you will find the final remnants of the library. Be mindful of what you find there. The library is a thing of Order, and it will still serve that end.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: Daedric Princes - immortal, fickle, infamous divine beings
-### Title: The Elder Scrolls IV: Oblivion
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Symbols of Office
+Objective: remake the Staff of Sheogorath and fill the throne of Madness after Sheogorath's passing
+First Tasks: find the being who can help you to remake the Staff of Sheogorath
+First Task Locations: Knifepoint Hollow - once a great library
+Quest Giver: NONE - NONE (location: NONE)
+Reward: Staff of Sheogorath - a staff, and the symbol of power in this Realm (amount: 1)
+Characters: Sheogorath - the prince of madness, one of the Daedric Princes (location: ), Jyggalag - the prince of order, one of the Daedric Princes (location: )
+Tools: Sheogorath is gone: Jyggalag will win, if the throne of Madness remains empty, the Staff of Sheogorath faded with Sheogorath, Haskill gives the player a crystal that opens the sealed door at Knifepoint Hollow: the library is a thing of Order, and it will still serve that end
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: Daedric Princes - immortal, fickle, infamous divine beings
+Title: The Elder Scrolls IV: Oblivion
+Motivation: NONE
+
+### Response:
+Sheogorath is gone, but hope is not lost. We have a rare opportunity here, but I hesitate to do what must be done. If the Throne of Madness remains empty when Jyggalag storms the palace, he will prevail. But there is a chance that the throne may not be empty. The only way to protect the Realm from Jyggalag is to place you in the Throne of Madness. Unfortunately, when Sheogorath faded, the power of the Staff of Sheogorath faded with him. It must now be remade. The Staff is the symbol of power in this Realm. He who rightfully holds the Staff may hold the throne of the Shivering Isles. However, the secrets of its construction are lost. That which is lost can be found again. There is one being in the Shivering Isles who may be able to assist you in the construction of a new Staff. The ruins of Knifepoint Hollow once served as a great library. There, you will find a door. Behind that door, you will find the answer you seek. Take this crystal. It contains the power to open the sealed door. Inside, you will find the final remnants of the library. Be mindful of what you find there. The library is a thing of Order, and it will still serve that end.
+

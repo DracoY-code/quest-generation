@@ -1,15 +1,22 @@
-### Quest Name: Reparations
-### Objective: make reparations for breaking the Thieves Guild rules
-### First Tasks: pay 1,000 gold to Vex for readmittance to the Thieves Guild
-### First Task Locations: NONE - 
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - restored membership of the Thieves Guild (amount: 1)
-### Characters: NONE
-### Tools: NONE
-### Description: I'm going to make this short and sweet, because frankly I don't think you deserve another shot. You've broken the rules and now you need to pay... and it's going to cost you quite a bit: 1,000 gold. You claim to be a thief... act like one. Pick pockets, knock over houses... heck, I don't care if you have to bust into a palace. You do what you have to do to come up with the coin. Anything you steal, you bring it straight to me. Now get out of here and don't come back until your pockets are full. Only then you're one of us again.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: Thieves Guild - a guild of thieves
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Reparations
+Objective: make reparations for breaking the Thieves Guild rules
+First Tasks: pay 1,000 gold to Vex for readmittance to the Thieves Guild
+First Task Locations: NONE - 
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - restored membership of the Thieves Guild (amount: 1)
+Characters: NONE
+Tools: NONE
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: Thieves Guild - a guild of thieves
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+I'm going to make this short and sweet, because frankly I don't think you deserve another shot. You've broken the rules and now you need to pay... and it's going to cost you quite a bit: 1,000 gold. You claim to be a thief... act like one. Pick pockets, knock over houses... heck, I don't care if you have to bust into a palace. You do what you have to do to come up with the coin. Anything you steal, you bring it straight to me. Now get out of here and don't come back until your pockets are full. Only then you're one of us again.
+

@@ -1,15 +1,22 @@
-### Quest Name: Addiction
-### Objective: return the Chalice of Reversal to Thadon
-### First Tasks: find the Chalice of Reversal
-### First Task Locations: NONE - 
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: NONE
-### Tools: Thadon is inebriated from withdrawal effects of Felldew
-### Description: Ahh yes, THERE you are! You couldn't imagine how long I, Thadon, the Duke of Mania, have been waiting for you. So little to do, and so much time. Hmm, could you, in fact, imagine just how long I've been waiting? I don't think you could, but I might be wrong. It felt like rather a long time, but then long times get longer when you're standing around thinking about them. A curious thing, that. Long roads get longer too, if you're thinking about them, but what about long words? They don't change nearly as much. Long, short -- it all ends up the same. Dust and tears. Usually tears first, then the dust. Dust can't cry, you see. That would be... well, amusing. You know what's NOT amusing? I don't have my Chalice of Reversal. It makes me sad. When I get sad, I don't care to do much of anything. I certainly don't care to help people who show up on my doorstep wanting something. Are we getting the picture here? The Chalice of Reversal is one of my favorite toys. Does wonders for creativity. Well, not by itself, but it helps. Is this making sense? Look, you eat the Felldew, then use the chalice, and find the world a much brighter and happier place. Honest. But I don't have it. So I can't eat Felldew, because that would just be bad. I mean, really bad. Find my chalice!
-### Locations: NONE
-### Items: Chalice of Reversal - a chalice that makes the world a much brighter and happier place after eating Felldew (amount: 1), Felldew - an addictive drug (amount: 1)
-### Enemies: NONE
-### Groups: NONE
-### Title: The Elder Scrolls IV: Oblivion
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Addiction
+Objective: return the Chalice of Reversal to Thadon
+First Tasks: find the Chalice of Reversal
+First Task Locations: NONE - 
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: NONE
+Tools: Thadon is inebriated from withdrawal effects of Felldew
+Locations: NONE
+Items: Chalice of Reversal - a chalice that makes the world a much brighter and happier place after eating Felldew (amount: 1), Felldew - an addictive drug (amount: 1)
+Enemies: NONE
+Groups: NONE
+Title: The Elder Scrolls IV: Oblivion
+Motivation: NONE
+
+### Response:
+Ahh yes, THERE you are! You couldn't imagine how long I, Thadon, the Duke of Mania, have been waiting for you. So little to do, and so much time. Hmm, could you, in fact, imagine just how long I've been waiting? I don't think you could, but I might be wrong. It felt like rather a long time, but then long times get longer when you're standing around thinking about them. A curious thing, that. Long roads get longer too, if you're thinking about them, but what about long words? They don't change nearly as much. Long, short -- it all ends up the same. Dust and tears. Usually tears first, then the dust. Dust can't cry, you see. That would be... well, amusing. You know what's NOT amusing? I don't have my Chalice of Reversal. It makes me sad. When I get sad, I don't care to do much of anything. I certainly don't care to help people who show up on my doorstep wanting something. Are we getting the picture here? The Chalice of Reversal is one of my favorite toys. Does wonders for creativity. Well, not by itself, but it helps. Is this making sense? Look, you eat the Felldew, then use the chalice, and find the world a much brighter and happier place. Honest. But I don't have it. So I can't eat Felldew, because that would just be bad. I mean, really bad. Find my chalice!
+

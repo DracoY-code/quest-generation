@@ -1,15 +1,22 @@
-### Quest Name: The Siren's Deception
-### Objective: get Maelona's family heirloom back from an all-female gang of thieves that prey on the married men of Anvil
-### First Tasks: find leads about the all-female gang
-### First Task Locations: Flowing Bowl - a seedy tavern in Anvil, located outside the city walls near the waterfront
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - gold (amount: 100)
-### Characters: Gogan - Maelona's husband (location: Anvil)
-### Tools: Gogan was robbed by the all-female gang: Maelona's family heirloom was among the things that the gang took from him, the city guard have not done much about the all-female gang: the men they rob are too embarrassed to report the gang
-### Description: I'm Maelona. How would you like to get my husband, Gogan, out of hot water? Believe me, he'll need all the help he can get to worm his way out of this one. To think he'd fall for the gang's scheme... agh! I could kill him! I'm sorry... I'm rambling and got you confused. Let me explain. The women in the gang use their wiles to lure men out to some remote location and rob them blind. It's been going on for some time now. The city guard hasn't done very much about it, because frankly, the men who are robbed are so embarrassed, they don't want to report it. Take for example that good-for-nothing husband of mine, Gogan. He cared more about their charms than my own. When Gogan was, uh... with the women, they took something quite valuable from him. No... it's not what you're thinking. He was carrying a precious family heirloom with him when he was lured out to their lair. It was a small ring given to him on our wedding day. The ring belonged to my mother, and has been in the family for generations. I'm willing to give you all the money I have to get it back. 100 gold. Can you help us? All I can tell you is that the best place to start is at The Flowing Bowl. It's a tavern located outside the city walls near the waterfront. The Flowing Bowl attracts the worst Anvil has to offer. Always be on your guard.
-### Locations: Anvil - a city (location: NONE)
-### Items: Maelona's family heirloom - a small ring (amount: 1)
-### Enemies: NONE
-### Groups: NONE
-### Title: The Elder Scrolls IV: Oblivion
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: The Siren's Deception
+Objective: get Maelona's family heirloom back from an all-female gang of thieves that prey on the married men of Anvil
+First Tasks: find leads about the all-female gang
+First Task Locations: Flowing Bowl - a seedy tavern in Anvil, located outside the city walls near the waterfront
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - gold (amount: 100)
+Characters: Gogan - Maelona's husband (location: Anvil)
+Tools: Gogan was robbed by the all-female gang: Maelona's family heirloom was among the things that the gang took from him, the city guard have not done much about the all-female gang: the men they rob are too embarrassed to report the gang
+Locations: Anvil - a city (location: NONE)
+Items: Maelona's family heirloom - a small ring (amount: 1)
+Enemies: NONE
+Groups: NONE
+Title: The Elder Scrolls IV: Oblivion
+Motivation: NONE
+
+### Response:
+I'm Maelona. How would you like to get my husband, Gogan, out of hot water? Believe me, he'll need all the help he can get to worm his way out of this one. To think he'd fall for the gang's scheme... agh! I could kill him! I'm sorry... I'm rambling and got you confused. Let me explain. The women in the gang use their wiles to lure men out to some remote location and rob them blind. It's been going on for some time now. The city guard hasn't done very much about it, because frankly, the men who are robbed are so embarrassed, they don't want to report it. Take for example that good-for-nothing husband of mine, Gogan. He cared more about their charms than my own. When Gogan was, uh... with the women, they took something quite valuable from him. No... it's not what you're thinking. He was carrying a precious family heirloom with him when he was lured out to their lair. It was a small ring given to him on our wedding day. The ring belonged to my mother, and has been in the family for generations. I'm willing to give you all the money I have to get it back. 100 gold. Can you help us? All I can tell you is that the best place to start is at The Flowing Bowl. It's a tavern located outside the city walls near the waterfront. The Flowing Bowl attracts the worst Anvil has to offer. Always be on your guard.
+

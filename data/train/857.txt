@@ -1,15 +1,22 @@
-### Quest Name: Lost Glory
-### Objective: retrieve the Helm of Winterhold for Korir
-### First Tasks: find the Helm of Winterhold
-### First Task Locations: Hob's Fall Cave - a cave
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: Hanse - a nobleman who was in line to be High King of Skyrim (location: )
-### Tools: NONE
-### Description: Winterhold has lost much of its history, and with that much of its power. I, Korir, the Jarl of Winterhold, aim to change that. I've heard rumors of the resting place of the Helm of Winterhold, the very same helm that Hanse wore in the First Era. He was in line to be High King of Skyrim, you know. Having that might get the ear of the other nobles and give me some authority. The Helm of Winterhold lies in Hob's Fall Cave. Recover it, and I'll You have Winterhold's thanks.
-### Locations: Winterhold - a city that has lost much of its history and power (location: NONE), Skyrim - a realm (location: NONE)
-### Items: Helm of Winterhold - a helm that was worn by Hanse in the First Era (amount: 1)
-### Enemies: NONE
-### Groups: NONE
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Lost Glory
+Objective: retrieve the Helm of Winterhold for Korir
+First Tasks: find the Helm of Winterhold
+First Task Locations: Hob's Fall Cave - a cave
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: Hanse - a nobleman who was in line to be High King of Skyrim (location: )
+Tools: NONE
+Locations: Winterhold - a city that has lost much of its history and power (location: NONE), Skyrim - a realm (location: NONE)
+Items: Helm of Winterhold - a helm that was worn by Hanse in the First Era (amount: 1)
+Enemies: NONE
+Groups: NONE
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+Winterhold has lost much of its history, and with that much of its power. I, Korir, the Jarl of Winterhold, aim to change that. I've heard rumors of the resting place of the Helm of Winterhold, the very same helm that Hanse wore in the First Era. He was in line to be High King of Skyrim, you know. Having that might get the ear of the other nobles and give me some authority. The Helm of Winterhold lies in Hob's Fall Cave. Recover it, and I'll You have Winterhold's thanks.
+

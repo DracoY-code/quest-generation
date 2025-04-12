@@ -1,15 +1,22 @@
-### Quest Name: A Sharp Heirloom
-### Objective: retrieve Amren's father's sword for Amren
-### First Tasks: find Amren's father's sword
-### First Task Locations: Halted Stream Camp - a bandit hideout
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - Amren would be grateful (amount: 1)
-### Characters: Saffir - a woman (location: Whiterun)
-### Tools: Saffir doesn't like that Amren has been spending so much time looking for his father's old sword
-### Description: I'm Amren, the husband of Saffir. My Saffir doesn't like that I've been spending so much time looking for my father's old sword. He fed his entire family with the gold he made using that weapon. I'm not about to let it gather dust in some thief's trophy room. I tracked it to a group of bandits nearby. The place is called Halted Stream Camp. But I'm no fool. I'd need the Whiterun guards or maybe hire some mercenaries to get it. I don't know why I'm saying this, but if you find it out in your travels, I'd be grateful to you.
-### Locations: Whiterun - a city (location: NONE)
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: A Sharp Heirloom
+Objective: retrieve Amren's father's sword for Amren
+First Tasks: find Amren's father's sword
+First Task Locations: Halted Stream Camp - a bandit hideout
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - Amren would be grateful (amount: 1)
+Characters: Saffir - a woman (location: Whiterun)
+Tools: Saffir doesn't like that Amren has been spending so much time looking for his father's old sword
+Locations: Whiterun - a city (location: NONE)
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+I'm Amren, the husband of Saffir. My Saffir doesn't like that I've been spending so much time looking for my father's old sword. He fed his entire family with the gold he made using that weapon. I'm not about to let it gather dust in some thief's trophy room. I tracked it to a group of bandits nearby. The place is called Halted Stream Camp. But I'm no fool. I'd need the Whiterun guards or maybe hire some mercenaries to get it. I don't know why I'm saying this, but if you find it out in your travels, I'd be grateful to you.
+

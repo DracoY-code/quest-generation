@@ -1,15 +1,22 @@
-### Quest Name: Delivery to Calcelmo
-### Objective: deliver a ring to Calcelmo for Kerah
-### First Tasks: find Calcelmo
-### First Task Locations: Understone Keep - a keep in Markarth
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: Calcelmo - a male historian (location: Understone Keep)
-### Tools: NONE
-### Description: My family came here centuries ago. We've made a good living smithing the silver that flows through the city. But you probably wanted to know about the fancy carvings and stonework, didn't you? Travelers always do. Here, I have a delivery I need to make to Calcelmo in Understone Keep. Why don't you take the ring to him? He knows the history of Markarth better than anyone. He can be a bit difficult, but I'm sure he'll appreciate your help.
-### Locations: Markarth - a city of stone and silver (location: NONE)
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Delivery to Calcelmo
+Objective: deliver a ring to Calcelmo for Kerah
+First Tasks: find Calcelmo
+First Task Locations: Understone Keep - a keep in Markarth
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: Calcelmo - a male historian (location: Understone Keep)
+Tools: NONE
+Locations: Markarth - a city of stone and silver (location: NONE)
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+My family came here centuries ago. We've made a good living smithing the silver that flows through the city. But you probably wanted to know about the fancy carvings and stonework, didn't you? Travelers always do. Here, I have a delivery I need to make to Calcelmo in Understone Keep. Why don't you take the ring to him? He knows the history of Markarth better than anyone. He can be a bit difficult, but I'm sure he'll appreciate your help.
+

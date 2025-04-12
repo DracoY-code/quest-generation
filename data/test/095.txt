@@ -1,15 +1,22 @@
-### Quest Name: The Path of the Righteous
-### Objective: retrieve the Mace of Zenithar for yourself
-### First Tasks: complete the challenge of Zenithar
-### First Task Locations:  - a shrine to Saint Kaladas, below the Chapel of Zenithar in Leyawiin
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: Mace of Zenithar - a holy mace (amount: 1)
-### Characters: Zenithar - the god of work and commerce, one of the Nine (location: ), Saint Kaladas - a long-dead saint (location: )
-### Tools: the player has passed the gauntlet unlike others in three hundred years: the player can redeem the souls of the ghost knights and restore their order, Sir Ralvas placed his own will and lust for fame over the will of the Nine, Sir Ralvas failed the challenge of Zenithar: the inscription for the challenge says to "walk in the faith", the player must pray at the shrine of Saint Kaladas to receive a vision: the player will see the Mace of Zenithar, separated from them by a great chasm, Sir Ralvas fell from the platform each time he tried to cross the chasm
-### Description: You have my, Sir Ralvas', tribute, sir knight. In three hundred years, none have passed the gauntlet. In three hundred years, we have never known hope. But for the first time, it seems that someone may succeed where we have failed. I see in you the chance to redeem our souls and restore the order. And now, I must ask you to press forward where I could not. I must ask you to face the challenge of Zenithar. I was arrogant and foolhardy. I sought personal glory. I placed my own will and my own lust for fame over the will of the Nine. In facing the challenge of Zenithar, I failed. I tried dozens -- no, hundreds of times to reach the Mace. I fell each time. And each time I awoke in the chapel, I leaped again. I tried to enlist the help of the other knights, but none would come to my aid. The inscription says to "walk in the faith" but even now, I do not know what this means. Below the Chapel of Zenithar in Leyawiin there is a shrine to the great craftsman, Saint Kaladas. Those seeking the Mace must pray before the shrine. When you bow, you will receive a vision -- or perhaps not. It is unclear. The priests saw that my body never moved, but it felt so real. You will see the Mace of Zenithar, separated from you by a great chasm. The chasm represents your doubt. Your faith must be your guide across it. This is what I know. As I said, my faith was weak. I did not understand the test and I fell from the platform each time I tried to cross. I have told you all that I know. All that is left is for you to prove yourself more worthy than I. If you seek the Mace, travel to Leyawiin's chapel, kneel at the shrine in the undercroft, and let your faith in the Nine be the salvation of us all.
-### Locations: Leyawiin - a city (location: NONE)
-### Items: NONE
-### Enemies: NONE
-### Groups: Nine - a pantheon of gods
-### Title: The Elder Scrolls IV: Oblivion
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: The Path of the Righteous
+Objective: retrieve the Mace of Zenithar for yourself
+First Tasks: complete the challenge of Zenithar
+First Task Locations:  - a shrine to Saint Kaladas, below the Chapel of Zenithar in Leyawiin
+Quest Giver: NONE - NONE (location: NONE)
+Reward: Mace of Zenithar - a holy mace (amount: 1)
+Characters: Zenithar - the god of work and commerce, one of the Nine (location: ), Saint Kaladas - a long-dead saint (location: )
+Tools: the player has passed the gauntlet unlike others in three hundred years: the player can redeem the souls of the ghost knights and restore their order, Sir Ralvas placed his own will and lust for fame over the will of the Nine, Sir Ralvas failed the challenge of Zenithar: the inscription for the challenge says to "walk in the faith", the player must pray at the shrine of Saint Kaladas to receive a vision: the player will see the Mace of Zenithar, separated from them by a great chasm, Sir Ralvas fell from the platform each time he tried to cross the chasm
+Locations: Leyawiin - a city (location: NONE)
+Items: NONE
+Enemies: NONE
+Groups: Nine - a pantheon of gods
+Title: The Elder Scrolls IV: Oblivion
+Motivation: NONE
+
+### Response:
+
+

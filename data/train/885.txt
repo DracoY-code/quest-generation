@@ -1,15 +1,22 @@
-### Quest Name: Alteration Training
-### Objective: prove Tooth-in-the-Sea that you are worthy of Alteration training
-### First Tasks: meet up with Tooth-in-the-Sea
-### First Task Locations:  - during the day, out under the waves in the bay
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - Alteration training from Tooth-in-the-Sea (amount: 1)
-### Characters: NONE
-### Tools: the player told Tooth-in-the-Sea that they want to learn Alteration from him, the player must stay underwater with Tooth-in-the-Sea for three hours: the player must not wander off or they fail the test
-### Description: Would you learn from me? Then meet me during the day, out under the waves in the bay. If you wish to learn what I know about Alteration, then you must stay there with me for a full three hours. How you manage to do this is up to you; do not wander off, or I shall consider this test of your ability failed.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: The Elder Scrolls IV: Oblivion
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Alteration Training
+Objective: prove Tooth-in-the-Sea that you are worthy of Alteration training
+First Tasks: meet up with Tooth-in-the-Sea
+First Task Locations:  - during the day, out under the waves in the bay
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - Alteration training from Tooth-in-the-Sea (amount: 1)
+Characters: NONE
+Tools: the player told Tooth-in-the-Sea that they want to learn Alteration from him, the player must stay underwater with Tooth-in-the-Sea for three hours: the player must not wander off or they fail the test
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: The Elder Scrolls IV: Oblivion
+Motivation: NONE
+
+### Response:
+Would you learn from me? Then meet me during the day, out under the waves in the bay. If you wish to learn what I know about Alteration, then you must stay there with me for a full three hours. How you manage to do this is up to you; do not wander off, or I shall consider this test of your ability failed.
+

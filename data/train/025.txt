@@ -1,15 +1,22 @@
-### Quest Name: Lessons on Defense
-### Objective: bring Captain Aldis a copy of "The Mirror"
-### First Tasks: find a copy of "The Mirror"
-### First Task Locations: NONE - 
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: NONE
-### Tools: Captain Aldis trains recruits: he thought about asking some training books from the general
-### Description: I'm with the Imperial Legion. Train the recruits. Turn boys into men. That sort of thing. Thinking of asking the General for some training books. Give the soldiers something to do while they're on rest. Something besides drinking. Ever seen a book called "The Mirror"? We used to hand it out to boys looking to learn basic shield work. If you find a copy of "The Mirror", I'd be glad to have it. Then I'll see if I can get some copies made for the men.
-### Locations: NONE
-### Items: "The Mirror" - a book about shield work (amount: 1)
-### Enemies: NONE
-### Groups: NONE
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Lessons on Defense
+Objective: bring Captain Aldis a copy of "The Mirror"
+First Tasks: find a copy of "The Mirror"
+First Task Locations: NONE - 
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: NONE
+Tools: Captain Aldis trains recruits: he thought about asking some training books from the general
+Locations: NONE
+Items: "The Mirror" - a book about shield work (amount: 1)
+Enemies: NONE
+Groups: NONE
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+I'm with the Imperial Legion. Train the recruits. Turn boys into men. That sort of thing. Thinking of asking the General for some training books. Give the soldiers something to do while they're on rest. Something besides drinking. Ever seen a book called "The Mirror"? We used to hand it out to boys looking to learn basic shield work. If you find a copy of "The Mirror", I'd be glad to have it. Then I'll see if I can get some copies made for the men.
+

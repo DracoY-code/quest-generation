@@ -1,15 +1,22 @@
-### Quest Name: Destruction Training
-### Objective: bring 20 bear pelts to Bralsa Andaren to prove that you have helped tear nature asunder
-### First Tasks: get 20 bear pelts
-### First Task Locations: NONE - 
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - Destruction spell training from Bralsa Andaren (amount: 1)
-### Characters: NONE
-### Tools: the player asked Bralsa Andaren to teach the player Destruction spells
-### Description: You seek training? If I were to aid you, you would first have to assist me. I would strip the Creators of their works... you will help with this. Bring me 20 bear pelts, as proof that you have helped tear nature asunder. Then we shall speak of spells and teaching.
-### Locations: NONE
-### Items:  - bear pelts (amount: 20)
-### Enemies: NONE
-### Groups: NONE
-### Title: The Elder Scrolls IV: Oblivion
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Destruction Training
+Objective: bring 20 bear pelts to Bralsa Andaren to prove that you have helped tear nature asunder
+First Tasks: get 20 bear pelts
+First Task Locations: NONE - 
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - Destruction spell training from Bralsa Andaren (amount: 1)
+Characters: NONE
+Tools: the player asked Bralsa Andaren to teach the player Destruction spells
+Locations: NONE
+Items:  - bear pelts (amount: 20)
+Enemies: NONE
+Groups: NONE
+Title: The Elder Scrolls IV: Oblivion
+Motivation: NONE
+
+### Response:
+
+

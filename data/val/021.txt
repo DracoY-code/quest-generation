@@ -1,15 +1,22 @@
-### Quest Name: Miscarcand
-### Objective: recover a Great Welkynd Stone for Martin
-### First Tasks: find a Great Welkynd Stone
-### First Task Locations: Miscarcand - the dangerous ruins of an Ayleid city
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: NONE
-### Tools: Martin has made some progress in deciphering the Mysterium Xarxes ritual while the player was gone, the player may have seen lesser Welkynd Stones: they are common in Ayleid ruins
-### Description: While you were gone, I've made some progress in deciphering the Mysterium Xarxes ritual. The third item we need is a Great Welkynd Stone. You may have run across lesser Welkynd Stones; they are fairly common in Ayleid ruins. But a Great Welkynd Stone will not be easy to come by. They have been plundered one by one over the years, due to their great value to mages and occultists. There is only one place that is rumored to still contain one: the ruins of the Ayleid city of Miscarcand. A place where many have perished seeking its Great Welkynd Stone. But nothing else will do, so you must succeed where all others have failed.
-### Locations: NONE
-### Items: Great Welkynd Stone - the third item the player needs for the Mysterium Xarxes ritual, and a rare larger variant of Welkynd Stones valued by mages and occultists (amount: 1), Welkynd Stones - small magical crystals (amount: 1), Mysterium Xarxes - a mysterious book of rituals (amount: 1)
-### Enemies: NONE
-### Groups: Ayleid - extinct, ancient race of people
-### Title: The Elder Scrolls IV: Oblivion
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Miscarcand
+Objective: recover a Great Welkynd Stone for Martin
+First Tasks: find a Great Welkynd Stone
+First Task Locations: Miscarcand - the dangerous ruins of an Ayleid city
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: NONE
+Tools: Martin has made some progress in deciphering the Mysterium Xarxes ritual while the player was gone, the player may have seen lesser Welkynd Stones: they are common in Ayleid ruins
+Locations: NONE
+Items: Great Welkynd Stone - the third item the player needs for the Mysterium Xarxes ritual, and a rare larger variant of Welkynd Stones valued by mages and occultists (amount: 1), Welkynd Stones - small magical crystals (amount: 1), Mysterium Xarxes - a mysterious book of rituals (amount: 1)
+Enemies: NONE
+Groups: Ayleid - extinct, ancient race of people
+Title: The Elder Scrolls IV: Oblivion
+Motivation: NONE
+
+### Response:
+While you were gone, I've made some progress in deciphering the Mysterium Xarxes ritual. The third item we need is a Great Welkynd Stone. You may have run across lesser Welkynd Stones; they are fairly common in Ayleid ruins. But a Great Welkynd Stone will not be easy to come by. They have been plundered one by one over the years, due to their great value to mages and occultists. There is only one place that is rumored to still contain one: the ruins of the Ayleid city of Miscarcand. A place where many have perished seeking its Great Welkynd Stone. But nothing else will do, so you must succeed where all others have failed.
+

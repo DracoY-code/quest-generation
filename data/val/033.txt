@@ -1,15 +1,22 @@
-### Quest Name: Officer Roenall's Corrupt Actions
-### Objective: bring the evidence of Officer Roenall's corrupt actions to Corgeig Axehand
-### First Tasks: investigate Barg, find Officer Roenall's personal records
-### First Task Locations:  - the docks,  - Officer Roenall's home, northwest of the main government building in the Government District
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: Officer Roenall - a corrupt male guard (location: ), Corgeig Axehand - Officer Roenall's commander (location: the Government District main building), Barg - a suspicious man (location: the docks)
-### Tools: Khellor Ahmson saw Officer Roenall using his authority against the player in a corrupt manner, any complaints about Officer Roenall must first go through him: guards cannot do anything about Officer Roenall, Officer Roenall's personal records may reveal his fondness for gems
-### Description: I am Khellor Ahmson, a mere guard. I saw what happened, and I share your helplessness. Any complaints about Officer Roenall must first go THROUGH him, so you can imagine how many get through. This did not come from me, for if my indiscretion against Roenall were to get out, I should be thrown from the military. There is one way you can get to him. Roenall is quite corrupt and more than willing to exercise his power. You are not monitored as we, so you can do something that I or another guard cannot. Look to the docks and a man named Barg. Examine him and what he does, and you are sure to see what I mean. You might also wish to pry into Roenall's personal records. They may reveal something of his fondness for gems. I did not tell you this... and I certainly did not say his records are in his home northwest of the main government building in the Government District. Think on what I've said, and bring anything you learn to Corgeig Axehand in the Government District main building. He is Roenall's commander.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: Baldur's Gate II: Shadows of Amn
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Officer Roenall's Corrupt Actions
+Objective: bring the evidence of Officer Roenall's corrupt actions to Corgeig Axehand
+First Tasks: investigate Barg, find Officer Roenall's personal records
+First Task Locations:  - the docks,  - Officer Roenall's home, northwest of the main government building in the Government District
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: Officer Roenall - a corrupt male guard (location: ), Corgeig Axehand - Officer Roenall's commander (location: the Government District main building), Barg - a suspicious man (location: the docks)
+Tools: Khellor Ahmson saw Officer Roenall using his authority against the player in a corrupt manner, any complaints about Officer Roenall must first go through him: guards cannot do anything about Officer Roenall, Officer Roenall's personal records may reveal his fondness for gems
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: Baldur's Gate II: Shadows of Amn
+Motivation: NONE
+
+### Response:
+I am Khellor Ahmson, a mere guard. I saw what happened, and I share your helplessness. Any complaints about Officer Roenall must first go THROUGH him, so you can imagine how many get through. This did not come from me, for if my indiscretion against Roenall were to get out, I should be thrown from the military. There is one way you can get to him. Roenall is quite corrupt and more than willing to exercise his power. You are not monitored as we, so you can do something that I or another guard cannot. Look to the docks and a man named Barg. Examine him and what he does, and you are sure to see what I mean. You might also wish to pry into Roenall's personal records. They may reveal something of his fondness for gems. I did not tell you this... and I certainly did not say his records are in his home northwest of the main government building in the Government District. Think on what I've said, and bring anything you learn to Corgeig Axehand in the Government District main building. He is Roenall's commander.
+

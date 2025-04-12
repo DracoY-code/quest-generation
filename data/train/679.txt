@@ -1,15 +1,22 @@
-### Quest Name: Bust the Skulz Gang
-### Objective: Help Lars and Killian eliminate the Skulz gang causing trouble in Junktown.
-### First Tasks: Talk to Lars about the Skulz gang., Gather evidence or find a way to stop them., Decide whether to help law enforcement or join the gang.
-### First Task Locations: Junktown Guard Barracks - Lars and the town guards' base where they organize security., Skulz Hideout - A hideout where the gang gathers and plans their criminal activities.
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: Caps - A monetary reward for defeating the gang. (amount: 500), Karma Increase - Improves reputation in Junktown. (amount: 1)
-### Characters: NONE
-### Tools: Speech, Combat Skills, Weapons
-### Description: The Skulz gang has been causing problems in Junktown. Lars, the head guard, wants them taken down. The player can either help Lars arrest or kill the gang members or betray the guards and join the gang. The outcome affects Junktown’s stability.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: Fallout
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Bust the Skulz Gang
+Objective: Help Lars and Killian eliminate the Skulz gang causing trouble in Junktown.
+First Tasks: Talk to Lars about the Skulz gang., Gather evidence or find a way to stop them., Decide whether to help law enforcement or join the gang.
+First Task Locations: Junktown Guard Barracks - Lars and the town guards' base where they organize security., Skulz Hideout - A hideout where the gang gathers and plans their criminal activities.
+Quest Giver: NONE - NONE (location: NONE)
+Reward: Caps - A monetary reward for defeating the gang. (amount: 500), Karma Increase - Improves reputation in Junktown. (amount: 1)
+Characters: NONE
+Tools: Speech, Combat Skills, Weapons
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: Fallout
+Motivation: NONE
+
+### Response:
+The Skulz gang has been causing problems in Junktown. Lars, the head guard, wants them taken down. The player can either help Lars arrest or kill the gang members or betray the guards and join the gang. The outcome affects Junktown’s stability.
+

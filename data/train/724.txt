@@ -1,15 +1,22 @@
-### Quest Name: Noralee's Gauntlets
-### Objective: bring Noralee's gauntlets to her
-### First Tasks: find Noralee's gauntlets inside a shipping crate
-### First Task Locations:  - between here and the harbor
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: NONE
-### Tools: NONE
-### Description: I'm Noralee. I just had some new armor shipped in from a far-away city and I'm afraid I must have dropped the gauntlets into one of the shipping crates somewhere between here and the harbor. Please, if you can find them before somebody else picks them up, I would be most grateful.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: Baldur's Gate
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Noralee's Gauntlets
+Objective: bring Noralee's gauntlets to her
+First Tasks: find Noralee's gauntlets inside a shipping crate
+First Task Locations:  - between here and the harbor
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: NONE
+Tools: NONE
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: Baldur's Gate
+Motivation: NONE
+
+### Response:
+I'm Noralee. I just had some new armor shipped in from a far-away city and I'm afraid I must have dropped the gauntlets into one of the shipping crates somewhere between here and the harbor. Please, if you can find them before somebody else picks them up, I would be most grateful.
+

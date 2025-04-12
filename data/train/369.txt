@@ -1,15 +1,22 @@
-### Quest Name: The Noble's Daughter
-### Objective: find Lord Rugdumph gro-Shurgak's missing daughter
-### First Tasks: talk to Lord Rugdumph gro-Shurgak about his missing daughter
-### First Task Locations:  - Lord Rugdumph gro-Shurgak's estate
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: Lord Rugdumph gro-Shurgak - an Orcish nobleman, and an old old family friend of Burz gro-Khash (location: Lord Rugdumph gro-Shurgak's estate)
-### Tools: NONE
-### Description: I'll assume you're back for more work, because I don't see a big need to chat with you. I've got more for you. Important stuff, actually. You need to go talk to Lord Rugdumph gro-Shurgak. He's an Orcish noble. A fine man. Our families go back a bit. Anyway, his daughter is missing. Head to his estate and talk to him. Find his daughter. And mind your manners! I don't want you embarrassing me! Now go help Lord Rugdumph. And wipe that smile off your face!
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: Fighters Guild - a mercenary guild
-### Title: The Elder Scrolls IV: Oblivion
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: The Noble's Daughter
+Objective: find Lord Rugdumph gro-Shurgak's missing daughter
+First Tasks: talk to Lord Rugdumph gro-Shurgak about his missing daughter
+First Task Locations:  - Lord Rugdumph gro-Shurgak's estate
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: Lord Rugdumph gro-Shurgak - an Orcish nobleman, and an old old family friend of Burz gro-Khash (location: Lord Rugdumph gro-Shurgak's estate)
+Tools: NONE
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: Fighters Guild - a mercenary guild
+Title: The Elder Scrolls IV: Oblivion
+Motivation: NONE
+
+### Response:
+I'll assume you're back for more work, because I don't see a big need to chat with you. I've got more for you. Important stuff, actually. You need to go talk to Lord Rugdumph gro-Shurgak. He's an Orcish noble. A fine man. Our families go back a bit. Anyway, his daughter is missing. Head to his estate and talk to him. Find his daughter. And mind your manners! I don't want you embarrassing me! Now go help Lord Rugdumph. And wipe that smile off your face!
+

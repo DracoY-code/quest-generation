@@ -1,15 +1,22 @@
-### Quest Name: Lusting After Gold
-### Objective: steal a child-sized gold statue for Degaine
-### First Tasks: sneak inside the temple and find the gold statue
-### First Task Locations: Temple of Dibella - a temple whose priests are exclusively women
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - Degaine pays the player half of what his man in Riften promised for the gold statue (amount: 1)
-### Characters: NONE
-### Tools: Degaine doesn't want the Thieves Guild to find out about his plans
-### Description: You see that Temple? Way up there. All them women, keeping to themselves. Won't let poor Degaine in, no. Not even for a look. But they've got a treasure in there. Gold statue, size of a child. Who knows what they use it for, but I know what I'll use it for. Stealing it and selling it for profit. Well let's not put it like that. Wouldn't want the Thieves Guild catching wind of us, eh? Nah, just creep in and have a go at taking it out. I'll be here, and pay you half of what my man in Riften promised for it. You'll be helping out an old beggar, and the gods smile on that sort of thing.
-### Locations: Riften - a city (location: NONE)
-### Items: NONE
-### Enemies: NONE
-### Groups: Thieves Guild - a guild of thieves
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Lusting After Gold
+Objective: steal a child-sized gold statue for Degaine
+First Tasks: sneak inside the temple and find the gold statue
+First Task Locations: Temple of Dibella - a temple whose priests are exclusively women
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - Degaine pays the player half of what his man in Riften promised for the gold statue (amount: 1)
+Characters: NONE
+Tools: Degaine doesn't want the Thieves Guild to find out about his plans
+Locations: Riften - a city (location: NONE)
+Items: NONE
+Enemies: NONE
+Groups: Thieves Guild - a guild of thieves
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+You see that Temple? Way up there. All them women, keeping to themselves. Won't let poor Degaine in, no. Not even for a look. But they've got a treasure in there. Gold statue, size of a child. Who knows what they use it for, but I know what I'll use it for. Stealing it and selling it for profit. Well let's not put it like that. Wouldn't want the Thieves Guild catching wind of us, eh? Nah, just creep in and have a go at taking it out. I'll be here, and pay you half of what my man in Riften promised for it. You'll be helping out an old beggar, and the gods smile on that sort of thing.
+

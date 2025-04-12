@@ -1,15 +1,22 @@
-### Quest Name: Electric Shock Therapy
-### Objective: hit Test Subject with lightning, and report back to Judas
-### First Tasks: go to Test Subject when there's a thunderstorm
-### First Task Locations: Desolate Plains - the desert outside Woodland Homestead
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - the player can keep the trident (amount: 1)
-### Characters: Test Subject - a depressed man from Woodland Homestead, who volunteered for Judas's experiment (location: Desolate Plains)
-### Tools: the player is a famous hero, Judas gives the player an enchanted trident: the player can channel lightning with it during thunderstorms
-### Description: As a cleric, my duty is to heal the villagers of Woodland Homestead both spiritually and physically. As a hero, your duty is to help people in trouble. I sometimes devise new treatments for various illnesses: some of my experiments are successful, the others, sadly, not so much. I would like you to assist me with an experiment. I also have a volunteer participating in the experiment as well: a depressed man from this very village. I need you to go to the Desolate Plains, the desert just outside this village, and hit that test subject of mine with lightning when there's a thunderstorm. For this, I'm giving you an enchanted trident: you can use it to channel lightning during thunderstorms. Finally, you should report back to me, and let me know what happened. You can keep the trident. May the Gods be with you, hero!
-### Locations: Woodland Homestead - a village (location: NONE)
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: Minecraft
-### Motivation: knowledge
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Electric Shock Therapy
+Objective: hit Test Subject with lightning, and report back to Judas
+First Tasks: go to Test Subject when there's a thunderstorm
+First Task Locations: Desolate Plains - the desert outside Woodland Homestead
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - the player can keep the trident (amount: 1)
+Characters: Test Subject - a depressed man from Woodland Homestead, who volunteered for Judas's experiment (location: Desolate Plains)
+Tools: the player is a famous hero, Judas gives the player an enchanted trident: the player can channel lightning with it during thunderstorms
+Locations: Woodland Homestead - a village (location: NONE)
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: Minecraft
+Motivation: knowledge
+
+### Response:
+As a cleric, my duty is to heal the villagers of Woodland Homestead both spiritually and physically. As a hero, your duty is to help people in trouble. I sometimes devise new treatments for various illnesses: some of my experiments are successful, the others, sadly, not so much. I would like you to assist me with an experiment. I also have a volunteer participating in the experiment as well: a depressed man from this very village. I need you to go to the Desolate Plains, the desert just outside this village, and hit that test subject of mine with lightning when there's a thunderstorm. For this, I'm giving you an enchanted trident: you can use it to channel lightning during thunderstorms. Finally, you should report back to me, and let me know what happened. You can keep the trident. May the Gods be with you, hero!
+

@@ -1,15 +1,22 @@
-### Quest Name: Find out how Becky can sell her booze for such low prices
-### Objective: Investigate how Becky is able to sell her alcohol at unusually low prices.
-### First Tasks: Talk to Becky about her business., Gather information on her supply chain and possible sources., Investigate possible smuggling operations or hidden suppliers.
-### First Task Locations: The Den - A lawless settlement where Becky runs her bar.
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: Caps - A monetary reward from Frankie for uncovering the truth. (amount: 100), Access to cheaper alcohol - Becky may offer discounts depending on how you handle the situation. (amount: NONE)
-### Characters: NONE
-### Tools: Persuasion or Barter skill to gather information., Sneaking ability if investigating illicit sources.
-### Description: Frankie is suspicious of Becky’s ability to sell alcohol at low prices. Your job is to investigate and uncover the secret behind her business.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: Fallout 2
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Find out how Becky can sell her booze for such low prices
+Objective: Investigate how Becky is able to sell her alcohol at unusually low prices.
+First Tasks: Talk to Becky about her business., Gather information on her supply chain and possible sources., Investigate possible smuggling operations or hidden suppliers.
+First Task Locations: The Den - A lawless settlement where Becky runs her bar.
+Quest Giver: NONE - NONE (location: NONE)
+Reward: Caps - A monetary reward from Frankie for uncovering the truth. (amount: 100), Access to cheaper alcohol - Becky may offer discounts depending on how you handle the situation. (amount: NONE)
+Characters: NONE
+Tools: Persuasion or Barter skill to gather information., Sneaking ability if investigating illicit sources.
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: Fallout 2
+Motivation: NONE
+
+### Response:
+
+

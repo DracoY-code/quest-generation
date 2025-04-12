@@ -1,15 +1,22 @@
-### Quest Name: Nocturnal's Missing Eye
-### Objective: bring Nocturnal's Eye back to Nocturnal
-### First Tasks: recover Nocturnal's Eye from Argonians
-### First Task Locations: Leyawiin - a city spanning waters
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: Skeleton Key - a key that opens any lock (amount: 1)
-### Characters: NONE
-### Tools: the Eye was stolen from its shrine and hid in dark waters
-### Description: Night among strangers. Secrets in the dark. Nocturnal is here. But my Eye is blind and drowned, stolen from its shrine, and hid in dark waters. To steal from a god is most unwise. In Leyawiin, two Argonians think themselves secret, but the Eye has seen them. Find these thieves in the city that spans the waters. Learn where they hide my Eye. Retrieve the Eye of Nocturnal, mortal, and return it to me, and I shall look favorably upon you. You, mortal, may take this Skeleton Key upon your return. It shall open the secrets of dark places for you.
-### Locations: NONE
-### Items: Eye - one of Nocturnal's artifacts (amount: 1)
-### Enemies: NONE
-### Groups: Argonians - two people who stole the Eye of Nocturnal, Daedric Princes - immortal, fickle, infamous divine beings
-### Title: The Elder Scrolls IV: Oblivion
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Nocturnal's Missing Eye
+Objective: bring Nocturnal's Eye back to Nocturnal
+First Tasks: recover Nocturnal's Eye from Argonians
+First Task Locations: Leyawiin - a city spanning waters
+Quest Giver: NONE - NONE (location: NONE)
+Reward: Skeleton Key - a key that opens any lock (amount: 1)
+Characters: NONE
+Tools: the Eye was stolen from its shrine and hid in dark waters
+Locations: NONE
+Items: Eye - one of Nocturnal's artifacts (amount: 1)
+Enemies: NONE
+Groups: Argonians - two people who stole the Eye of Nocturnal, Daedric Princes - immortal, fickle, infamous divine beings
+Title: The Elder Scrolls IV: Oblivion
+Motivation: NONE
+
+### Response:
+Night among strangers. Secrets in the dark. Nocturnal is here. But my Eye is blind and drowned, stolen from its shrine, and hid in dark waters. To steal from a god is most unwise. In Leyawiin, two Argonians think themselves secret, but the Eye has seen them. Find these thieves in the city that spans the waters. Learn where they hide my Eye. Retrieve the Eye of Nocturnal, mortal, and return it to me, and I shall look favorably upon you. You, mortal, may take this Skeleton Key upon your return. It shall open the secrets of dark places for you.
+

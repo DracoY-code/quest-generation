@@ -1,15 +1,22 @@
-### Quest Name: Umar the Witch
-### Objective: deal with Umar
-### First Tasks: talk to the Minister
-### First Task Locations: Imnesvale - a village
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: Umar - an evil female witch (location: Imnesvale), Minister - the mayor of Imnesvale (location: Imnesvale)
-### Tools: the player is a ranger, Delon has been looking for the player again, Imnesvale is in danger again: Umar has threatened to kill everyone if they don't leave, the Minister will tell the player everything
-### Description: Hey! It's me, Delon. I... I've found you again, my noble ranger! It's... it's so hard to find you sometimes! The... the village is in danger again! The Minister has asked for you! It's Umar! The witch! She's come back, and she's threatened to kill everyone if they don't go an' leave right now! The... the Minister says he will tell you everything!
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: Baldur's Gate II: Shadows of Amn
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Umar the Witch
+Objective: deal with Umar
+First Tasks: talk to the Minister
+First Task Locations: Imnesvale - a village
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: Umar - an evil female witch (location: Imnesvale), Minister - the mayor of Imnesvale (location: Imnesvale)
+Tools: the player is a ranger, Delon has been looking for the player again, Imnesvale is in danger again: Umar has threatened to kill everyone if they don't leave, the Minister will tell the player everything
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: Baldur's Gate II: Shadows of Amn
+Motivation: NONE
+
+### Response:
+Hey! It's me, Delon. I... I've found you again, my noble ranger! It's... it's so hard to find you sometimes! The... the village is in danger again! The Minister has asked for you! It's Umar! The witch! She's come back, and she's threatened to kill everyone if they don't go an' leave right now! The... the Minister says he will tell you everything!
+

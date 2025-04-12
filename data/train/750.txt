@@ -1,15 +1,22 @@
-### Quest Name: Bassilus the Murderer
-### Objective: kill Bassilus and bring his holy symbol to Kelddath Ormlyr
-### First Tasks: find Bassilus
-### First Task Locations: Red Canyons - 
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - a large reward (amount: 1)
-### Characters: Bassilus - a mad male murderer (location: Red Canyons)
-### Tools: NONE
-### Description: A warning from Kelddath Ormlyr: know that there is a madman by the name of Bassilus who roams the wilderness killing any innocents that happen along his path. He's been last sighted in Red Canyons. If you were to dispose of him and bring back his holy symbol, there is a large reward offered. It is a grisly task, but sometimes there is little choice.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: Baldur's Gate
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Bassilus the Murderer
+Objective: kill Bassilus and bring his holy symbol to Kelddath Ormlyr
+First Tasks: find Bassilus
+First Task Locations: Red Canyons - 
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - a large reward (amount: 1)
+Characters: Bassilus - a mad male murderer (location: Red Canyons)
+Tools: NONE
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: Baldur's Gate
+Motivation: NONE
+
+### Response:
+A warning from Kelddath Ormlyr: know that there is a madman by the name of Bassilus who roams the wilderness killing any innocents that happen along his path. He's been last sighted in Red Canyons. If you were to dispose of him and bring back his holy symbol, there is a large reward offered. It is a grisly task, but sometimes there is little choice.
+

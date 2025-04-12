@@ -1,15 +1,22 @@
-### Quest Name: Silence at Last!
-### Objective: assassinate Lurbuk
-### First Tasks: find Lurbuk
-### First Task Locations: Moorside Inn - an inn in Morthal
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: Lurbuk - the worst bard in Skyrim, a man (location: Moorside Inn)
-### Tools: NONE
-### Description: Your next assassination target is Lurbuk. He is staying at Moorside Inn in Morthal. Lurbuk is, by all accounts, the worst bard in all of Skyrim. No one would hold it against you if you flayed that horrible bard alive and made a drum from his skin... Apparently so many people sought his death, a lottery had to be arranged to determine the client. The only good bard is a dead one, as far as I'm concerned. All that singing and... mirth.
-### Locations: Morthal - a town in Skyrim (location: NONE), Skyrim - a realm (location: NONE)
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Silence at Last!
+Objective: assassinate Lurbuk
+First Tasks: find Lurbuk
+First Task Locations: Moorside Inn - an inn in Morthal
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: Lurbuk - the worst bard in Skyrim, a man (location: Moorside Inn)
+Tools: NONE
+Locations: Morthal - a town in Skyrim (location: NONE), Skyrim - a realm (location: NONE)
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+Your next assassination target is Lurbuk. He is staying at Moorside Inn in Morthal. Lurbuk is, by all accounts, the worst bard in all of Skyrim. No one would hold it against you if you flayed that horrible bard alive and made a drum from his skin... Apparently so many people sought his death, a lottery had to be arranged to determine the client. The only good bard is a dead one, as far as I'm concerned. All that singing and... mirth.
+

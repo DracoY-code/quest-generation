@@ -1,15 +1,22 @@
-### Quest Name: Retaking Thirsk
-### Objective: help Bujold the Unworthy and his warriors retake Thirsk Mead Hall
-### First Tasks: fight Rieklings with Bujold the Unworthy and his warriors
-### First Task Locations: Thirsk Mead Hall - a mead hall, the home of Bujold the Unworthy and his warriors, up there on the hill
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: NONE
-### Tools: the player asked Bujold the Unworthy what is going on here
-### Description: What's going on here is that we've been kicked out of our home. The Thirsk Mead Hall, up there on the hill. We were... some Rieklings have taken it over. Rieklings overcame us with tenacity and numbers. Didn't help that we'd grown a little too comfortable up there. Too much mead. Too many stories. Too few battles. Are you... offering to help? Some new blood should be enough to rouse these layabouts to actually fight again.
-### Locations: NONE
-### Items: NONE
-### Enemies: Rieklings - tenacious creatures that attack people in large packs (amount: 1)
-### Groups: NONE
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Retaking Thirsk
+Objective: help Bujold the Unworthy and his warriors retake Thirsk Mead Hall
+First Tasks: fight Rieklings with Bujold the Unworthy and his warriors
+First Task Locations: Thirsk Mead Hall - a mead hall, the home of Bujold the Unworthy and his warriors, up there on the hill
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: NONE
+Tools: the player asked Bujold the Unworthy what is going on here
+Locations: NONE
+Items: NONE
+Enemies: Rieklings - tenacious creatures that attack people in large packs (amount: 1)
+Groups: NONE
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+What's going on here is that we've been kicked out of our home. The Thirsk Mead Hall, up there on the hill. We were... some Rieklings have taken it over. Rieklings overcame us with tenacity and numbers. Didn't help that we'd grown a little too comfortable up there. Too much mead. Too many stories. Too few battles. Are you... offering to help? Some new blood should be enough to rouse these layabouts to actually fight again.
+

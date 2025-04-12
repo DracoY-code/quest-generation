@@ -1,15 +1,22 @@
-### Quest Name: Jonny is missing. Find him and bring him home to Balthas
-### Objective: Locate Jonny and safely return him to his father, Balthas, in Modoc.
-### First Tasks: Gather information about Jonny's disappearance from Balthas in Modoc., Search for clues around Modoc and nearby areas., Find Jonny's whereabouts and convince him to return home.
-### First Task Locations: Modoc - A small farming settlement where Jonny's father, Balthas, resides.
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: Caps - A monetary reward for safely returning Jonny. (amount: 100), Leather Armor - A suit of leather armor crafted by Balthas as a token of gratitude. (amount: NONE), Improved reputation in Modoc - The town appreciates your efforts in reuniting Jonny with his family. (amount: NONE)
-### Characters: NONE
-### Tools: Speech skill to convince Jonny to return., Exploration skills to track down Jonny’s location.
-### Description: Jonny, Balthas' son, has gone missing from Modoc. His father is desperate to find him and needs someone to track him down and bring him home safely.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: Fallout 2
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Jonny is missing. Find him and bring him home to Balthas
+Objective: Locate Jonny and safely return him to his father, Balthas, in Modoc.
+First Tasks: Gather information about Jonny's disappearance from Balthas in Modoc., Search for clues around Modoc and nearby areas., Find Jonny's whereabouts and convince him to return home.
+First Task Locations: Modoc - A small farming settlement where Jonny's father, Balthas, resides.
+Quest Giver: NONE - NONE (location: NONE)
+Reward: Caps - A monetary reward for safely returning Jonny. (amount: 100), Leather Armor - A suit of leather armor crafted by Balthas as a token of gratitude. (amount: NONE), Improved reputation in Modoc - The town appreciates your efforts in reuniting Jonny with his family. (amount: NONE)
+Characters: NONE
+Tools: Speech skill to convince Jonny to return., Exploration skills to track down Jonny’s location.
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: Fallout 2
+Motivation: NONE
+
+### Response:
+Jonny, Balthas' son, has gone missing from Modoc. His father is desperate to find him and needs someone to track him down and bring him home safely.
+

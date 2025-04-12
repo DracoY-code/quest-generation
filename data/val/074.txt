@@ -1,15 +1,22 @@
-### Quest Name: A Kiss Before Dying
-### Objective: assassinate Ungolim
-### First Tasks: eliminate Ungolim when he visits the Lucky Old Lady at night between 6:00 PM and 1:00 AM
-### First Task Locations: Bravil - a city
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - the player's dead drop is in a barrel located behind the statue in the pond in Anvil: the player's reward and next contract will be waiting (amount: 1)
-### Characters: Ungolim - a male Wood Elf Archer, loves a married woman (location: Bravil), Havilstein Hoar-Blood - a horrible man (location: )
-### Tools: the player killed Havilstein Hoar-Blood for Lucien Lachance, Ungolim spends his days securely locked inside his house
-### Description: Dead Drop Orders #7 by Lucien Lachance  My compliments on another job well done! Havilstein Hoar-Blood was more swine than man, and deserved to die quivering like an animal! You must not stop! You must kill again! Your next target is a Wood Elf named Ungolim, who resides in the city of Bravil. Bravil is also home to an ancient statue known as the Lucky Old Lady. It is seen as a symbol of good luck and prosperity, and the fools of Bravil often speak to the statue and wish for good tidings. Every night, poor lovestruck Ungolim visits the statue and pleads desperately for the heart of a young maiden. This maiden is married, and her husband has learned of Ungolim's affection for his bride. He fears the competition, it would seem, and has commissioned the Dark Brotherhood to help in the matter. You must go to Bravil, locate Ungolim, and kill him. The Wood Elf owns a house in the city, but he spends his days securely locked inside. I recommend you lie in wait at the Lucky Old Lady statue, and then eliminate Ungolim when he arrives for his nightly visit. He's generally there between the hours of 6:00 PM and 1:00 AM. By all accounts, Ungolim is a deadly archer and a fearless opponent. I also have reason to believe he is expecting trouble, so if Ungolim senses danger, he may attack you on sight. Be vigilant, and bring the Wood Elf down! You must not fail! When Ungolim's body lies broken at the foot of his dear statue, you must journey to the city of Anvil. Your dead drop is in a barrel located behind the statue in the pond. As is standard, your reward and next contract will be waiting.
-### Locations: Anvil - a city (location: NONE)
-### Items: "Dead Drop Orders #7" - a note (amount: 1), Lucky Old Lady - an ancient statue in Bravil, a symbol of good luck and prosperity (amount: 1)
-### Enemies: NONE
-### Groups: Dark Brotherhood - a guild of assassins
-### Title: The Elder Scrolls IV: Oblivion
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: A Kiss Before Dying
+Objective: assassinate Ungolim
+First Tasks: eliminate Ungolim when he visits the Lucky Old Lady at night between 6:00 PM and 1:00 AM
+First Task Locations: Bravil - a city
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - the player's dead drop is in a barrel located behind the statue in the pond in Anvil: the player's reward and next contract will be waiting (amount: 1)
+Characters: Ungolim - a male Wood Elf Archer, loves a married woman (location: Bravil), Havilstein Hoar-Blood - a horrible man (location: )
+Tools: the player killed Havilstein Hoar-Blood for Lucien Lachance, Ungolim spends his days securely locked inside his house
+Locations: Anvil - a city (location: NONE)
+Items: "Dead Drop Orders #7" - a note (amount: 1), Lucky Old Lady - an ancient statue in Bravil, a symbol of good luck and prosperity (amount: 1)
+Enemies: NONE
+Groups: Dark Brotherhood - a guild of assassins
+Title: The Elder Scrolls IV: Oblivion
+Motivation: NONE
+
+### Response:
+Dead Drop Orders #7 by Lucien Lachance  My compliments on another job well done! Havilstein Hoar-Blood was more swine than man, and deserved to die quivering like an animal! You must not stop! You must kill again! Your next target is a Wood Elf named Ungolim, who resides in the city of Bravil. Bravil is also home to an ancient statue known as the Lucky Old Lady. It is seen as a symbol of good luck and prosperity, and the fools of Bravil often speak to the statue and wish for good tidings. Every night, poor lovestruck Ungolim visits the statue and pleads desperately for the heart of a young maiden. This maiden is married, and her husband has learned of Ungolim's affection for his bride. He fears the competition, it would seem, and has commissioned the Dark Brotherhood to help in the matter. You must go to Bravil, locate Ungolim, and kill him. The Wood Elf owns a house in the city, but he spends his days securely locked inside. I recommend you lie in wait at the Lucky Old Lady statue, and then eliminate Ungolim when he arrives for his nightly visit. He's generally there between the hours of 6:00 PM and 1:00 AM. By all accounts, Ungolim is a deadly archer and a fearless opponent. I also have reason to believe he is expecting trouble, so if Ungolim senses danger, he may attack you on sight. Be vigilant, and bring the Wood Elf down! You must not fail! When Ungolim's body lies broken at the foot of his dear statue, you must journey to the city of Anvil. Your dead drop is in a barrel located behind the statue in the pond. As is standard, your reward and next contract will be waiting.
+

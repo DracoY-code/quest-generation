@@ -1,15 +1,22 @@
-### Quest Name: Witness a secret transaction
-### Objective: Observe a clandestine deal and report back.
-### First Tasks: Travel to the designated meeting point., Stay hidden and witness the transaction., Return and report your findings.
-### First Task Locations: Desert location - A remote and secluded area where the deal takes place.
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: Experience Points - For successfully witnessing the transaction. (amount: 1000), Caps - A payment for gathering information. (amount: 500)
-### Characters: NONE
-### Tools: N, O, N, E
-### Description: Mr. Salvatore needs someone to witness a secret deal without being detected. Watch the transaction carefully and report back.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: Fallout 2
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Witness a secret transaction
+Objective: Observe a clandestine deal and report back.
+First Tasks: Travel to the designated meeting point., Stay hidden and witness the transaction., Return and report your findings.
+First Task Locations: Desert location - A remote and secluded area where the deal takes place.
+Quest Giver: NONE - NONE (location: NONE)
+Reward: Experience Points - For successfully witnessing the transaction. (amount: 1000), Caps - A payment for gathering information. (amount: 500)
+Characters: NONE
+Tools: N, O, N, E
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: Fallout 2
+Motivation: NONE
+
+### Response:
+Mr. Salvatore needs someone to witness a secret deal without being detected. Watch the transaction carefully and report back.
+

@@ -1,15 +1,22 @@
-### Quest Name: A Job for Mead
-### Objective: bring Siddgeir some Black-Briar Mead
-### First Tasks: get Black-Briar Mead
-### First Task Locations: Riften - a city
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - Siddgeir gives more important work to the player (amount: 1)
-### Characters: NONE
-### Tools: NONE
-### Description: You're here for work? I demand tribute before you can be considered for any real tasks. How about drink? None of that local piss. Real Black-Briar Mead, fresh from Riften. You better bring me my mead. I hate people who waste my time.
-### Locations: Falkreath - a city (location: NONE)
-### Items: Black-Briar Mead - famous mead from Riften (amount: 1)
-### Enemies: NONE
-### Groups: NONE
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: A Job for Mead
+Objective: bring Siddgeir some Black-Briar Mead
+First Tasks: get Black-Briar Mead
+First Task Locations: Riften - a city
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - Siddgeir gives more important work to the player (amount: 1)
+Characters: NONE
+Tools: NONE
+Locations: Falkreath - a city (location: NONE)
+Items: Black-Briar Mead - famous mead from Riften (amount: 1)
+Enemies: NONE
+Groups: NONE
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+
+

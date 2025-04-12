@@ -1,15 +1,22 @@
-### Quest Name: Sneak Training
-### Objective: get training from Marana Rian
-### First Tasks: steal a coin from Marana Rian
-### First Task Locations: NONE - 
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - training from Marana Rian (amount: 1)
-### Characters: NONE
-### Tools: the player told Marana Rian that they want training
-### Description: You seek training? From me? A few too many loose lips, it seems. It's not something I want to be public knowledge, if you understand my meaning. Very well. Simple task for you. I just dropped a favorite coin of mine into my pocket. If you can steal it from me, I'll train you.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: The Elder Scrolls IV: Oblivion
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Sneak Training
+Objective: get training from Marana Rian
+First Tasks: steal a coin from Marana Rian
+First Task Locations: NONE - 
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - training from Marana Rian (amount: 1)
+Characters: NONE
+Tools: the player told Marana Rian that they want training
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: The Elder Scrolls IV: Oblivion
+Motivation: NONE
+
+### Response:
+You seek training? From me? A few too many loose lips, it seems. It's not something I want to be public knowledge, if you understand my meaning. Very well. Simple task for you. I just dropped a favorite coin of mine into my pocket. If you can steal it from me, I'll train you.
+

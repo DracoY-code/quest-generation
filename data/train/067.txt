@@ -1,15 +1,22 @@
-### Quest Name: Breaching Security
-### Objective: assassinate Gaius Maro, and implicate him in a plot to kill the Emperor
-### First Tasks: go to Dragon Bridge, observe Gaius Maro's departure, follow him, waylay him in one of the major cities, kill him, and plant the false evidence on his body
-### First Task Locations: NONE - 
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - Olava's token as a bonus, if the player does not kill Gaius Maro in Dragon Bridge, or on the road (amount: 1)
-### Characters: Astrid - the player's female guildleader in the Dark Brotherhood (location: ), Gaius Maro - the son of Commander Maro, a member of the Penitus Oculatus (location: ), Olava the Feeble - Gabriella's old female friend, and a powerful seer (location: Whiterun), Commander Maro - the man who leads the Penitus Oculatus, and handles the Emperor's security (location: )
-### Tools: Astrid sent the player to Gabriella, the Emperor will arrive in Skyrim: the Penitus Oculatus will need to begin its preparations immediately, Astrid and Gabriella have devised a plan to break Commander Maro and cripple the Emperor's protection, Gaius Maro is set to leave the Penitus Oculatus outpost at Dragon Bridge, and inspect the security of each city in Skyrim, Olava's token is to be given to Olava the Feeble for a reading of the player's future
-### Description: Dear sibling. I've been waiting for you. Your next contract awaits, as I'm sure Astrid indicated. With the Emperor's arrival in Skyrim now a certainty, his security service, the Penitus Oculatus, will need to begin its preparations immediately. Security is being handled by a Commander Maro. Astrid and I have devised a plan to break the man, and in doing so, cripple the Emperor's protection. You are to slay the commander's son, Gaius Maro, and once he is dead, plant false evidence on his body implicating him in a plot to kill the Emperor. He is set to leave the Penitus Oculatus outpost at Dragon Bridge, and inspect the security of each city in Skyrim. Go there now. Observe Gaius Maro's departure, and follow him. Waylay him in one of the cities, and send his soul to Sithis. Once he's dead, plant the incriminating letter on his body, and let fate take care of the rest. Oh, and one final thing... To earn your bonus, do not kill Gaius Maro in Dragon Bridge, or on the road. Kill him in one of the other major cities he'll be visiting. There, the body will be discovered quickly, as will the letter implicating Gaius Maro in the plot to assassinate the Emperor. Do that, and Astrid has authorized me to grant you a rather unique bonus. It is a special token, to be given to Olava the Feeble, in Whiterun. Olava is an old and dear friend, and a powerful seer. The token entitles you to a reading of your future. It's an opportunity one should not pass up.
-### Locations: Skyrim - a province of the Empire (location: NONE), Dragon Bridge - a town in Skyrim (location: NONE), Whiterun - a city (location: NONE)
-### Items: NONE
-### Enemies: NONE
-### Groups: Penitus Oculatus - the Emperor's security service, Dark Brotherhood - a guild of assassins
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Breaching Security
+Objective: assassinate Gaius Maro, and implicate him in a plot to kill the Emperor
+First Tasks: go to Dragon Bridge, observe Gaius Maro's departure, follow him, waylay him in one of the major cities, kill him, and plant the false evidence on his body
+First Task Locations: NONE - 
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - Olava's token as a bonus, if the player does not kill Gaius Maro in Dragon Bridge, or on the road (amount: 1)
+Characters: Astrid - the player's female guildleader in the Dark Brotherhood (location: ), Gaius Maro - the son of Commander Maro, a member of the Penitus Oculatus (location: ), Olava the Feeble - Gabriella's old female friend, and a powerful seer (location: Whiterun), Commander Maro - the man who leads the Penitus Oculatus, and handles the Emperor's security (location: )
+Tools: Astrid sent the player to Gabriella, the Emperor will arrive in Skyrim: the Penitus Oculatus will need to begin its preparations immediately, Astrid and Gabriella have devised a plan to break Commander Maro and cripple the Emperor's protection, Gaius Maro is set to leave the Penitus Oculatus outpost at Dragon Bridge, and inspect the security of each city in Skyrim, Olava's token is to be given to Olava the Feeble for a reading of the player's future
+Locations: Skyrim - a province of the Empire (location: NONE), Dragon Bridge - a town in Skyrim (location: NONE), Whiterun - a city (location: NONE)
+Items: NONE
+Enemies: NONE
+Groups: Penitus Oculatus - the Emperor's security service, Dark Brotherhood - a guild of assassins
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+Dear sibling. I've been waiting for you. Your next contract awaits, as I'm sure Astrid indicated. With the Emperor's arrival in Skyrim now a certainty, his security service, the Penitus Oculatus, will need to begin its preparations immediately. Security is being handled by a Commander Maro. Astrid and I have devised a plan to break the man, and in doing so, cripple the Emperor's protection. You are to slay the commander's son, Gaius Maro, and once he is dead, plant false evidence on his body implicating him in a plot to kill the Emperor. He is set to leave the Penitus Oculatus outpost at Dragon Bridge, and inspect the security of each city in Skyrim. Go there now. Observe Gaius Maro's departure, and follow him. Waylay him in one of the cities, and send his soul to Sithis. Once he's dead, plant the incriminating letter on his body, and let fate take care of the rest. Oh, and one final thing... To earn your bonus, do not kill Gaius Maro in Dragon Bridge, or on the road. Kill him in one of the other major cities he'll be visiting. There, the body will be discovered quickly, as will the letter implicating Gaius Maro in the plot to assassinate the Emperor. Do that, and Astrid has authorized me to grant you a rather unique bonus. It is a special token, to be given to Olava the Feeble, in Whiterun. Olava is an old and dear friend, and a powerful seer. The token entitles you to a reading of your future. It's an opportunity one should not pass up.
+

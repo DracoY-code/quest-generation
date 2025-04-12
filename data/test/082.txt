@@ -1,15 +1,22 @@
-### Quest Name: Kill Metzger
-### Objective: Eliminate Metzger and free the slaves in the Den.
-### First Tasks: Gather weapons and allies to prepare for the fight., Attack Metzger and his guards at the Slaver's Guild.
-### First Task Locations: The Den - A lawless town controlled by slavers and criminals.
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: Freedom for the slaves - Metzger's death ensures the slaves in The Den are no longer under his control. (amount: NONE), Loot from Metzger's body - Possible weapons, caps, and other valuables. (amount: NONE)
-### Characters: NONE
-### Tools: Strong weapons and armor to fight Metzger and his guards., Allies such as Sulik or other companions.
-### Description: Metzger is the ruthless leader of the Slaver's Guild in The Den. Killing him will free his slaves and remove a dangerous criminal from the wasteland.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: Fallout 2
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Kill Metzger
+Objective: Eliminate Metzger and free the slaves in the Den.
+First Tasks: Gather weapons and allies to prepare for the fight., Attack Metzger and his guards at the Slaver's Guild.
+First Task Locations: The Den - A lawless town controlled by slavers and criminals.
+Quest Giver: NONE - NONE (location: NONE)
+Reward: Freedom for the slaves - Metzger's death ensures the slaves in The Den are no longer under his control. (amount: NONE), Loot from Metzger's body - Possible weapons, caps, and other valuables. (amount: NONE)
+Characters: NONE
+Tools: Strong weapons and armor to fight Metzger and his guards., Allies such as Sulik or other companions.
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: Fallout 2
+Motivation: NONE
+
+### Response:
+
+

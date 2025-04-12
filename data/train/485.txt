@@ -1,15 +1,22 @@
-### Quest Name: Azra's Staffs
-### Objective: retrieve a magical staff made by Azra Nightwielder for Neloth
-### First Tasks: find the staff
-### First Task Locations: Frostmere Depths - a cave
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - a staff made by Neloth (amount: 1)
-### Characters: Azra Nightwielder - the original shadowmage, whose advances in magic are legendary, a man (location: )
-### Tools: NONE
-### Description: I have a slightly more personal request. You see, I'm a collector. Of staffs. Magical staffs. In particular, those made by Azra Nightwielder. Azra Nightwielder was the original shadowmage. His advances in magic are legendary. Less well known is that he was also a pioneer in the field of enchanting staffs. Nightwielder's creations don't really hold up in comparison to what can be made today, but they have a sentimental value for me. You understand. Through some divinations, I believe I've located one of Azra Nightwielder's staffs in Frostmere Depths. If you retrieve it, I'll give you a staff of my own making.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Azra's Staffs
+Objective: retrieve a magical staff made by Azra Nightwielder for Neloth
+First Tasks: find the staff
+First Task Locations: Frostmere Depths - a cave
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - a staff made by Neloth (amount: 1)
+Characters: Azra Nightwielder - the original shadowmage, whose advances in magic are legendary, a man (location: )
+Tools: NONE
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+I have a slightly more personal request. You see, I'm a collector. Of staffs. Magical staffs. In particular, those made by Azra Nightwielder. Azra Nightwielder was the original shadowmage. His advances in magic are legendary. Less well known is that he was also a pioneer in the field of enchanting staffs. Nightwielder's creations don't really hold up in comparison to what can be made today, but they have a sentimental value for me. You understand. Through some divinations, I believe I've located one of Azra Nightwielder's staffs in Frostmere Depths. If you retrieve it, I'll give you a staff of my own making.
+

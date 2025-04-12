@@ -1,15 +1,22 @@
-### Quest Name: White Wolf Pelts
-### Objective: bring a white wolf's pelt to the merchant
-### First Tasks: kill a white wolf
-### First Task Locations: Cloudpeak ice fields - a bit to the south from here
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - good money (amount: 1)
-### Characters: NONE
-### Tools: NONE
-### Description: I am but a humble merchant. Interested in a little business on the side, friend? I've a man who swears by his grandmother he glimpsed a white wolf up in the Cloudpeak ice fields. It was but a short ways south, and she be easy pickings for a smart sword. I'd pay you good money for its pelt, so it's a guaranteed sale if you go. Keep it in mind on your travels.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: Baldur's Gate
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: White Wolf Pelts
+Objective: bring a white wolf's pelt to the merchant
+First Tasks: kill a white wolf
+First Task Locations: Cloudpeak ice fields - a bit to the south from here
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - good money (amount: 1)
+Characters: NONE
+Tools: NONE
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: Baldur's Gate
+Motivation: NONE
+
+### Response:
+I am but a humble merchant. Interested in a little business on the side, friend? I've a man who swears by his grandmother he glimpsed a white wolf up in the Cloudpeak ice fields. It was but a short ways south, and she be easy pickings for a smart sword. I'd pay you good money for its pelt, so it's a guaranteed sale if you go. Keep it in mind on your travels.
+

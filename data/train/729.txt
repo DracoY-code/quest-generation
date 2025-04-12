@@ -1,15 +1,22 @@
-### Quest Name: Guards! Guards! Guards!
-### Objective: build a watchhouse in River's End
-### First Tasks: find construction materials
-### First Task Locations: NONE - 
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - an enchanted axe (amount: 1)
-### Characters: NONE
-### Tools: the player is a famous hero
-### Description: River's End is a large village, yet we lack a watchhouse! We don't have a place to store away all troublemakers! They are free to roam along the law-abiding people... Hero, you are an honorable person. Could you build us a watchhouse? You should gather up some construction materials first. Complete the watchhouse, and we'll give you an enchanted axe. May it help you bury your enemies!
-### Locations: River's End - a large village (location: NONE)
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: Minecraft
-### Motivation: protection
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Guards! Guards! Guards!
+Objective: build a watchhouse in River's End
+First Tasks: find construction materials
+First Task Locations: NONE - 
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - an enchanted axe (amount: 1)
+Characters: NONE
+Tools: the player is a famous hero
+Locations: River's End - a large village (location: NONE)
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: Minecraft
+Motivation: protection
+
+### Response:
+River's End is a large village, yet we lack a watchhouse! We don't have a place to store away all troublemakers! They are free to roam along the law-abiding people... Hero, you are an honorable person. Could you build us a watchhouse? You should gather up some construction materials first. Complete the watchhouse, and we'll give you an enchanted axe. May it help you bury your enemies!
+

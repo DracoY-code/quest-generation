@@ -1,15 +1,22 @@
-### Quest Name: Half-ogres Near Beregost
-### Objective: kill the half-ogres who battled Bjornin
-### First Tasks: find half-ogres
-### First Task Locations:  - the mountains south-southwest of Beregost
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - a shield (amount: 1)
-### Characters: NONE
-### Tools: half-ogres wounded Bjornin
-### Description: I'm still healing from my latest encounters. They did quite a number on me, those half-ogres. There's a band of them fortifying themselves in the mountains south-southwest of here... If you could give them a taste of justice by testing your steel against them, that would do me, Bjornin, proud. In an effort to encourage such deeds of righteousness, allow me to present to you this shield as a reward upon your return...
-### Locations: Beregost - a town (location: NONE)
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: Baldur's Gate
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Half-ogres Near Beregost
+Objective: kill the half-ogres who battled Bjornin
+First Tasks: find half-ogres
+First Task Locations:  - the mountains south-southwest of Beregost
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - a shield (amount: 1)
+Characters: NONE
+Tools: half-ogres wounded Bjornin
+Locations: Beregost - a town (location: NONE)
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: Baldur's Gate
+Motivation: NONE
+
+### Response:
+I'm still healing from my latest encounters. They did quite a number on me, those half-ogres. There's a band of them fortifying themselves in the mountains south-southwest of here... If you could give them a taste of justice by testing your steel against them, that would do me, Bjornin, proud. In an effort to encourage such deeds of righteousness, allow me to present to you this shield as a reward upon your return...
+

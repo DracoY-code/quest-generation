@@ -1,15 +1,22 @@
-### Quest Name: Rescue Initiate from the Hub
-### Objective: Rescue a Brotherhood of Steel initiate captured by enemies in The Hub.
-### First Tasks: Gather intelligence on the initiate's location., Infiltrate the enemy hideout in The Hub., Defeat or negotiate with the captors., Escort the initiate safely out of the hideout.
-### First Task Locations: The Hub - A major trading city where the Brotherhood initiate is being held captive.
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: Caps - A monetary reward for rescuing the initiate. (amount: 500), Experience Points - Earned for successfully completing the rescue operation. (amount: 1000), Brotherhood Reputation - Increases standing with the Brotherhood of Steel, unlocking possible future benefits. (amount: 1)
-### Characters: NONE
-### Tools: Stealth, Firearms, Melee weapons, Speech (for negotiations)
-### Description: A Brotherhood of Steel initiate has been captured in The Hub. The player must locate the captive, engage in combat or negotiations with the captors, and ensure the initiate returns safely to the Brotherhood.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: Fallout
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Rescue Initiate from the Hub
+Objective: Rescue a Brotherhood of Steel initiate captured by enemies in The Hub.
+First Tasks: Gather intelligence on the initiate's location., Infiltrate the enemy hideout in The Hub., Defeat or negotiate with the captors., Escort the initiate safely out of the hideout.
+First Task Locations: The Hub - A major trading city where the Brotherhood initiate is being held captive.
+Quest Giver: NONE - NONE (location: NONE)
+Reward: Caps - A monetary reward for rescuing the initiate. (amount: 500), Experience Points - Earned for successfully completing the rescue operation. (amount: 1000), Brotherhood Reputation - Increases standing with the Brotherhood of Steel, unlocking possible future benefits. (amount: 1)
+Characters: NONE
+Tools: Stealth, Firearms, Melee weapons, Speech (for negotiations)
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: Fallout
+Motivation: NONE
+
+### Response:
+A Brotherhood of Steel initiate has been captured in The Hub. The player must locate the captive, engage in combat or negotiations with the captors, and ensure the initiate returns safely to the Brotherhood.
+

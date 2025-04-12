@@ -1,15 +1,22 @@
-### Quest Name: A Serious Split
-### Objective: resolve the issue with duplicate citizens
-### First Tasks: kill the manic citizens of Split
-### First Task Locations: Split - a village
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - Horkvir Bear-Arm would make it worth the player's while (amount: 1)
-### Characters: NONE
-### Tools: a wizard split all citizens of Split into two people: one Demented and other Manic, Horkvir Bear-Arm cannot resolve the issue himself: there is a law about that and the Hill of Suicides is not a nice place
-### Description: Talking wears me, Horkvir Bear-Arm, out. My double is always working. It takes all my energy just watching him work. It's got to stop. It's a problem, all these doubles walking around. And it's tiresome. Didn't used to be like this. Some blasted mage. Had a theory. They've always got theories. He thought there was a Manic and a Demented in each of us. So, what does he do? What else? Casts a spell. You can see how well that went. Two of each of us walking around this place. Nothing we can do about it, either. There's a law about that here. Been to the Hill of Suicides? Not a nice place. But you might be able to help. Only one group can stick around. Either we Demented or those blasted Manics. It's the only way we'll find any peace. You get rid of those Manics. All of them. If you can take care of that for me, I'd make it worth your while..
-### Locations: Hill of Suicides - a nasty place where people who have committed suicide end up (location: NONE)
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: The Elder Scrolls IV: Oblivion
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: A Serious Split
+Objective: resolve the issue with duplicate citizens
+First Tasks: kill the manic citizens of Split
+First Task Locations: Split - a village
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - Horkvir Bear-Arm would make it worth the player's while (amount: 1)
+Characters: NONE
+Tools: a wizard split all citizens of Split into two people: one Demented and other Manic, Horkvir Bear-Arm cannot resolve the issue himself: there is a law about that and the Hill of Suicides is not a nice place
+Locations: Hill of Suicides - a nasty place where people who have committed suicide end up (location: NONE)
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: The Elder Scrolls IV: Oblivion
+Motivation: NONE
+
+### Response:
+Talking wears me, Horkvir Bear-Arm, out. My double is always working. It takes all my energy just watching him work. It's got to stop. It's a problem, all these doubles walking around. And it's tiresome. Didn't used to be like this. Some blasted mage. Had a theory. They've always got theories. He thought there was a Manic and a Demented in each of us. So, what does he do? What else? Casts a spell. You can see how well that went. Two of each of us walking around this place. Nothing we can do about it, either. There's a law about that here. Been to the Hill of Suicides? Not a nice place. But you might be able to help. Only one group can stick around. Either we Demented or those blasted Manics. It's the only way we'll find any peace. You get rid of those Manics. All of them. If you can take care of that for me, I'd make it worth your while..
+

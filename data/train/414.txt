@@ -1,15 +1,22 @@
-### Quest Name: A Curious Business Proposal
-### Objective: buy everything from Delsvirftanyon for 500 gold
-### First Tasks: give Delsvirftanyon 500 gold
-### First Task Locations: NONE - 
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - Delsvirftanyon's stock (amount: 1)
-### Characters: NONE
-### Tools: Delsvirftanyon sells things for the tourists in the Durlag's Tower, but bandits on the road keep people away, Delsvirftanyon has ward tokens of all shapes and sizes
-### Description: I'm Delsvirftanyon, a merchant by trade. I sell the small and shinies for the tourists in the Durlag's Tower but there are none now there! Bandits on the roads keep the people off and away so I'm stuck with all this stock I am. Ward tokens I have of all shapes and size. Some I found by elven ruin and some I made myself I made. Maybe some good or maybe all bad but don't they all look pretty? I tell you what I will. I'll sell you everything I have you buy for low low price of 500 gold is all. Then I go home where they appreciate a bauble shine. Buy or no and walk the walk?
-### Locations: Durlag's Tower - a tourist attraction (location: NONE)
-### Items:  - gold (amount: 500)
-### Enemies: NONE
-### Groups: NONE
-### Title: Baldur's Gate
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: A Curious Business Proposal
+Objective: buy everything from Delsvirftanyon for 500 gold
+First Tasks: give Delsvirftanyon 500 gold
+First Task Locations: NONE - 
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - Delsvirftanyon's stock (amount: 1)
+Characters: NONE
+Tools: Delsvirftanyon sells things for the tourists in the Durlag's Tower, but bandits on the road keep people away, Delsvirftanyon has ward tokens of all shapes and sizes
+Locations: Durlag's Tower - a tourist attraction (location: NONE)
+Items:  - gold (amount: 500)
+Enemies: NONE
+Groups: NONE
+Title: Baldur's Gate
+Motivation: NONE
+
+### Response:
+I'm Delsvirftanyon, a merchant by trade. I sell the small and shinies for the tourists in the Durlag's Tower but there are none now there! Bandits on the roads keep the people off and away so I'm stuck with all this stock I am. Ward tokens I have of all shapes and size. Some I found by elven ruin and some I made myself I made. Maybe some good or maybe all bad but don't they all look pretty? I tell you what I will. I'll sell you everything I have you buy for low low price of 500 gold is all. Then I go home where they appreciate a bauble shine. Buy or no and walk the walk?
+

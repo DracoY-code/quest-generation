@@ -1,15 +1,22 @@
-### Quest Name: Fetch the Netch
-### Objective: obtain five samples of Netch jelly for Milore Ienth
-### First Tasks: find Netch
-### First Task Locations: NONE - 
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - something for the effort (amount: 1)
-### Characters: NONE
-### Tools: NONE
-### Description: I'm proud to say that I grow or harvest most of my exotic ingredients myself. I only wish I had a better source for Netch jelly. Those creatures are difficult to track down since it's so dangerous beyond the the town walls. Could you gather some Netch jelly for me? That would be splendid! Five samples should be enough. I'd be more than happy to give you something for the effort.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: Netch - large and peaceful creatures
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Fetch the Netch
+Objective: obtain five samples of Netch jelly for Milore Ienth
+First Tasks: find Netch
+First Task Locations: NONE - 
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - something for the effort (amount: 1)
+Characters: NONE
+Tools: NONE
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: Netch - large and peaceful creatures
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+I'm proud to say that I grow or harvest most of my exotic ingredients myself. I only wish I had a better source for Netch jelly. Those creatures are difficult to track down since it's so dangerous beyond the the town walls. Could you gather some Netch jelly for me? That would be splendid! Five samples should be enough. I'd be more than happy to give you something for the effort.
+

@@ -1,15 +1,22 @@
-### Quest Name: Proven Paranoia
-### Objective: assassinate Ennodius Papius
-### First Tasks: find Ennodius Papius
-### First Task Locations:  - in the woods near Anga's Mill
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: Ennodius Papius - a paranoid male hermit (location: in the woods near Anga's Mill)
-### Tools: NONE
-### Description: Ennodius Papius lives just outside Anga's Mill, in the woods. He was once the miller. Now Papius is just a paranoid recluse who thinks someone is out to get him. And he's right. You will assassinate him and prove his paranoia legitimate.
-### Locations: Anga's Mill - a mill (location: NONE)
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Proven Paranoia
+Objective: assassinate Ennodius Papius
+First Tasks: find Ennodius Papius
+First Task Locations:  - in the woods near Anga's Mill
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: Ennodius Papius - a paranoid male hermit (location: in the woods near Anga's Mill)
+Tools: NONE
+Locations: Anga's Mill - a mill (location: NONE)
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+Ennodius Papius lives just outside Anga's Mill, in the woods. He was once the miller. Now Papius is just a paranoid recluse who thinks someone is out to get him. And he's right. You will assassinate him and prove his paranoia legitimate.
+

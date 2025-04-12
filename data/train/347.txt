@@ -1,15 +1,22 @@
-### Quest Name: Protect the Guardian!
-### Objective: protect the Guardian of Water
-### First Tasks: scout the Wellspring Temple
-### First Task Locations: Wellspring Temple - a temple
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: Commander Vale - a female military leader (location: Wellspring Temple), Alchemist - an evil man (location: ), Guardian of Water - a powerful being upholding peace (location: Wellspring Temple)
-### Tools: Commander Vale believes that the Alchemist might attack the Wellspring Temple: the Alchemist wants to reach the Guardian of Water
-### Description: Commander Vale believes that the Alchemist might attack the Wellspring Temple, in an attempt to reach the Guardian of Water ... for what nefarious purpose I am afraid to speculate. There has been no word from either Vale, or the Guardian. Scout the Wellspring Temple, and determine if the Guardian of Water is in any danger.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: Torchlight II
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Protect the Guardian!
+Objective: protect the Guardian of Water
+First Tasks: scout the Wellspring Temple
+First Task Locations: Wellspring Temple - a temple
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: Commander Vale - a female military leader (location: Wellspring Temple), Alchemist - an evil man (location: ), Guardian of Water - a powerful being upholding peace (location: Wellspring Temple)
+Tools: Commander Vale believes that the Alchemist might attack the Wellspring Temple: the Alchemist wants to reach the Guardian of Water
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: Torchlight II
+Motivation: NONE
+
+### Response:
+Commander Vale believes that the Alchemist might attack the Wellspring Temple, in an attempt to reach the Guardian of Water ... for what nefarious purpose I am afraid to speculate. There has been no word from either Vale, or the Guardian. Scout the Wellspring Temple, and determine if the Guardian of Water is in any danger.
+

@@ -1,15 +1,22 @@
-### Quest Name: No Stone Unturned
-### Objective: help Lithnilian recover his research notes
-### First Tasks: find Lithnilian's research notes
-### First Task Locations: Bramblepoint Cave - a natural cave
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - some potent potions (amount: 1)
-### Characters: NONE
-### Tools: Lithnilian is the first to discover Welkynd Stones growing in a natural cave
-### Description: Ten years of research down the drain! I've been studying the Welkynd Stones. Yes, the aquamarine colored crystals usually native to Ayleid ruins. It seems I'm the first to discover them growing in a natural cave. That's about all I can say about it. I don't suppose I could convince you to help me recover my research notes? I was doing some research in Bramblepoint Cave, and suddenly I was attacked. I grabbed everything I could and ran, but I fear I dropped my notes. Those notes are very important to me and represent ten years of my life. If you could recover them, I'd be sure to reward you appropriately with some potent potions.
-### Locations: NONE
-### Items: Welkynd Stones - aquamarine colored crystals native to Ayleid ruins (amount: 1)
-### Enemies: NONE
-### Groups: NONE
-### Title: The Elder Scrolls IV: Oblivion
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: No Stone Unturned
+Objective: help Lithnilian recover his research notes
+First Tasks: find Lithnilian's research notes
+First Task Locations: Bramblepoint Cave - a natural cave
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - some potent potions (amount: 1)
+Characters: NONE
+Tools: Lithnilian is the first to discover Welkynd Stones growing in a natural cave
+Locations: NONE
+Items: Welkynd Stones - aquamarine colored crystals native to Ayleid ruins (amount: 1)
+Enemies: NONE
+Groups: NONE
+Title: The Elder Scrolls IV: Oblivion
+Motivation: NONE
+
+### Response:
+Ten years of research down the drain! I've been studying the Welkynd Stones. Yes, the aquamarine colored crystals usually native to Ayleid ruins. It seems I'm the first to discover them growing in a natural cave. That's about all I can say about it. I don't suppose I could convince you to help me recover my research notes? I was doing some research in Bramblepoint Cave, and suddenly I was attacked. I grabbed everything I could and ran, but I fear I dropped my notes. Those notes are very important to me and represent ten years of my life. If you could recover them, I'd be sure to reward you appropriately with some potent potions.
+

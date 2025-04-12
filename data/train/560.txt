@@ -1,15 +1,22 @@
-### Quest Name: Heavy Armor Training
-### Objective: get some useful items to Pranal, and talk to him
-### First Tasks: get a silver pitcher, and a set of four glasses
-### First Task Locations: NONE - 
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - training from Pranal (amount: 1)
-### Characters: Malene - a woman, and Pranal's crush (location: )
-### Tools: the player asked Pranal to give them heavy armor training, Pranal wants to get a gift to Malene: Pranal gives the player 50 gold to cover the costs of the gift
-### Description: You desire heavy armor training from me? Goodness me, I'm retired! I'm afraid combat doesn't interest me any more. All that matters to me now is Malene. I'm no fool. I know she'd never be interested in an old man like me. It's enough just to be around her, to be in her company. Well, if you're dead set on learning something from me, then how about you do a little something for me, first? Something for her, to be honest. I'd like to get her a gift of a sort. Nothing terribly fancy, and something useful... How about a nice silver pitcher, and a set of four glasses. Here's 50 gold to cover the costs, that should be more than enough. Come see me when you've got everything, and we'll talk more.
-### Locations: NONE
-### Items:  - gold (amount: 50)
-### Enemies: NONE
-### Groups: NONE
-### Title: The Elder Scrolls IV: Oblivion
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Heavy Armor Training
+Objective: get some useful items to Pranal, and talk to him
+First Tasks: get a silver pitcher, and a set of four glasses
+First Task Locations: NONE - 
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - training from Pranal (amount: 1)
+Characters: Malene - a woman, and Pranal's crush (location: )
+Tools: the player asked Pranal to give them heavy armor training, Pranal wants to get a gift to Malene: Pranal gives the player 50 gold to cover the costs of the gift
+Locations: NONE
+Items:  - gold (amount: 50)
+Enemies: NONE
+Groups: NONE
+Title: The Elder Scrolls IV: Oblivion
+Motivation: NONE
+
+### Response:
+You desire heavy armor training from me? Goodness me, I'm retired! I'm afraid combat doesn't interest me any more. All that matters to me now is Malene. I'm no fool. I know she'd never be interested in an old man like me. It's enough just to be around her, to be in her company. Well, if you're dead set on learning something from me, then how about you do a little something for me, first? Something for her, to be honest. I'd like to get her a gift of a sort. Nothing terribly fancy, and something useful... How about a nice silver pitcher, and a set of four glasses. Here's 50 gold to cover the costs, that should be more than enough. Come see me when you've got everything, and we'll talk more.
+

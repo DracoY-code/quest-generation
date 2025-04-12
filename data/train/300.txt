@@ -1,15 +1,22 @@
-### Quest Name: Marek and Lothander
-### Objective: get an antidote before you die of Marek's poison
-### First Tasks: talk to Haspur who can possibly reverse Lothander's geas
-### First Task Locations:  - the market square
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - an antidote (amount: 1)
-### Characters: Marek - an evil man (location: ), Haspur - a male divider (location: the marker square)
-### Tools: Marek has poisoned the player: the player has 10 days to live, Lothander wants to help the player get an antidote to the poison, Lothander was forced to work for the Iron Throne with a geas
-### Description: I am Lothander. I do not wish you harm. My partner, Marek, has poisoned you. While you slept, he slipped a slow-acting magical poison into your food. You have about ten days to live. Common priest spells won't help you. Only one thing can, and that's the antidote. I can help you find it, if you help me first. My problem is this: I don't work for the Iron Throne because I wish to but rather because I have been forced. I have been enspelled with a geas. If I do not obey everything that Marek orders of me the spell will take effect and I shall waste away. I need a way to rid myself of the spell. I know of a diviner at the market square who may have the answers I seek, but I don't have the money to pay him. Will you help me?
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: Iron Throne - a shady merchant organization
-### Title: Baldur's Gate
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Marek and Lothander
+Objective: get an antidote before you die of Marek's poison
+First Tasks: talk to Haspur who can possibly reverse Lothander's geas
+First Task Locations:  - the market square
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - an antidote (amount: 1)
+Characters: Marek - an evil man (location: ), Haspur - a male divider (location: the marker square)
+Tools: Marek has poisoned the player: the player has 10 days to live, Lothander wants to help the player get an antidote to the poison, Lothander was forced to work for the Iron Throne with a geas
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: Iron Throne - a shady merchant organization
+Title: Baldur's Gate
+Motivation: NONE
+
+### Response:
+I am Lothander. I do not wish you harm. My partner, Marek, has poisoned you. While you slept, he slipped a slow-acting magical poison into your food. You have about ten days to live. Common priest spells won't help you. Only one thing can, and that's the antidote. I can help you find it, if you help me first. My problem is this: I don't work for the Iron Throne because I wish to but rather because I have been forced. I have been enspelled with a geas. If I do not obey everything that Marek orders of me the spell will take effect and I shall waste away. I need a way to rid myself of the spell. I know of a diviner at the market square who may have the answers I seek, but I don't have the money to pay him. Will you help me?
+

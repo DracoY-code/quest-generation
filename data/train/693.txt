@@ -1,15 +1,22 @@
-### Quest Name: Purity of Revenge
-### Objective: avenge Kodlak
-### First Tasks: retrieve the fragments of Wuuthrad and wipe out the Silver Hand
-### First Task Locations: Driftshade Refuge - the headquarters of the Silver Hand
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: Kodlak - an old man, and the leader of the Companions (location: Jorrvaskr)
-### Tools: the Silver Hand attacked the Companions in Jorrvaskr, killed Kodlak, and stole the fragments of Wuuthrad
-### Description: The Silver Hand attacked us. They finally found enough courage to attack Jorrvaskr. We fought them off, but... The old man... Kodlak... he's dead. No one else got hurt, but they made off with all our fragments of Wuuthrad. But you and I are going to reclaim them. We will bring the battle to their chief camp, Driftshade Refuge. There will be none left living to tell their stories. Only songs of Jorrvaskr will be sung. We will avenge Kodlak. And they will know terror before the end.
-### Locations: Jorrvaskr - the mead hall of the Companions (location: NONE)
-### Items: Wuuthrad - a legendary battleaxe (amount: 1)
-### Enemies: NONE
-### Groups: Silver Hand - a bandit gang who hate the Companions, Companions - a band of honorable warriors
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Purity of Revenge
+Objective: avenge Kodlak
+First Tasks: retrieve the fragments of Wuuthrad and wipe out the Silver Hand
+First Task Locations: Driftshade Refuge - the headquarters of the Silver Hand
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: Kodlak - an old man, and the leader of the Companions (location: Jorrvaskr)
+Tools: the Silver Hand attacked the Companions in Jorrvaskr, killed Kodlak, and stole the fragments of Wuuthrad
+Locations: Jorrvaskr - the mead hall of the Companions (location: NONE)
+Items: Wuuthrad - a legendary battleaxe (amount: 1)
+Enemies: NONE
+Groups: Silver Hand - a bandit gang who hate the Companions, Companions - a band of honorable warriors
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+The Silver Hand attacked us. They finally found enough courage to attack Jorrvaskr. We fought them off, but... The old man... Kodlak... he's dead. No one else got hurt, but they made off with all our fragments of Wuuthrad. But you and I are going to reclaim them. We will bring the battle to their chief camp, Driftshade Refuge. There will be none left living to tell their stories. Only songs of Jorrvaskr will be sung. We will avenge Kodlak. And they will know terror before the end.
+

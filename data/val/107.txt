@@ -1,15 +1,22 @@
-### Quest Name: A Drink to Win
-### Objective: win the drinking contest against Sam Guevenne
-### First Tasks: start drinking with Sam Guevenne
-### First Task Locations: NONE - 
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - a staff (amount: 1)
-### Characters: NONE
-### Tools: NONE
-### Description: You look like someone who can hold their liquor. How about a friendly contest to win a staff? Ha! So you think that I don't have a chance against you. We'll see about that. This is a special brew, very strong stuff. Let's get started.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: A Drink to Win
+Objective: win the drinking contest against Sam Guevenne
+First Tasks: start drinking with Sam Guevenne
+First Task Locations: NONE - 
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - a staff (amount: 1)
+Characters: NONE
+Tools: NONE
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+You look like someone who can hold their liquor. How about a friendly contest to win a staff? Ha! So you think that I don't have a chance against you. We'll see about that. This is a special brew, very strong stuff. Let's get started.
+

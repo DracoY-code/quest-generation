@@ -1,15 +1,22 @@
-### Quest Name: The Curse?
-### Objective: investigate the strange things that have occurred during the production of the play
-### First Tasks: talk to the person who has offered to help with the curse
-### First Task Locations: NONE - 
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: NONE
-### Tools: the player is the patron of the playhouse, Higgold and others are making progress in rehearsals, but strange things have been happening, actors believe there is a curse assailing them
-### Description: You... would not believe what has been occurring. We are finally making progress in rehearsals, and now... other things are happening... We've had props inexplicably fall from tables! A cistern broke and ruined an entire backdrop! An actress slipped yesterday and almost broke her foot! There's been other strange things, too... noises during the night, creakings and moanings. One of the stagers almost died falling out of the rafters! All the actors are frightened; they believe the curse is assailing us, and I... am beginning to believe it too. Oh, what a fool I was to disregard it! You are the patron of the playhouse... I need you to talk to someone who has offered to help.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: Baldur's Gate II: Shadows of Amn
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: The Curse?
+Objective: investigate the strange things that have occurred during the production of the play
+First Tasks: talk to the person who has offered to help with the curse
+First Task Locations: NONE - 
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: NONE
+Tools: the player is the patron of the playhouse, Higgold and others are making progress in rehearsals, but strange things have been happening, actors believe there is a curse assailing them
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: Baldur's Gate II: Shadows of Amn
+Motivation: NONE
+
+### Response:
+You... would not believe what has been occurring. We are finally making progress in rehearsals, and now... other things are happening... We've had props inexplicably fall from tables! A cistern broke and ruined an entire backdrop! An actress slipped yesterday and almost broke her foot! There's been other strange things, too... noises during the night, creakings and moanings. One of the stagers almost died falling out of the rafters! All the actors are frightened; they believe the curse is assailing us, and I... am beginning to believe it too. Oh, what a fool I was to disregard it! You are the patron of the playhouse... I need you to talk to someone who has offered to help.
+

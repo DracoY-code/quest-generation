@@ -1,15 +1,22 @@
-### Quest Name: Elisif's Tribute
-### Objective: help Elisif the Fair make the offering to Talos to complete her husband's burial
-### First Tasks: take Torygg's war horn to the shrine
-### First Task Locations:  - a hidden shrine to Talos
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: Torygg - Elisif the Fair's dead husband (location: ), Talos - the hero-god of humans (location: )
-### Tools: Talos worship is outlawed in the Empire: when they buried Torygg, Elisif the Fair made offerings to all the gods except Talos
-### Description: There's something... personal... I was hoping you would do for me. As you may know Talos worship is outlawed in the Empire. When we buried my husband I made offerings to all the gods... except Talos. My husband Torygg would want a proper burial. I would like you to take an item of his, a war horn handed down from his father, and place it at a Shrine of Talos. It would mean a lot to me.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Elisif's Tribute
+Objective: help Elisif the Fair make the offering to Talos to complete her husband's burial
+First Tasks: take Torygg's war horn to the shrine
+First Task Locations:  - a hidden shrine to Talos
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: Torygg - Elisif the Fair's dead husband (location: ), Talos - the hero-god of humans (location: )
+Tools: Talos worship is outlawed in the Empire: when they buried Torygg, Elisif the Fair made offerings to all the gods except Talos
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+There's something... personal... I was hoping you would do for me. As you may know Talos worship is outlawed in the Empire. When we buried my husband I made offerings to all the gods... except Talos. My husband Torygg would want a proper burial. I would like you to take an item of his, a war horn handed down from his father, and place it at a Shrine of Talos. It would mean a lot to me.
+

@@ -1,15 +1,22 @@
-### Quest Name: Find the Missing Caravans
-### Objective: Investigate and determine the fate of missing trade caravans.
-### First Tasks: Speak to Butch at the Far Go Traders., Gather information about the missing caravans., Investigate possible leads, including attacks by raiders or super mutants.
-### First Task Locations: Far Go Traders - A major trading company in the wasteland, concerned about missing caravans.
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: Caps - Payment for uncovering the mystery and resolving the issue. (amount: Varies)
-### Characters: NONE
-### Tools: Investigative skills, Combat abilities, Speech or barter (for persuasion)
-### Description: Several caravans have gone missing, and the Far Go Traders need someone to uncover the truth. The player must investigate various leads, including attacks by raiders, possible super mutant involvement, or betrayals within the trading companies.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: Fallout
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Find the Missing Caravans
+Objective: Investigate and determine the fate of missing trade caravans.
+First Tasks: Speak to Butch at the Far Go Traders., Gather information about the missing caravans., Investigate possible leads, including attacks by raiders or super mutants.
+First Task Locations: Far Go Traders - A major trading company in the wasteland, concerned about missing caravans.
+Quest Giver: NONE - NONE (location: NONE)
+Reward: Caps - Payment for uncovering the mystery and resolving the issue. (amount: Varies)
+Characters: NONE
+Tools: Investigative skills, Combat abilities, Speech or barter (for persuasion)
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: Fallout
+Motivation: NONE
+
+### Response:
+Several caravans have gone missing, and the Far Go Traders need someone to uncover the truth. The player must investigate various leads, including attacks by raiders, possible super mutant involvement, or betrayals within the trading companies.
+

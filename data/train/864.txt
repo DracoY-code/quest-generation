@@ -1,15 +1,22 @@
-### Quest Name: Blunt Training
-### Objective: become Irene Metrick's equal in killing
-### First Tasks: kill 50 people
-### First Task Locations: NONE - 
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - blunt weapons training from Irene Metrick (amount: 1)
-### Characters: NONE
-### Tools: NONE
-### Description: I'm Irene Metrick. If you needed to know more, you'd already know. How many people have you killed in your lifetime, eh? Not as many as I, my little friend. When we're equals, you might interest me and get some blunt weapons training out of it. If you've killed fifty people, it's still not enough for my tastes, but I might reconsider training you at that point. Leave some bloody trails and tell yourself they all deserved it. Right? Ha, ha.
-### Locations: NONE
-### Items: NONE
-### Enemies:  - people (amount: 50)
-### Groups: NONE
-### Title: The Elder Scrolls IV: Oblivion
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Blunt Training
+Objective: become Irene Metrick's equal in killing
+First Tasks: kill 50 people
+First Task Locations: NONE - 
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - blunt weapons training from Irene Metrick (amount: 1)
+Characters: NONE
+Tools: NONE
+Locations: NONE
+Items: NONE
+Enemies:  - people (amount: 50)
+Groups: NONE
+Title: The Elder Scrolls IV: Oblivion
+Motivation: NONE
+
+### Response:
+I'm Irene Metrick. If you needed to know more, you'd already know. How many people have you killed in your lifetime, eh? Not as many as I, my little friend. When we're equals, you might interest me and get some blunt weapons training out of it. If you've killed fifty people, it's still not enough for my tastes, but I might reconsider training you at that point. Leave some bloody trails and tell yourself they all deserved it. Right? Ha, ha.
+

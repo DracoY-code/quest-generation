@@ -1,15 +1,22 @@
-### Quest Name: Fleeting Strength
-### Objective: give a Potion of Strength to Mister Meek
-### First Tasks: obtain a Potion of Strength
-### First Task Locations: NONE - 
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - diamond (amount: 1)
-### Characters: NONE
-### Tools: Mister Meek has heard that the player help people
-### Description: You're the one who's been helping people, right? Well, now you could help me too. You see, I need to get my hands on a Potion of Strength. I'm not the strongest person around: for once, I'd like to carry things around as if they were mere feathers. Give me the potion, and receive a precious diamond in return.
-### Locations: NONE
-### Items: Potion of Strength - a strength potion (amount: 1)
-### Enemies: NONE
-### Groups: NONE
-### Title: Minecraft
-### Motivation: comfort
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Fleeting Strength
+Objective: give a Potion of Strength to Mister Meek
+First Tasks: obtain a Potion of Strength
+First Task Locations: NONE - 
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - diamond (amount: 1)
+Characters: NONE
+Tools: Mister Meek has heard that the player help people
+Locations: NONE
+Items: Potion of Strength - a strength potion (amount: 1)
+Enemies: NONE
+Groups: NONE
+Title: Minecraft
+Motivation: comfort
+
+### Response:
+You're the one who's been helping people, right? Well, now you could help me too. You see, I need to get my hands on a Potion of Strength. I'm not the strongest person around: for once, I'd like to carry things around as if they were mere feathers. Give me the potion, and receive a precious diamond in return.
+

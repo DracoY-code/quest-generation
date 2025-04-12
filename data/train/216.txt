@@ -1,15 +1,22 @@
-### Quest Name: Government Relations
-### Objective: help Ama kill Sir Greshal
-### First Tasks: meet Ama after dark
-### First Task Locations: Waukeen's Promenade - a marketplace
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: Sir Greshal - a male government official (location: ), Shadowmaster - a guildmaster of the Shadow Thieves (location: )
-### Tools: the player is a Shadowmaster of the Shadow Thieves, Sir Greshal has been trying to muscle into a relationship with the Shadow Thieves, Sir Greshal wishes to be introduced to a Shadow Thieves' contact here in the city: that contact will be the player, Ama will dispense a runner to get Sir Greshal after the player meets her
-### Description: My name is Ama, and I am Shadowmaster of Eastern Esmeltaran. I would like you to participate in a little rendezvous and help in the removal of a pest. There is a government official, Sir Greshal, causing us no end of trouble with his tariffs and spot checks on caravans. This fool thinks he can stifle the thieving trade of an entire city. He has been trying to muscle into a relationship with the Shadow Thieves, and while we could pay, it is better that we send a message to any of his cohorts. I have come here with a promise of granting his wishes, but I only want to lure him away from his palisade defenses. This is where you come in. Sir Greshal wishes to be introduced to a contact here in the city, and that contact will be you. The meeting is already set up, and when he arrives, we will take him by surprise. You are known somewhat in this place, if not as a guildmaster. He will believe you are a legitimate contact. He seems willing to believe anything, so long as it is theatrical. It will be any evening that is best for you. I will await you in Waukeen's Promenade after dark and then dispense a runner to get Sir Greshal. The suddenness will seem dramatic to him.
-### Locations: Eastern Esmeltaran - a far-away land (location: NONE)
-### Items: NONE
-### Enemies: NONE
-### Groups: Shadow Thieves - a guild of thieves
-### Title: Baldur's Gate II: Shadows of Amn
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Government Relations
+Objective: help Ama kill Sir Greshal
+First Tasks: meet Ama after dark
+First Task Locations: Waukeen's Promenade - a marketplace
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: Sir Greshal - a male government official (location: ), Shadowmaster - a guildmaster of the Shadow Thieves (location: )
+Tools: the player is a Shadowmaster of the Shadow Thieves, Sir Greshal has been trying to muscle into a relationship with the Shadow Thieves, Sir Greshal wishes to be introduced to a Shadow Thieves' contact here in the city: that contact will be the player, Ama will dispense a runner to get Sir Greshal after the player meets her
+Locations: Eastern Esmeltaran - a far-away land (location: NONE)
+Items: NONE
+Enemies: NONE
+Groups: Shadow Thieves - a guild of thieves
+Title: Baldur's Gate II: Shadows of Amn
+Motivation: NONE
+
+### Response:
+My name is Ama, and I am Shadowmaster of Eastern Esmeltaran. I would like you to participate in a little rendezvous and help in the removal of a pest. There is a government official, Sir Greshal, causing us no end of trouble with his tariffs and spot checks on caravans. This fool thinks he can stifle the thieving trade of an entire city. He has been trying to muscle into a relationship with the Shadow Thieves, and while we could pay, it is better that we send a message to any of his cohorts. I have come here with a promise of granting his wishes, but I only want to lure him away from his palisade defenses. This is where you come in. Sir Greshal wishes to be introduced to a contact here in the city, and that contact will be you. The meeting is already set up, and when he arrives, we will take him by surprise. You are known somewhat in this place, if not as a guildmaster. He will believe you are a legitimate contact. He seems willing to believe anything, so long as it is theatrical. It will be any evening that is best for you. I will await you in Waukeen's Promenade after dark and then dispense a runner to get Sir Greshal. The suddenness will seem dramatic to him.
+

@@ -1,15 +1,22 @@
-### Quest Name: Breaking the Siege
-### Objective: free the Guardian of Mana
-### First Tasks: fight your way past the Ezrohir to the Guardian of Mana
-### First Task Locations: Riftkeep - a nearby fortress that was designated as a neutral ground, where the Zeraphi and the Ezrohir could meet and talk over their differences, now occupied by the Ezrohir
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: Guardian of Mana - a powerful spirit (location: Riftkeep)
-### Tools: NONE
-### Description: When the Zeraphi and Ezrohir "parted ways," they designated the nearby fortress of Riftkeep as a neutral ground, where they could meet and talk over their differences. But it has remained unused for centuries... until a few weeks ago, when the Ezrohir army seized the fortress. They have occupied it ever since, and that is surely where they are holding the Guardian of Mana while they marshal their forces. The Ezrohir will be expecting the Zeraphi to attack them at Riftkeep, to attempt to rescue the Guardian. But they know it will take time for the Zeraphi to arrive. You can get there much more quickly, and fight your way inside before they are prepared to repel you. Go. Fight past the Ezrohir and free the Guardian!
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: Ezrohir - a hostile race of people, originally a faction of the Zeraphi, Zeraphi - a race of people, the player's allies
-### Title: Torchlight II
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Breaking the Siege
+Objective: free the Guardian of Mana
+First Tasks: fight your way past the Ezrohir to the Guardian of Mana
+First Task Locations: Riftkeep - a nearby fortress that was designated as a neutral ground, where the Zeraphi and the Ezrohir could meet and talk over their differences, now occupied by the Ezrohir
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: Guardian of Mana - a powerful spirit (location: Riftkeep)
+Tools: NONE
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: Ezrohir - a hostile race of people, originally a faction of the Zeraphi, Zeraphi - a race of people, the player's allies
+Title: Torchlight II
+Motivation: NONE
+
+### Response:
+When the Zeraphi and Ezrohir "parted ways," they designated the nearby fortress of Riftkeep as a neutral ground, where they could meet and talk over their differences. But it has remained unused for centuries... until a few weeks ago, when the Ezrohir army seized the fortress. They have occupied it ever since, and that is surely where they are holding the Guardian of Mana while they marshal their forces. The Ezrohir will be expecting the Zeraphi to attack them at Riftkeep, to attempt to rescue the Guardian. But they know it will take time for the Zeraphi to arrive. You can get there much more quickly, and fight your way inside before they are prepared to repel you. Go. Fight past the Ezrohir and free the Guardian!
+

@@ -1,15 +1,22 @@
-### Quest Name: Who's the Big Star?
-### Objective: do not upset the member of the city council who is among the audience of the play
-### First Tasks: play Velden in the play
-### First Task Locations:  - playhouse
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: Zaren - an actor who plays Velden (location: ), Velden - the main character of the play (location: )
-### Tools: the player is Higgold's patron, and a bard, Zaren is ill: the player must replace him, the player observed the rehearsals of the play
-### Description: Ooooh... my patron... We have a real problem. A very large problem. A gigantic problem! One of... one of the council members is here... or, at least, I believe he is one! On opening night! This... this could make or break the playhouse! And Zaren... Zaren is ill! Deathly ill! He cannot even move from his bed! I see only one chance... it's too late for anything else... You must play Velden. You are a bard, naturally gifted... you observed our rehearsals. Please, my patron, I'm begging you! This could be the biggest chance for all of us! And... and we mustn't upset the council member! PLEASE, you must do it!
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: Baldur's Gate II: Shadows of Amn
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Who's the Big Star?
+Objective: do not upset the member of the city council who is among the audience of the play
+First Tasks: play Velden in the play
+First Task Locations:  - playhouse
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: Zaren - an actor who plays Velden (location: ), Velden - the main character of the play (location: )
+Tools: the player is Higgold's patron, and a bard, Zaren is ill: the player must replace him, the player observed the rehearsals of the play
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: Baldur's Gate II: Shadows of Amn
+Motivation: NONE
+
+### Response:
+Ooooh... my patron... We have a real problem. A very large problem. A gigantic problem! One of... one of the council members is here... or, at least, I believe he is one! On opening night! This... this could make or break the playhouse! And Zaren... Zaren is ill! Deathly ill! He cannot even move from his bed! I see only one chance... it's too late for anything else... You must play Velden. You are a bard, naturally gifted... you observed our rehearsals. Please, my patron, I'm begging you! This could be the biggest chance for all of us! And... and we mustn't upset the council member! PLEASE, you must do it!
+

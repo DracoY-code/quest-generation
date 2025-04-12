@@ -1,15 +1,22 @@
-### Quest Name: Totem of Hircine
-### Objective: find a totem of Hircine with Aela the Huntress
-### First Tasks: go with Aela the Huntress
-### First Task Locations: NONE - 
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: Harbinger - the leader of the Companions (location: ), Skjor - a dead male member of the Companions (location: ), Kodlak - a dead male member of the Companions who wanted to cure his lycanthropy (location: ), Hircine - the god of the werewolves (location: )
-### Tools: the player is the Harbinger of the Companions, Skjor and Kodlak talked about totems of Hircine: simple-looking objects that could channel the powers of the werewolf in new directions
-### Description: Harbinger, I'd be honored if you joined me in my search. I had once heard Skjor and Kodlak talking about the totems of Hircine. Simple-looking objects that could channel the powers of the werewolf in new directions. Once Kodlak began looking for his cure, I'd wager Skjor didn't bring it up again. But I was going through his things and found a book I had never seen before. All about the Totems. I've been talking to my sources around the holds, and think I may have heard where one of them lays. Want to come along and help me find this totem of Hircine?
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: Silver Hand - a bandit gang who hate the Companions
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Totem of Hircine
+Objective: find a totem of Hircine with Aela the Huntress
+First Tasks: go with Aela the Huntress
+First Task Locations: NONE - 
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: Harbinger - the leader of the Companions (location: ), Skjor - a dead male member of the Companions (location: ), Kodlak - a dead male member of the Companions who wanted to cure his lycanthropy (location: ), Hircine - the god of the werewolves (location: )
+Tools: the player is the Harbinger of the Companions, Skjor and Kodlak talked about totems of Hircine: simple-looking objects that could channel the powers of the werewolf in new directions
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: Silver Hand - a bandit gang who hate the Companions
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+Harbinger, I'd be honored if you joined me in my search. I had once heard Skjor and Kodlak talking about the totems of Hircine. Simple-looking objects that could channel the powers of the werewolf in new directions. Once Kodlak began looking for his cure, I'd wager Skjor didn't bring it up again. But I was going through his things and found a book I had never seen before. All about the Totems. I've been talking to my sources around the holds, and think I may have heard where one of them lays. Want to come along and help me find this totem of Hircine?
+

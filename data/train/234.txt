@@ -1,15 +1,22 @@
-### Quest Name: Harsh Master
-### Objective: take care of a runaway sailor and his gang of thieves
-### First Tasks: find the runaway sailor
-### First Task Locations: NONE - 
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - a year's worth of pay (amount: 1)
-### Characters: NONE
-### Tools: NONE
-### Description: The North Wind is my mistress, and I'm her master. I don't tolerate any disloyalty. You looking for work? Got a sailor who thought running a gang of thieves would be more money than hauling my cargo. You make an example of that gang, I'll give you a year's worth of pay.  Don't spend it all on mead.
-### Locations: North Wind - a ship (location: NONE)
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Harsh Master
+Objective: take care of a runaway sailor and his gang of thieves
+First Tasks: find the runaway sailor
+First Task Locations: NONE - 
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - a year's worth of pay (amount: 1)
+Characters: NONE
+Tools: NONE
+Locations: North Wind - a ship (location: NONE)
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+The North Wind is my mistress, and I'm her master. I don't tolerate any disloyalty. You looking for work? Got a sailor who thought running a gang of thieves would be more money than hauling my cargo. You make an example of that gang, I'll give you a year's worth of pay.  Don't spend it all on mead.
+

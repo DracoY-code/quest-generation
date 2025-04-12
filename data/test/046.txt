@@ -1,15 +1,22 @@
-### Quest Name: Light the Dragonfires
-### Objective: light the Dragonfires with Martin to close the Gates of Oblivion and stop Mehrunes Dagon's invasion
-### First Tasks: escort Martin to High Chancellor Ocato, who is waiting for you both
-### First Task Locations: Imperial City - a large city
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: Mankar Camoran - an evil man serving Mehrunes Dagon (location: ), High Chancellor Ocato - the head of the Elder Council (location: Imperial City), Mehrunes Dagon - an evil god (location: Oblivion)
-### Tools: Martin sent a messenger to High Chancellor Ocato while the player was killing Mankar Camoran, the Elder Council rules in the Emperor's absence: they should not object to crowning Martin the Emperor
-### Description: While you were gone, I sent a messenger to High Chancellor Ocato. He waits for us in the Imperial City. Chancellor Ocato is the head of the Elder Council. The Council rules in the Emperor's absence. I don't expect any objections from the Elder Council, but we should defer to their authority. Let's go to the Imperial City at once, before the enemy can recover from Mankar Camoran's death. Until we light the Dragonfires, the Gates are open, and Mehrunes Dagon's invasion continues.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: Elder Council - a government body
-### Title: The Elder Scrolls IV: Oblivion
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Light the Dragonfires
+Objective: light the Dragonfires with Martin to close the Gates of Oblivion and stop Mehrunes Dagon's invasion
+First Tasks: escort Martin to High Chancellor Ocato, who is waiting for you both
+First Task Locations: Imperial City - a large city
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: Mankar Camoran - an evil man serving Mehrunes Dagon (location: ), High Chancellor Ocato - the head of the Elder Council (location: Imperial City), Mehrunes Dagon - an evil god (location: Oblivion)
+Tools: Martin sent a messenger to High Chancellor Ocato while the player was killing Mankar Camoran, the Elder Council rules in the Emperor's absence: they should not object to crowning Martin the Emperor
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: Elder Council - a government body
+Title: The Elder Scrolls IV: Oblivion
+Motivation: NONE
+
+### Response:
+
+

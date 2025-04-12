@@ -1,15 +1,22 @@
-### Quest Name: Surgery
-### Objective: change your appearance
-### First Tasks: give 1,000 gold to the flesh sculptor for her services
-### First Task Locations: NONE - 
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - a new appearance (amount: 1)
-### Characters: NONE
-### Tools: NONE
-### Description: Are you interested in my services? I warn you, my skills do not come cheaply. Hmm, I suppose I can work with your face. After all, the sculptor cannot always choose the finest clay. Shall I remake your face?  It is no small thing to submit yourself to the flesh sculptor's knife. Just give me 1,000 gold and tell me what you desire - beauty or hideous deformity, nothing is beyond my skill.
-### Locations: NONE
-### Items:  - gold (amount: 1000)
-### Enemies: NONE
-### Groups: NONE
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Surgery
+Objective: change your appearance
+First Tasks: give 1,000 gold to the flesh sculptor for her services
+First Task Locations: NONE - 
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - a new appearance (amount: 1)
+Characters: NONE
+Tools: NONE
+Locations: NONE
+Items:  - gold (amount: 1000)
+Enemies: NONE
+Groups: NONE
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+Are you interested in my services? I warn you, my skills do not come cheaply. Hmm, I suppose I can work with your face. After all, the sculptor cannot always choose the finest clay. Shall I remake your face?  It is no small thing to submit yourself to the flesh sculptor's knife. Just give me 1,000 gold and tell me what you desire - beauty or hideous deformity, nothing is beyond my skill.
+

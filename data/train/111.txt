@@ -1,15 +1,22 @@
-### Quest Name: Telrav's Request
-### Objective: help Telrav
-### First Tasks: escort Telrav back to his camp nearby
-### First Task Locations: Nilheim - ruins of a tower
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - the player will be rewarded (amount: 1)
-### Characters: NONE
-### Tools: NONE
-### Description: Bandits attacked and ransacked my cart. Can you help me? My camp is nearby in the ruins of Nilheim. Get me there safely and you'll be rewarded.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Telrav's Request
+Objective: help Telrav
+First Tasks: escort Telrav back to his camp nearby
+First Task Locations: Nilheim - ruins of a tower
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - the player will be rewarded (amount: 1)
+Characters: NONE
+Tools: NONE
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+Bandits attacked and ransacked my cart. Can you help me? My camp is nearby in the ruins of Nilheim. Get me there safely and you'll be rewarded.
+

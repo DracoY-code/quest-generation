@@ -1,15 +1,22 @@
-### Quest Name: Alatos and the Thieves' Guild
-### Objective: steal spellbook, statuette, and artifact fragment, and bring them to Alatos Thuibuld
-### First Tasks: go to Oberan's Estate
-### First Task Locations: Oberan's Estate - a house inhabited by Shandalar's daughters
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - a lot of gold (amount: 1),  - a magical weapon or two if the player performs well (amount: 1)
-### Characters: Shandalar - a local male wizard (location: Baldur's Gate), Grand Duchess Liia Jannath - a powerful female noble (location: Baldur's Gate)
-### Tools: Shandalar lives inside a Halruaan skyship, Shandalar knows how to produce Halruaan skyships: Shandalar plans to sell the knowledge of building Halruaan skyships to Grand Duchess Liia Jannath, Halruaans do not want others to obtain their skyships, spellbook, statuette, and artifact fragment are the ingredients needed to keep the skyships aloft: Shandalar's daughters have them
-### Description: I am Alatos Thuibuld, though I thank you not to mention that too often. A local wizard by the name of Shandalar makes his home in a moored Halruaan skyship. It would appear that he has the knowledge to reproduce these flying marvels and is currently organizing the sale of the recipe to Grand Duchess Liia Jannath. He has drawn up a set of rituals and has procured an artifact fragment and an ancient statuette vital to the spell that keeps the ships aloft. These he has divided amongst his daughters until the deal is to proceed. I have been contacted by a representative of the Halruaans, and they have no wish to see scores of flying ships manufactured in every port. You are to infiltrate the place of exchange that is known as Oberan's Estate, steal the ingredients, and return here with them. Simple enough. You would be well paid. Enough gold to give you a backache and, if I am well pleased, mayhaps a magical weapon or two. Perhaps a little more, perhaps a little less. It entirely depends upon your performance.
-### Locations: Baldur's Gate - a city-state (location: NONE)
-### Items:  - spellbook, statuette, and artifact fragment (amount: 1)
-### Enemies: NONE
-### Groups: Thieves' Guild - a guild of thieves, Halruaans - a race of people
-### Title: Baldur's Gate
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Alatos and the Thieves' Guild
+Objective: steal spellbook, statuette, and artifact fragment, and bring them to Alatos Thuibuld
+First Tasks: go to Oberan's Estate
+First Task Locations: Oberan's Estate - a house inhabited by Shandalar's daughters
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - a lot of gold (amount: 1),  - a magical weapon or two if the player performs well (amount: 1)
+Characters: Shandalar - a local male wizard (location: Baldur's Gate), Grand Duchess Liia Jannath - a powerful female noble (location: Baldur's Gate)
+Tools: Shandalar lives inside a Halruaan skyship, Shandalar knows how to produce Halruaan skyships: Shandalar plans to sell the knowledge of building Halruaan skyships to Grand Duchess Liia Jannath, Halruaans do not want others to obtain their skyships, spellbook, statuette, and artifact fragment are the ingredients needed to keep the skyships aloft: Shandalar's daughters have them
+Locations: Baldur's Gate - a city-state (location: NONE)
+Items:  - spellbook, statuette, and artifact fragment (amount: 1)
+Enemies: NONE
+Groups: Thieves' Guild - a guild of thieves, Halruaans - a race of people
+Title: Baldur's Gate
+Motivation: NONE
+
+### Response:
+I am Alatos Thuibuld, though I thank you not to mention that too often. A local wizard by the name of Shandalar makes his home in a moored Halruaan skyship. It would appear that he has the knowledge to reproduce these flying marvels and is currently organizing the sale of the recipe to Grand Duchess Liia Jannath. He has drawn up a set of rituals and has procured an artifact fragment and an ancient statuette vital to the spell that keeps the ships aloft. These he has divided amongst his daughters until the deal is to proceed. I have been contacted by a representative of the Halruaans, and they have no wish to see scores of flying ships manufactured in every port. You are to infiltrate the place of exchange that is known as Oberan's Estate, steal the ingredients, and return here with them. Simple enough. You would be well paid. Enough gold to give you a backache and, if I am well pleased, mayhaps a magical weapon or two. Perhaps a little more, perhaps a little less. It entirely depends upon your performance.
+

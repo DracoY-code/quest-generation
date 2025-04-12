@@ -1,15 +1,22 @@
-### Quest Name: Arcand the Mad
-### Objective: bring Mad Arcand the Stinking's ring to him
-### First Tasks: find Mad Arcand the Stinking's ring
-### First Task Locations:  - pirate ship by the ocean
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - a bottle that can burn the player (amount: 1)
-### Characters: NONE
-### Tools: Mad Arcand the Stinking's ring is cursed
-### Description: I like you, yes I do (wertle, wertle, wertle, wooo...) and I know of a way to make you like me too (wertle, wertle, wertle-wooooo...). Down by the ocean, down by the sea, there's a pirate ship waiting for you and for me. Bring me what's in it, but don't ever wear it, or sure enough, soon enough, you'll wertle too... A beautiful ring! Where to get it? (Most likely quite near where exactly I put it...) Wertle, oh wertle, oh dear wertle-wooo... wertle, oh wertle, oh woo... Oh, I know what you're thinking of Mad Arcand the Stinking who takes what you give him and gives not in return. So there is this bottle, but please don't topple or (wertle, poor wertle), you'll surely get burned.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: Baldur's Gate
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Arcand the Mad
+Objective: bring Mad Arcand the Stinking's ring to him
+First Tasks: find Mad Arcand the Stinking's ring
+First Task Locations:  - pirate ship by the ocean
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - a bottle that can burn the player (amount: 1)
+Characters: NONE
+Tools: Mad Arcand the Stinking's ring is cursed
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: Baldur's Gate
+Motivation: NONE
+
+### Response:
+I like you, yes I do (wertle, wertle, wertle, wooo...) and I know of a way to make you like me too (wertle, wertle, wertle-wooooo...). Down by the ocean, down by the sea, there's a pirate ship waiting for you and for me. Bring me what's in it, but don't ever wear it, or sure enough, soon enough, you'll wertle too... A beautiful ring! Where to get it? (Most likely quite near where exactly I put it...) Wertle, oh wertle, oh dear wertle-wooo... wertle, oh wertle, oh woo... Oh, I know what you're thinking of Mad Arcand the Stinking who takes what you give him and gives not in return. So there is this bottle, but please don't topple or (wertle, poor wertle), you'll surely get burned.
+

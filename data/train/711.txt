@@ -1,15 +1,22 @@
-### Quest Name: Zordral's Witchhunt
-### Objective: save yourself and Bentha from Zordral's wrath
-### First Tasks: kill Zordral
-### First Task Locations: NONE - 
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: Bentha - a female witch (location: Bentha's tent)
-### Tools: the player walked on Zordral while he tried to kill Bentha, Zordral believes that Bentha is evil, Zordral thinks that the player is a threat to him and tries to kill the player too
-### Description: You there, stay back! If any of you come any closer, I'll kill her. I'm serious. Don't make me do it. All I have to do is say the last word of my spell and she'll die. She's a witch. She'll use her magics to poison the children of this town. She'll butcher the livestock and she'll seduce the young men, make them her puppets. She must be killed! Are you mocking me?! No one mocks the great Zordral. You will pay for your insolence!
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: Baldur's Gate
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Zordral's Witchhunt
+Objective: save yourself and Bentha from Zordral's wrath
+First Tasks: kill Zordral
+First Task Locations: NONE - 
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: Bentha - a female witch (location: Bentha's tent)
+Tools: the player walked on Zordral while he tried to kill Bentha, Zordral believes that Bentha is evil, Zordral thinks that the player is a threat to him and tries to kill the player too
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: Baldur's Gate
+Motivation: NONE
+
+### Response:
+You there, stay back! If any of you come any closer, I'll kill her. I'm serious. Don't make me do it. All I have to do is say the last word of my spell and she'll die. She's a witch. She'll use her magics to poison the children of this town. She'll butcher the livestock and she'll seduce the young men, make them her puppets. She must be killed! Are you mocking me?! No one mocks the great Zordral. You will pay for your insolence!
+

@@ -1,15 +1,22 @@
-### Quest Name: Berries for Elmus
-### Objective: retrieve some juniper berries for Elmus
-### First Tasks: find juniper berries
-### First Task Locations: Skyrim - a province
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: NONE
-### Tools: the player helped Elmus and the others reclaim the Thirsk Mead Hall from monsters
-### Description: We lost most of the mead batches we had brewing when... before those things were here. One is just ready to take its turn, though, and it's about time to add some of the flavorings. You can't find them on Solstheim, but if you find yourself back in Skyrim, I wouldn't mind you bringing some juniper berries. They add a different kind of sweetness. Tart. Makes the flavor more round.
-### Locations: Thirsk Mead Hall - a mead hall on Solstheim (location: NONE), Solstheim - a remote island (location: NONE)
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Berries for Elmus
+Objective: retrieve some juniper berries for Elmus
+First Tasks: find juniper berries
+First Task Locations: Skyrim - a province
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: NONE
+Tools: the player helped Elmus and the others reclaim the Thirsk Mead Hall from monsters
+Locations: Thirsk Mead Hall - a mead hall on Solstheim (location: NONE), Solstheim - a remote island (location: NONE)
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+
+

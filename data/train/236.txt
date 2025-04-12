@@ -1,15 +1,22 @@
-### Quest Name: Striking the Heart
-### Objective: force the Silver Hand in hiding
-### First Tasks: assassinate a Silver Hand leader
-### First Task Locations: Orotheim - a camp in Hjaalmarch
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: NONE
-### Tools: NONE
-### Description: I've been hearing rumors of Silver Hand activity. A group of them has holed up in Hjaalmarch, in a camp called Orotheim. Assassinate their leader and the rest should go hiding. Run fast, my friend.
-### Locations: Hjaalmarch - a region (location: NONE)
-### Items: NONE
-### Enemies: NONE
-### Groups: Silver Hand - a bandit gang who hate the Companions, Companions - a band of honorable warriors
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Striking the Heart
+Objective: force the Silver Hand in hiding
+First Tasks: assassinate a Silver Hand leader
+First Task Locations: Orotheim - a camp in Hjaalmarch
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: NONE
+Tools: NONE
+Locations: Hjaalmarch - a region (location: NONE)
+Items: NONE
+Enemies: NONE
+Groups: Silver Hand - a bandit gang who hate the Companions, Companions - a band of honorable warriors
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+I've been hearing rumors of Silver Hand activity. A group of them has holed up in Hjaalmarch, in a camp called Orotheim. Assassinate their leader and the rest should go hiding. Run fast, my friend.
+

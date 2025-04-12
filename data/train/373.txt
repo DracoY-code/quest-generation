@@ -1,15 +1,22 @@
-### Quest Name: Season Unending
-### Objective: negotiate a truce between Ulfric and General Tullius
-### First Tasks: ask the Greybeards hold a peace council
-### First Task Locations: High Hrothgar - the secluded home of the Greybeards, and neutral territory to both sides of the war
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - Jarl Balgruuf the Greater will help the player (amount: 1)
-### Characters: Ulfric - the man leading one side of the war (location: ), General Tullius - the man leading the other side of the war (location: ), Dragonborn - the player (location: )
-### Tools: the player asked Balgruuf the Greater to help the player trap a dragon in Whiterun: Ulfric and General Tullius want to capture Whiterun, getting both sides of war to agree to a truce will be difficult at this point
-### Description: I want to help you, Dragonborn. And I will. But I need your help first. Ulfric and General Tullius are both just waiting for me to make a wrong move. Do you think they will sit idle while a dragon is slaughtering my men and burning my city? No. I can't risk weakening the city while we are under the threat of enemy attack. I'm sorry. If only you could negotiate a truce between Ulfric and General Tullius. Then I would be glad to help you with your mad dragon-trapping scheme. But getting both sides to agree to a truce will be difficult at this point. The bitterness has gone too deep. Maybe... hmm... what of the Greybeards? They are respected by everyone. High Hrothgar is neutral territory. If the Greybeards were willing to host a peace council... then maybe Ulfric and Tullius would have to listen.
-### Locations: Whiterun - a city (location: NONE)
-### Items: NONE
-### Enemies: NONE
-### Groups: Greybeards - an order of respected, wise old men
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Season Unending
+Objective: negotiate a truce between Ulfric and General Tullius
+First Tasks: ask the Greybeards hold a peace council
+First Task Locations: High Hrothgar - the secluded home of the Greybeards, and neutral territory to both sides of the war
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - Jarl Balgruuf the Greater will help the player (amount: 1)
+Characters: Ulfric - the man leading one side of the war (location: ), General Tullius - the man leading the other side of the war (location: ), Dragonborn - the player (location: )
+Tools: the player asked Balgruuf the Greater to help the player trap a dragon in Whiterun: Ulfric and General Tullius want to capture Whiterun, getting both sides of war to agree to a truce will be difficult at this point
+Locations: Whiterun - a city (location: NONE)
+Items: NONE
+Enemies: NONE
+Groups: Greybeards - an order of respected, wise old men
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+I want to help you, Dragonborn. And I will. But I need your help first. Ulfric and General Tullius are both just waiting for me to make a wrong move. Do you think they will sit idle while a dragon is slaughtering my men and burning my city? No. I can't risk weakening the city while we are under the threat of enemy attack. I'm sorry. If only you could negotiate a truce between Ulfric and General Tullius. Then I would be glad to help you with your mad dragon-trapping scheme. But getting both sides to agree to a truce will be difficult at this point. The bitterness has gone too deep. Maybe... hmm... what of the Greybeards? They are respected by everyone. High Hrothgar is neutral territory. If the Greybeards were willing to host a peace council... then maybe Ulfric and Tullius would have to listen.
+

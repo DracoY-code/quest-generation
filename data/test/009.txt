@@ -1,15 +1,22 @@
-### Quest Name: Mine or Yours
-### Objective: help Filnjar by clearing out spiders from the Redbelly Mine
-### First Tasks: kill the spiders
-### First Task Locations: Redbelly Mine - a mine
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - money (amount: 1)
-### Characters: Grogmar - a male miner (location: )
-### Tools: the spiders of Redbelly Mine almost killed Grogmar and Filnjar
-### Description: Sorry, the Redbelly Mine's dry right now. What's wrong with the mine, you might ask. It's full of spiders, that's what's wrong with it! Almost killed Grogmar and me when they showed up. I'm worried that they'll come out of the mine looking for food soon... then we're in even bigger trouble. You'd  clear them out for us? Tell you what. Keep to your word, and I'll line your pockets with as much as I can scrape up.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Mine or Yours
+Objective: help Filnjar by clearing out spiders from the Redbelly Mine
+First Tasks: kill the spiders
+First Task Locations: Redbelly Mine - a mine
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - money (amount: 1)
+Characters: Grogmar - a male miner (location: )
+Tools: the spiders of Redbelly Mine almost killed Grogmar and Filnjar
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+
+

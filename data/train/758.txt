@@ -1,15 +1,22 @@
-### Quest Name: Whom Gods Annoy
-### Objective: make the scamps go away from Rosentia Gallenus' home
-### First Tasks: dispose of the Daedric Staff
-### First Task Locations: Darkfathom Cave - a cave
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: Ring of Eidolon's Edge - a ring (amount: 1)
-### Characters: NONE
-### Tools: Rosentia Gallenus bought a cheap Daedric Staff: four scamps appeared after Rosentia Gallenus spoke the runic word carved on the Daedric Staff while holding it, the four scamps follow Rosentia Gallenus everywhere, Rosentia Gallenus can't compel herself to let go of the Daedric Staff
-### Description: These stupid scamps are driving me crazy! I'm at my wit's end! I, Rosentia Gallenus, beg you to help me! The beastly little creatures are nasty, smelly, noisy and wrecking my beautiful house! I must be rid of them! I can't let people know I have scamps in here, or they'll think I've taken to Daedra worship. Try explaining that to the town guard. I had a feeling buying that Daedric Staff would be trouble. Now I'm paying for it with more than just some gold. A few weeks ago, a spellsword was passing through Leyawiin and heard that I like to buy curiosities. He wanted to sell the staff you see me carrying. I eagerly bought it, knowing the value of Daedric relics. In fact, I was a bit suspicious when he sold it so cheap. His loss, my gain I figured. After examining it for a bit I noticed a small word carved on it in runes. Using a book from my library, I translated it. The word was nonsense. However, when I spoke it and held the staff, four scamps suddenly appeared! I thought I was done for! Strangely, they all just stood there. It didn't take long before I realized they were following me! I couldn't be seen in town with scamps following, so I decided to discard the staff. I can't explain it, but somehow I can't compel myself to actually let it go. This staff is obviously cursed! Now I'm stuck with it. Oh please, I beg you! Take this staff to Darkfathom Cave and get rid of it and the scamps forever! I can't fight, and who knows what's guarding the shrine? Plus, do you know how dirty caves are? It'll ruin anything I wear! Do this for me, and I'll reward you with another one of my curios I picked up a few years ago... a valuable ring. Ring of Eidolon's Edge.
-### Locations: Leyawiin - a city (location: NONE)
-### Items: Daedric Staff - a cursed staff (amount: 1)
-### Enemies: NONE
-### Groups: scamps - little, beastly, nasty, smelly and noisy Daedra, Daedra - unpredictable, immortal, infamous beings
-### Title: The Elder Scrolls IV: Oblivion
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Whom Gods Annoy
+Objective: make the scamps go away from Rosentia Gallenus' home
+First Tasks: dispose of the Daedric Staff
+First Task Locations: Darkfathom Cave - a cave
+Quest Giver: NONE - NONE (location: NONE)
+Reward: Ring of Eidolon's Edge - a ring (amount: 1)
+Characters: NONE
+Tools: Rosentia Gallenus bought a cheap Daedric Staff: four scamps appeared after Rosentia Gallenus spoke the runic word carved on the Daedric Staff while holding it, the four scamps follow Rosentia Gallenus everywhere, Rosentia Gallenus can't compel herself to let go of the Daedric Staff
+Locations: Leyawiin - a city (location: NONE)
+Items: Daedric Staff - a cursed staff (amount: 1)
+Enemies: NONE
+Groups: scamps - little, beastly, nasty, smelly and noisy Daedra, Daedra - unpredictable, immortal, infamous beings
+Title: The Elder Scrolls IV: Oblivion
+Motivation: NONE
+
+### Response:
+These stupid scamps are driving me crazy! I'm at my wit's end! I, Rosentia Gallenus, beg you to help me! The beastly little creatures are nasty, smelly, noisy and wrecking my beautiful house! I must be rid of them! I can't let people know I have scamps in here, or they'll think I've taken to Daedra worship. Try explaining that to the town guard. I had a feeling buying that Daedric Staff would be trouble. Now I'm paying for it with more than just some gold. A few weeks ago, a spellsword was passing through Leyawiin and heard that I like to buy curiosities. He wanted to sell the staff you see me carrying. I eagerly bought it, knowing the value of Daedric relics. In fact, I was a bit suspicious when he sold it so cheap. His loss, my gain I figured. After examining it for a bit I noticed a small word carved on it in runes. Using a book from my library, I translated it. The word was nonsense. However, when I spoke it and held the staff, four scamps suddenly appeared! I thought I was done for! Strangely, they all just stood there. It didn't take long before I realized they were following me! I couldn't be seen in town with scamps following, so I decided to discard the staff. I can't explain it, but somehow I can't compel myself to actually let it go. This staff is obviously cursed! Now I'm stuck with it. Oh please, I beg you! Take this staff to Darkfathom Cave and get rid of it and the scamps forever! I can't fight, and who knows what's guarding the shrine? Plus, do you know how dirty caves are? It'll ruin anything I wear! Do this for me, and I'll reward you with another one of my curios I picked up a few years ago... a valuable ring. Ring of Eidolon's Edge.
+

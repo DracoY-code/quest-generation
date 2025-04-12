@@ -1,15 +1,22 @@
-### Quest Name: Obtain flint to have Mynoc sharpen your spear
-### Objective: Find a piece of flint so Mynoc can sharpen your spear.
-### First Tasks: Locate someone in Arroyo who has flint., Acquire the flint through trade or persuasion., Bring the flint to Mynoc for sharpening.
-### First Task Locations: Arroyo Village - A small tribal village where Mynoc resides.
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: Sharpened Spear - An improved version of the standard spear with better damage. (amount: 1)
-### Characters: NONE
-### Tools: N, O, N, E
-### Description: Mynoc, a craftsman in Arroyo, offers to sharpen your spear if you can bring him a piece of flint. The flint can be obtained from another villager through trade or conversation.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: Fallout 2
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Obtain flint to have Mynoc sharpen your spear
+Objective: Find a piece of flint so Mynoc can sharpen your spear.
+First Tasks: Locate someone in Arroyo who has flint., Acquire the flint through trade or persuasion., Bring the flint to Mynoc for sharpening.
+First Task Locations: Arroyo Village - A small tribal village where Mynoc resides.
+Quest Giver: NONE - NONE (location: NONE)
+Reward: Sharpened Spear - An improved version of the standard spear with better damage. (amount: 1)
+Characters: NONE
+Tools: N, O, N, E
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: Fallout 2
+Motivation: NONE
+
+### Response:
+Mynoc, a craftsman in Arroyo, offers to sharpen your spear if you can bring him a piece of flint. The flint can be obtained from another villager through trade or conversation.
+

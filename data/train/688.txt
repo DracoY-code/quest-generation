@@ -1,15 +1,22 @@
-### Quest Name: New Materials
-### Objective: bring 10 scutes to Dean
-### First Tasks: obtain 10 scutes from turtles
-### First Task Locations:  - sandy beaches
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - a stack of leather (amount: 1)
-### Characters: NONE
-### Tools: Dean has heard that the player helps people
-### Description: I have made all sorts of things from leather: tunics, hats, and even little tent-houses. There's nothing new I can create... Could you perhaps help me out of this sea of creative depression? You do help people? Please find me a new material to work with! Perhaps turtle scutes would work... Please help me get my hands on ten scutes: you can get them from turtles on sandy beaches. I'll give you a stack of leather for your services!
-### Locations: NONE
-### Items:  - scutes (amount: 10)
-### Enemies: NONE
-### Groups: NONE
-### Title: Minecraft
-### Motivation: knowledge
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: New Materials
+Objective: bring 10 scutes to Dean
+First Tasks: obtain 10 scutes from turtles
+First Task Locations:  - sandy beaches
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - a stack of leather (amount: 1)
+Characters: NONE
+Tools: Dean has heard that the player helps people
+Locations: NONE
+Items:  - scutes (amount: 10)
+Enemies: NONE
+Groups: NONE
+Title: Minecraft
+Motivation: knowledge
+
+### Response:
+I have made all sorts of things from leather: tunics, hats, and even little tent-houses. There's nothing new I can create... Could you perhaps help me out of this sea of creative depression? You do help people? Please find me a new material to work with! Perhaps turtle scutes would work... Please help me get my hands on ten scutes: you can get them from turtles on sandy beaches. I'll give you a stack of leather for your services!
+

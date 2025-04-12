@@ -1,15 +1,22 @@
-### Quest Name: Knights Rescue
-### Objective: rescue the knights of the Most Noble Order of the Radiant Heart
-### First Tasks: repel the invasion to the Amnian outpost
-### First Task Locations: Umar Hills - hills
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: NONE
-### Tools: the player is a member of the Most Noble Order of the Radiant Heart, Sythillisian Empire has invaded Amnian lands
-### Description: Welcome. I, William Reirrac, have been awaiting you. You should know the particulars of your service here and what being a member of the Most Noble Order of the Radiant Heart really means. You are aware of the conflict with the Sythillisian Empire? There have been invasions into Amnian lands. We have been monitoring outposts, and all is not well. One outpost reported an imminent attack because an enemy unit needed their supplies. A runner barely made it with the information, and we fear the worst. You must leave immediately for the furthest lengths of the Umar Hills. You must join the combat and rescue our knights, for they are surely outnumbered. Go, and rescue whom you can. You have little time.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: Most Noble Order of the Radiant Heart - an order of holy knights, Sythillisian Empire - a hostile empire
-### Title: Baldur's Gate II: Shadows of Amn
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Knights Rescue
+Objective: rescue the knights of the Most Noble Order of the Radiant Heart
+First Tasks: repel the invasion to the Amnian outpost
+First Task Locations: Umar Hills - hills
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: NONE
+Tools: the player is a member of the Most Noble Order of the Radiant Heart, Sythillisian Empire has invaded Amnian lands
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: Most Noble Order of the Radiant Heart - an order of holy knights, Sythillisian Empire - a hostile empire
+Title: Baldur's Gate II: Shadows of Amn
+Motivation: NONE
+
+### Response:
+Welcome. I, William Reirrac, have been awaiting you. You should know the particulars of your service here and what being a member of the Most Noble Order of the Radiant Heart really means. You are aware of the conflict with the Sythillisian Empire? There have been invasions into Amnian lands. We have been monitoring outposts, and all is not well. One outpost reported an imminent attack because an enemy unit needed their supplies. A runner barely made it with the information, and we fear the worst. You must leave immediately for the furthest lengths of the Umar Hills. You must join the combat and rescue our knights, for they are surely outnumbered. Go, and rescue whom you can. You have little time.
+

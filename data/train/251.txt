@@ -1,15 +1,22 @@
-### Quest Name: Rebuilding the Blades
-### Objective: recruit new members for the Blades
-### First Tasks: find anyone who would make a good Blades recruit and bring them to Delphine
-### First Task Locations: NONE - 
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - the player should ask Esbern about the dragon lairs his been studying: the Blades recruits will do some dragon hunting with the player (amount: 1)
-### Characters: Esbern - a male scholar, and a member of the Blades (location: )
-### Tools: the Thalmor hunted the Blades down, but the Blades have a headquarters of a sort now: it's time to rebuild the Blades, being a Blade is a lifelong commitment
-### Description: The Thalmor hunted us down. It wasn't exactly great for recruitment. But we have a headquarters of a sort now. We'll rebuild the Blades. If you find anyone you think would make a good recruit, I can certainly take a look at them. Remember, though, being a Blade is a lifelong commitment. Their loyalty has to be with us once they're in. After you have recruited enough new Blades, ask Esbern about the dragon lairs he's been studying. We'll have the recruits do some dragon hunting with you.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: Thalmor - enemies of the Blades, Blades - an intelligence organization
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Rebuilding the Blades
+Objective: recruit new members for the Blades
+First Tasks: find anyone who would make a good Blades recruit and bring them to Delphine
+First Task Locations: NONE - 
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - the player should ask Esbern about the dragon lairs his been studying: the Blades recruits will do some dragon hunting with the player (amount: 1)
+Characters: Esbern - a male scholar, and a member of the Blades (location: )
+Tools: the Thalmor hunted the Blades down, but the Blades have a headquarters of a sort now: it's time to rebuild the Blades, being a Blade is a lifelong commitment
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: Thalmor - enemies of the Blades, Blades - an intelligence organization
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+The Thalmor hunted us down. It wasn't exactly great for recruitment. But we have a headquarters of a sort now. We'll rebuild the Blades. If you find anyone you think would make a good recruit, I can certainly take a look at them. Remember, though, being a Blade is a lifelong commitment. Their loyalty has to be with us once they're in. After you have recruited enough new Blades, ask Esbern about the dragon lairs he's been studying. We'll have the recruits do some dragon hunting with you.
+

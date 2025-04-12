@@ -1,15 +1,22 @@
-### Quest Name: Xvart Raids
-### Objective: save Hulrik's cows
-### First Tasks: kill the xvarts that are attacking the cows
-### First Task Locations: NONE - 
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: NONE
-### Tools: xvarts and kobolds swarmed the Nashkel mines, xvarts and kobolds have started attacking livestock more and more often
-### Description: I'm Hulrik! You have to help me! Them xvarts are after my cows again! Ever since them xvarts an' their kobold kin swarmed the mines at Nashkel, they've been makin' attacks like that more and more often.
-### Locations: Nashkel - a town (location: NONE)
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: Baldur's Gate
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Xvart Raids
+Objective: save Hulrik's cows
+First Tasks: kill the xvarts that are attacking the cows
+First Task Locations: NONE - 
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: NONE
+Tools: xvarts and kobolds swarmed the Nashkel mines, xvarts and kobolds have started attacking livestock more and more often
+Locations: Nashkel - a town (location: NONE)
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: Baldur's Gate
+Motivation: NONE
+
+### Response:
+I'm Hulrik! You have to help me! Them xvarts are after my cows again! Ever since them xvarts an' their kobold kin swarmed the mines at Nashkel, they've been makin' attacks like that more and more often.
+

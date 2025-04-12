@@ -1,15 +1,22 @@
-### Quest Name: Deliver Big Jesus's package to Ramirez at the Stables
-### Objective: Take a package from Big Jesus Mordino and deliver it to Ramirez at the Stables.
-### First Tasks: Speak to Big Jesus Mordino at the Mordino Casino in New Reno., Receive the package from Big Jesus., Travel to the Stables outside New Reno., Find Ramirez and hand over the package.
-### First Task Locations: Mordino Casino - Big Jesus Mordino operates from his casino in New Reno., The Stables - A location outside New Reno where Jet production takes place.
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: Caps Reward - Earn $500 upon successful delivery. (amount: NONE), Mordino Reputation - Increased standing with the Mordino family. (amount: NONE)
-### Characters: NONE
-### Tools: Speech or Barter skills may help if complications arise., Weapons in case of ambush on the way.
-### Description: Big Jesus Mordino needs a package delivered to Ramirez at the Stables. Complete the delivery to earn money and reputation with the Mordino family.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: Fallout 2
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Deliver Big Jesus's package to Ramirez at the Stables
+Objective: Take a package from Big Jesus Mordino and deliver it to Ramirez at the Stables.
+First Tasks: Speak to Big Jesus Mordino at the Mordino Casino in New Reno., Receive the package from Big Jesus., Travel to the Stables outside New Reno., Find Ramirez and hand over the package.
+First Task Locations: Mordino Casino - Big Jesus Mordino operates from his casino in New Reno., The Stables - A location outside New Reno where Jet production takes place.
+Quest Giver: NONE - NONE (location: NONE)
+Reward: Caps Reward - Earn $500 upon successful delivery. (amount: NONE), Mordino Reputation - Increased standing with the Mordino family. (amount: NONE)
+Characters: NONE
+Tools: Speech or Barter skills may help if complications arise., Weapons in case of ambush on the way.
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: Fallout 2
+Motivation: NONE
+
+### Response:
+Big Jesus Mordino needs a package delivered to Ramirez at the Stables. Complete the delivery to earn money and reputation with the Mordino family.
+

@@ -1,15 +1,22 @@
-### Quest Name: The Jagged Crown
-### Objective: find the Jagged Crown for Ulfric
-### First Tasks: meet Galmar Stone-Fist and your fellow Stormcloaks
-### First Task Locations:  - outside Korvanjund
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: Ulfric - the man who leads the Stormcloaks, and who has declared himself the High King (location: ), King Borgas - a long-dead king (location: Korvanjund)
-### Tools: the High King always wore the Jagged Crown: the Jagged Crown is said to contain a portion of the power of every king who has worn it
-### Description: I've found the final resting place of the Jagged Crown. Can you believe it? Well, I'm almost certain. The High King always wore the Jagged Crown. It was the symbol of his might and power. The crown is made from the bones and teeth of ancient dragons, and it is said to contain a portion of the power of every king who has worn it. True or not, who would dare deny Ulfric's claim, when the legendary Jagged Crown sits upon his brow? We're headed to Korvanjund. But, if old King Borgas is indeed buried there, we're bound to run into trouble of some kind. Your fellow Stormcloaks are already assembling outside the tomb. I'll meet you there as soon as I'm finished up here.
-### Locations: Korvanjund - the tomb of King Borgas (location: NONE)
-### Items: Jagged Crown - a crown made from the bones and teeth of ancient dragons that symbolizes the power and might of a High King (amount: 1)
-### Enemies: NONE
-### Groups: Stormcloaks - rebel forces opposing the Empire
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: The Jagged Crown
+Objective: find the Jagged Crown for Ulfric
+First Tasks: meet Galmar Stone-Fist and your fellow Stormcloaks
+First Task Locations:  - outside Korvanjund
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: Ulfric - the man who leads the Stormcloaks, and who has declared himself the High King (location: ), King Borgas - a long-dead king (location: Korvanjund)
+Tools: the High King always wore the Jagged Crown: the Jagged Crown is said to contain a portion of the power of every king who has worn it
+Locations: Korvanjund - the tomb of King Borgas (location: NONE)
+Items: Jagged Crown - a crown made from the bones and teeth of ancient dragons that symbolizes the power and might of a High King (amount: 1)
+Enemies: NONE
+Groups: Stormcloaks - rebel forces opposing the Empire
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+
+

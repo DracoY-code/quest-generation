@@ -1,15 +1,22 @@
-### Quest Name: Sanuarach Mine
-### Objective: help Ainethach keep Sanuarach Mine
-### First Tasks: convince sellswords to leave
-### First Task Locations: Karthwasten - a mining village
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: NONE
-### Tools: the Silver-Bloods are trying to get hold of Sanuarach Mine, sellswords showed up after Forsworn attacked Sanuarach Mine: sellswords won't let anyone work until Ainethach sells it off
-### Description: The Silver-Bloods are trying to muscle in on my land. Forsworn attack the mines, and suddenly all these sellswords show up in Karthwasten to 'help.' They won't let anyone work until I sell it off. You can try to convince them to leave, but I'd keep your sword-arm ready if things get ugly.
-### Locations: Sanuarach Mine - mines (location: NONE)
-### Items: NONE
-### Enemies: NONE
-### Groups: Silver-Bloods - a greedy, rich family of mine owners
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Sanuarach Mine
+Objective: help Ainethach keep Sanuarach Mine
+First Tasks: convince sellswords to leave
+First Task Locations: Karthwasten - a mining village
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: NONE
+Tools: the Silver-Bloods are trying to get hold of Sanuarach Mine, sellswords showed up after Forsworn attacked Sanuarach Mine: sellswords won't let anyone work until Ainethach sells it off
+Locations: Sanuarach Mine - mines (location: NONE)
+Items: NONE
+Enemies: NONE
+Groups: Silver-Bloods - a greedy, rich family of mine owners
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+The Silver-Bloods are trying to muscle in on my land. Forsworn attack the mines, and suddenly all these sellswords show up in Karthwasten to 'help.' They won't let anyone work until I sell it off. You can try to convince them to leave, but I'd keep your sword-arm ready if things get ugly.
+

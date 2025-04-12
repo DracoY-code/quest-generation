@@ -1,15 +1,22 @@
-### Quest Name: Understanding Madness
-### Objective: meet the Duke of Mania and the Duchess of Dementia, and join their courts
-### First Tasks: seek out the Duke of Mania and the Duchess of Dementia
-### First Task Locations: Sheogorath's Palace - a palace in New Sheoth
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - you'll make some friends along the way (amount: 1)
-### Characters: Haskill - Sheogorath's Chamberlain who knows a lot (location: ), Duke of Mania - a male noble serving Sheogorath (location: Sheogorath's Palace), Duchess of Dementia - a female noble serving Sheogorath (location: Sheogorath's Palace)
-### Tools: Sheogorath gives the player summon Haskill spell for their previous services, the Duke of Mania and the Duchess of Dementia show the player what New Sheoth truly is, once the player understands what Sheogorath's Realm is, the player might understand why it's important to keep it intact
-### Description: I'm Sheogorath, Prince of Madness. And other things. I'm not talking about them. As you should know by now. You've run a maze like a good little rat, but no cheese for you yet. Well, maybe a little. I've granted you a new spell - the ability to summon Haskill, my Chamberlain, to aid you in your travels. He knows a lot. More than he knows. Now we're going to give you a taste of where you have found yourself. You're going to learn. Two halves, two rulers, two places within my palace. Meet and greet. Do what they will, so you know what they're about. The Duke of Mania and the Duchess of Dementia. Seek them out, and let them show you what New Sheoth is. You might be surprised. Once you understand what My Realm is, you might understand why it's important to keep it intact. And maybe you'll make some friends along the way. That's always nice!
-### Locations: New Sheoth - the capital city of Sheogorath's realm (location: NONE)
-### Items: NONE
-### Enemies: NONE
-### Groups: Daedric Princes - immortal, fickle, infamous divine beings
-### Title: The Elder Scrolls IV: Oblivion
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Understanding Madness
+Objective: meet the Duke of Mania and the Duchess of Dementia, and join their courts
+First Tasks: seek out the Duke of Mania and the Duchess of Dementia
+First Task Locations: Sheogorath's Palace - a palace in New Sheoth
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - you'll make some friends along the way (amount: 1)
+Characters: Haskill - Sheogorath's Chamberlain who knows a lot (location: ), Duke of Mania - a male noble serving Sheogorath (location: Sheogorath's Palace), Duchess of Dementia - a female noble serving Sheogorath (location: Sheogorath's Palace)
+Tools: Sheogorath gives the player summon Haskill spell for their previous services, the Duke of Mania and the Duchess of Dementia show the player what New Sheoth truly is, once the player understands what Sheogorath's Realm is, the player might understand why it's important to keep it intact
+Locations: New Sheoth - the capital city of Sheogorath's realm (location: NONE)
+Items: NONE
+Enemies: NONE
+Groups: Daedric Princes - immortal, fickle, infamous divine beings
+Title: The Elder Scrolls IV: Oblivion
+Motivation: NONE
+
+### Response:
+I'm Sheogorath, Prince of Madness. And other things. I'm not talking about them. As you should know by now. You've run a maze like a good little rat, but no cheese for you yet. Well, maybe a little. I've granted you a new spell - the ability to summon Haskill, my Chamberlain, to aid you in your travels. He knows a lot. More than he knows. Now we're going to give you a taste of where you have found yourself. You're going to learn. Two halves, two rulers, two places within my palace. Meet and greet. Do what they will, so you know what they're about. The Duke of Mania and the Duchess of Dementia. Seek them out, and let them show you what New Sheoth is. You might be surprised. Once you understand what My Realm is, you might understand why it's important to keep it intact. And maybe you'll make some friends along the way. That's always nice!
+

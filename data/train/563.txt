@@ -1,15 +1,22 @@
-### Quest Name: Return to the Enclave
-### Objective: stop the Alchemist before he can drain the two Guardians in the Ossean Wastes
-### First Tasks: talk to Commander Vale about getting to the Ossean Wastes
-### First Task Locations: Enclave - a settlement
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: Alchemist - a male pawn of the Netherim (location: ), Commander Vale - a female military leader (location: Enclave)
-### Tools: Guardian of the Wild fears that the Alchemist uses the power of the Guardians to open a portal to the Nether Realm, plunging the world into eternal chaos
-### Description: I fear the Alchemist is a pawn of the Netherim. With the power of the Guardians, a portal to the Nether Realm could be thrown wide, and the world would be plunged into an age of never-ending torment. Return to the Enclave immediately. Commander Vale can help you secure passage to the Ossean Wastes, where two of my fellow Guardians can be found. Stop the Alchemist before he can drain them as well!
-### Locations: Ossean Wastes - a desert (location: NONE)
-### Items: NONE
-### Enemies: NONE
-### Groups: Guardians - powerful spirits, Netherim - evil denizens of the Nether Realm
-### Title: Torchlight II
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Return to the Enclave
+Objective: stop the Alchemist before he can drain the two Guardians in the Ossean Wastes
+First Tasks: talk to Commander Vale about getting to the Ossean Wastes
+First Task Locations: Enclave - a settlement
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: Alchemist - a male pawn of the Netherim (location: ), Commander Vale - a female military leader (location: Enclave)
+Tools: Guardian of the Wild fears that the Alchemist uses the power of the Guardians to open a portal to the Nether Realm, plunging the world into eternal chaos
+Locations: Ossean Wastes - a desert (location: NONE)
+Items: NONE
+Enemies: NONE
+Groups: Guardians - powerful spirits, Netherim - evil denizens of the Nether Realm
+Title: Torchlight II
+Motivation: NONE
+
+### Response:
+I fear the Alchemist is a pawn of the Netherim. With the power of the Guardians, a portal to the Nether Realm could be thrown wide, and the world would be plunged into an age of never-ending torment. Return to the Enclave immediately. Commander Vale can help you secure passage to the Ossean Wastes, where two of my fellow Guardians can be found. Stop the Alchemist before he can drain them as well!
+

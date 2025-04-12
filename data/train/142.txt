@@ -1,15 +1,22 @@
-### Quest Name: Solve Phil’s Canine Conundrum
-### Objective: Help Phil retrieve his lost dog, Roxie.
-### First Tasks: Talk to Phil to learn about Roxie’s disappearance., Search the surrounding area for Roxie., Lead Roxie back to Phil safely.
-### First Task Locations: Junktown - The town where Phil and his missing dog, Roxie, are located., Nearby Junkyard - A potential location where Roxie might be found.
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: Caps - Phil’s gratitude in the form of a small sum of money. (amount: 100), Karma Increase - Helping Phil improves the player's reputation. (amount: 1)
-### Characters: NONE
-### Tools: Tracking Skill, Speech, Animal Handling
-### Description: Phil in Junktown has lost his beloved dog, Roxie. The player must search for the missing canine, either by following clues or asking around. Successfully bringing Roxie back to Phil rewards the player with caps and a reputation boost.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: Fallout
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Solve Phil’s Canine Conundrum
+Objective: Help Phil retrieve his lost dog, Roxie.
+First Tasks: Talk to Phil to learn about Roxie’s disappearance., Search the surrounding area for Roxie., Lead Roxie back to Phil safely.
+First Task Locations: Junktown - The town where Phil and his missing dog, Roxie, are located., Nearby Junkyard - A potential location where Roxie might be found.
+Quest Giver: NONE - NONE (location: NONE)
+Reward: Caps - Phil’s gratitude in the form of a small sum of money. (amount: 100), Karma Increase - Helping Phil improves the player's reputation. (amount: 1)
+Characters: NONE
+Tools: Tracking Skill, Speech, Animal Handling
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: Fallout
+Motivation: NONE
+
+### Response:
+Phil in Junktown has lost his beloved dog, Roxie. The player must search for the missing canine, either by following clues or asking around. Successfully bringing Roxie back to Phil rewards the player with caps and a reputation boost.
+

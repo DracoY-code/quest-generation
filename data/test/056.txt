@@ -1,15 +1,22 @@
-### Quest Name: The Sword of the Crusader
-### Objective: avenge Sir Roderic, and recover the Sword of the Crusader for yourself
-### First Tasks: find the the wraith of Sir Berich
-### First Task Locations: Underpall Cave - not a cave - a buried keep hosting Sir Berich's tomb
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: Sword of the Crusader - a holy sword (amount: 1)
-### Characters: Sir Roderic - a holy knight (location: Underpall Cave), Sir Berich - a questing knight of old (location: Underpall Cave)
-### Tools: the player is a holy knight, Sir Roderic is dead: he was questing for the holy Relics at the Prophet's call with Lathon, Sir Roderic prayed at all the shrines, and received a disturbing vision featuring Sir Berich: Sir Berich had found the Greaves of the Crusader and the Sword of the Crusader, but had then turned to evil, Sir Roderic found the Relics and the wraith of Sir Berich within Sir Berich's tomb: Sir Roderic shouted for Lathon to take the Greaves of the Crusader, Lathon gives the player the Greaves of the Crusader, the wraith of Sir Berich attacked Sir Roderic with the Sword of the Crusader
-### Description: Sir knight! I have terrible news. Sir Roderic... I think he's dead. Sir Roderic was a holy knight, like you, questing for the Relics at the Prophet's call. I, Lathon, was his squire. I believed he was chosen by the gods to reclaim the Relics. At first things were going well. He prayed at all the shrines, and received a vision. A disturbing vision. "The shade of Sir Berich spoke to me," was all he said. "We must put him to rest." He said that Sir Berich's tomb was in Underpall Cave -- which is no cave, but some kind of buried keep. He had learned that Sir Berich had once been a questing knight, like us. He had found the Greaves and Sword of the Crusader, but then turned to evil. Sir Roderic hoped to find the Relics within Sir Berich's tomb. And he did. But we also found a terrible guardian -- the wraith of Sir Berich. I brought you... Sir Roderic shouted for me to take them... the Greaves of the Crusader. The holy Relic. They're yours. The wraith used the Sword of the Crusader against Sir Roderic. I don't know how that evil thing could use the holy weapon, but it did. You must avenge Sir Roderic by killing the foul wraith and get yourself the Sword of the Crusader!
-### Locations: NONE
-### Items: Greaves of the Crusader - holy greaves (amount: 1)
-### Enemies: NONE
-### Groups: NONE
-### Title: The Elder Scrolls IV: Oblivion
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: The Sword of the Crusader
+Objective: avenge Sir Roderic, and recover the Sword of the Crusader for yourself
+First Tasks: find the the wraith of Sir Berich
+First Task Locations: Underpall Cave - not a cave - a buried keep hosting Sir Berich's tomb
+Quest Giver: NONE - NONE (location: NONE)
+Reward: Sword of the Crusader - a holy sword (amount: 1)
+Characters: Sir Roderic - a holy knight (location: Underpall Cave), Sir Berich - a questing knight of old (location: Underpall Cave)
+Tools: the player is a holy knight, Sir Roderic is dead: he was questing for the holy Relics at the Prophet's call with Lathon, Sir Roderic prayed at all the shrines, and received a disturbing vision featuring Sir Berich: Sir Berich had found the Greaves of the Crusader and the Sword of the Crusader, but had then turned to evil, Sir Roderic found the Relics and the wraith of Sir Berich within Sir Berich's tomb: Sir Roderic shouted for Lathon to take the Greaves of the Crusader, Lathon gives the player the Greaves of the Crusader, the wraith of Sir Berich attacked Sir Roderic with the Sword of the Crusader
+Locations: NONE
+Items: Greaves of the Crusader - holy greaves (amount: 1)
+Enemies: NONE
+Groups: NONE
+Title: The Elder Scrolls IV: Oblivion
+Motivation: NONE
+
+### Response:
+
+

@@ -1,15 +1,22 @@
-### Quest Name: The Shill Job
-### Objective: frame Carlotta Valentia to get her out of the way
-### First Tasks: place an item as evidence inside Carlotta Valentia's home
-### First Task Locations: NONE - 
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: Carlotta Valentia - a woman who pissed off the wrong person (location: )
-### Tools: the Thieves Guild gets rid of people without killing them, unlike the Dark Brotherhood
-### Description: When a client needs us to eliminate another, we don't operate like the Dark Brotherhood. We find alternate means to get them out of the way. We send you to plant some phony evidence in the mark's house, and then tip off the town guard... the rest takes care of itself. Sound like you can handle it? Go place an item as evidence inside Carlotta Valentia's home. She must have ticked-off our client badly. The client's impatient and keeps asking if the job's done. Can you get him off my back?
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: Thieves Guild - a guild of thieves, Dark Brotherhood - a guild of assassins
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: The Shill Job
+Objective: frame Carlotta Valentia to get her out of the way
+First Tasks: place an item as evidence inside Carlotta Valentia's home
+First Task Locations: NONE - 
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: Carlotta Valentia - a woman who pissed off the wrong person (location: )
+Tools: the Thieves Guild gets rid of people without killing them, unlike the Dark Brotherhood
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: Thieves Guild - a guild of thieves, Dark Brotherhood - a guild of assassins
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+When a client needs us to eliminate another, we don't operate like the Dark Brotherhood. We find alternate means to get them out of the way. We send you to plant some phony evidence in the mark's house, and then tip off the town guard... the rest takes care of itself. Sound like you can handle it? Go place an item as evidence inside Carlotta Valentia's home. She must have ticked-off our client badly. The client's impatient and keeps asking if the job's done. Can you get him off my back?
+

@@ -1,15 +1,22 @@
-### Quest Name: Mourning Never Comes
-### Objective: assassinate an ex-lover for Muiri
-### First Tasks: speak with Muiri, set up the contract with her, and fulfill it
-### First Task Locations: The Hag's Cure - an apothecary in Markarth
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - Astrid will let the player keep whatever Muiri pays, as this is the player's first assassination contract (amount: 1)
-### Characters: Muiri - the apothecary's female assistant (location: The Hag's Cure)
-### Tools: Muiri has performed the Black Sacrament, do whatever Muiri wishes, be professional, represent the Dark Brotherhood well, and get the job done
-### Description: Ah, there you are. We've got some business to discuss. You must go to the city of Markarth, and speak with the apothecary's assistant. You'll probably find her in the shop, The Hag's Cure. The girl's been running her mouth, wants an ex-lover killed. She's apparently performed the Black Sacrament. Her name is Muiri. I need you to talk to her, set up the contract, and carry it out. Just do whatever the contact wishes. Be professional, represent us well, and get the job done. Since it's your first contract, I'll let you keep whatever Muiri pays. She'll be generous, I'm sure. They always are.
-### Locations: Markarth - a city (location: NONE)
-### Items: Black Sacrament - a ritual to employ the services of the Dark Brotherhood (amount: 1)
-### Enemies: NONE
-### Groups: Dark Brotherhood - a guild of assassins
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Mourning Never Comes
+Objective: assassinate an ex-lover for Muiri
+First Tasks: speak with Muiri, set up the contract with her, and fulfill it
+First Task Locations: The Hag's Cure - an apothecary in Markarth
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - Astrid will let the player keep whatever Muiri pays, as this is the player's first assassination contract (amount: 1)
+Characters: Muiri - the apothecary's female assistant (location: The Hag's Cure)
+Tools: Muiri has performed the Black Sacrament, do whatever Muiri wishes, be professional, represent the Dark Brotherhood well, and get the job done
+Locations: Markarth - a city (location: NONE)
+Items: Black Sacrament - a ritual to employ the services of the Dark Brotherhood (amount: 1)
+Enemies: NONE
+Groups: Dark Brotherhood - a guild of assassins
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+Ah, there you are. We've got some business to discuss. You must go to the city of Markarth, and speak with the apothecary's assistant. You'll probably find her in the shop, The Hag's Cure. The girl's been running her mouth, wants an ex-lover killed. She's apparently performed the Black Sacrament. Her name is Muiri. I need you to talk to her, set up the contract, and carry it out. Just do whatever the contact wishes. Be professional, represent us well, and get the job done. Since it's your first contract, I'll let you keep whatever Muiri pays. She'll be generous, I'm sure. They always are.
+

@@ -1,15 +1,22 @@
-### Quest Name: Safety First
-### Objective: give a turtle shell to Pete
-### First Tasks: obtain a turtle shell
-### First Task Locations:  - sandy beaches
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - a diamond sword (amount: 1)
-### Characters: NONE
-### Tools: NONE
-### Description: Me hurt me often. Other village-people suggest me get a helmet to protect me head. Me seen turtles on sandy beaches. They never get hurt, because they hide in thick shells. You give me a turtle shell? Make me safe? Me give you this sharp stick in return. It a diamond sword. It pretty, but me hurt plenty after touching it.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: Minecraft
-### Motivation: comfort
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Safety First
+Objective: give a turtle shell to Pete
+First Tasks: obtain a turtle shell
+First Task Locations:  - sandy beaches
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - a diamond sword (amount: 1)
+Characters: NONE
+Tools: NONE
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: Minecraft
+Motivation: comfort
+
+### Response:
+Me hurt me often. Other village-people suggest me get a helmet to protect me head. Me seen turtles on sandy beaches. They never get hurt, because they hide in thick shells. You give me a turtle shell? Make me safe? Me give you this sharp stick in return. It a diamond sword. It pretty, but me hurt plenty after touching it.
+

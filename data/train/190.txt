@@ -1,15 +1,22 @@
-### Quest Name: Bolstering the Ranks
-### Objective: find Florentius and recruit him into the Dawnguard
-### First Tasks: ask Isran whether he knows where Florentius is
-### First Task Locations: NONE - 
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: Florentius - a former priest of Arkay, and an eccentric, yet trustworthy man (location: ), Isran - a man who never got along with Florentius, and the leader of the Dawnguard (location: ), Gunmar - a male member of the Dawnguard (location: ), Arkay - the god of death (location: )
-### Tools: Gunmar and Sorine Jurard think that the Dawnguard are going to need Florentius to help against the vampires, Florentius had regular contact with the Vigilants: Isran has kept track of the Vigilants
-### Description: These vampires are a new threat, and a truly deadly one. Gunmar and I agree that we're going to need Florentius to help. Gunmar and I have a lot of work to do here, so we were hoping that maybe you could track him down. He's a priest of Arkay. Well, he was. It's... it's complicated. Florentius's a little eccentric, but we can trust him and we could definitely use his skills. Here's the thing. We don't know where Florentius is. Haven't seen him in years. I think he had regular contact with the Vigilants, and I know Isran kept track of them... So maybe you could ask Isran if he knows anything? Just keep in mind that Isran... well, he might not like the idea. The two of them just never got along.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: Dawnguard - an organization of vampire hunters, Vigilants - an order of holy warriors
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Bolstering the Ranks
+Objective: find Florentius and recruit him into the Dawnguard
+First Tasks: ask Isran whether he knows where Florentius is
+First Task Locations: NONE - 
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: Florentius - a former priest of Arkay, and an eccentric, yet trustworthy man (location: ), Isran - a man who never got along with Florentius, and the leader of the Dawnguard (location: ), Gunmar - a male member of the Dawnguard (location: ), Arkay - the god of death (location: )
+Tools: Gunmar and Sorine Jurard think that the Dawnguard are going to need Florentius to help against the vampires, Florentius had regular contact with the Vigilants: Isran has kept track of the Vigilants
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: Dawnguard - an organization of vampire hunters, Vigilants - an order of holy warriors
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+These vampires are a new threat, and a truly deadly one. Gunmar and I agree that we're going to need Florentius to help. Gunmar and I have a lot of work to do here, so we were hoping that maybe you could track him down. He's a priest of Arkay. Well, he was. It's... it's complicated. Florentius's a little eccentric, but we can trust him and we could definitely use his skills. Here's the thing. We don't know where Florentius is. Haven't seen him in years. I think he had regular contact with the Vigilants, and I know Isran kept track of them... So maybe you could ask Isran if he knows anything? Just keep in mind that Isran... well, he might not like the idea. The two of them just never got along.
+

@@ -1,15 +1,22 @@
-### Quest Name: Divide and Conquer
-### Objective: make Illagers fight each other
-### First Tasks: steal Tony's axe without being seen, kill Tom, and pin his death on Tony by planting Tony's axe on Tom's corpse
-### First Task Locations:  - an Illager camp to the northeast,  - an Illager outpost to the north
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - something highly valuable (amount: 1)
-### Characters: Tom - a male Illager captain (location: an Illager outpost to the north), Tony - a taciturn male Illager captain, a rival of Tom's (location: an Illager camp to the northeast)
-### Tools: Henrik has heard that the player help people
-### Description: You are a friend of us villagers, and have helped many of us. Now I'd like you to do something a bit... less conventional. Illagers have been bothering us for ages: we villagers are not fighters; we can't hold our own against those bloodthirsty brigands. I want you to sow distrust among their ranks: make them fight amongst themselves. I already have a plan for you to follow. There are two Illager captains, Tony and Tom, who do not exactly see eye to eye. You should go to the Illager camp to the northeast, and pinch Tony's axe without being seen. Then, move on to the Illager outpost to the north of here, kill Tom, and plant Tony's axe on Tom's body. Tony is known to be quick to anger: Tom's men will go after him, for they will assume that Tony killed their leader. Do this grueling task, and I'll have something highly valuable for you.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: Illagers - bandits
-### Title: Minecraft
-### Motivation: conquest
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Divide and Conquer
+Objective: make Illagers fight each other
+First Tasks: steal Tony's axe without being seen, kill Tom, and pin his death on Tony by planting Tony's axe on Tom's corpse
+First Task Locations:  - an Illager camp to the northeast,  - an Illager outpost to the north
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - something highly valuable (amount: 1)
+Characters: Tom - a male Illager captain (location: an Illager outpost to the north), Tony - a taciturn male Illager captain, a rival of Tom's (location: an Illager camp to the northeast)
+Tools: Henrik has heard that the player help people
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: Illagers - bandits
+Title: Minecraft
+Motivation: conquest
+
+### Response:
+You are a friend of us villagers, and have helped many of us. Now I'd like you to do something a bit... less conventional. Illagers have been bothering us for ages: we villagers are not fighters; we can't hold our own against those bloodthirsty brigands. I want you to sow distrust among their ranks: make them fight amongst themselves. I already have a plan for you to follow. There are two Illager captains, Tony and Tom, who do not exactly see eye to eye. You should go to the Illager camp to the northeast, and pinch Tony's axe without being seen. Then, move on to the Illager outpost to the north of here, kill Tom, and plant Tony's axe on Tom's body. Tony is known to be quick to anger: Tom's men will go after him, for they will assume that Tony killed their leader. Do this grueling task, and I'll have something highly valuable for you.
+

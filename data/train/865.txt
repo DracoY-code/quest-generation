@@ -1,15 +1,22 @@
-### Quest Name: Improve Shady Sands' Agriculture
-### Objective: Help Shady Sands improve their crop yields by providing information on crop rotation.
-### First Tasks: Speak with the farmers in Shady Sands about their agricultural issues.
-### First Task Locations: Shady Sands Farms - The farming area in Shady Sands where crops are grown.
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: Experience Points - Gained for providing helpful agricultural knowledge to the farmers. (amount: 500)
-### Characters: NONE
-### Tools: N, O, N, E
-### Description: The people of Shady Sands rely on agriculture for survival, but their farming techniques are inefficient. By educating the farmers about crop rotation, the Vault Dweller helps improve their food production, securing a more sustainable future for the settlement.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: Fallout
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Improve Shady Sands' Agriculture
+Objective: Help Shady Sands improve their crop yields by providing information on crop rotation.
+First Tasks: Speak with the farmers in Shady Sands about their agricultural issues.
+First Task Locations: Shady Sands Farms - The farming area in Shady Sands where crops are grown.
+Quest Giver: NONE - NONE (location: NONE)
+Reward: Experience Points - Gained for providing helpful agricultural knowledge to the farmers. (amount: 500)
+Characters: NONE
+Tools: N, O, N, E
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: Fallout
+Motivation: NONE
+
+### Response:
+The people of Shady Sands rely on agriculture for survival, but their farming techniques are inefficient. By educating the farmers about crop rotation, the Vault Dweller helps improve their food production, securing a more sustainable future for the settlement.
+

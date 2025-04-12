@@ -1,15 +1,22 @@
-### Quest Name: Hired Muscle
-### Objective: intimidate Erikur into submission without killing him
-### First Tasks: find Erikur
-### First Task Locations: Solitude - a city
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: Erikur - a man who has been causing trouble to other citizens (location: Solitude)
-### Tools: NONE
-### Description: We've gotten a letter about Erikur needing some muscle up in Solitude. I don't know what the fight is about, and that's not our business anyway. I just need you to go out there, look tough, and scare this milk drinker Erikur into submission. No more than that. I don't want to hear about a killing, understand? Go. Bring honor to yourself, and the Companions.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: Companions - a band of honorable warriors
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Hired Muscle
+Objective: intimidate Erikur into submission without killing him
+First Tasks: find Erikur
+First Task Locations: Solitude - a city
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: Erikur - a man who has been causing trouble to other citizens (location: Solitude)
+Tools: NONE
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: Companions - a band of honorable warriors
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+We've gotten a letter about Erikur needing some muscle up in Solitude. I don't know what the fight is about, and that's not our business anyway. I just need you to go out there, look tough, and scare this milk drinker Erikur into submission. No more than that. I don't want to hear about a killing, understand? Go. Bring honor to yourself, and the Companions.
+

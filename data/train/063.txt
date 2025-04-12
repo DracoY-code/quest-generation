@@ -1,15 +1,22 @@
-### Quest Name: Of Horses and Donkeys
-### Objective: test out whether horses can breed with donkeys
-### First Tasks: tame a horse, tame a donkey, breed the tamed horse with the tamed donkey
-### First Task Locations:  - plains and savannas,  - plains and savannas, NONE - 
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - some golden apples (amount: 1)
-### Characters: NONE
-### Tools: NONE
-### Description: My daddy said that horses and donkeys can make babies together. I want to see what their babies look like! You are a grown-up! You ought to know how to tame and breed animals. Please show me a baby donkey-horse! I have seen both donkeys and horses eating grass an plains and savannas. Try to tame one of both and make them breed! Show me a baby horse-donkey, and I'll give you some golden apples. They're incredibly tasty... and so shiny!
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: Minecraft
-### Motivation: knowledge
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Of Horses and Donkeys
+Objective: test out whether horses can breed with donkeys
+First Tasks: tame a horse, tame a donkey, breed the tamed horse with the tamed donkey
+First Task Locations:  - plains and savannas,  - plains and savannas, NONE - 
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - some golden apples (amount: 1)
+Characters: NONE
+Tools: NONE
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: Minecraft
+Motivation: knowledge
+
+### Response:
+My daddy said that horses and donkeys can make babies together. I want to see what their babies look like! You are a grown-up! You ought to know how to tame and breed animals. Please show me a baby donkey-horse! I have seen both donkeys and horses eating grass an plains and savannas. Try to tame one of both and make them breed! Show me a baby horse-donkey, and I'll give you some golden apples. They're incredibly tasty... and so shiny!
+

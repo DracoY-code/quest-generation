@@ -1,15 +1,22 @@
-### Quest Name: An Axe to Find
-### Objective: retrieve Glover Mallory's Ancient Nordic Pickaxe
-### First Tasks: tell Crescius Caerellius give Glover Mallory his Ancient Nordic Pickaxe back
-### First Task Locations: NONE - 
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - Glover Mallory will pay the player (amount: 1)
-### Characters: Crescius Caerellius - a foolish old man (location: )
-### Tools: NONE
-### Description: You haven't seen Crescius Caerellius have you? That foolish old man's taken my pickaxe again! I'm not fussing over a simple pickaxe. No, no, no. This isn't just your run-of-the-mill pickaxe... I'm talking about an Ancient Nordic Pickaxe. They don't exactly grow on trees, you know. An Ancient Nordic Pickaxe is the only tool tough enough to crack stalhrim, is what it is. Not many of those beauties left in the world... forging them is a lost art. Look, if you see Crescius, tell him to give me that pickaxe back and I'll pay you for the trouble.
-### Locations: NONE
-### Items: Ancient Nordic Pickaxe - a pickaxe, the only tool tough enough to crack stalhrim, becoming rare because forging them is a lost art (amount: 1)
-### Enemies: NONE
-### Groups: NONE
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: An Axe to Find
+Objective: retrieve Glover Mallory's Ancient Nordic Pickaxe
+First Tasks: tell Crescius Caerellius give Glover Mallory his Ancient Nordic Pickaxe back
+First Task Locations: NONE - 
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - Glover Mallory will pay the player (amount: 1)
+Characters: Crescius Caerellius - a foolish old man (location: )
+Tools: NONE
+Locations: NONE
+Items: Ancient Nordic Pickaxe - a pickaxe, the only tool tough enough to crack stalhrim, becoming rare because forging them is a lost art (amount: 1)
+Enemies: NONE
+Groups: NONE
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+You haven't seen Crescius Caerellius have you? That foolish old man's taken my pickaxe again! I'm not fussing over a simple pickaxe. No, no, no. This isn't just your run-of-the-mill pickaxe... I'm talking about an Ancient Nordic Pickaxe. They don't exactly grow on trees, you know. An Ancient Nordic Pickaxe is the only tool tough enough to crack stalhrim, is what it is. Not many of those beauties left in the world... forging them is a lost art. Look, if you see Crescius, tell him to give me that pickaxe back and I'll pay you for the trouble.
+

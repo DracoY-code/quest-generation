@@ -1,15 +1,22 @@
-### Quest Name: Free the Slaves in the Slave Pen for the Rangers
-### Objective: Rescue the enslaved individuals from the slaver pen and return them to the NCR Rangers.
-### First Tasks: Locate the slave pen controlled by slavers., Find a way to unlock the pen (stealth, persuasion, or combat)., Escort the freed slaves to safety or inform the NCR Rangers of their escape.
-### First Task Locations: Slave Pen - A heavily guarded area where captured individuals are kept by slavers., NCR Rangers Outpost - The headquarters where the NCR Rangers coordinate anti-slavery efforts.
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: Caps - A payment for successfully freeing the slaves. (amount: 1000), NCR Ranger Reputation - Increased standing with the NCR Rangers for aiding their cause. (amount: NONE), Karma Boost - A positive increase in karma for taking a just action. (amount: NONE)
-### Characters: NONE
-### Tools: Lockpicking to unlock the pen without detection., Speech to persuade the guards to release the slaves., Combat skills if force is required.
-### Description: The NCR Rangers have tasked you with infiltrating a slaver compound and freeing the captives. You can approach the task through stealth, persuasion, or combat, but be mindful of the risks involved. Completing this quest strengthens your ties with the NCR and boosts your karma.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: Fallout 2
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Free the Slaves in the Slave Pen for the Rangers
+Objective: Rescue the enslaved individuals from the slaver pen and return them to the NCR Rangers.
+First Tasks: Locate the slave pen controlled by slavers., Find a way to unlock the pen (stealth, persuasion, or combat)., Escort the freed slaves to safety or inform the NCR Rangers of their escape.
+First Task Locations: Slave Pen - A heavily guarded area where captured individuals are kept by slavers., NCR Rangers Outpost - The headquarters where the NCR Rangers coordinate anti-slavery efforts.
+Quest Giver: NONE - NONE (location: NONE)
+Reward: Caps - A payment for successfully freeing the slaves. (amount: 1000), NCR Ranger Reputation - Increased standing with the NCR Rangers for aiding their cause. (amount: NONE), Karma Boost - A positive increase in karma for taking a just action. (amount: NONE)
+Characters: NONE
+Tools: Lockpicking to unlock the pen without detection., Speech to persuade the guards to release the slaves., Combat skills if force is required.
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: Fallout 2
+Motivation: NONE
+
+### Response:
+The NCR Rangers have tasked you with infiltrating a slaver compound and freeing the captives. You can approach the task through stealth, persuasion, or combat, but be mindful of the risks involved. Completing this quest strengthens your ties with the NCR and boosts your karma.
+

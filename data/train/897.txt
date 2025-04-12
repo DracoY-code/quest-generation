@@ -1,15 +1,22 @@
-### Quest Name: Find Proof of Mae'Var's Treachery
-### Objective: find evidence about Mae'Var's planned betrayal
-### First Tasks: show the papers to Gorch to gain access to Mae'Var's guild house
-### First Task Locations:  - the storefront in the central docks
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - gold (amount: 10000),  - a sword (amount: 1)
-### Characters: Mae'Var - a good, ambitious male thief, the leader of Mae'Var's guild house (location: ), Shadowmaster - the guildleader of the Shadow Thieves (location: ), Gorch - a male storekeeper (location: the storefront in the central docks)
-### Tools: Renal will give the player papers which say that the player was being transferred by the Shadowmaster, the player is supposed to spy on Mae'Var from the inside, the player will need to reassure Mae'Var
-### Description: My name is Renal, as I'm sure you've been told. Renal "Bloodscalp"... a little nickname I've earned over time. Rather grisly, but it keeps the fearful in line. One of my guild houses to the south is run by a rather ambitious fellow named Mae'Var. Good thief, but I never liked him. Now I know why. I've had some hints that he is getting too big for himself. Thinking of taking my place, I suspect, but I've had no real evidence to say that this is so. I will give you papers saying you were being transferred by the Shadowmaster. You will spy on Mae'Var from the inside and find me the evidence that I need. You'll need to reassure Mae'Var, naturally. He won't know who you are, but I am confident that you are more than capable of this. Just head to the storefront in the central docks area and speak to the storekeeper, Gorch. Show the papers to him, and he'll let you in the guild house proper. I think you will find the reward adequate. 10,000 gold is no small fortune, though I think you deserve a little more. From my personal armory, a sword.
-### Locations:  - Mae'Var's guild house, one of Renal's guild houses to the south (location: NONE)
-### Items: NONE
-### Enemies: NONE
-### Groups: Shadow Thieves - a guild of thieves
-### Title: Baldur's Gate II: Shadows of Amn
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Find Proof of Mae'Var's Treachery
+Objective: find evidence about Mae'Var's planned betrayal
+First Tasks: show the papers to Gorch to gain access to Mae'Var's guild house
+First Task Locations:  - the storefront in the central docks
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - gold (amount: 10000),  - a sword (amount: 1)
+Characters: Mae'Var - a good, ambitious male thief, the leader of Mae'Var's guild house (location: ), Shadowmaster - the guildleader of the Shadow Thieves (location: ), Gorch - a male storekeeper (location: the storefront in the central docks)
+Tools: Renal will give the player papers which say that the player was being transferred by the Shadowmaster, the player is supposed to spy on Mae'Var from the inside, the player will need to reassure Mae'Var
+Locations:  - Mae'Var's guild house, one of Renal's guild houses to the south (location: NONE)
+Items: NONE
+Enemies: NONE
+Groups: Shadow Thieves - a guild of thieves
+Title: Baldur's Gate II: Shadows of Amn
+Motivation: NONE
+
+### Response:
+My name is Renal, as I'm sure you've been told. Renal "Bloodscalp"... a little nickname I've earned over time. Rather grisly, but it keeps the fearful in line. One of my guild houses to the south is run by a rather ambitious fellow named Mae'Var. Good thief, but I never liked him. Now I know why. I've had some hints that he is getting too big for himself. Thinking of taking my place, I suspect, but I've had no real evidence to say that this is so. I will give you papers saying you were being transferred by the Shadowmaster. You will spy on Mae'Var from the inside and find me the evidence that I need. You'll need to reassure Mae'Var, naturally. He won't know who you are, but I am confident that you are more than capable of this. Just head to the storefront in the central docks area and speak to the storekeeper, Gorch. Show the papers to him, and he'll let you in the guild house proper. I think you will find the reward adequate. 10,000 gold is no small fortune, though I think you deserve a little more. From my personal armory, a sword.
+

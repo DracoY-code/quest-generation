@@ -1,15 +1,22 @@
-### Quest Name: A Precious Horse
-### Objective: save Arvak from Soul Cairn
-### First Tasks: find Arvak
-### First Task Locations: Soul Cairn - a terrible dimension where souls are trapped for an eternity
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - the player will learn how to call Arvak to them (amount: 1)
-### Characters: Arvak - a male horse, belongs to the soul (location: Soul Cairn)
-### Tools: NONE
-### Description: You must help me find my Arvak. He doesn't deserve to be in a place like this! Arvak is my horse. We came to this horrible place together. We were attacked by monsters, so I told him to run. Please, he's such a loyal creature, and he's been running for so long. You have to save him! A place like this will change you... If you find him, I'll teach you how to call him to you. I'm sure he'd be much happier someplace sunnier.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: A Precious Horse
+Objective: save Arvak from Soul Cairn
+First Tasks: find Arvak
+First Task Locations: Soul Cairn - a terrible dimension where souls are trapped for an eternity
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - the player will learn how to call Arvak to them (amount: 1)
+Characters: Arvak - a male horse, belongs to the soul (location: Soul Cairn)
+Tools: NONE
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+You must help me find my Arvak. He doesn't deserve to be in a place like this! Arvak is my horse. We came to this horrible place together. We were attacked by monsters, so I told him to run. Please, he's such a loyal creature, and he's been running for so long. You have to save him! A place like this will change you... If you find him, I'll teach you how to call him to you. I'm sure he'd be much happier someplace sunnier.
+

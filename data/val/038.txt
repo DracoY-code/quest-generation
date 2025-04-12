@@ -1,15 +1,22 @@
-### Quest Name: Bear Season
-### Objective: bring the fangs of the 6 West Weald Bears as proof to Thorley Aethelred
-### First Tasks: kill 6 West Weald Bears to protect Thorley Aethelred's flock of sheep
-### First Task Locations: Shardrock - Thorley Aethelred's farm
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - Thorley Aethelred will reward the player well (amount: 1)
-### Characters: NONE
-### Tools: Thorley Aethelred built a fence around his sheep: it did not help with his bear problem
-### Description: It seems I'm having a bear problem and I just don't know what to do. I've had attacks on my small flock of sheep lately. I was hoping that building a fence would solve the problem, but it hasn't helped at all. Then, one day when I was just about to step outside, I saw the culprits. A group of West Weald Bears was dragging away a sheep carcass. There's no way I can fight those ferocious beasts off on my own. If you could thin the population a bit, they would probably leave the area. Kill six of the things, bring me their fangs as proof, and I'll reward you well. Please, you're my only hope.
-### Locations: NONE
-### Items: NONE
-### Enemies: West Weald Bears - bears (amount: 6)
-### Groups: NONE
-### Title: The Elder Scrolls IV: Oblivion
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Bear Season
+Objective: bring the fangs of the 6 West Weald Bears as proof to Thorley Aethelred
+First Tasks: kill 6 West Weald Bears to protect Thorley Aethelred's flock of sheep
+First Task Locations: Shardrock - Thorley Aethelred's farm
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - Thorley Aethelred will reward the player well (amount: 1)
+Characters: NONE
+Tools: Thorley Aethelred built a fence around his sheep: it did not help with his bear problem
+Locations: NONE
+Items: NONE
+Enemies: West Weald Bears - bears (amount: 6)
+Groups: NONE
+Title: The Elder Scrolls IV: Oblivion
+Motivation: NONE
+
+### Response:
+It seems I'm having a bear problem and I just don't know what to do. I've had attacks on my small flock of sheep lately. I was hoping that building a fence would solve the problem, but it hasn't helped at all. Then, one day when I was just about to step outside, I saw the culprits. A group of West Weald Bears was dragging away a sheep carcass. There's no way I can fight those ferocious beasts off on my own. If you could thin the population a bit, they would probably leave the area. Kill six of the things, bring me their fangs as proof, and I'll reward you well. Please, you're my only hope.
+

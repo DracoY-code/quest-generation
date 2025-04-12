@@ -1,15 +1,22 @@
-### Quest Name: Dispose of Merchant
-### Objective: Eliminate a merchant as part of an assigned task.
-### First Tasks: Locate the targeted merchant., Decide on an approach: direct combat, stealth, or deception., Avoid unwanted attention from guards or nearby NPCs.
-### First Task Locations: Merchant's Location - The merchant's shop or traveling route where they conduct business.
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: Merchant’s Inventory - Items and caps that can be looted from the merchant’s body. (amount: Varies)
-### Characters: NONE
-### Tools: Weapons, Stealth, Persuasion (if applicable)
-### Description: The player must eliminate a merchant without drawing too much attention. The approach can vary depending on stealth, combat, or social manipulation, and the consequences may impact the player’s standing with factions or towns.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: Fallout
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Dispose of Merchant
+Objective: Eliminate a merchant as part of an assigned task.
+First Tasks: Locate the targeted merchant., Decide on an approach: direct combat, stealth, or deception., Avoid unwanted attention from guards or nearby NPCs.
+First Task Locations: Merchant's Location - The merchant's shop or traveling route where they conduct business.
+Quest Giver: NONE - NONE (location: NONE)
+Reward: Merchant’s Inventory - Items and caps that can be looted from the merchant’s body. (amount: Varies)
+Characters: NONE
+Tools: Weapons, Stealth, Persuasion (if applicable)
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: Fallout
+Motivation: NONE
+
+### Response:
+The player must eliminate a merchant without drawing too much attention. The approach can vary depending on stealth, combat, or social manipulation, and the consequences may impact the player’s standing with factions or towns.
+

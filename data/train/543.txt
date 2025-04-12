@@ -1,15 +1,22 @@
-### Quest Name: Keldorn Wishes to Visit His Wife and Family
-### Objective: visit Keldorn's estate
-### First Tasks: meet Keldorn's wife and daughters with Keldorn
-### First Task Locations:  - Keldorn's estate in this district
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: NONE
-### Tools: Keldorn's tasks keep him away from home
-### Description: I am Keldorn, servant of the Most Noble Order of the Radiant Heart. My tasks for the church too often keep me away, but my estate is in this district, along with my wife and daughters. Would you like to come? I could introduce you.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: Most Noble Order of the Radiant Heart - an order of holy knights,  - Keldorn's wife and daughters
-### Title: Baldur's Gate II: Shadows of Amn
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Keldorn Wishes to Visit His Wife and Family
+Objective: visit Keldorn's estate
+First Tasks: meet Keldorn's wife and daughters with Keldorn
+First Task Locations:  - Keldorn's estate in this district
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: NONE
+Tools: Keldorn's tasks keep him away from home
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: Most Noble Order of the Radiant Heart - an order of holy knights,  - Keldorn's wife and daughters
+Title: Baldur's Gate II: Shadows of Amn
+Motivation: NONE
+
+### Response:
+I am Keldorn, servant of the Most Noble Order of the Radiant Heart. My tasks for the church too often keep me away, but my estate is in this district, along with my wife and daughters. Would you like to come? I could introduce you.
+

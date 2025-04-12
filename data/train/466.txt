@@ -1,15 +1,22 @@
-### Quest Name: Paradise
-### Objective: kill Mankar Camoran to unmake his Paradise, and retrieve the Amulet of Kings
-### First Tasks: travel through Martin's portal to Mankar Camoran's Paradise
-### First Task Locations: NONE - 
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: Mankar Camoran - a dangerous man, and the player's enemy (location: Mankar Camoran's Paradise)
-### Tools: Martin has everything in place for the Mysterium Xarxes: Martin will open the portal whenever the player is ready, the portal Martin creates through the Mysterium Xarxes will close behind the player: the player will have to find another way back, Mankar Camoran acts as the "anchor" for Paradise, just as a sigil stone anchors an Oblivion Gate in place
-### Description: I have everything in place for the ritual. I'll open the portal whenever you're ready. I don't know what you'll find in Camoran's Paradise. I do know the portal I create through the Mysterium Xarxes ritual will close behind you. You'll have to find another way back. I believe that Mankar Camoran acts as the "anchor" for Paradise, just as a sigil stone anchors an Oblivion Gate in place. Kill Mankar Camoran, and you will unmake his Paradise. Farewell, my friend. Our fate is in your hands. Bring back the Amulet of Kings. Brace yourself.
-### Locations: NONE
-### Items: Mysterium Xarxes - a ritual (amount: 1), Amulet of Kings - a powerful artifact (amount: 1)
-### Enemies: NONE
-### Groups: NONE
-### Title: The Elder Scrolls IV: Oblivion
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Paradise
+Objective: kill Mankar Camoran to unmake his Paradise, and retrieve the Amulet of Kings
+First Tasks: travel through Martin's portal to Mankar Camoran's Paradise
+First Task Locations: NONE - 
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: Mankar Camoran - a dangerous man, and the player's enemy (location: Mankar Camoran's Paradise)
+Tools: Martin has everything in place for the Mysterium Xarxes: Martin will open the portal whenever the player is ready, the portal Martin creates through the Mysterium Xarxes will close behind the player: the player will have to find another way back, Mankar Camoran acts as the "anchor" for Paradise, just as a sigil stone anchors an Oblivion Gate in place
+Locations: NONE
+Items: Mysterium Xarxes - a ritual (amount: 1), Amulet of Kings - a powerful artifact (amount: 1)
+Enemies: NONE
+Groups: NONE
+Title: The Elder Scrolls IV: Oblivion
+Motivation: NONE
+
+### Response:
+I have everything in place for the ritual. I'll open the portal whenever you're ready. I don't know what you'll find in Camoran's Paradise. I do know the portal I create through the Mysterium Xarxes ritual will close behind you. You'll have to find another way back. I believe that Mankar Camoran acts as the "anchor" for Paradise, just as a sigil stone anchors an Oblivion Gate in place. Kill Mankar Camoran, and you will unmake his Paradise. Farewell, my friend. Our fate is in your hands. Bring back the Amulet of Kings. Brace yourself.
+

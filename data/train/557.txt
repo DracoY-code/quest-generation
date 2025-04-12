@@ -1,15 +1,22 @@
-### Quest Name: Stop Brahmin Raids
-### Objective: Investigate and put an end to the brahmin raids plaguing the local ranchers.
-### First Tasks: Speak with the ranchers to gather information about the raids., Track down the source of the attacks., Deal with the raiders or creatures responsible for the raids., Report back to the ranchers after resolving the problem.
-### First Task Locations: Rancher Settlement - A small community relying on brahmin herding for survival., Raiders' Hideout - A potential location where raiders may be organizing the attacks.
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: Caps - Payment for stopping the raids. (amount: 1000), Rancher Reputation - Increased standing with the local ranchers. (amount: NONE), Possibly Loot - If raiders are involved, their supplies may be up for grabs. (amount: NONE)
-### Characters: NONE
-### Tools: Weapons for combat if raiders or creatures are responsible., Speech for negotiation in case an alternative solution is viable., Tracking skills to find the source of the raids.
-### Description: The local ranchers are struggling with repeated attacks on their brahmin herds. Your task is to investigate, find out who or what is responsible, and put an end to the raids.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: Fallout 2
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Stop Brahmin Raids
+Objective: Investigate and put an end to the brahmin raids plaguing the local ranchers.
+First Tasks: Speak with the ranchers to gather information about the raids., Track down the source of the attacks., Deal with the raiders or creatures responsible for the raids., Report back to the ranchers after resolving the problem.
+First Task Locations: Rancher Settlement - A small community relying on brahmin herding for survival., Raiders' Hideout - A potential location where raiders may be organizing the attacks.
+Quest Giver: NONE - NONE (location: NONE)
+Reward: Caps - Payment for stopping the raids. (amount: 1000), Rancher Reputation - Increased standing with the local ranchers. (amount: NONE), Possibly Loot - If raiders are involved, their supplies may be up for grabs. (amount: NONE)
+Characters: NONE
+Tools: Weapons for combat if raiders or creatures are responsible., Speech for negotiation in case an alternative solution is viable., Tracking skills to find the source of the raids.
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: Fallout 2
+Motivation: NONE
+
+### Response:
+The local ranchers are struggling with repeated attacks on their brahmin herds. Your task is to investigate, find out who or what is responsible, and put an end to the raids.
+

@@ -1,15 +1,22 @@
-### Quest Name: Coran and the Wolfweres
-### Objective: save Safana from wolfweres
-### First Tasks: kill wolfweres
-### First Task Locations:  - an encampment east of here
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: Safana - a woman, and Coran's lover (location: )
-### Tools: Coran and Safana were traveling Forest of Tethir: Safana was kidnapped by wolfweres, Coran managed to escape from wolfweres, Coran will go with the player: Coran will help the player save Safana
-### Description: Hail, good friend! I am most pleased to see you here! Your timing could not be better, as I, Coran, am in most dire need! I was traveling Forest of Tethir with my beloved Safana... and now she is kidnapped! It is dreadful! Two days ago, we were beset by giant wolves... wolfweres, I fear. They tried to take us both, but I was able to escape. Safana, however, was not so fortunate. I tracked them to an encampment east of here, but even a great warrior such as myself cannot beat them alone. We must save her and strike a blow against the foul werebeasts! Together, we shall be unstoppable!
-### Locations: Forest of Tethir - a forest (location: NONE)
-### Items: NONE
-### Enemies: NONE
-### Groups: wolfweres - wolves that can turn into humanoids
-### Title: Baldur's Gate II: Shadows of Amn
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Coran and the Wolfweres
+Objective: save Safana from wolfweres
+First Tasks: kill wolfweres
+First Task Locations:  - an encampment east of here
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: Safana - a woman, and Coran's lover (location: )
+Tools: Coran and Safana were traveling Forest of Tethir: Safana was kidnapped by wolfweres, Coran managed to escape from wolfweres, Coran will go with the player: Coran will help the player save Safana
+Locations: Forest of Tethir - a forest (location: NONE)
+Items: NONE
+Enemies: NONE
+Groups: wolfweres - wolves that can turn into humanoids
+Title: Baldur's Gate II: Shadows of Amn
+Motivation: NONE
+
+### Response:
+Hail, good friend! I am most pleased to see you here! Your timing could not be better, as I, Coran, am in most dire need! I was traveling Forest of Tethir with my beloved Safana... and now she is kidnapped! It is dreadful! Two days ago, we were beset by giant wolves... wolfweres, I fear. They tried to take us both, but I was able to escape. Safana, however, was not so fortunate. I tracked them to an encampment east of here, but even a great warrior such as myself cannot beat them alone. We must save her and strike a blow against the foul werebeasts! Together, we shall be unstoppable!
+

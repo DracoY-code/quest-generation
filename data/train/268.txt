@@ -1,15 +1,22 @@
-### Quest Name: Exclusively Here!
-### Objective: bring "An Interview With the Enderman" to Finn
-### First Tasks: convince A.R. sign an exclusivity deal with Villager
-### First Task Locations:  - a hidden camp on a mountain
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - name tags (amount: 32)
-### Characters: A.R. - a famous female novelist (location: a hidden camp on a mountain)
-### Tools: NONE
-### Description: No one cares about libraries any more! Everyone just buys their books, even though they could read them for free! There's only one thing I can do to make my library more popular: exclusive books. I'd like to secure an exclusivity deal with A.R., a very famous novelist. She has just finished her new book, "An Interview with the Enderman", while staying at a hidden camp on a mountain. Could you please get to A.R.'s camp and convince her to sign the exclusivity deal? Bring back a copy of "An Interview with the Enderman" too. I'd like to read it myself. You can have 32 name tags as a reward, keeping things named and ordered is always useful.
-### Locations: NONE
-### Items: "An Interview with the Enderman" - a new novel by A.R. (amount: 1)
-### Enemies: NONE
-### Groups: NONE
-### Title: Minecraft
-### Motivation: reputation
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Exclusively Here!
+Objective: bring "An Interview With the Enderman" to Finn
+First Tasks: convince A.R. sign an exclusivity deal with Villager
+First Task Locations:  - a hidden camp on a mountain
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - name tags (amount: 32)
+Characters: A.R. - a famous female novelist (location: a hidden camp on a mountain)
+Tools: NONE
+Locations: NONE
+Items: "An Interview with the Enderman" - a new novel by A.R. (amount: 1)
+Enemies: NONE
+Groups: NONE
+Title: Minecraft
+Motivation: reputation
+
+### Response:
+No one cares about libraries any more! Everyone just buys their books, even though they could read them for free! There's only one thing I can do to make my library more popular: exclusive books. I'd like to secure an exclusivity deal with A.R., a very famous novelist. She has just finished her new book, "An Interview with the Enderman", while staying at a hidden camp on a mountain. Could you please get to A.R.'s camp and convince her to sign the exclusivity deal? Bring back a copy of "An Interview with the Enderman" too. I'd like to read it myself. You can have 32 name tags as a reward, keeping things named and ordered is always useful.
+

@@ -1,15 +1,22 @@
-### Quest Name: A Bad Cough
-### Objective: deliver a message about medicines for miners to Quintus
-### First Tasks: find Quintus
-### First Task Locations: White Phial - an apothecary store in Windhelm
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: NONE
-### Tools: the miners need medicines to combat the ore dust
-### Description: This mine is only a few years old, but I've been digging up ore for over a century. We're getting to the point where the tunnels are getting deep into the rock. People complain of bad coughs and foul air. I've seen this before. We need some medicines to combat the ore dust. I was about to send a message to Windhelm for aid. Could you deliver that message on my behalf? Take it to Quintus, in the White Phial.
-### Locations: Windhelm - a city (location: NONE)
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: A Bad Cough
+Objective: deliver a message about medicines for miners to Quintus
+First Tasks: find Quintus
+First Task Locations: White Phial - an apothecary store in Windhelm
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: NONE
+Tools: the miners need medicines to combat the ore dust
+Locations: Windhelm - a city (location: NONE)
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+This mine is only a few years old, but I've been digging up ore for over a century. We're getting to the point where the tunnels are getting deep into the rock. People complain of bad coughs and foul air. I've seen this before. We need some medicines to combat the ore dust. I was about to send a message to Windhelm for aid. Could you deliver that message on my behalf? Take it to Quintus, in the White Phial.
+

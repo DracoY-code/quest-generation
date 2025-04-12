@@ -1,15 +1,22 @@
-### Quest Name: A Mage's Staff
-### Objective: complete your induction into the Mages Guild by creating your own staff
-### First Tasks: speak to Zahrasha or Eletta, and choose wisely
-### First Task Locations:  - the grove, to the northeast of the Imperial City, near Wellspring Cave
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - the player's own mage staff (amount: 1)
-### Characters: Zahrasha - a female mage (location: ), Eletta - a female mage (location: )
-### Tools: several mages tend the grove
-### Description: Before you can begin work for the guild, you'll need to do something for yourself. Every mage carries a staff. It is crafted and enchanted by the guild, and is a symbol of status. You need such a staff. The wood used for staves comes from a grove to the northeast of the Imperial City, near Wellspring Cave. Several mages tend to the grove, and should be able to assist you. Speak with either Zahrasha or Eletta when you arrive. And choose wisely.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: Mages Guild - a guild of mages
-### Title: The Elder Scrolls IV: Oblivion
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: A Mage's Staff
+Objective: complete your induction into the Mages Guild by creating your own staff
+First Tasks: speak to Zahrasha or Eletta, and choose wisely
+First Task Locations:  - the grove, to the northeast of the Imperial City, near Wellspring Cave
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - the player's own mage staff (amount: 1)
+Characters: Zahrasha - a female mage (location: ), Eletta - a female mage (location: )
+Tools: several mages tend the grove
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: Mages Guild - a guild of mages
+Title: The Elder Scrolls IV: Oblivion
+Motivation: NONE
+
+### Response:
+Before you can begin work for the guild, you'll need to do something for yourself. Every mage carries a staff. It is crafted and enchanted by the guild, and is a symbol of status. You need such a staff. The wood used for staves comes from a grove to the northeast of the Imperial City, near Wellspring Cave. Several mages tend to the grove, and should be able to assist you. Speak with either Zahrasha or Eletta when you arrive. And choose wisely.
+

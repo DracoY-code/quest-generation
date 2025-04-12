@@ -1,15 +1,22 @@
-### Quest Name: The Man Who Cried Wolf
-### Objective: investigate the reports of strange happenings near Wolfskull Cave
-### First Tasks: clear out the Wolfskull Cave
-### First Task Locations: Wolfskull Cave - a cave that is said to be haunted because of Potema the Wolf Queen's necromantic rituals some 500 years ago
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - the player will be repaid (amount: 1)
-### Characters: Potema the Wolf Queen - an infamous, feared, long-dead queen (location: )
-### Tools: Falk Firebeard thinks that checking out the Wolfskull Cave is not worth his time with the war going on
-### Description: There have been reports of weird happenings near Wolfskull Cave. Travelers disappearing, odd lights. I suspect wild animals or perhaps bandits. The cave has a bad history. Long ago, Potema the Wolf Queen used it for necromantic rituals. That's where it got the name. That was over 500 years ago. Nothing much down there now - but everyone's always convinced the cave is haunted. I don't think it's worth our time with the war going on, but if you want to clear out the cave, I'll make sure you're repaid for your work.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: The Man Who Cried Wolf
+Objective: investigate the reports of strange happenings near Wolfskull Cave
+First Tasks: clear out the Wolfskull Cave
+First Task Locations: Wolfskull Cave - a cave that is said to be haunted because of Potema the Wolf Queen's necromantic rituals some 500 years ago
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - the player will be repaid (amount: 1)
+Characters: Potema the Wolf Queen - an infamous, feared, long-dead queen (location: )
+Tools: Falk Firebeard thinks that checking out the Wolfskull Cave is not worth his time with the war going on
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+There have been reports of weird happenings near Wolfskull Cave. Travelers disappearing, odd lights. I suspect wild animals or perhaps bandits. The cave has a bad history. Long ago, Potema the Wolf Queen used it for necromantic rituals. That's where it got the name. That was over 500 years ago. Nothing much down there now - but everyone's always convinced the cave is haunted. I don't think it's worth our time with the war going on, but if you want to clear out the cave, I'll make sure you're repaid for your work.
+

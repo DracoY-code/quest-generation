@@ -1,15 +1,22 @@
-### Quest Name: Not like My Momma Makes It
-### Objective: give mushroom stew to Ilona
-### First Tasks: find a red mushroom, and a brown mushroom, make mushroom stew
-### First Task Locations:  - mushroom fields, and dimly lit places, NONE - 
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - roses (amount: 10)
-### Characters: NONE
-### Tools: Ilona gives the player a bowl for making the mushroom stew
-### Description: My momma is allergic to mushrooms. I can't ever get delicious mushroom stew at home. Here, take my bowl. Find one red mushroom, and another brown mushroom. Make mushroom stew in my bowl. Then, give the stew to me. Other kids say that mushrooms grow in fields, and poorly lit areas. I loaned my momma's roses a bit. You can have the whole ten of them. I'm sure that she won't notice 'em missing.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: Minecraft
-### Motivation: comfort
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Not like My Momma Makes It
+Objective: give mushroom stew to Ilona
+First Tasks: find a red mushroom, and a brown mushroom, make mushroom stew
+First Task Locations:  - mushroom fields, and dimly lit places, NONE - 
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - roses (amount: 10)
+Characters: NONE
+Tools: Ilona gives the player a bowl for making the mushroom stew
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: Minecraft
+Motivation: comfort
+
+### Response:
+My momma is allergic to mushrooms. I can't ever get delicious mushroom stew at home. Here, take my bowl. Find one red mushroom, and another brown mushroom. Make mushroom stew in my bowl. Then, give the stew to me. Other kids say that mushrooms grow in fields, and poorly lit areas. I loaned my momma's roses a bit. You can have the whole ten of them. I'm sure that she won't notice 'em missing.
+

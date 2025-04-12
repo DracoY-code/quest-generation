@@ -1,15 +1,22 @@
-### Quest Name: Edwin and Dynaheir
-### Objective: kill Dynaheir
-### First Tasks: find Dynaheir
-### First Task Locations:  - west of Nashkel, near the gnoll stronghold
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - one year of Edwin's services as a wizard (amount: 1)
-### Characters: Dynaheir - a treacherous female witch (location: )
-### Tools: NONE
-### Description: I am Edwin, a wizard, and I require you! (Yes, they will do nicely.) I would have you kill a witch, the witch Dynaheir. She is treacherous, but with your participation I foresee no difficulty. Last I heard of her, she was traveling to the west of Nashkel, close to the gnoll stronghold located there. Will you assist? The prize I offer would surely be beyond measure in your meager understanding. Your payment shall be one year of my services as a wizard. I am sure you agree that my guidance will be far more valuable than any monetary sum.
-### Locations: Nashkel - a town (location: NONE)
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: Baldur's Gate
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Edwin and Dynaheir
+Objective: kill Dynaheir
+First Tasks: find Dynaheir
+First Task Locations:  - west of Nashkel, near the gnoll stronghold
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - one year of Edwin's services as a wizard (amount: 1)
+Characters: Dynaheir - a treacherous female witch (location: )
+Tools: NONE
+Locations: Nashkel - a town (location: NONE)
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: Baldur's Gate
+Motivation: NONE
+
+### Response:
+I am Edwin, a wizard, and I require you! (Yes, they will do nicely.) I would have you kill a witch, the witch Dynaheir. She is treacherous, but with your participation I foresee no difficulty. Last I heard of her, she was traveling to the west of Nashkel, close to the gnoll stronghold located there. Will you assist? The prize I offer would surely be beyond measure in your meager understanding. Your payment shall be one year of my services as a wizard. I am sure you agree that my guidance will be far more valuable than any monetary sum.
+

@@ -1,15 +1,22 @@
-### Quest Name: Expelled from the Fighters Guild
-### Objective: bring 20 bear pelts to Vilena Donton
-### First Tasks: collect 20 bear pelts
-### First Task Locations: NONE - 
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - renewed membership of the Fighters Guild (amount: 1)
-### Characters: NONE
-### Tools: the player has stolen something from their fellow Fighters Guild members: this is the player's first offense
-### Description: You would steal from your brothers? If you had a need for something, why would you not just ask? I will give you a chance, though. As it is only your first offense, do not return until you have collected 20 bear pelts. Use this time to reflect on your actions.
-### Locations: NONE
-### Items:  - bear pelts (amount: 20)
-### Enemies: NONE
-### Groups: Fighters Guild - a mercenary guild
-### Title: The Elder Scrolls IV: Oblivion
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Expelled from the Fighters Guild
+Objective: bring 20 bear pelts to Vilena Donton
+First Tasks: collect 20 bear pelts
+First Task Locations: NONE - 
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - renewed membership of the Fighters Guild (amount: 1)
+Characters: NONE
+Tools: the player has stolen something from their fellow Fighters Guild members: this is the player's first offense
+Locations: NONE
+Items:  - bear pelts (amount: 20)
+Enemies: NONE
+Groups: Fighters Guild - a mercenary guild
+Title: The Elder Scrolls IV: Oblivion
+Motivation: NONE
+
+### Response:
+You would steal from your brothers? If you had a need for something, why would you not just ask? I will give you a chance, though. As it is only your first offense, do not return until you have collected 20 bear pelts. Use this time to reflect on your actions.
+

@@ -1,15 +1,22 @@
-### Quest Name: Collect tribute from the Corsican Brothers
-### Objective: Retrieve a tribute payment from the Corsican Brothers on behalf of Big Jesus Mordino.
-### First Tasks: Speak to Big Jesus Mordino at the Mordino Casino in New Reno., Travel to the Corsican Brothers' establishment., Demand the tribute payment from the Corsican Brothers., Return to Big Jesus Mordino with the payment.
-### First Task Locations: Mordino Casino - Big Jesus Mordino's base of operations in New Reno., Corsican Brothers' establishment - A business in New Reno run by the Corsican Brothers.
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: Caps Reward - Earn $500 for successfully collecting the tribute. (amount: NONE), Mordino Reputation - Increased standing with the Mordino family. (amount: NONE)
-### Characters: NONE
-### Tools: Speech or Barter skills may help in negotiations., Weapons in case the Corsican Brothers resist.
-### Description: Big Jesus Mordino requires a tribute payment from the Corsican Brothers. Retrieve the money and return it to him for a reward.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: Fallout 2
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Collect tribute from the Corsican Brothers
+Objective: Retrieve a tribute payment from the Corsican Brothers on behalf of Big Jesus Mordino.
+First Tasks: Speak to Big Jesus Mordino at the Mordino Casino in New Reno., Travel to the Corsican Brothers' establishment., Demand the tribute payment from the Corsican Brothers., Return to Big Jesus Mordino with the payment.
+First Task Locations: Mordino Casino - Big Jesus Mordino's base of operations in New Reno., Corsican Brothers' establishment - A business in New Reno run by the Corsican Brothers.
+Quest Giver: NONE - NONE (location: NONE)
+Reward: Caps Reward - Earn $500 for successfully collecting the tribute. (amount: NONE), Mordino Reputation - Increased standing with the Mordino family. (amount: NONE)
+Characters: NONE
+Tools: Speech or Barter skills may help in negotiations., Weapons in case the Corsican Brothers resist.
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: Fallout 2
+Motivation: NONE
+
+### Response:
+Big Jesus Mordino requires a tribute payment from the Corsican Brothers. Retrieve the money and return it to him for a reward.
+

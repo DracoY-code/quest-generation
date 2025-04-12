@@ -1,15 +1,22 @@
-### Quest Name: Deadly Research
-### Objective: assassinate Maluril
-### First Tasks: find Maluril
-### First Task Locations: Mzinchaleft - a dwarven ruin
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: Maluril - a dangerous, rogue male Dark Elf mage who studies dwarwen artifacts (location: Mzinchaleft)
-### Tools: the player has done assassination contracts for Nazir before
-### Description: I have another assassination contract for you: Maluril. He's dangerous. Very dangerous. A rogue Dark Elf mage doing research into dwarven artifacts should be both respected... and feared. Just not by you. Maluril is doing his research in Mzinchaleft. A Dwarven ruin... what an exotic place for a kill. I hope the elf doesn't give you too much trouble. I once got set on fire by a sorcerer. Nasty business, that. But I digress.
-### Locations: NONE
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Deadly Research
+Objective: assassinate Maluril
+First Tasks: find Maluril
+First Task Locations: Mzinchaleft - a dwarven ruin
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: Maluril - a dangerous, rogue male Dark Elf mage who studies dwarwen artifacts (location: Mzinchaleft)
+Tools: the player has done assassination contracts for Nazir before
+Locations: NONE
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+I have another assassination contract for you: Maluril. He's dangerous. Very dangerous. A rogue Dark Elf mage doing research into dwarven artifacts should be both respected... and feared. Just not by you. Maluril is doing his research in Mzinchaleft. A Dwarven ruin... what an exotic place for a kill. I hope the elf doesn't give you too much trouble. I once got set on fire by a sorcerer. Nasty business, that. But I digress.
+

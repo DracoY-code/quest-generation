@@ -1,15 +1,22 @@
-### Quest Name: A Nymph for Ramazith
-### Objective: free Ragefast's nymph and bring her to Ramazith
-### First Tasks: enter Ragefast's house
-### First Task Locations:  - Ragefast's house
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - an enchanted item (amount: 1)
-### Characters: Ragefast - a male wizard (location: Ragefast's house),  - Ragefast's nymph, a female nymph, one of the most beautiful and useful creatures in Faerûn (location: Ragefast's house)
-### Tools: Ragefast imprisoned Ragefast's nymph in Ragefast's house
-### Description: Greetings to you and yours, my friend. I'm Ramazith. Might I have your ear a moment? My proposition is thus: I would have you enter into the home of a colleague of mine and effect the release of a creature he has imprisoned there. Ragefast be his name, and he has in his possession one of the most beautiful and useful creatures in all of Faerûn. It's a nymph he captured some time ago, and I know not what laughable plans he has for her, but I am sure she be more... productive in my care. I not so rich as to be able to offer huge gold, but as competent wizard I do have the odd magical item of worth. Perhaps an enchanted item will serve your needs, no?
-### Locations: Faerûn - a continent (location: NONE)
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: Baldur's Gate
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: A Nymph for Ramazith
+Objective: free Ragefast's nymph and bring her to Ramazith
+First Tasks: enter Ragefast's house
+First Task Locations:  - Ragefast's house
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - an enchanted item (amount: 1)
+Characters: Ragefast - a male wizard (location: Ragefast's house),  - Ragefast's nymph, a female nymph, one of the most beautiful and useful creatures in Faerûn (location: Ragefast's house)
+Tools: Ragefast imprisoned Ragefast's nymph in Ragefast's house
+Locations: Faerûn - a continent (location: NONE)
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: Baldur's Gate
+Motivation: NONE
+
+### Response:
+
+

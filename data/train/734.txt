@@ -1,15 +1,22 @@
-### Quest Name: The Assassinated Man
-### Objective: help Francois Motierre fake his death to escape his debts
-### First Tasks: break into Francois Motierre's house
-### First Task Locations: Chorrol - a city
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: Cruelty's Heart - an amulet (amount: 1)
-### Characters: Francois Motierre - a marked man (location: Chorrol)
-### Tools: Francois Motierre is waiting for the player inside his house: the player should not kill him, Francois Motierre's debtors have sent an enforcer to kill him, Vicente Valtieri gives the player a knife: the blade has been coated with Languorwine, and there's only enough Languorwine for slicing Francois Motierre, Vicente Valtieri will give the player a vial of antidote, which will be used to revive Francois Motierre after the player successfully stages his death
-### Description: I, Vicente Valtieri, have a special contract that needs fulfillment. In truth. I don't wish to offer it to any other guild member. I've come to rely on your abilities. We're usually called upon to take a life, but not this time. This contract requires us to stage the assassination of a marked man. You must go to the city of Chorrol and break into the house of Francois Motierre. Inside you will find Motierre waiting for you. Do not kill him! You see, Francois Motierre is a marked man. He owes a considerable sum to the wrong kind of people. So, they have sent an enforcer to kill him. This is an unusual contract, Motierre had to make a special arrangement with us before it was approved. I trust in your professionalism. Here, take this knife. The blade has been coated with a rare poison called Languorwine. One drop in a normal human bloodstream will mimic the effects of death immediately. I will provide you with a vial of antidote, which will be used to revive Francois Motierre after you successfully stage his death. You should also know that there's only enough Languorwine on the blade for this one contract. After Motierre is sliced, the knife will be useless. As payment, I'll be pleased to award you this amulet, Cruelty's Heart.
-### Locations: NONE
-### Items: Languorwine - a rare poison, one drop in bloodstream will mimic the effects of death immediately (amount: 1)
-### Enemies: NONE
-### Groups: Dark Brotherhood - a guild of assassins
-### Title: The Elder Scrolls IV: Oblivion
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: The Assassinated Man
+Objective: help Francois Motierre fake his death to escape his debts
+First Tasks: break into Francois Motierre's house
+First Task Locations: Chorrol - a city
+Quest Giver: NONE - NONE (location: NONE)
+Reward: Cruelty's Heart - an amulet (amount: 1)
+Characters: Francois Motierre - a marked man (location: Chorrol)
+Tools: Francois Motierre is waiting for the player inside his house: the player should not kill him, Francois Motierre's debtors have sent an enforcer to kill him, Vicente Valtieri gives the player a knife: the blade has been coated with Languorwine, and there's only enough Languorwine for slicing Francois Motierre, Vicente Valtieri will give the player a vial of antidote, which will be used to revive Francois Motierre after the player successfully stages his death
+Locations: NONE
+Items: Languorwine - a rare poison, one drop in bloodstream will mimic the effects of death immediately (amount: 1)
+Enemies: NONE
+Groups: Dark Brotherhood - a guild of assassins
+Title: The Elder Scrolls IV: Oblivion
+Motivation: NONE
+
+### Response:
+I, Vicente Valtieri, have a special contract that needs fulfillment. In truth. I don't wish to offer it to any other guild member. I've come to rely on your abilities. We're usually called upon to take a life, but not this time. This contract requires us to stage the assassination of a marked man. You must go to the city of Chorrol and break into the house of Francois Motierre. Inside you will find Motierre waiting for you. Do not kill him! You see, Francois Motierre is a marked man. He owes a considerable sum to the wrong kind of people. So, they have sent an enforcer to kill him. This is an unusual contract, Motierre had to make a special arrangement with us before it was approved. I trust in your professionalism. Here, take this knife. The blade has been coated with a rare poison called Languorwine. One drop in a normal human bloodstream will mimic the effects of death immediately. I will provide you with a vial of antidote, which will be used to revive Francois Motierre after you successfully stage his death. You should also know that there's only enough Languorwine on the blade for this one contract. After Motierre is sliced, the knife will be useless. As payment, I'll be pleased to award you this amulet, Cruelty's Heart.
+

@@ -1,15 +1,22 @@
-### Quest Name: The Blue Boletus
-### Objective: bring Blue Boletus flesh to Sprocket
-### First Tasks: get Blue Boletus flesh
-### First Task Locations: Fungal Caves - the only place where Blue Boletus grow
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - Sprocket will be in the player's debt (amount: 1)
-### Characters: NONE
-### Tools: Sprocket traveled here from his home village to find Blue Boletus for his cousins who are afflicted with the Black Blindness
-### Description: Oh, please - perhaps you can help us! On the advice of our village's healer, I have traveled here seeking a cure. My cousins are afflicted with the Black Blindness, an ailment peculiar to our race. Black Blindness is an insidious disease - it dims the vision and makes speech impossible, and if not treated within a few weeks, can become permanent. The only known treatment is produced from the flesh of the Blue Boletus - a species of mushroom creatures that grows only in the Fungal Caves near here. I find that they are, ah, BIGGER than I had anticipated, however. Perhaps YOU could retrieve some Blue Boletus flesh for us? We would be forever in your debt!
-### Locations: NONE
-### Items: Black Blindness - a disease peculiar to the Ponya, which dims the vision and makes speech impossible permanently after two weeks, can only be cured with Blue Boletus flesh (amount: 1)
-### Enemies: NONE
-### Groups: Ponya - a race of people, Blue Boletus - fungus creatures
-### Title: Torchlight II
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: The Blue Boletus
+Objective: bring Blue Boletus flesh to Sprocket
+First Tasks: get Blue Boletus flesh
+First Task Locations: Fungal Caves - the only place where Blue Boletus grow
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - Sprocket will be in the player's debt (amount: 1)
+Characters: NONE
+Tools: Sprocket traveled here from his home village to find Blue Boletus for his cousins who are afflicted with the Black Blindness
+Locations: NONE
+Items: Black Blindness - a disease peculiar to the Ponya, which dims the vision and makes speech impossible permanently after two weeks, can only be cured with Blue Boletus flesh (amount: 1)
+Enemies: NONE
+Groups: Ponya - a race of people, Blue Boletus - fungus creatures
+Title: Torchlight II
+Motivation: NONE
+
+### Response:
+Oh, please - perhaps you can help us! On the advice of our village's healer, I have traveled here seeking a cure. My cousins are afflicted with the Black Blindness, an ailment peculiar to our race. Black Blindness is an insidious disease - it dims the vision and makes speech impossible, and if not treated within a few weeks, can become permanent. The only known treatment is produced from the flesh of the Blue Boletus - a species of mushroom creatures that grows only in the Fungal Caves near here. I find that they are, ah, BIGGER than I had anticipated, however. Perhaps YOU could retrieve some Blue Boletus flesh for us? We would be forever in your debt!
+

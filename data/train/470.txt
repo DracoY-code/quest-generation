@@ -1,15 +1,22 @@
-### Quest Name: Dravynea's Frost Salts
-### Objective: bring frost salts to Dravynea the Stoneweaver
-### First Tasks: find some frost salts
-### First Task Locations: NONE - 
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward:  - free Alteration training from Dravynea the Stoneweaver (amount: 1)
-### Characters: NONE
-### Tools: NONE
-### Description: I was a mage back in Morrowind. I lend my talents to the mines here, helping them keep the tunnels safe. By Azura, it gets hot in there. I use Frost Salts for a potion to keep the heat bearable, but I'm out. If you want to go to the trouble of getting me some frost salts, feel free. I suppose I could offer you a bit of free Alteration training when you get back.
-### Locations: Morrowind - a province (location: NONE)
-### Items: NONE
-### Enemies: NONE
-### Groups: NONE
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Dravynea's Frost Salts
+Objective: bring frost salts to Dravynea the Stoneweaver
+First Tasks: find some frost salts
+First Task Locations: NONE - 
+Quest Giver: NONE - NONE (location: NONE)
+Reward:  - free Alteration training from Dravynea the Stoneweaver (amount: 1)
+Characters: NONE
+Tools: NONE
+Locations: Morrowind - a province (location: NONE)
+Items: NONE
+Enemies: NONE
+Groups: NONE
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+I was a mage back in Morrowind. I lend my talents to the mines here, helping them keep the tunnels safe. By Azura, it gets hot in there. I use Frost Salts for a potion to keep the heat bearable, but I'm out. If you want to go to the trouble of getting me some frost salts, feel free. I suppose I could offer you a bit of free Alteration training when you get back.
+

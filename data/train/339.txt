@@ -1,15 +1,22 @@
-### Quest Name: Summerset Shadows
-### Objective: remove the Summerset Shadows from the picture, and return Torsten Cruel-Sea's silver locket to him
-### First Tasks: find information about the Summerset Shadows
-### First Task Locations:  - Niranye's house in Windhelm
-### Quest Giver: NONE - NONE (location: NONE)
-### Reward: NONE -  (amount: 1)
-### Characters: Fjotli - Torsten Cruel-Sea's daughter, who liked wearing a lot of jewelry (location: ), Niranye - a woman affiliated with the Summerset Shadows (location: Windhelm)
-### Tools: the player is a member of the Thieves Guild, Fjotli was robbed and murdered: Torsten Cruel-Sea tracked down the murderer, a member of the Summerset Shadows, and killed him
-### Description: My daughter Fjotli... she was murdered a few months ago. Left her laying on the ground in a pool of her own blood. I assume they were after her valuables... she always wore far too much jewelry in public. When I told her it'd be the death of her, I never thought... No need to explain, I'm well aware of your Guild's methods do not include killing. It took me weeks, but I finally tracked down the killer. A bloody Altmer at that. Can you imagine? Let's just say I'm a firm believer in an eye for an eye and leave it at that. The killer fancied himself a thief in some sort of a new Guild forming around here. Gave me some valuable information before... well, you know. Well, I think we can help each other. You recover what I'm looking for and take out a rival Guild in the process. One of the pieces stolen from Fjotli was a silver locket, a Cruel-Sea family heirloom. I want it back. The only name I have is Niranye. Has a house right here in Windhelm. That's where you should begin looking.
-### Locations: Windhelm - a city (location: NONE)
-### Items: NONE
-### Enemies: NONE
-### Groups: Summerset Shadows - a new guild of Altmer thieves, rivals to the Thieves Guild, Altmer - a race of elves, Thieves Guild - a guild of thieves who condemn murder
-### Title: The Elder Scrolls V: Skyrim
-### Motivation: NONE
+### Instruction:
+Generate a video game quest description based on the following structured information.
+
+### Input:
+Quest Name: Summerset Shadows
+Objective: remove the Summerset Shadows from the picture, and return Torsten Cruel-Sea's silver locket to him
+First Tasks: find information about the Summerset Shadows
+First Task Locations:  - Niranye's house in Windhelm
+Quest Giver: NONE - NONE (location: NONE)
+Reward: NONE -  (amount: 1)
+Characters: Fjotli - Torsten Cruel-Sea's daughter, who liked wearing a lot of jewelry (location: ), Niranye - a woman affiliated with the Summerset Shadows (location: Windhelm)
+Tools: the player is a member of the Thieves Guild, Fjotli was robbed and murdered: Torsten Cruel-Sea tracked down the murderer, a member of the Summerset Shadows, and killed him
+Locations: Windhelm - a city (location: NONE)
+Items: NONE
+Enemies: NONE
+Groups: Summerset Shadows - a new guild of Altmer thieves, rivals to the Thieves Guild, Altmer - a race of elves, Thieves Guild - a guild of thieves who condemn murder
+Title: The Elder Scrolls V: Skyrim
+Motivation: NONE
+
+### Response:
+My daughter Fjotli... she was murdered a few months ago. Left her laying on the ground in a pool of her own blood. I assume they were after her valuables... she always wore far too much jewelry in public. When I told her it'd be the death of her, I never thought... No need to explain, I'm well aware of your Guild's methods do not include killing. It took me weeks, but I finally tracked down the killer. A bloody Altmer at that. Can you imagine? Let's just say I'm a firm believer in an eye for an eye and leave it at that. The killer fancied himself a thief in some sort of a new Guild forming around here. Gave me some valuable information before... well, you know. Well, I think we can help each other. You recover what I'm looking for and take out a rival Guild in the process. One of the pieces stolen from Fjotli was a silver locket, a Cruel-Sea family heirloom. I want it back. The only name I have is Niranye. Has a house right here in Windhelm. That's where you should begin looking.
+
