@@ -13,3 +13,6 @@ if (-Not (Test-Path "docker-compose.yml")) {
 
 # Run the container and start an interactive bash terminal
 docker compose exec app bash
+
+# Move back to the root directory
+Set-Location ..

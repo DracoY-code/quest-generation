@@ -13,3 +13,6 @@ if (-Not (Test-Path "docker-compose.yml")) {
 
 # Run the container with service ports and clean up after exit
 docker compose run --rm --service-ports --remove-orphans app
+
+# Move back to the root directory
+Set-Location ..
