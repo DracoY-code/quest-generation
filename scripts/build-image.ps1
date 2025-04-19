@@ -27,11 +27,17 @@ $envFile = ".devcontainer\.env"
 @"
 TARGET_PLATFORM=$($env:TARGET_PLATFORM)
 DOCKER_PLATFORM=$($env:DOCKER_PLATFORM)
+HUGGINGFACE_HUB_TOKEN=$($env:HUGGINGFACE_HUB_TOKEN)
 "@ | Set-Content -Path $envFile
 
 # Output the build information (for debug)
 Write-Host "Detected platform: $($env:DOCKER_PLATFORM)"
 Write-Host "Building image: (questgen:$($env:TARGET_PLATFORM))"
+if ($env:HUGGINGFACE_HUB_TOKEN) {
+    Write-Host "Access token: set"
+} else {
+    Write-Host "Access token: not set"
+}
 
 # Build the Docker image for the platform
 # and load it into the local Docker

@@ -21,10 +21,16 @@ fi
 ENV_FILE=".devcontainer/.env"
 echo "TARGET_PLATFORM=$TARGET_PLATFORM" > $ENV_FILE
 echo "DOCKER_PLATFORM=$DOCKER_PLATFORM" >> $ENV_FILE
+echo "HUGGINGFACE_HUB_TOKEN=$HUGGINGFACE_HUB_TOKEN" >> $ENV_FILE
 
 # Output the build information (for debug)
 echo "Detected platform: $DOCKER_PLATFORM"
 echo "Building image: (questgen:$TARGET_PLATFORM)"
+if [ -n "$HUGGINGFACE_HUB_TOKEN" ]; then
+    echo "Access token: set"
+else
+    echo "Access token: not set"
+fi
 
 # Build the Docker image for the platform
 # and load it into the local Docker
