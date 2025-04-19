@@ -19,4 +19,3 @@ Motivation: NONE
 
 ### Response:
 Renesco, a shopkeeper in New Reno, needs a new pair of glasses. Find and deliver a pair to him to complete the task.
-

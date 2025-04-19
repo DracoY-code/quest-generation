@@ -19,4 +19,3 @@ Motivation: NONE
 
 ### Response:
 You are tasked with guarding a secret exchange in the desert, ensuring the deal goes smoothly and fending off any threats that arise.
-

@@ -19,4 +19,3 @@ Motivation: NONE
 
 ### Response:
 Gizmo, the crime lord of Junktown, is suspected of plotting an assassination. The player must gather proof of his crimes by recording his confession or killing him directly. Completing the quest earns the player rewards and improves their reputation.
-

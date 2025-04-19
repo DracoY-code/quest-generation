@@ -19,4 +19,3 @@ Motivation: NONE
 
 ### Response:
 A person in The Den needs you to retrieve a book from Derek, who may not be willing to part with it easily.
-

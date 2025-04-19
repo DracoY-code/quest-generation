@@ -19,4 +19,3 @@ Motivation: NONE
 
 ### Response:
 The player gathers evidence proving that Iguana Bob is selling human meat. They can take the evidence to Detective Justin Greene at the Hub Police Station, leading to Bob’s arrest and a boost in reputation.
-

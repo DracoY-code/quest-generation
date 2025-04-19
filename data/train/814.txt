@@ -19,4 +19,3 @@ Motivation: NONE
 
 ### Response:
 The player must eliminate Neal, the bar owner in Junktown. Killing him may provoke hostilities from nearby NPCs and affect the player's reputation in Junktown.
-

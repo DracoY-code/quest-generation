@@ -19,4 +19,3 @@ Motivation: NONE
 
 ### Response:
 The Skulz gang has been causing problems in Junktown. Lars, the head guard, wants them taken down. The player can either help Lars arrest or kill the gang members or betray the guards and join the gang. The outcome affects Junktown’s stability.
-

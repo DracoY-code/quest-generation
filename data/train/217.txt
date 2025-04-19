@@ -19,4 +19,3 @@ Motivation: NONE
 
 ### Response:
 Percy is looking for his friend Woody, a missing ghoul. He believes Woody might be in The Den. You must search for him and return with information.
-

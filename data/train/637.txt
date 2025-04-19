@@ -19,4 +19,3 @@ Motivation: NONE
 
 ### Response:
 McClure in Vault City seeks economic data from Gecko to assess the power plant's impact on regional trade. You must retrieve the Economy Disk from Gordon in Gecko and deliver it safely.
-

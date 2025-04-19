@@ -19,4 +19,3 @@ Motivation: NONE
 
 ### Response:
 Phil in Junktown has lost his beloved dog, Roxie. The player must search for the missing canine, either by following clues or asking around. Successfully bringing Roxie back to Phil rewards the player with caps and a reputation boost.
-

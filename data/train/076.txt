@@ -19,4 +19,3 @@ Motivation: NONE
 
 ### Response:
 The nuclear power plant in Gecko is leaking radiation, threatening the surrounding area. You must either repair it or find an alternative solution to stop the leak.
-

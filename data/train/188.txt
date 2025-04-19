@@ -19,4 +19,3 @@ Motivation: NONE
 
 ### Response:
 An assassin, hired by Gizmo, attempts to kill Killian in his store. The player must intervene and stop the attack. Successfully saving Killian allows the player to gain his trust and potentially work with him against Gizmo.
-

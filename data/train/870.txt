@@ -19,4 +19,3 @@ Motivation: NONE
 
 ### Response:
 A Brotherhood of Steel initiate has been captured in The Hub. The player must locate the captive, engage in combat or negotiations with the captors, and ensure the initiate returns safely to the Brotherhood.
-

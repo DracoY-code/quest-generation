@@ -18,5 +18,3 @@ Title: Torchlight II
 Motivation: NONE
 
 ### Response:
-
-

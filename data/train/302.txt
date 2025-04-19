@@ -19,4 +19,3 @@ Motivation: NONE
 
 ### Response:
 "Our vault's water chip has failed. Without it, we have only 150 days of water left. You must find a replacement before it's too late. Vault 15 might have what we need, but it's long been abandoned. Be careful out there. The Wasteland is dangerous."
-

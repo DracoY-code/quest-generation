@@ -19,4 +19,3 @@ Motivation: NONE
 
 ### Response:
 Nagor, a young villager in Arroyo, is distraught over his missing dog, Smoke. The dog has wandered into the wilds, and Nagor fears for its safety. Your task is to locate Smoke and bring him back safely.
-

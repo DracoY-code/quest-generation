@@ -19,4 +19,3 @@ Motivation: NONE
 
 ### Response:
 Smitty, a mechanic in The Den, needs a specific car part to repair a vehicle. Find the part and bring it back to him to complete the job.
-

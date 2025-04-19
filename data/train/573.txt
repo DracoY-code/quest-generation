@@ -19,4 +19,3 @@ Motivation: NONE
 
 ### Response:
 Vault 13 is running out of water, and the player must negotiate with the Water Merchants in the Hub to secure a steady supply. While this extends the Vault's survival, it also increases the chances of revealing its location to hostile forces.
-

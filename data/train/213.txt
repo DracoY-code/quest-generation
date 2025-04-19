@@ -19,4 +19,3 @@ Motivation: NONE
 
 ### Response:
 Farrel believes resolving the dispute over Cornelius' missing gold pocket watch is important for town harmony. Your task is to investigate, retrieve the watch, and return it to him.
-

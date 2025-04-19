@@ -19,4 +19,3 @@ Motivation: NONE
 
 ### Response:
 Mynoc, a craftsman in Arroyo, offers to sharpen your spear if you can bring him a piece of flint. The flint can be obtained from another villager through trade or conversation.
-

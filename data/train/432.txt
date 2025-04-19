@@ -19,4 +19,3 @@ Motivation: NONE
 
 ### Response:
 Tycho, a skilled desert ranger, can be found at the Skum Pitt in Junktown. If the player engages him in conversation and shows alignment with his ideals, he agrees to join the party as a companion.
-

@@ -19,4 +19,3 @@ Motivation: NONE
 
 ### Response:
 The nuclear power plant in Gecko is running inefficiently. By obtaining and installing optimization data from Vault City, you can improve its performance and reduce tensions between the two settlements.
-

@@ -19,4 +19,3 @@ Motivation: NONE
 
 ### Response:
 The Gun Runners are unable to transport weapons safely due to Deathclaws blocking their supply routes. You must track down and exterminate these creatures to restore trade.
-

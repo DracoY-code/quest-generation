@@ -19,4 +19,3 @@ Motivation: NONE
 
 ### Response:
 The player can attempt to free the slaves held by the Khans through combat or stealth. This action improves the player's moral standing but may provoke hostility from the Khans.
-

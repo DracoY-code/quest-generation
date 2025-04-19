@@ -19,4 +19,3 @@ Motivation: NONE
 
 ### Response:
 The water pump in Necropolis has broken down, cutting off the ghouls' water supply. The player must find a way to repair it to ensure the survival of the Necropolis inhabitants.
-

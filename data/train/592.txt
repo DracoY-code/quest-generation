@@ -19,4 +19,3 @@ Motivation: NONE
 
 ### Response:
 The Vault Dweller must infiltrate the Mariposa Military Base, which is heavily guarded by Super Mutants. The base contains the vats responsible for the Forced Evolutionary Virus (FEV) mutation process. To stop the creation of new mutants, the facility must be sabotaged, either by setting off an explosion in the reactor or activating the self-destruct sequence. The mission is critical to weakening the Master's army.
-

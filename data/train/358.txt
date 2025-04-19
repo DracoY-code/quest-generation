@@ -19,4 +19,3 @@ Motivation: NONE
 
 ### Response:
 Shady Sands is dealing with a radscorpion infestation. The player is tasked with acquiring radscorpion venom and bringing it to a knowledgeable NPC to create an antidote.
-

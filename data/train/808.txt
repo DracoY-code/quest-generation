@@ -19,4 +19,3 @@ Motivation: NONE
 
 ### Response:
 The player must eliminate a merchant without drawing too much attention. The approach can vary depending on stealth, combat, or social manipulation, and the consequences may impact the player’s standing with factions or towns.
-

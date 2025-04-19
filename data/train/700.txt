@@ -19,4 +19,3 @@ Motivation: NONE
 
 ### Response:
 The Vault Dweller must find a way to enter a secured armory, either through skill, deception, or force. The armory holds valuable supplies that can significantly impact survival and combat effectiveness.
-

@@ -19,4 +19,3 @@ Motivation: NONE
 
 ### Response:
 I want to add some punch to our crossbow capabilities, I've done all I can on my own. I need a little inspiration. I've always been fascinated with Dwemer artifacts. I take them apart, poke around in their guts, and try to figure things out - with mixed results. But as luck would have it, I've tracked down the location of some actual Dwemer diagram drawings! So, if you'd be a dear and collect those plans for me at Irkngthand? With the Dwemer diagrams and a little tinkering I should be able to improve the capabilities of our crossbows.
-

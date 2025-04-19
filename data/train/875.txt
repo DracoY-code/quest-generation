@@ -19,4 +19,3 @@ Motivation: NONE
 
 ### Response:
 A ghoul has been captured by the Super Mutants in Necropolis. The player must locate the prisoner, bypass security, and ensure their safe escape.
-

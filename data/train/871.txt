@@ -19,4 +19,3 @@ Motivation: NONE
 
 ### Response:
 Jarvis, a resident of Shady Sands, has been poisoned by radscorpion venom. The player must acquire or create an antidote and deliver it to him to save his life.
-

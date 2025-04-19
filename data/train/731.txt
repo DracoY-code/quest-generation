@@ -19,4 +19,3 @@ Motivation: NONE
 
 ### Response:
 Lara’s gang wants to take down Tyler’s group, but they need an advantage. Your task is to find a flaw in Tyler’s security so that Lara can strike at the right moment.
-

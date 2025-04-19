@@ -18,5 +18,3 @@ Title: Minecraft
 Motivation: reputation
 
 ### Response:
-
-

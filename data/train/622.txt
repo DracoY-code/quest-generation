@@ -19,4 +19,3 @@ Motivation: NONE
 
 ### Response:
 The player is tasked with stealing a valuable necklace from a merchant, requiring stealth and deception to avoid detection. The mission may involve distractions, sneaking into restricted areas, or persuading someone to hand over the necklace.
-

@@ -19,8 +19,6 @@ Motivation: NONE
 
 ### Response:
 
-
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -41,8 +39,6 @@ Title: Fallout 2
 Motivation: NONE
 
 ### Response:
-
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -65,8 +61,6 @@ Motivation: comfort
 
 ### Response:
 
-
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -87,8 +81,6 @@ Title: Baldur's Gate
 Motivation: NONE
 
 ### Response:
-
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -111,8 +103,6 @@ Motivation: NONE
 
 ### Response:
 
-
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -133,8 +123,6 @@ Title: Baldur's Gate II: Shadows of Amn
 Motivation: NONE
 
 ### Response:
-
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -157,8 +145,6 @@ Motivation: knowledge
 
 ### Response:
 
-
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -179,8 +165,6 @@ Title: The Elder Scrolls V: Skyrim
 Motivation: NONE
 
 ### Response:
-
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -203,8 +187,6 @@ Motivation: NONE
 
 ### Response:
 
-
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -225,8 +207,6 @@ Title: The Elder Scrolls V: Skyrim
 Motivation: NONE
 
 ### Response:
-
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -249,8 +229,6 @@ Motivation: NONE
 
 ### Response:
 
-
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -271,8 +249,6 @@ Title: Minecraft
 Motivation: reputation
 
 ### Response:
-
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -295,8 +271,6 @@ Motivation: NONE
 
 ### Response:
 
-
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -317,8 +291,6 @@ Title: The Elder Scrolls IV: Oblivion
 Motivation: NONE
 
 ### Response:
-
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -341,8 +313,6 @@ Motivation: NONE
 
 ### Response:
 
-
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -363,8 +333,6 @@ Title: The Elder Scrolls V: Skyrim
 Motivation: NONE
 
 ### Response:
-
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -387,8 +355,6 @@ Motivation: NONE
 
 ### Response:
 
-
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -409,8 +375,6 @@ Title: The Elder Scrolls V: Skyrim
 Motivation: NONE
 
 ### Response:
-
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -433,8 +397,6 @@ Motivation: NONE
 
 ### Response:
 
-
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -455,8 +417,6 @@ Title: The Elder Scrolls V: Skyrim
 Motivation: NONE
 
 ### Response:
-
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -479,8 +439,6 @@ Motivation: NONE
 
 ### Response:
 
-
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -501,8 +459,6 @@ Title: The Elder Scrolls V: Skyrim
 Motivation: NONE
 
 ### Response:
-
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -525,8 +481,6 @@ Motivation: NONE
 
 ### Response:
 
-
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -547,8 +501,6 @@ Title: The Elder Scrolls V: Skyrim
 Motivation: NONE
 
 ### Response:
-
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -571,8 +523,6 @@ Motivation: NONE
 
 ### Response:
 
-
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -593,8 +543,6 @@ Title: Fallout 2
 Motivation: NONE
 
 ### Response:
-
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -617,8 +565,6 @@ Motivation: NONE
 
 ### Response:
 
-
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -639,8 +585,6 @@ Title: The Elder Scrolls V: Skyrim
 Motivation: NONE
 
 ### Response:
-
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -663,8 +607,6 @@ Motivation: NONE
 
 ### Response:
 
-
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -685,8 +627,6 @@ Title: Baldur's Gate
 Motivation: NONE
 
 ### Response:
-
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -709,8 +649,6 @@ Motivation: NONE
 
 ### Response:
 
-
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -731,8 +669,6 @@ Title: Torchlight II
 Motivation: NONE
 
 ### Response:
-
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -755,8 +691,6 @@ Motivation: NONE
 
 ### Response:
 
-
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -777,8 +711,6 @@ Title: The Elder Scrolls V: Skyrim
 Motivation: NONE
 
 ### Response:
-
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -801,8 +733,6 @@ Motivation: NONE
 
 ### Response:
 
-
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -823,8 +753,6 @@ Title: The Elder Scrolls V: Skyrim
 Motivation: NONE
 
 ### Response:
-
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -847,8 +775,6 @@ Motivation: knowledge
 
 ### Response:
 
-
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -869,8 +795,6 @@ Title: Baldur's Gate
 Motivation: NONE
 
 ### Response:
-
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -893,8 +817,6 @@ Motivation: NONE
 
 ### Response:
 
-
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -915,8 +837,6 @@ Title: The Elder Scrolls IV: Oblivion
 Motivation: NONE
 
 ### Response:
-
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -939,8 +859,6 @@ Motivation: NONE
 
 ### Response:
 
-
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -961,8 +879,6 @@ Title: Torchlight II
 Motivation: NONE
 
 ### Response:
-
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -985,8 +901,6 @@ Motivation: NONE
 
 ### Response:
 
-
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -1007,8 +921,6 @@ Title: Torchlight II
 Motivation: NONE
 
 ### Response:
-
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -1031,8 +943,6 @@ Motivation: NONE
 
 ### Response:
 
-
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -1053,8 +963,6 @@ Title: The Elder Scrolls V: Skyrim
 Motivation: NONE
 
 ### Response:
-
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -1077,8 +985,6 @@ Motivation: NONE
 
 ### Response:
 
-
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -1099,8 +1005,6 @@ Title: The Elder Scrolls V: Skyrim
 Motivation: NONE
 
 ### Response:
-
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -1123,8 +1027,6 @@ Motivation: NONE
 
 ### Response:
 
-
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -1145,8 +1047,6 @@ Title: The Elder Scrolls IV: Oblivion
 Motivation: NONE
 
 ### Response:
-
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -1169,8 +1069,6 @@ Motivation: NONE
 
 ### Response:
 
-
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -1191,8 +1089,6 @@ Title: The Elder Scrolls V: Skyrim
 Motivation: NONE
 
 ### Response:
-
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -1215,8 +1111,6 @@ Motivation: NONE
 
 ### Response:
 
-
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -1237,8 +1131,6 @@ Title: Fallout 2
 Motivation: NONE
 
 ### Response:
-
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -1261,8 +1153,6 @@ Motivation: NONE
 
 ### Response:
 
-
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -1283,8 +1173,6 @@ Title: The Elder Scrolls V: Skyrim
 Motivation: NONE
 
 ### Response:
-
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -1307,8 +1195,6 @@ Motivation: NONE
 
 ### Response:
 
-
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -1329,8 +1215,6 @@ Title: Baldur's Gate II: Shadows of Amn
 Motivation: NONE
 
 ### Response:
-
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -1353,8 +1237,6 @@ Motivation: NONE
 
 ### Response:
 
-
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -1375,8 +1257,6 @@ Title: Baldur's Gate II: Shadows of Amn
 Motivation: NONE
 
 ### Response:
-
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -1399,8 +1279,6 @@ Motivation: NONE
 
 ### Response:
 
-
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -1421,8 +1299,6 @@ Title: Baldur's Gate
 Motivation: NONE
 
 ### Response:
-
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -1445,8 +1321,6 @@ Motivation: NONE
 
 ### Response:
 
-
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -1467,8 +1341,6 @@ Title: Baldur's Gate II: Shadows of Amn
 Motivation: NONE
 
 ### Response:
-
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -1491,8 +1363,6 @@ Motivation: knowledge
 
 ### Response:
 
-
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -1513,8 +1383,6 @@ Title: Minecraft
 Motivation: knowledge
 
 ### Response:
-
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -1537,8 +1405,6 @@ Motivation: NONE
 
 ### Response:
 
-
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -1559,8 +1425,6 @@ Title: Baldur's Gate
 Motivation: NONE
 
 ### Response:
-
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -1583,8 +1447,6 @@ Motivation: NONE
 
 ### Response:
 
-
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -1605,8 +1467,6 @@ Title: Baldur's Gate II: Shadows of Amn
 Motivation: NONE
 
 ### Response:
-
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -1629,8 +1489,6 @@ Motivation: NONE
 
 ### Response:
 
-
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -1651,8 +1509,6 @@ Title: The Elder Scrolls V: Skyrim
 Motivation: NONE
 
 ### Response:
-
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -1675,8 +1531,6 @@ Motivation: NONE
 
 ### Response:
 
-
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -1697,8 +1551,6 @@ Title: Fallout 2
 Motivation: NONE
 
 ### Response:
-
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -1721,8 +1573,6 @@ Motivation: knowledge
 
 ### Response:
 
-
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -1743,8 +1593,6 @@ Title: Minecraft
 Motivation: knowledge
 
 ### Response:
-
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -1767,8 +1615,6 @@ Motivation: NONE
 
 ### Response:
 
-
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -1789,8 +1635,6 @@ Title: Minecraft
 Motivation: knowledge
 
 ### Response:
-
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -1813,8 +1657,6 @@ Motivation: NONE
 
 ### Response:
 
-
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -1835,8 +1677,6 @@ Title: The Elder Scrolls V: Skyrim
 Motivation: NONE
 
 ### Response:
-
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -1859,8 +1699,6 @@ Motivation: NONE
 
 ### Response:
 
-
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -1881,8 +1719,6 @@ Title: Baldur's Gate
 Motivation: NONE
 
 ### Response:
-
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -1905,8 +1741,6 @@ Motivation: NONE
 
 ### Response:
 
-
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -1927,8 +1761,6 @@ Title: The Elder Scrolls IV: Oblivion
 Motivation: NONE
 
 ### Response:
-
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -1951,8 +1783,6 @@ Motivation: NONE
 
 ### Response:
 
-
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -1973,8 +1803,6 @@ Title: The Elder Scrolls V: Skyrim
 Motivation: NONE
 
 ### Response:
-
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -1997,8 +1825,6 @@ Motivation: NONE
 
 ### Response:
 
-
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -2019,8 +1845,6 @@ Title: The Elder Scrolls V: Skyrim
 Motivation: NONE
 
 ### Response:
-
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -2043,8 +1867,6 @@ Motivation: NONE
 
 ### Response:
 
-
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -2065,8 +1887,6 @@ Title: Torchlight II
 Motivation: NONE
 
 ### Response:
-
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -2089,8 +1909,6 @@ Motivation: NONE
 
 ### Response:
 
-
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -2111,8 +1929,6 @@ Title: The Elder Scrolls IV: Oblivion
 Motivation: NONE
 
 ### Response:
-
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -2135,8 +1951,6 @@ Motivation: NONE
 
 ### Response:
 
-
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -2157,8 +1971,6 @@ Title: Fallout
 Motivation: NONE
 
 ### Response:
-
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -2181,8 +1993,6 @@ Motivation: NONE
 
 ### Response:
 
-
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -2203,8 +2013,6 @@ Title: The Elder Scrolls IV: Oblivion
 Motivation: NONE
 
 ### Response:
-
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -2227,8 +2035,6 @@ Motivation: NONE
 
 ### Response:
 
-
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -2249,8 +2055,6 @@ Title: The Elder Scrolls V: Skyrim
 Motivation: NONE
 
 ### Response:
-
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -2273,8 +2077,6 @@ Motivation: NONE
 
 ### Response:
 
-
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -2295,8 +2097,6 @@ Title: The Elder Scrolls V: Skyrim
 Motivation: NONE
 
 ### Response:
-
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -2319,8 +2119,6 @@ Motivation: NONE
 
 ### Response:
 
-
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -2341,8 +2139,6 @@ Title: The Elder Scrolls V: Skyrim
 Motivation: NONE
 
 ### Response:
-
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -2365,8 +2161,6 @@ Motivation: NONE
 
 ### Response:
 
-
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -2387,8 +2181,6 @@ Title: Torchlight II
 Motivation: NONE
 
 ### Response:
-
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -2411,8 +2203,6 @@ Motivation: NONE
 
 ### Response:
 
-
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -2433,8 +2223,6 @@ Title: The Elder Scrolls IV: Oblivion
 Motivation: NONE
 
 ### Response:
-
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -2457,8 +2245,6 @@ Motivation: NONE
 
 ### Response:
 
-
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -2479,8 +2265,6 @@ Title: The Elder Scrolls V: Skyrim
 Motivation: NONE
 
 ### Response:
-
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -2503,8 +2287,6 @@ Motivation: NONE
 
 ### Response:
 
-
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -2525,8 +2307,6 @@ Title: Minecraft
 Motivation: comfort
 
 ### Response:
-
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -2549,8 +2329,6 @@ Motivation: NONE
 
 ### Response:
 
-
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -2571,8 +2349,6 @@ Title: The Elder Scrolls V: Skyrim
 Motivation: NONE
 
 ### Response:
-
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -2595,8 +2371,6 @@ Motivation: NONE
 
 ### Response:
 
-
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -2617,6 +2391,4 @@ Title: The Elder Scrolls IV: Oblivion
 Motivation: NONE
 
 ### Response:
-
-
 

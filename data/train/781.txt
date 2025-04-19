@@ -19,4 +19,3 @@ Motivation: NONE
 
 ### Response:
 Ian, a former caravan guard, is willing to join the Vault Dweller if convinced. He can be recruited through conversation, offering him payment, or appealing to his sense of adventure.
-

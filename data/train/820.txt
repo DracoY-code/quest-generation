@@ -19,4 +19,3 @@ Motivation: NONE
 
 ### Response:
 Feargus, a resident of Arroyo, requests your help in fixing a broken well that the village relies on for water. You'll need to assess the damage and find a way to repair it.
-

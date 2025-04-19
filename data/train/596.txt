@@ -19,4 +19,3 @@ Motivation: NONE
 
 ### Response:
 Mom wants to send a meal to Smitty, the local mechanic in The Den. Your task is to take the food to him and ensure he gets it.
-

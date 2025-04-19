@@ -19,4 +19,3 @@ Motivation: NONE
 
 ### Response:
 A caravan of brahmin needs to be moved to a new location, but the route is fraught with danger. Your task is to ensure the safe arrival of the herd while dealing with any threats along the way.
-

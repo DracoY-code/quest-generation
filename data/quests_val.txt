@@ -20,7 +20,6 @@ Motivation: NONE
 ### Response:
 Mynoc, a craftsman in Arroyo, offers to sharpen your spear if you can bring him a piece of flint. The flint can be obtained from another villager through trade or conversation.
 
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -42,7 +41,6 @@ Motivation: NONE
 
 ### Response:
 Please help me, I am just poor Ardrouine! I don't know where else to turn. My little boy was playing in that abandoned lighthouse to the northwest when a pack of worgs surrounded it. Please just turn them back, and I can coax him down. There's not much time! I can pay you 60 coins: this money is all my husband brought back from market this past week. My son's life is worth this and so much more.
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -66,7 +64,6 @@ Motivation: NONE
 ### Response:
 A few days ago, our caravan was ambushed. A nuisance, really, but many of the marauders had quick fingers. One of them stole my Moon Amulet, given to me by my mother when I was just a cub. It is my only memory of home in this cold land. You offer to get my amulet back? We believe the bandits are a part of a group headquartered in Faldar's Tooth. Be careful. I miss my amulet, but a life cannot be replaced as easily.
 
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -88,7 +85,6 @@ Motivation: NONE
 
 ### Response:
 The Sierra Army Depot is a well-guarded pre-war military base rumored to contain powerful technology. Find a way inside and uncover its secrets.
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -112,7 +108,6 @@ Motivation: NONE
 ### Response:
 Adytum is under the control of the Regulators, a corrupt group posing as law enforcers. Jon Zimmerman wants them removed, and you must lead an effort to free the town.
 
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -134,7 +129,6 @@ Motivation: NONE
 
 ### Response:
 Aha! I see a wayfarer has come to amuse Kalah! You must answer a riddle, naturally, ere I will allow you to pass this bridge. Here's the riddle, my friend: The poorest have it, the richest need it, but if either were to eat it, they would certainly perish. Tell me what it is!
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -158,7 +152,6 @@ Motivation: NONE
 ### Response:
 Are you a sellsword? I don't like your kind. No honor. No loyalty. Unreliable. But I can't turn away a potential ally in these times. Let's see if you're better than a common mercenary. My scouts have tracked down one of the Forsworn leaders, hiding out in their blood-soaked camps at Serpent's Bluff Redoubt. Deal with that Forsworn leader.
 
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -180,7 +173,6 @@ Motivation: NONE
 
 ### Response:
 What is it, Associate? Don't tell me you're here for a recommendation from me. There was a particular Ring of Burden I was testing some time ago. Another stupid Associate somehow got his hands on it, and managed to misplace it. If I didn't know better, I'd say he purposely tossed it down the well behind the guild hall. Why he would do such a thing is beyond me. You will retrieve this ring for me. Should you manage to do so, I shall consider sending a recommendation to the Arcane University. The well is locked, so you'll need the key. Deetsan should have a copy of it. Now get moving.
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -204,7 +196,6 @@ Motivation: NONE
 ### Response:
 Roger Westin, an influential rancher in NCR, entrusts you with a holodisk containing valuable information for Vault City’s leadership. Your task is to ensure its safe delivery to First Citizen Lynette, who may reward you upon receipt.
 
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -226,7 +217,6 @@ Motivation: NONE
 
 ### Response:
 To tell you the truth, I've been a little distracted. I've got this... idea. I want to ring the whole hall with Rieklings' little spears. Mocking us, from the past. Making us work harder. Fight better. The only problem is, I'm going to need a lot of spears. A lot. So, if you could find a bunch of them for me, that would make it easier on me.
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -250,7 +240,6 @@ Motivation: NONE
 ### Response:
 Well, well. I haven't seen one of these beauties in a long time. A rare find in the original Falmer language. You're damn right I'm interested. Question is, are you selling? Well, considering no one else in Skyrim would buy something they couldn't possibly read, I'd say you don't have much of a choice. Tell you what, you bring me books like this, and I'll pay a thousand gold each. I'll even throw in a translated edition I have for free. If you're holding out for more gold, it's never going to happen.
 
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -272,7 +261,6 @@ Motivation: knowledge
 
 ### Response:
 Arrg! Important books are just rotting away in remote places, and no one is doing a damn thing about recovering them. All that precious knowledge... lost forever. Wait. Aren't you that infamous, misbehaving wreck of a person? I'm sorry, I have more important things to worry about than you. Unless, you want to start cleaning up your act. I know for sure that there's this book, "Secrets of the Overworld", just laying around somewhere withing a jungle temple. Just think what moist jungle air is doing to that precious tome of forgotten knowledge! I need to find it, and collect it for me. I can't leave the village myself; no one else can tend my library! I'm willing to pay a lot for the book: 5 blocks of emerald.
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -296,7 +284,6 @@ Motivation: NONE
 ### Response:
 My husband is missing in the mines. All I know about the mines are that men keep on disappearing in their hellish depths. My husband is one of the miners, but he hasn't been home for weeks. His name is Joseph, and he wears his wedding ring on his left hand. It's a greenstone ring. Please, find him and tell me how he is doing!
 
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -318,7 +305,6 @@ Motivation: knowledge
 
 ### Response:
 I have a task for you, stranger. And I'm willing to give you something precious in return. There are age-old tales of strong, volcanic glass. This glass is known as obsidian. I'd love to try out my masonry on obsidian! The tales also say that you can make obsidian by directing water on lava pools. There are many such pools underground in deep caves. I would ask you to mine out some obsidian blocks for me. I'm not built for adventure myself: carving stones is all I know.
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -342,7 +328,6 @@ Motivation: NONE
 ### Response:
 To proceed with infiltrating the Enclave, you need to retrieve the FOB from the base Commander at Navarro. This item is essential for gaining access to their advanced technology and transportation.
 
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -364,7 +349,6 @@ Motivation: NONE
 
 ### Response:
 You seek wisdom from me, child? Ah, no. You seek words of recommendation. Words are... difficult. They come and go. The voices, though. So loud they are, they drown out the words. Without my amulet, my stone to lock the voices away, the words will never come and stay. Would you lift your hands to help another, to help me find the words? Seek Agata, child. She will see the path, and set you on it. She may be young, but her heart is old and wise. It guides her well through these troubled times. I must rest.
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -388,7 +372,6 @@ Motivation: knowledge
 ### Response:
 There is a ruined portal not far from the village. My fellow villagers have seen some ominous-looking people, possibly cultists, near the portal. I am a servant of the Gods: I can't let dark cultists conduct their sinister rituals. I'd like you to investigate these cultists: you are a stranger, thus unknown to them. Who are they? What are their intentions? You should start by heading out to the ruined portal, and spying on those cultists. I have put aside a healing potion for you. Hopefully, you won't need to consume it immediately after your return. Godspeed to you. May you always walk on the path of light.
 
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -410,7 +393,6 @@ Motivation: NONE
 
 ### Response:
 Hello there, I am Lara, and I shall be your tutor. Not that you need schooling, but you might be unfamiliar with the duties you are to perform. In exchange for the many benefits you will enjoy as a favored of Lathander, you will have a few tasks to perform while here. They are humble, but very important. You are to lend your wisdom to the wounded and afflicted, those that are suffering from a misdirection of the heart. Guide them in the light of the Morninglord's glory. We shall introduce you slowly to the work. I shall send you someone that needs the guidance of Lathander, and then we shall evaluate how you have done.
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -434,7 +416,6 @@ Motivation: NONE
 ### Response:
 I'm busy, and I don't like being bothered unless I'm expecting something from you. Oh, don't give me that look. Fine. I supposed I can find some menial task to set your mind on. Hmm.... We have something of a vampire problem. Bodies have been found with blood drained. I know of a den nearby you can wipe out as a precaution. Pinemoon Cave. I don't expect you to be capable of even that. Vampires are clever hunters. More clever than you, definitely. I suppose I could show you a little about Illusion magic for free, couldn't I?
 
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -456,7 +437,6 @@ Motivation: NONE
 
 ### Response:
 My name's Farthing. I'm only five. In a few years my papa will let me hunt. Are you allowed to hunt? I've lost my dolly out in the woods. The gatekeeper won't let me go and get it. Can you get it for me?
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -480,7 +460,6 @@ Motivation: NONE
 ### Response:
 A person in The Den needs you to retrieve a book from Derek, who may not be willing to part with it easily.
 
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -502,7 +481,6 @@ Motivation: NONE
 
 ### Response:
 While you were gone, I've made some progress in deciphering the Mysterium Xarxes ritual. The third item we need is a Great Welkynd Stone. You may have run across lesser Welkynd Stones; they are fairly common in Ayleid ruins. But a Great Welkynd Stone will not be easy to come by. They have been plundered one by one over the years, due to their great value to mages and occultists. There is only one place that is rumored to still contain one: the ruins of the Ayleid city of Miscarcand. A place where many have perished seeking its Great Welkynd Stone. But nothing else will do, so you must succeed where all others have failed.
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -526,7 +504,6 @@ Motivation: NONE
 ### Response:
 Eisa's Journal by Eisa Blackthorn  Night shift woke me to say they'd hit something big. Kyr, Ra'jirr, and I went down to take a look. It's huge, like a whole forest was just swallowed up by the earth, with a big old monument out in the center. Kyr took a sword from the monument as a trophy and dubbed it the "Pale Blade", proof his whole plan was finally paying off. For once, he might be right.  Ra'jirr's been having nightmares over the past few days. He keeps muttering about a "Pale Lady" - one of those swamp women who steal children away at night, I think. To think some fool story could turn the toughest bandit I know into a cowering kitten, frightened of his own shadow. I'm just glad none of the others see him like this.  It's getting worse. Ra'jirr can barely sleep at all now, and whenever he dozes off, he wakes up screaming - woke the whole place last night. He says the "Pale Lady" is coming for us - she's down in the forest, we have to return the sword or she'll kill us all. Not a chance - the boss clings to that thing like he was born with it. I've told everyone Ra'jirr just has a fever, but this can't go on. I've pulled a few things together. I'll slip out tonight and never look back.
 
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -548,7 +525,6 @@ Motivation: NONE
 
 ### Response:
 Come to gawk at the monster? A little girl is dead because of me. Believe me, it wasn't anything I ever intended to do. I just... lost control. I tried to tell them, but none of them believe me. It's all on account of this blasted ring. This is the Ring of Hircine. I was told it could let me control my transformations. Perhaps it used to. But I'll never know. Hircine didn't care for my taking it, and threw a curse on it. I put it on... and the changes just came to me. I could never guess when. It would be at the worst times. Like... with the little girl. I don't suppose there's a point in keeping the secret if I'm going to die in here anyway. I'm sure you've heard of men who shift to beasts under the influence of the moons. I am one of them. A werewolf. It's my secret, and my shame. That's why I wanted the ring... it was said to give men like me control. Now I may look like a man, but I still feel the animal inside of me, as strong as ever. You would take the ring back to Hircine? Oh my. You would do this for me? Here, take it. I don't want anything to do with this wretched thing anymore. Seek out the beast. He wanders these woods. Bring him down and... well, the Lord of the Hunt should smile on you and appear before you. I wish you luck, but should leave here while I still have my skin. Should our paths cross again, I will remember your kindness. Farewell.
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -572,7 +548,6 @@ Motivation: NONE
 ### Response:
 The Stormcloaks need dedicated men and women who're devoted to the cause and willing to die for it. Before I can put you to use, I need to know how much you can take. I have a little test for you. I'm sending you to Serpentstone Isle. If you survive, you pass. If you die, well, you weren't going to be much use to me anyway. It's where men have tested their mettle for ages. There's a strange rock formation, built by the ancients. Something about that place attracts the Ice Wraiths. You kill an Ice Wraith out there, and I'll have all the proof I need about you being Stormcloak material.
 
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -594,7 +569,6 @@ Motivation: NONE
 
 ### Response:
 I am the spirit of the grove, child. I am the water, the earth, the trees, and the sun. I am life and death: the eternal cycle. A druid who serves the cause of balance is needed. The grove requires leadership, a gentle hand. Will you serve the grove as such? There is much work to be done. Listen and learn the path of balance, the path of the Eternal Cycle. Long have the trolls of the mound lived beneath the protection of the grove. But a new leader has arisen. Nilthiri the shamaness leads the trolls to chaos. She urges them to expand their territory, and she brings more trolls to the mound without thought to the consequences. If this continues, the trolls will overrun the grove, and nature will suffer. A servant of nature must bring the life cycle of Nilthiri to a close for the good of all. You will find Nilthiri along the path to the east of the troll mound.
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -618,7 +592,6 @@ Motivation: NONE
 ### Response:
 Dead Drop Orders #6 by Lucien Lachance  Alval Uvani is dead, just like all the others. You continue to impress me, Silencer, and I am only too eager to indulge your homicidal instincts. Your next target is a savage Nord barbarian, living alone and exposed at a small campsite on the summit of Gnoll Mountain. This barbarian, Havilstein Hoar-Blood by name, savagely butchered the chieftain of a mead hall on the island of Solstheim. The chieftain's sister has forgone the Nord custom of extracting the monetary retribution of wergild, and instead wants Hoar-Blood to pay with his life. You, dear Silencer, will help put her family at peace. You are to go to Gnoll Mountain, locate Havilstein Hoar-Blood, and send his soul to the great beyond. When Hoar-Blood has been executed, journey to the ancient ruin of Nornal. In the flooded section of that ruin you will find a chest, submerged in the water. As you may have guessed, the chest contains your reward for killing Havilstein Hoar-Blood, 500 gold, and your next contract.
 
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -640,7 +613,6 @@ Motivation: NONE
 
 ### Response:
 This is it men! This is an important day for the Empire and for the Legion. And for all of Skyrim. This is the day we send a message to Ulfric and the rebel Jarls who support him. We will protect Whiterun from Stormcloaks. But make no mistake. What we do here today, we do for Skyrim and her people. By cutting out the disease of this rebellion, we will make this country whole again! Ready now! Everyone, with me! For the Empire! For the Legion!
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -664,7 +636,6 @@ Motivation: NONE
 ### Response:
 You seek training? From me? A few too many loose lips, it seems. It's not something I want to be public knowledge, if you understand my meaning. Very well. Simple task for you. I just dropped a favorite coin of mine into my pocket. If you can steal it from me, I'll train you.
 
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -686,7 +657,6 @@ Motivation: NONE
 
 ### Response:
 All right. It's time to deliver the final blow to the Stormcloak rebellion. You all have fought bravely, and sacrificed much to bring us to this point. Ulfric thinks he can hide behind the walls of his castle. But we will fight our way in and drag him out through the rubble to face justice. Because this is the end for them, the Stormcloaks will fight like cornered rats. They will be fierce and crafty. But they are no match for Legionnaires. You are the best and the brightest warriors in Tamriel. Professional soldiers, fearless and devastating. The Emperor will be paying close attention to what happens here today. Men who distinguish themselves will be well rewarded. Ready now! Everyone, with me! For the Empire! For the Legion!
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -710,7 +680,6 @@ Motivation: NONE
 ### Response:
 Cleaning out the forge was the easy part. But those blasted Rieklings made off with most of my materials. And I can't forge air. You tend to wander around, don't you? If you come across any Stalhrim or Ebony in your travels, bring them back to old Halbarn. Help each other out.
 
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -732,7 +701,6 @@ Motivation: NONE
 
 ### Response:
 Someone needs to warn the Estherians. Head up the pass to their Enclave. Find my old friend, Commander Vale, and let her know what happened. Tell them that the Alchemist destroyed Torchlight, and is headed their way. He may be there already...
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -756,7 +724,6 @@ Motivation: NONE
 ### Response:
 Upon returning to Vault 13 during the search for the water chip, the Vault Dweller discovers unrest among the citizens. Some residents, led by Theresa, are contemplating leaving the safety of the vault to face the unknowns of the wasteland. By engaging with the upset dwellers and attending their meeting at 17:00 in Theresa's quarters, the Vault Dweller has an opportunity to persuade them to remain, ensuring the stability and unity of the vault community.
 
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -778,7 +745,6 @@ Motivation: NONE
 
 ### Response:
 I am Khellor Ahmson, a mere guard. I saw what happened, and I share your helplessness. Any complaints about Officer Roenall must first go THROUGH him, so you can imagine how many get through. This did not come from me, for if my indiscretion against Roenall were to get out, I should be thrown from the military. There is one way you can get to him. Roenall is quite corrupt and more than willing to exercise his power. You are not monitored as we, so you can do something that I or another guard cannot. Look to the docks and a man named Barg. Examine him and what he does, and you are sure to see what I mean. You might also wish to pry into Roenall's personal records. They may reveal something of his fondness for gems. I did not tell you this... and I certainly did not say his records are in his home northwest of the main government building in the Government District. Think on what I've said, and bring anything you learn to Corgeig Axehand in the Government District main building. He is Roenall's commander.
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -802,7 +768,6 @@ Motivation: NONE
 ### Response:
 Someone has contracted us to kill Beitild. She separated from her husband several months ago. Now the two run competing mining operations in Dawnstar. I hear the mining business is extremely cutthroat. And those hours... they're murder. Beitild's angry and desperate. A fighter.
 
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -824,7 +789,6 @@ Motivation: NONE
 
 ### Response:
 It's me, Oublek. A bit of nonsense from a local artist named Prism. Made off with a couple of emeralds, he did. There is a reward for the return of the gems: a 300 gold bounty. Prism's fate is of less importance.
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -848,7 +812,6 @@ Motivation: NONE
 ### Response:
 I'm Velwyn. You wouldn't happen to be in the market for a home would you? If you are, I just happen to be selling a manor located right here in Anvil. I'm selling my grandfather's house, Benirus Manor. If you're interested, I could let you have it for a modest sum, 5,000 gold. I have to sell it soon, as I have pressing matters elsewhere. You're welcome to take a look at it. It is located across the street from the Chapel. Once you buy, you get the key to the front door and the deed of ownership. That's the deal.
 
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -870,7 +833,6 @@ Motivation: NONE
 
 ### Response:
 Modyn Veleth, Captain of the Redoran Guard at your service. Looking for something to lend a hand with? We have problems aplenty in Raven Rock. Commanding the Redoran Guard can be a difficult task. Even the most experienced warriors can fall prey to petty distractions. They usually didn't amount to much, but they make my job that much harder. Some of my own men have become quite accustomed to a spirit they called 'Emberbrand Wine.' Despise the stuff myself. It's powerful and tremendously addicting... I've seen men fail to finish even a single flask. If I knew where they were stashing the bottles, I'd put an end to it myself. Could you track down the stash? That would be helpful. I just don't have time to do it myself right now. They're too smart to have left it in the Bulwark. I'd search one of the abandoned houses on the outskirts of town.
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -894,7 +856,6 @@ Motivation: NONE
 ### Response:
 It seems I'm having a bear problem and I just don't know what to do. I've had attacks on my small flock of sheep lately. I was hoping that building a fence would solve the problem, but it hasn't helped at all. Then, one day when I was just about to step outside, I saw the culprits. A group of West Weald Bears was dragging away a sheep carcass. There's no way I can fight those ferocious beasts off on my own. If you could thin the population a bit, they would probably leave the area. Kill six of the things, bring me their fangs as proof, and I'll reward you well. Please, you're my only hope.
 
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -916,7 +877,6 @@ Motivation: NONE
 
 ### Response:
 While the information we got from the Argonian was valuable, we need more. I want you to infiltrate them. See how they work from the inside. I want you to get to Leyawiin and join the Blackwood Company. Find the secret of their success. You'll be on your own. Steer clear of me and all of your Fighters Guild brothers. It'll be rough going, but you can do it. Good luck.
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -940,7 +900,6 @@ Motivation: NONE
 ### Response:
 I'm Frida, the oldest woman in Dawnstar. I picked up the herb trade from my husband. We used to go out in the wilds and collect ingredients together. He used to call me his "pretty Juniper." It's quite romantic, if you're an alchemist. Frost took the old fool a few seasons back, while he was looking for the Ring of Pure Mixtures. I found the ring's resting place, Shrouded Grove, after he died, but I'm far too old to go exploring some cave, now. I'd be happy to give you some alchemy training in exchange for the ring, if you bring it to me.
 
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -962,7 +921,6 @@ Motivation: comfort
 
 ### Response:
 You're the one who's been helping people, right? Well, now you could help me too. You see, I need to get my hands on a Potion of Strength. I'm not the strongest person around: for once, I'd like to carry things around as if they were mere feathers. Give me the potion, and receive a precious diamond in return.
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -986,7 +944,6 @@ Motivation: NONE
 ### Response:
 Y-you... you killed those monsters? It was so... horrible! They turned me, Raissa, into one of them: a skin dancer. Peeled my skin from m-my bones and... and now I've put it back! They turned me into one of them. He took my skin like it was some kind of coat and put it on. He told me that now I was a skin dancer too. I... I cannot go anywhere like this! I can feel that magic, that evil, growing inside of me! Please, my noble savior... help me! Wh-when he was... taking my skin, the skin walker said the only way to stop the process was a spell of restoration. B-but he laughed, saying I would never receive it. If... if you could find that spell, could you not cast it upon me? Maybe... maybe the temple superior at the Waukeenar Temple would have something! I have no coin. I know such magic is very expensive... but if you could find it in your heart to save me, I would be eternally grateful!
 
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -1008,7 +965,6 @@ Motivation: NONE
 
 ### Response:
 The Temple of Trials is a test of strength, intelligence, and resilience. Only those who successfully complete it can claim the title of the Chosen One and embark on their journey to save Arroyo.
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -1032,7 +988,6 @@ Motivation: NONE
 ### Response:
 Lady Narina Carvain, Countess of Bruma. Welcome. I've been looking for just the right owner for a special home I have. It's a quaint little house conveniently located just off the main gate. I'll sell it to you for 10,000 gold. I've had a look at the place myself, and it could use some furnishings inside. Quite barren in there I'm afraid. I'm fairly certain that Suurootan at Novaroma here in Bruma can acquire the things you'll need to make it look like home.
 
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -1054,7 +1009,6 @@ Motivation: NONE
 
 ### Response:
 My name was Sir Juncan. I wish to see you succeed where I failed. I was on the path to the Boots of the Crusader, but died before I reached them. I cannot tell you exactly how to find the Boots, for that will be up to Kynareth. I can tell you to seek out her Priests, though. West of the Imperial City, on the edge of the Great Forest, is a shrine. You will find them there, and they will tell you what you need to know.
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -1078,7 +1032,6 @@ Motivation: NONE
 ### Response:
 The player can attempt to free the slaves held by the Khans through combat or stealth. This action improves the player's moral standing but may provoke hostility from the Khans.
 
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -1100,7 +1053,6 @@ Motivation: NONE
 
 ### Response:
 Arroyo is in desperate need of the GECK, a device that can revitalize barren lands. You must search Vault City and beyond to locate it and ensure the survival of your home.
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -1124,7 +1076,6 @@ Motivation: NONE
 ### Response:
 Thank goodness someone that can help is here! I don't know how to make this request any simpler, but to put it bluntly, Raelynn the Gravefinder must die. A few months ago, that witch of a Necromancer decided to inhabit Moss Rock Cavern just north of my inn. I don't know what she does in there; frankly, I don't want to know. However, I do know that after she arrived, the woods at night became unsafe. I've seen undead of all types walking in the dark woods near the cave entrance. Now, this area's getting a bad reputation and my business has waned. Every day, it seems the number of undead increase. If someone can get into the cave and kill Raelynn, maybe we can stem the tide. Her death pays a handsome bounty. I hope you'll take advantage of the opportunity. Raelynn will finally get what's coming to her.
 
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -1146,7 +1097,6 @@ Motivation: NONE
 
 ### Response:
 The first thing we need to do is figure out who's behind the dragons. The Thalmor are our best lead. If they aren't involved, they'll know who is. If we could get into the Thalmor Embassy... it's the center of their operations in Skyrim... Problem is, that place is locked up tighter than a miser's purse. They could teach me a few things about paranoia... I have a few ideas about getting inside the Embassy, but I'll need some time to pull things together... Meet me back in Riverwood. If I'm not back when you get there, wait for me. I shouldn't be long. Keep an eye on the sky. This is only going to get worse.
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -1170,7 +1120,6 @@ Motivation: NONE
 ### Response:
 When the Zeraphi and Ezrohir "parted ways," they designated the nearby fortress of Riftkeep as a neutral ground, where they could meet and talk over their differences. But it has remained unused for centuries... until a few weeks ago, when the Ezrohir army seized the fortress. They have occupied it ever since, and that is surely where they are holding the Guardian of Mana while they marshal their forces. The Ezrohir will be expecting the Zeraphi to attack them at Riftkeep, to attempt to rescue the Guardian. But they know it will take time for the Zeraphi to arrive. You can get there much more quickly, and fight your way inside before they are prepared to repel you. Go. Fight past the Ezrohir and free the Guardian!
 
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -1192,7 +1141,6 @@ Motivation: NONE
 
 ### Response:
 I picked up a trick from a master butcher. He showed me a way to grind up ice wraith teeth and use it as a preservative. Keeps everything cold and fresh, but only for a limited time. I'm always looking to replenish my supply, so if you ever come across five of them, I'd be more than happy to take them off your hands. The last traveler that traded me some said he found them at a place called Ancient's Ascent. Careful though, rumor has it a dragon makes its home there.
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -1216,7 +1164,6 @@ Motivation: NONE
 ### Response:
 I, Firebead Elvenhair, have a small errand for you. I left an identify scroll with Tethtoril, in the inner grounds. He should be done examining it by now, so if you could fetch it for me, I'd be grateful. I have a great use for those types of scrolls. Allow me to cast a little spell on you as a reward. It will protect you from any evil you might meet tonight.
 
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -1238,7 +1185,6 @@ Motivation: NONE
 
 ### Response:
 A contract for you? I, Azzan, think I've got something that suits your experience. Arvena Thelas has some problem with rats in her house. As I said, rats. I'm sure she can explain it to you better than I. She lives here in Anvil. Go and talk to her. Go take care of the rats. Then talk to me. Good luck!
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -1262,7 +1208,6 @@ Motivation: NONE
 ### Response:
 Arkay has some grave news, friend. Your friend, Farkas, kidnapped! A vicious night stalker rules over a group of necromancers - seeks to gain leverage over the righteous. Arkay's never clear on life and death. Is he still alive? There's always hope... Go to Morvunskar, kill the vampire, and try to save Farkas.
 
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -1284,7 +1229,6 @@ Motivation: NONE
 
 ### Response:
 You would like to join the Companions? Would you now? Here, let me have a look at you. Hm. Yes, perhaps. A certain strength of spirit. How are you in a battle, child? Don't feel like you need to show off for our sake. Vilkas, here, will be the one testing your mettle. Let Vilkas take you out to the yard and see what you can do.
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -1308,7 +1252,6 @@ Motivation: NONE
 ### Response:
 Hello. I'm Casta Scribonia. The writer. Author of 'Woman Gone Wild'. Who is the fairest of them all? Other than myself? Emfrid, the proprietor of the Grey Mare is lovely. She and Bittneld the Curse-Bringer, the guard captain would be a nice couple.... Perhaps you could bring them together somehow... try talking to them both about each other?
 
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -1330,7 +1273,6 @@ Motivation: NONE
 
 ### Response:
 I know what you want. Word travels fast around here. Discovered some big mystery, huh? Well you don't even need to ask. No, I don't have anything for you. Not anymore, anyway. Orthorn stole a number of books when he ran off to Fellglow Keep to join those Summoners. Some kind of peace offering. I think one of those volumes may have had some relevant information. If you want them, you'll have to talk to Orthorn.
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -1354,7 +1296,6 @@ Motivation: NONE
 ### Response:
 I have another job for you. This is not quite in your usual line of work, but I hope you can help me just the same. A rival collector has an item, the Crown of Nenalata, which I very much want to add to my collection. But she stubbornly refuses to consider any of my offers. She and I have had our differences over the years, I admit. Now she is taking this opportunity to get her revenge. I believe that you may be able to persuade her to part with the item, where I cannot due to her prejudice against me. Her name is Herminia Cinna. She lives here in the Imperial City, in the Elven Gardens district. I hope you will succeed where I have so far failed. Afterwards, in order to bring my research on the last king of the Ayleids to its final stage, I need to go to the Throne Room of Nenalata. While I am not without means of defending myself, I believe you would be an invaluable companion on such an expedition. Your reward will be whatever plunder you wish to carry off from Nenalata. Since the Throne Room has been sealed since the time of the Ayleids, it should provide rich pickings.
 
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -1376,7 +1317,6 @@ Motivation: NONE
 
 ### Response:
 I've deciphered part of the ritual needed to open a portal to Camoran's Paradise. The Mysterium Xarxes mentions four items needed for the ritual, but so far I have only deciphered one of them: the 'blood of a Daedra Lord'. In fact, Daedric artifacts are known to be formed from the essence of a Daedric Lord, from whence they derive their great power. Not an easy thing to come by, obviously, but we will need a Daedric artifact. The only way to obtain a Daedric artifact is through the cults devoted to each of the Daedric Lords. The book "Modern Heretics" is the best introduction to Daedric cults. The library here has a copy if you need it. Bring the artifact to me when you have acquired one. Remember, the Mysterium Xarxes ritual will consume the physical form of the artifact in order to release its Daedric power.
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -1400,7 +1340,6 @@ Motivation: NONE
 ### Response:
 Hello! I thought I heard someone moving around out there. Listen, my name's Medrus. I got ambushed by some raiders, and managed to get clear... but I got pretty badly injured in the process. I can treat it, but I need some Merryweather Leaves. They grow around here, but I'm too weak to look for them. Think you can find some for me, bring 'em back here? You'll be rewarded, I promise.
 
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -1422,7 +1361,6 @@ Motivation: NONE
 
 ### Response:
 Are you ready to transact the Oath with Nocturnal? By transacting the Oath with Nocturnal, you're entering into a business deal. You'll be provided all of the power and knowledge befitting a Nightingale. You're free to use those powers as you see fit to further your own goals or the goals of the Thieves Guild. In return, you'll be required to defend the Twilight Sepulcher and everything within when the need arises. More importantly, upon your death, your spirit will be bound to the Twilight Sepulcher as one of its guardians. Once the Oath has been struck, the terms are binding. Knowing this, are you ready to undergo the ceremony?
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -1446,7 +1384,6 @@ Motivation: NONE
 ### Response:
 You disrespected the Dark Brotherhood. And it'll cost you. You want back into the Family, you pay the price. 500 gold, and all is forgiven. I suggest you "collect" it. Until you pay the fine, you are effectively cut off from all Dark Brotherhood duties and contracts. No contracts. No rewards. No respect.
 
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -1468,7 +1405,6 @@ Motivation: NONE
 
 ### Response:
 I have an important task for you. I need you to break into Mercer Frey's home and search for anything that could tell us where he's gone. Mercer's house is in Riften. A gift from the Black-Briars after they kicked the previous family out... a place called Riftweald Manor. He never stays there, just pays for the upkeep on it. Hired some lout by the name of Vald to guard the place. Be careful, kid. This is the last place in Skyrim I'd ever want to send you. Just find a way in, get the information and leave. And you have permission to kill anyone that stands in your way.
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -1492,7 +1428,6 @@ Motivation: NONE
 ### Response:
 The Thalmor ambassador, Elenwen, regularly throws parties where the rich and connected cozy up to the Thalmor. I can get you into one of those parties. Once you're inside the Embassy, you get away and find Elenwen's secret files. I have a contact inside the Embassy. He's not up for this kind of high-risk mission, but he can help you. His name's Malborn. Wood elf, plenty of reason to hate the Thalmor. You can trust him. I'll get word for him to meet you in Solitude, at the Winking Skeever -- you know it? While you're doing that, I'll work on getting you an invitation to Elenwen's little party. Meet me at the Solitude stables after you've arranged things with Malborn.
 
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -1514,7 +1449,6 @@ Motivation: NONE
 
 ### Response:
 Would you happen to be headed towards Darkwater Crossing? My parents live there. I usually make the journey to bring them gifts and to just say hello, but I haven't been well lately. I've written some letters and placed them in a satchel. Perhaps you wouldn't mind delivering it to them on my behalf? I would insist on rewarding you for your time. Here, take my satchel and give it to my father, Verner. He'll likely have something for you to bring back.
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -1538,7 +1472,6 @@ Motivation: NONE
 ### Response:
 I'm Quinn. There's some ankhegs causin' chaos upriver, alon' the east bank, just north o' that bitch priestess. They took down my pal, Nester, and dang near hauled me under too. 'At's why I'm so glum now. Nester's mama's gonna want somepin' of 'is to bury, but I'm still gettin' too many nightmares and all to go back there.
 
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -1560,7 +1493,6 @@ Motivation: NONE
 
 ### Response:
 Mr. Salvatore needs someone to witness a secret deal without being detected. Watch the transaction carefully and report back.
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -1584,7 +1516,6 @@ Motivation: comfort
 ### Response:
 Great timing, Hero. I'm suffering... my poor heart is writhing in love. Help me find a rose for my loved one, so that my heart may yet calm down. All I need is but a single rose. They can be found in various temperate forests. Please, help a fellow in love. I have 27 pumpkin pies I can give you.
 
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -1606,7 +1537,6 @@ Motivation: NONE
 
 ### Response:
 It appears you have found my body. Very good. This is where my memories are stored … including the locations of multiple caches of treasure. I could share these with you, if you would help me reacquire the rest of my components. We should begin with my Cognition Linkage. Without that, I won't be able to do much more than repeat this message. My sensors tell me it is somewhere nearby. Find it and reinstall it, and I will direct you to one of those treasure troves.
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -1630,7 +1560,6 @@ Motivation: NONE
 ### Response:
 I am Dawnlord Arenthis of the church of Lathander... excuse my young charge. Risa doesn't talk much since the recent death of her parents. There is very little that can be done for her as well... other than to put her into an orphanage, I suppose. She is so shy and sad, though, I am sure it will do her no good. If only there were someone who would care for her. Might you know of someone who would make a suitable guardian?
 
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -1652,7 +1581,6 @@ Motivation: NONE
 
 ### Response:
 I've just received word from the Countess of Bruma that an Oblivion Gate has opened outside the city. It seems that the Mythic Dawn are putting their plan to attack Bruma into motion. Since you've dealt with these Gates before, I'd like you to help the Countess's guard close this gate. Once they've seen how it's done, they should be able to handle any new gates on their own. Captain Burd is waiting for you outside the Bruma city gate. He'll show you the Oblivion Gate. Although I doubt it will be hard to find.
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -1676,7 +1604,6 @@ Motivation: NONE
 ### Response:
 I am Alessandra, a priest of Arkay. My father was a Priest of Arkay, as well. All my life was spent around the dead, being forced to learn the proper burial rituals and prayers. I never had any friends; who'd want to spend time with 'the little weird girl who hangs around dead people?' So I grew up with a miserable trade. This is all I know how to do... prepare and inter the deceased. I'd like to make the journey to the Hall of the Dead in Whiterun and give my ceremonial dagger to Andurs, the caretaker. I believe once it's interred with my father's remains I'll be at peace with his memory. A Priest of Arkay is entrusted with a ceremonial dagger once they've completed their training. It's usually given by the head priest who sanctified the ritual. In my case, the head priest happened to be my father. The thing is, I never wanted to follow in his footsteps... In some ways I still don't. I'm entrusting you with the dagger. Bring it to Andurs and he'll take care of the rest.
 
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -1698,7 +1625,6 @@ Motivation: NONE
 
 ### Response:
 What cruel whim of the fates controls this torment of me?! I, Mr. Colquetle, have heard nothing from my son and his wife for nigh unto a week now, and all else pales in importance until I do. I should have known better than to allow his travel in these dangerous times.
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -1722,7 +1648,6 @@ Motivation: NONE
 ### Response:
 Dead Drop Orders #7 by Lucien Lachance  My compliments on another job well done! Havilstein Hoar-Blood was more swine than man, and deserved to die quivering like an animal! You must not stop! You must kill again! Your next target is a Wood Elf named Ungolim, who resides in the city of Bravil. Bravil is also home to an ancient statue known as the Lucky Old Lady. It is seen as a symbol of good luck and prosperity, and the fools of Bravil often speak to the statue and wish for good tidings. Every night, poor lovestruck Ungolim visits the statue and pleads desperately for the heart of a young maiden. This maiden is married, and her husband has learned of Ungolim's affection for his bride. He fears the competition, it would seem, and has commissioned the Dark Brotherhood to help in the matter. You must go to Bravil, locate Ungolim, and kill him. The Wood Elf owns a house in the city, but he spends his days securely locked inside. I recommend you lie in wait at the Lucky Old Lady statue, and then eliminate Ungolim when he arrives for his nightly visit. He's generally there between the hours of 6:00 PM and 1:00 AM. By all accounts, Ungolim is a deadly archer and a fearless opponent. I also have reason to believe he is expecting trouble, so if Ungolim senses danger, he may attack you on sight. Be vigilant, and bring the Wood Elf down! You must not fail! When Ungolim's body lies broken at the foot of his dear statue, you must journey to the city of Anvil. Your dead drop is in a barrel located behind the statue in the pond. As is standard, your reward and next contract will be waiting.
 
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -1744,7 +1669,6 @@ Motivation: NONE
 
 ### Response:
 The Alchemist must be stopped before he attacks any more Guardians! Each time he siphons off our energy, he becomes more dangerous. You and Commander Vale should return the Estherian Enclave, and plan your next move.
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -1768,7 +1692,6 @@ Motivation: NONE
 ### Response:
 Good day to you, stranger. I'm called Palin. Excuse my, uhm, abruptness but I would ask your assistance. Just east of this place there are monsters. They are attacking a small group of people. Please, if you have hearts, come and help me fight.
 
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -1790,7 +1713,6 @@ Motivation: knowledge
 
 ### Response:
 I have heard whispers about some strange arrows here in the village. They are known as "spectral arrows", and I'd like to find out what exactly they do to their targets. Call that my professional curiosity as a fletcher. If you obtain a spectral arrow in your travels, I'd be happy to have it for research. I will even give you some special arrows I've made: Arrows of Weakness. Shoot an enemy with one, and you'll find them much weaker... and easier to kill.
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -1814,7 +1736,6 @@ Motivation: NONE
 ### Response:
 Big Jesus Mordino needs a package delivered to Ramirez at the Stables. Complete the delivery to earn money and reputation with the Mordino family.
 
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -1836,7 +1757,6 @@ Motivation: NONE
 
 ### Response:
 Irwin, a displaced farmer in the Hub, pleads for help in reclaiming his farm from a group of raiders. The player can take on the challenge, eliminate the raiders, and restore Irwin’s home, earning a reward for their efforts.
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -1860,7 +1780,6 @@ Motivation: NONE
 ### Response:
 Hand to Hand training, eh? The real question is, can you fight? You know, throw a good punch? Can you? I'd like to find out if I'm going to spend time working with you. So are you up for a sparring match? I'll make it easy on you. I won't throw a single punch. I just want to see what you've got, anyway. So, is it a deal? If I see you reach for a weapon, I'm calling it off. And if you can actually hurt me, I'll tell you to stop. If this goes on for too long, and I get bored, I'll stop you. Now show me what you've got!
 
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -1882,7 +1801,6 @@ Motivation: NONE
 
 ### Response:
 Hello again. It's me, Azzan. Good to see that you're looking for more work. There's certainly more to be done. I need you to help Elante of Alinor. Elante is a scholar, interested in researching Daedra worship. Meet her in Brittlerock Cave, help her find the shrine, and keep her safe.
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -1906,7 +1824,6 @@ Motivation: NONE
 ### Response:
 BOUNTY! Commander Vale of the Vanquisher Corps is offering a reward to anyone who can help thin out the packs of Warbeasts hampering colonization and defense efforts in Estheria. This reward shall be paid to anyone who slays 10 or more Warbeasts in the Temple Steppes.
 
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -1928,7 +1845,6 @@ Motivation: NONE
 
 ### Response:
 He-hello, travelers. I'm Tiber. Could... could I take up some of your time? I would be very grateful if you would just listen to... if you would just help me! It's my brother, you see. He and I went into the Cloakwood to clear the woods of the spider colony that infests it. I know it sounds foolish... but my brother had found the sword "Spider's Bane"! The sword was created to kill spiders... and we thought we could become famous... the heroes of Cloakwood, and all that. But my brother hasn't returned yet... and it's been more than a week. Please, could you go into the woods and find him for me? His name's Chelak. My mother would be so shattered if Chelak were to be dead.
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -1952,7 +1868,6 @@ Motivation: NONE
 ### Response:
 You're really going to the Blue Palace? That presents an opportunity. If you were willing to wear one of Radiant Raiment's outfits and speak to the Jarl I would not only pay you but let you keep the outfit. Here's the outfit. Try to get Jarl Elisif's opinion on it and if she likes it mention it's from Radiant Raiment.
 
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -1974,7 +1889,6 @@ Motivation: knowledge
 
 ### Response:
 Traveler! Did you know that our dimension is one among many. There exists a dimension called "The End". It is a mysterious place, and supposedly hard to reach. I yearn to know more about that dimension. I have heard vague rumors about fruits native to the End that might teleport you a tiny distance when digested. They are called Chorus Fruits. If you get your hands on six Chorus Fruits, I promise to reward you well with 12 diamonds. Please help a man sate his ever-growing curiosity.
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -1998,7 +1912,6 @@ Motivation: knowledge
 ### Response:
 As a cleric, my duty is to heal the villagers of Woodland Homestead both spiritually and physically. As a hero, your duty is to help people in trouble. I sometimes devise new treatments for various illnesses: some of my experiments are successful, the others, sadly, not so much. I would like you to assist me with an experiment. I also have a volunteer participating in the experiment as well: a depressed man from this very village. I need you to go to the Desolate Plains, the desert just outside this village, and hit that test subject of mine with lightning when there's a thunderstorm. For this, I'm giving you an enchanted trident: you can use it to channel lightning during thunderstorms. Finally, you should report back to me, and let me know what happened. You can keep the trident. May the Gods be with you, hero!
 
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -2020,7 +1933,6 @@ Motivation: NONE
 
 ### Response:
 Someone wants the Wanamingo Mine in Redding shut down for good. Your task is to sabotage the air purifier to make the mine unworkable. Be careful—guards or miners may try to stop you.
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -2044,7 +1956,6 @@ Motivation: NONE
 ### Response:
 Another mortal dares to summon me, Sheogorath, and already I am bored. But enough about me. Let's talk about you. I could turn you into a goat. Or a puddle. Or a bad idea. I could make you eat your own fingers. Or fall in love with a cloud. Perhaps I could make you into something useful. Let's find out. There's a little settlement called Border Watch. It's a nice, peaceful place... and dull, dull, dull. You're going to make their lives interesting. They're a superstitious bunch. Everything is an omen or a portent. Let's make one come true. Find their shaman and ask about the K'Sharra prophecy. You are to find a way to make the first two parts of the prophecy come true. I'll take care of the rest, because it's the most fun. Now, run along.
 
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -2066,7 +1977,6 @@ Motivation: NONE
 
 ### Response:
 Ah, there you are. We've got some business to discuss. You must go to the city of Markarth, and speak with the apothecary's assistant. You'll probably find her in the shop, The Hag's Cure. The girl's been running her mouth, wants an ex-lover killed. She's apparently performed the Black Sacrament. Her name is Muiri. I need you to talk to her, set up the contract, and carry it out. Just do whatever the contact wishes. Be professional, represent us well, and get the job done. Since it's your first contract, I'll let you keep whatever Muiri pays. She'll be generous, I'm sure. They always are.
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -2090,7 +2000,6 @@ Motivation: NONE
 ### Response:
 It's good to see you again, my friend! I know that I promised you a greater reward, should you come to visit... but that was before I returned to the Ossean Wastes and found the Celestial Armory under siege by Ezrohir. What if I give you your choice of artifacts from the Armory? The Celestial Armory houses some of the finest weapons in the world! You have but to use the Golden Gear to get inside, then activate the Armory Portal, which will allow us to gather up the weapons and armor safely... with the Ezrohir none the wiser!
 
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -2112,7 +2021,6 @@ Motivation: NONE
 
 ### Response:
 I'm Edla. I have a son. His name is Nikulas. He's a good lad, strong and loyal. I only wish he wasn't so eager to leave the village. I've tried to tell him that the world beyond our lands is dangerous and cruel, but he won't listen. For now, I need Nikulas here. You see, his father, my husband, was recently lost to us. Nikulas is all that I have left in this world. I know it is selfish of me to say so, but I cannot lose him. Not while I still grieve. Also, I know his heart. Nikulas is reckless and foolish, like most young men. He cannot understand what awaits him in the wide world. Could you talk to Nikulas? I know he would listen to you. You've been out there in the wide world. You know its perils.
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -2136,7 +2044,6 @@ Motivation: NONE
 ### Response:
 There is always work for the Companions. But there is more personal task before me. Kodlak's final teaching is troubling me. I think he was right about beastblood and Sovngarde. I wish to cleanse myself that I might know glory in the afterlife. Will you help me give up my beasthood? You still bear a head of the Glenmoril betrayers, yes? Then lead on, back to the Tomb of Ysgramor. My soul is now prepared.
 
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -2158,7 +2065,6 @@ Motivation: NONE
 
 ### Response:
 I need some more supplies. Can you help out with that? I'm running low on Common Soul Gems. Bring me another seven of them, if you can.
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -2182,7 +2088,6 @@ Motivation: NONE
 ### Response:
 I'm Quallo, and this thing here is my friend. You have come for the blade, I suppose. It is as we have always expected, my friend. (He glances to the creature beside him.) Too long in this pit, too long. The gleam in your eye! It belies your greed, your passion. I've found this blade, child! It is hidden most insidiously. A cruel jest has been played upon us all. My friend here knows this! The One has left clues for you. Have you not found the clues? Where the topside filth drains, there are the clues. Return to me ere you follow the One's path, for there is much that you must learn.
 
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -2204,7 +2109,6 @@ Motivation: comfort
 
 ### Response:
 Aren't I just the handsomest man in this village? I'd like to become even flashier than I am now. Even you, traveler, lack any kind of flashy armor. I could give you my old, crummy diamond chestplate so that you'd look a bit less embarrassing. However, I want you to give me a brand new leather tunic in return.
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -2228,7 +2132,6 @@ Motivation: NONE
 ### Response:
 Whoa, there. I don't know where you're going, but stay out of that mine. It isn't safe. We tunneled into an old Nordic crypt. The whole place is crawling with draugr. We're not mining up any ore with those undead around, so I wouldn't go down there if I were you. You want to clear out the draugr? You're joking, right? Those bone-walkers will tear you limb from limb. But if you want to get yourself killed, go ahead. I hear talk about a regiment coming to clear the crypt out. We'll see if that happens.
 
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -2250,7 +2153,6 @@ Motivation: NONE
 
 ### Response:
 A dire situation requires the Brotherhood of Steel's assistance. You must convince the Elders to intervene by presenting a strong case for their involvement. Your success depends on your persuasive skills and available evidence.
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -2274,7 +2176,6 @@ Motivation: NONE
 ### Response:
 I am Hurgan Stoneblade, presently residing in Citadel Adbar. Have I got the adventure that'll make ye yearn for glory! Ye have heard of Durlag's Tower, mayhaps? Me granda' was a good friend of Durlag's. Me granda' was slain by an evil demon but Durlag survived. Durlag kept "Soultaker" that had been me granda's. He was going to send it to me mother, but he was betrayed. A sad tale, that. After Durlag built the tower his family was replaced by doppelgangers. Durlag killed them all but was driven mad by the act. He entrapped his tower heavily and forgot about me granda's dagger. If ye be interested, I wish to hire ye to retrieve me granda's dagger, "Soultaker," me birthright. An enchanted hammer I can offer ye for yer services.
 
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -2296,7 +2197,6 @@ Motivation: NONE
 
 ### Response:
 Have you ever heard of Shalidor? Immensely powerful mage, back in the First Era. Had an understanding of magic few have ever matched. He holed himself up in Labyrinthian, and devoted all of his time to research and study. Wrote more than you would imagine possible. Since then, his writings have been scattered all over Skyrim, but are little use to anyone who can't translate them. I'm one of the few who can. I'm always trying to find more of Shalidor's writings. I've heard whispers of more of his work having turned up. If you can track it down, it may prove useful to all of us.
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -2320,7 +2220,6 @@ Motivation: NONE
 ### Response:
 Are you interested in my services? I warn you, my skills do not come cheaply. Hmm, I suppose I can work with your face. After all, the sculptor cannot always choose the finest clay. Shall I remake your face?  It is no small thing to submit yourself to the flesh sculptor's knife. Just give me 1,000 gold and tell me what you desire - beauty or hideous deformity, nothing is beyond my skill.
 
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -2342,7 +2241,6 @@ Motivation: NONE
 
 ### Response:
 I'm a botanist, serving the Empire by gathering various Ember-infused plants.  And I've found a virtual treasure trove of Ember Truffles, down in the Muckery... but some of them have already attained sentience, and that's making it difficult for me to gather them. If you can bring me, say, a dozen Ember Truffles, I'll keep ten for the Empire, and I'll use the other two to make a Super Mana Potion for you. Do we have a deal?
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -2366,7 +2264,6 @@ Motivation: NONE
 ### Response:
 Faded Note The last thoughts of one of Crucible's residents  I don't think I'll live much longer. My wine supply is thinning, only one bottle left. Bernice's wine is worthless! I would have lasted longer on bark. I'd go back home to resupply, but Brithaur, that maggot, has stolen my house. It's not just him, though, it's also the others. I can't leave the safety of the roof. They have a plan for me, I see it in their eyes. Caldana, Earil, Cutter, ALL OF THEM! They don't know I'm up here, watching. Not much longer, though. At least they won't find me or my stash. I've put all my favorite things in an urn, and sunken it in the sewage near the back of Bernice's dive. I think I'll drink that last bottle to celebrate.
 
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -2388,7 +2285,6 @@ Motivation: NONE
 
 ### Response:
 We did have a bit of a... break-in. But we still have plenty to sell. Robbers were only after one thing. An ornament, solid gold. In the shape of a dragon's claw. I've got some coin coming in from my last shipment. It's yours if you bring my claw back. If you're going after those thieves, you should head to Bleak Falls Barrow, northeast of town.
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -2412,7 +2308,6 @@ Motivation: NONE
 ### Response:
 Hello! I'm the spiced wine merchant Evette San. You wouldn't have a few minutes to run down to the docks would you? I've got a shipment of spices the East Empire Company is holding up. I need someone to convince them to release it. The person handling shipments is called Vittoria Vici. You should try to talk to her about my shipment. Get back to me when you're done and I'll give you something for your time. I swear it's a fight with them every shipment.
 
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -2434,7 +2329,6 @@ Motivation: NONE
 
 ### Response:
 I should begin with my name... Ginia. I grew up here in Brynnlaw. Things have not always been like this. Brynnlaw was once a pleasant town, though my memories may be influenced by happier times in my own life. Then the pirates arrived, led by the despot Desharik. Desharik had lost a war with another pirate king. Forced to this island, his ships invaded the town. They took our homes. Desharik killed our mayor and dumped his body into the sea. We were forced out into the streets. My father could take no more injustice. He tried to get back into our house and was executed for breaking the law of the pirates. Once they've stolen something, the owner has no claim on it. Desharik said that we would have to pay for our father's "crime." He gave us to Chremy, his lieutenant, as a reward for service. He put me to work as a courtesan for the drunken pirates. It's horrible, traveler! He says that he'll kill my brother Ason if I don't do it. There is no escape for Ason and me. There is a smuggler who will take us, but we cannot afford to pay him. There is nowhere to run on this island. Chremy can be found near the inn. The smuggler's name is Calahan. I hope that Calahan will take us with him when you kill Chremy. He will be near the docks. Please be careful!
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -2458,7 +2352,6 @@ Motivation: NONE
 ### Response:
 I am Kangaxx, and I have been cursed. I am dead yet not dead. Cursed to eternal entrapment in this tomb by cruel enemies! Cursed to a fate worse than death! But the curse can be reversed! With your assistance, I may live again. I have suffered for so long... will you help me? The fiends that did this to me keep me from returning by tearing apart my mortal form and keeping the pieces separated. You must find my body that I might again take mortal form. The pieces are very close! I have no doubt that they lie within the city in tombs such as this. My enemies are predictable if nothing else. Seek my arms, legs, and torso. I will give you anything you want. Power, riches beyond number! Anything!
 
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -2480,7 +2373,6 @@ Motivation: NONE
 
 ### Response:
 You look like someone who can hold their liquor. How about a friendly contest to win a staff? Ha! So you think that I don't have a chance against you. We'll see about that. This is a special brew, very strong stuff. Let's get started.
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -2504,7 +2396,6 @@ Motivation: NONE
 ### Response:
 Sometimes we like to remind a city that we mean business, so we hit it hard. Just steal whatever we can until we've made an impression. Simple right? Almost. The catch is it doesn't count if anyone sees you take it. The message needs to be clear; we work in the shadows. Steal from anywhere in Whiterun, and you even get to keep everythin' you stole. So, you in?
 
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -2526,7 +2417,6 @@ Motivation: NONE
 
 ### Response:
 I'll tell you anything. Anything! Just please stop... hurting me... I just... can't take the pain. Not a second longer. I'll give you money. Treasure. I have some things hidden away. Take them all. They're yours. Just please... stop. Just north of Windhelm. There's a hollowed-out rock. I have some things hidden in there. Take them! They're yours. I've told you everything I can. I don't know what else you could want...
-
 
 ### Instruction:
 Generate a video game quest description based on the following structured information.
@@ -2550,7 +2440,6 @@ Motivation: NONE
 ### Response:
 The Silver-Bloods are trying to muscle in on my land. Forsworn attack the mines, and suddenly all these sellswords show up in Karthwasten to 'help.' They won't let anyone work until I sell it off. You can try to convince them to leave, but I'd keep your sword-arm ready if things get ugly.
 
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -2573,7 +2462,6 @@ Motivation: NONE
 ### Response:
 Gizmo wants Killian Darkwater dead to solidify his hold over Junktown. The player can choose to accept this task and assassinate Killian, altering the power balance in Junktown. This decision influences how the town views the player and changes future interactions.
 
-
 ### Instruction:
 Generate a video game quest description based on the following structured information.
 
@@ -2595,5 +2483,4 @@ Motivation: comfort
 
 ### Response:
 Me hurt me often. Other village-people suggest me get a helmet to protect me head. Me seen turtles on sandy beaches. They never get hurt, because they hide in thick shells. You give me a turtle shell? Make me safe? Me give you this sharp stick in return. It a diamond sword. It pretty, but me hurt plenty after touching it.
-
 

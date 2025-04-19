@@ -19,4 +19,3 @@ Motivation: NONE
 
 ### Response:
 A Brotherhood initiate has gone missing in the Hub, and it's your job to track them down. The mission may require combat, negotiation, or stealth depending on how you approach the situation.
-

@@ -19,4 +19,3 @@ Motivation: NONE
 
 ### Response:
 The Vault Dweller must seek out and analyze important information that could influence major decisions. This may involve speaking to knowledgeable individuals, hacking terminals, reading old logs, or piecing together scattered intelligence to uncover the truth about the wasteland and its factions.
-
