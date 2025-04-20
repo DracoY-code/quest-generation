@@ -12,9 +12,12 @@
 # 
 # Open an interactive bash shell inside a running container:
 #   `docker compose [-f <COMPOSE.YAML>]exec <SERVICE-NAME> bash`
+# 
+# Launch TensorBoard inside the container at http://localhost:6006:
+#   `tensorboard --logdir=<LOGGING-DIR> --host=0.0.0.0 --port=6006`
 
 services:
-  app:
+  jupyterlab:
     build:
       context: ..
       dockerfile: .devcontainer/Dockerfile
@@ -25,7 +28,7 @@ services:
       --allow-root
       --IdentityProvider.token=''
       --ServerApp.disable_check_xsrf=True
-    container_name: questgen-dev
+    container_name: questgen-jupyterlab
     env_file:
       - .env
     gpus: all
@@ -34,7 +37,8 @@ services:
       - jupyternet
     platform: ${DOCKER_PLATFORM}
     ports:
-      - "8888:8888"
+      # - "6006:6006"  # TensorBoard
+      - "8888:8888"  # JupyterLab
     tty: true
     volumes:
       - ..:/app:rw
