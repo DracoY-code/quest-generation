@@ -8,3 +8,5 @@
 #   [uv ]pip compile -r requirements.txt
 
 torch==2.6.0
+bitsandbytes==0.45.5
+peft==0.15.2

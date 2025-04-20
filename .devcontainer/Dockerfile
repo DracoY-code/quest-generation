@@ -16,6 +16,9 @@ WORKDIR /app
 
 USER root
 
+# Install build-essential to get a C compiler
+RUN apt-get update && apt-get install -y build-essential
+
 # Copy the environment configuration file and install dependencies
 COPY .devcontainer/environment.yml /tmp/environment.yml
 RUN micromamba install -y -n base -f /tmp/environment.yml && \
