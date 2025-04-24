@@ -181,3 +181,6 @@ questgen*
 
 # Hugging Face acceess tokens
 .huggingface
+
+# Fine-tuning outputs
+out/
