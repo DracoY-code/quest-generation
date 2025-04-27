@@ -37,8 +37,26 @@ services:
       - jupyternet
     platform: ${DOCKER_PLATFORM}
     ports:
-      # - "6006:6006"  # TensorBoard
       - "8888:8888"  # JupyterLab
+    tty: true
+    volumes:
+      - ..:/app:rw
+    working_dir: /app
+  
+  tensorboard:
+    build:
+      context: ..
+      dockerfile: .devcontainer/Dockerfile
+    command: tensorboard --logdir=/app/logs --host=0.0.0.0 --port=6006
+    container_name: questgen-tensorboard
+    env_file:
+      - .env
+    image: questgen:${TARGET_PLATFORM}
+    networks:
+      - jupyternet
+    platform: ${DOCKER_PLATFORM}
+    ports:
+      - "6006:6006"  # TensorBoard
     tty: true
     volumes:
       - ..:/app:rw
