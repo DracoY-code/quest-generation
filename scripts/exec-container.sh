@@ -17,7 +17,7 @@ if [ ! -f "docker-compose.yml" ]; then
 fi
 
 # Run the container and start an interactive bash terminal
-if [ ! docker compose exec "$SERVICE_NAME" bash ]; then
+if ! docker compose exec "$SERVICE_NAME" bash; then
     echo "Failed to run service '$SERVICE_NAME'"
     exit 1
 fi

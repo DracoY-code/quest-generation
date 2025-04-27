@@ -17,7 +17,7 @@ if [ ! -f "docker-compose.yml" ]; then
 fi
 
 # Run the container with service ports and clean up after exit
-if [ ! docker compose run --rm --service-ports --remove-orphans -i "$SERVICE_NAME" ]; then
+if ! docker compose run --rm --service-ports --remove-orphans -i "$SERVICE_NAME"; then
     echo "Failed to run service '$SERVICE_NAME'"
     exit 1
 fi
