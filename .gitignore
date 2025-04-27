@@ -183,7 +183,8 @@ questgen*
 .huggingface
 
 # Fine-tuning outputs
-out/
+out/*
+!out/training_metrics.json
 
 # LaTeX intermediate and output files
 *.aux

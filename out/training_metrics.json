@@ -1,0 +1,42 @@
+{
+  "gpt2": {
+    "train_losses": [4.8401],
+    "eval_losses": [5.01847505569458, 5.1758575439453125],
+    "learning_rates": [2e-7],
+    "grad_norms": [0.6808575391769409],
+    "global_steps": [20, 25, 25, 25],
+    "epochs": [0.8, 1.0]
+  },
+  "gpt2-medium": {
+    "train_losses": [4.4273],
+    "eval_losses": [4.694542407989502, 4.817290306091309],
+    "learning_rates": [2e-7],
+    "grad_norms": [0.6081013083457947],
+    "global_steps": [20, 25, 25, 25],
+    "epochs": [0.8, 1.0]
+  },
+  "gpt2-large": {
+    "train_losses": [4.1431],
+    "eval_losses": [4.435880184173584, 4.608356952667236],
+    "learning_rates": [2e-7],
+    "grad_norms": [0.8129162192344666],
+    "global_steps": [20, 25, 25, 25],
+    "epochs": [0.8, 1.0]
+  },
+  "llama-3.2-1b-instruct": {
+    "train_losses": [5.0441],
+    "eval_losses": [6.402923583984375, 5.629403114318848],
+    "learning_rates": [2e-7],
+    "grad_norms": [3.2810745239257812],
+    "global_steps": [20, 25, 25, 25],
+    "epochs": [0.8, 1.0]
+  },
+  "tinyllama-1.1b-chat": {
+    "train_losses": [4.2654],
+    "eval_losses": [4.8114800453186035, 4.568667888641357],
+    "learning_rates": [2e-7],
+    "grad_norms": [2.563000202178955],
+    "global_steps": [20, 25, 25, 25],
+    "epochs": [0.8, 1.0]
+  }
+}
