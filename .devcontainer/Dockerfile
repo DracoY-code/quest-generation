@@ -21,15 +21,10 @@ RUN apt-get update && apt-get install -y build-essential
 
 # Copy the environment configuration file and install dependencies
 COPY .devcontainer/environment.yml /tmp/environment.yml
-RUN micromamba install -y -n base -f /tmp/environment.yml && \
-    micromamba clean --all --yes
-
-# Copy the pip dependency requirements file and install them
-COPY .devcontainer/requirements.txt /tmp/requirements.txt
-
 ENV PATH=/opt/conda/bin:/root/.local/bin:$PATH
-RUN /opt/conda/bin/python -m pip install --upgrade pip && \
-    /opt/conda/bin/python -m pip install -r /tmp/requirements.txt && \
+RUN micromamba install -y -n base -f /tmp/environment.yml && \
+    micromamba clean --all --yes && \
+    /opt/conda/bin/python -m pip install --upgrade pip && \
     /opt/conda/bin/python -m pip cache purge
 
 # Switch to the default user, copy all project files,
