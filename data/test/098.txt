@@ -18,3 +18,4 @@ Title: Fallout 2
 Motivation: NONE
 
 ### Response:
+The air purifier in Redding’s mine has broken down, posing a serious health risk to the miners. Marge LeBarge has asked you to find the necessary parts and repair it to ensure their safety.

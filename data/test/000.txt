@@ -18,3 +18,4 @@ Title: Fallout 2
 Motivation: NONE
 
 ### Response:
+A group of rustlers has been stealing Brahmin from Klamath. Torr needs help standing guard at night to stop them.

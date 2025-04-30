@@ -18,3 +18,4 @@ Title: Fallout
 Motivation: NONE
 
 ### Response:
+The hydroponic farms in Adytum have malfunctioned, threatening the community’s food supply. You must repair the system to restore food production.

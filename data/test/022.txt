@@ -18,3 +18,4 @@ Title: Fallout
 Motivation: NONE
 
 ### Response:
+The player must steal Neal’s prized urn without alerting him or other Junktown residents. The consequences of being caught may lead to hostilities.

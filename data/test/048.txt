@@ -18,3 +18,4 @@ Title: Fallout
 Motivation: NONE
 
 ### Response:
+Water rations in Vault 13 are disappearing, and the Overseer tasks the Vault Dweller with uncovering the culprit. By speaking with vault residents and investigating the storage area, the thief—Jacob—can be discovered. The Vault Dweller must then decide whether to report Jacob to the Overseer, let him go, or deal with him personally.
