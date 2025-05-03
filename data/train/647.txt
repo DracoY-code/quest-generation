@@ -1,21 +1,18 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Jared and the Bear
-Objective: kill the bear pursuing Jared
-First Tasks: find the bear
-First Task Locations:  - on the other side of that bridge
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - anything (amount: 1)
-Characters: NONE
-Tools: NONE
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Baldur's Gate
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+kill the bear pursuing Jared
+<|end_objective|>
+<|begin_tasks|>
+find the bear
+<|end_tasks|>
+<|begin_quest_giver|>
+Jared: a man running away from a bear
+<|end_quest_giver|>
+<|begin_task_locations|>
+: on the other side of that bridge
+<|end_task_locations|>
+<|begin_rewards|>
+: anything (amount: 1)
+<|end_rewards|>
+<|end_quest|>
 Oh, thank goodness someone came by. I'm Jared. There's a bear on the other side of that bridge, and it's coming this way! I can't run anymore! Please hold it off — I'll give you anything!

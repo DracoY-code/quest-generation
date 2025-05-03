@@ -1,21 +1,18 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Protecting the Bloodline
-Objective: destroy a vampire before it turns its bandit allies into vampires
-First Tasks: kill the vampire bandit
-First Task Locations: NONE - 
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: NONE
-Tools: NONE
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+destroy a vampire before it turns its bandit allies into vampires
+<|end_objective|>
+<|begin_tasks|>
+kill the vampire bandit
+<|end_tasks|>
+<|begin_quest_giver|>
+Fura Bloodmouth: a fellow vampire
+<|end_quest_giver|>
+<|begin_task_locations|>
+NONE: 
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|end_quest|>
 A feral-blooded has holed up with a group of bandits. Likely wants to create a nest of broodlings. We don't need competition for blood, and we don't want the mortals getting up in arms making things difficult for us. Go destroy the feral beast before this becomes a problem.

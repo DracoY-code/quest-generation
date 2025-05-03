@@ -1,21 +1,24 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Shiv
-Objective: obtain a shiv from Grisvar the Unlucky
-First Tasks: bring Duach's bottle of Skooma to Grisvar the Unlucky
-First Task Locations: NONE - 
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - a shiv (amount: 1)
-Characters: Duach - a male prisoner (location: )
-Tools: the player told Grisvar the Unlucky that they want protection
-Locations: Skooma - a drug made from moon sugar (location: NONE)
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+obtain a shiv from Grisvar the Unlucky
+<|end_objective|>
+<|begin_tasks|>
+bring Duach's bottle of Skooma to Grisvar the Unlucky
+<|end_tasks|>
+<|begin_quest_giver|>
+Grisvar the Unlucky: a fellow prisoner
+<|end_quest_giver|>
+<|begin_task_locations|>
+NONE: 
+<|end_task_locations|>
+<|begin_rewards|>
+: a shiv (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Duach: a male prisoner (location: )
+<|end_characters|>
+<|begin_locations|>
+Skooma: a drug made from moon sugar (location: NONE)
+<|end_locations|>
+<|end_quest|>
 Ah, you want protection? I can get you what you need. Maybe you can do something for me, first? Duach has a bottle of Skooma. Finest distilled Moon Sugar. I'm shaking just thinking about it. Get that bottle of Skooma, and I'll have a shiv ready for you. Promise you won't ever use it on me, okay?

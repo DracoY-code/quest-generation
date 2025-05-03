@@ -1,21 +1,23 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Made of Obsidian
-Objective: bring some obsidian blocks to Tim
-First Tasks: make water flow on lava to form obsidian, mine out obsidian blocks
-First Task Locations:  - underground in deep caves, NONE - 
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - something precious (amount: 1)
-Characters: NONE
-Tools: NONE
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Minecraft
-Motivation: knowledge
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+bring some obsidian blocks to Tim
+<|end_objective|>
+<|begin_tasks|>
+make water flow on lava to form obsidian
+mine out obsidian blocks
+<|end_tasks|>
+<|begin_quest_giver|>
+Tim: a mason
+<|end_quest_giver|>
+<|begin_task_locations|>
+: underground in deep caves
+NONE: 
+<|end_task_locations|>
+<|begin_rewards|>
+: something precious (amount: 1)
+<|end_rewards|>
+<|begin_motivation|>
+knowledge
+<|end_motivation|>
+<|end_quest|>
 I have a task for you, stranger. And I'm willing to give you something precious in return. There are age-old tales of strong, volcanic glass. This glass is known as obsidian. I'd love to try out my masonry on obsidian! The tales also say that you can make obsidian by directing water on lava pools. There are many such pools underground in deep caves. I would ask you to mine out some obsidian blocks for me. I'm not built for adventure myself: carving stones is all I know.

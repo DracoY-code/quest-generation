@@ -1,21 +1,22 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Lost to the Ages
-Objective: search for the Aetherium Forge with Katria
-First Tasks: find Katria's journal, which contains her notes about the Aetherium Forge
-First Task Locations:  - ancient ruins
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: NONE
-Tools: the player read "The Aetherium Wars"
-Locations: NONE
-Items: "The Aetherium Wars" - a book written by Katria's male apprentice, contains Katria's research on the Aetherium Forge (amount: 1), Aetherium Forge - a mythic forge (amount: 1)
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+search for the Aetherium Forge with Katria
+<|end_objective|>
+<|begin_tasks|>
+find Katria's journal, which contains her notes about the Aetherium Forge
+<|end_tasks|>
+<|begin_quest_giver|>
+Katria: a ghost of an adventurer
+<|end_quest_giver|>
+<|begin_task_locations|>
+: ancient ruins
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_items|>
+"The Aetherium Wars": a book written by Katria's male apprentice, contains Katria's research on the Aetherium Forge (amount: 1)
+Aetherium Forge: a mythic forge (amount: 1)
+<|end_items|>
+<|end_quest|>
 The name's Katria. I am - was - an adventurer. Raided ruins like this for nigh on twenty years. I was on the trail of something big. It led me here, and... I didn't make it. Oh. You read the book, didn't you? "The Aetherium Wars"? It was my theory, you know. My research. My life's work. All of it, lost! Stolen by my own damn apprentice! That's how I ended up here. I can't rest. Not until I find the Aetherium Forge, until I can prove that it was my discovery. Mine, not his! Hmm... well, you can pick up where I left off. My notes should still be in my journal, if you can read it. We still have to find the Forge itself. I had a lead on that, too.

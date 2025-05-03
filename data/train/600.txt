@@ -1,21 +1,33 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Defense of Bruma
-Objective: have the Countess meet Martin in the Chapel of Talos for a council of war
-First Tasks: explain Martin's plan to the Countess
-First Task Locations: Bruma - a city
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Jauffre - a male military leader (location: ), Countess - the noblewoman who rules over Bruma (location: Bruma)
-Tools: the player and Jauffre won't like Martin's plan to obtain a Great Sigil Stone, Great Sigil Stones are the anchors of Great Gates: the Mythic Dawn opened a Great Gate at Kvatch, and they want to open another one here to destroy Bruma, Martin was at Kvatch and saw the terrible power of the Daedric siege engine, the only way to recover the Amulet of Kings is to allow the Mythic Dawn to proceed with their plan to attack Bruma
-Locations: Kvatch - a city that was destroyed by Daedra (location: NONE), Chapel of Talos - a large church (location: NONE)
-Items: Great Sigil Stones - rare items, the player needs one of these (amount: 1), Amulet of Kings - an important amulet (amount: 1)
-Enemies: NONE
-Groups: Mythic Dawn - an evil cult that wants to destroy everything
-Title: The Elder Scrolls IV: Oblivion
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+have the Countess meet Martin in the Chapel of Talos for a council of war
+<|end_objective|>
+<|begin_tasks|>
+explain Martin's plan to the Countess
+<|end_tasks|>
+<|begin_quest_giver|>
+Martin: the player's friend
+<|end_quest_giver|>
+<|begin_task_locations|>
+Bruma: a city
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Jauffre: a male military leader (location: )
+Countess: the noblewoman who rules over Bruma (location: Bruma)
+<|end_characters|>
+<|begin_locations|>
+Kvatch: a city that was destroyed by Daedra (location: NONE)
+Chapel of Talos: a large church (location: NONE)
+<|end_locations|>
+<|begin_items|>
+Great Sigil Stones: rare items, the player needs one of these (amount: 1)
+Amulet of Kings: an important amulet (amount: 1)
+<|end_items|>
+<|begin_groups|>
+Mythic Dawn: an evil cult that wants to destroy everything (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 We need a Great Sigil Stone. You're not going to like it. Jauffre doesn't like it. The Countess of Bruma certainly isn't going to like it. Great Sigil Stones are the anchors of Great Gates. The kind of gate the Mythic Dawn opened at Kvatch. The kind of Gate the Mythic Dawn wants to open here to destroy Bruma. The risk is great, I know. I was at Kvatch. I saw the terrible power of the Daedric siege engine. But we have no choice. The only way to recover the Amulet of Kings is to allow the Mythic Dawn to proceed with their plan to attack Bruma. Please, my friend. I explain myself to you so you understand me. And so you can explain to the Countess. I'm afraid she may take a bit more convincing than you. Have the Countess of Bruma meet me in the Chapel of Talos for a council of war. That seems a fitting place to make such desperate plans.

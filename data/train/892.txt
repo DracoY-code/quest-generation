@@ -1,21 +1,25 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: A Cornered Rat
-Objective: locate Esbern, and ask where he was on the 30th of Frostfall
-First Tasks: talk to Brynjolf about finding Esbern
-First Task Locations: Riften - a city
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - Esbern knows how to stop the dragons (amount: 1)
-Characters: Esbern - a paranoid man (location: Riften), Brynjolf - a 'well-connected' man (location: Riften)
-Tools: the Thalmor are also looking for Esbern
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: Thalmor - the player's enemies
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+locate Esbern, and ask where he was on the 30th of Frostfall
+<|end_objective|>
+<|begin_tasks|>
+talk to Brynjolf about finding Esbern
+<|end_tasks|>
+<|begin_quest_giver|>
+Delphine: a paranoid woman
+<|end_quest_giver|>
+<|begin_task_locations|>
+Riften: a city
+<|end_task_locations|>
+<|begin_rewards|>
+: Esbern knows how to stop the dragons (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Esbern: a paranoid man (location: Riften)
+Brynjolf: a 'well-connected' man (location: Riften)
+<|end_characters|>
+<|begin_groups|>
+Thalmor: the player's enemies (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 We've got to find Esbern in Riften before the Thalmor do. He'll know how to stop the dragons if anybody does. You'd better get to Riften. Talk to Brynjolf. He's... well-connected. A good starting point at least. Oh, and when you find Esbern... if you think I'm paranoid... you may have some trouble getting him to trust you. Just ask him where he was on the 30th of Frostfall. He'll know what it means.

@@ -1,21 +1,24 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Durnehviir
-Objective: learn a dragon shout from Durnehviir
-First Tasks: summon Durnehviir by speaking his name to the heavens
-First Task Locations: Tamriel - a continent
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - Durnehviir will fight as the player's ally and teach the player his shout (amount: 1)
-Characters: NONE
-Tools: the player fought against Durnehviir in the past: Durnehviir respects the player
-Locations: Soul Cairn - a terrible dimension that imprisons souls (location: NONE)
-Items: NONE
-Enemies: NONE
-Groups: Ideal Masters - the rulers of the Soul Cairn
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+learn a dragon shout from Durnehviir
+<|end_objective|>
+<|begin_tasks|>
+summon Durnehviir by speaking his name to the heavens
+<|end_tasks|>
+<|begin_quest_giver|>
+Durnehviir: a dragon, and a reluctant servant of the Ideal Masters
+<|end_quest_giver|>
+<|begin_task_locations|>
+Tamriel: a continent
+<|end_task_locations|>
+<|begin_rewards|>
+: Durnehviir will fight as the player's ally and teach the player his shout (amount: 1)
+<|end_rewards|>
+<|begin_locations|>
+Soul Cairn: a terrible dimension that imprisons souls (location: NONE)
+<|end_locations|>
+<|begin_groups|>
+Ideal Masters: the rulers of the Soul Cairn (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 My desire to speak with you was born from the result of our battle. I merely wish to respectfully ask a favor of you. For countless years I've roamed the Soul Cairn, in unintended service to the Ideal Masters. Before this, I roamed the skies above Tamriel. I desire to return there. I fear that my time here has taken its toll upon me. I share a bond with this dreaded place. If I ventured far from the Soul Cairn, my strength would begin to wane until I was no more. I will place my name with you and grant you the right to call my name from Tamriel. Do me this simple honor and I will fight at your side as your Grah-Zeymahzin, your Ally, and teach you my Thu'um. Simply speak my name to the heavens when you feel the time is right.

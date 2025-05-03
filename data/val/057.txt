@@ -1,21 +1,24 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Hitting the Books
-Objective: find the books needed to identify the artifact you found
-First Tasks: talk to Orthorn
-First Task Locations: Fellglow Keep - a summoner fortress
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Orthorn - an ex-student of the College of Winterhold (location: Fellglow Keep)
-Tools: Orthorn stole books from Urag gro-Shub and left to join the summoners at Fellglow Keep
-Locations: College of Winterhold - a college for mages (location: NONE)
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+find the books needed to identify the artifact you found
+<|end_objective|>
+<|begin_tasks|>
+talk to Orthorn
+<|end_tasks|>
+<|begin_quest_giver|>
+Urag gro-Shub: a librarian
+<|end_quest_giver|>
+<|begin_task_locations|>
+Fellglow Keep: a summoner fortress
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Orthorn: an ex-student of the College of Winterhold (location: Fellglow Keep)
+<|end_characters|>
+<|begin_locations|>
+College of Winterhold: a college for mages (location: NONE)
+<|end_locations|>
+<|end_quest|>
 I know what you want. Word travels fast around here. Discovered some big mystery, huh? Well you don't even need to ask. No, I don't have anything for you. Not anymore, anyway. Orthorn stole a number of books when he ran off to Fellglow Keep to join those Summoners. Some kind of peace offering. I think one of those volumes may have had some relevant information. If you want them, you'll have to talk to Orthorn.

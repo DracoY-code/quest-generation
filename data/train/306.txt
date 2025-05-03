@@ -1,21 +1,18 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Thane of Winterhold
-Objective: gain the honorary title of thane of Winterhold
-First Tasks: help the people of Winterhold
-First Task Locations: Winterhold - the hold ruled over Kraldar
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - the perks of being a thane (amount: 1)
-Characters: NONE
-Tools: NONE
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+gain the honorary title of thane of Winterhold
+<|end_objective|>
+<|begin_tasks|>
+help the people of Winterhold
+<|end_tasks|>
+<|begin_quest_giver|>
+Kraldar: a nobleman
+<|end_quest_giver|>
+<|begin_task_locations|>
+Winterhold: the hold ruled over Kraldar
+<|end_task_locations|>
+<|begin_rewards|>
+: the perks of being a thane (amount: 1)
+<|end_rewards|>
+<|end_quest|>
 There is room in my court for a new Thane. It's an honorary title, mainly, but there are a few perks someone like you could make use of. However, I could only grant the title to someone who is known throughout my Hold. You help my people, and I'll make you my Thane.

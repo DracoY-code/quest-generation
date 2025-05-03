@@ -1,21 +1,24 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Rescue from Fort Neugrad
-Objective: rescue Stormcloak soldiers from the Imperials, and capture Fort Neugrad
-First Tasks: meet some fellow Stormcloaks, and find a way slip into Fort Neugrad
-First Task Locations:  - near Fort Neugrad
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: NONE
-Tools: NONE
-Locations: Fort Neugrad - an Imperial fort (location: NONE)
-Items: NONE
-Enemies: NONE
-Groups: Stormcloaks - rebel forces opposing the Empire
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+rescue Stormcloak soldiers from the Imperials, and capture Fort Neugrad
+<|end_objective|>
+<|begin_tasks|>
+meet some fellow Stormcloaks, and find a way slip into Fort Neugrad
+<|end_tasks|>
+<|begin_quest_giver|>
+Galmar Stone-Fist: the player's commanding officer in the Stormcloaks
+<|end_quest_giver|>
+<|begin_task_locations|>
+: near Fort Neugrad
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_locations|>
+Fort Neugrad: an Imperial fort (location: NONE)
+<|end_locations|>
+<|begin_groups|>
+Stormcloaks: rebel forces opposing the Empire (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 You're going to Fort Neugrad. The Imperials have some of our boys locked up there. But with a little luck, we can turn that to our advantage. I've sent some men to scout out the area. Meet them near Fort Neugrad, see if you can't find a way to slip in the fort, free our men, and take over the fort. They'll never suspect an attack from the inside. This won't be easy. But that's why I'm sending you. You got the grit to get this done?

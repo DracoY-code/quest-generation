@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: A Mail Delivery
-Objective: make a delivery for Sylgja to her parents
-First Tasks: deliver a satchel of letters to Verner
-First Task Locations: Darkwater Crossing - a village where Sylgja's parents live
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - a reward for the player's time (amount: 1)
-Characters: Verner - Sylgja's father (location: Darkwater Crossing)
-Tools: Sylgja assumes that Verner have something for her
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+make a delivery for Sylgja to her parents
+<|end_objective|>
+<|begin_tasks|>
+deliver a satchel of letters to Verner
+<|end_tasks|>
+<|begin_quest_giver|>
+Sylgja: an injured woman, and a good daughter
+<|end_quest_giver|>
+<|begin_task_locations|>
+Darkwater Crossing: a village where Sylgja's parents live
+<|end_task_locations|>
+<|begin_rewards|>
+: a reward for the player's time (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Verner: Sylgja's father (location: Darkwater Crossing)
+<|end_characters|>
+<|end_quest|>
 Would you happen to be headed towards Darkwater Crossing? My parents live there. I usually make the journey to bring them gifts and to just say hello, but I haven't been well lately. I've written some letters and placed them in a satchel. Perhaps you wouldn't mind delivering it to them on my behalf? I would insist on rewarding you for your time. Here, take my satchel and give it to my father, Verner. He'll likely have something for you to bring back.

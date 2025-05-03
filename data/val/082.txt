@@ -1,21 +1,30 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Bounty: Warbeasts!
-Objective: help colonists by thinning out packs of Warbeasts
-First Tasks: kill 10 Warbeasts
-First Task Locations: Temple Steppes - a region in Estheria
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: NONE
-Tools: NONE
-Locations: Estheria - a country (location: NONE)
-Items: "Bounty Board" - a bounty board (amount: 1)
-Enemies: Warbeasts - dangerous monsters (amount: 10)
-Groups: Vanquisher Corps - a military outfit
-Title: Torchlight II
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+help colonists by thinning out packs of Warbeasts
+<|end_objective|>
+<|begin_tasks|>
+kill 10 Warbeasts
+<|end_tasks|>
+<|begin_quest_giver|>
+Commander Vale: the leader of the Vanquisher Corps, giving quest via "Bounty Board"
+<|end_quest_giver|>
+<|begin_task_locations|>
+Temple Steppes: a region in Estheria
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_locations|>
+Estheria: a country (location: NONE)
+<|end_locations|>
+<|begin_items|>
+"Bounty Board": a bounty board (amount: 1)
+<|end_items|>
+<|begin_enemies|>
+Warbeasts: dangerous monsters (amount: 10)
+<|end_enemies|>
+<|begin_groups|>
+Vanquisher Corps: a military outfit (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 BOUNTY! Commander Vale of the Vanquisher Corps is offering a reward to anyone who can help thin out the packs of Warbeasts hampering colonization and defense efforts in Estheria. This reward shall be paid to anyone who slays 10 or more Warbeasts in the Temple Steppes.

@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Erik the Adventurer
-Objective: help Erik become an adventurer
-First Tasks: convince Mralki buy armor for Erik
-First Task Locations: Rorikstead - a village
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Mralki - Erik's father, an innkeeper in Rorikstead (location: Rorikstead)
-Tools: the player is an adventurer
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+help Erik become an adventurer
+<|end_objective|>
+<|begin_tasks|>
+convince Mralki buy armor for Erik
+<|end_tasks|>
+<|begin_quest_giver|>
+Erik: a young man
+<|end_quest_giver|>
+<|begin_task_locations|>
+Rorikstead: a village
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Mralki: Erik's father, an innkeeper in Rorikstead (location: Rorikstead)
+<|end_characters|>
+<|end_quest|>
 You look like you've seen your share of adventure. I envy you that. In fact, maybe you can help me with something. I want to be an adventurer like you, but my father says I can't. He says that he needs me to stay here and work the farm, and even if he did let me be an adventurer, we couldn't afford to buy armor. His name's Mralki, and he's the innkeeper here. I hope you can change my father's mind. He can be a little stubborn. I can't stand the thought of being trapped in this village for the rest of my days.

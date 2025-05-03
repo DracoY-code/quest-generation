@@ -1,21 +1,31 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Searching for Balduran's Helmet
-Objective: bring the Helm of Balduran to Degrodel
-First Tasks: unpetrify the mercenaries
-First Task Locations:  - the art collector's estate, west of the fairgrounds, in the center of Baldur's Gate
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - gold (amount: 5000)
-Characters: Ramazith - a male wizard (location: ),  - art collector, a man (location: )
-Tools: mercenaries were petrified while trying to break into the home of Ramazith: Ramazith sold the mercenaries to an art collector, Degrodel gives the player six scrolls of stone to flesh to unpetrify the mercenaries, one of the mercenaries has the Helm of Balduran
-Locations: Baldur's Gate - a major city (location: NONE)
-Items: Helm of Balduran - the helmet of a legendary hero (amount: 1)
-Enemies: NONE
-Groups:  - mercenaries, a group of evil men
-Title: Baldur's Gate
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+bring the Helm of Balduran to Degrodel
+<|end_objective|>
+<|begin_tasks|>
+unpetrify the mercenaries
+<|end_tasks|>
+<|begin_quest_giver|>
+Degrodel: a pompous wizard
+<|end_quest_giver|>
+<|begin_task_locations|>
+: the art collector's estate, west of the fairgrounds, in the center of Baldur's Gate
+<|end_task_locations|>
+<|begin_rewards|>
+: gold (amount: 5000)
+<|end_rewards|>
+<|begin_characters|>
+Ramazith: a male wizard (location: )
+: art collector, a man (location: )
+<|end_characters|>
+<|begin_locations|>
+Baldur's Gate: a major city (location: NONE)
+<|end_locations|>
+<|begin_items|>
+Helm of Balduran: the helmet of a legendary hero (amount: 1)
+<|end_items|>
+<|begin_groups|>
+: mercenaries, a group of evil men (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 First of all, my name is Degrodel. I have been on the lookout for skilled adventurers. My task is very simple. Some years ago, an evil band of mercenaries were all petrified while trying to break into the home of Ramazith. For those of you with a limited vocabulary, petrified means "turned to stone." Anyhow, one of those adventurers had in his possession an item of power: the Helm of Balduran. Ramazith didn't know this at the time and so, after turning them all to stone, he simply sold their bodies to an art collector living in the heart of Baldur's Gate. What I would like you to do is find these statues, turn them back to flesh, and take the item. I will give you these six scrolls of stone to flesh. Use them on the statues when you find them. The estate can be found just west of the fairgrounds in the center of town. Good luck, and don't entertain any thoughts about betraying me. It could be very hazardous to your health. You will be paid 5,000 gold for this service. This is a kingly sum, so I won't barter with you about the amount.

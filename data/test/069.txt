@@ -1,21 +1,25 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Gain the services of Sir Sarles for the Temple of Talos
-Objective: convince Sir Sarles to create a work of art for the temple of Talos
-First Tasks: find Sir Sarles
-First Task Locations: Athkatla - 
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Sir Sarles - a good artist who is also a pretentious and demanding man (location: Athkatla), Talos - the evil god of thunder and destruction (location: )
-Tools: Sir Sarles demands illithium as his art medium, if the player sees the representatives of the other churches, the player must kill them
-Locations: NONE
-Items: illithium - an expensive material (amount: 1)
-Enemies: NONE
-Groups: NONE
-Title: Baldur's Gate II: Shadows of Amn
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+convince Sir Sarles to create a work of art for the temple of Talos
+<|end_objective|>
+<|begin_tasks|>
+find Sir Sarles
+<|end_tasks|>
+<|begin_quest_giver|>
+Talon Yarryl: a priest of Talos
+<|end_quest_giver|>
+<|begin_task_locations|>
+Athkatla: 
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Sir Sarles: a good artist who is also a pretentious and demanding man (location: Athkatla)
+Talos: the evil god of thunder and destruction (location: )
+<|end_characters|>
+<|begin_items|>
+illithium: an expensive material (amount: 1)
+<|end_items|>
+<|end_quest|>
 I, Talon Yarryl, priest of Talos, have a mission for you! Talos demands proper tribute, and that occasionally means artwork pleasing to the eye. If a piece of his fury can be represented, more might see and fear it. An artist visits Athkatla now. The artist travels under the name Sir Sarles, though it is surely a fake. He is pretentious, demanding, and very good. We must command a commission from him. But he is not being cooperative. His commission is outlandish, and he demands illithium as his medium! He may as well have asked for dragon tears. Convince him to work for Talos. Use whatever means you must. Other churches are trying the same... if you cross their representatives, kill them. Incur what debts you must, and use force where it will help. Stop at nothing. This man must realize there is no choice but to work in the service of Talos.

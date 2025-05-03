@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: A Trip to Eternity
-Objective: assassinate Ma'randru-jo
-First Tasks: locate Ma'randru-jo
-First Task Locations: NONE - 
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Ma'randru-jo - an accomplished male wizard, who travels with the caravans (location: )
-Tools: NONE
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+assassinate Ma'randru-jo
+<|end_objective|>
+<|begin_tasks|>
+locate Ma'randru-jo
+<|end_tasks|>
+<|begin_quest_giver|>
+Nazir: a fellow assassin
+<|end_quest_giver|>
+<|begin_task_locations|>
+NONE: 
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Ma'randru-jo: an accomplished male wizard, who travels with the caravans (location: )
+<|end_characters|>
+<|end_quest|>
 Ma'randru-jo is an accomplished wizard, and your assassination target. Locating him may be challenging, as he travels with the caravans. Those caravaners can be an elusive bunch. Takes a fair bit of stalking to take one down. But then, that's half the fun, isn't it?

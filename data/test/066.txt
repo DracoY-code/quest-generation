@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Mazoga the Orc
-Objective: report to Marius Caro the reason Mazoga the Orc is in Leyawiin
-First Tasks: find out why Mazoga the Orc is in Leyawiin
-First Task Locations: Leyawiin - a city
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - a reward (amount: 1)
-Characters: Mazoga - an Orc woman who claims to be a knight (location: Leyawiin)
-Tools: the player does not know Marius Caro
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls IV: Oblivion
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+report to Marius Caro the reason Mazoga the Orc is in Leyawiin
+<|end_objective|>
+<|begin_tasks|>
+find out why Mazoga the Orc is in Leyawiin
+<|end_tasks|>
+<|begin_quest_giver|>
+Marius Caro: Count of Leyawiin
+<|end_quest_giver|>
+<|begin_task_locations|>
+Leyawiin: a city
+<|end_task_locations|>
+<|begin_rewards|>
+: a reward (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Mazoga: an Orc woman who claims to be a knight (location: Leyawiin)
+<|end_characters|>
+<|end_quest|>
 Marius Caro, by grace of the Gods, Count of Leyawiin. You are a stranger to me, but well-met. Perhaps you would like to do a service for Leyawiin? I need your help. An Orc named Mazoga here claims to be a knight, but will not reveal her business. Find out why she is here, and report to me, and you will earn a reward suitable for those who serve Leyawiin.

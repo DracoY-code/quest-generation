@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Albert and His Dog
-Objective: bring Rufie to Albert
-First Tasks: find Rufie
-First Task Locations: NONE - 
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - Rufie's another chew toy (amount: 1)
-Characters: Rufie - Albert's pet dog (location: )
-Tools: Albert gives the player Rufie's chew toy to draw out Rufie
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Baldur's Gate
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+bring Rufie to Albert
+<|end_objective|>
+<|begin_tasks|>
+find Rufie
+<|end_tasks|>
+<|begin_quest_giver|>
+Albert: a young boy
+<|end_quest_giver|>
+<|begin_task_locations|>
+NONE: 
+<|end_task_locations|>
+<|begin_rewards|>
+: Rufie's another chew toy (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Rufie: Albert's pet dog (location: )
+<|end_characters|>
+<|end_quest|>
 Hi! I'm Albert. 'Scuse me. I ever so sowwy to bother, but could you help me? I've lost my little dog Rufie and I can't find him. He's probably ever so scared wight now. Poor Rufie isn't used to strange places an' people. You're sure to know him when you see him, 'cuz he's just the cutest little thing. Here, take this as well. His favorite chew toy, it is. He'll know you're a friend if you have it in your hands. I have a small reward for you: it's another of his chew things, but we can get more where we're going.

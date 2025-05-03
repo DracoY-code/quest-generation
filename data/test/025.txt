@@ -1,21 +1,22 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Get super repair kit for Skeeter
-Objective: Retrieve a super repair kit for Skeeter so he can improve your car.
-First Tasks: Find a super repair kit, which can be located in New Reno, Vault City, or NCR., Return the super repair kit to Skeeter in Gecko.
-First Task Locations: New Reno - A lawless city controlled by mob families, known for its underground dealings., Vault City - A highly advanced settlement with strict laws and valuable technology., NCR - A growing republic aiming to bring law and order to the wasteland., Gecko - A ghoul-run town with a nuclear power plant, where Skeeter resides.
-Quest Giver: NONE - NONE (location: NONE)
-Reward: Car Upgrade - Skeeter will enhance the Highwayman, improving its efficiency. (amount: NONE)
-Characters: NONE
-Tools: Barter skill to purchase the super repair kit at a lower price., Lockpick skill to steal a kit if necessary.
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Fallout 2
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+Retrieve a super repair kit for Skeeter so he can improve your car.
+<|end_objective|>
+<|begin_tasks|>
+Find a super repair kit, which can be located in New Reno, Vault City, or NCR.
+Return the super repair kit to Skeeter in Gecko.
+<|end_tasks|>
+<|begin_quest_giver|>
+Skeeter: A ghoul mechanic in Gecko who can improve your Highwayman.
+<|end_quest_giver|>
+<|begin_task_locations|>
+New Reno: A lawless city controlled by mob families, known for its underground dealings.
+Vault City: A highly advanced settlement with strict laws and valuable technology.
+NCR: A growing republic aiming to bring law and order to the wasteland.
+Gecko: A ghoul-run town with a nuclear power plant, where Skeeter resides.
+<|end_task_locations|>
+<|begin_rewards|>
+Car Upgrade: Skeeter will enhance the Highwayman, improving its efficiency. (amount: NONE)
+<|end_rewards|>
+<|end_quest|>
 Skeeter, a skilled mechanic in Gecko, needs a super repair kit to enhance the Highwayman. You must locate and deliver the kit to him for an upgrade.

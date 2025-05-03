@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Ludrug's Band
-Objective: win the duel against Ludrug
-First Tasks: choose your champion to fight against Ludrug
-First Task Locations: NONE - 
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - gnolls let the player pass (amount: 1)
-Characters: NONE
-Tools: the player has trespassed gnolls' territory with the player's party, the gnolls' demand 50 gold from the player, but the player doesn't have any money
-Locations: NONE
-Items:  - gold (amount: 50)
-Enemies: NONE
-Groups: NONE
-Title: Baldur's Gate
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+win the duel against Ludrug
+<|end_objective|>
+<|begin_tasks|>
+choose your champion to fight against Ludrug
+<|end_tasks|>
+<|begin_quest_giver|>
+Ludrug: a gnoll
+<|end_quest_giver|>
+<|begin_task_locations|>
+NONE: 
+<|end_task_locations|>
+<|begin_rewards|>
+: gnolls let the player pass (amount: 1)
+<|end_rewards|>
+<|begin_items|>
+: gold (amount: 50)
+<|end_items|>
+<|end_quest|>
 Stop! You have trespassed on our territory. You shall not be allowed to leave until you have paid tribute. We demand 50 gold in tribute! No money? That is too bad for you. We let you go only if you win fight. Your best champion versus our best champion. Our best champion is Ludrug. Ludrug is me. Are you ready for fight? No matter, we fight now! If you lose, you must die! If you win, we must let you pass! Tread carefully, we will be watching you.

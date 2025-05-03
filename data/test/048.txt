@@ -1,21 +1,19 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Find the Water Thief
-Objective: Identify and stop the person stealing water from Vault 13.
-First Tasks: Investigate reports of missing water rations in Vault 13.
-First Task Locations: Vault 13 Storage Area - The area where the vault's water supply is kept.
-Quest Giver: NONE - NONE (location: NONE)
-Reward: Experience Points - Earned for identifying the thief. (amount: 500), Karma - A moral reputation boost for solving the issue. (amount: 1)
-Characters: NONE
-Tools: N, O, N, E
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Fallout
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+Identify and stop the person stealing water from Vault 13.
+<|end_objective|>
+<|begin_tasks|>
+Investigate reports of missing water rations in Vault 13.
+<|end_tasks|>
+<|begin_quest_giver|>
+Vault 13 Overseer: The leader of Vault 13, responsible for the security and well-being of its inhabitants.
+<|end_quest_giver|>
+<|begin_task_locations|>
+Vault 13 Storage Area: The area where the vault's water supply is kept.
+<|end_task_locations|>
+<|begin_rewards|>
+Experience Points: Earned for identifying the thief. (amount: 500)
+Karma: A moral reputation boost for solving the issue. (amount: 1)
+<|end_rewards|>
+<|end_quest|>
 Water rations in Vault 13 are disappearing, and the Overseer tasks the Vault Dweller with uncovering the culprit. By speaking with vault residents and investigating the storage area, the thief—Jacob—can be discovered. The Vault Dweller must then decide whether to report Jacob to the Overseer, let him go, or deal with him personally.

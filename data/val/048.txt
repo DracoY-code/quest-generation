@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: The Gravefinder's Repose
-Objective: help Malene deal with Raelynn the Gravefinder
-First Tasks: kill Raelynn the Gravefinder
-First Task Locations: Moss Rock Cavern - a cave just north of Malene's inn
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - a handsome bounty (amount: 1)
-Characters: Raelynn the Gravefinder - a female necromancer (location: )
-Tools: Malene has seen undead of all types walking in the dark woods near the entrance to Moss Rock Cavern
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls IV: Oblivion
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+help Malene deal with Raelynn the Gravefinder
+<|end_objective|>
+<|begin_tasks|>
+kill Raelynn the Gravefinder
+<|end_tasks|>
+<|begin_quest_giver|>
+Malene: an innkeeper
+<|end_quest_giver|>
+<|begin_task_locations|>
+Moss Rock Cavern: a cave just north of Malene's inn
+<|end_task_locations|>
+<|begin_rewards|>
+: a handsome bounty (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Raelynn the Gravefinder: a female necromancer (location: )
+<|end_characters|>
+<|end_quest|>
 Thank goodness someone that can help is here! I don't know how to make this request any simpler, but to put it bluntly, Raelynn the Gravefinder must die. A few months ago, that witch of a Necromancer decided to inhabit Moss Rock Cavern just north of my inn. I don't know what she does in there; frankly, I don't want to know. However, I do know that after she arrived, the woods at night became unsafe. I've seen undead of all types walking in the dark woods near the cave entrance. Now, this area's getting a bad reputation and my business has waned. Every day, it seems the number of undead increase. If someone can get into the cave and kill Raelynn, maybe we can stem the tide. Her death pays a handsome bounty. I hope you'll take advantage of the opportunity. Raelynn will finally get what's coming to her.

@@ -1,21 +1,23 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Therella's Missing Son
-Objective: find out what happened to Dalton
-First Tasks: find Dalton
-First Task Locations: Durlag's Tower - a dangerous tower owned by Durlag
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Dalton - Therella's son who wants to be a hero (location: Durlag's Tower), Galken - a male con-artist (location: ), Durlag - a mad male dwarf (location: )
-Tools: Dalton went on an adventure to Durlag's Tower, Dalton and his fellow adventurers bought a ward token from Galken, Dalton did not return from Durlag's Tower
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Baldur's Gate
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+find out what happened to Dalton
+<|end_objective|>
+<|begin_tasks|>
+find Dalton
+<|end_tasks|>
+<|begin_quest_giver|>
+Therella: a worried mother
+<|end_quest_giver|>
+<|begin_task_locations|>
+Durlag's Tower: a dangerous tower owned by Durlag
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Dalton: Therella's son who wants to be a hero (location: Durlag's Tower)
+Galken: a male con-artist (location: )
+Durlag: a mad male dwarf (location: )
+<|end_characters|>
+<|end_quest|>
 Greetings, adventurer. I have, or perhaps I should say had, a son named Dalton. He fell in with a crew of adventurers from Waterdeep. Dalton was always obsessed with the idea of being a hero. Alas, he has neither the brains nor the ability. Such is a mother's lot in life, however, to watch her children perform acts of idiocy despite her warnings or concerns. He and his thick-skulled cohorts took it upon themselves to plumb the depths of Durlag's Tower. They bought a ward token from that shyster, Galken, and made ready to leave. Though I begged and cried, Dalton still insisted on going. The band never returned. I fear that they were destroyed by the mad dwarf's machinations. That is the tale, sad but true. Please find my son if he still lives.

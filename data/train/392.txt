@@ -1,21 +1,26 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Tower of the Moon
-Objective: see if there are Ezrohir scouts at the Tower of the Moon
-First Tasks: deal with any Ezrohir scouts you find
-First Task Locations: Tower of the Moon - an ancient tower in the Ossean Wastes, near Zeryphesh
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: NONE
-Tools: NONE
-Locations: Zeryphesh - a city-state located in the Ossean Wastes (location: NONE), Forsaken Vaults - a dungeon located far out in the Ossean Wastes (location: NONE), Ossean Wastes - a desert (location: NONE)
-Items: NONE
-Enemies: NONE
-Groups: Ezrohir - a race of people who are at war with Zeryphesh
-Title: Torchlight II
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+see if there are Ezrohir scouts at the Tower of the Moon
+<|end_objective|>
+<|begin_tasks|>
+deal with any Ezrohir scouts you find
+<|end_tasks|>
+<|begin_quest_giver|>
+Muzaffar: the player's friend
+<|end_quest_giver|>
+<|begin_task_locations|>
+Tower of the Moon: an ancient tower in the Ossean Wastes, near Zeryphesh
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_locations|>
+Zeryphesh: a city-state located in the Ossean Wastes (location: NONE)
+Forsaken Vaults: a dungeon located far out in the Ossean Wastes (location: NONE)
+Ossean Wastes: a desert (location: NONE)
+<|end_locations|>
+<|begin_groups|>
+Ezrohir: a race of people who are at war with Zeryphesh (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 My friend, I have a mission for you. You may have noticed the Ezrohir activity in the Ossean Wastes. We believe these are scouts operating out of the Forsaken Vaults, but they are appearing so close to the city gates that we think they might have a base much nearer, from which they are spying on us. We have narrowed down the possibilities, and I want you to look into the Tower of the Moon, an ancient tower jutting from the Ossean Wastes. Determine if there are any Ezrohir scouts there... and if you find any, deal with them.

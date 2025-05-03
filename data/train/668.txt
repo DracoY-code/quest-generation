@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: That Was Always There
-Objective: return Viola Giordano's gold ring to her without her knowing
-First Tasks: sneak inside the house and place Viola Giordano's gold ring in a dresser
-First Task Locations:  - Viola Giordano's house
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - Revyn Sadri will make it worth the player's while (amount: 1)
-Characters: Viola Giordano - a woman who fancies herself a criminal investigator (location: )
-Tools: the player asked Revyn Sadri whether something in his store is stolen
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+return Viola Giordano's gold ring to her without her knowing
+<|end_objective|>
+<|begin_tasks|>
+sneak inside the house and place Viola Giordano's gold ring in a dresser
+<|end_tasks|>
+<|begin_quest_giver|>
+Revyn Sadri: a merchant dealing in used goods
+<|end_quest_giver|>
+<|begin_task_locations|>
+: Viola Giordano's house
+<|end_task_locations|>
+<|begin_rewards|>
+: Revyn Sadri will make it worth the player's while (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Viola Giordano: a woman who fancies herself a criminal investigator (location: )
+<|end_characters|>
+<|end_quest|>
 Of course nothing in here is stolen. Only a careless, shameful, idiotic fetcher would do something as stupid as to buy pilfered goods.... Oh by Azura, I've made a terrible mistake. I bought a gold ring, and Viola Giordano has been missing a ring that looks just like it. Could you return the ring to her? It's not that easy. She'd go to the guard if she knew I was even remotely involved. You have to get it to her some other way. Look, it's dangerous, but if you sneak the ring into her house. Put it in a dresser or something. I will make it worth your while.

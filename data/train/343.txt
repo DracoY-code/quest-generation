@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Retrieve Papers from Dr. Henry
-Objective: Obtain Dr. Henry's cyberdog research papers for Merk.
-First Tasks: Speak with Merk to receive the assignment., Locate Dr. Henry in NCR Downtown., Intimidate or persuade Dr. Henry to hand over the cyberdog papers.
-First Task Locations: NCR Downtown - The area where Dr. Henry's clinic is located.
-Quest Giver: NONE - NONE (location: NONE)
-Reward: Experience Points - Earned for completing the quest. (amount: 1000), Caps - Monetary reward provided by Merk. (amount: 1000)
-Characters: NONE
-Tools: Speech skills to intimidate or persuade Dr. Henry., Stealth skills if choosing to steal the papers., Combat readiness in case of confrontation.
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Fallout 2
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+Obtain Dr. Henry's cyberdog research papers for Merk.
+<|end_objective|>
+<|begin_tasks|>
+Speak with Merk to receive the assignment.
+Locate Dr. Henry in NCR Downtown.
+Intimidate or persuade Dr. Henry to hand over the cyberdog papers.
+<|end_tasks|>
+<|begin_quest_giver|>
+Merk: A crime boss in NCR seeking Dr. Henry's research.
+<|end_quest_giver|>
+<|begin_task_locations|>
+NCR Downtown: The area where Dr. Henry's clinic is located.
+<|end_task_locations|>
+<|begin_rewards|>
+Experience Points: Earned for completing the quest. (amount: 1000)
+Caps: Monetary reward provided by Merk. (amount: 1000)
+<|end_rewards|>
+<|end_quest|>
 Merk desires Dr. Henry's cyberdog research papers and tasks you with retrieving them. You can choose to intimidate, persuade, or stealthily acquire the documents from Dr. Henry in NCR Downtown.

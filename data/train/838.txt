@@ -1,21 +1,30 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Allies for Bruma
-Objective: bring in reinforcements for Bruma from the other cities of Cyrodiil and the Elder Council before the Mythic Dawn opens a Great Oblivion Gate in Bruma
-First Tasks: speak to the leaders of the other cities of Cyrodiil and the Elder Council and ask them to send help to Bruma
-First Task Locations: NONE - 
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Captain Burd - the male captain of the Bruma guard (location: )
-Tools: the player taught Captain Burd and his guardsmen how to close Oblivion Gates: however, they cannot defend Bruma alone from the innumerable Daedra of Oblivion
-Locations: Bruma - a city in Cyrodiil (location: NONE), Cyrodiil - a province (location: NONE)
-Items: NONE
-Enemies: NONE
-Groups: Daedra - demonic creatures from an another dimension, Mythic Dawn - an evil cult that wants to destroy everything, Elder Council - an organization that rules over all Cyrodiil
-Title: The Elder Scrolls IV: Oblivion
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+bring in reinforcements for Bruma from the other cities of Cyrodiil and the Elder Council before the Mythic Dawn opens a Great Oblivion Gate in Bruma
+<|end_objective|>
+<|begin_tasks|>
+speak to the leaders of the other cities of Cyrodiil and the Elder Council and ask them to send help to Bruma
+<|end_tasks|>
+<|begin_quest_giver|>
+Jauffre: a military leader
+<|end_quest_giver|>
+<|begin_task_locations|>
+NONE: 
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Captain Burd: the male captain of the Bruma guard (location: )
+<|end_characters|>
+<|begin_locations|>
+Bruma: a city in Cyrodiil (location: NONE)
+Cyrodiil: a province (location: NONE)
+<|end_locations|>
+<|begin_groups|>
+Daedra: demonic creatures from an another dimension (amount: NONE)
+Mythic Dawn: an evil cult that wants to destroy everything (amount: NONE)
+Elder Council: an organization that rules over all Cyrodiil (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 Good work. Captain Burd and his guardsmen should be able to handle any additional Gates, at least for now. But the Bruma Guard cannot defend the city indefinitely. The Daedra of Oblivion are innumerable; the guardsmen of Bruma are not. We need to gather what allies we can before Bruma is hopelessly besieged. If the Mythic Dawn manages to open a Great Gate here, the city will need a stronger garrison for there to be any hope of defending it. You should speak to the rulers of the other cities of Cyrodiil, as well as the Elder Council. Ask them to send aid to Bruma before it is too late.

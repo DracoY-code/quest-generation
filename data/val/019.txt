@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Farthing's Dolly
-Objective: return Farthing's doll to her
-First Tasks: find Farthing's doll
-First Task Locations:  - the woods
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: NONE
-Tools: the gatekeeper won't let Farthing go and get her doll
-Locations: NONE
-Items:  - Farthing's doll (amount: 1)
-Enemies: NONE
-Groups: NONE
-Title: Baldur's Gate
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+return Farthing's doll to her
+<|end_objective|>
+<|begin_tasks|>
+find Farthing's doll
+<|end_tasks|>
+<|begin_quest_giver|>
+Farthing: a 5 year old girl
+<|end_quest_giver|>
+<|begin_task_locations|>
+: the woods
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_items|>
+: Farthing's doll (amount: 1)
+<|end_items|>
+<|end_quest|>
 My name's Farthing. I'm only five. In a few years my papa will let me hunt. Are you allowed to hunt? I've lost my dolly out in the woods. The gatekeeper won't let me go and get it. Can you get it for me?

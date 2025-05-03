@@ -1,21 +1,19 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Final Resting
-Objective: help Hirrus Clutumnus end his life
-First Tasks: kill Hirrus Clutumnus when he is unaware
-First Task Locations: New Sheoth - a city
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - the key to Hirrus Clutumnus' house (amount: 1),  - the contents of the jewelry box inside Hirrus Clutumnus' house (amount: 1)
-Characters: NONE
-Tools: Hirrus Clutumnus is  going to go about his daily life
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls IV: Oblivion
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+help Hirrus Clutumnus end his life
+<|end_objective|>
+<|begin_tasks|>
+kill Hirrus Clutumnus when he is unaware
+<|end_tasks|>
+<|begin_quest_giver|>
+Hirrus Clutumnus: a man who desperately wants to die
+<|end_quest_giver|>
+<|begin_task_locations|>
+New Sheoth: a city
+<|end_task_locations|>
+<|begin_rewards|>
+: the key to Hirrus Clutumnus' house (amount: 1)
+: the contents of the jewelry box inside Hirrus Clutumnus' house (amount: 1)
+<|end_rewards|>
+<|end_quest|>
 Won't someone end me? Take my life, please! I, Hirrus Clutumnus, am in desperate need of a champion, a hero. Are you brave and fearless? There's a... a simple task. Yes, a simple task that you must perform. This life, it's... well, it's too painful. Everywhere I look, I see death, dying, and decay. When I dream, I see a world without sunshine. I'm constantly on the verge of retching up, or falling asleep, or screaming at someone who doesn't deserve it. I'm just so fed up with it all. I need your help. I need you to send my soul away from this world! You must... you must kill me. I don't necessarily want to see it coming. And I want to die here in the city so all these people finally believe me. They'll wish they were nicer. You probably want to do it without spectators though, so you don't get in trouble. Best to make it look like an accident. But remember, I don't want to see it coming. Take me unaware! I'm going to go about my daily life, such as it is, as if nothing has changed. Make your move when you wish. But, please, do it soon. When you kill me, take the key to my house. Nothing really worth taking, except what's locked up in the jewelry box. You can have that.

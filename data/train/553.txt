@@ -1,21 +1,22 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Tremain's Son
-Objective: bring Casson's body to Tremain Belde'ar
-First Tasks: retrieve Casson's body
-First Task Locations: Water Queen's House - a temple
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Casson - the dead son of Tremain Belde'ar (location: Water Queen's House), Tymora - the goddess of luck (location: )
-Tools: Casson was killed for trespassing the Water Queen's House, Tremain Belde'ar wants to resurrect Casson
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Baldur's Gate
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+bring Casson's body to Tremain Belde'ar
+<|end_objective|>
+<|begin_tasks|>
+retrieve Casson's body
+<|end_tasks|>
+<|begin_quest_giver|>
+Tremain Belde'ar: Lord Priest of Tymora
+<|end_quest_giver|>
+<|begin_task_locations|>
+Water Queen's House: a temple
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Casson: the dead son of Tremain Belde'ar (location: Water Queen's House)
+Tymora: the goddess of luck (location: )
+<|end_characters|>
+<|end_quest|>
 Greetings to you. I am Lord Priest Tremain Belde'ar, a humble servant of Our Smiling Lady Tymora. My request of you is an odd and very dangerous one. I will not hold you to it if you deem it too extreme. I would have you enter the Water Queen's House and retrieve my son's, Casson's, body. Casson sought to indulge his restless nature by sneaking about the place, and a high price was paid. You must bring Casson's body to me, that I may restore his life to him.

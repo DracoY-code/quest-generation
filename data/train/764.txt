@@ -1,21 +1,27 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Clavicus Vile's Lost Sword
-Objective: retrieve Umbra the Sword for Clavicus Vile
-First Tasks: begin your search for Umbra the Sword
-First Task Locations: Pell's Gate - a village
-Quest Giver: NONE - NONE (location: NONE)
-Reward: Clavicus Vile's Masque - one of Clavicus Vile's relics (amount: 1)
-Characters: Umbra the Hero - a hero who had dealings with Clavicus Vile (location: )
-Tools: Umbra the Sword contains the soul of Umbra the Hero
-Locations: NONE
-Items: Umbra the Sword - a sword (amount: 1)
-Enemies: NONE
-Groups: Daedric Princes - immortal, fickle, infamous divine beings
-Title: The Elder Scrolls IV: Oblivion
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+retrieve Umbra the Sword for Clavicus Vile
+<|end_objective|>
+<|begin_tasks|>
+begin your search for Umbra the Sword
+<|end_tasks|>
+<|begin_quest_giver|>
+Clavicus Vile: the prince of trickery and bargains, one of Daedric Princes
+<|end_quest_giver|>
+<|begin_task_locations|>
+Pell's Gate: a village
+<|end_task_locations|>
+<|begin_rewards|>
+Clavicus Vile's Masque: one of Clavicus Vile's relics (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Umbra the Hero: a hero who had dealings with Clavicus Vile (location: )
+<|end_characters|>
+<|begin_items|>
+Umbra the Sword: a sword (amount: 1)
+<|end_items|>
+<|begin_groups|>
+Daedric Princes: immortal, fickle, infamous divine beings (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 A mortal! Wonderful. Always a pleasure. I'm Clavicus Vile, the Prince of Trickery and Bargains. Perhaps you'll do a service for me, mortal. And I'll reward you. A fair bargain, don't you think? You will retrieve for me a sword, a very special sword. It contains the soul of Umbra the Hero, a hero I have had dealings with in the past. Bring the sword to me, and I'll reward you with my Masque. You'll not find a better bargain, mortal. Begin your search in Pell's Gate.

@@ -1,21 +1,25 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Pilgrimage
-Objective: help Alessandra make peace with her dead father
-First Tasks: bring Alessandra's ceremonial dagger to Andurs so it can be interred with Alessandra's father's remains
-First Task Locations: Hall of the Dead - a hall where bodies are interred and cared for, in Whiterun
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Arkay - the god of burials and funeral rites (location: ), Andurs - a male caretaker (location: Hall of the Dead)
-Tools: Alessandra did not want to become a Priest of Arkay like her father, Alessandra gives the player her ceremonial dagger
-Locations: Whiterun - a city (location: NONE)
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+help Alessandra make peace with her dead father
+<|end_objective|>
+<|begin_tasks|>
+bring Alessandra's ceremonial dagger to Andurs so it can be interred with Alessandra's father's remains
+<|end_tasks|>
+<|begin_quest_giver|>
+Alessandra: a priest of Arkay
+<|end_quest_giver|>
+<|begin_task_locations|>
+Hall of the Dead: a hall where bodies are interred and cared for, in Whiterun
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Arkay: the god of burials and funeral rites (location: )
+Andurs: a male caretaker (location: Hall of the Dead)
+<|end_characters|>
+<|begin_locations|>
+Whiterun: a city (location: NONE)
+<|end_locations|>
+<|end_quest|>
 I am Alessandra, a priest of Arkay. My father was a Priest of Arkay, as well. All my life was spent around the dead, being forced to learn the proper burial rituals and prayers. I never had any friends; who'd want to spend time with 'the little weird girl who hangs around dead people?' So I grew up with a miserable trade. This is all I know how to do... prepare and inter the deceased. I'd like to make the journey to the Hall of the Dead in Whiterun and give my ceremonial dagger to Andurs, the caretaker. I believe once it's interred with my father's remains I'll be at peace with his memory. A Priest of Arkay is entrusted with a ceremonial dagger once they've completed their training. It's usually given by the head priest who sanctified the ritual. In my case, the head priest happened to be my father. The thing is, I never wanted to follow in his footsteps... In some ways I still don't. I'm entrusting you with the dagger. Bring it to Andurs and he'll take care of the rest.

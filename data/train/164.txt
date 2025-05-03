@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Captured by Mind Flayers
-Objective: survive the mind flayers' arena
-First Tasks: fight to survive
-First Task Locations:  - the mind flayers' arena
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - the player will live (amount: 1)
-Characters: NONE
-Tools: the player was captured by the mind flayers while trespassing their home, the mind flayers like watching their captives fight in the arena, the player should not attack the mind flayers, the player should not anger the arena spectators: they are especially strong because of their big brain
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: mind flayers - creatures with powerful mental abilities
-Title: Baldur's Gate II: Shadows of Amn
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+survive the mind flayers' arena
+<|end_objective|>
+<|begin_tasks|>
+fight to survive
+<|end_tasks|>
+<|begin_quest_giver|>
+: a servant ogre
+<|end_quest_giver|>
+<|begin_task_locations|>
+: the mind flayers' arena
+<|end_task_locations|>
+<|begin_rewards|>
+: the player will live (amount: 1)
+<|end_rewards|>
+<|begin_groups|>
+mind flayers: creatures with powerful mental abilities (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 Me a servant ogre. Now it time to fight! You fight in the arena. Listen, I tell you what you need to know. You trespass on the home of the mind flayers, and you got caught. Now you pay for your stay. Understand? Next thing, you better fight well in the arena, because if you don't fight well, you die. If you don't fight at all, you die. Oh, last rule, never attack the mind flayers. You are in their home. They kill you with their thoughts. You will live if you fight well. I warn though: Do not anger spectators. They extra strong in this place because of big brain.

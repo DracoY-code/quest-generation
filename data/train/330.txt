@@ -1,21 +1,25 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Returning Dradeel's Spellbook
-Objective: destroy the lycanthropes' lair, and bring Dradeel's spellbook back to its owner
-First Tasks: find the lycanthropes' lair and Dradeel's spellbook within it
-First Task Locations:  - Balduran's ship
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - a way out of this island (amount: 1)
-Characters: Balduran - a legendary hero of old (location: ), Selûne - the goddess of the moon (location: )
-Tools: Dradeel converted to the Church of Selûne recently, there are werewolves everywhere, Dradeel might find a way out of this island if his spellbook was returned to him
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups:  - lycanthropes, werewolves
-Title: Baldur's Gate
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+destroy the lycanthropes' lair, and bring Dradeel's spellbook back to its owner
+<|end_objective|>
+<|begin_tasks|>
+find the lycanthropes' lair and Dradeel's spellbook within it
+<|end_tasks|>
+<|begin_quest_giver|>
+Dradeel: an elven mage who was a guide to Balduran
+<|end_quest_giver|>
+<|begin_task_locations|>
+: Balduran's ship
+<|end_task_locations|>
+<|begin_rewards|>
+: a way out of this island (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Balduran: a legendary hero of old (location: )
+Selûne: the goddess of the moon (location: )
+<|end_characters|>
+<|begin_groups|>
+: lycanthropes, werewolves (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 I am Dradeel, mage and recent convert to the Church of Selûne. I was the guide for Balduran's brave adventures to the ends of the world and beyond. The wolf-men are everywhere. The lycanthropes' lair is in Balduran's ship. My spellbook lies within. With it, I am a powerful mage. Without it, I am the pauper that stands before you. With my spellbook retrieved, I may be able to discover a way off of the island. If you go to destroy the lycanthropes' lair, I would ask that you find my book.

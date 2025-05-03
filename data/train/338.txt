@@ -1,21 +1,27 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Good Fortunes
-Objective: retrieve Shahvee's amulet for her
-First Tasks: find Shahvee's amulet
-First Task Locations: NONE - 
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - Shahvee would be in the player's debt (amount: 1)
-Characters: Zenithar - the god of wealth (location: )
-Tools: thieves stole Shahvee's sacred amulet of Zenithar as soon as she bought it
-Locations: Black Marsh - a province (location: NONE)
-Items: NONE
-Enemies: NONE
-Groups: Argonians - a people native to Black Marsh, who have not fared well outside their homeland
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+retrieve Shahvee's amulet for her
+<|end_objective|>
+<|begin_tasks|>
+find Shahvee's amulet
+<|end_tasks|>
+<|begin_quest_giver|>
+Shahvee: an Argonian woman
+<|end_quest_giver|>
+<|begin_task_locations|>
+NONE: 
+<|end_task_locations|>
+<|begin_rewards|>
+: Shahvee would be in the player's debt (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Zenithar: the god of wealth (location: )
+<|end_characters|>
+<|begin_locations|>
+Black Marsh: a province (location: NONE)
+<|end_locations|>
+<|begin_groups|>
+Argonians: a people native to Black Marsh, who have not fared well outside their homeland (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 I'm Shahvee. We Argonians have not fared well outside our native Black Marsh, but we're determined to make the best of things. I began praying to Zenithar, the god of wealth, to bring us some fortune, but thieves made off with my sacred amulet almost as soon as I bought it. If you found my Amulet, Shahvee would be in your debt, kind one.

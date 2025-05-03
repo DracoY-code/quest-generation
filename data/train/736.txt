@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Work as a Cleric for the Temple of Helm
-Objective: hear questions from believers of Helm
-First Tasks: reassure believers of Helm that duty is above all
-First Task Locations: NONE - 
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Helm - a god of duty (location: )
-Tools: the player is one of Helm's chosen: a cleric of Helm
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Baldur's Gate II: Shadows of Amn
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+hear questions from believers of Helm
+<|end_objective|>
+<|begin_tasks|>
+reassure believers of Helm that duty is above all
+<|end_tasks|>
+<|begin_quest_giver|>
+Acolyte Byron: the player's tutor in the player's duties to Helm
+<|end_quest_giver|>
+<|begin_task_locations|>
+NONE: 
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Helm: a god of duty (location: )
+<|end_characters|>
+<|end_quest|>
 Greetings, I'm Acolyte Byron. I will be your tutor in your duties here as one of Helm's chosen. You have many things you are responsible for. As a favored of Helm, you will hear questions from those that seek guidance in their duty. They merely needed to be reassured that duty is above all, and that reverence for such duty is the way to happiness. You will steer them on the true path to Helm's grace. You have the wisdom that has secured your position within the church. You will dispense it to those that are needy. This is a sacred trust that you are given. Do not disappoint.

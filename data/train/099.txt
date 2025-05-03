@@ -1,21 +1,24 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Grimsever's Return
-Objective: recover Grimsever for Mjoll the Lioness
-First Tasks: find Grimsever
-First Task Locations: Mzinchaleft - a Dwemer ruin, the home of a dangerous Dwemer colossus
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: NONE
-Tools: NONE
-Locations: NONE
-Items: Grimsever - Mjoll the Lioness' beloved, lost sword (amount: 1)
-Enemies: NONE
-Groups: Dwemer - an extinct race of people famed for their mechanical constructions
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+recover Grimsever for Mjoll the Lioness
+<|end_objective|>
+<|begin_tasks|>
+find Grimsever
+<|end_tasks|>
+<|begin_quest_giver|>
+Mjoll the Lioness: a retired adventurer
+<|end_quest_giver|>
+<|begin_task_locations|>
+Mzinchaleft: a Dwemer ruin, the home of a dangerous Dwemer colossus
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_items|>
+Grimsever: Mjoll the Lioness' beloved, lost sword (amount: 1)
+<|end_items|>
+<|begin_groups|>
+Dwemer: an extinct race of people famed for their mechanical constructions (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 My blade, the Grimsever, was lost years ago in a Dwemer ruin. Without it, I feel almost as defenseless as a newborn. I don't think I'll ever be able to find a replacement. I was adventuring in the depths of the ruins when I was attacked by a massive construct... like nothing I had ever seen. When the colossus struck, Grimsever was knocked from my grasp and I was wounded badly. It was only through blind luck that I was able to crawl away from the Dwemer abomination and make my way to the surface. I couldn't ask you to undertake such a treacherous journey, it would be a fool's errand. But I see that spark in your eye and I know better than to warn you away. Grimsever rests with the Dwemer ruin of Mzinchaleft. Tread carefully, friend... those same ruins almost took my life.

@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Truffle Kerfuffle
-Objective: bring 12 Ember Truffles to Clive
-First Tasks: gather 12 Ember Truffles
-First Task Locations: Muckery - a fungal cave
-Quest Giver: NONE - NONE (location: NONE)
-Reward: Super Mana Potion - a potion (amount: 1)
-Characters: NONE
-Tools: NONE
-Locations: NONE
-Items: Ember Truffles - Ember-infused mushrooms (amount: 1)
-Enemies: NONE
-Groups: NONE
-Title: Torchlight II
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+bring 12 Ember Truffles to Clive
+<|end_objective|>
+<|begin_tasks|>
+gather 12 Ember Truffles
+<|end_tasks|>
+<|begin_quest_giver|>
+Clive: a botanist working for the Empire
+<|end_quest_giver|>
+<|begin_task_locations|>
+Muckery: a fungal cave
+<|end_task_locations|>
+<|begin_rewards|>
+Super Mana Potion: a potion (amount: 1)
+<|end_rewards|>
+<|begin_items|>
+Ember Truffles: Ember-infused mushrooms (amount: 1)
+<|end_items|>
+<|end_quest|>
 I'm a botanist, serving the Empire by gathering various Ember-infused plants.  And I've found a virtual treasure trove of Ember Truffles, down in the Muckery... but some of them have already attained sentience, and that's making it difficult for me to gather them. If you can bring me, say, a dozen Ember Truffles, I'll keep ten for the Empire, and I'll use the other two to make a Super Mana Potion for you. Do we have a deal?

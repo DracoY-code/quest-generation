@@ -1,21 +1,25 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Divert More Electrical Power to Eric's Home
-Objective: Adjust the Vault City's power grid to increase electricity flow to Eric's residence.
-First Tasks: Find Eric in Vault City and learn about his power issues., Locate the city's power management terminal or technician., Adjust the power settings to favor Eric's home., Ensure the change is not detected or reversed by city authorities., Return to Eric and inform him of the successful diversion.
-First Task Locations: Vault City - A technologically advanced settlement with strict regulations., Power Management Terminal - A system controlling power distribution in Vault City.
-Quest Giver: NONE - NONE (location: NONE)
-Reward: Experience Points - Earned for successfully diverting power. (amount: 500), Caps - Eric may provide a small monetary reward. (amount: 100), Improved Reputation - Eric and some residents may view you more favorably. (amount: NONE)
-Characters: NONE
-Tools: Science Skill, Repair Skill, Stealth Skill
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Fallout 2
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+Adjust the Vault City's power grid to increase electricity flow to Eric's residence.
+<|end_objective|>
+<|begin_tasks|>
+Find Eric in Vault City and learn about his power issues.
+Locate the city's power management terminal or technician.
+Adjust the power settings to favor Eric's home.
+Ensure the change is not detected or reversed by city authorities.
+Return to Eric and inform him of the successful diversion.
+<|end_tasks|>
+<|begin_quest_giver|>
+Eric: A resident struggling with low power supply in his home.
+<|end_quest_giver|>
+<|begin_task_locations|>
+Vault City: A technologically advanced settlement with strict regulations.
+Power Management Terminal: A system controlling power distribution in Vault City.
+<|end_task_locations|>
+<|begin_rewards|>
+Experience Points: Earned for successfully diverting power. (amount: 500)
+Caps: Eric may provide a small monetary reward. (amount: 100)
+Improved Reputation: Eric and some residents may view you more favorably. (amount: NONE)
+<|end_rewards|>
+<|end_quest|>
 Eric is struggling with poor electricity in his home, while Vault City prioritizes other areas. He asks for help in adjusting the power grid to send more electricity his way without getting caught.

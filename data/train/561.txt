@@ -1,21 +1,22 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Free Vic from his debt by getting his radio from his house in Klamath and paying Metzger
-Objective: Retrieve Vic's radio and pay Metzger to free him from slavery.
-First Tasks: Travel to Klamath and locate Vic’s house., Find and collect Vic’s radio., Return to Metzger in The Den and pay off Vic’s debt.
-First Task Locations: Klamath - A small town known for its trapping industry and home to Vic’s house., The Den - A lawless town controlled by slavers, including Metzger.
-Quest Giver: NONE - NONE (location: NONE)
-Reward: Vic as a companion - Once freed, Vic can join you on your journey. (amount: NONE), Good karma - Helping Vic improves your reputation. (amount: NONE)
-Characters: NONE
-Tools: Sufficient caps to pay off Metzger (varies based on Barter skill)., Vic’s radio, retrieved from his house in Klamath.
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Fallout 2
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+Retrieve Vic's radio and pay Metzger to free him from slavery.
+<|end_objective|>
+<|begin_tasks|>
+Travel to Klamath and locate Vic’s house.
+Find and collect Vic’s radio.
+Return to Metzger in The Den and pay off Vic’s debt.
+<|end_tasks|>
+<|begin_quest_giver|>
+Vic: A trader and mechanic who has been captured and enslaved by Metzger.
+<|end_quest_giver|>
+<|begin_task_locations|>
+Klamath: A small town known for its trapping industry and home to Vic’s house.
+The Den: A lawless town controlled by slavers, including Metzger.
+<|end_task_locations|>
+<|begin_rewards|>
+Vic as a companion: Once freed, Vic can join you on your journey. (amount: NONE)
+Good karma: Helping Vic improves your reputation. (amount: NONE)
+<|end_rewards|>
+<|end_quest|>
 Vic has been captured by Metzger, the slaver boss in The Den. To free him, you must retrieve his radio from Klamath and pay off his debt.

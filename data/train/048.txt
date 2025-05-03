@@ -1,21 +1,27 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: A Helping Hand
-Objective: bring glistering melon slices to Cleo
-First Tasks: find Cleo
-First Task Locations: Humming Hills - a village
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - Cleo will pay the player (amount: 1)
-Characters: Cleo - a female cleric (location: Humming Hills)
-Tools: glistering melon slices are used to brew healing potions
-Locations: Seaside Settlement - a village (location: NONE)
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Minecraft
-Motivation: equipment
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+bring glistering melon slices to Cleo
+<|end_objective|>
+<|begin_tasks|>
+find Cleo
+<|end_tasks|>
+<|begin_quest_giver|>
+: a farmer
+<|end_quest_giver|>
+<|begin_task_locations|>
+Humming Hills: a village
+<|end_task_locations|>
+<|begin_rewards|>
+: Cleo will pay the player (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Cleo: a female cleric (location: Humming Hills)
+<|end_characters|>
+<|begin_locations|>
+Seaside Settlement: a village (location: NONE)
+<|end_locations|>
+<|begin_motivation|>
+equipment
+<|end_motivation|>
+<|end_quest|>
 I am a farmer here in Seaside Settlement. Sometimes, I get a bountiful harvest of melons. I process most of the melons into glistering melon slices for clerics and their important healing potions. I actually just finished preparing some glistering melon slices. Could you please take them to the cleric in the village of Humming Hills? I'm sure she'll pay you for them.

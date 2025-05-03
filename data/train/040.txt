@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Ghostly Justice
-Objective: avenge Larry
-First Tasks: find Captain Stillheart, and kill him
-First Task Locations: Plunder Cove - 
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Captain Stillheart - the leader of Larry's former accomplices, a male ghost (location: Plunder Cove)
-Tools: NONE
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Torchlight II
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+avenge Larry
+<|end_objective|>
+<|begin_tasks|>
+find Captain Stillheart, and kill him
+<|end_tasks|>
+<|begin_quest_giver|>
+Larry: a ghost of a former tomb raider, who was left to die by his former accomplices
+<|end_quest_giver|>
+<|begin_task_locations|>
+Plunder Cove: 
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Captain Stillheart: the leader of Larry's former accomplices, a male ghost (location: Plunder Cove)
+<|end_characters|>
+<|end_quest|>
 I was a villain, in my time. I broke into tombs and stole from the dead. But, one day, I realized how much pain I had caused those still living... and I swore it would stop. My comrades... my accomplices... felt differently. They lured me out into these desolate sands and left me to die. My spirit has haunted this place ever since, bound here by the weight of my sins, hoping for vengeance. But they perished elsewhere, beyond my reach, even though they are now spirits as well. Seek their leader, Captain Stillheart, in Plunder Cove, and show him that justice can still find him!

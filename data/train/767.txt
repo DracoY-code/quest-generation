@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: The Savior of Selveni Nethri
-Objective: help Selveni Nethri escape from Southfringe Sanctum
-First Tasks: escort Selveni Nethri outside
-First Task Locations: Southfringe Sanctum - the home of Bashnag's dangerous coven
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Bashnag - a skilled male necromancer (location: Southfringe Sanctum)
-Tools: the player saved Selveni Nethri from a spiders' web, Selveni Nethri was a member of Bashnag's coven, but they chased her out and left her for dead
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+help Selveni Nethri escape from Southfringe Sanctum
+<|end_objective|>
+<|begin_tasks|>
+escort Selveni Nethri outside
+<|end_tasks|>
+<|begin_quest_giver|>
+Selveni Nethri: an amicable necromancer
+<|end_quest_giver|>
+<|begin_task_locations|>
+Southfringe Sanctum: the home of Bashnag's dangerous coven
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Bashnag: a skilled male necromancer (location: Southfringe Sanctum)
+<|end_characters|>
+<|end_quest|>
 Thanks for getting me out of that. Bashnag's coven chased me out and left me for dead down here. Nobody lasts too long with the spiders. Please, will you help me get out of here? If the coast is clear, I'll make a break for it. We - well 'they', Bashnag's circle of mages, live here. They made it pretty clear that I'm no longer welcome. These are no dainty college mages. Bashnag has the skill of a magister and the mind of a warlord. This is a dangerous bunch. They're good company if you want to study necromancy in peace, though.

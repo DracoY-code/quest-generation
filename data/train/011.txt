@@ -1,21 +1,22 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Stealing Plans
-Objective: steal the plans of the Silver Hand
-First Tasks: sneak into a Silver Hand camp
-First Task Locations: Eastmarch - a province
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: NONE
-Tools: NONE
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: Silver Hand - a bandit gang who hate the Companions, Companions - a band of honorable warriors
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+steal the plans of the Silver Hand
+<|end_objective|>
+<|begin_tasks|>
+sneak into a Silver Hand camp
+<|end_tasks|>
+<|begin_quest_giver|>
+Aela the Huntress: a fellow member of the Companions
+<|end_quest_giver|>
+<|begin_task_locations|>
+Eastmarch: a province
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_groups|>
+Silver Hand: a bandit gang who hate the Companions (amount: NONE)
+Companions: a band of honorable warriors (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 I've caught wind that one of the brighter Silver Hand has been sniffing around Eastmarch. If you can sneak into the Silver Hand camp and steal their plans, we'll have the advantage. Hopefully the plans will let us know more about their movement.

@@ -1,21 +1,27 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Sanctuary
-Objective: begin your new life as a member of the Dark Brotherhood, and see Astrid
-First Tasks: find the entrance to the Dark Brotherhood Sanctuary, and answer "Silence, my brother." when questioned by the black door
-First Task Locations:  - in the southwest reaches of the realm, in the pine forest
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: NONE
-Tools: Astrid officially welcomes the player to the Dark Brotherhood
-Locations: Dark Brotherhood Sanctuary - the headquarters of the Dark Brotherhood (location: NONE)
-Items: "Silence, my brother." - the passphrase to the Dark Brotherhood Sanctuary (amount: 1)
-Enemies: NONE
-Groups: Dark Brotherhood - a guild of assassins
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+begin your new life as a member of the Dark Brotherhood, and see Astrid
+<|end_objective|>
+<|begin_tasks|>
+find the entrance to the Dark Brotherhood Sanctuary, and answer "Silence, my brother." when questioned by the black door
+<|end_tasks|>
+<|begin_quest_giver|>
+Astrid: the player's guildmaster in the Dark Brotherhood
+<|end_quest_giver|>
+<|begin_task_locations|>
+: in the southwest reaches of the realm, in the pine forest
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_locations|>
+Dark Brotherhood Sanctuary: the headquarters of the Dark Brotherhood (location: NONE)
+<|end_locations|>
+<|begin_items|>
+"Silence, my brother.": the passphrase to the Dark Brotherhood Sanctuary (amount: 1)
+<|end_items|>
+<|begin_groups|>
+Dark Brotherhood: a guild of assassins (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 I would like to officially extend to you an invitation to join my Family: the Dark Brotherhood. In the southwest reaches of the realm, in the Pine Forest, you'll find the entrance to our Sanctuary. It's just beneath the road, hidden from view. When questioned by the Black Door, answer with the correct passphrase: "Silence, my brother." Then you're in. And your new life begins. I'll see you at home.

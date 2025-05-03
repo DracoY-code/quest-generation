@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Lazarus' Missing Spellbook
-Objective: return Lazarus Librarus' spellbook to him
-First Tasks: talk to Hectan
-First Task Locations: Tankard Tree - the local pub
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Hectan - a known thief (location: Tankard Tree)
-Tools: Lazarus Librarus' does not have anything for the player to purchase, Lazarus Librarus' spellbook was stolen: he cannot fashion scrolls without his spellbook, Lazarus Librarus suspected Hectan, but he was at the local pub from dusk until dawn the night of the theft
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Baldur's Gate II: Shadows of Amn
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+return Lazarus Librarus' spellbook to him
+<|end_objective|>
+<|begin_tasks|>
+talk to Hectan
+<|end_tasks|>
+<|begin_quest_giver|>
+Lazarus Librarus: a wizard merchant with magical wares, and a newcomer in this town
+<|end_quest_giver|>
+<|begin_task_locations|>
+Tankard Tree: the local pub
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Hectan: a known thief (location: Tankard Tree)
+<|end_characters|>
+<|end_quest|>
 Lazarus Librarus at your service. I would normally invite you to look at my magical wares, but alas, my shelves are completely bare. I have not even a single parchment left for you to purchase. My spellbook has been stolen! Without it, I cannot fashion the powerful scrolls which normally fill my shop. Please, mighty traveler... I beg of you to help a humble wizard! At first, I suspected Hectan... he is well known about town for his sticky fingers. But after questioning many witnesses, it is clear that Hectan was at the local pub from dusk until dawn the night of the theft. I still suspect that no-good thief Hectan was involved — I can clearly see the guilt in his face! But there is no proof. Without my spellbook, I am virtually powerless to pursue this myself, and as a newcomer to this town, I have no one to turn to for help. I regret that there is little else I can tell you. Hectan can usually be found in the Tankard Tree if you wish to question him. I urge you godspeed.

@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: A Counter-attack
-Objective: find the rival guild's hideout, and destroy the rival guild
-First Tasks: find the rival guild's hideout
-First Task Locations: Graveyard District - a city district with a large graveyard
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - Aran Linvail and the player's bargain will be fulfilled (amount: 1)
-Characters: Bodhi - an intelligent, brutal female vampire, and the leader of the rival guild (location: the rival guild's hideout)
-Tools: the player was on a mission for Aran Linvail last night: Bodhi attacked Aran Linvail's guild in the meantime, there is a network of tombs beneath the graves where another spy tracked one of Bodhi's servants: the player shall find a set of blue doors just north of a spider den, the doors are too heavy for any mortal to open: Aran Linvail sends a mage to open the doors for the player, Aran Linvail gives the player stakes: the stakes can kill vampires permanently
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Baldur's Gate II: Shadows of Amn
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+find the rival guild's hideout, and destroy the rival guild
+<|end_objective|>
+<|begin_tasks|>
+find the rival guild's hideout
+<|end_tasks|>
+<|begin_quest_giver|>
+Aran Linvail: a man leading a guild of thieves
+<|end_quest_giver|>
+<|begin_task_locations|>
+Graveyard District: a city district with a large graveyard
+<|end_task_locations|>
+<|begin_rewards|>
+: Aran Linvail and the player's bargain will be fulfilled (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Bodhi: an intelligent, brutal female vampire, and the leader of the rival guild (location: the rival guild's hideout)
+<|end_characters|>
+<|end_quest|>
 You were not the only one who was busy last night. The leader of this rival guild, Bodhi by name, made a daring attack upon us. She can only be a vampire, and I suspect many of her servants are as well. The time has come to strike back to protect our people and the city she has invaded. Go to the Graveyard District and find their hideout. There is a network of tombs beneath the graves where another spy tracked one of Bodhi's servants. There you shall find a set of blue doors just north of a spider den. The doors are too heavy for any mortal to open, but the vampires likely pass with ease. I shall send a mage to meet you there and arrange for the doors to be opened. Here, you shall need these stakes if you are to truly finish these creatures. Be on your guard. This Bodhi is the most intelligent and brutal foe I have ever had. If we are lax in our vigilance, we will be at the disadvantage. When you have destroyed their evil, return to me and I will fulfill our bargain.

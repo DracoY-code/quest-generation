@@ -1,21 +1,27 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Landrin's Possessions
-Objective: deal with the spider infestation in Landrin's cellar
-First Tasks: kill spiders, and fetch Landrin's husband's boots and Landrin's bottle of wine
-First Task Locations:  - Landrin's house in Beregost, west of the Jovial Juggler Inn
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - gold pieces for fetching Landrin's husband's old boots (amount: 120),  - something extra for bodies of spiders and Landrin's bottle of wine (amount: 1)
-Characters: NONE
-Tools: Landrin gives the player antidote potions against poison
-Locations: Beregost - a town (location: NONE), Jovial Juggler Inn - an inn in Beregost (location: NONE)
-Items:  - Landrin's husband's boots (amount: 1),  - Landrin's bottle of wine (amount: 1)
-Enemies: NONE
-Groups: NONE
-Title: Baldur's Gate
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+deal with the spider infestation in Landrin's cellar
+<|end_objective|>
+<|begin_tasks|>
+kill spiders, and fetch Landrin's husband's boots and Landrin's bottle of wine
+<|end_tasks|>
+<|begin_quest_giver|>
+Landrin: a woman
+<|end_quest_giver|>
+<|begin_task_locations|>
+: Landrin's house in Beregost, west of the Jovial Juggler Inn
+<|end_task_locations|>
+<|begin_rewards|>
+: gold pieces for fetching Landrin's husband's old boots (amount: 120)
+: something extra for bodies of spiders and Landrin's bottle of wine (amount: 1)
+<|end_rewards|>
+<|begin_locations|>
+Beregost: a town (location: NONE)
+Jovial Juggler Inn: an inn in Beregost (location: NONE)
+<|end_locations|>
+<|begin_items|>
+: Landrin's husband's boots (amount: 1)
+: Landrin's bottle of wine (amount: 1)
+<|end_items|>
+<|end_quest|>
 Hey, I'm Landrin. I've got an infestation of poisonous spiders in my cellar in Beregost. You'll know the house when you see it: just to the west of the Jovial Juggler Inn. Here, take these potions with you. They're antidotes against the poison. Keep whatever you don't use and I'll give you an extra 120 gold pieces if you bring back my husband's old boots that he keeps down there. If you bring back one of their bodies and my ol' bottle of wine as well, I might toss in a little something extra too.

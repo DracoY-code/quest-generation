@@ -1,21 +1,23 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Cacklespit's Brew
-Objective: collect ingredients for Cacklespit's brew
-First Tasks: get Mask of a Murderer, Thorns as Hard as Iron, and Black Heart of a Coward
-First Task Locations: Blightbogs - a bog
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - a special concoction that will make the player famous for generations to come (amount: 1)
-Characters: NONE
-Tools: NONE
-Locations: NONE
-Items: Mask of a Murderer - an alchemy ingredient (amount: 1), Thorns as Hard as Iron - an alchemy ingredient (amount: 1), Black Heart of a Coward - an alchemy ingredient (amount: 1)
-Enemies: NONE
-Groups: NONE
-Title: Torchlight II
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+collect ingredients for Cacklespit's brew
+<|end_objective|>
+<|begin_tasks|>
+get Mask of a Murderer, Thorns as Hard as Iron, and Black Heart of a Coward
+<|end_tasks|>
+<|begin_quest_giver|>
+Cacklespit: a potion-selling witch
+<|end_quest_giver|>
+<|begin_task_locations|>
+Blightbogs: a bog
+<|end_task_locations|>
+<|begin_rewards|>
+: a special concoction that will make the player famous for generations to come (amount: 1)
+<|end_rewards|>
+<|begin_items|>
+Mask of a Murderer: an alchemy ingredient (amount: 1)
+Thorns as Hard as Iron: an alchemy ingredient (amount: 1)
+Black Heart of a Coward: an alchemy ingredient (amount: 1)
+<|end_items|>
+<|end_quest|>
 Another customer for one of old Cacklespit's brews, eh? I can provide a special concoction, free of charge...if you aren't afraid to get your hands a little dirty. As any true cook will tell you, the finest ingredients are of the utmost importance if you want to create something truly special. I will require three items to brew the special mixture I have in mind... The Mask of a Murderer, Thorns as Hard as Iron, and the Black Heart of a Coward. All three are to be found here in the bogs - you only have to find them! Once I brew the ingredients properly, your name will be known for generations to come!

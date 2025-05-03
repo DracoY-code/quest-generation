@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: The Ebony Warrior
-Objective: fight the Ebony Warrior
-First Tasks: locate the Ebony Warrior
-First Task Locations:  - the Ebony Warrior's last vigil
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: NONE
-Tools: only the player can send the Ebony Warrior to Sovngarde
-Locations: Sovngarde - the afterlife of heroes (location: NONE)
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+fight the Ebony Warrior
+<|end_objective|>
+<|begin_tasks|>
+locate the Ebony Warrior
+<|end_tasks|>
+<|begin_quest_giver|>
+Ebony Warrior: a man who has done all that can be done
+<|end_quest_giver|>
+<|begin_task_locations|>
+: the Ebony Warrior's last vigil
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_locations|>
+Sovngarde: the afterlife of heroes (location: NONE)
+<|end_locations|>
+<|end_quest|>
 I am the Ebony Warrior. I have come to challenge you to a fight. I have done all that can be done. There is nothing left. No quests to be undertaken. No villains to be slain. No challenges to face. Except for you. You are my last challenge. Only you can send me to Sovngarde with honor. Make your preparations. When you are ready, come find me at my last vigil.

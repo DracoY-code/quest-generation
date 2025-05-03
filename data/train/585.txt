@@ -1,21 +1,24 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Bad Medicine
-Objective: assassinate Roderick without been seen by his company of loyal mercenaries
-First Tasks: replace Roderick's medicine with a poisoned bottle Ocheeva gives you
-First Task Locations: Fort Sutch -  a fort far to the west, nestled in the mountains
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - a bonus if Roderick dies of poisoning (amount: 1)
-Characters: Roderick - a male warlord (location: Fort Sutch)
-Tools: Roderick lies in eternal slumber, kept alive only by the daily administration of a powerful medicine
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: Dark Brotherhood - a guild of assassins
-Title: The Elder Scrolls IV: Oblivion
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+assassinate Roderick without been seen by his company of loyal mercenaries
+<|end_objective|>
+<|begin_tasks|>
+replace Roderick's medicine with a poisoned bottle Ocheeva gives you
+<|end_tasks|>
+<|begin_quest_giver|>
+Ocheeva: the player's superior in the Dark Brotherhood
+<|end_quest_giver|>
+<|begin_task_locations|>
+Fort Sutch:  a fort far to the west, nestled in the mountains
+<|end_task_locations|>
+<|begin_rewards|>
+: a bonus if Roderick dies of poisoning (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Roderick: a male warlord (location: Fort Sutch)
+<|end_characters|>
+<|begin_groups|>
+Dark Brotherhood: a guild of assassins (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 Far to the west there lives a fierce warlord and his company of loyal mercenaries. Your target is the warlord. Do you accept this contract? Now listen closely. Nestled in the mountains to the west lies Fort Sutch. It is the home of the warlord Roderick and his mercenaries. Roderick has recently taken ill. He now lies in eternal slumber, kept alive only by the daily administration of a powerful medicine. You must infiltrate Fort Sutch, find Roderick's medicine, and replace it with a poisoned bottle I will provide. But you must remain undetected! Whomever arranged this contract wants it to look like Roderick died from his illness, so discretion is essential. Attack no one! Be seen by no one! If you are detected, the poisoning will fail, and Roderick must be killed in some other manner. That will, of course, forfeit your bonus. Roderick may lie near death, but dead he is not. Until his soul has passed, our client -- and the Grim Reaper himself -- will not be satisfied.

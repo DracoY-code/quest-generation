@@ -1,21 +1,22 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: The Captive Nymph
-Objective: investigate Ragefast and his nymph
-First Tasks: find Ragefast, a mage
-First Task Locations:  - Ragefast's house, in the northwest part of the town
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Ragefast - a powerful mage (location: Ragefast's house),  - nymph, a female fairy (location: Ragefast's house)
-Tools: Ragefast enslaved the nymph, Ragefast locked the nymph inside Ragefast's house
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Baldur's Gate
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+investigate Ragefast and his nymph
+<|end_objective|>
+<|begin_tasks|>
+find Ragefast, a mage
+<|end_tasks|>
+<|begin_quest_giver|>
+Lady Hannah: a noblewoman who is seething because of Ragefast
+<|end_quest_giver|>
+<|begin_task_locations|>
+: Ragefast's house, in the northwest part of the town
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Ragefast: a powerful mage (location: Ragefast's house)
+: nymph, a female fairy (location: Ragefast's house)
+<|end_characters|>
+<|end_quest|>
 You may call me Lady Hannah. Ragefast! Oh, he makes me seethe! He's a mage on a power trip and what does he do? He acquires his own personal nymph and enslaves her in his quarters! Seek him out and look into this matter immediately! His house is in the northwest part of town. I wish you luck and all the passion of my fury in your task.

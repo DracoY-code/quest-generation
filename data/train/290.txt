@@ -1,21 +1,20 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Dispose of Jain
-Objective: Eliminate Jain as part of an assigned task.
-First Tasks: Locate Jain in the Children of the Cathedral., Decide on an approach: direct combat, stealth, or deception., Avoid unwanted attention from other members of the Cathedral.
-First Task Locations: Children of the Cathedral - A religious organization based in the wasteland, acting as a front for the Master's army.
-Quest Giver: NONE - NONE (location: NONE)
-Reward: Loot from Jain - Items and potential documents carried by Jain. (amount: Varies)
-Characters: NONE
-Tools: Weapons, Stealth, Persuasion (if applicable)
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Fallout
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+Eliminate Jain as part of an assigned task.
+<|end_objective|>
+<|begin_tasks|>
+Locate Jain in the Children of the Cathedral.
+Decide on an approach: direct combat, stealth, or deception.
+Avoid unwanted attention from other members of the Cathedral.
+<|end_tasks|>
+<|begin_quest_giver|>
+Unknown (Potentially an enemy of the Cathedral): A character who seeks the removal of Jain due to ideological or strategic reasons.
+<|end_quest_giver|>
+<|begin_task_locations|>
+Children of the Cathedral: A religious organization based in the wasteland, acting as a front for the Master's army.
+<|end_task_locations|>
+<|begin_rewards|>
+Loot from Jain: Items and potential documents carried by Jain. (amount: Varies)
+<|end_rewards|>
+<|end_quest|>
 The player must eliminate Jain, a high-ranking member of the Children of the Cathedral. The method can vary based on stealth, direct combat, or manipulation, and the consequences may affect the player’s reputation with the faction.

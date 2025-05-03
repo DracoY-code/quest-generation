@@ -1,21 +1,28 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Lost Glory
-Objective: retrieve the Helm of Winterhold for Korir
-First Tasks: find the Helm of Winterhold
-First Task Locations: Hob's Fall Cave - a cave
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Hanse - a nobleman who was in line to be High King of Skyrim (location: )
-Tools: NONE
-Locations: Winterhold - a city that has lost much of its history and power (location: NONE), Skyrim - a realm (location: NONE)
-Items: Helm of Winterhold - a helm that was worn by Hanse in the First Era (amount: 1)
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+retrieve the Helm of Winterhold for Korir
+<|end_objective|>
+<|begin_tasks|>
+find the Helm of Winterhold
+<|end_tasks|>
+<|begin_quest_giver|>
+Korir: the Jarl of Winterhold
+<|end_quest_giver|>
+<|begin_task_locations|>
+Hob's Fall Cave: a cave
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Hanse: a nobleman who was in line to be High King of Skyrim (location: )
+<|end_characters|>
+<|begin_locations|>
+Winterhold: a city that has lost much of its history and power (location: NONE)
+Skyrim: a realm (location: NONE)
+<|end_locations|>
+<|begin_items|>
+Helm of Winterhold: a helm that was worn by Hanse in the First Era (amount: 1)
+<|end_items|>
+<|end_quest|>
 Winterhold has lost much of its history, and with that much of its power. I, Korir, the Jarl of Winterhold, aim to change that. I've heard rumors of the resting place of the Helm of Winterhold, the very same helm that Hanse wore in the First Era. He was in line to be High King of Skyrim, you know. Having that might get the ear of the other nobles and give me some authority. The Helm of Winterhold lies in Hob's Fall Cave. Recover it, and I'll You have Winterhold's thanks.

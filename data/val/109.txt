@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: No More Pain
-Objective: find your prisoner's treasure for yourself
-First Tasks: get your prisoner's hidden things from a hollowed-out rock
-First Task Locations:  - just north of Windhelm
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - some things (amount: 1)
-Characters: NONE
-Tools: the player is hurting their prisoner
-Locations: Windhelm - a city (location: NONE)
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+find your prisoner's treasure for yourself
+<|end_objective|>
+<|begin_tasks|>
+get your prisoner's hidden things from a hollowed-out rock
+<|end_tasks|>
+<|begin_quest_giver|>
+: the player's prisoner, a man
+<|end_quest_giver|>
+<|begin_task_locations|>
+: just north of Windhelm
+<|end_task_locations|>
+<|begin_rewards|>
+: some things (amount: 1)
+<|end_rewards|>
+<|begin_locations|>
+Windhelm: a city (location: NONE)
+<|end_locations|>
+<|end_quest|>
 I'll tell you anything. Anything! Just please stop... hurting me... I just... can't take the pain. Not a second longer. I'll give you money. Treasure. I have some things hidden away. Take them all. They're yours. Just please... stop. Just north of Windhelm. There's a hollowed-out rock. I have some things hidden in there. Take them! They're yours. I've told you everything I can. I don't know what else you could want...

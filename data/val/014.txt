@@ -1,21 +1,20 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Retrieve the FOB from the base Commander
-Objective: Steal or acquire the FOB from the Navarro base Commander to access the Enclave's Vertibird transport.
-First Tasks: Locate the base Commander at Navarro., Obtain the FOB through theft, persuasion, or combat.
-First Task Locations: Navarro - A secretive Enclave base where the base Commander holds the necessary FOB.
-Quest Giver: NONE - NONE (location: NONE)
-Reward: FOB - A crucial item needed to access the Enclave's oil rig. (amount: NONE), Experience Points - Earn XP for successfully retrieving the FOB. (amount: NONE)
-Characters: NONE
-Tools: Stealth skills for pickpocketing., Persuasion skills to convince the Commander., Strong weapons in case of direct confrontation.
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Fallout 2
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+Steal or acquire the FOB from the Navarro base Commander to access the Enclave's Vertibird transport.
+<|end_objective|>
+<|begin_tasks|>
+Locate the base Commander at Navarro.
+Obtain the FOB through theft, persuasion, or combat.
+<|end_tasks|>
+<|begin_quest_giver|>
+No direct quest giver: This is a self-initiated quest required for accessing the Enclave's facilities.
+<|end_quest_giver|>
+<|begin_task_locations|>
+Navarro: A secretive Enclave base where the base Commander holds the necessary FOB.
+<|end_task_locations|>
+<|begin_rewards|>
+FOB: A crucial item needed to access the Enclave's oil rig. (amount: NONE)
+Experience Points: Earn XP for successfully retrieving the FOB. (amount: NONE)
+<|end_rewards|>
+<|end_quest|>
 To proceed with infiltrating the Enclave, you need to retrieve the FOB from the base Commander at Navarro. This item is essential for gaining access to their advanced technology and transportation.

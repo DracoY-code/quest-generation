@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Quinn's Friend
-Objective: bring something belonging to Nester to Quinn
-First Tasks: find something belonging to Nester
-First Task Locations:  - upriver, along the east bank, north of the bitch priestess
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Nester - Quinn's friend, who was killed by ankhegs (location: )
-Tools: NONE
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Baldur's Gate
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+bring something belonging to Nester to Quinn
+<|end_objective|>
+<|begin_tasks|>
+find something belonging to Nester
+<|end_tasks|>
+<|begin_quest_giver|>
+Quinn: a man scared of ankhegs
+<|end_quest_giver|>
+<|begin_task_locations|>
+: upriver, along the east bank, north of the bitch priestess
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Nester: Quinn's friend, who was killed by ankhegs (location: )
+<|end_characters|>
+<|end_quest|>
 I'm Quinn. There's some ankhegs causin' chaos upriver, alon' the east bank, just north o' that bitch priestess. They took down my pal, Nester, and dang near hauled me under too. 'At's why I'm so glum now. Nester's mama's gonna want somepin' of 'is to bury, but I'm still gettin' too many nightmares and all to go back there.

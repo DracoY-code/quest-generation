@@ -1,21 +1,24 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Missing In Action
-Objective: find Thorald
-First Tasks: talk to Fralia Gray-Mane privately about the Battle-Borns and their lies
-First Task Locations:  - Fralia Gray-Mane's home
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Thorald - Fralia Gray-Mane's missing son (location: )
-Tools: Fralia Gray-Mane was told that Thorald was killed in the war against the Empire, but she knows that Thorald is alive: the Battle-Borns know that too
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: Battle-Borns - an influential family that supports the Empire
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+find Thorald
+<|end_objective|>
+<|begin_tasks|>
+talk to Fralia Gray-Mane privately about the Battle-Borns and their lies
+<|end_tasks|>
+<|begin_quest_giver|>
+Fralia Gray-Mane: a distressed mother
+<|end_quest_giver|>
+<|begin_task_locations|>
+: Fralia Gray-Mane's home
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Thorald: Fralia Gray-Mane's missing son (location: )
+<|end_characters|>
+<|begin_groups|>
+Battle-Borns: an influential family that supports the Empire (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 All I can think about is my son, my Thorald... they say that he was killed, but I know better. I know my son is alive! Those Battle-Borns... they're in with the Imperials. They know it too, and yet they lie to my very face! It's not wise to discuss how I know about their lies here. Please, if you truly wish to help, meet me at my home. I'll tell you the whole story.

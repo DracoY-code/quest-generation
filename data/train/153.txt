@@ -1,21 +1,18 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: *Seeing Things
-Objective: help Guard kill invisible demons
-First Tasks: kill the invisible demons that surround Guard
-First Task Locations: NONE - 
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: NONE
-Tools: NONE
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Torchlight II
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+help Guard kill invisible demons
+<|end_objective|>
+<|begin_tasks|>
+kill the invisible demons that surround Guard
+<|end_tasks|>
+<|begin_quest_giver|>
+Guard: a frantic guard
+<|end_quest_giver|>
+<|begin_task_locations|>
+NONE: 
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|end_quest|>
 Thank the Gods you're here! These... demons just came out of nowhere! I've been able to hold them off so far, but, with you here, we'll soon triumph over them! Why are you looking at me like that? Can't you see them? They're all around us! Please... you've got to believe me!

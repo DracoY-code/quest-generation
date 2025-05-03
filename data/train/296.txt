@@ -1,21 +1,27 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Thorough Cleaning
-Objective: purify a soul gem
-First Tasks: place the soul gem in 3 Dwarven Convectors and heat them for 3 seconds with Arniel Gane's spell
-First Task Locations:  - Skyrim ruins
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: NONE
-Tools: the Dwemer's greatest achievement has also been their greatest mystery: their instant, unexplainable disappearance, Arniel Gane tries to find out what happened to the Dwemer though experimentation, the player brought Arniel Gane Dwemer parts and a soul gem before
-Locations: Skyrim - a realm (location: NONE)
-Items: Dwarven Convectors, Convectors - Dwemer machines that were used to purify gems (amount: 3)
-Enemies: NONE
-Groups: Dwemer - a lost race of people, masters of magic
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+purify a soul gem
+<|end_objective|>
+<|begin_tasks|>
+place the soul gem in 3 Dwarven Convectors and heat them for 3 seconds with Arniel Gane's spell
+<|end_tasks|>
+<|begin_quest_giver|>
+Arniel Gane: a scholar fascinated by the Dwemer
+<|end_quest_giver|>
+<|begin_task_locations|>
+: Skyrim ruins
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_locations|>
+Skyrim: a realm (location: NONE)
+<|end_locations|>
+<|begin_items|>
+Dwarven Convectors, Convectors: Dwemer machines that were used to purify gems (amount: 3)
+<|end_items|>
+<|begin_groups|>
+Dwemer: a lost race of people, masters of magic (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 The Dwemer, they were uhh, masters of magic in a way we can't even begin to conceive of. Their greatest achievement, however, has also been their greatest, shall we say... mystery. This mystery is their disappearance, of course! Instant, unexplainable. The stories have fascinated me... Ever since I was young, I wanted to know what really happened. After years and years of work, I'm closing in on a way to investigate what happened through experimentation. Only now... Well, it's simply a disaster. Without boring you with the, ahh, details, I am attempting to re-create the circumstances of the event. I used the soul gem you brought me for this. The soul gem by itself isn't enough, you see. It needs to be altered, purified. The Dwemer had machines for this sort of thing. I attempted to build my own, based on designs and using parts you helped to provide. My very own Dwemer machine. It worked, but not fully. And the uhh... The device was destroyed in the process. The designs for my Convector were based on real Dwemer machines, so there may still be some in existence. I'd go looking myself, but uhh... Yes, there are calculations to double- and triple-check. Many calculations. Perhaps you could seek out these Convectors in Skyrim ruins? I can even teach you the spell to heat them. Just place the soul gem inside, and heat the Convector. At least three seconds. You'll almost certainly need to find multiple Convectors. I suspect it may be due to the nature of the soul gem versus the crystals this was intended for. Destroys the equipment in the process. But, ahh... It's effective. Three times, and the crystal should be ready for the next step. Isn't this exciting?

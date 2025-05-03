@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Intentional Game Design
-Objective: try to sleep in a bed in the Nether, and report back to Lily
-First Tasks: go to the Nether
-First Task Locations: Nether - a hellish, dangerous dimension
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - a diamond (amount: 1)
-Characters: NONE
-Tools: the player is an enemy of Lily, the player can get to the Nether with a portal made out of obsidian: take a look at ruined portals scattered around the world
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Minecraft
-Motivation: knowledge
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+try to sleep in a bed in the Nether, and report back to Lily
+<|end_objective|>
+<|begin_tasks|>
+go to the Nether
+<|end_tasks|>
+<|begin_quest_giver|>
+Lily: a mischievous person
+<|end_quest_giver|>
+<|begin_task_locations|>
+Nether: a hellish, dangerous dimension
+<|end_task_locations|>
+<|begin_rewards|>
+: a diamond (amount: 1)
+<|end_rewards|>
+<|begin_motivation|>
+knowledge
+<|end_motivation|>
+<|end_quest|>
 Why are you talking to me? Can't you just steer clear of me? If you really want to do something interesting, though, I've got something fun for you. Go to the Nether. You know, the lethal hellish dimension? You can get there with a portal made out of obsidian. Take a look at the various ruined portals dotting the landscape. Try to sleep in a bed there, and report back to me. I'm very interested in hearing the results of this little experiment. If the things I've heard about the Nether are true that should teach you a lesson... and I'll even give you a shiny diamond.

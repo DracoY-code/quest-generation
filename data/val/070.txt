@@ -1,21 +1,22 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Locate a Caretaker for Risa
-Objective: do something to help Risa
-First Tasks: find a guardian for Risa
-First Task Locations: NONE - 
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Risa - a shy, sad, young girl, and Dawnlord Arenthis' charge (location: next to Dawnlord Arenthis), Lathander - the good god of dawn (location: )
-Tools: Risa does not talk much since the death of her parents
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Baldur's Gate II: Shadows of Amn
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+do something to help Risa
+<|end_objective|>
+<|begin_tasks|>
+find a guardian for Risa
+<|end_tasks|>
+<|begin_quest_giver|>
+Dawnlord Arenthis: a member of the church of Lathander
+<|end_quest_giver|>
+<|begin_task_locations|>
+NONE: 
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Risa: a shy, sad, young girl, and Dawnlord Arenthis' charge (location: next to Dawnlord Arenthis)
+Lathander: the good god of dawn (location: )
+<|end_characters|>
+<|end_quest|>
 I am Dawnlord Arenthis of the church of Lathander... excuse my young charge. Risa doesn't talk much since the recent death of her parents. There is very little that can be done for her as well... other than to put her into an orphanage, I suppose. She is so shy and sad, though, I am sure it will do her no good. If only there were someone who would care for her. Might you know of someone who would make a suitable guardian?

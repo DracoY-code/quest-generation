@@ -1,21 +1,32 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: The Hunt for Valygar Corthala
-Objective: deliver Valygar Corthala to the Cowled Wizards dead or alive
-First Tasks: track down Valygar Corthala
-First Task Locations:  - Valygar Corthala's house in the Docks District of Athkatla, or Umar Hills
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Valygar Corthala - last son of a wealthy family and a true brute (location: )
-Tools: magic is hated in Amn, Valygar Corthala has murdered two Cowled Wizards: he is currently in hiding, Valygar Corthala's friends and servants will not speak to Cowled Wizards
-Locations: Amn - a country (location: NONE), Umar Hills - an area in the wilderness (location: NONE), Athkatla - the capital city of Amn (location: NONE)
-Items: Amnian - something or someone from Amn (amount: 1)
-Enemies: NONE
-Groups: Cowled Wizards - an organization of wizards who regulate magic usage
-Title: Baldur's Gate II: Shadows of Amn
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+deliver Valygar Corthala to the Cowled Wizards dead or alive
+<|end_objective|>
+<|begin_tasks|>
+track down Valygar Corthala
+<|end_tasks|>
+<|begin_quest_giver|>
+Tolgerias: a member of the Amnian Cowled Wizards
+<|end_quest_giver|>
+<|begin_task_locations|>
+: Valygar Corthala's house in the Docks District of Athkatla, or Umar Hills
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Valygar Corthala: last son of a wealthy family and a true brute (location: )
+<|end_characters|>
+<|begin_locations|>
+Amn: a country (location: NONE)
+Umar Hills: an area in the wilderness (location: NONE)
+Athkatla: the capital city of Amn (location: NONE)
+<|end_locations|>
+<|begin_items|>
+Amnian: something or someone from Amn (amount: 1)
+<|end_items|>
+<|begin_groups|>
+Cowled Wizards: an organization of wizards who regulate magic usage (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 I am Tolgerias, a proud member of the Amnian Cowled Wizards. This matter must be handled with discretion and expediency. There is something that has been plaguing us for more than a week now and has become quite alarming. You know of the prevailing attitude against magic here in Amn, yes? Well, amongst some it is even worse than that... a burning, palpable hatred. One particular man here in Athkatla has murdered two of our number in cold blood. He is currently in hiding, and we need you to track the fellow down. We have been unable to do so, much to our frustration. Cowled Wizards cannot be assaulted without repercussions or it will lead to... serious problems. He is Valygar Corthala, last son of a wealthy family and a true brute. Ask around and you may discover if he is hiding within the city or someplace else. He has a home here in the Docks District, or he may have fled to the Umar Hills. His friends and servants will not speak to us, but they may to you. We do not ask that you commit any murder. We wish Valygar be delivered to us, that is all. He will likely resist, so if you must kill him, so be it. But if you do kill him, I simply must have his body. Valygar must be delivered to us whether he is dead or alive. You understand, yes?

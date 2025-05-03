@@ -1,21 +1,24 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Storm over Whiterun
-Objective: take Whiterun in the name of the Stormcloaks
-First Tasks: tear through the barricades, and find a way to drop the drawbridge into Whiterun
-First Task Locations: Whiterun - a city with tall, yet old and crumbling walls
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: NONE
-Tools: Galmar Stone-Fist is addressing the player and the player's fellow Stormcloaks: the true sons and daughters of Skyrim, Imperial legionnaires have been stationed on the walls of Whiterun
-Locations: Skyrim - a province of the Empire (location: NONE)
-Items: NONE
-Enemies: NONE
-Groups: Stormcloaks - Nord rebel forces opposing the Empire
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+take Whiterun in the name of the Stormcloaks
+<|end_objective|>
+<|begin_tasks|>
+tear through the barricades, and find a way to drop the drawbridge into Whiterun
+<|end_tasks|>
+<|begin_quest_giver|>
+Galmar Stone-Fist: the player's commanding officer in the Stormcloaks, a Nord
+<|end_quest_giver|>
+<|begin_task_locations|>
+Whiterun: a city with tall, yet old and crumbling walls
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_locations|>
+Skyrim: a province of the Empire (location: NONE)
+<|end_locations|>
+<|begin_groups|>
+Stormcloaks: Nord rebel forces opposing the Empire (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 This is it men! They say that our cause is false and that we are nothing more than thieves, thugs and murderers! But no! We are farmers! We are craftsmen! We are sons and daughters of shopkeepers, maid servants and soldiers! We are the sons and daughters of Skyrim! And we have come this far because our cause is true. Because we fight as one. And because our hearts are bursting with anger! What we do here today, we do for our country! For all the true Nords of Skyrim! Whiterun's walls are tall, but they are old and crumbling, like the Empire whose Legion lines them. They've barricades to block us, but we'll tear through them and the Imperials behind them! Our objective is the drawbridge. If we can find a way to drop it, the city will be ours! Everyone on me. Let's show these Imperial milk drinkers what true Nords look like! Rrrrraaaaaarrrrr!!!!!

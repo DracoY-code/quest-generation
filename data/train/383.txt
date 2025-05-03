@@ -1,21 +1,24 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Destroying the Dawnguard
-Objective: prevent the Dawnguard from becoming a serious threat against the vampires
-First Tasks: kill the Dawnguard leaders
-First Task Locations:  - an abandoned fort in the Reach
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: NONE
-Tools: the Dawnguard will become even more of a nuisance now that Auriel's Bow has been recovered
-Locations: NONE
-Items: Auriel's Bow - a divine artifact (amount: 1)
-Enemies: NONE
-Groups: Dawnguard - an organization of vampire hunters
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+prevent the Dawnguard from becoming a serious threat against the vampires
+<|end_objective|>
+<|begin_tasks|>
+kill the Dawnguard leaders
+<|end_tasks|>
+<|begin_quest_giver|>
+Fura Bloodmouth: a fellow vampire
+<|end_quest_giver|>
+<|begin_task_locations|>
+: an abandoned fort in the Reach
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_items|>
+Auriel's Bow: a divine artifact (amount: 1)
+<|end_items|>
+<|begin_groups|>
+Dawnguard: an organization of vampire hunters (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 The Dawnguard will, no doubt, soon become even more of a nuisance now that Auriel's Bow has been recovered. We need to strike a crippling blow against them before they muster more men against us. They've holed up in an abandoned fort in the Reach. The Dawnguard are apparently focused on exterminating vampires, noble and brute alike. Not a serious threat, but we can't leave them completely unchecked or they may become one. But their time has come to an end. And you will be the one that ends it. Killing their leaders should discourage them from an out and out war with us.

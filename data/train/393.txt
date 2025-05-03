@@ -1,21 +1,28 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: The Djinni's Final Task
-Objective: free the Guardian by humiliating Ezrek Khan
-First Tasks: steal Ezrek Khan's Lamp of Marvels
-First Task Locations: NONE - 
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Guardian - the player's ally who was enchanted by Ezrek Khan (location: ), Ezrek Khan - a male djinni, and Fazeer Shah's old rival (location: )
-Tools: the player successfully completed their previous tasks to Fazeer Shah: this is the player's final task, Ezrek Khan draws his power from the same source as the Netherim: the Netherim will oppose the player should they challenge Ezrek Khan
-Locations: NONE
-Items: Lamp of Marvels - a djinni lamp (amount: 1)
-Enemies: NONE
-Groups: Netherim - demonic creatures
-Title: Torchlight II
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+free the Guardian by humiliating Ezrek Khan
+<|end_objective|>
+<|begin_tasks|>
+steal Ezrek Khan's Lamp of Marvels
+<|end_tasks|>
+<|begin_quest_giver|>
+Fazeer Shah: a djinni
+<|end_quest_giver|>
+<|begin_task_locations|>
+NONE: 
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Guardian: the player's ally who was enchanted by Ezrek Khan (location: )
+Ezrek Khan: a male djinni, and Fazeer Shah's old rival (location: )
+<|end_characters|>
+<|begin_items|>
+Lamp of Marvels: a djinni lamp (amount: 1)
+<|end_items|>
+<|begin_groups|>
+Netherim: demonic creatures (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 Well, well. You are much more determined... and capable... than I had suspected! Excellent... Now, to your final task. If you truly wish to free the Guardian, you must humiliate my old rival, Ezrek Khan, by stealing his precious Lamp of Marvels. Be warned: Ezrek Khan draws his power from the same source as the Netherim. His realm borders closely on theirs; they will almost certainly stand against you, should you challenge the djinni.

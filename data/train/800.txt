@@ -1,21 +1,24 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Deal of the Century
-Objective: bring 2 blocks of diamond to Pate
-First Tasks: obtain 2 blocks of diamond
-First Task Locations:  - diamond veins deep in the ground
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - a block of Netherite (amount: 1)
-Characters: NONE
-Tools: the player is a friend of Pate
-Locations: NONE
-Items: Netherite - a rare, valuable metal (amount: 1)
-Enemies: NONE
-Groups: NONE
-Title: Minecraft
-Motivation: equipment
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+bring 2 blocks of diamond to Pate
+<|end_objective|>
+<|begin_tasks|>
+obtain 2 blocks of diamond
+<|end_tasks|>
+<|begin_quest_giver|>
+Pate: a weaponsmith
+<|end_quest_giver|>
+<|begin_task_locations|>
+: diamond veins deep in the ground
+<|end_task_locations|>
+<|begin_rewards|>
+: a block of Netherite (amount: 1)
+<|end_rewards|>
+<|begin_items|>
+Netherite: a rare, valuable metal (amount: 1)
+<|end_items|>
+<|begin_motivation|>
+equipment
+<|end_motivation|>
+<|end_quest|>
 My friend, I've got a profitable deal for you today. As you know, I smith weapons from a variety of materials, including diamond. Just so it happens, I'm running low on diamonds: soon I can't make any diamond swords for daring adventurers. I'm not skilled in adventuring; I can't brave the deep underground for diamond veins. Yet, I have a whopping block of Netherite. You definitely don't see those every day! Here's the deal: bring me 2 blocks of diamond, and I'll give you my block of Netherite. A good deal for a good friend.

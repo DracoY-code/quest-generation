@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: The Locket
-Objective: bring the Locket to Jessa
-First Tasks: find the Locket
-First Task Locations: Blightbogs - a swamp
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: NONE
-Tools: the player told Jessa that her father is dead
-Locations: NONE
-Items: Locket - a memento of Jessa's father (amount: 1)
-Enemies: NONE
-Groups: NONE
-Title: Torchlight II
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+bring the Locket to Jessa
+<|end_objective|>
+<|begin_tasks|>
+find the Locket
+<|end_tasks|>
+<|begin_quest_giver|>
+Jessa: a sorrowful daughter
+<|end_quest_giver|>
+<|begin_task_locations|>
+Blightbogs: a swamp
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_items|>
+Locket: a memento of Jessa's father (amount: 1)
+<|end_items|>
+<|end_quest|>
 Oh, my poor father - I cannot believe that he is gone! Dear father... Please try to retrieve the Locket - it belonged to my father. I cannot bear to think that it is lost in this foul place, corroding away in swamp water. He must have dropped it somewhere around here...

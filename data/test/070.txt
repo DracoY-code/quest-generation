@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Boethiah's Calling
-Objective: get a glimpse of Boethiah
-First Tasks: gain someone's trust, lead him to the shrine above, instruct him to touch the pillar of sacrifice to trap him, and kill him with the ceremonial blade
-First Task Locations: NONE - 
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - Boethiah will appear before the player (amount: 1)
-Characters: Boethiah - the lady of plots and the dark warrior, an evil goddess (location: )
-Tools: NONE
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+get a glimpse of Boethiah
+<|end_objective|>
+<|begin_tasks|>
+gain someone's trust, lead him to the shrine above, instruct him to touch the pillar of sacrifice to trap him, and kill him with the ceremonial blade
+<|end_tasks|>
+<|begin_quest_giver|>
+: a worshiper of Boethiah
+<|end_quest_giver|>
+<|begin_task_locations|>
+NONE: 
+<|end_task_locations|>
+<|begin_rewards|>
+: Boethiah will appear before the player (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Boethiah: the lady of plots and the dark warrior, an evil goddess (location: )
+<|end_characters|>
+<|end_quest|>
 We are forged by Boethiah's example. We carve our will upon the world through our tongues and our blades. You? You are nothing. An empty vapor, dispersed by the slightest breeze. If you desire a glimpse of Boethiah, our Dark Mistress, then this is what you must do. First, prove your tongue can wield a lie. Find someone. Gain his trust. Lead him to the shrine above. Next, instruct your thrall to touch the Pillar of Sacrifice. Its magic will ensnare him, rendering him helpless. Then, girded with certitude, plant the ceremonial blade deeply, so that the waters of his heart wash over you. If your will is strong enough, it will stir Boethiah in her Dark Mansion, and she will appear before us.

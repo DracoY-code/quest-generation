@@ -1,21 +1,24 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Medical Breakthrough?
-Objective: bring Edward's special healing potion to Pope
-First Tasks: find Pope
-First Task Locations: Hamlet-By-The-Grass - a village
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - a small compensation from Pope (amount: 1)
-Characters: Pope - a male cleric (location: Hamlet-By-The-Grass)
-Tools: NONE
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Minecraft
-Motivation: knowledge
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+bring Edward's special healing potion to Pope
+<|end_objective|>
+<|begin_tasks|>
+find Pope
+<|end_tasks|>
+<|begin_quest_giver|>
+Edward: a retired adventurer
+<|end_quest_giver|>
+<|begin_task_locations|>
+Hamlet-By-The-Grass: a village
+<|end_task_locations|>
+<|begin_rewards|>
+: a small compensation from Pope (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Pope: a male cleric (location: Hamlet-By-The-Grass)
+<|end_characters|>
+<|begin_motivation|>
+knowledge
+<|end_motivation|>
+<|end_quest|>
 I used to be an adventurer. I braved the depths of this world like no one else before me. I still have one of my healing potions as a memento from those days of glory. That potion is quite special... Now that I think of it, the local cleric, Pope, might want to examine it for its peculiar properties. He could make some potent healing potions after researching my special potion. Could you please find him, and give him the potion? The cleric will surely give you a small compensation fee.

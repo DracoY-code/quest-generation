@@ -1,21 +1,24 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Branching Out
-Objective: help Chris finish up a trade deal between him and Wander
-First Tasks: take Chris's contract to Wander
-First Task Locations:  - the wilderness
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - block of emerald (amount: 1)
-Characters: Wander - a male wandering merchant (location: the wilderness)
-Tools: NONE
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Minecraft
-Motivation: wealth
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+help Chris finish up a trade deal between him and Wander
+<|end_objective|>
+<|begin_tasks|>
+take Chris's contract to Wander
+<|end_tasks|>
+<|begin_quest_giver|>
+Chris: a happy leatherworker
+<|end_quest_giver|>
+<|begin_task_locations|>
+: the wilderness
+<|end_task_locations|>
+<|begin_rewards|>
+: block of emerald (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Wander: a male wandering merchant (location: the wilderness)
+<|end_characters|>
+<|begin_motivation|>
+wealth
+<|end_motivation|>
+<|end_quest|>
 My leatherworks are selling like hot cakes! I'm so happy! It is a good time to expand my business out of this village. Traveler, could you help me finish up a trade deal between me and Wander the wandering merchant? You just need to take my contract to him. He should be out in the wilderness right now. You'll get a block of emerald for your services. My business makes plenty of emeralds right now, so handing out a few isn't a biggie.

@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Laerta and Louise
-Objective: get rid of a bogeyman that scares Laerta and Louise every night
-First Tasks: find the bogeyman
-First Task Locations:  - Laerta and Louise's window
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - a scroll (amount: 1)
-Characters: Louise - a young girl (location: next to Laerta)
-Tools: Laerta and Louise are twin sisters
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Baldur's Gate
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+get rid of a bogeyman that scares Laerta and Louise every night
+<|end_objective|>
+<|begin_tasks|>
+find the bogeyman
+<|end_tasks|>
+<|begin_quest_giver|>
+Laerta: a young girl
+<|end_quest_giver|>
+<|begin_task_locations|>
+: Laerta and Louise's window
+<|end_task_locations|>
+<|begin_rewards|>
+: a scroll (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Louise: a young girl (location: next to Laerta)
+<|end_characters|>
+<|end_quest|>
 Hi! I'm Laerta. That's my twin sister, Louise. Mom and Dad don't believe us, but there's a bogeyman that comes and looks in our window every night. We're real glad we're twins because, if there were only one of us, then there'd be no one to hold on to when we get scared. Scare away the bogeyman, would you? Mom says to give this scroll as a reward. I think it's supposed to protect you from any other bogeypeople you find.

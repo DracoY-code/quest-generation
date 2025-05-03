@@ -1,21 +1,31 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Tears of the Savior
-Objective: find as many Garridan's Tears for S'Drassa as possible
-First Tasks: talk to Julienne Fanis
-First Task Locations: Arcane University - an university for mages in the Imperial City
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - a fair bounty in gold for each Garridan's Tear (amount: 1)
-Characters: Julienne Fanis - the female head of the Alchemy Headquarters (location: Arcane University), Garridan Stalrous - a male knight of old (location: )
-Tools: Julienne Fanis can tell the player more about Garridan's Tears
-Locations: Imperial City - a city (location: NONE)
-Items: Garridan's Tears - magical crystals called Tears, frozen tears of Garridan Stalrous (amount: 1)
-Enemies: NONE
-Groups: Mages Guild - a guild of mages
-Title: The Elder Scrolls IV: Oblivion
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+find as many Garridan's Tears for S'Drassa as possible
+<|end_objective|>
+<|begin_tasks|>
+talk to Julienne Fanis
+<|end_tasks|>
+<|begin_quest_giver|>
+S'Drassa: an evoker and alchemist, and a member of the Mages Guild
+<|end_quest_giver|>
+<|begin_task_locations|>
+Arcane University: an university for mages in the Imperial City
+<|end_task_locations|>
+<|begin_rewards|>
+: a fair bounty in gold for each Garridan's Tear (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Julienne Fanis: the female head of the Alchemy Headquarters (location: Arcane University)
+Garridan Stalrous: a male knight of old (location: )
+<|end_characters|>
+<|begin_locations|>
+Imperial City: a city (location: NONE)
+<|end_locations|>
+<|begin_items|>
+Garridan's Tears: magical crystals called Tears, frozen tears of Garridan Stalrous (amount: 1)
+<|end_items|>
+<|begin_groups|>
+Mages Guild: a guild of mages (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 S'Drassa of the Mages Guild. Evoker and Alchemist. Could you assist me in acquiring something for my crystal collection? I'm searching for some specific crystals known as Garridan's Tears. I want you to bring me as many of Garridan's Tears as you can find. If you do, I will pay you a fair bounty in gold for each one. I confess I have a weakness for crystals of a magical nature, and I must add these to my collection. This is a personal errand, you must understand. Just between you and I. The Mages Guild has nothing to do with it. The Tears are not just a namesake. They're literally the frozen tears of a knight named Garridan Stalrous who lived many years ago. I'm not certain what happened to the knight, or why the tears were frozen, but I do know someone you could ask. Seek out Julienne Fanis at the Arcane University in the Imperial City. She oversees the Alchemy Headquarters there. If anyone can help you get more information on about these crystals, she can.

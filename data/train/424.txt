@@ -1,21 +1,18 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Talk to Katrina
-Objective: Learn about survival and Vault 13's history from Katrina.
-First Tasks: Speak with Katrina near the entrance of Shady Sands.
-First Task Locations: Shady Sands Entrance - The entrance to Shady Sands where Katrina stands, offering advice to newcomers.
-Quest Giver: NONE - NONE (location: NONE)
-Reward: Experience Points - Earned for engaging in conversation and learning valuable information. (amount: 250)
-Characters: NONE
-Tools: N, O, N, E
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Fallout
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+Learn about survival and Vault 13's history from Katrina.
+<|end_objective|>
+<|begin_tasks|>
+Speak with Katrina near the entrance of Shady Sands.
+<|end_tasks|>
+<|begin_quest_giver|>
+Katrina: A former Vault 15 resident who provides guidance to travelers.
+<|end_quest_giver|>
+<|begin_task_locations|>
+Shady Sands Entrance: The entrance to Shady Sands where Katrina stands, offering advice to newcomers.
+<|end_task_locations|>
+<|begin_rewards|>
+Experience Points: Earned for engaging in conversation and learning valuable information. (amount: 250)
+<|end_rewards|>
+<|end_quest|>
 Katrina, a former resident of Vault 15, stands at the entrance of Shady Sands, helping wanderers understand the world outside the vaults. Speaking with her provides background on Vault 13, the dangers of the wasteland, and basic survival tips.

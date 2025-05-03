@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Colorful Carpets
-Objective: give 6 different-colored carpets to Bertha
-First Tasks: obtain 6 different-colored carpets
-First Task Locations: NONE - 
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - a painting (amount: 1)
-Characters: NONE
-Tools: the player is a friend of Bertha
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Minecraft
-Motivation: comfort
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+give 6 different-colored carpets to Bertha
+<|end_objective|>
+<|begin_tasks|>
+obtain 6 different-colored carpets
+<|end_tasks|>
+<|begin_quest_giver|>
+Bertha: a bored woman
+<|end_quest_giver|>
+<|begin_task_locations|>
+NONE: 
+<|end_task_locations|>
+<|begin_rewards|>
+: a painting (amount: 1)
+<|end_rewards|>
+<|begin_motivation|>
+comfort
+<|end_motivation|>
+<|end_quest|>
 The warmest greetings to you, friend! I hope that you don't mind, but I'm feeling a bit bored right now. I could make myself a game of sorts, if I had six different-colored carpets. You surely wouldn't leave a friend dying in boredom? Please obtain six different-colored carpets, and bring them to me. As a token of our friendship, I'm giving you a pretty painting in return.

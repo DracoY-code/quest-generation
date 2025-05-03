@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Find the Water Chip
-Objective: Locate and retrieve a replacement water chip for Vault 13.
-First Tasks: Exit Vault 13 and explore the wasteland., Travel to Vault 15 and search for the water chip., Explore Necropolis to find Vault 12.
-First Task Locations: Vault 13 - The player's home vault, facing a critical water shortage., Vault 15 - A neighboring vault that may contain a functional water chip.
-Quest Giver: NONE - NONE (location: NONE)
-Reward: Experience Points - Earned for successfully retrieving the water chip. (amount: 7000)
-Characters: NONE
-Tools: Rope
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Fallout
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+Locate and retrieve a replacement water chip for Vault 13.
+<|end_objective|>
+<|begin_tasks|>
+Exit Vault 13 and explore the wasteland.
+Travel to Vault 15 and search for the water chip.
+Explore Necropolis to find Vault 12.
+<|end_tasks|>
+<|begin_quest_giver|>
+Vault 13 Overseer: Leader of Vault 13, assigns the quest to find the water chip.
+<|end_quest_giver|>
+<|begin_task_locations|>
+Vault 13: The player's home vault, facing a critical water shortage.
+Vault 15: A neighboring vault that may contain a functional water chip.
+<|end_task_locations|>
+<|begin_rewards|>
+Experience Points: Earned for successfully retrieving the water chip. (amount: 7000)
+<|end_rewards|>
+<|end_quest|>
 "Our vault's water chip has failed. Without it, we have only 150 days of water left. You must find a replacement before it's too late. Vault 15 might have what we need, but it's long been abandoned. Be careful out there. The Wasteland is dangerous."

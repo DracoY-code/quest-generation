@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: A Son Missing
-Objective: find out what happened to Bedlen Daglefodd
-First Tasks: look for Bedlen Daglefodd
-First Task Locations: NONE - 
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Bedlen Daglefodd - Therndle Daglefodd's son (location: )
-Tools: Therndle Daglefodd cannot work without knowing his sons fate
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Baldur's Gate II: Shadows of Amn
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+find out what happened to Bedlen Daglefodd
+<|end_objective|>
+<|begin_tasks|>
+look for Bedlen Daglefodd
+<|end_tasks|>
+<|begin_quest_giver|>
+Therndle Daglefodd: a merchant and a worried father
+<|end_quest_giver|>
+<|begin_task_locations|>
+NONE: 
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Bedlen Daglefodd: Therndle Daglefodd's son (location: )
+<|end_characters|>
+<|end_quest|>
 I'm Therndle Daglefodd, a merchant. My child, Bedlen Daglefodd, has been missing for a tunnel's worth of digging. I simply cannot work without knowing his fate. Could you have a look for him?

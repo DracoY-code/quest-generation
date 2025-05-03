@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Save Trish
-Objective: Rescue Trish from a dangerous situation in the Hub.
-First Tasks: Locate Trish in the Downtown Hub., Identify the threat to Trish’s safety., Defeat or negotiate with the aggressors., Ensure Trish's safety and return her to Saul.
-First Task Locations: Downtown Hub - A central area of the Hub where Trish is in danger.
-Quest Giver: NONE - NONE (location: NONE)
-Reward: Experience Points - Earned for successfully rescuing Trish. (amount: 500)
-Characters: NONE
-Tools: Speech, Small Guns, Melee Weapons
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Fallout
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+Rescue Trish from a dangerous situation in the Hub.
+<|end_objective|>
+<|begin_tasks|>
+Locate Trish in the Downtown Hub.
+Identify the threat to Trish’s safety.
+Defeat or negotiate with the aggressors.
+Ensure Trish's safety and return her to Saul.
+<|end_tasks|>
+<|begin_quest_giver|>
+Saul: A former prizefighter working as a bartender, worried about Trish.
+<|end_quest_giver|>
+<|begin_task_locations|>
+Downtown Hub: A central area of the Hub where Trish is in danger.
+<|end_task_locations|>
+<|begin_rewards|>
+Experience Points: Earned for successfully rescuing Trish. (amount: 500)
+<|end_rewards|>
+<|end_quest|>
 Saul is worried about Trish, who is in danger in the Hub. The player must intervene, eliminate the threat, and ensure her safety.

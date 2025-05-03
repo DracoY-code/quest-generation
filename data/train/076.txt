@@ -1,21 +1,20 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Solve the Gecko powerplant problem
-Objective: Resolve the issue with the Gecko nuclear power plant to prevent radiation leaks.
-First Tasks: Gain access to the Gecko power plant control room., Find a way to fix the plant's reactor or reroute power safely.
-First Task Locations: Gecko - A ghoul-run settlement with a malfunctioning nuclear power plant.
-Quest Giver: NONE - NONE (location: NONE)
-Reward: Caps - A monetary reward for successfully fixing the plant. (amount: 750), Improved reputation with Vault City - Vault City will be more inclined to work with you. (amount: NONE)
-Characters: NONE
-Tools: Science skill or a repair manual to fix the reactor., Vault City access to get the plant's optimization data.
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Fallout 2
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+Resolve the issue with the Gecko nuclear power plant to prevent radiation leaks.
+<|end_objective|>
+<|begin_tasks|>
+Gain access to the Gecko power plant control room.
+Find a way to fix the plant's reactor or reroute power safely.
+<|end_tasks|>
+<|begin_quest_giver|>
+Harold: A well-known ghoul in Gecko concerned about the power plant's state.
+<|end_quest_giver|>
+<|begin_task_locations|>
+Gecko: A ghoul-run settlement with a malfunctioning nuclear power plant.
+<|end_task_locations|>
+<|begin_rewards|>
+Caps: A monetary reward for successfully fixing the plant. (amount: 750)
+Improved reputation with Vault City: Vault City will be more inclined to work with you. (amount: NONE)
+<|end_rewards|>
+<|end_quest|>
 The nuclear power plant in Gecko is leaking radiation, threatening the surrounding area. You must either repair it or find an alternative solution to stop the leak.

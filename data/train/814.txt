@@ -1,21 +1,20 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Kill Neal
-Objective: Eliminate Neal, the owner of the bar in Junktown.
-First Tasks: Locate Neal’s bar in Junktown., Engage Neal in combat or find an alternative method to eliminate him., Avoid or handle any potential retaliation from Junktown residents.
-First Task Locations: Neal’s Bar - A bar in Junktown owned by Neal, known for enforcing his own rules.
-Quest Giver: NONE - NONE (location: NONE)
-Reward: Neal’s Possessions - Loot from Neal’s body and any items found in his bar. (amount: Varies)
-Characters: NONE
-Tools: Weapons, Stealth, Combat Tactics
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Fallout
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+Eliminate Neal, the owner of the bar in Junktown.
+<|end_objective|>
+<|begin_tasks|>
+Locate Neal’s bar in Junktown.
+Engage Neal in combat or find an alternative method to eliminate him.
+Avoid or handle any potential retaliation from Junktown residents.
+<|end_tasks|>
+<|begin_quest_giver|>
+: The quest involves killing Neal, but no formal quest giver is mentioned.
+<|end_quest_giver|>
+<|begin_task_locations|>
+Neal’s Bar: A bar in Junktown owned by Neal, known for enforcing his own rules.
+<|end_task_locations|>
+<|begin_rewards|>
+Neal’s Possessions: Loot from Neal’s body and any items found in his bar. (amount: Varies)
+<|end_rewards|>
+<|end_quest|>
 The player must eliminate Neal, the bar owner in Junktown. Killing him may provoke hostilities from nearby NPCs and affect the player's reputation in Junktown.

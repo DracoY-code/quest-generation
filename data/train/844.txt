@@ -1,21 +1,18 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Experimental Subject
-Objective: help Neloth by being a test subject in his experiment
-First Tasks: stand still and let Neloth cast an experimental spell on you
-First Task Locations: NONE - 
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: NONE
-Tools: the player asked Neloth whether they could help with his research
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+help Neloth by being a test subject in his experiment
+<|end_objective|>
+<|begin_tasks|>
+stand still and let Neloth cast an experimental spell on you
+<|end_tasks|>
+<|begin_quest_giver|>
+Neloth: a wizard
+<|end_quest_giver|>
+<|begin_task_locations|>
+NONE: 
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|end_quest|>
 You want to help with my research? Are you willing to be an experimental subject? Oh, it's nothing too dangerous. The experiment should provide an additional spectral tether from your own lifespark to the divine realm. You would experience it as a sort of... increased vigor. You would fight longer, feel stronger, that sort of thing. At least I think it will. Probably. Almost certainly. Of course, you never can tell. Now stand still... it's my first time casting this spell, and I don't need any additional distractions.

@@ -1,21 +1,24 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: A Mammoth Powered Startup
-Objective: bring Ysolda a mammoth's tusk
-First Tasks: find a mammoth's tusk
-First Task Locations: NONE - 
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - Ysolda teaches the player trading (amount: 1)
-Characters: Ma'dran - one of the caravan leaders (location: )
-Tools: Ma'dran would help Ysolda start her own business for a mammoth's tusk
-Locations: Skyrim - a province (location: NONE)
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+bring Ysolda a mammoth's tusk
+<|end_objective|>
+<|begin_tasks|>
+find a mammoth's tusk
+<|end_tasks|>
+<|begin_quest_giver|>
+Ysolda: an aspiring trader
+<|end_quest_giver|>
+<|begin_task_locations|>
+NONE: 
+<|end_task_locations|>
+<|begin_rewards|>
+: Ysolda teaches the player trading (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Ma'dran: one of the caravan leaders (location: )
+<|end_characters|>
+<|begin_locations|>
+Skyrim: a province (location: NONE)
+<|end_locations|>
+<|end_quest|>
 I'm Ysolda. Before my ma and da passed, I told them that one day, I'd become the best trader in Skyrim. I met one of the caravan leaders, Ma'dran. He said he'd help get me started if I could bring him a mammoth's tusk. Easier said than done. If you find one, I could teach you a thing or two about trading. Help you get a fair bargain in the future.

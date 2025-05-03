@@ -1,21 +1,24 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Shalidor's Insights
-Objective: bring the writings of Shalidor to Urag gro-Shub
-First Tasks: discover the writings of Shalidor
-First Task Locations: Skyrim - a province
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - the writings of Shalidor may prove useful (amount: 1)
-Characters: Shalidor - a immensely powerful male mage in the first era (location: )
-Tools: Shalidor holed himself up in Labyrinthian, and devoted all of his time to research and study
-Locations: Labyrinthian - a labyrinth built by Shalidor (location: NONE)
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+bring the writings of Shalidor to Urag gro-Shub
+<|end_objective|>
+<|begin_tasks|>
+discover the writings of Shalidor
+<|end_tasks|>
+<|begin_quest_giver|>
+Urag gro-Shub: a librarian who can translate the writings of Shalidor
+<|end_quest_giver|>
+<|begin_task_locations|>
+Skyrim: a province
+<|end_task_locations|>
+<|begin_rewards|>
+: the writings of Shalidor may prove useful (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Shalidor: a immensely powerful male mage in the first era (location: )
+<|end_characters|>
+<|begin_locations|>
+Labyrinthian: a labyrinth built by Shalidor (location: NONE)
+<|end_locations|>
+<|end_quest|>
 Have you ever heard of Shalidor? Immensely powerful mage, back in the First Era. Had an understanding of magic few have ever matched. He holed himself up in Labyrinthian, and devoted all of his time to research and study. Wrote more than you would imagine possible. Since then, his writings have been scattered all over Skyrim, but are little use to anyone who can't translate them. I'm one of the few who can. I'm always trying to find more of Shalidor's writings. I've heard whispers of more of his work having turned up. If you can track it down, it may prove useful to all of us.

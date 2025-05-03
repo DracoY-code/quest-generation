@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Sabotage Becky's still
-Objective: Destroy Becky's alcohol still to disrupt her business operations.
-First Tasks: Locate Becky's still., Find a way to sabotage or destroy the still., Ensure Becky is unable to continue producing alcohol.
-First Task Locations: The Den - A lawless settlement where Becky runs her bar and operates her alcohol still.
-Quest Giver: NONE - NONE (location: NONE)
-Reward: Caps - A monetary reward from Frankie for completing the sabotage. (amount: 150), Increased reputation with Frankie - Frankie will trust you more and may offer further opportunities. (amount: NONE)
-Characters: NONE
-Tools: Explosives to destroy the still., Stealth to avoid detection while sabotaging.
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Fallout 2
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+Destroy Becky's alcohol still to disrupt her business operations.
+<|end_objective|>
+<|begin_tasks|>
+Locate Becky's still.
+Find a way to sabotage or destroy the still.
+Ensure Becky is unable to continue producing alcohol.
+<|end_tasks|>
+<|begin_quest_giver|>
+Frankie: A rival bar owner who wants to eliminate Becky's business advantage.
+<|end_quest_giver|>
+<|begin_task_locations|>
+The Den: A lawless settlement where Becky runs her bar and operates her alcohol still.
+<|end_task_locations|>
+<|begin_rewards|>
+Caps: A monetary reward from Frankie for completing the sabotage. (amount: 150)
+Increased reputation with Frankie: Frankie will trust you more and may offer further opportunities. (amount: NONE)
+<|end_rewards|>
+<|end_quest|>
 Frankie, a rival bar owner, wants Becky’s still destroyed to cripple her business. You must find a way to sabotage it without getting caught.

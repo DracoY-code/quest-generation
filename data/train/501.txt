@@ -1,21 +1,26 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: The Silke Dilemma
-Objective: become a bodyguard for Silke Rosena
-First Tasks: meet up with Garrick
-First Task Locations:  - outside the Red Sheaf Inn
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - a well-paying job (amount: 1)
-Characters: Silke Rosena - the most skilled musician and actor along the Sword Coast, a woman (location: outside the Red Sheaf Inn), Feldepost - a male innkeeper (location: )
-Tools: Feldepost hired some thugs to hurt Silke Rosena, because she did not perform at Feldepost's inn when she was supposed to
-Locations: Sword Coast - a region (location: NONE), Red Sheaf Inn - an inn (location: NONE)
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Baldur's Gate
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+become a bodyguard for Silke Rosena
+<|end_objective|>
+<|begin_tasks|>
+meet up with Garrick
+<|end_tasks|>
+<|begin_quest_giver|>
+Garrick: a man who works for Silke Rosena
+<|end_quest_giver|>
+<|begin_task_locations|>
+: outside the Red Sheaf Inn
+<|end_task_locations|>
+<|begin_rewards|>
+: a well-paying job (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Silke Rosena: the most skilled musician and actor along the Sword Coast, a woman (location: outside the Red Sheaf Inn)
+Feldepost: a male innkeeper (location: )
+<|end_characters|>
+<|begin_locations|>
+Sword Coast: a region (location: NONE)
+Red Sheaf Inn: an inn (location: NONE)
+<|end_locations|>
+<|end_quest|>
 Hail, adventurers. I'm Garrick, and I work for Silke Rosena. She's the most skilled musician and actor along the Sword Coast.  I have a proposal for you. How would you like a well-paying job as a bodyguard for my mistress? She's been having some problems of late. Some thugs have been hired by Feldepost to hurt her bad because she didn't perform at his inn when she was supposed to. You can't blame her for not showing up, what with a villain like Feldepost running the place. Just meet me outside of the Red Sheaf Inn, if you are interested in the job.

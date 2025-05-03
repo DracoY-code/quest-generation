@@ -1,21 +1,25 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Adulterer's lot
-Objective: bestow some justice on Sir William of Thorpe
-First Tasks: go find Sir William of Thorpe with Keldorn
-First Task Locations: Mithrest - an inn in the Promenade District of Athkatla
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters:  - Keldorn's wife (location: ), Sir William of Thorpe - a foreign noble, and a good man (location: Athkatla)
-Tools: Keldorn's wife has been seeing Sir William of Thorpe, Sir William of Thorpe has challenged Keldorn's honor
-Locations: Athkatla - a city (location: NONE)
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Baldur's Gate II: Shadows of Amn
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+bestow some justice on Sir William of Thorpe
+<|end_objective|>
+<|begin_tasks|>
+go find Sir William of Thorpe with Keldorn
+<|end_tasks|>
+<|begin_quest_giver|>
+Keldorn: a betrayed man, and the player's friend
+<|end_quest_giver|>
+<|begin_task_locations|>
+Mithrest: an inn in the Promenade District of Athkatla
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+: Keldorn's wife (location: )
+Sir William of Thorpe: a foreign noble, and a good man (location: Athkatla)
+<|end_characters|>
+<|begin_locations|>
+Athkatla: a city (location: NONE)
+<|end_locations|>
+<|end_quest|>
 My wife has been seeing another man. Sir William of Thorpe... He's a foreign noble establishing trade here in Athkatla. He was a good man — at least I always thought so until... until now. My friend, let us bestow some justice. Sir William has challenged my honor. There must be a reprisal. We must make haste to the Mithrest in the Promenade District. I cannot live like this for long.

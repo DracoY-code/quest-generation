@@ -1,21 +1,24 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: The Taste of Death
-Objective: find your place as a follower of Namira
-First Tasks: meet Eola and fight your way through the undead with her
-First Task Locations: Reachcliff Cave - a tomb filled with undead
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Namira, Lady of Decay - the goddess of cannibals (location: )
-Tools: Eola assumes that the player is a cannibal, Eola has been eating the dead people of Markarth
-Locations: Markarth - a city (location: NONE)
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+find your place as a follower of Namira
+<|end_objective|>
+<|begin_tasks|>
+meet Eola and fight your way through the undead with her
+<|end_tasks|>
+<|begin_quest_giver|>
+Eola: a female cannibal
+<|end_quest_giver|>
+<|begin_task_locations|>
+Reachcliff Cave: a tomb filled with undead
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Namira, Lady of Decay: the goddess of cannibals (location: )
+<|end_characters|>
+<|begin_locations|>
+Markarth: a city (location: NONE)
+<|end_locations|>
+<|end_quest|>
 You were young when you first tasted human flesh, weren't you? A brother or sister had died? An accident, of course. Then the hunger set in. Curiosity. What's the harm in just one bite? It's okay, now. You've found a friend who understands you. You can let go of your guilt. A lot of our kind block out the memory of their first meal. The shame is too much. But you don't need to hide anymore. Namira, the Lady of Decay, accepts you for what you are. She has a place for us, where we can sate our appetites without judgment. It's inside Reachcliff Cave. But the dead have stirred from their slumber recently, and I was forced here. Meet me there. We will fight our way to Namira's embrace together. Until then, tell the people of Markarth that their dead won't be disturbed, anymore. We have bigger plans ahead.

@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: A Rose, My Darling
-Objective: bring a rose to Romeo
-First Tasks: find a rose
-First Task Locations:  - temperate forests
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - pumpkin pies (amount: 27)
-Characters: NONE
-Tools: the player is a famous hero
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Minecraft
-Motivation: comfort
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+bring a rose to Romeo
+<|end_objective|>
+<|begin_tasks|>
+find a rose
+<|end_tasks|>
+<|begin_quest_giver|>
+Romeo: a man in love
+<|end_quest_giver|>
+<|begin_task_locations|>
+: temperate forests
+<|end_task_locations|>
+<|begin_rewards|>
+: pumpkin pies (amount: 27)
+<|end_rewards|>
+<|begin_motivation|>
+comfort
+<|end_motivation|>
+<|end_quest|>
 Great timing, Hero. I'm suffering... my poor heart is writhing in love. Help me find a rose for my loved one, so that my heart may yet calm down. All I need is but a single rose. They can be found in various temperate forests. Please, help a fellow in love. I have 27 pumpkin pies I can give you.

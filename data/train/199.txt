@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Half-ogres Near Beregost
-Objective: kill the half-ogres who battled Bjornin
-First Tasks: find half-ogres
-First Task Locations:  - the mountains south-southwest of Beregost
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - a shield (amount: 1)
-Characters: NONE
-Tools: half-ogres wounded Bjornin
-Locations: Beregost - a town (location: NONE)
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Baldur's Gate
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+kill the half-ogres who battled Bjornin
+<|end_objective|>
+<|begin_tasks|>
+find half-ogres
+<|end_tasks|>
+<|begin_quest_giver|>
+Bjornin: a paladin
+<|end_quest_giver|>
+<|begin_task_locations|>
+: the mountains south-southwest of Beregost
+<|end_task_locations|>
+<|begin_rewards|>
+: a shield (amount: 1)
+<|end_rewards|>
+<|begin_locations|>
+Beregost: a town (location: NONE)
+<|end_locations|>
+<|end_quest|>
 I'm still healing from my latest encounters. They did quite a number on me, those half-ogres. There's a band of them fortifying themselves in the mountains south-southwest of here... If you could give them a taste of justice by testing your steel against them, that would do me, Bjornin, proud. In an effort to encourage such deeds of righteousness, allow me to present to you this shield as a reward upon your return...

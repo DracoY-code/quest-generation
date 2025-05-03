@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: A Book for Firebead
-Objective: bring "The History of the Fateful Coin" to Firebead Elvenhair
-First Tasks: find "The History of the Fateful Coin"
-First Task Locations:  - one of the local bookstores
-Quest Giver: NONE - NONE (location: NONE)
-Reward: "History of the Dead Three" - a book (amount: 1)
-Characters: NONE
-Tools: NONE
-Locations: NONE
-Items: "The History of the Fateful Coin" - a book (amount: 1)
-Enemies: NONE
-Groups: NONE
-Title: Baldur's Gate
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+bring "The History of the Fateful Coin" to Firebead Elvenhair
+<|end_objective|>
+<|begin_tasks|>
+find "The History of the Fateful Coin"
+<|end_tasks|>
+<|begin_quest_giver|>
+Firebead Elvenhair: an elderly mage who loves books
+<|end_quest_giver|>
+<|begin_task_locations|>
+: one of the local bookstores
+<|end_task_locations|>
+<|begin_rewards|>
+"History of the Dead Three": a book (amount: 1)
+<|end_rewards|>
+<|begin_items|>
+"The History of the Fateful Coin": a book (amount: 1)
+<|end_items|>
+<|end_quest|>
 Hello, I am Firebead Elvenhair: an elderly mage and a bookworm. Oh, the world of books... I have heard that a new copy of that wondrous tome, "The History of the Fateful Coin," can be had for a pretty penny in one of the stores around here. If you would be so kind as to buy it for an old man like myself, I'd gladly reimburse you. I'd even give you a little bonus to help in your travels, a book called "History of the Dead Three".

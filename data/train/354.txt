@@ -1,21 +1,26 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Information Gathering
-Objective: bring Ajum-Kajin to Modryn Oreyn so that Modryn Oreyn can "persuade" Ajum-Kajin to talk
-First Tasks: capture Ajum-Kajin
-First Task Locations: Glademist Cave - a cave where the Blackwood Company has set up a camp
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Ajum-Kajin - one of the leaders of the Blackwood Company (location: Glademist Cave), Vilena Donton - the female leader of the Fighters Guild (location: )
-Tools: Modryn Oreyn has been expelled from the Fighters Guild: Vilena Donton would expel the player from the guild too if she knew they were here, Modryn Oreyn wants to take down the Blackwood Company: he needs more information about them, the Blackwood Company is trying to expand
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: Fighters Guild - a mercenary guild, Blackwood Company - a shady mercenary organization
-Title: The Elder Scrolls IV: Oblivion
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+bring Ajum-Kajin to Modryn Oreyn so that Modryn Oreyn can "persuade" Ajum-Kajin to talk
+<|end_objective|>
+<|begin_tasks|>
+capture Ajum-Kajin
+<|end_tasks|>
+<|begin_quest_giver|>
+Modryn Oreyn: the player's superior in the Fighters Guild
+<|end_quest_giver|>
+<|begin_task_locations|>
+Glademist Cave: a cave where the Blackwood Company has set up a camp
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Ajum-Kajin: one of the leaders of the Blackwood Company (location: Glademist Cave)
+Vilena Donton: the female leader of the Fighters Guild (location: )
+<|end_characters|>
+<|begin_groups|>
+Fighters Guild: a mercenary guild (amount: NONE)
+Blackwood Company: a shady mercenary organization (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 These certainly won't be official duties. Fact is, you'll likely be expelled from the Guild if Vilena gets wind of the fact that you're here. And I've already been expelled. Doesn't mean I'm done, though. I'm taking down the Blackwood Company, and I want your help doing it. To bring them down, I need more information. My sources tell me they're trying to expand, and they've set up camp in Glademist Cave. I want you to go there and capture Ajum-Kajin, one of their leaders. Bring him back to me. I'd like to spend some time... talking to him.

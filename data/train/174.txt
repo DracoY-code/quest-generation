@@ -1,21 +1,25 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Waking Nightmare
-Objective: relieve the people of Dawnstar from Vaermina's damaging nightmares
-First Tasks: return to Nightcaller Temple with Erandur, and help him end the nightmares
-First Task Locations: NONE - 
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Vaermina - an evil goddess (location: )
-Tools: Vaermina has an awful hunger for people's memories: in return, she leaves behind nightmares
-Locations: Dawnstar - a town (location: NONE), Nightcaller Temple - a temple hosting the root of the nightmare problem, a short walk away from Dawnstar (location: NONE)
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+relieve the people of Dawnstar from Vaermina's damaging nightmares
+<|end_objective|>
+<|begin_tasks|>
+return to Nightcaller Temple with Erandur, and help him end the nightmares
+<|end_tasks|>
+<|begin_quest_giver|>
+Erandur: a priest
+<|end_quest_giver|>
+<|begin_task_locations|>
+NONE: 
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Vaermina: an evil goddess (location: )
+<|end_characters|>
+<|begin_locations|>
+Dawnstar: a town (location: NONE)
+Nightcaller Temple: a temple hosting the root of the nightmare problem, a short walk away from Dawnstar (location: NONE)
+<|end_locations|>
+<|end_quest|>
 The entire town is being plagued by horrible nightmares. They're in serious danger but I'm afraid there's little I can do about it. These dreams are manifestations created by Vaermina. She has an awful hunger for our memories. In return, she leaves behind nightmares, not unlike a cough marks a serious illness. I must end her terrible influence over these people before the damage becomes permanent. I need to return to the source of the problem, to Nightcaller Temple. Perhaps you'd be willing to assist me in that regard? I've already said too much. If anyone overhears what we're saying, it could start a panic. I would simply ask that you trust me and help me end Dawnstar's nightmares. Nightcaller Temple is only a short walk from Dawnstar. Come, we must hurry.

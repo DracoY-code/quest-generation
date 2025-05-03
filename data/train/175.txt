@@ -1,21 +1,27 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Reluctant Steward
-Objective: tell Varona that Neloth wants apple cabbage stew with some canis root tea
-First Tasks: find Varona
-First Task Locations: NONE - 
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - Neloth shall be grateful (amount: 1)
-Characters: Varona - Neloth's female steward (location: )
-Tools: the player is the hero of Skyrim
-Locations: Skyrim - a province (location: NONE)
-Items: NONE
-Enemies: NONE
-Groups: Telvanni - a great house of powerful wizards
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+tell Varona that Neloth wants apple cabbage stew with some canis root tea
+<|end_objective|>
+<|begin_tasks|>
+find Varona
+<|end_tasks|>
+<|begin_quest_giver|>
+Neloth: a pompous master wizard of Telvanni
+<|end_quest_giver|>
+<|begin_task_locations|>
+NONE: 
+<|end_task_locations|>
+<|begin_rewards|>
+: Neloth shall be grateful (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Varona: Neloth's female steward (location: )
+<|end_characters|>
+<|begin_locations|>
+Skyrim: a province (location: NONE)
+<|end_locations|>
+<|begin_groups|>
+Telvanni: a great house of powerful wizards (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 Where is that ash sucking steward of mine? Varona! Have you seen Varona? I'm hungry. Find her. Tell her I want apple cabbage stew, with some canis root tea. After all, I don't make my own tea. I am a master wizard of the house Telvanni. Other people make tea for me. You are not my servant? Obviously not, or you would have a cup of tea in your hands. I supposed you want to be asked nicely. Very well. Please, oh hero of Skyrim. Please find Varona. I shall be ever so grateful.

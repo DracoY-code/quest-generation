@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Rescue Torr
-Objective: Find and rescue Torr from the slavers who kidnapped him.
-First Tasks: Track down the slavers who took Torr., Confront the slavers and negotiate or fight for Torr's release., Escort Torr back to safety.
-First Task Locations: The Slaver Camp - A hidden camp where slavers hold their captives, including Torr.
-Quest Giver: NONE - NONE (location: NONE)
-Reward: Karma Boost - Rescuing Torr improves your reputation among the townsfolk. (amount: NONE), Potential allies - Gaining favor with Klamath's people may prove useful later. (amount: NONE)
-Characters: NONE
-Tools: Weapons for combat in case negotiations fail., Stealth skills if attempting a non-violent rescue.
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Fallout 2
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+Find and rescue Torr from the slavers who kidnapped him.
+<|end_objective|>
+<|begin_tasks|>
+Track down the slavers who took Torr.
+Confront the slavers and negotiate or fight for Torr's release.
+Escort Torr back to safety.
+<|end_tasks|>
+<|begin_quest_giver|>
+Torr's Family: Torr's concerned family members who seek help in rescuing him.
+<|end_quest_giver|>
+<|begin_task_locations|>
+The Slaver Camp: A hidden camp where slavers hold their captives, including Torr.
+<|end_task_locations|>
+<|begin_rewards|>
+Karma Boost: Rescuing Torr improves your reputation among the townsfolk. (amount: NONE)
+Potential allies: Gaining favor with Klamath's people may prove useful later. (amount: NONE)
+<|end_rewards|>
+<|end_quest|>
 Torr, a simple-minded but kind-hearted man from Klamath, has been abducted by slavers. His family pleads for someone to bring him home safely before he is sold into slavery.

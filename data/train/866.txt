@@ -1,21 +1,24 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: The Malicious Ones
-Objective: prevent the Ezrohir from defiling the water supply of Zeryphesh
-First Tasks: destroy the Ezrohir machines
-First Task Locations: Undercurrents - the sewer in Zeryphesh
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: NONE
-Tools: NONE
-Locations: Zeryphesh - a city-state (location: NONE)
-Items: NONE
-Enemies: NONE
-Groups: Ezrohir - a race of people who are at war with Zeryphesh
-Title: Torchlight II
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+prevent the Ezrohir from defiling the water supply of Zeryphesh
+<|end_objective|>
+<|begin_tasks|>
+destroy the Ezrohir machines
+<|end_tasks|>
+<|begin_quest_giver|>
+: a person from Zeryphesh
+<|end_quest_giver|>
+<|begin_task_locations|>
+Undercurrents: the sewer in Zeryphesh
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_locations|>
+Zeryphesh: a city-state (location: NONE)
+<|end_locations|>
+<|begin_groups|>
+Ezrohir: a race of people who are at war with Zeryphesh (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 The Ezrohir have installed some infernal devices in the Undercurrents, defiling the supply of water entering Zeryphesh. You must destroy those machines, or Zeryphesh cannot stand against the Ezrohir!

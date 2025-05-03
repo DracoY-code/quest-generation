@@ -1,21 +1,24 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Flowers for Someone Special
-Objective: bring 32 poppies to Justin
-First Tasks: gather 32 poppies
-First Task Locations:  - outdoors in plains and forests
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - emeralds (amount: 32)
-Characters: NONE
-Tools: the player a famous hero
-Locations: NONE
-Items:  - poppies, common red flowers (amount: 32)
-Enemies: NONE
-Groups: NONE
-Title: Minecraft
-Motivation: comfort
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+bring 32 poppies to Justin
+<|end_objective|>
+<|begin_tasks|>
+gather 32 poppies
+<|end_tasks|>
+<|begin_quest_giver|>
+Justin: a person who wants to give a gift to someone
+<|end_quest_giver|>
+<|begin_task_locations|>
+: outdoors in plains and forests
+<|end_task_locations|>
+<|begin_rewards|>
+: emeralds (amount: 32)
+<|end_rewards|>
+<|begin_items|>
+: poppies, common red flowers (amount: 32)
+<|end_items|>
+<|begin_motivation|>
+comfort
+<|end_motivation|>
+<|end_quest|>
 You must be the hero I have heard so much about. I have a small task for you; it should be child's play for one such as yourself. There is someone I really care about. I'd like to gift them some flowers, perhaps some of those nice, deep red poppies. Please, bring me 32 poppies. You can gather them almost everywhere outdoors in plains and forests. I'll have 32 emeralds waiting for you...

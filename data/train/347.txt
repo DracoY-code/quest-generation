@@ -1,21 +1,23 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Protect the Guardian!
-Objective: protect the Guardian of Water
-First Tasks: scout the Wellspring Temple
-First Task Locations: Wellspring Temple - a temple
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Commander Vale - a female military leader (location: Wellspring Temple), Alchemist - an evil man (location: ), Guardian of Water - a powerful being upholding peace (location: Wellspring Temple)
-Tools: Commander Vale believes that the Alchemist might attack the Wellspring Temple: the Alchemist wants to reach the Guardian of Water
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Torchlight II
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+protect the Guardian of Water
+<|end_objective|>
+<|begin_tasks|>
+scout the Wellspring Temple
+<|end_tasks|>
+<|begin_quest_giver|>
+Eldrayn: a local leader
+<|end_quest_giver|>
+<|begin_task_locations|>
+Wellspring Temple: a temple
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Commander Vale: a female military leader (location: Wellspring Temple)
+Alchemist: an evil man (location: )
+Guardian of Water: a powerful being upholding peace (location: Wellspring Temple)
+<|end_characters|>
+<|end_quest|>
 Commander Vale believes that the Alchemist might attack the Wellspring Temple, in an attempt to reach the Guardian of Water ... for what nefarious purpose I am afraid to speculate. There has been no word from either Vale, or the Guardian. Scout the Wellspring Temple, and determine if the Guardian of Water is in any danger.

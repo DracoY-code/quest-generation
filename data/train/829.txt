@@ -1,21 +1,24 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: The Cave-In
-Objective: clear the way to the Scrapworks
-First Tasks: find dynamite
-First Task Locations: Abandoned Sawmill - a dysfunct sawmill
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - you'll be able to pass though to the Scrapworks (amount: 1)
-Characters: Professor - a man (location: )
-Tools: the Professor sent the player after the power source in the Scrapworks: the Officer and his troop are on the same mission, the Officer sent his troop to the Abandoned Sawmill: he has not heard from them
-Locations: Scrapworks - a junkyard (location: NONE)
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Torchlight II
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+clear the way to the Scrapworks
+<|end_objective|>
+<|begin_tasks|>
+find dynamite
+<|end_tasks|>
+<|begin_quest_giver|>
+Officer: a military officer working for the Professor
+<|end_quest_giver|>
+<|begin_task_locations|>
+Abandoned Sawmill: a dysfunct sawmill
+<|end_task_locations|>
+<|begin_rewards|>
+: you'll be able to pass though to the Scrapworks (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Professor: a man (location: )
+<|end_characters|>
+<|begin_locations|>
+Scrapworks: a junkyard (location: NONE)
+<|end_locations|>
+<|end_quest|>
 So, the Professor sent you after the Power Source? We were on the same mission, but the only way to the Scrapworks is through that pile of rock. I know the Abandoned Sawmill used to have plenty of explosives from when the place was still in operation - a little bit of dynamite would probably get the job done here. I sent my troop after it, but haven't heard a thing. If you can head up there and get that dynamite, we could all pass through and get the Professor what he needs.

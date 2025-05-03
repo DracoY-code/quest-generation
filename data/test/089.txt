@@ -1,21 +1,29 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: A High-Value Target
-Objective: prevent the Ezrohir from interrogating Commander Muzaffar
-First Tasks: rescue Commander Muzaffar from the Ezrohir, before they take him to Riftkeep
-First Task Locations: Ossean Wastes - a large desert
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Commander Muzaffar - the military leader of the Zeraphi, captured by the Ezrohir (location: Ossean Wastes)
-Tools: the Ezrohir are preparing to assault Zeryphesh
-Locations: Zeryphesh - a large city inhabited by the Zeraphi (location: NONE), Riftkeep - the stronghold of the Ezrohir (location: NONE)
-Items: NONE
-Enemies: NONE
-Groups: Ezrohir - a hostile race of people who are at war with Zeraphi, Zeraphi - a race of people
-Title: Torchlight II
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+prevent the Ezrohir from interrogating Commander Muzaffar
+<|end_objective|>
+<|begin_tasks|>
+rescue Commander Muzaffar from the Ezrohir, before they take him to Riftkeep
+<|end_tasks|>
+<|begin_quest_giver|>
+Malik Vosh: a friendly Zeraphi nobleman
+<|end_quest_giver|>
+<|begin_task_locations|>
+Ossean Wastes: a large desert
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Commander Muzaffar: the military leader of the Zeraphi, captured by the Ezrohir (location: Ossean Wastes)
+<|end_characters|>
+<|begin_locations|>
+Zeryphesh: a large city inhabited by the Zeraphi (location: NONE)
+Riftkeep: the stronghold of the Ezrohir (location: NONE)
+<|end_locations|>
+<|begin_groups|>
+Ezrohir: a hostile race of people who are at war with Zeraphi (amount: NONE)
+Zeraphi: a race of people (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 Greetings, my friend! Welcome to Zeryphesh! I am Malik Vosh. I speak for the Zeraphi. As you know, the Ezrohir are preparing to assault our city. Our military leader, Commander Muzaffar, has apparently been captured by the Ezrohir, out in the Ossean Wastes. They'll have sent for soldiers to take their prisoners back to their stronghold. Once they get him to Riftkeep, they'll identify him quickly enough, and then they'll interrogate him until they know everything about our defenses. I believe you're going out to the Ossean Wastes, the vast desert. Please, rescue Muzaffar. We need him.

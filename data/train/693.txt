@@ -1,21 +1,31 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Purity of Revenge
-Objective: avenge Kodlak
-First Tasks: retrieve the fragments of Wuuthrad and wipe out the Silver Hand
-First Task Locations: Driftshade Refuge - the headquarters of the Silver Hand
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Kodlak - an old man, and the leader of the Companions (location: Jorrvaskr)
-Tools: the Silver Hand attacked the Companions in Jorrvaskr, killed Kodlak, and stole the fragments of Wuuthrad
-Locations: Jorrvaskr - the mead hall of the Companions (location: NONE)
-Items: Wuuthrad - a legendary battleaxe (amount: 1)
-Enemies: NONE
-Groups: Silver Hand - a bandit gang who hate the Companions, Companions - a band of honorable warriors
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+avenge Kodlak
+<|end_objective|>
+<|begin_tasks|>
+retrieve the fragments of Wuuthrad and wipe out the Silver Hand
+<|end_tasks|>
+<|begin_quest_giver|>
+Vilkas: a fellow member of the Companions
+<|end_quest_giver|>
+<|begin_task_locations|>
+Driftshade Refuge: the headquarters of the Silver Hand
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Kodlak: an old man, and the leader of the Companions (location: Jorrvaskr)
+<|end_characters|>
+<|begin_locations|>
+Jorrvaskr: the mead hall of the Companions (location: NONE)
+<|end_locations|>
+<|begin_items|>
+Wuuthrad: a legendary battleaxe (amount: 1)
+<|end_items|>
+<|begin_groups|>
+Silver Hand: a bandit gang who hate the Companions (amount: NONE)
+Companions: a band of honorable warriors (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 The Silver Hand attacked us. They finally found enough courage to attack Jorrvaskr. We fought them off, but... The old man... Kodlak... he's dead. No one else got hurt, but they made off with all our fragments of Wuuthrad. But you and I are going to reclaim them. We will bring the battle to their chief camp, Driftshade Refuge. There will be none left living to tell their stories. Only songs of Jorrvaskr will be sung. We will avenge Kodlak. And they will know terror before the end.

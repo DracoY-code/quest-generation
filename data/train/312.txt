@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Larceny at the Hall of Wonders
-Objective: steal a telescope without hurting anyone, just like Danilo Thann of Waterdeep
-First Tasks: find the telescope
-First Task Locations: Hall of Wonders - a museum
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - gold (amount: 500)
-Characters: Danilo Thann of Waterdeep - a famous thief (location: )
-Tools: NONE
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Baldur's Gate
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+steal a telescope without hurting anyone, just like Danilo Thann of Waterdeep
+<|end_objective|>
+<|begin_tasks|>
+find the telescope
+<|end_tasks|>
+<|begin_quest_giver|>
+Brevlik: a discreet man
+<|end_quest_giver|>
+<|begin_task_locations|>
+Hall of Wonders: a museum
+<|end_task_locations|>
+<|begin_rewards|>
+: gold (amount: 500)
+<|end_rewards|>
+<|begin_characters|>
+Danilo Thann of Waterdeep: a famous thief (location: )
+<|end_characters|>
+<|end_quest|>
 HELLO! SHHH! Shh... ah... um... I mean, hello. Might I have but a moment of your, ah, time? I should like to procure your talents for a, ah, unique service, though it's not like you would have to do anything socially untoward. Okay, it's stealing, but it's only the one item: A wondrously curious little toy from distant land. What did they call it? Oh, yes, a "telescope," of all things. It's a misleading name for such an interestingly crafted artifact. "Golden Extra-Farseer" would have suited its craftsmanship so much better. The tele-thingy is on display at the Hall of Wonders, and were it in the possession of anyone else it might be purchasable. It's roguery on par with Danilo Thann of Waterdeep, and I don't want anybody hurt. I'll pay you well: 500 gold for one night's work. It's better than you could hope for in a year on the docks!

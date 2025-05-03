@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Affordable Cooling
-Objective: bring some ice to Caleb
-First Tasks: find some ice
-First Task Locations:  - snowy tundras, in frosted rivers
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - cacti (amount: 42)
-Characters: NONE
-Tools: the player is a known villain
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Minecraft
-Motivation: comfort
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+bring some ice to Caleb
+<|end_objective|>
+<|begin_tasks|>
+find some ice
+<|end_tasks|>
+<|begin_quest_giver|>
+Caleb: a calm man
+<|end_quest_giver|>
+<|begin_task_locations|>
+: snowy tundras, in frosted rivers
+<|end_task_locations|>
+<|begin_rewards|>
+: cacti (amount: 42)
+<|end_rewards|>
+<|begin_motivation|>
+comfort
+<|end_motivation|>
+<|end_quest|>
 I know of your dark deeds. I do not want any trouble from you. However... if you have had a change of heart, I could use a little help. The hot desert air of this village is making me rather uncomfortable. I could stave off the heat, if I had some ice. Tell you what, bring me ice, and you may still redeem yourself, villain, and net yourself 42 cacti. Ice is commonplace in snowy tundras, in frosted rivers.

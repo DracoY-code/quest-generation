@@ -1,21 +1,24 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Catch of the Day
-Objective: help Thomas gather fish for his village
-First Tasks: catch 16 fish
-First Task Locations: Salmon Steps - a nearby river rich in salmon
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - emeralds (amount: 32)
-Characters: NONE
-Tools: NONE
-Locations: NONE
-Items:  - fish (amount: 16)
-Enemies: NONE
-Groups: NONE
-Title: Minecraft
-Motivation: comfort
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+help Thomas gather fish for his village
+<|end_objective|>
+<|begin_tasks|>
+catch 16 fish
+<|end_tasks|>
+<|begin_quest_giver|>
+Thomas: a concerned village fisherman
+<|end_quest_giver|>
+<|begin_task_locations|>
+Salmon Steps: a nearby river rich in salmon
+<|end_task_locations|>
+<|begin_rewards|>
+: emeralds (amount: 32)
+<|end_rewards|>
+<|begin_items|>
+: fish (amount: 16)
+<|end_items|>
+<|begin_motivation|>
+comfort
+<|end_motivation|>
+<|end_quest|>
 Traveler, I'm worried about my fellow villagers here in the village. I don't think that they eat enough nutritious, tasty fish. Could you help me gather more? I simply can't catch enough fish for everyone, even if I'm a pro fisherman. There is a river, Salmon Steps, bountiful in salmon near here. You could try your luck there, and catch 16 fish for me. I could pay you 32 shiny, green emeralds for the fish.

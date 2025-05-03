@@ -1,21 +1,23 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: A Faithful Servant
-Objective: bring a load of sticks to Jim
-First Tasks: chop down trees to obtain wood, craft sticks from wood
-First Task Locations:  - all kinds of forests, NONE - 
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - Jim becomes the player's loyal minion (amount: 1)
-Characters: NONE
-Tools: the player is a known villain
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Minecraft
-Motivation: reputation
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+bring a load of sticks to Jim
+<|end_objective|>
+<|begin_tasks|>
+chop down trees to obtain wood
+craft sticks from wood
+<|end_tasks|>
+<|begin_quest_giver|>
+Jim: a cowardly fletcher
+<|end_quest_giver|>
+<|begin_task_locations|>
+: all kinds of forests
+NONE: 
+<|end_task_locations|>
+<|begin_rewards|>
+: Jim becomes the player's loyal minion (amount: 1)
+<|end_rewards|>
+<|begin_motivation|>
+reputation
+<|end_motivation|>
+<|end_quest|>
 What! NO! Please spare me, oh dark master! I promise I'll be your best servant. A minion of unshaken loyalty. If my arrows were known to be the best, your dark influence would spread across the land! Please, master. Bring me a load of sticks so I can craft arrows en masse. Master, you need to chop down trees in a forest of any kind, and then craft the wood from the trees into sticks.

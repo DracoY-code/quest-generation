@@ -1,21 +1,24 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: A Reminder
-Objective: bring a bunch of Rieklings' spears to Hilund
-First Tasks: find Rieklings' spears
-First Task Locations: NONE - 
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: NONE
-Tools: Rieklings had invaded the Thirsk Mead Hall, but the player helped Hilund and her friends to drive them out: Hilund wants to ring the whole Thirsk Mead Hall with Riekling spears to remember that moment of weakness
-Locations: Thirsk Mead Hall - a mead hall (location: NONE)
-Items: NONE
-Enemies: NONE
-Groups: Rieklings - small, bothersome creatures
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+bring a bunch of Rieklings' spears to Hilund
+<|end_objective|>
+<|begin_tasks|>
+find Rieklings' spears
+<|end_tasks|>
+<|begin_quest_giver|>
+Hilund: a warrior
+<|end_quest_giver|>
+<|begin_task_locations|>
+NONE: 
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_locations|>
+Thirsk Mead Hall: a mead hall (location: NONE)
+<|end_locations|>
+<|begin_groups|>
+Rieklings: small, bothersome creatures (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 To tell you the truth, I've been a little distracted. I've got this... idea. I want to ring the whole hall with Rieklings' little spears. Mocking us, from the past. Making us work harder. Fight better. The only problem is, I'm going to need a lot of spears. A lot. So, if you could find a bunch of them for me, that would make it easier on me.

@@ -1,21 +1,24 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Kylee's Dagger 
-Objective: return Kylee's dagger to its owner
-First Tasks: find Kylee
-First Task Locations:  - the mines
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Kylee - a male miner (location: the mines)
-Tools: NONE
-Locations: NONE
-Items: Kylee's dagger - a dagger (amount: 1)
-Enemies: NONE
-Groups: NONE
-Title: Baldur's Gate
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+return Kylee's dagger to its owner
+<|end_objective|>
+<|begin_tasks|>
+find Kylee
+<|end_tasks|>
+<|begin_quest_giver|>
+: a miner
+<|end_quest_giver|>
+<|begin_task_locations|>
+: the mines
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Kylee: a male miner (location: the mines)
+<|end_characters|>
+<|begin_items|>
+Kylee's dagger: a dagger (amount: 1)
+<|end_items|>
+<|end_quest|>
 Are you going to be going down into the mines? If so, could you return this dagger to Kylee? He dropped it when he went into the mine the other day and I haven't seen him since.

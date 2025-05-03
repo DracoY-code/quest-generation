@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Fix the Hydroponic Farms in Adytum
-Objective: Repair the hydroponic farming system in Adytum to ensure food production.
-First Tasks: Investigate the hydroponic farms to identify the issue., Gather the necessary tools and replacement parts., Repair the malfunctioning system and restore farm operations.
-First Task Locations: Hydroponic Farms - A crucial food production facility in Adytum that relies on hydroponic technology to sustain the settlement.
-Quest Giver: NONE - NONE (location: NONE)
-Reward: Food Supply Restoration - Ensures a steady food supply for the settlement, improving overall survival conditions. (amount: NONE), Potential Reputation Boost - Increased standing with Adytum residents for helping the community. (amount: NONE)
-Characters: NONE
-Tools: Repair Kit, Replacement Parts
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Fallout
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+Repair the hydroponic farming system in Adytum to ensure food production.
+<|end_objective|>
+<|begin_tasks|>
+Investigate the hydroponic farms to identify the issue.
+Gather the necessary tools and replacement parts.
+Repair the malfunctioning system and restore farm operations.
+<|end_tasks|>
+<|begin_quest_giver|>
+Adytum Farmer: A concerned resident of Adytum responsible for maintaining the farm.
+<|end_quest_giver|>
+<|begin_task_locations|>
+Hydroponic Farms: A crucial food production facility in Adytum that relies on hydroponic technology to sustain the settlement.
+<|end_task_locations|>
+<|begin_rewards|>
+Food Supply Restoration: Ensures a steady food supply for the settlement, improving overall survival conditions. (amount: NONE)
+Potential Reputation Boost: Increased standing with Adytum residents for helping the community. (amount: NONE)
+<|end_rewards|>
+<|end_quest|>
 The hydroponic farms in Adytum have malfunctioned, threatening the community’s food supply. You must repair the system to restore food production.

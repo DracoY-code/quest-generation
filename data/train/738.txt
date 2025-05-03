@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Ghosts of Plunder Cove
-Objective: avenge Olwin
-First Tasks: find the hidden refuge of Captain Willy, and kill him
-First Task Locations: Plunder Cove - a pirate refuge
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Captain Willy - the leader of Olwin's murderers, a male ghost pirate (location: Plunder Cove)
-Tools: NONE
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Torchlight II
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+avenge Olwin
+<|end_objective|>
+<|begin_tasks|>
+find the hidden refuge of Captain Willy, and kill him
+<|end_tasks|>
+<|begin_quest_giver|>
+Olwin: a ghost of a man who was betrayed and drowned by his evil companions
+<|end_quest_giver|>
+<|begin_task_locations|>
+Plunder Cove: a pirate refuge
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Captain Willy: the leader of Olwin's murderers, a male ghost pirate (location: Plunder Cove)
+<|end_characters|>
+<|end_quest|>
 I mean you no harm; I am but a lonely soul, trapped in the afterlife. Betrayed and drowned by villainous companions, I dwell here, reliving my end, waiting in vain for my death to be avenged. But it has been over a hundred years since I took my last breath, and nearly that many since my murderers themselves perished, in their hidden retreat in Plunder Cove. Seek their leader, Captain Willy. Show him that justice has neither forgotten him... nor forgiven him!

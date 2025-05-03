@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Durlyle's Task
-Objective: bring the cloak that draped the village center back to Durlyle
-First Tasks: find the cloak
-First Task Locations:  - beyond the village wall
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: NONE
-Tools: a storm sank the player's ship, there are beasts outside the village wall
-Locations: NONE
-Items:  - the cloak (amount: 1)
-Enemies: NONE
-Groups: NONE
-Title: Baldur's Gate
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+bring the cloak that draped the village center back to Durlyle
+<|end_objective|>
+<|begin_tasks|>
+find the cloak
+<|end_tasks|>
+<|begin_quest_giver|>
+Durlyle: a man
+<|end_quest_giver|>
+<|begin_task_locations|>
+: beyond the village wall
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_items|>
+: the cloak (amount: 1)
+<|end_items|>
+<|end_quest|>
 I am Durlyle, and I am glad to be meeting. I have but a mundane task to ask of you, if you hear me out? The storm you felt that took your ship? It was fierce here too, and a cloak that draped the village center was cast to the wind. I think it is beyond the wall, and will not risk the beasts to get it. Will you?

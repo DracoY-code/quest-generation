@@ -1,21 +1,26 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: The World-Eater's Eyrie
-Objective: fly to Skuldafn on Odahviing and face Alduin
-First Tasks: free Odahviing
-First Task Locations: NONE - 
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Alduin, World-Eater - a male dragon, likes devouring the souls of mortals (location: Sovngarde)
-Tools: the player lured Odahviing to Dragonsreach and took him prisoner: the player distrust Odahviing
-Locations: Dragonsreach - a trap for dragons (location: NONE), Skuldafn - Alduin's door to Sovngarde, an ancient fane high in the eastern mountains filled with Alduin's remaining forces (location: NONE), Sovngarde - the storied underworld where the souls of mortal heroes end up in (location: NONE)
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+fly to Skuldafn on Odahviing and face Alduin
+<|end_objective|>
+<|begin_tasks|>
+free Odahviing
+<|end_tasks|>
+<|begin_quest_giver|>
+Odahviing: a dragon following Alduin
+<|end_quest_giver|>
+<|begin_task_locations|>
+NONE: 
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Alduin, World-Eater: a male dragon, likes devouring the souls of mortals (location: Sovngarde)
+<|end_characters|>
+<|begin_locations|>
+Dragonsreach: a trap for dragons (location: NONE)
+Skuldafn: Alduin's door to Sovngarde, an ancient fane high in the eastern mountains filled with Alduin's remaining forces (location: NONE)
+Sovngarde: the storied underworld where the souls of mortal heroes end up in (location: NONE)
+<|end_locations|>
+<|end_quest|>
 It was you that lured me here and took me prisoner... I have done nothing to earn your distrust. Wisdom sees the doorway. It would be wise to recognize when you only have one choice. You can trust me. I am not treacherous. Alduin has proven himself unworthy to rule. I go my own way now. He has traveled to Sovngarde to regain his strength, devouring the souls of the mortal dead. A privilege he jealously guards... His door to Sovngarde is at Skuldafn, one of his ancient fanes high in the eastern mountains. I surely do not need to warn you that all his remaining strength is marshaled there. Free me, and I will carry you to Skuldafn so that you can face Alduin in battle. I warn you, once you've flown the skies, your envy of the dragons will only increase.

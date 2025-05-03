@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Help Saul
-Objective: Assist Saul in resolving his conflict with Trish.
-First Tasks: Find Saul in the Hub's Downtown area., Talk to Saul about his situation with Trish., Speak with Trish to understand her perspective., Mediate between Saul and Trish or find another resolution.
-First Task Locations: Downtown Hub - A central district in the Hub where Saul and Trish can be found.
-Quest Giver: NONE - NONE (location: NONE)
-Reward: Experience Points - Gained for successfully resolving Saul's problem. (amount: 500)
-Characters: NONE
-Tools: Speech, Charisma, Negotiation Skills
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Fallout
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+Assist Saul in resolving his conflict with Trish.
+<|end_objective|>
+<|begin_tasks|>
+Find Saul in the Hub's Downtown area.
+Talk to Saul about his situation with Trish.
+Speak with Trish to understand her perspective.
+Mediate between Saul and Trish or find another resolution.
+<|end_tasks|>
+<|begin_quest_giver|>
+Saul: A former prizefighter now working as a bartender in the Hub.
+<|end_quest_giver|>
+<|begin_task_locations|>
+Downtown Hub: A central district in the Hub where Saul and Trish can be found.
+<|end_task_locations|>
+<|begin_rewards|>
+Experience Points: Gained for successfully resolving Saul's problem. (amount: 500)
+<|end_rewards|>
+<|end_quest|>
 Saul, a former prizefighter, is struggling with relationship issues with Trish. The player can intervene by talking to both parties and helping them reach an understanding or resolving the matter differently.

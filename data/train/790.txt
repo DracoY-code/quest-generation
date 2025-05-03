@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Getting One's Bearings
-Objective: find the Azimuthoscope
-First Tasks: follow the trail of Trill-Bot 4000's parts
-First Task Locations:  - dungeon
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - Trill-Bot 4000 can direct the player toward another treasure trove (amount: 1)
-Characters: NONE
-Tools: the player showed Trill-Bot 4000 a robot component
-Locations: NONE
-Items: Azimuthoscope - an important component of Trill-Bot 4000 (amount: 1)
-Enemies: NONE
-Groups: NONE
-Title: Torchlight II
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+find the Azimuthoscope
+<|end_objective|>
+<|begin_tasks|>
+follow the trail of Trill-Bot 4000's parts
+<|end_tasks|>
+<|begin_quest_giver|>
+Trill-Bot 4000: the player's robot friend
+<|end_quest_giver|>
+<|begin_task_locations|>
+: dungeon
+<|end_task_locations|>
+<|begin_rewards|>
+: Trill-Bot 4000 can direct the player toward another treasure trove (amount: 1)
+<|end_rewards|>
+<|begin_items|>
+Azimuthoscope: an important component of Trill-Bot 4000 (amount: 1)
+<|end_items|>
+<|end_quest|>
 I believe you have found one of my missing components! There appears to be a trail of them, leading toward that dungeon. If you follow the trail of my Parts, it might lead you to my Azimuthoscope: the component I need to direct you to another treasure trove!

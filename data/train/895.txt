@@ -1,21 +1,22 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Undead to Plain Dead
-Objective: assassinate Hern
-First Tasks: find Hern
-First Task Locations: Half-Moon Mill - a mill ran by Hern and Hert
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Hern - a male vampire who has blended into the human society (location: Half-Moon Mill), Hert - a female vampire, Hern's companion (location: Half-Moon Mill)
-Tools: Hert is always near Hern
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+assassinate Hern
+<|end_objective|>
+<|begin_tasks|>
+find Hern
+<|end_tasks|>
+<|begin_quest_giver|>
+Nazir: a fellow assassin
+<|end_quest_giver|>
+<|begin_task_locations|>
+Half-Moon Mill: a mill ran by Hern and Hert
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Hern: a male vampire who has blended into the human society (location: Half-Moon Mill)
+Hert: a female vampire, Hern's companion (location: Half-Moon Mill)
+<|end_characters|>
+<|end_quest|>
 You are going to assassinate Hern. He's a vampire, and has blended into human society for years. He's never far from his female companion, Hert. Also a vampire. The contract is for the male, Hern. But you'll probably have to contend with the female, too. They both live in Half-Moon Mill. So for Sithis' sake, watch yourself. Face a vampire, and live to tell the tale!

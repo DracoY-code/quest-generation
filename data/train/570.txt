@@ -1,21 +1,22 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Deliver a laser pistol to Eldridge
-Objective: Find and deliver a laser pistol to Eldridge at New Reno Arms.
-First Tasks: Acquire a laser pistol through purchase, looting, or barter., Travel to New Reno and locate Eldridge’s shop, New Reno Arms., Deliver the laser pistol to Eldridge.
-First Task Locations: Various locations - Laser pistols can be found as loot, purchased from merchants, or taken from defeated enemies., New Reno Arms - Eldridge's weapon shop is in New Reno, where he buys and sells weapons.
-Quest Giver: NONE - NONE (location: NONE)
-Reward: Caps Reward - Earn $1000 upon successful delivery. (amount: NONE), Discount on Future Purchases - Potential discount when trading with Eldridge in the future. (amount: NONE)
-Characters: NONE
-Tools: Barter or trade to acquire a laser pistol more efficiently., Combat skills if obtaining the pistol from enemies.
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Fallout 2
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+Find and deliver a laser pistol to Eldridge at New Reno Arms.
+<|end_objective|>
+<|begin_tasks|>
+Acquire a laser pistol through purchase, looting, or barter.
+Travel to New Reno and locate Eldridge’s shop, New Reno Arms.
+Deliver the laser pistol to Eldridge.
+<|end_tasks|>
+<|begin_quest_giver|>
+Eldridge: A weapons dealer in New Reno who runs New Reno Arms.
+<|end_quest_giver|>
+<|begin_task_locations|>
+Various locations: Laser pistols can be found as loot, purchased from merchants, or taken from defeated enemies.
+New Reno Arms: Eldridge's weapon shop is in New Reno, where he buys and sells weapons.
+<|end_task_locations|>
+<|begin_rewards|>
+Caps Reward: Earn $1000 upon successful delivery. (amount: NONE)
+Discount on Future Purchases: Potential discount when trading with Eldridge in the future. (amount: NONE)
+<|end_rewards|>
+<|end_quest|>
 Eldridge at New Reno Arms needs a laser pistol. Your task is to acquire one and deliver it to him for a reward.

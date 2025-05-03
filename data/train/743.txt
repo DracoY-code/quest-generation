@@ -1,21 +1,20 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Stop the Radscorpions
-Objective: Eliminate the radscorpions threatening Shady Sands.
-First Tasks: Locate the radscorpion cave and eliminate the threat.
-First Task Locations: Radscorpion Cave - A dark and dangerous cave infested with large mutated radscorpions.
-Quest Giver: NONE - NONE (location: NONE)
-Reward: Experience Points - Earned for successfully eliminating the radscorpions. (amount: 500), Caps - A reward for aiding Shady Sands. (amount: 100), Improved Reputation - Shady Sands residents will appreciate your help. (amount: 1)
-Characters: NONE
-Tools: Melee or ranged weapons to fight radscorpions, Antidote in case of radscorpion venom poisoning
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Fallout
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+Eliminate the radscorpions threatening Shady Sands.
+<|end_objective|>
+<|begin_tasks|>
+Locate the radscorpion cave and eliminate the threat.
+<|end_tasks|>
+<|begin_quest_giver|>
+Aradesh: The leader of Shady Sands, worried about the radscorpion threat.
+<|end_quest_giver|>
+<|begin_task_locations|>
+Radscorpion Cave: A dark and dangerous cave infested with large mutated radscorpions.
+<|end_task_locations|>
+<|begin_rewards|>
+Experience Points: Earned for successfully eliminating the radscorpions. (amount: 500)
+Caps: A reward for aiding Shady Sands. (amount: 100)
+Improved Reputation: Shady Sands residents will appreciate your help. (amount: 1)
+<|end_rewards|>
+<|end_quest|>
 The village of Shady Sands is plagued by deadly radscorpions that threaten its people. Aradesh, the town leader, seeks help in dealing with the menace. The Vault Dweller must enter the radscorpion cave and eliminate them to ensure the safety of Shady Sands.

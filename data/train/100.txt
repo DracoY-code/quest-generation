@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Deal with the Deathclaw
-Objective: Investigate and eliminate the Deathclaw threat in Vault 13.
-First Tasks: Find the Deathclaw near Vault 13., Determine if the Deathclaw is a threat., Deal with the Deathclaw as necessary.
-First Task Locations: Vault 13 - The original home of the Vault Dweller, now facing a potential Deathclaw threat.
-Quest Giver: NONE - NONE (location: NONE)
-Reward: Caps - A monetary reward for resolving the issue. (amount: 500), Improved standing with Vault 13 residents - The people of Vault 13 will trust and respect you more. (amount: NONE)
-Characters: NONE
-Tools: Powerful weapons and armor to fight the Deathclaw if necessary., Speech skills to negotiate if the creature is intelligent.
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Fallout 2
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+Investigate and eliminate the Deathclaw threat in Vault 13.
+<|end_objective|>
+<|begin_tasks|>
+Find the Deathclaw near Vault 13.
+Determine if the Deathclaw is a threat.
+Deal with the Deathclaw as necessary.
+<|end_tasks|>
+<|begin_quest_giver|>
+Vault 13 Overseer: The leader of Vault 13, concerned about the Deathclaw.
+<|end_quest_giver|>
+<|begin_task_locations|>
+Vault 13: The original home of the Vault Dweller, now facing a potential Deathclaw threat.
+<|end_task_locations|>
+<|begin_rewards|>
+Caps: A monetary reward for resolving the issue. (amount: 500)
+Improved standing with Vault 13 residents: The people of Vault 13 will trust and respect you more. (amount: NONE)
+<|end_rewards|>
+<|end_quest|>
 Rumors of a Deathclaw near Vault 13 have sparked fear among its residents. The Overseer wants you to investigate and, if necessary, eliminate the creature before it becomes a serious threat.

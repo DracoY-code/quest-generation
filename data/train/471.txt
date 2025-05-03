@@ -1,21 +1,24 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Dragon Seekers
-Objective: kill a dragon with Farkas
-First Tasks: lead Farkas to the dragon
-First Task Locations: NONE - 
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: NONE
-Tools: Farkas knows where the player might find the dragon
-Locations: Whiterun - a city (location: NONE)
-Items: NONE
-Enemies: NONE
-Groups: Companions - a band of honorable warriors
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+kill a dragon with Farkas
+<|end_objective|>
+<|begin_tasks|>
+lead Farkas to the dragon
+<|end_tasks|>
+<|begin_quest_giver|>
+Farkas: a fellow member of the Companions
+<|end_quest_giver|>
+<|begin_task_locations|>
+NONE: 
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_locations|>
+Whiterun: a city (location: NONE)
+<|end_locations|>
+<|begin_groups|>
+Companions: a band of honorable warriors (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 Travelers have been coming to Whiterun. They tell stories about dragons. I've heard of them, but didn't think they were real. Rumors also claim that you have defeated dragons before. You are a very brave person worthy of being a Companion. But I already knew that. Let's go kill a dragon together. That's one way to find out if they're real. I even know where we might find one. Lead on!

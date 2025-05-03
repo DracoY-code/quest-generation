@@ -1,21 +1,28 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Sealing the Deal
-Objective: help Talen-Jei complete Keerava's wedding ring
-First Tasks: find three flawless amethysts for Keerava's wedding ring
-First Task Locations: NONE - 
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Keerava - a female Argonian (location: Riften)
-Tools: in Black Marsh, tradition dictates Argonians present a potential mate a unique wedding ring to represent their future bond: Talen-Jei already has a gold band for Keerava's wedding ring
-Locations: Riften - a city (location: NONE), Black Marsh - a realm far away (location: NONE)
-Items: NONE
-Enemies: NONE
-Groups: Argonians - a race of people from Black Marsh
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+help Talen-Jei complete Keerava's wedding ring
+<|end_objective|>
+<|begin_tasks|>
+find three flawless amethysts for Keerava's wedding ring
+<|end_tasks|>
+<|begin_quest_giver|>
+Talen-Jei: an Argonian man who wants to marry Keerava
+<|end_quest_giver|>
+<|begin_task_locations|>
+NONE: 
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Keerava: a female Argonian (location: Riften)
+<|end_characters|>
+<|begin_locations|>
+Riften: a city (location: NONE)
+Black Marsh: a realm far away (location: NONE)
+<|end_locations|>
+<|begin_groups|>
+Argonians: a race of people from Black Marsh (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 I met Keerava when I wandered into Riften a few years ago. Been smitten with her ever since. In fact, I'm thinking of asking her to marry me. In Black Marsh, tradition dictates we present a potential mate a unique wedding ring to represent our future bond. I already have the gold band, but all I need are three flawless amethysts to complete the setting.

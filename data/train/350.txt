@@ -1,21 +1,22 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: The Firewine Ruins
-Objective: kill kobolds
-First Tasks: find kobolds
-First Task Locations: Firewine ruins - a place where many have died in the past
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - a gift (amount: 1),  - whatever the player finds (amount: 1)
-Characters: NONE
-Tools: NONE
-Locations: Gullykin - a halfling village near the Firewine ruins (location: NONE)
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Baldur's Gate
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+kill kobolds
+<|end_objective|>
+<|begin_tasks|>
+find kobolds
+<|end_tasks|>
+<|begin_quest_giver|>
+Gandolar Luckyfoot: the jolly mayor of Gullykin
+<|end_quest_giver|>
+<|begin_task_locations|>
+Firewine ruins: a place where many have died in the past
+<|end_task_locations|>
+<|begin_rewards|>
+: a gift (amount: 1)
+: whatever the player finds (amount: 1)
+<|end_rewards|>
+<|begin_locations|>
+Gullykin: a halfling village near the Firewine ruins (location: NONE)
+<|end_locations|>
+<|end_quest|>
 Well met, traveler. Gandolar Luckyfoot, at your disposal. If I might pull on your coattail a moment more, I have a proposition for you. It's usually nature-quiet by the Firewine ruins, even with its violent bygone. Those who died and did not sleep have mostly found their rest over time. It's a live threat that comes now, with a band of kobolds that moved in. Perhaps we could prevail upon you to rid us of this menace, and in return, a gift from us you shall receive. Keep whatever you find as well.

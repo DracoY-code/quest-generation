@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: The Path of Dawn
-Objective: recover the Amulet of Kings before the assassins take it out of you and Jauffre's reach
-First Tasks: find Baurus
-First Task Locations: Luther Broad's Boarding House - an inn in the Elven Gardens district of the Imperial City
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Baurus - the player's male ally who may have learned something about the assassins (location: Luther Broad's Boarding House)
-Tools: NONE
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls IV: Oblivion
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+recover the Amulet of Kings before the assassins take it out of you and Jauffre's reach
+<|end_objective|>
+<|begin_tasks|>
+find Baurus
+<|end_tasks|>
+<|begin_quest_giver|>
+Jauffre: the player's ally
+<|end_quest_giver|>
+<|begin_task_locations|>
+Luther Broad's Boarding House: an inn in the Elven Gardens district of the Imperial City
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Baurus: the player's male ally who may have learned something about the assassins (location: Luther Broad's Boarding House)
+<|end_characters|>
+<|end_quest|>
 We must try to recover the Amulet before the enemy takes it out of our reach. You should go back to the Imperial City. Baurus may have learned something about the assassins. You'll find Baurus at Luther Broad's Boarding House in the Elven Gardens district of the Imperial City.

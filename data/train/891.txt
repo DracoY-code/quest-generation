@@ -1,21 +1,27 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Forgotten Names
-Objective: complete a summoning ritual in the Midden
-First Tasks: find the 4 rings needed in the ritual
-First Task Locations: Arcanaeum - the library in the College of Winterhold
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: NONE
-Tools: Anonymous found the missing students of the College of Winterhold dead in the Midden: they were attempting a summoning ritual well beyond their capabilities, the Deadric Relic in the Midden is related to the students' death: Anonymous pried 4 rings from the Deadric Relic
-Locations: Midden - a sewer system underneath the College of Winterhold (location: NONE), College of Winterhold - a college for mages (location: NONE)
-Items: "Midden Incident Report" - a report (amount: 1), Deadric Relic - a large, segmented sculpture of a gauntlet, with the Daedric sigil 'O' emblazoned upon the palm (amount: 1),  - rings (amount: 4)
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+complete a summoning ritual in the Midden
+<|end_objective|>
+<|begin_tasks|>
+find the 4 rings needed in the ritual
+<|end_tasks|>
+<|begin_quest_giver|>
+Anonymous: an investigator from the College of Winterhold, giving quest via "Midden Incident Report"
+<|end_quest_giver|>
+<|begin_task_locations|>
+Arcanaeum: the library in the College of Winterhold
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_locations|>
+Midden: a sewer system underneath the College of Winterhold (location: NONE)
+College of Winterhold: a college for mages (location: NONE)
+<|end_locations|>
+<|begin_items|>
+"Midden Incident Report": a report (amount: 1)
+Deadric Relic: a large, segmented sculpture of a gauntlet, with the Daedric sigil 'O' emblazoned upon the palm (amount: 1)
+: rings (amount: 4)
+<|end_items|>
+<|end_quest|>
 Midden Incident Report by Anonymous  The missing students were found in the Midden this morning. Dead, as expected. None of us bothered keeping a detect life charm for the search at this point. The bodies were found together, each suffering the same deformities; peeled and bubbling skin on the arms and face. Conjurer's burn, as it's commonly referred to around the College. There's little doubt they were attempting a summoning ritual well beyond their capabilities. The relic nearby put any doubt in this theory to rest. I admit that I've never seen one like it - a large, segmented sculpture of a gauntlet, the Daedric sigil 'O' emblazoned upon the palm. Attempts to move it were in vain. I must show it to the Archmage during his upcoming visit. Perhaps he will know more. While we couldn't move the relic, I was able to pry four "rings" from it. I'm sure there's a connection between them and the ritual the students were attempting. I'll store these in the Arcanaeum until we can consult with a conjuration master to learn more.

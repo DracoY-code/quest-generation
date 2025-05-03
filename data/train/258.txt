@@ -1,21 +1,20 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Purchase the Kesting Special
-Objective: Acquire the Kesting Special, a unique weapon, from Eldridge at New Reno Arms.
-First Tasks: Travel to New Reno and locate New Reno Arms., Speak to Eldridge, the weapon dealer., Negotiate or pay for the Kesting Special.
-First Task Locations: New Reno Arms - A weapon shop in New Reno owned by Eldridge.
-Quest Giver: NONE - NONE (location: NONE)
-Reward: Kesting Special - A powerful and unique firearm available for purchase. (amount: NONE)
-Characters: NONE
-Tools: Caps to buy the weapon., Barter skill to negotiate a lower price.
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Fallout 2
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+Acquire the Kesting Special, a unique weapon, from Eldridge at New Reno Arms.
+<|end_objective|>
+<|begin_tasks|>
+Travel to New Reno and locate New Reno Arms.
+Speak to Eldridge, the weapon dealer.
+Negotiate or pay for the Kesting Special.
+<|end_tasks|>
+<|begin_quest_giver|>
+Eldridge: A weapons dealer in New Reno who sells high-end firearms.
+<|end_quest_giver|>
+<|begin_task_locations|>
+New Reno Arms: A weapon shop in New Reno owned by Eldridge.
+<|end_task_locations|>
+<|begin_rewards|>
+Kesting Special: A powerful and unique firearm available for purchase. (amount: NONE)
+<|end_rewards|>
+<|end_quest|>
 A rare firearm known as the Kesting Special is available at New Reno Arms. If you have enough caps, you can purchase it from Eldridge.

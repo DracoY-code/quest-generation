@@ -1,21 +1,27 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Destroy the Dark Brotherhood!
-Objective: destroy the Dark Brotherhood
-First Tasks: use "Silence, my brother." to enter the Dark Brotherhood Sanctuary
-First Task Locations:  - Dark Brotherhood Sanctuary, the hideout of the Dark Brotherhood
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - a handsome reward (amount: 1)
-Characters: Astrid - the female leader of the Dark Brotherhood (location: )
-Tools: the player told Commander Maro that the player killed Astrid
-Locations: NONE
-Items:  - the passphrase to the Dark Brotherhood Sanctuary: "Silence, my brother." (amount: 1)
-Enemies: NONE
-Groups: Dark Brotherhood - a guild of assassins
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+destroy the Dark Brotherhood
+<|end_objective|>
+<|begin_tasks|>
+use "Silence, my brother." to enter the Dark Brotherhood Sanctuary
+<|end_tasks|>
+<|begin_quest_giver|>
+Commander Maro: an army officer who has tracked the movements of the Dark Brotherhood
+<|end_quest_giver|>
+<|begin_task_locations|>
+: Dark Brotherhood Sanctuary, the hideout of the Dark Brotherhood
+<|end_task_locations|>
+<|begin_rewards|>
+: a handsome reward (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Astrid: the female leader of the Dark Brotherhood (location: )
+<|end_characters|>
+<|begin_items|>
+: the passphrase to the Dark Brotherhood Sanctuary: "Silence, my brother." (amount: 1)
+<|end_items|>
+<|begin_groups|>
+Dark Brotherhood: a guild of assassins (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 The leader of the Dark Brotherhood? You mean that woman Astrid? Dead? And this is no jest? Ha! This is a stroke of good fortune. Long have I watched the Dark Brotherhood's movements... waiting for the time to strike. That time is now! My agents have recently acquired the passphrase to their Sanctuary. It is, "Silence, my brother." Every assassin in that hole must be put down! You, my friend. You've slain their leader. This honor should be yours. Do this, and you will be rewarded most handsomely!

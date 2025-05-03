@@ -1,21 +1,23 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: The Sundered Battlefield
-Objective: recharge the power source, and return to Professor Stoker to install the power source in the automaton
-First Tasks: reach the the Sundered Battlefield, find the Emberworks on the far side of the Sundered Battlefield
-First Task Locations: Rivenskull Pass - a pass, Sundered Battlefield - an ancient battlefield
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: NONE
-Tools: the player brought a power source to Professor Stoker: it is completely drained
-Locations: Emberworks - an ancient dwarwen machine workshop (location: NONE)
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Torchlight II
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+recharge the power source, and return to Professor Stoker to install the power source in the automaton
+<|end_objective|>
+<|begin_tasks|>
+reach the the Sundered Battlefield
+find the Emberworks on the far side of the Sundered Battlefield
+<|end_tasks|>
+<|begin_quest_giver|>
+Professor Stoker: an inventor
+<|end_quest_giver|>
+<|begin_task_locations|>
+Rivenskull Pass: a pass
+Sundered Battlefield: an ancient battlefield
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_locations|>
+Emberworks: an ancient dwarwen machine workshop (location: NONE)
+<|end_locations|>
+<|end_quest|>
 Oh, no... I was afraid of this! The Power Source is completely drained! This is going to be more difficult than I'd anticipated. This is only a minor setback. We knew about these Power Sources from our explorations of the Emberworks, on the far side of the Sundered Battlefield. We found machines there that the ancient dwarves once used to craft them. If you can reach the Emberworks, it should be child's play to recharge it. You'll have to make your way through Rivenskull Pass to reach the battlefield. Once you've charged the Power Source, come back here, and we'll install it in the Automaton.

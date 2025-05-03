@@ -1,21 +1,33 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Azani Blackheart
-Objective: help Modryn Oreyn prove that the Blackwood Company lied about completing a contract for Argoth
-First Tasks: meet up with Modryn Oreyn, investigate Arpenia with Modryn Oreyn
-First Task Locations:  - Leyawiin guild hall, Arpenia - Azani Blackheart's stronghold
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Azani Blackheart - a ruthless male bandit leader (location: ), Argoth - a male wizard (location: ), Vitellus Donton - a fellow member of the Fighters Guild, a man (location: ), Vilena Donton - the female guildmaster of the Fighters Guild (location: )
-Tools: Modryn Oreyn has been investigating the Blackwood Company: they are a danger to the Fighters Guild, the Fighters Guild was contracted by Argoth to recover an artifact from Azani Blackheart: Modryn Oreyn went in there with twenty good men, and left with five, Vitellus Donton was not one of the survivors: he died while covering the Fighters Guild members' retreat, Argoth is dead and the artifact is gone after the Blackwood Company supposedly finished the contract instead of the Fighters Guild, Vilena Donton is not going to know about this mission: it's the player's choice to accept the mission
-Locations: Leyawiin - a city (location: NONE)
-Items: NONE
-Enemies: NONE
-Groups: Fighters Guild - a mercenary guild, Blackwood Company - a shady mercenary organization, who are very good at what they do
-Title: The Elder Scrolls IV: Oblivion
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+help Modryn Oreyn prove that the Blackwood Company lied about completing a contract for Argoth
+<|end_objective|>
+<|begin_tasks|>
+meet up with Modryn Oreyn
+investigate Arpenia with Modryn Oreyn
+<|end_tasks|>
+<|begin_quest_giver|>
+Modryn Oreyn: the player's superior in the Fighters Guild
+<|end_quest_giver|>
+<|begin_task_locations|>
+: Leyawiin guild hall
+Arpenia: Azani Blackheart's stronghold
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Azani Blackheart: a ruthless male bandit leader (location: )
+Argoth: a male wizard (location: )
+Vitellus Donton: a fellow member of the Fighters Guild, a man (location: )
+Vilena Donton: the female guildmaster of the Fighters Guild (location: )
+<|end_characters|>
+<|begin_locations|>
+Leyawiin: a city (location: NONE)
+<|end_locations|>
+<|begin_groups|>
+Fighters Guild: a mercenary guild (amount: NONE)
+Blackwood Company: a shady mercenary organization, who are very good at what they do (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 Good. You're here. We've got duties to attend to. I've been looking into the Blackwood Company. Heard some disturbing things. We know they're a danger to us. And we know they're good at what they do. I've heard stories, but nothing I can prove is true. Maybe they've got a mage working with them. Maybe they're just well trained. All I know for sure is that they'll accept any contract, and they'll do anything to complete it. And they don't care who gets in the way. We were contracted by a wizard, Argoth, to recover an artifact from Azani Blackheart, a ruthless bandit leader. I went in there with twenty men. I left with five. Vitellus Donton wasn't one of them. He died covering our retreat. I snooped around. Apparently, the Blackwood Company completed that contract for us. I went in there with twenty good men. I can't believe that bunch finished the job. There's more. Argoth -- he's dead, the artifact gone. Sounds like a set-up. Maybe they made a deal with Blackheart. I don't know. But I'll find out. Now we find out what really happened. And we let it be known. I want to show the people who the Blackwood Company really are. I can't order you do this with me. It's dangerous, and Vilena Donton isn't going to know about it. It's your choice. If you accept this mission, we leave as soon as you're ready. I want to investigate Blackheart's stronghold at Arpenia. Meet me at the Leyawiin guild hall. We'll go from there.

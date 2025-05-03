@@ -1,21 +1,20 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Find the Missing Caravans
-Objective: Investigate and determine the fate of missing trade caravans.
-First Tasks: Speak to Butch at the Far Go Traders., Gather information about the missing caravans., Investigate possible leads, including attacks by raiders or super mutants.
-First Task Locations: Far Go Traders - A major trading company in the wasteland, concerned about missing caravans.
-Quest Giver: NONE - NONE (location: NONE)
-Reward: Caps - Payment for uncovering the mystery and resolving the issue. (amount: Varies)
-Characters: NONE
-Tools: Investigative skills, Combat abilities, Speech or barter (for persuasion)
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Fallout
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+Investigate and determine the fate of missing trade caravans.
+<|end_objective|>
+<|begin_tasks|>
+Speak to Butch at the Far Go Traders.
+Gather information about the missing caravans.
+Investigate possible leads, including attacks by raiders or super mutants.
+<|end_tasks|>
+<|begin_quest_giver|>
+Butch: The leader of the Far Go Traders, worried about the disappearing caravans.
+<|end_quest_giver|>
+<|begin_task_locations|>
+Far Go Traders: A major trading company in the wasteland, concerned about missing caravans.
+<|end_task_locations|>
+<|begin_rewards|>
+Caps: Payment for uncovering the mystery and resolving the issue. (amount: Varies)
+<|end_rewards|>
+<|end_quest|>
 Several caravans have gone missing, and the Far Go Traders need someone to uncover the truth. The player must investigate various leads, including attacks by raiders, possible super mutant involvement, or betrayals within the trading companies.

@@ -1,21 +1,33 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Vampire Cure
-Objective: report to Janus Hassildor's steward after finding a cure for vampirism
-First Tasks: find the witch of Glenmoril
-First Task Locations:  - along the Corbolo, east of the Imperial City and south of Cheydinhal
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - a cure for vampirism (amount: 1),  - Janus Hassildor will reward the player in whatever small way he can (amount: 1)
-Characters: Rona - Janus Hassildor's wife (location: Skingrad),  - the witch of Glenmoril, the last remaining Glenmoril witch in Cyrodiil, a woman (location: along the Corbolo river)
-Tools: the player has not met Janus Hassildor before: the player and Janus Hassildor are both looking for a cure for vampirism, over 50 years ago Rona and Janus Hassildor were turned into vampires: Janus Hassildor embraced the vampirism, Rona did not, Rona slipped into coma from refusing to feed herself: Janus Hassildor wants to cure Rona's vampirism, Janus Hassildor cannot risk drawing too much attention on himself by searching for a cure to vampirism by himself: he found out that witches of Glenmoril have made a cure for vampirism before
-Locations: Corbolo - a river in Cyrodiil (location: NONE), Cheydinhal - a city in Cyrodiil (location: NONE), Cyrodiil - a province (location: NONE), Skingrad - a city in Cyrodiil (location: NONE), Imperial City - the capital city of Cyrodiil (location: NONE)
-Items: NONE
-Enemies: NONE
-Groups: Glenmoril - a coven of witches
-Title: The Elder Scrolls IV: Oblivion
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+report to Janus Hassildor's steward after finding a cure for vampirism
+<|end_objective|>
+<|begin_tasks|>
+find the witch of Glenmoril
+<|end_tasks|>
+<|begin_quest_giver|>
+Janus Hassildor: Count of Skingrad
+<|end_quest_giver|>
+<|begin_task_locations|>
+: along the Corbolo, east of the Imperial City and south of Cheydinhal
+<|end_task_locations|>
+<|begin_rewards|>
+: a cure for vampirism (amount: 1)
+: Janus Hassildor will reward the player in whatever small way he can (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Rona: Janus Hassildor's wife (location: Skingrad)
+: the witch of Glenmoril, the last remaining Glenmoril witch in Cyrodiil, a woman (location: along the Corbolo river)
+<|end_characters|>
+<|begin_locations|>
+Corbolo: a river in Cyrodiil (location: NONE)
+Cheydinhal: a city in Cyrodiil (location: NONE)
+Cyrodiil: a province (location: NONE)
+Skingrad: a city in Cyrodiil (location: NONE)
+Imperial City: the capital city of Cyrodiil (location: NONE)
+<|end_locations|>
+<|begin_groups|>
+Glenmoril: a coven of witches (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 I'm sorry. We've not met. I'm Janus Hassildor, Count of Skingrad. I understand you're looking for a cure for vampirism. This is fortunate, as I also seek the cure. I wish to tell you a story so that you might understand why I would trust you with my secrets. More than 50 years ago, my wife Rona and I were both turned into vampires. While I came to embrace the changes in myself, she did not. She hated what she had become, and refused to feed to keep herself healthy. She eventually slipped into a coma from which she has not awoken. My trusted servants have cared for her all this time, but I wish for her to at last find peace. The cure is for her. I have researched what I can, but acquiring the cure is beyond my grasp. I cannot risk drawing too much attention to myself. So I would ask that you took up the search on my behalf. If you are successful, I will reward you in whatever small way I can. Will you aid me? What little I have discovered points to the witches of Glenmoril. In the past, they have been capable of creating a cure. I have searched for these witches throughout Cyrodiil, but no covens still exist within its borders. There may be one left. I have unconfirmed reports of a woman seen near the Corbolo river, who fits the description of these witches. Seek her out, and learn whether she can help. She lives somewhere along the river, east of the Imperial City and south of Cheydinhal. If you are successful in finding a cure, report to my steward. You have my thanks.

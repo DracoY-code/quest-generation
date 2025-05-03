@@ -1,21 +1,24 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Suspect: Jagged Jimmy J
-Objective: Determine whether Jagged Jimmy J was involved in Richard Wright’s overdose.
-First Tasks: Find and question Jagged Jimmy J about his possible involvement., Check Jimmy J’s drug supply for any matches with the substance found at the overdose scene., Investigate any connections between Jimmy J and Richard Wright., Report findings back to the Wright family.
-First Task Locations: Jagged Jimmy J's Hideout - A known dealer’s spot where Jimmy J conducts business., Overdose Scene - Revisit for any overlooked evidence linking Jimmy J to the case., Wright Family Residence - Return here to present your findings.
-Quest Giver: NONE - NONE (location: NONE)
-Reward: Caps - A monetary reward for uncovering the truth. (amount: 500), Wright Family Favor - Further influence with the Wrights, which may be beneficial. (amount: NONE)
-Characters: NONE
-Tools: Speech and intimidation skills to pressure Jimmy J., Science or medical knowledge to analyze drug samples., Perception to notice any inconsistencies in Jimmy J’s statements.
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Fallout 2
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+Determine whether Jagged Jimmy J was involved in Richard Wright’s overdose.
+<|end_objective|>
+<|begin_tasks|>
+Find and question Jagged Jimmy J about his possible involvement.
+Check Jimmy J’s drug supply for any matches with the substance found at the overdose scene.
+Investigate any connections between Jimmy J and Richard Wright.
+Report findings back to the Wright family.
+<|end_tasks|>
+<|begin_quest_giver|>
+Orville Wright: The head of the Wright family, intent on finding his son's killer.
+<|end_quest_giver|>
+<|begin_task_locations|>
+Jagged Jimmy J's Hideout: A known dealer’s spot where Jimmy J conducts business.
+Overdose Scene: Revisit for any overlooked evidence linking Jimmy J to the case.
+Wright Family Residence: Return here to present your findings.
+<|end_task_locations|>
+<|begin_rewards|>
+Caps: A monetary reward for uncovering the truth. (amount: 500)
+Wright Family Favor: Further influence with the Wrights, which may be beneficial. (amount: NONE)
+<|end_rewards|>
+<|end_quest|>
 Jagged Jimmy J is a known drug dealer and a prime suspect in Richard Wright’s overdose case. Investigate his involvement and determine whether he was responsible.

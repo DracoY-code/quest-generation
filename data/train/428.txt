@@ -1,21 +1,24 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Jewel of the Desert
-Objective: build an inn in Desert Refuge
-First Tasks: gather up materials for building an inn
-First Task Locations: NONE - 
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - stacks of sand, useful in crafting (amount: 10)
-Characters: NONE
-Tools: Daniel gives the player a box of building materials
-Locations: Desert Refuge - a desert village (location: NONE)
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Minecraft
-Motivation: reputation
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+build an inn in Desert Refuge
+<|end_objective|>
+<|begin_tasks|>
+gather up materials for building an inn
+<|end_tasks|>
+<|begin_quest_giver|>
+Daniel: a friendly villager
+<|end_quest_giver|>
+<|begin_task_locations|>
+NONE: 
+<|end_task_locations|>
+<|begin_rewards|>
+: stacks of sand, useful in crafting (amount: 10)
+<|end_rewards|>
+<|begin_locations|>
+Desert Refuge: a desert village (location: NONE)
+<|end_locations|>
+<|begin_motivation|>
+reputation
+<|end_motivation|>
+<|end_quest|>
 Hail traveler! I'd guide you toward a soft bed, but as it happens, our village doesn't have an inn. We really could use an inn: travelers heading in and out of the desert pass by Desert Refuge often. An inn would make our village even more famous! Could you build an inn here? You just need some building materials; I'll give you a box of materials to start with. We will give you ten stacks of sand as a reward, to help you craft many useful things.

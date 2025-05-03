@@ -1,21 +1,22 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: A Comforting Amulet
-Objective: bring Torbjorn Shatter-Shield an amulet of Arkay
-First Tasks: find an amulet of Arkay
-First Task Locations: NONE - 
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Arkay - the god of life and death (location: ), Tova - Torbjorn Shatter-Shield's mourning wife (location: )
-Tools: Tova is not handling the death of her and Torbjorn Shatter-Shield's daughter well
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+bring Torbjorn Shatter-Shield an amulet of Arkay
+<|end_objective|>
+<|begin_tasks|>
+find an amulet of Arkay
+<|end_tasks|>
+<|begin_quest_giver|>
+Torbjorn Shatter-Shield: a mourning man
+<|end_quest_giver|>
+<|begin_task_locations|>
+NONE: 
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Arkay: the god of life and death (location: )
+Tova: Torbjorn Shatter-Shield's mourning wife (location: )
+<|end_characters|>
+<|end_quest|>
 Please forgive my mood. I'm still coming to terms with my daughter's death. Our little girl died recently. I've been shouldering my days with strong mead, but nothing gives my Tova peace. I've been looking for an Amulet of Arkay to remind my wife that our child is with the gods now, but I can't find one. Would you be willing to give me an Amulet of Arkay, should you find one? I hope Arkay grants my wife some comfort.

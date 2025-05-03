@@ -1,21 +1,24 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Pinching A Bottle
-Objective: give a bottle of double-distilled Skooma to Stands-In-Shallows
-First Tasks: steal the bottle of double-distilled Skooma
-First Task Locations: Gnisis Cornerclub - an inn
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - Stands-In-Shallows trains the player in stealth (amount: 1)
-Characters: NONE
-Tools: NONE
-Locations: NONE
-Items: Skooma - a drug (amount: 1)
-Enemies: NONE
-Groups: Argonians - a race of lizardmen
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+give a bottle of double-distilled Skooma to Stands-In-Shallows
+<|end_objective|>
+<|begin_tasks|>
+steal the bottle of double-distilled Skooma
+<|end_tasks|>
+<|begin_quest_giver|>
+Stands-In-Shallows: an old Argonian, and a Skooma addict
+<|end_quest_giver|>
+<|begin_task_locations|>
+Gnisis Cornerclub: an inn
+<|end_task_locations|>
+<|begin_rewards|>
+: Stands-In-Shallows trains the player in stealth (amount: 1)
+<|end_rewards|>
+<|begin_items|>
+Skooma: a drug (amount: 1)
+<|end_items|>
+<|begin_groups|>
+Argonians: a race of lizardmen (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 I feel like my scales are clawing into me. Maybe you could help an old Argonian out? I heard some of the sailors talking about how they stashed a bottle of Double-Distilled Skooma in the Gnisis Cornerclub. I just need a taste. Please, snatch the bottle for me. I'll be waiting for it. Then, let me show you a thing or two about not attracting attention to yourself.

@@ -1,21 +1,24 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Showing Your True Colors
-Objective: bring 16 cyan dye to Lee
-First Tasks: obtain 16 cyan dye
-First Task Locations: NONE - 
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - emeralds (amount: 32)
-Characters: NONE
-Tools: cyan dye is made by combining green dye and blue dye
-Locations: NONE
-Items:  - cyan dye (amount: 16)
-Enemies: NONE
-Groups: NONE
-Title: Minecraft
-Motivation: comfort
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+bring 16 cyan dye to Lee
+<|end_objective|>
+<|begin_tasks|>
+obtain 16 cyan dye
+<|end_tasks|>
+<|begin_quest_giver|>
+Lee: a leatherworker
+<|end_quest_giver|>
+<|begin_task_locations|>
+NONE: 
+<|end_task_locations|>
+<|begin_rewards|>
+: emeralds (amount: 32)
+<|end_rewards|>
+<|begin_items|>
+: cyan dye (amount: 16)
+<|end_items|>
+<|begin_motivation|>
+comfort
+<|end_motivation|>
+<|end_quest|>
 I want to make my leather works more... dashing and colorful. Bring me 16 cyan dye, and I'll reward you with 32 emeralds. You can make cyan dye by combining green dye with blue dye, I think. I'd obtain the dye myself, but the smell of my tanning chemicals attracts all sorts of unsavory creatures to me out there.

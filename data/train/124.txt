@@ -1,21 +1,24 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: The Dragon at the End of It All
-Objective: slay the Ender Dragon, and report back to Weak Will
-First Tasks: enter The End
-First Task Locations: The End - a mysterious place at the end of space and time
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - something cool (amount: 1)
-Characters: Ender Dragon - an evil dragon (location: )
-Tools: NONE
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Minecraft
-Motivation: reputation
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+slay the Ender Dragon, and report back to Weak Will
+<|end_objective|>
+<|begin_tasks|>
+enter The End
+<|end_tasks|>
+<|begin_quest_giver|>
+Weak Will: a suicidal nitwit
+<|end_quest_giver|>
+<|begin_task_locations|>
+The End: a mysterious place at the end of space and time
+<|end_task_locations|>
+<|begin_rewards|>
+: something cool (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Ender Dragon: an evil dragon (location: )
+<|end_characters|>
+<|begin_motivation|>
+reputation
+<|end_motivation|>
+<|end_quest|>
 Me useless moron, say many people of this village. Me want to seem like a hero instead. Would make I happier, less thinking of dying. Me know!!! Go to The End. That strange place at the end. Kill that big meanie Ender Dragon. Tell I how you did it, and me can tell everyone me did it! Me give you something cool for me white lie.

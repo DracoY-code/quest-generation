@@ -1,21 +1,22 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Maralee's Child
-Objective: return Peladan to Maralee
-First Tasks: find Peladan
-First Task Locations:  - northeast of the village, in the woods
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Peladan - Maralee's 3 months old son (location: ),  - Maralee's husband, and Peladan's father (location: )
-Tools: Maralee's husband took Peladan hunting: werewolves attacked Peladan and his father, Peladan went missing, but Maralee's husband was killed, Peladan and Maralee's husband have dark hair
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Baldur's Gate
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+return Peladan to Maralee
+<|end_objective|>
+<|begin_tasks|>
+find Peladan
+<|end_tasks|>
+<|begin_quest_giver|>
+Maralee: a hopeful mother
+<|end_quest_giver|>
+<|begin_task_locations|>
+: northeast of the village, in the woods
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Peladan: Maralee's 3 months old son (location: )
+: Maralee's husband, and Peladan's father (location: )
+<|end_characters|>
+<|end_quest|>
 Hello, good people. I am Maralee. Two moons ago my husband took my son out hunting with him. They were attacked by those horrible wolf-creatures. They... they killed my husband and took my baby. Others say that they took the baby away to eat him, but I know he's still alive. He's a beautiful little boy with dark hair like his father. He is three moons old and his name is Peladan. They took him from my husband northeast of the village, in the woods.

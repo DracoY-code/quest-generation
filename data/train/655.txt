@@ -1,21 +1,28 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Darkness Returns
-Objective: walk the Pilgrim's Path, and return the Skeleton Key to the Ebonmere
-First Tasks: find and read the journal of the man who died attempting to walk the Pilgrim's Path
-First Task Locations: NONE - 
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: NONE
-Tools: the player is a member of the Thieves Guild, the player has the Skeleton Key: the player has done the Thieves Guild a great deed
-Locations: Pilgrim's Path - a dangerous path to the Ebonmere (location: NONE), Ebonmere - a portal held open by the Skeleton Key (location: NONE)
-Items: Skeleton Key - an important relic, a key (amount: 1)
-Enemies: NONE
-Groups: Thieves Guild - a guild of thieves
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+walk the Pilgrim's Path, and return the Skeleton Key to the Ebonmere
+<|end_objective|>
+<|begin_tasks|>
+find and read the journal of the man who died attempting to walk the Pilgrim's Path
+<|end_tasks|>
+<|begin_quest_giver|>
+Nightingale Sentinel: a ghost who is dying, trapped in this chamber
+<|end_quest_giver|>
+<|begin_task_locations|>
+NONE: 
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_locations|>
+Pilgrim's Path: a dangerous path to the Ebonmere (location: NONE)
+Ebonmere: a portal held open by the Skeleton Key (location: NONE)
+<|end_locations|>
+<|begin_items|>
+Skeleton Key: an important relic, a key (amount: 1)
+<|end_items|>
+<|begin_groups|>
+Thieves Guild: a guild of thieves (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 The Key! You have the Skeleton Key! I never thought I'd see it again. You've done the Guild a great deed. And although they may not show it, I'm certain they appreciate your sacrifices. My only regret is that you had to undertake this task alone. Nothing would bring me more pride than to return the Key, but I'm afraid it's impossible. From the moment I arrived here, I've felt myself... well... dying. I'm afraid you have return the Key alone. I'm weakening, and I can feel myself slipping away. The years without restoration of my power have taken their toll. Whatever damage has been caused can only be corrected by following the Pilgrim's Path to the Ebonmere and replacing the Key. The only possible help I've come across are the remains of some poor fellow who was trying to follow in your footsteps. Perhaps his journal can help?

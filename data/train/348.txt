@@ -1,21 +1,28 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Sating the Steward's Thirst
-Objective: deliver a bottle of Stros M'Kai Rum to Falk Firebeard
-First Tasks: find Falk Firebeard
-First Task Locations: Blue Palace - a palace in Solitude
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Jarl Elisif the Fair - the noblewoman who rules over Solitude, who recently lost her husband, the king (location: Blue Palace), Falk Firebeard - Jarl Elisif the Fair's male steward (location: Blue Palace)
-Tools: the player asked Sorex Vinius who is in charge of Solitude
-Locations: Solitude - a city (location: NONE)
-Items: Stros M'Kai Rum - special drum (amount: 1)
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+deliver a bottle of Stros M'Kai Rum to Falk Firebeard
+<|end_objective|>
+<|begin_tasks|>
+find Falk Firebeard
+<|end_tasks|>
+<|begin_quest_giver|>
+Sorex Vinius: an innkeeper
+<|end_quest_giver|>
+<|begin_task_locations|>
+Blue Palace: a palace in Solitude
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Jarl Elisif the Fair: the noblewoman who rules over Solitude, who recently lost her husband, the king (location: Blue Palace)
+Falk Firebeard: Jarl Elisif the Fair's male steward (location: Blue Palace)
+<|end_characters|>
+<|begin_locations|>
+Solitude: a city (location: NONE)
+<|end_locations|>
+<|begin_items|>
+Stros M'Kai Rum: special drum (amount: 1)
+<|end_items|>
+<|end_quest|>
 Jarl Elisif the Fair is in charge of solitude. Poor woman. Losing her husband and king like that. It was a dark day for us all. Damn, that reminds me, I have a delivery to make to her steward, Falk Firebeard. He ordered a special bottle of Stros M'Kai Rum. You could deliver it for me. Save me a lot of trouble. Here. Take it to the Blue Palace.

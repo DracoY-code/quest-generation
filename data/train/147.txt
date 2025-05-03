@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Become a Porn Star
-Objective: Act in an adult film at New Reno’s Golden Globes studio.
-First Tasks: Travel to New Reno and locate the Golden Globes studio., Speak with Miss Kitty at the Cat's Paw for details on the industry., Talk to the studio director to audition for a role.
-First Task Locations: Golden Globes Studio - An adult film production studio in New Reno.
-Quest Giver: NONE - NONE (location: NONE)
-Reward: Porn Star Title - Grants recognition and a special nickname. (amount: NONE), Caps - Earned from starring in the film. (amount: NONE)
-Characters: NONE
-Tools: High Charisma to impress the director., Speech skill to negotiate better pay.
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Fallout 2
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+Act in an adult film at New Reno’s Golden Globes studio.
+<|end_objective|>
+<|begin_tasks|>
+Travel to New Reno and locate the Golden Globes studio.
+Speak with Miss Kitty at the Cat's Paw for details on the industry.
+Talk to the studio director to audition for a role.
+<|end_tasks|>
+<|begin_quest_giver|>
+Studio Director: The person in charge of casting actors for films.
+<|end_quest_giver|>
+<|begin_task_locations|>
+Golden Globes Studio: An adult film production studio in New Reno.
+<|end_task_locations|>
+<|begin_rewards|>
+Porn Star Title: Grants recognition and a special nickname. (amount: NONE)
+Caps: Earned from starring in the film. (amount: NONE)
+<|end_rewards|>
+<|end_quest|>
 Enter the adult film industry in New Reno by starring in a movie at Golden Globes studio. Gain notoriety and some extra caps along the way.

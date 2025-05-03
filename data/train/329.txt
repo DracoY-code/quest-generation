@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Where to Hang...
-Objective: bring a painting to Sandy
-First Tasks: obtain a painting
-First Task Locations: NONE - 
-Quest Giver: NONE - NONE (location: NONE)
-Reward: TNT - explosives (amount: 16)
-Characters: NONE
-Tools: the player is a known villain
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Minecraft
-Motivation: comfort
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+bring a painting to Sandy
+<|end_objective|>
+<|begin_tasks|>
+obtain a painting
+<|end_tasks|>
+<|begin_quest_giver|>
+Sandy: a scared woman
+<|end_quest_giver|>
+<|begin_task_locations|>
+NONE: 
+<|end_task_locations|>
+<|begin_rewards|>
+TNT: explosives (amount: 16)
+<|end_rewards|>
+<|begin_motivation|>
+comfort
+<|end_motivation|>
+<|end_quest|>
 *scream of terror* I.. I.. I don't want any trouble. Please, I just want to live my live in peace. You're not going to kill me? Sinister master, may this mere woman ask a tribute from you? Please, I'd like to have a painting. In return, you will receive 16 TNT, perfect for ramping up explosions (Preferably elsewhere).

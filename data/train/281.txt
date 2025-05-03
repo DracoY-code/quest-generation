@@ -1,21 +1,28 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Number One Armorer
-Objective: bring 32 blocks of iron to Arnold
-First Tasks: obtain iron ore, smelt iron ore into iron ingots, craft iron ingots into blocks of iron
-First Task Locations:  - iron veins in the ground,  - a furnace somewhere,  - any crafting bench
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - better armor than the player is wearing now (amount: 1)
-Characters: NONE
-Tools: the player is a famous hero
-Locations: NONE
-Items:  - blocks of iron (amount: 32)
-Enemies: NONE
-Groups: NONE
-Title: Minecraft
-Motivation: reputation
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+bring 32 blocks of iron to Arnold
+<|end_objective|>
+<|begin_tasks|>
+obtain iron ore
+smelt iron ore into iron ingots
+craft iron ingots into blocks of iron
+<|end_tasks|>
+<|begin_quest_giver|>
+Arnold: an inexperienced armorer
+<|end_quest_giver|>
+<|begin_task_locations|>
+: iron veins in the ground
+: a furnace somewhere
+: any crafting bench
+<|end_task_locations|>
+<|begin_rewards|>
+: better armor than the player is wearing now (amount: 1)
+<|end_rewards|>
+<|begin_items|>
+: blocks of iron (amount: 32)
+<|end_items|>
+<|begin_motivation|>
+reputation
+<|end_motivation|>
+<|end_quest|>
 I want to become famous. Just not quite like you, hero. I seek to become the best armorer in the world. To do that, I need a lot of practice in hammering down pieces of armor. Would you please bring me 32 blocks of iron? Those should help me become a better armorer in no time! First, you have to get iron ore from the many iron veins in the ground. Next, you'll want to smelt the ore into iron ingots in a furnace somewhere. Lastly, you ought to craft those iron ingots into blocks of iron on a crafting table. Do all that, and I promise to outfit you in better armor than what you are wearing now!

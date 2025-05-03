@@ -1,21 +1,24 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: The Affairs of Hagravens
-Objective: help Melka reclaim her tower by killing Petra
-First Tasks: let Melka out of the cage
-First Task Locations:  - Melka's tower
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - Melka's staff (amount: 1)
-Characters: Petra - a female Hagraven (location: )
-Tools: the player entered the room where Melka has been imprisoned
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: Hagraven - monsters, a horrific cross between an old crone and a bird
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+help Melka reclaim her tower by killing Petra
+<|end_objective|>
+<|begin_tasks|>
+let Melka out of the cage
+<|end_tasks|>
+<|begin_quest_giver|>
+Melka: a patronizing Hagraven
+<|end_quest_giver|>
+<|begin_task_locations|>
+: Melka's tower
+<|end_task_locations|>
+<|begin_rewards|>
+: Melka's staff (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Petra: a female Hagraven (location: )
+<|end_characters|>
+<|begin_groups|>
+Hagraven: monsters, a horrific cross between an old crone and a bird (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 Who enters? Will nobody save poor Melka? You, meat! Come, come. Don't leave poor Melka to die. Pretty, pretty flesh. Let me out! Petra! Evil Petra put me in a cage, stole my tower. Hate her, chew her bones! Let me out, kind, kind meat. Ah, I have a pretty staff. Help me find Petra, wring her neck, pluck her eyes. Take my prize staff, I just want my tower back!

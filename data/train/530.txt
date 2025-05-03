@@ -1,21 +1,22 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Get permission from Metzger for gang war
-Objective: Obtain Metzger’s approval for Lara’s gang to attack their rivals.
-First Tasks: Talk to Lara about the gang war plan., Meet Metzger and request permission for the attack., Report back to Lara with Metzger’s response.
-First Task Locations: The Den - A lawless town controlled by criminals and slavers, home to Lara's gang and Metzger’s operations., Metzger's Slaver Guild - Metzger’s base of operations, where he runs his slave trade and enforces his rule.
-Quest Giver: NONE - NONE (location: NONE)
-Reward: Caps - A monetary reward for successfully securing Metzger’s approval. (amount: 100), Progression in Lara's gang quests - Advances the questline, leading to more jobs and potential rewards. (amount: NONE)
-Characters: NONE
-Tools: High Speech skill to persuade Metzger effectively., Caps or favors in case Metzger demands payment.
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Fallout 2
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+Obtain Metzger’s approval for Lara’s gang to attack their rivals.
+<|end_objective|>
+<|begin_tasks|>
+Talk to Lara about the gang war plan.
+Meet Metzger and request permission for the attack.
+Report back to Lara with Metzger’s response.
+<|end_tasks|>
+<|begin_quest_giver|>
+Lara: Leader of a small gang in The Den, looking to expand her influence by eliminating a rival group.
+<|end_quest_giver|>
+<|begin_task_locations|>
+The Den: A lawless town controlled by criminals and slavers, home to Lara's gang and Metzger’s operations.
+Metzger's Slaver Guild: Metzger’s base of operations, where he runs his slave trade and enforces his rule.
+<|end_task_locations|>
+<|begin_rewards|>
+Caps: A monetary reward for successfully securing Metzger’s approval. (amount: 100)
+Progression in Lara's gang quests: Advances the questline, leading to more jobs and potential rewards. (amount: NONE)
+<|end_rewards|>
+<|end_quest|>
 Lara wants to start a gang war in The Den, but she needs Metzger’s approval before making a move. You must convince him to allow the conflict to proceed.

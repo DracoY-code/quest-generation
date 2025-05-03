@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: New Allegiances
-Objective: turn Valindor into a vampire, and return to Vingalmo
-First Tasks: use vampiric seduction on Valindor, embrace him and bite him on the neck
-First Task Locations: Riften - a city in the south
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Valindor - a knowledgeable man (location: Riften)
-Tools: NONE
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+turn Valindor into a vampire, and return to Vingalmo
+<|end_objective|>
+<|begin_tasks|>
+use vampiric seduction on Valindor, embrace him and bite him on the neck
+<|end_tasks|>
+<|begin_quest_giver|>
+Vingalmo: a fellow vampire, who speaks elegantly
+<|end_quest_giver|>
+<|begin_task_locations|>
+Riften: a city in the south
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Valindor: a knowledgeable man (location: Riften)
+<|end_characters|>
+<|end_quest|>
 I've found a new candidate, ripe for the Gift. I'm sending you to welcome this soul into our family. Valindor of Riften has his ears in places that we'd love to listening in. Joining our family should increase our possibilities in the south. Put his mind to rest, allay his fear through vampiric seduction and when he is in a pliant condition, embrace him and bite him on the neck. When you offer the embrace, do so away from prying eyes. Our new sibling will then likely require rest while his blood undergoes the change. Return to me when your part is done.

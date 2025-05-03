@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Evil in Waiting
-Objective: help Valdar defeat Hevnoraak before he awakens
-First Tasks: collect the three vessels needed to vanquish Hevnoraak, and bring them to Valdar
-First Task Locations:  - in the tomb below
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Hevnoraak - an evil man who has been dead for many generations (location: tomb of Hevnoraak)
-Tools: Valdar has been holding Hevnoraak in his tomb, Hevnoraak's minions guard the three vessels
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+help Valdar defeat Hevnoraak before he awakens
+<|end_objective|>
+<|begin_tasks|>
+collect the three vessels needed to vanquish Hevnoraak, and bring them to Valdar
+<|end_tasks|>
+<|begin_quest_giver|>
+Valdar: a ghostly guardian whose powers are fading
+<|end_quest_giver|>
+<|begin_task_locations|>
+: in the tomb below
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Hevnoraak: an evil man who has been dead for many generations (location: tomb of Hevnoraak)
+<|end_characters|>
+<|end_quest|>
 Leave, stranger. Evil stirs in this place. I fear for the security of the very land if it should break free. We stand at the tomb of Hevnoraak, who has been dead for many generations. I fear, however, that his return may be at hand. I have been holding him here. While he regains strength, however, I am fading. By now I can barely contain his power, much less defeat him if he awakens. But with the help of a living champion I may be able to succeed. Three vessels in the tomb below hold the power to vanquish Hevnoraak. Before anything else, we need those. Bring them to me - but be careful, mortal. They are guarded by Hevnoraak's minions. They will stop at nothing to see their master return.

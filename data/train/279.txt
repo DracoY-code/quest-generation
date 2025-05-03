@@ -1,21 +1,27 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Bolstering Catalog
-Objective: recover a shipment of books for Nate
-First Tasks: find the shipment of books
-First Task Locations:  - an Illager outpost
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - blocks of emerald (amount: 10)
-Characters: A.R. - a famous female novelist (location: )
-Tools: the player helped Nate sign an exclusivity deal with A.R.
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: Illagers - bandits
-Title: Minecraft
-Motivation: serenity
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+recover a shipment of books for Nate
+<|end_objective|>
+<|begin_tasks|>
+find the shipment of books
+<|end_tasks|>
+<|begin_quest_giver|>
+Nate: a happy librarian
+<|end_quest_giver|>
+<|begin_task_locations|>
+: an Illager outpost
+<|end_task_locations|>
+<|begin_rewards|>
+: blocks of emerald (amount: 10)
+<|end_rewards|>
+<|begin_characters|>
+A.R.: a famous female novelist (location: )
+<|end_characters|>
+<|begin_groups|>
+Illagers: bandits (amount: NONE)
+<|end_groups|>
+<|begin_motivation|>
+serenity
+<|end_motivation|>
+<|end_quest|>
 Welcome to my library! How may I help you on this beautiful day? Ah, you're my helper from before! Thanks to you, the library's been visited much more frequently than ever before. Having exclusive rights to A.R.'s books made the library soar in popularity! I even had to order more copies of books to satisfy all reading needs! Actually, there is a teeny tiny issue related to the books: a band of Illagers stole a shipment of books and hauled them to their outpost. Would you kindly find and recover the shipment for me? You'll receive 10 blocks of emerald for your services.

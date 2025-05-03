@@ -1,21 +1,24 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Heart Stones
-Objective: bring a Heart Stone to Neloth
-First Tasks: find a Heart Stone
-First Task Locations: Solstheim - an island
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - Neloth pays the player (amount: 1)
-Characters: NONE
-Tools: every time the Red Mountain belches, more of Heart Stones land on Solstheim: the player may need to pick away at stone to pry the Heart Stone
-Locations: Red Mountain - an active volcano (location: NONE)
-Items: Heart Stones - magical stones (amount: 1)
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+bring a Heart Stone to Neloth
+<|end_objective|>
+<|begin_tasks|>
+find a Heart Stone
+<|end_tasks|>
+<|begin_quest_giver|>
+Neloth: a wizard
+<|end_quest_giver|>
+<|begin_task_locations|>
+Solstheim: an island
+<|end_task_locations|>
+<|begin_rewards|>
+: Neloth pays the player (amount: 1)
+<|end_rewards|>
+<|begin_locations|>
+Red Mountain: an active volcano (location: NONE)
+<|end_locations|>
+<|begin_items|>
+Heart Stones: magical stones (amount: 1)
+<|end_items|>
+<|end_quest|>
 I'm running low on Heart Stones. If you have any with you, I'll buy one. Otherwise, I can tell you where you might find one. Every time the Red Mountain belches, more of them land here on Solstheim. Look around for impact craters, exposed rock, that sort of thing. You may need to pick away at it to pry the heart stone itself loose, but you look... strong. Good luck.

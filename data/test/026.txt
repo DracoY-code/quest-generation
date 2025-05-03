@@ -1,21 +1,18 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Dragon Research
-Objective: help Esbern complete his research on dragons
-First Tasks: bring Esbern dragon scales and bones
-First Task Locations: NONE - 
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - a potion made out of dragon scales and bones (amount: 1)
-Characters: NONE
-Tools: NONE
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+help Esbern complete his research on dragons
+<|end_objective|>
+<|begin_tasks|>
+bring Esbern dragon scales and bones
+<|end_tasks|>
+<|begin_quest_giver|>
+Esbern: a scholar
+<|end_quest_giver|>
+<|begin_task_locations|>
+NONE: 
+<|end_task_locations|>
+<|begin_rewards|>
+: a potion made out of dragon scales and bones (amount: 1)
+<|end_rewards|>
+<|end_quest|>
 I need to finish my research on dragons. While you're out hunting dragons, keep a sharp eye open for any dragon scales and bones you might find. I'd be interested in looking at them. Have you ever heard of the expression, "the scale of the lizard that bit you?" No, I guess not. Well, the principle applies here. I'll make you a potion, made from those dragon parts.

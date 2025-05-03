@@ -1,21 +1,25 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Fit for a Jarl
-Objective: promote the Radiant Raiment to Jarl Elisif
-First Tasks: wear one of the Radiant Raiment's outfits, and speak to Elisif about it
-First Task Locations: Blue Palace - Elisif's palace
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - the player gets to keep the Radiant Raiment outfit, and Taarie pays the player (amount: 1)
-Characters: Elisif - the female Jarl of Solitude (location: Blue Palace)
-Tools: the player told Taarie that the player is going to the Blue Palace
-Locations: Solitude - a city (location: NONE), Radiant Raiment - a clothing store (location: NONE)
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+promote the Radiant Raiment to Jarl Elisif
+<|end_objective|>
+<|begin_tasks|>
+wear one of the Radiant Raiment's outfits, and speak to Elisif about it
+<|end_tasks|>
+<|begin_quest_giver|>
+Taarie: a tailor
+<|end_quest_giver|>
+<|begin_task_locations|>
+Blue Palace: Elisif's palace
+<|end_task_locations|>
+<|begin_rewards|>
+: the player gets to keep the Radiant Raiment outfit, and Taarie pays the player (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Elisif: the female Jarl of Solitude (location: Blue Palace)
+<|end_characters|>
+<|begin_locations|>
+Solitude: a city (location: NONE)
+Radiant Raiment: a clothing store (location: NONE)
+<|end_locations|>
+<|end_quest|>
 You're really going to the Blue Palace? That presents an opportunity. If you were willing to wear one of Radiant Raiment's outfits and speak to the Jarl I would not only pay you but let you keep the outfit. Here's the outfit. Try to get Jarl Elisif's opinion on it and if she likes it mention it's from Radiant Raiment.

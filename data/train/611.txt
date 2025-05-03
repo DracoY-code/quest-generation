@@ -1,21 +1,18 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: The Joy of Enchanting
-Objective: use an Arcane Enchanter and a filled soul gem to enchant something
-First Tasks: take an enchanted weapon or piece of armor and use an Arcane Enchanter to learn its enchantment
-First Task Locations: NONE - 
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - the player learns to enchant weapons and armor (amount: 1)
-Characters: NONE
-Tools: the player asked Farengar Secret-Fire to teach them how to enchant weapons and armor, learning an enchantment from an item destroys the item, Farengar Secret-Fire can sell the player everything they need
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+use an Arcane Enchanter and a filled soul gem to enchant something
+<|end_objective|>
+<|begin_tasks|>
+take an enchanted weapon or piece of armor and use an Arcane Enchanter to learn its enchantment
+<|end_tasks|>
+<|begin_quest_giver|>
+Farengar Secret-Fire: an enchanter
+<|end_quest_giver|>
+<|begin_task_locations|>
+NONE: 
+<|end_task_locations|>
+<|begin_rewards|>
+: the player learns to enchant weapons and armor (amount: 1)
+<|end_rewards|>
+<|end_quest|>
 Ah, a student of the craft. You'll need to start by learning an enchantment. Take an enchanted weapon or piece of armor, then use the Arcane Enchanter to learn its secrets. The item is destroyed in the process, so be wary. Once you know an enchantment, you'll need a filled soul gem, and something to enchant. You'll use the Arcane Enchanter for that, too. Of course I have everything you need for sale, if you have the coin.

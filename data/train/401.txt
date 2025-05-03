@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Turning Heads
-Objective: give red dye to Cara
-First Tasks: find red dye
-First Task Locations:  - wandering traders
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - emeralds (amount: 12)
-Characters: NONE
-Tools: NONE
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Minecraft
-Motivation: reputation
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+give red dye to Cara
+<|end_objective|>
+<|begin_tasks|>
+find red dye
+<|end_tasks|>
+<|begin_quest_giver|>
+Cara: a woman who wants to dye her hair
+<|end_quest_giver|>
+<|begin_task_locations|>
+: wandering traders
+<|end_task_locations|>
+<|begin_rewards|>
+: emeralds (amount: 12)
+<|end_rewards|>
+<|begin_motivation|>
+reputation
+<|end_motivation|>
+<|end_quest|>
 The guys in this village rarely take note of me. I want to dye my hair red to make myself more attractive. Wandering traders often have red dye. Could you find some and give it to me? I'd give you 12 emeralds for the red dye.

@@ -1,21 +1,18 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Palin and the Monsters
-Objective: save people from monsters
-First Tasks: help Palin kill monsters
-First Task Locations:  - east of this place
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: NONE
-Tools: NONE
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Baldur's Gate
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+save people from monsters
+<|end_objective|>
+<|begin_tasks|>
+help Palin kill monsters
+<|end_tasks|>
+<|begin_quest_giver|>
+Palin: a fighter
+<|end_quest_giver|>
+<|begin_task_locations|>
+: east of this place
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|end_quest|>
 Good day to you, stranger. I'm called Palin. Excuse my, uhm, abruptness but I would ask your assistance. Just east of this place there are monsters. They are attacking a small group of people. Please, if you have hearts, come and help me fight.

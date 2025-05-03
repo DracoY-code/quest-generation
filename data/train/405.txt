@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Help Bess the Brahmin
-Objective: Heal the injured brahmin named Bess and decide her fate.
-First Tasks: Find Bess, the injured brahmin., Use a Doctor or First Aid skill to heal her wounds., Decide whether to let her go or sell her to Grisham.
-First Task Locations: Modoc - A small farming town where Bess is found injured.
-Quest Giver: NONE - NONE (location: NONE)
-Reward: Improved karma - Healing Bess without selling her to Grisham earns good karma. (amount: NONE), Caps - Selling Bess to Grisham provides monetary compensation. (amount: 100)
-Characters: NONE
-Tools: Doctor skill or First Aid skill to treat Bess., Optionally, Speech skill to negotiate with Grisham.
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Fallout 2
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+Heal the injured brahmin named Bess and decide her fate.
+<|end_objective|>
+<|begin_tasks|>
+Find Bess, the injured brahmin.
+Use a Doctor or First Aid skill to heal her wounds.
+Decide whether to let her go or sell her to Grisham.
+<|end_tasks|>
+<|begin_quest_giver|>
+Bess: A wounded brahmin in need of medical attention.
+<|end_quest_giver|>
+<|begin_task_locations|>
+Modoc: A small farming town where Bess is found injured.
+<|end_task_locations|>
+<|begin_rewards|>
+Improved karma: Healing Bess without selling her to Grisham earns good karma. (amount: NONE)
+Caps: Selling Bess to Grisham provides monetary compensation. (amount: 100)
+<|end_rewards|>
+<|end_quest|>
 Bess, an injured brahmin near Modoc, requires medical assistance. You can heal her and set her free for karma or sell her to Grisham for a profit.

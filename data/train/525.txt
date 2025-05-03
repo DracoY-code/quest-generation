@@ -1,21 +1,27 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Judgment
-Objective: destroy Harkon
-First Tasks: meet up with Isran and the rest of your Dawnguard allies
-First Task Locations: Castle Volkihar - a castle belonging to Harkon in Tamriel
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Harkon - the lord of the vampires (location: Castle Volkihar)
-Tools: Isran will address the player's fellow Dawnguard members before leaving for Castle Volkihar: the Dawnguard has gained the upper hand in the fight against the vampires
-Locations: Tamriel - a continent (location: NONE)
-Items: NONE
-Enemies: NONE
-Groups: Dawnguard - an organization of vampire hunters
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+destroy Harkon
+<|end_objective|>
+<|begin_tasks|>
+meet up with Isran and the rest of your Dawnguard allies
+<|end_tasks|>
+<|begin_quest_giver|>
+Isran: the player's leader in the Dawnguard
+<|end_quest_giver|>
+<|begin_task_locations|>
+Castle Volkihar: a castle belonging to Harkon in Tamriel
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Harkon: the lord of the vampires (location: Castle Volkihar)
+<|end_characters|>
+<|begin_locations|>
+Tamriel: a continent (location: NONE)
+<|end_locations|>
+<|begin_groups|>
+Dawnguard: an organization of vampire hunters (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 The day hasn't been won while the vampire Harkon still walks Tamriel. Let me address the Dawnguard, and then we'll be off. The men deserve to know that we've finally gained the upper hand. It's time we take the fight to their door. Gather your things and rest well, my friend. We meet outside Castle Volkihar.

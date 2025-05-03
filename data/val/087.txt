@@ -1,21 +1,23 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Blow Up the Mine's Air Purifier
-Objective: Sabotage the air purifier in Redding’s mine to make the environment unbreathable.
-First Tasks: Find the entrance to the Wanamingo Mine in Redding., Locate the air purifier deep inside the mine., Acquire explosives or another means of destruction., Plant the explosives on the air purifier and detonate them., Escape the mine before it collapses or enemies attack.
-First Task Locations: Wanamingo Mine - A deep and dangerous mine in Redding, filled with creatures and workers.
-Quest Giver: NONE - NONE (location: NONE)
-Reward: Experience Points - Earned for successfully destroying the purifier. (amount: 1500), Caps - A monetary reward for completing the sabotage mission. (amount: 750)
-Characters: NONE
-Tools: Explosives, Repair Skill, Stealth Skill
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Fallout 2
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+Sabotage the air purifier in Redding’s mine to make the environment unbreathable.
+<|end_objective|>
+<|begin_tasks|>
+Find the entrance to the Wanamingo Mine in Redding.
+Locate the air purifier deep inside the mine.
+Acquire explosives or another means of destruction.
+Plant the explosives on the air purifier and detonate them.
+Escape the mine before it collapses or enemies attack.
+<|end_tasks|>
+<|begin_quest_giver|>
+Francis (or other interested party): A character who benefits from sabotaging the mine, potentially a rival faction.
+<|end_quest_giver|>
+<|begin_task_locations|>
+Wanamingo Mine: A deep and dangerous mine in Redding, filled with creatures and workers.
+<|end_task_locations|>
+<|begin_rewards|>
+Experience Points: Earned for successfully destroying the purifier. (amount: 1500)
+Caps: A monetary reward for completing the sabotage mission. (amount: 750)
+<|end_rewards|>
+<|end_quest|>
 Someone wants the Wanamingo Mine in Redding shut down for good. Your task is to sabotage the air purifier to make the mine unworkable. Be careful—guards or miners may try to stop you.

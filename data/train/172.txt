@@ -1,21 +1,30 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: An Offer
-Objective: help Calcelmo with his research
-First Tasks: bring the Dwemer sword you bough from Warmaiden's to Calcelmo
-First Task Locations: Markarth - a city
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - handsome pay (amount: 1)
-Characters: Dragonborn - the player (location: )
-Tools: "Letter from Calcelmo" is addressed toward the player
-Locations: Warmaiden's - a shop (location: NONE)
-Items: "Letter from Calcelmo" - a letter (amount: 1)
-Enemies: NONE
-Groups: Dwemer - an extinct race of people
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+help Calcelmo with his research
+<|end_objective|>
+<|begin_tasks|>
+bring the Dwemer sword you bough from Warmaiden's to Calcelmo
+<|end_tasks|>
+<|begin_quest_giver|>
+Calcelmo: a scholar researching the Dwemer, giving quest via "Letter from Calcelmo"
+<|end_quest_giver|>
+<|begin_task_locations|>
+Markarth: a city
+<|end_task_locations|>
+<|begin_rewards|>
+: handsome pay (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Dragonborn: the player (location: )
+<|end_characters|>
+<|begin_locations|>
+Warmaiden's: a shop (location: NONE)
+<|end_locations|>
+<|begin_items|>
+"Letter from Calcelmo": a letter (amount: 1)
+<|end_items|>
+<|begin_groups|>
+Dwemer: an extinct race of people (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 Letter from Calcelmo by Calcelmo  Dragonborn, It has come to my attention you may have recently acquired a certain Dwemer sword from Warmaiden's. I'm not sure how such an object came to find itself resting there... but I've been trying to obtain one for my research. If you still have it, or if not, find another one, I would be most appreciative if you were to bring it to me here in Markarth. I will pay handsomely.  Sincerely, Calcelmo

@@ -1,21 +1,24 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Steal Algernon's Cloak
-Objective: bring Algernon's cloak to Pheirkas
-First Tasks: steal Algernon's cloak off his person without killing him
-First Task Locations: Feldepost's Inn - an inn in Beregost
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - a handsome reward (amount: 1)
-Characters: Algernon - a fat man (location: in his room in Feldepost's Inn)
-Tools: NONE
-Locations: Beregost - a city (location: NONE)
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Baldur's Gate
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+bring Algernon's cloak to Pheirkas
+<|end_objective|>
+<|begin_tasks|>
+steal Algernon's cloak off his person without killing him
+<|end_tasks|>
+<|begin_quest_giver|>
+Pheirkas: a professional thief
+<|end_quest_giver|>
+<|begin_task_locations|>
+Feldepost's Inn: an inn in Beregost
+<|end_task_locations|>
+<|begin_rewards|>
+: a handsome reward (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Algernon: a fat man (location: in his room in Feldepost's Inn)
+<|end_characters|>
+<|begin_locations|>
+Beregost: a city (location: NONE)
+<|end_locations|>
+<|end_quest|>
 Hmm, I am Pheirkas and I prefer not to work with amateurs. There's a fat man by the name of Algernon staying at Feldepost's Inn in Beregost. He keeps a cloak with him in his room and I need you to get your larcenous hands on it and bring it back to me. I assure you that your reward will be handsome. Try not to kill him, just filch it off his person.

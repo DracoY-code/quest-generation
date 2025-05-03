@@ -1,21 +1,24 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: A More Than Exotic Fruit
-Objective: bring 6 Chorus Fruits to Kevin
-First Tasks: find 6 Chorus Fruits
-First Task Locations: The End - a mysterious, hard to reach dimension
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - diamonds (amount: 12)
-Characters: NONE
-Tools: NONE
-Locations: NONE
-Items: Chorus Fruits - strange fruits that might teleport the player a short distance when eaten (amount: 6)
-Enemies: NONE
-Groups: NONE
-Title: Minecraft
-Motivation: knowledge
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+bring 6 Chorus Fruits to Kevin
+<|end_objective|>
+<|begin_tasks|>
+find 6 Chorus Fruits
+<|end_tasks|>
+<|begin_quest_giver|>
+Kevin: a curious man
+<|end_quest_giver|>
+<|begin_task_locations|>
+The End: a mysterious, hard to reach dimension
+<|end_task_locations|>
+<|begin_rewards|>
+: diamonds (amount: 12)
+<|end_rewards|>
+<|begin_items|>
+Chorus Fruits: strange fruits that might teleport the player a short distance when eaten (amount: 6)
+<|end_items|>
+<|begin_motivation|>
+knowledge
+<|end_motivation|>
+<|end_quest|>
 Traveler! Did you know that our dimension is one among many. There exists a dimension called "The End". It is a mysterious place, and supposedly hard to reach. I yearn to know more about that dimension. I have heard vague rumors about fruits native to the End that might teleport you a tiny distance when digested. They are called Chorus Fruits. If you get your hands on six Chorus Fruits, I promise to reward you well with 12 diamonds. Please help a man sate his ever-growing curiosity.

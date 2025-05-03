@@ -1,21 +1,24 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: The Elven Maiden
-Objective: steal a bust of Llathasa Indarys, and bring it back to Armand Christophe
-First Tasks: ask the beggars where to find the bust of Llathasa Indarys
-First Task Locations: Cheydinhal - a city
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - a modest sum (amount: 1)
-Characters: Llathasa Indarys - an Elven woman, and the recently killed Countess of Cheydinhal (location: )
-Tools: NONE
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: Thieves Guild - a guild of thieves
-Title: The Elder Scrolls IV: Oblivion
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+steal a bust of Llathasa Indarys, and bring it back to Armand Christophe
+<|end_objective|>
+<|begin_tasks|>
+ask the beggars where to find the bust of Llathasa Indarys
+<|end_tasks|>
+<|begin_quest_giver|>
+Armand Christophe: the player's superior in the Thieves Guild
+<|end_quest_giver|>
+<|begin_task_locations|>
+Cheydinhal: a city
+<|end_task_locations|>
+<|begin_rewards|>
+: a modest sum (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Llathasa Indarys: an Elven woman, and the recently killed Countess of Cheydinhal (location: )
+<|end_characters|>
+<|begin_groups|>
+Thieves Guild: a guild of thieves (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 The Guild has received a 'request' to obtain a unique statuette. It is a bust of Llathasa Indarys, the recently slain Countess of Cheydinhal. You will be paid a modest sum. Do you want this job? Travel to Cheydinhal, and ask the beggars for more information about the bust. Bring it back to me once you have it.

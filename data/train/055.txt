@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: The Museum of Oddities
-Objective: bring anything unusual, bizarre, strange, or disturbing to Una Armina
-First Tasks: find Oddities for the Museum of Oddities
-First Task Locations: NONE - 
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - a nominal finder's fee (amount: 1)
-Characters: NONE
-Tools: NONE
-Locations: Museum of Oddities - a museum filled with odd things (location: NONE)
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls IV: Oblivion
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+bring anything unusual, bizarre, strange, or disturbing to Una Armina
+<|end_objective|>
+<|begin_tasks|>
+find Oddities for the Museum of Oddities
+<|end_tasks|>
+<|begin_quest_giver|>
+Una Armina: the owner of the Museum of Oddities
+<|end_quest_giver|>
+<|begin_task_locations|>
+NONE: 
+<|end_task_locations|>
+<|begin_rewards|>
+: a nominal finder's fee (amount: 1)
+<|end_rewards|>
+<|begin_locations|>
+Museum of Oddities: a museum filled with odd things (location: NONE)
+<|end_locations|>
+<|end_quest|>
 Hello, I'm Una Armina. Perhaps you've heard of my Museum of Oddities? There you can view all the finest Oddities of the Realm. I'm always looking for new exhibits, so be sure to think of me when you see anything Odd! I'm always looking for new Oddities to add to my collection. Anything unusual, bizarre, strange, or disturbing -- bring it to me! I do pay a nominal finder's fee, but of course the real reward is your contribution to posterity. Do you have anything that you'd like to contribute to the Museum?

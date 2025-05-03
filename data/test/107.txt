@@ -1,21 +1,23 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Ashes to Eternity
-Objective: deliver Berit's ashes to Runil, the priest of Arkay
-First Tasks: find Runil
-First Task Locations: Falkreath - a town known for its graveyard
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Runil - a male priest of Arkay (location: Falkreath), Berit - Thadgeir's old, dead male war companion (location: Falkreath), Arkay - the god of funeral rites (location: )
-Tools: NONE
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+deliver Berit's ashes to Runil, the priest of Arkay
+<|end_objective|>
+<|begin_tasks|>
+find Runil
+<|end_tasks|>
+<|begin_quest_giver|>
+Thadgeir: an old warrior
+<|end_quest_giver|>
+<|begin_task_locations|>
+Falkreath: a town known for its graveyard
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Runil: a male priest of Arkay (location: Falkreath)
+Berit: Thadgeir's old, dead male war companion (location: Falkreath)
+Arkay: the god of funeral rites (location: )
+<|end_characters|>
+<|end_quest|>
 Falkreath is known for its graveyard, traveler. We've buried more dead than you can imagine. I just finished giving my old war companion, Berit, a proper burial by fire. Old hard head hated the idea of being lost cold in the ground. Could you deliver the ashes to Runil, the priest of Arkay? He'll know the right blessings to make for Berit's soul.

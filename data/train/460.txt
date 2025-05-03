@@ -1,21 +1,24 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Unfinished Business
-Objective: find out why Maglir has defaulted on a contract
-First Tasks: find Maglir
-First Task Locations: Skingrad - a city
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Maglir - a new male member of the Fighters Guild (location: Skingrad)
-Tools: the player is a new member of the Fighters Guild
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: Fighters Guild - a mercenary guild
-Title: The Elder Scrolls IV: Oblivion
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+find out why Maglir has defaulted on a contract
+<|end_objective|>
+<|begin_tasks|>
+find Maglir
+<|end_tasks|>
+<|begin_quest_giver|>
+Modryn Oreyn: a Fighters Guild Champion
+<|end_quest_giver|>
+<|begin_task_locations|>
+Skingrad: a city
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Maglir: a new male member of the Fighters Guild (location: Skingrad)
+<|end_characters|>
+<|begin_groups|>
+Fighters Guild: a mercenary guild (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 I'm the Fighters Guild Champion, Modryn Oreyn, as you should know. What do you want? I suppose you've come looking for duties? I want you to contact Maglir. He's one of your Fighters Guild brothers, but he's defaulted on a contract. We can't allow that. Makes us all look bad. He didn't finish out a contract in Skingrad. Suppose I shouldn't be surprised. He's raw, like you. Go and find out what's wrong with him.

@@ -1,21 +1,22 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Rescuing Dynaheir
-Objective: free Dynaheir from gnolls with Minsc
-First Tasks: find Dynaheir
-First Task Locations:  - the gnoll stronghold, in the west
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Dynaheir - a woman (location: the gnoll stronghold), Boo - Minsc's pet hamster (location: with Minsc)
-Tools: Minsc, Boo, and Dynaheir traveled far to explore this land, gnolls have captured Dynaheir, Minsc and Boo will join the player
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Baldur's Gate
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+free Dynaheir from gnolls with Minsc
+<|end_objective|>
+<|begin_tasks|>
+find Dynaheir
+<|end_tasks|>
+<|begin_quest_giver|>
+Minsc: a noble warrior and Dynaheir's protector
+<|end_quest_giver|>
+<|begin_task_locations|>
+: the gnoll stronghold, in the west
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Dynaheir: a woman (location: the gnoll stronghold)
+Boo: Minsc's pet hamster (location: with Minsc)
+<|end_characters|>
+<|end_quest|>
 Greetings, we are Minsc and Boo. Boo is my faithful hamster companion, and more than he seems. We have traveled far to explore this land, but now my charge Dynaheir has been taken from us. 'Twas gnolls, and once we have tracked them I will beat sense into their heads until they release her. Accompany us, and bards will sing the deeds of Minsc and Boo... and friends. Onward to the gnoll stronghold in the west!

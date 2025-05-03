@@ -1,21 +1,20 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Take Care of Officer Jack for Mira
-Objective: Eliminate Officer Jack as per Mira's request.
-First Tasks: Locate Officer Jack in NCR., Decide on an approach—direct combat, stealth, or persuasion.
-First Task Locations: NCR - Officer Jack is stationed in the New California Republic, patrolling the area.
-Quest Giver: NONE - NONE (location: NONE)
-Reward: Caps - Mira will pay for completing the task. (amount: NONE), Experience Points - XP for eliminating or dealing with Officer Jack. (amount: NONE)
-Characters: NONE
-Tools: Stealth skills for an undetected kill., Speech skills to possibly frame or remove Jack through non-violent means., Combat readiness if engaging directly.
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Fallout 2
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+Eliminate Officer Jack as per Mira's request.
+<|end_objective|>
+<|begin_tasks|>
+Locate Officer Jack in NCR.
+Decide on an approach—direct combat, stealth, or persuasion.
+<|end_tasks|>
+<|begin_quest_giver|>
+Mira: A shady character in NCR who wants Officer Jack gone for her own reasons.
+<|end_quest_giver|>
+<|begin_task_locations|>
+NCR: Officer Jack is stationed in the New California Republic, patrolling the area.
+<|end_task_locations|>
+<|begin_rewards|>
+Caps: Mira will pay for completing the task. (amount: NONE)
+Experience Points: XP for eliminating or dealing with Officer Jack. (amount: NONE)
+<|end_rewards|>
+<|end_quest|>
 Mira has a problem with Officer Jack and wants him gone. You can choose how to handle the situation—whether by taking him out, setting him up, or finding another way to deal with him.

@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: In Plain Sight
-Objective: bring 4 books to Drevis Neloren
-First Tasks: use the spell that Drevis Neloren teaches you to locate the 4 books
-First Task Locations: College of Winterhold - a college of mages
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - Drevis Neloren will inscribe the spells for the player (amount: 1)
-Characters: NONE
-Tools: Drevis Neloren has taught the player all he knows about Illusion magic
-Locations: NONE
-Items:  - books, which contain powerful Illusion spells (amount: 4)
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+bring 4 books to Drevis Neloren
+<|end_objective|>
+<|begin_tasks|>
+use the spell that Drevis Neloren teaches you to locate the 4 books
+<|end_tasks|>
+<|begin_quest_giver|>
+Drevis Neloren: the player's teacher in Illusion magic
+<|end_quest_giver|>
+<|begin_task_locations|>
+College of Winterhold: a college of mages
+<|end_task_locations|>
+<|begin_rewards|>
+: Drevis Neloren will inscribe the spells for the player (amount: 1)
+<|end_rewards|>
+<|begin_items|>
+: books, which contain powerful Illusion spells (amount: 4)
+<|end_items|>
+<|end_quest|>
 You have gone beyond my teachings, which is quite a feat. I did not think it possible. But there is always more to learn. I believe you are ready for the next step. Knowledge of truly powerful Illusion spells is here at the College, but it is hidden from those who might misuse it. I shall teach you a spell to discern things hidden from others. With it, you will be able to acquire the texts you need. Bring all four to me, and I shall use them to inscribe the spells for you.

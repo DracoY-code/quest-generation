@@ -1,21 +1,26 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Paranoia
-Objective: check out some people for Glarthir
-First Tasks: see where Bernadette Peneles goes and what she does, meet Glarthir again tomorrow night
-First Task Locations:  - outside Glarthir's house in Skingrad at 6 am, Great Chapel of Julianos - a large church in Skingrad
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - lots of gold (amount: 1)
-Characters: Bernadette Peneles - a woman who has been kind to Glarthir (location: Skingrad)
-Tools: the player came to meet with Glarthir, Glarthir thinks that everyone in Skingrad is watching him, the player should not contact Glarthir in public
-Locations: Skingrad - a town (location: NONE)
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls IV: Oblivion
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+check out some people for Glarthir
+<|end_objective|>
+<|begin_tasks|>
+see where Bernadette Peneles goes and what she does
+meet Glarthir again tomorrow night
+<|end_tasks|>
+<|begin_quest_giver|>
+Glarthir: a paranoid town eccentric
+<|end_quest_giver|>
+<|begin_task_locations|>
+: outside Glarthir's house in Skingrad at 6 am
+Great Chapel of Julianos: a large church in Skingrad
+<|end_task_locations|>
+<|begin_rewards|>
+: lots of gold (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Bernadette Peneles: a woman who has been kind to Glarthir (location: Skingrad)
+<|end_characters|>
+<|begin_locations|>
+Skingrad: a town (location: NONE)
+<|end_locations|>
+<|end_quest|>
 Ah, you came. You're sure you weren't followed? Good, I thought I could trust you. Nobody else in town. They're all in on it ... all watching me. Well. Yes. I need you to do something for me. I'll pay you -- gold. You like gold, don't you? Lots of gold. Here's my problem. I'm being followed. Watched. Marukhati Selectives, maybe. Not sure. I'm a threat, you see? To their plans. I know too much. I need you to check out some people for me, the ones that are following me. Watch them, see where they go, who they report to. Will you help me? Today I caught Bernadette Peneles watching me. I have very little doubt now that she is one of them. This saddens me. I had thought her one of the few to show me kindness in this nest of treachery. But now it seems that it was all a lie. Be outside my house at 6 am, you'll see her watching me. See where she goes and who she reports to. We'll meet here again tomorrow night. Oh, and NEVER contact me in public. They're watching. They can't know you're helping me.

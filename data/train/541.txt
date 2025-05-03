@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Repentance
-Objective: help Illia prevent her mother from transforming into a Hagraven
-First Tasks: follow Illia to the top of the tower
-First Task Locations: Darklight Tower - a tower filled with witches and Hagravens, and Illia's former home
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: NONE
-Tools: Illia just killed a female witch in front of the player, Illia and the witch were supposed to find a human sacrifice: the witch attacked Illia because Illia could not do it
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: Hagravens - evil bird-like witch creatures
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+help Illia prevent her mother from transforming into a Hagraven
+<|end_objective|>
+<|begin_tasks|>
+follow Illia to the top of the tower
+<|end_tasks|>
+<|begin_quest_giver|>
+Illia: a repenting mage who has never killed an innocent person
+<|end_quest_giver|>
+<|begin_task_locations|>
+Darklight Tower: a tower filled with witches and Hagravens, and Illia's former home
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_groups|>
+Hagravens: evil bird-like witch creatures (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 By the gods! I know this looks bad. Let me explain... I called Darklight Tower home, now I know that was a mistake. I am, or was part of a coven serving the Hagravens that live there. So was she. We were supposed to find a sacrifice. Human sacrifice. I told her I couldn't do it and she attacked me. I've done horrible things living here, but never taken an innocent life. I couldn't just find some person for them to kill. We needed a sacrifice for the Initiation. My mother is going to become one of those things, Hagravens. I can't be a part of that. Gods, I can't run away from this. I'm going up there to stop her. This cycle must end. I don't know what brought you here, but I could use your help, if you're willing. Follow me. We have to fight our way up the Tower. I don't think anyone else here is about to have a change of heart.

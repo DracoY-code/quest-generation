@@ -1,21 +1,24 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Joia's Flamedance Ring
-Objective: return Joia's Flamedance Ring to her
-First Tasks: find the hobgoblins who stole Joia's Flamedance Ring
-First Task Locations:  - north of the Friendly Arms Inn
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: NONE
-Tools: NONE
-Locations: Friendly Arms Inn - an inn (location: NONE)
-Items: Flamedance Ring - a striking ring (amount: 1)
-Enemies: NONE
-Groups: NONE
-Title: Baldur's Gate
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+return Joia's Flamedance Ring to her
+<|end_objective|>
+<|begin_tasks|>
+find the hobgoblins who stole Joia's Flamedance Ring
+<|end_tasks|>
+<|begin_quest_giver|>
+Joia: a woman who lost a precious item
+<|end_quest_giver|>
+<|begin_task_locations|>
+: north of the Friendly Arms Inn
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_locations|>
+Friendly Arms Inn: an inn (location: NONE)
+<|end_locations|>
+<|begin_items|>
+Flamedance Ring: a striking ring (amount: 1)
+<|end_items|>
+<|end_quest|>
 Hey there, you're new here, aren't you? Could I, Joia, trouble you a moment? I need someone to go club some heads for me. I was ambushed by a band o' hobgoblins within sight of this inn's walls. Robbed me blind, they did, and I want to return the favor. I don't care about most of my things, but I want to get my ring back. My father gave it to me, you understand? The creatures were just north of the inn. Bring my ring back here when you get it. You'll know it when you see it. It's a Flamedance Ring, and very striking.

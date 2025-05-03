@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Solve Kalah's Riddle
-Objective: make Kalah allow you to pass this bridge
-First Tasks: answer Kalah's riddle
-First Task Locations: NONE - 
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - Kalah will allow the player to pass this bridge (amount: 1)
-Characters: NONE
-Tools: Kalah won't allow the player to pass this bridge before the player answers Kalah's riddle
-Locations: NONE
-Items:  - Kalah's riddle, the poorest have it, the richest need it, but if either were to eat it, they would certainly perish (amount: 1)
-Enemies: NONE
-Groups: NONE
-Title: Baldur's Gate II: Shadows of Amn
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+make Kalah allow you to pass this bridge
+<|end_objective|>
+<|begin_tasks|>
+answer Kalah's riddle
+<|end_tasks|>
+<|begin_quest_giver|>
+Kalah: a bored genie
+<|end_quest_giver|>
+<|begin_task_locations|>
+NONE: 
+<|end_task_locations|>
+<|begin_rewards|>
+: Kalah will allow the player to pass this bridge (amount: 1)
+<|end_rewards|>
+<|begin_items|>
+: Kalah's riddle, the poorest have it, the richest need it, but if either were to eat it, they would certainly perish (amount: 1)
+<|end_items|>
+<|end_quest|>
 Aha! I see a wayfarer has come to amuse Kalah! You must answer a riddle, naturally, ere I will allow you to pass this bridge. Here's the riddle, my friend: The poorest have it, the richest need it, but if either were to eat it, they would certainly perish. Tell me what it is!

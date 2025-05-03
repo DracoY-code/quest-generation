@@ -1,21 +1,27 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: The Missing Man
-Objective: find out what happened to Hareph
-First Tasks: find Hareph
-First Task Locations: Swarm Stacks - Skara's nesting place north of here, out in the Salt Barrens
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Hareph - a man, and Jasha's missing friend (location: Swarm Stacks)
-Tools: Hareph left with a crew to determine why the Skara have become aggressive
-Locations: Salt Barrens - a desolate region (location: NONE)
-Items: NONE
-Enemies: NONE
-Groups: Skara - flying insects
-Title: Torchlight II
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+find out what happened to Hareph
+<|end_objective|>
+<|begin_tasks|>
+find Hareph
+<|end_tasks|>
+<|begin_quest_giver|>
+Jasha: a worried friend
+<|end_quest_giver|>
+<|begin_task_locations|>
+Swarm Stacks: Skara's nesting place north of here, out in the Salt Barrens
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Hareph: a man, and Jasha's missing friend (location: Swarm Stacks)
+<|end_characters|>
+<|begin_locations|>
+Salt Barrens: a desolate region (location: NONE)
+<|end_locations|>
+<|begin_groups|>
+Skara: flying insects (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 If you're heading out into the Salt Barrens, could you find out what happened to my companion Hareph? He left with a crew to determine why the Skara have become so aggressive lately, but no one has come back. If you travel North to the Swarm Stacks, you should be able to find him - or at least what happened to him.

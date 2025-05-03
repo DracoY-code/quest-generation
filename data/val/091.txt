@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: The Lure of of the World
-Objective: convince Nikulas to stay with his mother
-First Tasks: counsel Nikulas on the perils of the world
-First Task Locations: Skaal Village - a small, remote village
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Nikulas - Edla's son, strong and loyal, yet reckless and foolish (location: Skaal Village)
-Tools: Edla recently lost her husband: Nikulas is everything she has left
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+convince Nikulas to stay with his mother
+<|end_objective|>
+<|begin_tasks|>
+counsel Nikulas on the perils of the world
+<|end_tasks|>
+<|begin_quest_giver|>
+Edla: a slightly worried mother
+<|end_quest_giver|>
+<|begin_task_locations|>
+Skaal Village: a small, remote village
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Nikulas: Edla's son, strong and loyal, yet reckless and foolish (location: Skaal Village)
+<|end_characters|>
+<|end_quest|>
 I'm Edla. I have a son. His name is Nikulas. He's a good lad, strong and loyal. I only wish he wasn't so eager to leave the village. I've tried to tell him that the world beyond our lands is dangerous and cruel, but he won't listen. For now, I need Nikulas here. You see, his father, my husband, was recently lost to us. Nikulas is all that I have left in this world. I know it is selfish of me to say so, but I cannot lose him. Not while I still grieve. Also, I know his heart. Nikulas is reckless and foolish, like most young men. He cannot understand what awaits him in the wide world. Could you talk to Nikulas? I know he would listen to you. You've been out there in the wide world. You know its perils.

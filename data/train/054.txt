@@ -1,21 +1,24 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Roguish Past
-Objective: bring Kate's notebook to her
-First Tasks: find the buried treasure
-First Task Locations:  - a beach not that far away from Seaside Settlement
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - the player may keep the rest of the buried treasure (amount: 1)
-Characters: NONE
-Tools: Kate has heard that the player helps people, Kate gives the player a map that points the player to the buried treasure
-Locations: Seaside Settlement - a coastal village (location: NONE)
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Minecraft
-Motivation: serenity
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+bring Kate's notebook to her
+<|end_objective|>
+<|begin_tasks|>
+find the buried treasure
+<|end_tasks|>
+<|begin_quest_giver|>
+Kate: a woman who used to be a pirate queen
+<|end_quest_giver|>
+<|begin_task_locations|>
+: a beach not that far away from Seaside Settlement
+<|end_task_locations|>
+<|begin_rewards|>
+: the player may keep the rest of the buried treasure (amount: 1)
+<|end_rewards|>
+<|begin_locations|>
+Seaside Settlement: a coastal village (location: NONE)
+<|end_locations|>
+<|begin_motivation|>
+serenity
+<|end_motivation|>
+<|end_quest|>
 I have not always been a simple villager of Seaside Settlement. I was a pirate queen: I pillaged many a ship that linger the bottom of the ocean with my crew. Alas, my life was turned upside down one fateful day: my ship sank, and I washed up to the shore. A kind villager from this very village found me and helped me regain my strength. I left my pirate days behind, and settled down in Seaside Settlement. However, I'd still like to obtain my notebook from those days: I accidentally dropped it into the last treasure chest we buried into the ground. My adventuring days are over: you, however, are known to do odd tasks of more or less adventurous nature to others. I'll give you my treasure map: it will lead you to the buried treasure. You may keep the buried treasure to yourself, I just ask you to give me my notebook.

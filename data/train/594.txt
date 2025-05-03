@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Dr. Lorri's Surgeries
-Objective: Undergo surgery to enhance physical attributes.
-First Tasks: Find Dr. Lorri at the medical facility., Consult with Dr. Lorri about available surgeries., Pay the required fee for the selected surgery., Undergo the surgical procedure.
-First Task Locations: Medical Facility - A well-equipped clinic where Dr. Lorri performs surgical enhancements.
-Quest Giver: NONE - NONE (location: NONE)
-Reward: Physical Enhancement - An increase in Strength, Endurance, or other physical attributes, depending on the chosen surgery. (amount: NONE)
-Characters: NONE
-Tools: N, O, N, E
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Fallout
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+Undergo surgery to enhance physical attributes.
+<|end_objective|>
+<|begin_tasks|>
+Find Dr. Lorri at the medical facility.
+Consult with Dr. Lorri about available surgeries.
+Pay the required fee for the selected surgery.
+Undergo the surgical procedure.
+<|end_tasks|>
+<|begin_quest_giver|>
+Dr. Lorri: A skilled surgeon offering medical enhancements for a price.
+<|end_quest_giver|>
+<|begin_task_locations|>
+Medical Facility: A well-equipped clinic where Dr. Lorri performs surgical enhancements.
+<|end_task_locations|>
+<|begin_rewards|>
+Physical Enhancement: An increase in Strength, Endurance, or other physical attributes, depending on the chosen surgery. (amount: NONE)
+<|end_rewards|>
+<|end_quest|>
 Dr. Lorri offers surgical procedures that enhance physical capabilities for a cost, allowing wastelanders to improve their survivability.

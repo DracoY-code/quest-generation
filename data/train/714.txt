@@ -1,21 +1,24 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Flying Colors
-Objective: bring 10 red banners to Mike
-First Tasks: obtain 10 red banners
-First Task Locations: NONE - 
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - apples (amount: 32)
-Characters: NONE
-Tools: the player can craft banners from sticks and wool
-Locations: NONE
-Items:  - red banners (amount: 10)
-Enemies: NONE
-Groups: NONE
-Title: Minecraft
-Motivation: comfort
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+bring 10 red banners to Mike
+<|end_objective|>
+<|begin_tasks|>
+obtain 10 red banners
+<|end_tasks|>
+<|begin_quest_giver|>
+Mike: a man who wants to redecorate his home
+<|end_quest_giver|>
+<|begin_task_locations|>
+NONE: 
+<|end_task_locations|>
+<|begin_rewards|>
+: apples (amount: 32)
+<|end_rewards|>
+<|begin_items|>
+: red banners (amount: 10)
+<|end_items|>
+<|begin_motivation|>
+comfort
+<|end_motivation|>
+<|end_quest|>
 I'd like to redecorate my home. Stranger, could you do a man a favor? Obtain ten red banners and bring them to me. I have heard that you can craft banners from sticks and wool. I'll have 32 apples for you.

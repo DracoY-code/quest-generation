@@ -1,21 +1,27 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: The Key to Victory
-Objective: help Lord Taldimut gather up weapons and armor from the Celestial Armory without Ezrohir noticing
-First Tasks: use the Golden Gear to get inside the Celestial Armory, and activate the Armory Portal
-First Task Locations: Celestial Armory - Lord Taldimut's armory that houses some of the finest weapons
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - the player's choice of artifacts from the Celestial Armory (amount: 1)
-Characters: NONE
-Tools: Ezrohir have the Celestial Armory under siege
-Locations: Ossean Wastes - a desert (location: NONE)
-Items: Armory Portal - a hidden portal to the Celestial Armory (amount: 1)
-Enemies: NONE
-Groups: Ezrohir - Lord Taldimut's enemies
-Title: Torchlight II
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+help Lord Taldimut gather up weapons and armor from the Celestial Armory without Ezrohir noticing
+<|end_objective|>
+<|begin_tasks|>
+use the Golden Gear to get inside the Celestial Armory, and activate the Armory Portal
+<|end_tasks|>
+<|begin_quest_giver|>
+Lord Taldimut: the player's old friend, who promised the player a a greater reward if the player came to visit him in Ossean Wastes
+<|end_quest_giver|>
+<|begin_task_locations|>
+Celestial Armory: Lord Taldimut's armory that houses some of the finest weapons
+<|end_task_locations|>
+<|begin_rewards|>
+: the player's choice of artifacts from the Celestial Armory (amount: 1)
+<|end_rewards|>
+<|begin_locations|>
+Ossean Wastes: a desert (location: NONE)
+<|end_locations|>
+<|begin_items|>
+Armory Portal: a hidden portal to the Celestial Armory (amount: 1)
+<|end_items|>
+<|begin_groups|>
+Ezrohir: Lord Taldimut's enemies (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 It's good to see you again, my friend! I know that I promised you a greater reward, should you come to visit... but that was before I returned to the Ossean Wastes and found the Celestial Armory under siege by Ezrohir. What if I give you your choice of artifacts from the Armory? The Celestial Armory houses some of the finest weapons in the world! You have but to use the Golden Gear to get inside, then activate the Armory Portal, which will allow us to gather up the weapons and armor safely... with the Ezrohir none the wiser!

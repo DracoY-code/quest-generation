@@ -1,21 +1,29 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Tending the Flames
-Objective: become a member of the Bards College
-First Tasks: retrieve King Olaf's Verse
-First Task Locations: Dead Men's Respite - a tomb
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - Bards College membership (amount: 1)
-Characters: Jarl Elisif - the local ruler, a noblewoman (location: ), King Olaf - a long-dead king (location: )
-Tools: Jarl Elisif has forbidden the burning of King Olaf, a festival put on by the Bards College: to convince Jarl Elisif change her mind, Viarmo wants to read King Olaf's Verse
-Locations: Bards College - a college for bards (location: NONE), Skyrim - a realm (location: NONE)
-Items: King Olaf's Verse - a part of the Poetic Edda, the living history of Skyrim, a poem dealing with King Olaf (amount: 1)
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+become a member of the Bards College
+<|end_objective|>
+<|begin_tasks|>
+retrieve King Olaf's Verse
+<|end_tasks|>
+<|begin_quest_giver|>
+Viarmo: the welcoming headmaster of the Bards College
+<|end_quest_giver|>
+<|begin_task_locations|>
+Dead Men's Respite: a tomb
+<|end_task_locations|>
+<|begin_rewards|>
+: Bards College membership (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Jarl Elisif: the local ruler, a noblewoman (location: )
+King Olaf: a long-dead king (location: )
+<|end_characters|>
+<|begin_locations|>
+Bards College: a college for bards (location: NONE)
+Skyrim: a realm (location: NONE)
+<|end_locations|>
+<|begin_items|>
+King Olaf's Verse: a part of the Poetic Edda, the living history of Skyrim, a poem dealing with King Olaf (amount: 1)
+<|end_items|>
+<|end_quest|>
 Welcome to the Bards College. I am Viarmo, the headmaster here. Always a pleasure to meet a prospective bard. You should be aware that many apply but we accept very few people. When possible, we ask applicants to perform tasks the college needs completed. In this case, I do have a task befitting an aspiring bard... Jarl Elisif has forbidden the Burning of King Olaf, a Festival put on by the Bards College. We need to change her mind. To convince her I want to read King Olaf's Verse. A part of the Poetic Edda, the living history of Skyrim. Unfortunately the poem was lost long ago. According to our histories keeper, the portion of the Edda dealing with King Olaf might still exist in Dead Men's Respite. I need you to retrieve the poem.

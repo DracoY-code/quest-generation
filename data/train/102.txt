@@ -1,21 +1,25 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Mages Guild Suspension
-Objective: collect alchemy samples to regain your Mages Guild membership
-First Tasks: deliver 20 Dragon's Tongue and 20 Redwort to Raminus Polus
-First Task Locations: NONE - 
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - restored membership of the Mages Guild (amount: 1)
-Characters: NONE
-Tools: the player is an Associate of the Mages Guild, the player has been found guilty of theft: the player's Mages Guild privileges have been suspended
-Locations: NONE
-Items: Dragon's Tongue - flowers (amount: 20), Redwort - flowers (amount: 20)
-Enemies: NONE
-Groups: Mages Guild - a guild of mages
-Title: The Elder Scrolls IV: Oblivion
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+collect alchemy samples to regain your Mages Guild membership
+<|end_objective|>
+<|begin_tasks|>
+deliver 20 Dragon's Tongue and 20 Redwort to Raminus Polus
+<|end_tasks|>
+<|begin_quest_giver|>
+Raminus Polus: the player's superior in the Mages Guild
+<|end_quest_giver|>
+<|begin_task_locations|>
+NONE: 
+<|end_task_locations|>
+<|begin_rewards|>
+: restored membership of the Mages Guild (amount: 1)
+<|end_rewards|>
+<|begin_items|>
+Dragon's Tongue: flowers (amount: 20)
+Redwort: flowers (amount: 20)
+<|end_items|>
+<|begin_groups|>
+Mages Guild: a guild of mages (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 It is unfortunate that we should meet under these circumstances, Associate. You have been found guilty of theft. As such, your guild privileges have been suspended. If you wish to be reinstated, you must perform a service for the guild. Are you willing to do so? Make no mistake: this task is simple, but has a purpose. In selflessly serving the guild, at risk to yourself, while putting your own feelings aside, you prove your devotion to the cause. You will help replenish alchemical supplies for the guild. Deliver 20 Dragon's Tongue flowers, and 20 Redwort flowers to me. Surprised? Annoyed? It is not unexpected. Nevertheless, that is your path to re-acceptance in the guild.

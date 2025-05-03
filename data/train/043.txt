@@ -1,21 +1,36 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Taking Care of Lex
-Objective: get Hieronymus Lex reassigned as the captain of the guard in Anvil
-First Tasks: steal the list of guard captain candidates from Dairihill's desk, find a forger to make a forgery of the candidate list, sneak into the Legion Commander's office and seal the forged letter with his seal, deliver the letter to Lady Umbranox in person
-First Task Locations: Anvil - a city, Imperial City Prison - a prison, NONE - 
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - the player's payment will be higher than normal to cover the expense of the forgery (amount: 1)
-Characters: Gray Fox - the guildmaster of the Thieves Guild (location: ), Hieronymus Lex - a guard who has made things difficult for the Thieves Guild (location: ), Lady Umbranox - a noblewoman ruling over Anvil, an Umbranox (location: Anvil), Dairihill - Lady Umbranox's dishonest steward (location: Anvil)
-Tools: the Gray Fox has asked that the player does this personally, as this is a delicate matter, Lady Umbranox is looking for a new guard captain: the Legion Commander of the Imperial Watch sent her a list of guard captain candidates, Dairihill lied to Lady Umbranox, telling her that the list has yet to arrive, the Gray Fox has extended his protection to the Umbranox family and Lady Umbranox in particular: Hieronymus Lex's unwavering loyalty and resolve make him the perfect protector for Lady Umbranox
-Locations: Bravil - a city (location: NONE)
-Items: NONE
-Enemies: NONE
-Groups: Thieves Guild - a guild of thieves, Umbranox - a noble family
-Title: The Elder Scrolls IV: Oblivion
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+get Hieronymus Lex reassigned as the captain of the guard in Anvil
+<|end_objective|>
+<|begin_tasks|>
+steal the list of guard captain candidates from Dairihill's desk
+find a forger to make a forgery of the candidate list
+sneak into the Legion Commander's office and seal the forged letter with his seal
+deliver the letter to Lady Umbranox in person
+<|end_tasks|>
+<|begin_quest_giver|>
+S'Krivva: the player's superior in the Thieves Guild
+<|end_quest_giver|>
+<|begin_task_locations|>
+Anvil: a city
+Imperial City Prison: a prison
+NONE: 
+<|end_task_locations|>
+<|begin_rewards|>
+: the player's payment will be higher than normal to cover the expense of the forgery (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Gray Fox: the guildmaster of the Thieves Guild (location: )
+Hieronymus Lex: a guard who has made things difficult for the Thieves Guild (location: )
+Lady Umbranox: a noblewoman ruling over Anvil, an Umbranox (location: Anvil)
+Dairihill: Lady Umbranox's dishonest steward (location: Anvil)
+<|end_characters|>
+<|begin_locations|>
+Bravil: a city (location: NONE)
+<|end_locations|>
+<|begin_groups|>
+Thieves Guild: a guild of thieves (amount: NONE)
+Umbranox: a noble family (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 S'Krivva gives you greeting. Hieronymus Lex must be eliminated once and for all. The Gray Fox has asked that you do this personally. It is a most delicate matter. Lady Umbranox of Anvil, is hunting for a new captain of her guard. The Legion Commander of the Imperial Watch sent her a list of candidates. The Gray Fox wants this list replaced with one that highly recommends Hieronymus Lex. From Anvil he can do little harm to the guild. The letter carrying the list is currently in steward Dairihill's desk. She has lied to Lady Umbranox, telling her that the letter has yet to arrive. For reasons unknown to this one, the Gray Fox has extended his protection to the Umbranox family and Lady Umbranox in particular. While Lex is a problem for the guild, his unwavering loyalty and resolve make him the perfect protector for Lady Umbranox. You will have to track down a forger on your own. I don't know of any in Bravil. With the forged letter in hand, sneak into the Legion Commander's office in the Imperial City Prison and seal it with his seal. Dairihill cannot be trusted. You must deliver the letter to Lady Umbranox in person. Remember, this is a mission of stealth, not blood. Your payment will be higher than normal to cover the expense of the forgery.

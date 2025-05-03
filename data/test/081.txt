@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Jondal's Murder
-Objective: avenge Jondal for Kryla
-First Tasks: kill the werewolves that killed Jondal
-First Task Locations:  - this way
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Jondal - Kryla's dead man (location: )
-Tools: NONE
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Baldur's Gate
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+avenge Jondal for Kryla
+<|end_objective|>
+<|begin_tasks|>
+kill the werewolves that killed Jondal
+<|end_tasks|>
+<|begin_quest_giver|>
+Kryla: a frightened woman
+<|end_quest_giver|>
+<|begin_task_locations|>
+: this way
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Jondal: Kryla's dead man (location: )
+<|end_characters|>
+<|end_quest|>
 Oh, please help me! I'm Kryla. They kill poor Jondal. The wolf-men. They attack us as we search for roots in the forest. Please avenge my Jondal. He was so young... They are this way. Please kill them, I am so frightened.

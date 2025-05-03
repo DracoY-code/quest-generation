@@ -1,21 +1,27 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Connecting the Dots
-Objective: bring Inkspot's map to Mapmaker, and return to Inkspot
-First Tasks: find Mapmaker
-First Task Locations: Rivermouth - a village
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - a little something (amount: 1)
-Characters: Mapmaker - a male cartographer (location: Rivermouth)
-Tools: NONE
-Locations: Desert Refuge - a village (location: NONE)
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Minecraft
-Motivation: knowledge
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+bring Inkspot's map to Mapmaker, and return to Inkspot
+<|end_objective|>
+<|begin_tasks|>
+find Mapmaker
+<|end_tasks|>
+<|begin_quest_giver|>
+Inkspot: a cartographer
+<|end_quest_giver|>
+<|begin_task_locations|>
+Rivermouth: a village
+<|end_task_locations|>
+<|begin_rewards|>
+: a little something (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Mapmaker: a male cartographer (location: Rivermouth)
+<|end_characters|>
+<|begin_locations|>
+Desert Refuge: a village (location: NONE)
+<|end_locations|>
+<|begin_motivation|>
+knowledge
+<|end_motivation|>
+<|end_quest|>
 Oh my! I'm supposed to deliver a map of mine to one of my colleagues in another village, but I just can't ever spare the time You seen to have a lot of time on your hands. Could you please deliver my map to Mapmaker in Rivermouth? He'd be grateful to you; he has wanted to examine this particular map for a long time. Upon your return, I'd give you a little something for your help.

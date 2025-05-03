@@ -1,21 +1,28 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Purity
-Objective: handle Vilkas' personal troubles
-First Tasks: help Vilkas give up his beastblood
-First Task Locations: Tomb of Ysgramor - a tomb where lycanthropy can be cured
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Kodlak - the dead male leader of the Companions (location: )
-Tools: Kodlak's final teaching: those with beastblood cannot enter Sovngarde, the player has a head of the Glenmoril that is needed to cure lycanthropy
-Locations: Sovngarde - the storied underworld of honorable heroes (location: NONE)
-Items: NONE
-Enemies: NONE
-Groups: Companions - a band of honorable warriors, Glenmoril - a coven of witches who cursed the Companions with lycanthropy
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+handle Vilkas' personal troubles
+<|end_objective|>
+<|begin_tasks|>
+help Vilkas give up his beastblood
+<|end_tasks|>
+<|begin_quest_giver|>
+Vilkas: a fellow member of the Companions, and a werewolf
+<|end_quest_giver|>
+<|begin_task_locations|>
+Tomb of Ysgramor: a tomb where lycanthropy can be cured
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Kodlak: the dead male leader of the Companions (location: )
+<|end_characters|>
+<|begin_locations|>
+Sovngarde: the storied underworld of honorable heroes (location: NONE)
+<|end_locations|>
+<|begin_groups|>
+Companions: a band of honorable warriors (amount: NONE)
+Glenmoril: a coven of witches who cursed the Companions with lycanthropy (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 There is always work for the Companions. But there is more personal task before me. Kodlak's final teaching is troubling me. I think he was right about beastblood and Sovngarde. I wish to cleanse myself that I might know glory in the afterlife. Will you help me give up my beasthood? You still bear a head of the Glenmoril betrayers, yes? Then lead on, back to the Tomb of Ysgramor. My soul is now prepared.

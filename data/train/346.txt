@@ -1,21 +1,27 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Kyne's Sacred Trials
-Objective: participate in Kyne's Sacred Trials by hunting the guardian beasts blessed by Kyne
-First Tasks: defeat the guardian wolf, crab and skeever and return to Froki
-First Task Locations: NONE - 
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - Kyne's blessing (amount: 1)
-Characters: Kyne - the ancient goddess of humankind and beasts, who teaches us to respect the beasts (location: )
-Tools: Froki thinks that the Divines are impostor gods, Froki gives the player the symbol of the wolf, the crab and the skeever: this will compel the guardian to appear when the player reaches the guardian's lair
-Locations: NONE
-Items: Kyne's Sacred Trials - an ancient tradition, and a test to prove yourself to Kyne (amount: 1)
-Enemies: NONE
-Groups: Divines - a pantheon of gods who replaced the ancient gods
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+participate in Kyne's Sacred Trials by hunting the guardian beasts blessed by Kyne
+<|end_objective|>
+<|begin_tasks|>
+defeat the guardian wolf, crab and skeever and return to Froki
+<|end_tasks|>
+<|begin_quest_giver|>
+Froki: a worshiper of Kyne
+<|end_quest_giver|>
+<|begin_task_locations|>
+NONE: 
+<|end_task_locations|>
+<|begin_rewards|>
+: Kyne's blessing (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Kyne: the ancient goddess of humankind and beasts, who teaches us to respect the beasts (location: )
+<|end_characters|>
+<|begin_items|>
+Kyne's Sacred Trials: an ancient tradition, and a test to prove yourself to Kyne (amount: 1)
+<|end_items|>
+<|begin_groups|>
+Divines: a pantheon of gods who replaced the ancient gods (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 The Divines are stolen idols! Impostor gods, sold by silver tongues. No thank you. Froki will not forget Kyne, or her Sacred Trials. Kyne's Sacred Trials is an old tradition, a test to prove your worth in the eyes of Kyne. Show that you're a hunter and no simple butcher. Kyne teaches us to respect the beasts and blesses the hunter who will face their champions. True hunters are those who survive the Trials. Do you think you're strong enough for Kyne's blessing? I would be glad to pass this tradition down. You must defeat guardian beasts, blessed by Kyne. I'll anoint you with the symbol of the wolf, the crab and the skeever. This will compel the guardian to appear when you reach his lair. Return when you've defeated the guardian wolf, crab and skeever.

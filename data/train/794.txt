@@ -1,21 +1,18 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Dryad of the Cloud Peaks
-Objective: save Dryad of the Cloud Peaks' ancient oak from dying
-First Tasks: stop a pair of people from attacking Dryad of the Cloud Peaks' ancient oak
-First Task Locations: NONE - 
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - a potion (amount: 1)
-Characters: NONE
-Tools: Dryad of the Cloud Peaks dies if her ancient oak dies
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Baldur's Gate
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+save Dryad of the Cloud Peaks' ancient oak from dying
+<|end_objective|>
+<|begin_tasks|>
+stop a pair of people from attacking Dryad of the Cloud Peaks' ancient oak
+<|end_tasks|>
+<|begin_quest_giver|>
+Dryad of the Cloud Peaks: a distressed dryad
+<|end_quest_giver|>
+<|begin_task_locations|>
+NONE: 
+<|end_task_locations|>
+<|begin_rewards|>
+: a potion (amount: 1)
+<|end_rewards|>
+<|end_quest|>
 Please, kind spirits, a wondrous ancient oak is in peril. It is the tree to which I am bonded! If it dies, I, Dryad of the Cloud Peaks, die. It is about to be attacked by two who would defile the majesty of nature. They have avoided my charms and must be stopped before irreparable harm is done. Would you heed my plea? There is a potion that might help you on your journeys.

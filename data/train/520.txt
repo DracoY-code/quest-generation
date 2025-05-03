@@ -1,21 +1,18 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Get Outfitted
-Objective: get a free set of armor
-First Tasks: select light, medium, or heavy armor
-First Task Locations: NONE - 
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - armor (amount: 1)
-Characters: NONE
-Tools: the player came for their free armor, the player only gets one free outfit
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+get a free set of armor
+<|end_objective|>
+<|begin_tasks|>
+select light, medium, or heavy armor
+<|end_tasks|>
+<|begin_quest_giver|>
+Beirand: an army blacksmith
+<|end_quest_giver|>
+<|begin_task_locations|>
+NONE: 
+<|end_task_locations|>
+<|begin_rewards|>
+: armor (amount: 1)
+<|end_rewards|>
+<|end_quest|>
 I have just one question for you. Light, medium, or heavy? Light armor for scouting detail, heavy armor for full on combat, or something in between? Now, that'll be it. One free outfit per soldier. You lose that, or get it banged up, you'll need to pay like everyone else.

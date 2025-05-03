@@ -1,21 +1,37 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: A Matter of Honor
-Objective: assassinate Alval Uvani
-First Tasks: locate Alval Uvani with a schedule included in this dead drop
-First Task Locations: NONE - 
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - the player should find Stonewall Shields: there is a dead drop behind that building in a hollowed-out tree stump containing the player's reward for the previous contract and the player's next contract (amount: 1)
-Characters: Alval Uvani - a traveling male Dunmer merchant skilled in Destruction spells, a native of Morrowind (location: Cyrodiil), Shaleez - a dead woman (location: )
-Tools: the note is addressed toward the player: the player is the Silence of the Dark Brotherhood, the player assassinated Shaleez for Lucien Lachance, Alval Uvani is renting a house in Leyawiin, Alval Uvani's wife hired the Dark Brotherhood to kill her husband: the Morag Tong of Morrowind can't reach Alval Uvani in Cyrodiil, Alval Uvani suffers from a rare Dunmer condition, a serious allergy to honey: he would suffer from complete paralyzation after drinking honey-based mead
-Locations: Cyrodiil - a province (location: NONE), Morrowind - a province far away from Cyrodiil (location: NONE), Stonewall Shields - a shop in the Market District of the Imperial City (location: NONE), Imperial City - a large city (location: NONE), Leyawiin - a city (location: NONE)
-Items: "Dead Drop Orders #5" - a note (amount: 1)
-Enemies: NONE
-Groups: Dark Brotherhood - a guild of assassins operating in Cyrodiil, Morag Tong - a guild of assassins operating in Morrowind, Dunmer - dark elves
-Title: The Elder Scrolls IV: Oblivion
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+assassinate Alval Uvani
+<|end_objective|>
+<|begin_tasks|>
+locate Alval Uvani with a schedule included in this dead drop
+<|end_tasks|>
+<|begin_quest_giver|>
+Lucien Lachance: the player's superior in the Dark Brotherhood, giving quest via "Dead Drop Orders #5"
+<|end_quest_giver|>
+<|begin_task_locations|>
+NONE: 
+<|end_task_locations|>
+<|begin_rewards|>
+: the player should find Stonewall Shields: there is a dead drop behind that building in a hollowed-out tree stump containing the player's reward for the previous contract and the player's next contract (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Alval Uvani: a traveling male Dunmer merchant skilled in Destruction spells, a native of Morrowind (location: Cyrodiil)
+Shaleez: a dead woman (location: )
+<|end_characters|>
+<|begin_locations|>
+Cyrodiil: a province (location: NONE)
+Morrowind: a province far away from Cyrodiil (location: NONE)
+Stonewall Shields: a shop in the Market District of the Imperial City (location: NONE)
+Imperial City: a large city (location: NONE)
+Leyawiin: a city (location: NONE)
+<|end_locations|>
+<|begin_items|>
+"Dead Drop Orders #5": a note (amount: 1)
+<|end_items|>
+<|begin_groups|>
+Dark Brotherhood: a guild of assassins operating in Cyrodiil (amount: NONE)
+Morag Tong: a guild of assassins operating in Morrowind (amount: NONE)
+Dunmer: dark elves (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 Dead Drop Orders #5 by Lucien Lachance  If you're reading this note, Shaleez is dead. You've done the world a great service, Silencer. It's time to continue the good work. Your next target is a traveling Dark Elf merchant by the name of Alval Uvani, who is currently renting a house in the city of Leyawiin. Uvani is a well-respected tradesman back in his native Morrowind, but his business often takes him very far from home. Therein lies the problem. Alval Uvani's wife has become disillusioned with her husband's repeated, extended absences and wishes to dissolve their marriage, and has sought the Dark Brotherhood's assistance. Lucky for us Cyrodiil is a bit beyond the reach of Morrowind's Morag Tong. Alval Uvani is currently traveling around Cyrodiil, and is never in one place for more than a couple of days. In this dead drop you will also find a schedule detailing the Dark Elf's whereabouts; use it to locate him and plan your elimination. Be aware, however, that because he is forced to travel alone to the farthest reaches of the Empire, Uvani has learned to defend himself. He is a master of the Destruction school of Magicka, and is no stranger to killing. When Alval Uvani lies rotting, journey to the Market District of the Imperial City. There you will find a shop called Stonewall Shields. Your dead drop is located behind that building, in a hollowed-out tree stump. As usual, you will find your reward for the previous contract, as well as information on your next. Ah yes, I must mention one last detail. Apparently Alval Uvani suffers from a rare Dark Elf condition, a serious allergy to honey. If you could somehow get Uvani to drink the honey-based mead, perhaps by replacing his food, he would suffer from complete paralyzation. This would certainly make the Dark Elf a bit easier to deal with.

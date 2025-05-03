@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Claiming the Sphere
-Objective: accept Teos' special deal
-First Tasks: do tasks for the Cowled Wizards
-First Task Locations: NONE - 
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - the ownership of the awkwardly placed sphere-like building (amount: 1)
-Characters: NONE
-Tools: the player recently assumed the ownership of the sphere-like building: by all rights, the Cowled Wizards should have the sphere, the Cowled Wizards let the player operate as a wizard in the sphere if the player agrees to do tasks for them
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: Cowled Wizards - an organization of wizards who regulate magic usage
-Title: Baldur's Gate II: Shadows of Amn
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+accept Teos' special deal
+<|end_objective|>
+<|begin_tasks|>
+do tasks for the Cowled Wizards
+<|end_tasks|>
+<|begin_quest_giver|>
+Teos: a Cowled Wizard
+<|end_quest_giver|>
+<|begin_task_locations|>
+NONE: 
+<|end_task_locations|>
+<|begin_rewards|>
+: the ownership of the awkwardly placed sphere-like building (amount: 1)
+<|end_rewards|>
+<|begin_groups|>
+Cowled Wizards: an organization of wizards who regulate magic usage (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 I am Teos, a Cowled Wizard, and I have been assigned to offer you... a special deal. You just recently took this sphere, and by all rights we should have it, but my superiors said to offer an alternative. It would seem we have need of you. That said, they would like to offer an exchange. You may operate in this awkwardly placed sphere if you agree to certain duties for the Cowled Wizards. It is simple: You may have this place and act freely as a wizard. In exchange, you do the odd task for us, acting when we can't because of political or other reasons.

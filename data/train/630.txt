@@ -1,21 +1,18 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: G'axir the Seer
-Objective: bring a sphene gem to G'axir the Seer
-First Tasks: find a sphene gem
-First Task Locations:  - the lair of the basilisk
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: NONE
-Tools: NONE
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Baldur's Gate
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+bring a sphene gem to G'axir the Seer
+<|end_objective|>
+<|begin_tasks|>
+find a sphene gem
+<|end_tasks|>
+<|begin_quest_giver|>
+G'axir the Seer: a seer
+<|end_quest_giver|>
+<|begin_task_locations|>
+: the lair of the basilisk
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|end_quest|>
 Your future... is hemmed in darkness. Your lives... are in the balance. Act wisely, act judiciously... and bring me the sphene gem, should you find it... You... are a light entering darkness. You... are a seeker of truths. You... are more than you realize. The Seer has spoken it because the Seer knows the fear you harbor, the fear you shall yet become. In the lair of the basilisk, you will find a sphene gem... You would do well to bring it to the Seer.

@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Find out how Becky can sell her booze for such low prices
-Objective: Investigate how Becky is able to sell her alcohol at unusually low prices.
-First Tasks: Talk to Becky about her business., Gather information on her supply chain and possible sources., Investigate possible smuggling operations or hidden suppliers.
-First Task Locations: The Den - A lawless settlement where Becky runs her bar.
-Quest Giver: NONE - NONE (location: NONE)
-Reward: Caps - A monetary reward from Frankie for uncovering the truth. (amount: 100), Access to cheaper alcohol - Becky may offer discounts depending on how you handle the situation. (amount: NONE)
-Characters: NONE
-Tools: Persuasion or Barter skill to gather information., Sneaking ability if investigating illicit sources.
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Fallout 2
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+Investigate how Becky is able to sell her alcohol at unusually low prices.
+<|end_objective|>
+<|begin_tasks|>
+Talk to Becky about her business.
+Gather information on her supply chain and possible sources.
+Investigate possible smuggling operations or hidden suppliers.
+<|end_tasks|>
+<|begin_quest_giver|>
+Frankie: A rival bar owner who is suspicious of Becky’s business practices.
+<|end_quest_giver|>
+<|begin_task_locations|>
+The Den: A lawless settlement where Becky runs her bar.
+<|end_task_locations|>
+<|begin_rewards|>
+Caps: A monetary reward from Frankie for uncovering the truth. (amount: 100)
+Access to cheaper alcohol: Becky may offer discounts depending on how you handle the situation. (amount: NONE)
+<|end_rewards|>
+<|end_quest|>
 Frankie is suspicious of Becky’s ability to sell alcohol at low prices. Your job is to investigate and uncover the secret behind her business.

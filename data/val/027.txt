@@ -1,21 +1,27 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Weather the Storm
-Objective: protect Whiterun from the Stormcloak invasion
-First Tasks: go with Legate Rikke
-First Task Locations: Whiterun - a city in Skyrim
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Ulfric - the man who leads the Stormcloaks (location: )
-Tools: Legate Rikke is addressing the player and the player's fellow legionnaires: the Imperial legion will send a message to Ulfric and the rebel Jarls who support him
-Locations: Skyrim - a province of the Empire (location: NONE)
-Items: NONE
-Enemies: NONE
-Groups: Stormcloaks - rebel forces opposing the Empire in Skyrim
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+protect Whiterun from the Stormcloak invasion
+<|end_objective|>
+<|begin_tasks|>
+go with Legate Rikke
+<|end_tasks|>
+<|begin_quest_giver|>
+Legate Rikke: the player's commanding officer in the Imperial Legion
+<|end_quest_giver|>
+<|begin_task_locations|>
+Whiterun: a city in Skyrim
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Ulfric: the man who leads the Stormcloaks (location: )
+<|end_characters|>
+<|begin_locations|>
+Skyrim: a province of the Empire (location: NONE)
+<|end_locations|>
+<|begin_groups|>
+Stormcloaks: rebel forces opposing the Empire in Skyrim (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 This is it men! This is an important day for the Empire and for the Legion. And for all of Skyrim. This is the day we send a message to Ulfric and the rebel Jarls who support him. We will protect Whiterun from Stormcloaks. But make no mistake. What we do here today, we do for Skyrim and her people. By cutting out the disease of this rebellion, we will make this country whole again! Ready now! Everyone, with me! For the Empire! For the Legion!

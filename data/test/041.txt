@@ -1,21 +1,18 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Risk and Reward
-Objective: meet Duros the Blade in Zeryphesh
-First Tasks: see if your luck holds out
-First Task Locations: Zeryphesh - a town
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: NONE
-Tools: the player saved Duros the Blade from imprisonment
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Torchlight II
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+meet Duros the Blade in Zeryphesh
+<|end_objective|>
+<|begin_tasks|>
+see if your luck holds out
+<|end_tasks|>
+<|begin_quest_giver|>
+Duros the Blade: a gambler from Zeryphesh
+<|end_quest_giver|>
+<|begin_task_locations|>
+Zeryphesh: a town
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|end_quest|>
 Finally saved! Thank you! You look like a person who likes risk! I'm heading back to town now. Meet me there and see if your luck holds out!

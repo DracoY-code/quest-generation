@@ -1,21 +1,25 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Heartfire
-Objective: recover the Heartfire Stone for yourself
-First Tasks: claim the key to Vyrax's Tower
-First Task Locations: Forgotten Halls - an ancient dungeon
-Quest Giver: NONE - NONE (location: NONE)
-Reward: Heartfire Stone - a rare and powerful artifact the confers to its wielder the power of dragonfire (amount: 1)
-Characters: Vyrax - an ancient dragon who has hoarded treasure (location: Vyrax's Tower)
-Tools: NONE
-Locations:  - Vyrax's Tower, a tower in Rivenskull Gorge (location: NONE), Rivenskull Gorge - a region (location: NONE)
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Torchlight II
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+recover the Heartfire Stone for yourself
+<|end_objective|>
+<|begin_tasks|>
+claim the key to Vyrax's Tower
+<|end_tasks|>
+<|begin_quest_giver|>
+Cam: a researcher the player has helped before
+<|end_quest_giver|>
+<|begin_task_locations|>
+Forgotten Halls: an ancient dungeon
+<|end_task_locations|>
+<|begin_rewards|>
+Heartfire Stone: a rare and powerful artifact the confers to its wielder the power of dragonfire (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Vyrax: an ancient dragon who has hoarded treasure (location: Vyrax's Tower)
+<|end_characters|>
+<|begin_locations|>
+: Vyrax's Tower, a tower in Rivenskull Gorge (location: NONE)
+Rivenskull Gorge: a region (location: NONE)
+<|end_locations|>
+<|end_quest|>
 Hello again! I think I may be able to repay the favor you've done for us. I've been doing some research, and have uncovered some interesting information about Vyrax, the ancient dragon who still dwells in the tower in Rivenskull Gorge. The interesting bit is this - Vyrax has amidst his hoard a Heartfire Stone, which confers to its wielder the power of dragonfire. It is a rare and powerful artifact that would surely aid you. If you wish to find the Heartfire Stone, you will need to first claim the key to Vyrax's Tower, in the depths of the Forgotten Halls. Good luck!

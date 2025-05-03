@@ -1,21 +1,24 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Elytra Air Show
-Objective: complete Alex's Elytra obstacle course
-First Tasks: talk to Alex when you are ready
-First Task Locations: NONE - 
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - cool prizes for good performances (amount: 1)
-Characters: NONE
-Tools: the player has an Elytra
-Locations: NONE
-Items: Elytra - wings that let the player fly (amount: 1)
-Enemies: NONE
-Groups: NONE
-Title: Minecraft
-Motivation: reputation
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+complete Alex's Elytra obstacle course
+<|end_objective|>
+<|begin_tasks|>
+talk to Alex when you are ready
+<|end_tasks|>
+<|begin_quest_giver|>
+Alex: an Elytra lover
+<|end_quest_giver|>
+<|begin_task_locations|>
+NONE: 
+<|end_task_locations|>
+<|begin_rewards|>
+: cool prizes for good performances (amount: 1)
+<|end_rewards|>
+<|begin_items|>
+Elytra: wings that let the player fly (amount: 1)
+<|end_items|>
+<|begin_motivation|>
+reputation
+<|end_motivation|>
+<|end_quest|>
 You've got a nice pair of wings on you. Would you care to try my Elytra obstacle course? Villagers might enjoy to see you fly. Perhaps they'd even want to try my course after seeing you go through it. Just talk to me when you are ready. Good performances are awarded with cool prizes!

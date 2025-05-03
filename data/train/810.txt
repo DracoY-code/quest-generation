@@ -1,21 +1,26 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: The Corrupted Guardian
-Objective: prevent the Alchemist from corrupting and controlling all the world's magic
-First Tasks: free the Guardian of Mana from Ezrohir's control
-First Task Locations: NONE - 
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - the player will thwart the Alchemist's plans (amount: 1)
-Characters: Artificer - an evil man allied with the Alchemist (location: ), Alchemist - an evil man, the player's enemy (location: ), Guardian of Mana - a good spirit that controls all magic (location: )
-Tools: the player defeated the Artificer in the Vaults: he enslaved the Guardian of Mana for the Alchemist
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: Ezrohir - the Alchemist's minions
-Title: Torchlight II
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+prevent the Alchemist from corrupting and controlling all the world's magic
+<|end_objective|>
+<|begin_tasks|>
+free the Guardian of Mana from Ezrohir's control
+<|end_tasks|>
+<|begin_quest_giver|>
+: the player's ally
+<|end_quest_giver|>
+<|begin_task_locations|>
+NONE: 
+<|end_task_locations|>
+<|begin_rewards|>
+: the player will thwart the Alchemist's plans (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Artificer: an evil man allied with the Alchemist (location: )
+Alchemist: an evil man, the player's enemy (location: )
+Guardian of Mana: a good spirit that controls all magic (location: )
+<|end_characters|>
+<|begin_groups|>
+Ezrohir: the Alchemist's minions (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 We must act quickly. It appears that the Artificer you defeated in the Vaults has enslaved the Guardian of Mana for the enemy. The most pressing danger is that they will use the enslaved Guardian to corrupt... and control... all the world's magic. Our only recourse in that event may be to destroy the Guardian. There might still be hope. If we can find a way to free the Guardian from Ezrohir's control, we can thwart the Alchemist's plans.

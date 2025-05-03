@@ -1,21 +1,24 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Mirianne's Husband
-Objective: tell Mirianne whether you found information about Roe or not
-First Tasks: find information about Roe
-First Task Locations:  - the southern roads
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Roe - Mirianne's husband (location: )
-Tools: Roe went on a business trip to Amn
-Locations: Amn - a country (location: NONE)
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Baldur's Gate
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+tell Mirianne whether you found information about Roe or not
+<|end_objective|>
+<|begin_tasks|>
+find information about Roe
+<|end_tasks|>
+<|begin_quest_giver|>
+Mirianne: a concerned wife
+<|end_quest_giver|>
+<|begin_task_locations|>
+: the southern roads
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Roe: Mirianne's husband (location: )
+<|end_characters|>
+<|begin_locations|>
+Amn: a country (location: NONE)
+<|end_locations|>
+<|end_quest|>
 My husband had to make a sudden business trip to Amn and I'm so worried for him. "Mirianne," he always said, "Mirianne, who knows the road better than old Roe?" But the highways just aren't as safe as they once were and there hasn't been a messenger from Amn here in months. Could you keep your eyes open along the southern roads and let me know if you find anything?

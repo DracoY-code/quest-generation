@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Hidden Costs
-Objective: bring enchanting tools to Baldrick the Enchanter
-First Tasks: search Path of the Honored Dead for a Beornen
-First Task Locations: Path of the Honored Dead - a pass
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - the player's first enchantment, free of charge (amount: 1)
-Characters: Beornen - a male bear-mage with enchanting tools (location: Path of the Honored Dead)
-Tools: Baldrick the Enchanter can't enchant anything without enchanting tools
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Torchlight II
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+bring enchanting tools to Baldrick the Enchanter
+<|end_objective|>
+<|begin_tasks|>
+search Path of the Honored Dead for a Beornen
+<|end_tasks|>
+<|begin_quest_giver|>
+Baldrick the Enchanter: a mage who sells enchantments
+<|end_quest_giver|>
+<|begin_task_locations|>
+Path of the Honored Dead: a pass
+<|end_task_locations|>
+<|begin_rewards|>
+: the player's first enchantment, free of charge (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Beornen: a male bear-mage with enchanting tools (location: Path of the Honored Dead)
+<|end_characters|>
+<|end_quest|>
 Welcome! Welcome, my friend. I have numerous enchantments available... weapons, armor, trinkets, and the like. Or, rather, I would, if I hadn't lost my enchantment kit! Maybe you can help me. I've heard there's a Beornen shaman or something out in the Path of the Honored Dead, who has the kind of enchanting tools I need. If you could locate this bear-mage and acquire those tools, I would happily give you your first enchantment, free of charge!

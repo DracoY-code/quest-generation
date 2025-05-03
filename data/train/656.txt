@@ -1,21 +1,24 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Samuel the Deserter
-Objective: capture Samuel
-First Tasks: find Samuel
-First Task Locations: NONE - 
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - gold (amount: 50)
-Characters: Samuel - a man who deserted the Flaming Fist (location: )
-Tools: Samuel is traveling with a woman
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: Flaming Fist - a mercenary organization promoting order and law
-Title: Baldur's Gate
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+capture Samuel
+<|end_objective|>
+<|begin_tasks|>
+find Samuel
+<|end_tasks|>
+<|begin_quest_giver|>
+: a member of the Flaming Fist
+<|end_quest_giver|>
+<|begin_task_locations|>
+NONE: 
+<|end_task_locations|>
+<|begin_rewards|>
+: gold (amount: 50)
+<|end_rewards|>
+<|begin_characters|>
+Samuel: a man who deserted the Flaming Fist (location: )
+<|end_characters|>
+<|begin_groups|>
+Flaming Fist: a mercenary organization promoting order and law (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 I am a proud member of the Flaming Fist. I've been searching for a deserter. His name is Samuel, and he should be traveling with a woman. There is a bounty of 50 gold for his capture.

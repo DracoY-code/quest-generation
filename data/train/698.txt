@@ -1,21 +1,20 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Retrieve Parts/Gain Access to Vault 15
-Objective: Acquire the necessary parts from Vault 15 or negotiate access with the squatters.
-First Tasks: Travel to Vault 15 and locate the squatters., Find a way to gain access—through negotiation, force, or alternative means.
-First Task Locations: Vault 15 - A ruined Vault now occupied by squatters, who control access to its resources.
-Quest Giver: NONE - NONE (location: NONE)
-Reward: Experience Points - Earn XP for resolving the situation and gaining access to Vault 15. (amount: NONE), Potential NCR Favor - Completing the quest may improve relations with the NCR. (amount: NONE)
-Characters: NONE
-Tools: Speech skills for negotiation with the squatters., Lockpicking skills to bypass security if necessary., Combat readiness in case of hostile resistance.
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Fallout 2
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+Acquire the necessary parts from Vault 15 or negotiate access with the squatters.
+<|end_objective|>
+<|begin_tasks|>
+Travel to Vault 15 and locate the squatters.
+Find a way to gain access—through negotiation, force, or alternative means.
+<|end_tasks|>
+<|begin_quest_giver|>
+Tandi: The President of NCR who seeks access to Vault 15 for expansion purposes.
+<|end_quest_giver|>
+<|begin_task_locations|>
+Vault 15: A ruined Vault now occupied by squatters, who control access to its resources.
+<|end_task_locations|>
+<|begin_rewards|>
+Experience Points: Earn XP for resolving the situation and gaining access to Vault 15. (amount: NONE)
+Potential NCR Favor: Completing the quest may improve relations with the NCR. (amount: NONE)
+<|end_rewards|>
+<|end_quest|>
 Vault 15 is under the control of squatters who are unwilling to give access freely. Tandi of the NCR wants access to its technology and resources. You must decide how to approach the situation—whether through diplomacy, stealth, or force—to retrieve the necessary parts and open the Vault.

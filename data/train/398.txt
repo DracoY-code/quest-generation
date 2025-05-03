@@ -1,21 +1,22 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Brielbara's Baby
-Objective: bring Yago's spellbook to Brielbara
-First Tasks: steal Yago's spellbook
-First Task Locations: Low Lantern - a ship filled with prostitutes
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - gold (amount: 200)
-Characters: Yago - an evil male mage (location: Low Lantern), Namara - a baby and Brielbara's only daughter (location: )
-Tools: Yago has cursed Namara: Brielbara can undo the curse with Yago's spellbook
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Baldur's Gate
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+bring Yago's spellbook to Brielbara
+<|end_objective|>
+<|begin_tasks|>
+steal Yago's spellbook
+<|end_tasks|>
+<|begin_quest_giver|>
+Brielbara: a female mage of minor power
+<|end_quest_giver|>
+<|begin_task_locations|>
+Low Lantern: a ship filled with prostitutes
+<|end_task_locations|>
+<|begin_rewards|>
+: gold (amount: 200)
+<|end_rewards|>
+<|begin_characters|>
+Yago: an evil male mage (location: Low Lantern)
+Namara: a baby and Brielbara's only daughter (location: )
+<|end_characters|>
+<|end_quest|>
 Travelers! I am Brielbara, a mage of minor power. I'll pay you 200 gold, not much for heroic adventurers, but all that I have. An evil mage has laid a curse upon my only child, Namara. She is slowly wasting away and, without help, she'll die. The mage who did this is named Yago, and I'm sure that he possesses the remedy to the curse. Would you track him down for me, please? He's been staying at a place called the Low Lantern. It's the playground for the wicked and depraved, a ship where prostitutes ply their trade. All I want you to do is find him and take his spellbook. I have enough magical skill to reverse the curse if I had the formula for his spell.

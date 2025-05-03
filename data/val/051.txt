@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Ice Cold
-Objective: bring five ice wraith teeth to Marise Aravel
-First Tasks: find five ice wraith teeth
-First Task Locations: Ancient's Ascent - a dragon lair
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: NONE
-Tools: the player asked Marise Aravel how she keeps the food she sells so fresh
-Locations: NONE
-Items:  - ice wraith teeth (amount: 5)
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+bring five ice wraith teeth to Marise Aravel
+<|end_objective|>
+<|begin_tasks|>
+find five ice wraith teeth
+<|end_tasks|>
+<|begin_quest_giver|>
+Marise Aravel: a food vendor
+<|end_quest_giver|>
+<|begin_task_locations|>
+Ancient's Ascent: a dragon lair
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_items|>
+: ice wraith teeth (amount: 5)
+<|end_items|>
+<|end_quest|>
 I picked up a trick from a master butcher. He showed me a way to grind up ice wraith teeth and use it as a preservative. Keeps everything cold and fresh, but only for a limited time. I'm always looking to replenish my supply, so if you ever come across five of them, I'd be more than happy to take them off your hands. The last traveler that traded me some said he found them at a place called Ancient's Ascent. Careful though, rumor has it a dragon makes its home there.

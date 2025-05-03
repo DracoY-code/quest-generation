@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Stop the Enclave
-Objective: Defeat the Enclave and prevent their plan from succeeding.
-First Tasks: Infiltrate the Enclave’s oil rig., Find a way to disable or destroy the Enclave’s operations., Rescue the captured villagers from Arroyo and other prisoners., Confront President Richardson and the Enclave leadership.
-First Task Locations: Enclave Oil Rig - The Enclave’s heavily fortified headquarters, where their plans are executed.
-Quest Giver: NONE - NONE (location: NONE)
-Reward: Experience Points - Earned for completing objectives related to stopping the Enclave. (amount: 10000)
-Characters: NONE
-Tools: Power Armor, Pulse Rifle
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Fallout 2
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+Defeat the Enclave and prevent their plan from succeeding.
+<|end_objective|>
+<|begin_tasks|>
+Infiltrate the Enclave’s oil rig.
+Find a way to disable or destroy the Enclave’s operations.
+Rescue the captured villagers from Arroyo and other prisoners.
+Confront President Richardson and the Enclave leadership.
+<|end_tasks|>
+<|begin_quest_giver|>
+Horrigan's Terminal Threat: The mission becomes clear after learning of the Enclave’s genocidal plan.
+<|end_quest_giver|>
+<|begin_task_locations|>
+Enclave Oil Rig: The Enclave’s heavily fortified headquarters, where their plans are executed.
+<|end_task_locations|>
+<|begin_rewards|>
+Experience Points: Earned for completing objectives related to stopping the Enclave. (amount: 10000)
+<|end_rewards|>
+<|end_quest|>
 The Enclave has developed a plan to wipe out all mutated life using a deadly virus. You must infiltrate their base, rescue prisoners, and put an end to their operations before they unleash destruction upon the wasteland.

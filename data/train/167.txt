@@ -1,21 +1,27 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Intrigue with Jarlaxle
-Objective: give the gems that contain the souls of Jarlaxle's men to Jarlaxle
-First Tasks: find the gems that contain the souls of Jarlaxle's men
-First Task Locations: NONE - 
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - a bit of gold (amount: 1)
-Characters: NONE
-Tools: the player entered the pocket plane via a rope, a lich has the gems that contain the souls of Jarlaxle's men, killing or not killing the lich is up to the player, killing the lich allows the player to loot the tower, once the player has the gems that contain the souls of Jarlaxle's men, the player will be brought back to the headquarters with a rope by Jarlaxle
-Locations: pocket plane - headquarters of the Bregan D'aerthe (location: NONE)
-Items: NONE
-Enemies: lich - an undead wizard (amount: 1)
-Groups: Bregan D'aerthe - a band of mercenaries
-Title: Baldur's Gate II: Shadows of Amn
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+give the gems that contain the souls of Jarlaxle's men to Jarlaxle
+<|end_objective|>
+<|begin_tasks|>
+find the gems that contain the souls of Jarlaxle's men
+<|end_tasks|>
+<|begin_quest_giver|>
+Jarlaxle: the merry leader of the Bregan D'aerthe
+<|end_quest_giver|>
+<|begin_task_locations|>
+NONE: 
+<|end_task_locations|>
+<|begin_rewards|>
+: a bit of gold (amount: 1)
+<|end_rewards|>
+<|begin_locations|>
+pocket plane: headquarters of the Bregan D'aerthe (location: NONE)
+<|end_locations|>
+<|begin_enemies|>
+lich: an undead wizard (amount: 1)
+<|end_enemies|>
+<|begin_groups|>
+Bregan D'aerthe: a band of mercenaries (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 I am Jarlaxle, leader of the Bregan D'aerthe, at your service. This is a pocket plane, headquarters of the Bregan D'aerthe, my mercenary band. I hoped the rope would bring you here, and I see that it has. Welcome! There is a lich who has numerous gems that contain the souls of my men, and I want them back. Whether you kill the lich or not is up to you. Killing him would allow you to loot the tower, I suppose, but however you get those gems is of no concern to me. Once you gather up the gems, I will use the rope to pull you back into the headquarters here. Easy enough, yes? You shall receive a bit of gold, my friend, for your trouble.

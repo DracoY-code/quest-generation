@@ -1,21 +1,24 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Siege on the Dragon Cult
-Objective: recover the Dragon Cult leader's mask for Captain Valmir
-First Tasks: find the Dragon Cult leader's mask
-First Task Locations: Forelhost - the last great bastion of the Dragon Cult
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - Captain Valmir will pay the player (amount: 1)
-Characters: NONE
-Tools: the general sent Captain Valmir to obtain a powerful weapon for the war effort, dragons granted terrible power to the Dragon Cult for their bloody sacrifices: they were swept out during the dragon war because of their cruelty
-Locations: Atmora - a lost northern continent (location: NONE)
-Items: NONE
-Enemies: NONE
-Groups: Dragon Cult - cultists who were among the first men to arrive from Atmora, they worshiped certain animals, like dragons, as avatars of the gods
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+recover the Dragon Cult leader's mask for Captain Valmir
+<|end_objective|>
+<|begin_tasks|>
+find the Dragon Cult leader's mask
+<|end_tasks|>
+<|begin_quest_giver|>
+Captain Valmir: an officer of the Imperial Legion
+<|end_quest_giver|>
+<|begin_task_locations|>
+Forelhost: the last great bastion of the Dragon Cult
+<|end_task_locations|>
+<|begin_rewards|>
+: Captain Valmir will pay the player (amount: 1)
+<|end_rewards|>
+<|begin_locations|>
+Atmora: a lost northern continent (location: NONE)
+<|end_locations|>
+<|begin_groups|>
+Dragon Cult: cultists who were among the first men to arrive from Atmora, they worshiped certain animals, like dragons, as avatars of the gods (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 You there! As an officer of the Imperial Legion, I require your assistance to complete my mission. The General has sent me to obtain a powerful weapon for the war effort. This was the last great bastion of the Dragon Cult, and their leader's mask was reported to be quite powerful. They were among the first men to arrive from Atmora and they worshiped certain animals as avatars of the Gods; Dragons being foremost. And for their bloody sacrifices, the Dragons gifted their priests with terrible power. But their cruelty was too great for men to bear, and they rose up in what would be called the Dragon War and the Cult swept from the land. I'll pay for the Dragon Cult leader's mask. Get in there, find the mask, return it to me, and earn your pay.

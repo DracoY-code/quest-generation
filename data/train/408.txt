@@ -1,21 +1,23 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: The Three Sisters
-Objective: find the 3 sisters
-First Tasks: investigate a tree trunk in an area full of spiders
-First Task Locations: NONE - 
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: NONE
-Tools: Trill is known throughout Veras: from Torchlight to Redhaven
-Locations: Veras - a land (location: NONE), Torchlight - a city in Veras that was destroyed (location: NONE), Redhaven - a city in Veras (location: NONE)
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Torchlight II
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+find the 3 sisters
+<|end_objective|>
+<|begin_tasks|>
+investigate a tree trunk in an area full of spiders
+<|end_tasks|>
+<|begin_quest_giver|>
+Trill: a great bard who received a blow to the head in Torchlight
+<|end_quest_giver|>
+<|begin_task_locations|>
+NONE: 
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_locations|>
+Veras: a land (location: NONE)
+Torchlight: a city in Veras that was destroyed (location: NONE)
+Redhaven: a city in Veras (location: NONE)
+<|end_locations|>
+<|end_quest|>
 Greetings! I am the great bard Trill. You've heard of me of course, my talent is known throughout all of Veras. From Torchlight to Redhaven they sing of my.. songs. Torchlight... did something happen there? I feel a bit... Ah, nevermind. I recognize this place! The spiders called, the Sisters three, the old trunk yawning wide, Through ancient halls, dark ancestry, they met their fates inside. An apt verse, you'll agree. I wrote it myself of course. The rest of the song eludes me... Leniency please! Of course such a lapse is unforgivable in a great bard such as myself, but I feel a bit.. off. Still, even that bare fragment of verse can lead you to glory. Go forth, brave warrior, and slay the mighty beasts! Whatever they may be...

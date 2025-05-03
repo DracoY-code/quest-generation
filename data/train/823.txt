@@ -1,21 +1,20 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Refuel the still
-Objective: Obtain fuel to keep the still operational.
-First Tasks: Find a source of fuel for the still., Deliver the fuel to the still operator.
-First Task Locations: Redding - A mining town where alcohol production is an important trade.
-Quest Giver: NONE - NONE (location: NONE)
-Reward: Caps - A monetary reward for keeping the still running. (amount: 150), Alcohol - Bottles of booze as an extra reward. (amount: NONE)
-Characters: NONE
-Tools: Barter skill to negotiate a better reward., Repair skill to check the still’s condition.
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Fallout 2
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+Obtain fuel to keep the still operational.
+<|end_objective|>
+<|begin_tasks|>
+Find a source of fuel for the still.
+Deliver the fuel to the still operator.
+<|end_tasks|>
+<|begin_quest_giver|>
+Lou: The owner of the still who needs more fuel to continue production.
+<|end_quest_giver|>
+<|begin_task_locations|>
+Redding: A mining town where alcohol production is an important trade.
+<|end_task_locations|>
+<|begin_rewards|>
+Caps: A monetary reward for keeping the still running. (amount: 150)
+Alcohol: Bottles of booze as an extra reward. (amount: NONE)
+<|end_rewards|>
+<|end_quest|>
 Lou needs fuel to keep his still operational. You must find a fuel source and deliver it to him to ensure the alcohol supply remains steady.

@@ -1,21 +1,18 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Blade Training
-Objective: become known as a hero or a villain
-First Tasks: increase your fame or infamy
-First Task Locations: NONE - 
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - training from Alix Lencolia (amount: 1)
-Characters: NONE
-Tools: the player has asked training from Alix Lencolia: the player is not well known
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls IV: Oblivion
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+become known as a hero or a villain
+<|end_objective|>
+<|begin_tasks|>
+increase your fame or infamy
+<|end_tasks|>
+<|begin_quest_giver|>
+Alix Lencolia: a master swordsman
+<|end_quest_giver|>
+<|begin_task_locations|>
+NONE: 
+<|end_task_locations|>
+<|begin_rewards|>
+: training from Alix Lencolia (amount: 1)
+<|end_rewards|>
+<|end_quest|>
 Training? From me? I'm sorry, friend, but I have no idea who you are. Never heard of you. I'm afraid I don't offer training to just anyone. If you were famous, perhaps... or infamous, I suppose... that might count for something. But, alas, you're not. Until I hear your name spoken by others, don't expect any training from me. When you're known as a hero or a villain, I might change my mind.

@@ -1,21 +1,27 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: May the Best Thief Win
-Objective: win the contest against Methredhel and Amusei
-First Tasks: steal Amantius Allectus's diary without killing him, Methredhel, or Amusei
-First Task Locations: Imperial City - a large city
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - the player gets to join the Thieves Guild (amount: 1)
-Characters: Methredhel - a female thief (location: ), Amusei - a male thief (location: ), Amantius Allectus - a man (location: Imperial City), Gray Fox - the legendary guildleader of the Thieves Guild (location: )
-Tools: Armand Christophe is addressing the player, Methredhel, and Amusei, members of the Thieves Guild are followers of the Gray Fox: the one who wins the contest is allowed to join the Thieves Guild, the beggars will help the player locate Amantius Allectus's diary, for a price, Armand Christophe can sell the player lockpicks
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: Thieves Guild - a guild of thieves, thought to be a myth
-Title: The Elder Scrolls IV: Oblivion
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+win the contest against Methredhel and Amusei
+<|end_objective|>
+<|begin_tasks|>
+steal Amantius Allectus's diary without killing him, Methredhel, or Amusei
+<|end_tasks|>
+<|begin_quest_giver|>
+Armand Christophe: a member of the Thieves Guild, and the Doyen of the Gray Fox
+<|end_quest_giver|>
+<|begin_task_locations|>
+Imperial City: a large city
+<|end_task_locations|>
+<|begin_rewards|>
+: the player gets to join the Thieves Guild (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Methredhel: a female thief (location: )
+Amusei: a male thief (location: )
+Amantius Allectus: a man (location: Imperial City)
+Gray Fox: the legendary guildleader of the Thieves Guild (location: )
+<|end_characters|>
+<|begin_groups|>
+Thieves Guild: a guild of thieves, thought to be a myth (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 Everyone is here, let's begin. Each of you is seeking membership in the Thieves Guild. The Thieves Guild is not a myth. We are followers of the Gray Fox, and I am his Doyen. Merely by finding me, you have passed the first test. It's unusual for us to have three potential recruits at the same time. Rather than the normal test of skill, I'm going to make this a contest. Methredhel, you know the rules. However, for Amusei and the newcomer, let me state them clearly. Whoever brings me the diary of Amantius Allectus, without killing him, will be invited into the guild. It's somewhere in the Imperial City. The beggars will help you locate it, for a price. I can sell you lockpicks if you need them. One more thing. You cannot kill each other during this trial. We may be thieves, but we're not murderers.

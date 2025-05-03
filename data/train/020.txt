@@ -1,21 +1,24 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Summoned to the Harper Hold
-Objective: see the Harpers with Jaheira
-First Tasks: go with Jaheira
-First Task Locations:  - Harper Hold in Athkatla
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: NONE
-Tools: Jaheira kept the player waiting as there were things she had to take care of, Jaheira was asked to bring the player to the Harper Hold
-Locations: Athkatla - a city (location: NONE)
-Items: NONE
-Enemies: NONE
-Groups: Harpers - keepers of balance
-Title: Baldur's Gate II: Shadows of Amn
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+see the Harpers with Jaheira
+<|end_objective|>
+<|begin_tasks|>
+go with Jaheira
+<|end_tasks|>
+<|begin_quest_giver|>
+Jaheira: the player's companion
+<|end_quest_giver|>
+<|begin_task_locations|>
+: Harper Hold in Athkatla
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_locations|>
+Athkatla: a city (location: NONE)
+<|end_locations|>
+<|begin_groups|>
+Harpers: keepers of balance (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 Hail there! I said I would return, and I have. Sorry to have kept you waiting, but there were things I had to take care of. Now that we have met once again, there is something I must ask of you. We must go to the Harper Hold in Athkatla. I have been asked to bring you, and we must go soon. They will allow us to pass the wards of the door, but I must be with you.

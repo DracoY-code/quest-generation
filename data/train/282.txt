@@ -1,21 +1,25 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Find Out Who Was Responsible for Richard Wright's Overdose
-Objective: Investigate the circumstances surrounding Richard Wright's overdose and uncover the responsible party.
-First Tasks: Speak with the Wright family to gather initial details., Investigate the location where Richard was found., Question possible witnesses or suspects., Analyze the drugs found at the scene for clues., Report your findings to the Wright family.
-First Task Locations: Wright Family Residence - The home of the Wrights, where you can speak with them for details on Richard’s overdose., Overdose Scene - The place where Richard was found, which may hold crucial evidence., Junkie Hangouts - Areas where drug users and dealers might provide leads.
-Quest Giver: NONE - NONE (location: NONE)
-Reward: Caps - A monetary reward for uncovering the truth. (amount: 1000), Wright Family Favor - Gaining trust and influence with the Wrights, which could be useful later. (amount: NONE)
-Characters: NONE
-Tools: Investigation and perception skills to analyze clues., Speech and charisma to interrogate suspects and witnesses., Science or medical knowledge to examine the drugs involved.
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Fallout 2
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+Investigate the circumstances surrounding Richard Wright's overdose and uncover the responsible party.
+<|end_objective|>
+<|begin_tasks|>
+Speak with the Wright family to gather initial details.
+Investigate the location where Richard was found.
+Question possible witnesses or suspects.
+Analyze the drugs found at the scene for clues.
+Report your findings to the Wright family.
+<|end_tasks|>
+<|begin_quest_giver|>
+Orville Wright: The head of the Wright family, determined to find out the truth behind his son's death.
+<|end_quest_giver|>
+<|begin_task_locations|>
+Wright Family Residence: The home of the Wrights, where you can speak with them for details on Richard’s overdose.
+Overdose Scene: The place where Richard was found, which may hold crucial evidence.
+Junkie Hangouts: Areas where drug users and dealers might provide leads.
+<|end_task_locations|>
+<|begin_rewards|>
+Caps: A monetary reward for uncovering the truth. (amount: 1000)
+Wright Family Favor: Gaining trust and influence with the Wrights, which could be useful later. (amount: NONE)
+<|end_rewards|>
+<|end_quest|>
 Richard Wright, a member of the Wright family, has died of an apparent overdose. However, his family suspects foul play. You must investigate and uncover who was responsible for his death.

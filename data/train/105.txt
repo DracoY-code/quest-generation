@@ -1,21 +1,24 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Phlydia's Book
-Objective: bring "The History of Halruaa" back to Phlydia
-First Tasks: find "The History of Halruaa"
-First Task Locations:  - east of Candlekeep Inn
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - a little gem (amount: 1)
-Characters: NONE
-Tools: Phlydia knows the player
-Locations: Candlekeep Inn - an inn (location: NONE)
-Items: "The History of Halruaa" - a book (amount: 1)
-Enemies: NONE
-Groups: NONE
-Title: Baldur's Gate
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+bring "The History of Halruaa" back to Phlydia
+<|end_objective|>
+<|begin_tasks|>
+find "The History of Halruaa"
+<|end_tasks|>
+<|begin_quest_giver|>
+Phlydia: an absent-minded woman
+<|end_quest_giver|>
+<|begin_task_locations|>
+: east of Candlekeep Inn
+<|end_task_locations|>
+<|begin_rewards|>
+: a little gem (amount: 1)
+<|end_rewards|>
+<|begin_locations|>
+Candlekeep Inn: an inn (location: NONE)
+<|end_locations|>
+<|begin_items|>
+"The History of Halruaa": a book (amount: 1)
+<|end_items|>
+<|end_quest|>
 Oh, hello! It's me, Phlydia! Have you seen my copy of "The History of Halruaa" anywhere? You know how I can't stand the constant shuffling of arthritic feet up in the library... So I thought I'd get a bit of fresh air just east of here and... Oh, I hate being so absent-minded! Please, if you find it, I really do need it back. If you do, you can take this little gem of mine. Maybe a merchant will give you a little something for it.

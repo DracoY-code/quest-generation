@@ -1,21 +1,24 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Scouring Up Housing
-Objective: build a new house in Woodridge
-First Tasks: gather up materials for building a house
-First Task Locations: NONE - 
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - a stack of golden carrots (amount: 1)
-Characters: NONE
-Tools: NONE
-Locations: Woodridge - a small village (location: NONE)
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Minecraft
-Motivation: serenity
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+build a new house in Woodridge
+<|end_objective|>
+<|begin_tasks|>
+gather up materials for building a house
+<|end_tasks|>
+<|begin_quest_giver|>
+: a worried villager
+<|end_quest_giver|>
+<|begin_task_locations|>
+NONE: 
+<|end_task_locations|>
+<|begin_rewards|>
+: a stack of golden carrots (amount: 1)
+<|end_rewards|>
+<|begin_locations|>
+Woodridge: a small village (location: NONE)
+<|end_locations|>
+<|begin_motivation|>
+serenity
+<|end_motivation|>
+<|end_quest|>
 Our village, Woodridge, is stagnating hard! We need more housing so that our village can grow larger. Traveler, do you know anything about building houses? Perhaps you could build a brand new house in our village? You have to gather some house building materials first, though. I have a fine reward for you! A stack of golden carrots. A fine meal after doing some construction work, ain't it?

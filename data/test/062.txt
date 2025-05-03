@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: A duel with Shar-Teel Dosan
-Objective: win duel against Shar-Teel Dosan
-First Tasks: select the male party member who shall duel Shar-Teel Dosan
-First Task Locations: NONE - 
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - Shar-Teel Dosan joins the player's party (amount: 1)
-Characters: NONE
-Tools: the player is the leader of a party of adventurers that has both men and women: Shar-Teel Dosan only duels men, if Shar-Teel Dosan wins the duel the player has to give 20 gold to her, Shar-Teel Dosan will kill anyone who tries to interfere the duel
-Locations: NONE
-Items:  - gold (amount: 20)
-Enemies: NONE
-Groups: NONE
-Title: Baldur's Gate
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+win duel against Shar-Teel Dosan
+<|end_objective|>
+<|begin_tasks|>
+select the male party member who shall duel Shar-Teel Dosan
+<|end_tasks|>
+<|begin_quest_giver|>
+Shar-Teel Dosan: a man-hating warrior woman
+<|end_quest_giver|>
+<|begin_task_locations|>
+NONE: 
+<|end_task_locations|>
+<|begin_rewards|>
+: Shar-Teel Dosan joins the player's party (amount: 1)
+<|end_rewards|>
+<|begin_items|>
+: gold (amount: 20)
+<|end_items|>
+<|end_quest|>
 Hold, traveler! I, Shar-Teel Dosan, challenge your best warrior to a duel. I don't fight women, so only men should step forward. I win, and you give me 20 gold. In the unlikely event that one of you bests me, I'll pledge my sword to your cause, however stupid it may be.. Will your champion step forward? I only fight men, so your women will have to be satisfied with just watching. Don't entertain any thoughts about cheating. If any of the rest of you try to interfere in this fight, I'll kill them outright.

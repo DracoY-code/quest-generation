@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Illusion Training
-Objective: bring 10 Welkynd Stones to Martina Floria
-First Tasks: find 10 Welkynd Stones
-First Task Locations: NONE - 
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - illusion training from Martina Floria (amount: 1)
-Characters: NONE
-Tools: the player asked illusion training from Martina Floria
-Locations: NONE
-Items: Welkynd Stones - magic crystals (amount: 10)
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls IV: Oblivion
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+bring 10 Welkynd Stones to Martina Floria
+<|end_objective|>
+<|begin_tasks|>
+find 10 Welkynd Stones
+<|end_tasks|>
+<|begin_quest_giver|>
+Martina Floria: Master Enchanter for the Mages Guild
+<|end_quest_giver|>
+<|begin_task_locations|>
+NONE: 
+<|end_task_locations|>
+<|begin_rewards|>
+: illusion training from Martina Floria (amount: 1)
+<|end_rewards|>
+<|begin_items|>
+Welkynd Stones: magic crystals (amount: 10)
+<|end_items|>
+<|end_quest|>
 Martina Floria, Master Enchanter for the Mages Guild. You wish to learn illusion spells? Hmm. A trade is in order, don't you think? My services in exchange for... oh, let's say ten Welkynd Stones. I'd say that's fair. Let me know when you have them.

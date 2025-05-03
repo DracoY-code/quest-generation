@@ -1,21 +1,23 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Destroy the Super Mutants at the Watershed
-Objective: Eliminate the Super Mutants occupying the Watershed in Necropolis.
-First Tasks: Scout the Watershed area to assess enemy strength., Plan an attack strategy based on available resources., Engage the Super Mutants in combat., Ensure the Watershed is cleared of all hostiles.
-First Task Locations: Watershed, Necropolis - A critical water source in Necropolis, now controlled by Super Mutants.
-Quest Giver: NONE - NONE (location: NONE)
-Reward: Caps - Payment from Set for clearing the Watershed. (amount: 500), Experience Points - Earned for successfully eliminating the Super Mutants. (amount: 1500), Ghoul Favor - Increased standing with the ghouls of Necropolis. (amount: 1)
-Characters: NONE
-Tools: Firearms, Explosives, Melee weapons, Tactical planning
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Fallout
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+Eliminate the Super Mutants occupying the Watershed in Necropolis.
+<|end_objective|>
+<|begin_tasks|>
+Scout the Watershed area to assess enemy strength.
+Plan an attack strategy based on available resources.
+Engage the Super Mutants in combat.
+Ensure the Watershed is cleared of all hostiles.
+<|end_tasks|>
+<|begin_quest_giver|>
+Set: A ghoul leader in Necropolis who wants the Super Mutants eliminated.
+<|end_quest_giver|>
+<|begin_task_locations|>
+Watershed, Necropolis: A critical water source in Necropolis, now controlled by Super Mutants.
+<|end_task_locations|>
+<|begin_rewards|>
+Caps: Payment from Set for clearing the Watershed. (amount: 500)
+Experience Points: Earned for successfully eliminating the Super Mutants. (amount: 1500)
+Ghoul Favor: Increased standing with the ghouls of Necropolis. (amount: 1)
+<|end_rewards|>
+<|end_quest|>
 The Super Mutants have taken control of the Watershed in Necropolis, threatening the local ghouls' water supply. The player must eliminate the threat to secure the area and restore peace to the city.

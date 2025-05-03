@@ -1,21 +1,25 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Lost Knowledge
-Objective: retrieve a Black Book so that Neloth can make a copy of it
-First Tasks: find the Black Book
-First Task Locations: Benkongerike - a ruin
-Quest Giver: NONE - NONE (location: NONE)
-Reward: Black Book - one of the Black Books (amount: 1)
-Characters: Xarxes - the god of secrets and hidden knowledge (location: ), Hermaeus Mora - the devious demon of forbidden knowledge (location: )
-Tools: the player asked Neloth if he has found more Black Books, the Black Book might contain the final secrets of Xarxes
-Locations: NONE
-Items: Black Books - books created by Hermaeus Mora, each containing forbidden knowledge (amount: 1)
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+retrieve a Black Book so that Neloth can make a copy of it
+<|end_objective|>
+<|begin_tasks|>
+find the Black Book
+<|end_tasks|>
+<|begin_quest_giver|>
+Neloth: a wizard
+<|end_quest_giver|>
+<|begin_task_locations|>
+Benkongerike: a ruin
+<|end_task_locations|>
+<|begin_rewards|>
+Black Book: one of the Black Books (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Xarxes: the god of secrets and hidden knowledge (location: )
+Hermaeus Mora: the devious demon of forbidden knowledge (location: )
+<|end_characters|>
+<|begin_items|>
+Black Books: books created by Hermaeus Mora, each containing forbidden knowledge (amount: 1)
+<|end_items|>
+<|end_quest|>
 Yes. Hermaeus Mora is devious, but then so am I. Now, it's only a rumor of a whisper of a conjecture. But I think this is the place. Benkongerike. One of the Books is hidden there. Now, hurry and find that Black Book. That Book might contain the final secrets of Xarxes, for all we know. I'll just make a copy for myself. It's far too dangerous to carry the real Black Book around. Of course, I'm sure you can handle yourself. Of course you can. You can keep the original Black Book.

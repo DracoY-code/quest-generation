@@ -1,21 +1,20 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Rescue Sinthia
-Objective: Save Sinthia from a violent thug in the Skum Pitt.
-First Tasks: Enter the Skum Pitt bar., Confront the thug threatening Sinthia., Decide whether to de-escalate, fight, or negotiate.
-First Task Locations: Skum Pitt - A bar in Junktown where Sinthia is being threatened.
-Quest Giver: NONE - NONE (location: NONE)
-Reward: Karma Increase - Rescuing Sinthia improves the player's reputation. (amount: 1)
-Characters: NONE
-Tools: Speech, Combat skills, Weapons
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Fallout
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+Save Sinthia from a violent thug in the Skum Pitt.
+<|end_objective|>
+<|begin_tasks|>
+Enter the Skum Pitt bar.
+Confront the thug threatening Sinthia.
+Decide whether to de-escalate, fight, or negotiate.
+<|end_tasks|>
+<|begin_quest_giver|>
+None (Triggered by Event): The quest starts when the player witnesses Sinthia in distress.
+<|end_quest_giver|>
+<|begin_task_locations|>
+Skum Pitt: A bar in Junktown where Sinthia is being threatened.
+<|end_task_locations|>
+<|begin_rewards|>
+Karma Increase: Rescuing Sinthia improves the player's reputation. (amount: 1)
+<|end_rewards|>
+<|end_quest|>
 While visiting the Skum Pitt, the player encounters Sinthia being harassed by a thug. The situation can be resolved through persuasion, intimidation, or combat. Successfully helping Sinthia improves the player's standing in Junktown.

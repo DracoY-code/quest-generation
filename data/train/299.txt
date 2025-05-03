@@ -1,21 +1,30 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Aftershock
-Objective: take care of a magical disturbance
-First Tasks: contain the power from the Eye of Magnus with the Staff of Magnus
-First Task Locations: Markarth - a part of Skyrim
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - a large portion of the reward from the Jarl of Markarth (amount: 1)
-Characters: Arch-Mage - the leader of the College of Winterhold (location: ), Jarl - the nobleman who rules over Markarth (location: Markarth)
-Tools: the player is the Arch-Mage, the player should have the Staff of Magnus
-Locations: College of Winterhold - a college for mages (location: NONE), Skyrim - a realm (location: NONE)
-Items: Eye of Magnus - a powerful artifact that was held at the College of Winterhold (amount: 1), Staff of Magnus - a powerful staff that can contain energy from the Eye of Magnus (amount: 1)
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+take care of a magical disturbance
+<|end_objective|>
+<|begin_tasks|>
+contain the power from the Eye of Magnus with the Staff of Magnus
+<|end_tasks|>
+<|begin_quest_giver|>
+Tolfdir: a professor at the College of Winterhold
+<|end_quest_giver|>
+<|begin_task_locations|>
+Markarth: a part of Skyrim
+<|end_task_locations|>
+<|begin_rewards|>
+: a large portion of the reward from the Jarl of Markarth (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Arch-Mage: the leader of the College of Winterhold (location: )
+Jarl: the nobleman who rules over Markarth (location: Markarth)
+<|end_characters|>
+<|begin_locations|>
+College of Winterhold: a college for mages (location: NONE)
+Skyrim: a realm (location: NONE)
+<|end_locations|>
+<|begin_items|>
+Eye of Magnus: a powerful artifact that was held at the College of Winterhold (amount: 1)
+Staff of Magnus: a powerful staff that can contain energy from the Eye of Magnus (amount: 1)
+<|end_items|>
+<|end_quest|>
 There is something you should be aware of, Arch-Mage. We've been contacted by the Jarl of Markarth. It would seem there's some sort of disturbance. From what few details we were given, it sounds quite familiar. I suspect that the power released by the Eye of Magnus was not fully contained, and has coalesced in this part of Skyrim. I do hope you still have the Staff of Magnus someplace. I suspect you're going to need it to contain the power. I'm sure the Jarl will be quite pleased to. I think it only fitting that the Arch-Mage personally receive a large portion of the reward.

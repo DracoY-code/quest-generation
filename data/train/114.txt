@@ -1,21 +1,24 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: A Daedra's Best Friend
-Objective: settle the disagreement between Barbas and Clavicus Vile
-First Tasks: talk to Clavicus Vile at his shrine
-First Task Locations: Haemar's Shame - a den of cultists worshiping Clavicus Vile
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - the player is rewarded: the player just should not trust any offer Clavicus Vile makes them (amount: 1)
-Characters: Clavicus Vile - the prince of wishes, a Daedra (location: )
-Tools: Clavicus Vile is weak, since he banished Barbas: Clavicus Vile can only manifest at his shrines
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: Daedra - immortal beings of great power
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+settle the disagreement between Barbas and Clavicus Vile
+<|end_objective|>
+<|begin_tasks|>
+talk to Clavicus Vile at his shrine
+<|end_tasks|>
+<|begin_quest_giver|>
+Barbas: Clavicus Vile's dog who was kicked out by Clavicus Vile
+<|end_quest_giver|>
+<|begin_task_locations|>
+Haemar's Shame: a den of cultists worshiping Clavicus Vile
+<|end_task_locations|>
+<|begin_rewards|>
+: the player is rewarded: the player just should not trust any offer Clavicus Vile makes them (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Clavicus Vile: the prince of wishes, a Daedra (location: )
+<|end_characters|>
+<|begin_groups|>
+Daedra: immortal beings of great power (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 You are exactly what I was looking for. You see, my name is Barbas. And I have a problem I think you can help sort out. My master and I had a bit of a falling out. We got into an argument and it got rather... heated. He's kicked me out until I find someone who can settle our disagreement. That's where you come in. My master is Clavicus Vile, the prince of wishes. As you can imagine, he's quite the important person.  Now, since he banished me, Vile's been rather weak. He can't manifest very far from one of his shrines. I know there's a cult that worships him at Haemar's Shame. We should be able to talk to him there. If this works out, I'll make sure you're rewarded. Just don't trust any offer he makes you... okay?

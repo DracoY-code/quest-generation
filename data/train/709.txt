@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: The de'Arnise Keep Has Been Invaded
-Objective: defeat the attackers at the de'Arnise Keep
-First Tasks: find Daleson
-First Task Locations: de'Arnise Keep - the home of Nalia de'Arnise, a castle under siege
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Daleson - a man (location: de'Arnise Keep)
-Tools: if the attackers have breached the inner courtyard of the de'Arnise Keep, they will be hard to rout, Nalia de'Arnise's father would not leave the de'Arnise Keep
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Baldur's Gate II: Shadows of Amn
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+defeat the attackers at the de'Arnise Keep
+<|end_objective|>
+<|begin_tasks|>
+find Daleson
+<|end_tasks|>
+<|begin_quest_giver|>
+Nalia de'Arnise: a noblewoman
+<|end_quest_giver|>
+<|begin_task_locations|>
+de'Arnise Keep: the home of Nalia de'Arnise, a castle under siege
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Daleson: a man (location: de'Arnise Keep)
+<|end_characters|>
+<|end_quest|>
 I, Nalia de'Arnise, need a strong hand to help me. My land is under siege, and none of this rabble will aid me! And after all I've done for their kind, too! Please, can you assist me? There is no time! I only hope that the attackers have not made it inside. If they have... if they have breached the inner courtyard, they will be hard to rout. I will tell you what secrets I can. Perhaps you will be able to sneak in and attack from a more vulnerable spot. I hope Father is all right. He... would not leave. Please, hurry to the de'Arnise Keep and find Daleson.

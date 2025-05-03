@@ -1,21 +1,23 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Help Lara attack Tyler's gang
-Objective: Assist Lara and her gang in attacking and defeating Tyler's gang to take control of the church.
-First Tasks: Talk to Lara to finalize the attack plan., Engage in combat with Tyler’s gang at the church., Ensure Lara survives the battle.
-First Task Locations: The Den - A lawless town controlled by criminals and gangs, including Lara's and Tyler's groups., Church in The Den - The base of Tyler's gang, targeted for takeover by Lara.
-Quest Giver: NONE - NONE (location: NONE)
-Reward: Caps - A monetary reward for helping Lara win the battle. (amount: 300), Loot from Tyler's gang - Weapons, armor, and other valuables can be taken from fallen enemies. (amount: NONE), Increased reputation with Lara’s gang - Lara and her gang will view you as a trusted ally. (amount: NONE)
-Characters: NONE
-Tools: Weapons and armor suitable for combat., Companions to assist in battle., Stimpaks or healing supplies to survive the fight.
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Fallout 2
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+Assist Lara and her gang in attacking and defeating Tyler's gang to take control of the church.
+<|end_objective|>
+<|begin_tasks|>
+Talk to Lara to finalize the attack plan.
+Engage in combat with Tyler’s gang at the church.
+Ensure Lara survives the battle.
+<|end_tasks|>
+<|begin_quest_giver|>
+Lara: Leader of a gang in The Den, seeking to take over Tyler’s territory.
+<|end_quest_giver|>
+<|begin_task_locations|>
+The Den: A lawless town controlled by criminals and gangs, including Lara's and Tyler's groups.
+Church in The Den: The base of Tyler's gang, targeted for takeover by Lara.
+<|end_task_locations|>
+<|begin_rewards|>
+Caps: A monetary reward for helping Lara win the battle. (amount: 300)
+Loot from Tyler's gang: Weapons, armor, and other valuables can be taken from fallen enemies. (amount: NONE)
+Increased reputation with Lara’s gang: Lara and her gang will view you as a trusted ally. (amount: NONE)
+<|end_rewards|>
+<|end_quest|>
 Lara has planned an attack on Tyler's gang and needs your help. You must assist her in taking over the church, ensuring her victory and survival in the battle.

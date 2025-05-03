@@ -1,21 +1,20 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Free the Slaves
-Objective: Rescue the slaves held by the Khans.
-First Tasks: Locate the slaves in the Khans' camp., Eliminate or negotiate with the Khans guarding them., Unlock or break open their restraints to free them.
-First Task Locations: Khans' Camp - A raider stronghold where the Khans keep their captives.
-Quest Giver: NONE - NONE (location: NONE)
-Reward: Karma Increase - The player's reputation improves for freeing the slaves. (amount: 1)
-Characters: NONE
-Tools: Lockpick, Weapons
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Fallout
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+Rescue the slaves held by the Khans.
+<|end_objective|>
+<|begin_tasks|>
+Locate the slaves in the Khans' camp.
+Eliminate or negotiate with the Khans guarding them.
+Unlock or break open their restraints to free them.
+<|end_tasks|>
+<|begin_quest_giver|>
+None (Optional Quest): The player can choose to free the slaves without a direct quest giver.
+<|end_quest_giver|>
+<|begin_task_locations|>
+Khans' Camp: A raider stronghold where the Khans keep their captives.
+<|end_task_locations|>
+<|begin_rewards|>
+Karma Increase: The player's reputation improves for freeing the slaves. (amount: 1)
+<|end_rewards|>
+<|end_quest|>
 The player can attempt to free the slaves held by the Khans through combat or stealth. This action improves the player's moral standing but may provoke hostility from the Khans.

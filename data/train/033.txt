@@ -1,21 +1,22 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Something strange is happening at the farm northeast of Modoc. Investigate and report back to Jo
-Objective: Investigate the farm northeast of Modoc and uncover the mystery, then report your findings to Jo.
-First Tasks: Travel to the farm northeast of Modoc., Search for clues about any unusual activity., Determine the source of the disturbances., Return to Jo and report your findings.
-First Task Locations: Northeast Farm - An isolated farm near Modoc where strange events have been reported.
-Quest Giver: NONE - NONE (location: NONE)
-Reward: Caps - A monetary reward for completing the investigation. (amount: 500), Improved Reputation - Earning Jo's trust and the respect of Modoc's citizens. (amount: NONE)
-Characters: NONE
-Tools: Perception to spot hidden clues., Speech for persuading witnesses or interrogating suspects., Combat skills in case of danger.
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Fallout 2
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+Investigate the farm northeast of Modoc and uncover the mystery, then report your findings to Jo.
+<|end_objective|>
+<|begin_tasks|>
+Travel to the farm northeast of Modoc.
+Search for clues about any unusual activity.
+Determine the source of the disturbances.
+Return to Jo and report your findings.
+<|end_tasks|>
+<|begin_quest_giver|>
+Jo: The leader of Modoc, concerned about the strange occurrences at the farm.
+<|end_quest_giver|>
+<|begin_task_locations|>
+Northeast Farm: An isolated farm near Modoc where strange events have been reported.
+<|end_task_locations|>
+<|begin_rewards|>
+Caps: A monetary reward for completing the investigation. (amount: 500)
+Improved Reputation: Earning Jo's trust and the respect of Modoc's citizens. (amount: NONE)
+<|end_rewards|>
+<|end_quest|>
 Jo of Modoc is troubled by reports of eerie happenings at a farm to the northeast. He requests an investigation to determine the cause and ensure the safety of Modoc's residents.

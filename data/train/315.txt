@@ -1,21 +1,24 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: When the Vow Breaks
-Objective: recover the Rockshatter for Maeva the Buxom
-First Tasks: find Bjalfi the Contemptible
-First Task Locations: Fort Strand - a marauder hideout
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Bjalfi the Contemptible - Maeva the Buxom's husband (location: )
-Tools: Bjalfi the Contemptible snatched Rockshatter, and took off to join a local marauder gang at Fort Strand
-Locations: NONE
-Items: Rockshatter - a mace, and Maeva the Buxom's family heirloom (amount: 1)
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls IV: Oblivion
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+recover the Rockshatter for Maeva the Buxom
+<|end_objective|>
+<|begin_tasks|>
+find Bjalfi the Contemptible
+<|end_tasks|>
+<|begin_quest_giver|>
+Maeva the Buxom: a regretful wife
+<|end_quest_giver|>
+<|begin_task_locations|>
+Fort Strand: a marauder hideout
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Bjalfi the Contemptible: Maeva the Buxom's husband (location: )
+<|end_characters|>
+<|begin_items|>
+Rockshatter: a mace, and Maeva the Buxom's family heirloom (amount: 1)
+<|end_items|>
+<|end_quest|>
 Perhaps you can help me. I'm Maeva the Buxom. My husband's name is Bjalfi the Contemptible. My father said I was a fool to marry him, but I didn't listen. At our wedding, my father gave us a family heirloom as a gift; Rockshatter, a mace that's been in my family for many generations. Bjalfi snatched Rockshatter from our mantle and took off to "find his fortune" with the local Marauder gang at Fort Strand. I want that mace back. Please, I don't think he's ever coming back, and I'd hate to lose such a precious heirloom to a gang of thugs.

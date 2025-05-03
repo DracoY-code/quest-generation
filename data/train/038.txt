@@ -1,21 +1,24 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Elder Knowledge
-Objective: recover an Elder Scroll to learn Dragonrend
-First Tasks: talk to the mages about finding an Elder Scroll
-First Task Locations: College of Winterhold - a school for mages in Skyrim
-Quest Giver: NONE - NONE (location: NONE)
-Reward: Dragonrend - a powerful shout (amount: 1)
-Characters: NONE
-Tools: the player asked Esbern what they need to learn Dragonrend
-Locations: Skyrim - a realm (location: NONE)
-Items: Elder Scroll - a scroll that can show the player the past (amount: 1)
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+recover an Elder Scroll to learn Dragonrend
+<|end_objective|>
+<|begin_tasks|>
+talk to the mages about finding an Elder Scroll
+<|end_tasks|>
+<|begin_quest_giver|>
+Esbern: a wise man
+<|end_quest_giver|>
+<|begin_task_locations|>
+College of Winterhold: a school for mages in Skyrim
+<|end_task_locations|>
+<|begin_rewards|>
+Dragonrend: a powerful shout (amount: 1)
+<|end_rewards|>
+<|begin_locations|>
+Skyrim: a realm (location: NONE)
+<|end_locations|>
+<|begin_items|>
+Elder Scroll: a scroll that can show the player the past (amount: 1)
+<|end_items|>
+<|end_quest|>
 Ah, you need an Elder Scroll. There's a pretty puzzle. Not the kind of thing you'll find in your local bookshop. Let me think... Perhaps the College of Winterhold. What learning there is in Skyrim is gathered there. One of the mages there may be able to put you on the trail of this Elder Scroll. This Elder Scroll might be able to show you the past in some way, and let you learn the Dragonrend shout.

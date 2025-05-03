@@ -1,21 +1,20 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Become an Expert Excrement Expeditor
-Objective: Help the NCR by shoveling brahmin dung.
-First Tasks: Speak with the NCR officer in charge of sanitation., Collect a shovel to begin cleaning up the brahmin pens.
-First Task Locations: NCR Town - A well-organized settlement run by the New California Republic.
-Quest Giver: NONE - NONE (location: NONE)
-Reward: Caps - A small payment for completing the job. (amount: 100), Minor reputation boost with the NCR - The NCR will see you as a reliable worker. (amount: NONE)
-Characters: NONE
-Tools: Shovel to clean up the brahmin dung.
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Fallout 2
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+Help the NCR by shoveling brahmin dung.
+<|end_objective|>
+<|begin_tasks|>
+Speak with the NCR officer in charge of sanitation.
+Collect a shovel to begin cleaning up the brahmin pens.
+<|end_tasks|>
+<|begin_quest_giver|>
+NCR Officer: A member of the NCR overseeing the town’s maintenance.
+<|end_quest_giver|>
+<|begin_task_locations|>
+NCR Town: A well-organized settlement run by the New California Republic.
+<|end_task_locations|>
+<|begin_rewards|>
+Caps: A small payment for completing the job. (amount: 100)
+Minor reputation boost with the NCR: The NCR will see you as a reliable worker. (amount: NONE)
+<|end_rewards|>
+<|end_quest|>
 The NCR needs help keeping their brahmin pens clean. While not the most glamorous job, it earns you some caps and a bit of favor with the Republic.

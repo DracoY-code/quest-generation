@@ -1,21 +1,23 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Deliver Westin's Holodisk to Lynette in Vault City
-Objective: Deliver a holodisk containing important information from Roger Westin to First Citizen Lynette in Vault City.
-First Tasks: Obtain the holodisk from Roger Westin in NCR., Travel to Vault City and locate First Citizen Lynette., Deliver the holodisk to Lynette and receive your reward.
-First Task Locations: Westin Ranch - Roger Westin's estate in NCR, where you obtain the holodisk., Vault City - A well-structured and orderly settlement where First Citizen Lynette resides.
-Quest Giver: NONE - NONE (location: NONE)
-Reward: Experience Points - Earned for successfully delivering the holodisk. (amount: 2500), Caps - Payment from Lynette upon completion. (amount: 500), Vault City Reputation - Increased standing with Vault City for completing the task. (amount: NONE)
-Characters: NONE
-Tools: Diplomatic skills to handle Lynette’s attitude., Fast travel options to reach Vault City quickly.
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Fallout 2
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+Deliver a holodisk containing important information from Roger Westin to First Citizen Lynette in Vault City.
+<|end_objective|>
+<|begin_tasks|>
+Obtain the holodisk from Roger Westin in NCR.
+Travel to Vault City and locate First Citizen Lynette.
+Deliver the holodisk to Lynette and receive your reward.
+<|end_tasks|>
+<|begin_quest_giver|>
+Roger Westin: A wealthy rancher and politician in NCR who wants to pass information to Vault City.
+<|end_quest_giver|>
+<|begin_task_locations|>
+Westin Ranch: Roger Westin's estate in NCR, where you obtain the holodisk.
+Vault City: A well-structured and orderly settlement where First Citizen Lynette resides.
+<|end_task_locations|>
+<|begin_rewards|>
+Experience Points: Earned for successfully delivering the holodisk. (amount: 2500)
+Caps: Payment from Lynette upon completion. (amount: 500)
+Vault City Reputation: Increased standing with Vault City for completing the task. (amount: NONE)
+<|end_rewards|>
+<|end_quest|>
 Roger Westin, an influential rancher in NCR, entrusts you with a holodisk containing valuable information for Vault City’s leadership. Your task is to ensure its safe delivery to First Citizen Lynette, who may reward you upon receipt.

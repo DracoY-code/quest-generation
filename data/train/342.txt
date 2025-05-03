@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: It's Your Lucky Day
-Objective: bring a rabbit's foot to Wilson
-First Tasks: hunt down a rabbit
-First Task Locations:  - deserts, taiga forests, and frozen regions
-Quest Giver: NONE - NONE (location: NONE)
-Reward: Potion of Leaping - a potion that boosts jumps (amount: 1)
-Characters: NONE
-Tools: the player is an enemy of Wilson
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Minecraft
-Motivation: comfort
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+bring a rabbit's foot to Wilson
+<|end_objective|>
+<|begin_tasks|>
+hunt down a rabbit
+<|end_tasks|>
+<|begin_quest_giver|>
+Wilson: a worried man
+<|end_quest_giver|>
+<|begin_task_locations|>
+: deserts, taiga forests, and frozen regions
+<|end_task_locations|>
+<|begin_rewards|>
+Potion of Leaping: a potion that boosts jumps (amount: 1)
+<|end_rewards|>
+<|begin_motivation|>
+comfort
+<|end_motivation|>
+<|end_quest|>
 Oh. It's you. As if I wouldn't have enough to worry about... Or perhaps even a devil like you has a heart. Would you help me sweep my worries away by bringing me a rabbit's foot? I'd like to feel luckier. Hunt down a rabbit. They are found in deserts, taiga forests, and frozen regions. Rabbits are quite quick on their feet, so they might keep you busy for a while. Do this for me, and I'll give you a Potion of Leaping. That should help you jump out of my sight faster.

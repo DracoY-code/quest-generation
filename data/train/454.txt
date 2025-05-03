@@ -1,21 +1,26 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: The Wolf Queen Awakened
-Objective: stop Potema from returning to the living
-First Tasks: find Potema's skeleton and remove it from the catacombs, bring Potema's skeleton back to be sanctified by Arkay
-First Task Locations: Potema's Catacombs - catacombs filled with Potema's undead minions
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Potema, the Wolf Queen - a former queen of Solitude, and one of the most dangerous necromancers in recorded history (location: Potema's Catacombs), Arkay - the god of life and death (location: )
-Tools: Potema was responsible for the Empire's near collapse almost five hundred years ago: Styrr has a book about Potema, one of Potema's servants busted through a wall into the Temple of Divines, the player was there when Potema was summoned in spirit form, Styrr helps the player with Potema's minions
-Locations: Solitude - a large city (location: NONE)
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+stop Potema from returning to the living
+<|end_objective|>
+<|begin_tasks|>
+find Potema's skeleton and remove it from the catacombs
+bring Potema's skeleton back to be sanctified by Arkay
+<|end_tasks|>
+<|begin_quest_giver|>
+Styrr: a priest of Arkay
+<|end_quest_giver|>
+<|begin_task_locations|>
+Potema's Catacombs: catacombs filled with Potema's undead minions
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Potema, the Wolf Queen: a former queen of Solitude, and one of the most dangerous necromancers in recorded history (location: Potema's Catacombs)
+Arkay: the god of life and death (location: )
+<|end_characters|>
+<|begin_locations|>
+Solitude: a large city (location: NONE)
+<|end_locations|>
+<|end_quest|>
 Ah Potema, the Wolf Queen. Former queen of Solitude and one of the most dangerous necromancers in recorded history. She was responsible for the Empire's near collapse almost five hundred years ago. I believe I have a book about her... And now Potema has been summoned in spirit form. Summoned in spirit form is not raised from the dead. She'll need help before she can return to the living. For the moment, the Wolf Queen has retreated to a place filled with dead eager to serve her. She has gone to her old Catacombs. A few days ago, one of her servants busted through a wall into the Temple of Divines. We'll need you to go into the Catacombs themselves. You were there when Potema was summoned. Being at the summoning created a connection to Potema, you are the one to stop her from returning to the living. I can provide you with some help with her minions. As to Potema herself, find what's left of her body, likely a skeleton. Remove it from the Catacombs and bring it back to be sanctified by Arkay.

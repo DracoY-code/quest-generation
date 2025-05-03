@@ -1,21 +1,20 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Collect money from Fred
-Objective: Retrieve the money that Fred owes to Metzger.
-First Tasks: Find Fred and remind him of his debt., Convince or force Fred to pay up.
-First Task Locations: The Den - A lawless town where Fred can be found.
-Quest Giver: NONE - NONE (location: NONE)
-Reward: Caps - Payment for successfully collecting the debt. (amount: 200), Favor with Metzger - Completing this task may improve your standing with Metzger and his gang. (amount: NONE)
-Characters: NONE
-Tools: Speech or Barter skills to negotiate with Fred., Strength or weapons to intimidate Fred if necessary.
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Fallout 2
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+Retrieve the money that Fred owes to Metzger.
+<|end_objective|>
+<|begin_tasks|>
+Find Fred and remind him of his debt.
+Convince or force Fred to pay up.
+<|end_tasks|>
+<|begin_quest_giver|>
+Metzger: Leader of the slavers in The Den, who wants his money back.
+<|end_quest_giver|>
+<|begin_task_locations|>
+The Den: A lawless town where Fred can be found.
+<|end_task_locations|>
+<|begin_rewards|>
+Caps: Payment for successfully collecting the debt. (amount: 200)
+Favor with Metzger: Completing this task may improve your standing with Metzger and his gang. (amount: NONE)
+<|end_rewards|>
+<|end_quest|>
 Fred owes Metzger money, and it's your job to make sure he pays up—one way or another.

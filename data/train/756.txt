@@ -1,21 +1,27 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Ambush
-Objective: retrieve a unique Black Soul Gem from the necromancers, and return immediately to Arch-Mage Traven
-First Tasks: oversee a contingent of Battlemages in their fight with the necromancers
-First Task Locations: Silorn - ruins in the south of Cyrodiil
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: King of Worms - the male master of the necromancers (location: )
-Tools: necromancers have been creating black soul gems for the King of Worms, Arch-Mage Traven believes that the Black Soul Gem may be instrumental in saving the Mages Guild
-Locations: Cyrodiil - a province (location: NONE)
-Items: NONE
-Enemies: NONE
-Groups: Mages Guild - a guild of mages
-Title: The Elder Scrolls IV: Oblivion
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+retrieve a unique Black Soul Gem from the necromancers, and return immediately to Arch-Mage Traven
+<|end_objective|>
+<|begin_tasks|>
+oversee a contingent of Battlemages in their fight with the necromancers
+<|end_tasks|>
+<|begin_quest_giver|>
+Arch-Mage Traven: the player's guildmaster in the Mages Guild
+<|end_quest_giver|>
+<|begin_task_locations|>
+Silorn: ruins in the south of Cyrodiil
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+King of Worms: the male master of the necromancers (location: )
+<|end_characters|>
+<|begin_locations|>
+Cyrodiil: a province (location: NONE)
+<|end_locations|>
+<|begin_groups|>
+Mages Guild: a guild of mages (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 Time is against us, and our enemies grow stronger. There is much to do, and little time in which to do it. Your next task is essential. Word has been sent that the Necromancers have been quite busy, creating black soul gems for their master. In particular, a unique Black Soul Gem has been crafted in the south of Cyrodiil, in the ruins of Silorn. This gem needs to be confiscated and brought here, before it can be delivered to the King of Worms and used against us. I have need of it. I believe the Black Soul Gem  may be instrumental in saving our guild. I will explain once you have returned with it. Until then, discussion is useless. A contingent of Battlemages has been sent to the site. I would like you to oversee their actions on my behalf. The only thing that matters is that gem. Do you understand? Once you have it safely in your possession, return here immediately. Know that you have my complete confidence. I would not entrust this job to you if I did not feel you were prepared for it. Now, go.

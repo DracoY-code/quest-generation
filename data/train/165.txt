@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Fix K-9
-Objective: Repair the cybernetic dog K-9 so it can function properly again.
-First Tasks: Find K-9 and assess its malfunction., Obtain the necessary parts to repair K-9., Fix K-9 and restore its operational status.
-First Task Locations: Navarro - A secretive Enclave base where K-9, a cybernetic dog, is located.
-Quest Giver: NONE - NONE (location: NONE)
-Reward: K-9 as a companion - K-9 will join you as a follower after being repaired. (amount: NONE), Experience Points - Earn XP for successfully repairing K-9. (amount: NONE)
-Characters: NONE
-Tools: Electronic parts or a specific repair component., High Repair skill or access to someone who can help.
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Fallout 2
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+Repair the cybernetic dog K-9 so it can function properly again.
+<|end_objective|>
+<|begin_tasks|>
+Find K-9 and assess its malfunction.
+Obtain the necessary parts to repair K-9.
+Fix K-9 and restore its operational status.
+<|end_tasks|>
+<|begin_quest_giver|>
+K-9: A highly intelligent cybernetic dog suffering from a mechanical issue.
+<|end_quest_giver|>
+<|begin_task_locations|>
+Navarro: A secretive Enclave base where K-9, a cybernetic dog, is located.
+<|end_task_locations|>
+<|begin_rewards|>
+K-9 as a companion: K-9 will join you as a follower after being repaired. (amount: NONE)
+Experience Points: Earn XP for successfully repairing K-9. (amount: NONE)
+<|end_rewards|>
+<|end_quest|>
 K-9, a cybernetic dog at Navarro, has developed a malfunction. If you can obtain the right parts and repair it, K-9 will become fully operational again and may even join you on your journey.

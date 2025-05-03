@@ -1,21 +1,28 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Meet the Family
-Objective: speak with some fellow members of the Thieves Guild and pick up your new armor
-First Tasks: talk with Delvin Mallory and Vex and Tonilia for your armor
-First Task Locations: NONE - 
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - new armor (amount: 1)
-Characters: Delvin Mallory, Vex - fellow members of the Thieves Guild who can give the player extra jobs (location: Whiterun), Tonilia - a female member of the Thieves Guild (location: The Ragged Flagon)
-Tools: the player just joined the Thieves Guild: the player should do as they're told and keep their blade clean to get their share of the loot
-Locations: The Ragged Flagon - a bar that is actually a front to the Thieves Guild (location: NONE)
-Items: NONE
-Enemies: NONE
-Groups: Thieves Guild - a guild of thieves
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+speak with some fellow members of the Thieves Guild and pick up your new armor
+<|end_objective|>
+<|begin_tasks|>
+talk with Delvin Mallory and Vex and Tonilia for your armor
+<|end_tasks|>
+<|begin_quest_giver|>
+Brynjolf: the player's superior in the Thieves Guild
+<|end_quest_giver|>
+<|begin_task_locations|>
+NONE: 
+<|end_task_locations|>
+<|begin_rewards|>
+: new armor (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Delvin Mallory, Vex: fellow members of the Thieves Guild who can give the player extra jobs (location: Whiterun)
+Tonilia: a female member of the Thieves Guild (location: The Ragged Flagon)
+<|end_characters|>
+<|begin_locations|>
+The Ragged Flagon: a bar that is actually a front to the Thieves Guild (location: NONE)
+<|end_locations|>
+<|begin_groups|>
+Thieves Guild: a guild of thieves (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 Welcome to the family, kid. I'm expecting you to make us a lot of coin, so don't disappoint me. This is how you get your cut of the spoils. Do as you're told and keep your blade clean. We can't turn a profit by killing. You should talk with Delvin Mallory and Vex. They know their way around this place and they'll be able to kick some extra jobs your way. Oh, and talk to Tonilia in the Flagon... she'll set you up with your new armor.

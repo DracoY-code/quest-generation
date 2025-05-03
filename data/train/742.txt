@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Ancient Power
-Objective: retrieve the petrified remains of an elder vampire
-First Tasks: find the remains
-First Task Locations: Cold Rock Pass - a cave
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - Bloodstone Chalice's salutary effects will be prolonged (amount: 1)
-Characters: NONE
-Tools: NONE
-Locations: NONE
-Items: Bloodstone Chalice - a chalice that is able to increase the potency of the player's vampiric powers (amount: 1)
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+retrieve the petrified remains of an elder vampire
+<|end_objective|>
+<|begin_tasks|>
+find the remains
+<|end_tasks|>
+<|begin_quest_giver|>
+Feran Sadri: a fellow vampire
+<|end_quest_giver|>
+<|begin_task_locations|>
+Cold Rock Pass: a cave
+<|end_task_locations|>
+<|begin_rewards|>
+: Bloodstone Chalice's salutary effects will be prolonged (amount: 1)
+<|end_rewards|>
+<|begin_items|>
+Bloodstone Chalice: a chalice that is able to increase the potency of the player's vampiric powers (amount: 1)
+<|end_items|>
+<|end_quest|>
 I've been performing a little research on the Bloodstone Chalice. I believe we can prolong its salutary effects if we infuse it with potent vampiric blood. I've located the petrified remains of an elder vampire in Cold Rock Pass. Bring them to me, and I should be able to extend the effects granted by the Bloodstone Chalice.

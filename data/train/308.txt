@@ -1,21 +1,29 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Trail of the Grand Regent
-Objective: go to the Watchweald Temple
-First Tasks: take Crows' Pass to the Frosted Hills to catch up to the Grand Regent before he enters the Watchweald Temple
-First Task Locations: NONE - 
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Grand Regent - a male Estherian infected with the plague (location: )
-Tools: this plague targets beings of an inherently magical nature, not humans
-Locations: Watchweald Temple - a temple (location: NONE), Crows' Pass - a pass (location: NONE), Frosted Hills - hills (location: NONE)
-Items: NONE
-Enemies: NONE
-Groups: Estherians - human-like creatures of magical nature
-Title: Torchlight II
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+go to the Watchweald Temple
+<|end_objective|>
+<|begin_tasks|>
+take Crows' Pass to the Frosted Hills to catch up to the Grand Regent before he enters the Watchweald Temple
+<|end_tasks|>
+<|begin_quest_giver|>
+Commander Vale: a human military leader
+<|end_quest_giver|>
+<|begin_task_locations|>
+NONE: 
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Grand Regent: a male Estherian infected with the plague (location: )
+<|end_characters|>
+<|begin_locations|>
+Watchweald Temple: a temple (location: NONE)
+Crows' Pass: a pass (location: NONE)
+Frosted Hills: hills (location: NONE)
+<|end_locations|>
+<|begin_groups|>
+Estherians: human-like creatures of magical nature (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 This plague seems to specifically target beings of an inherently magical nature, such as the Estherians. So far it's not affecting humans, so I've sent for a transport to bring us some medical supplies, and I'll be coordinating the medical relief here. Meanwhile, you need to get out to the Watchweald Temple. Take Crows' Pass to the Frosted Hills. Try to catch up to the Grand Regent before he enters the temple.

@@ -1,21 +1,24 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Notes in Blocks
-Objective: bring 24 note blocks to Zana
-First Tasks: obtain 24 note blocks
-First Task Locations: NONE - 
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - a music disc (amount: 1)
-Characters: NONE
-Tools: the player is an enemy of Zana, the player can craft note blocks from wooden planks and redstone dust
-Locations: NONE
-Items:  - note blocks, used to play musical notes (amount: 24)
-Enemies: NONE
-Groups: NONE
-Title: Minecraft
-Motivation: reputation
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+bring 24 note blocks to Zana
+<|end_objective|>
+<|begin_tasks|>
+obtain 24 note blocks
+<|end_tasks|>
+<|begin_quest_giver|>
+Zana: a musician
+<|end_quest_giver|>
+<|begin_task_locations|>
+NONE: 
+<|end_task_locations|>
+<|begin_rewards|>
+: a music disc (amount: 1)
+<|end_rewards|>
+<|begin_items|>
+: note blocks, used to play musical notes (amount: 24)
+<|end_items|>
+<|begin_motivation|>
+reputation
+<|end_motivation|>
+<|end_quest|>
 I am most certainly not going to sing your praises, you nasty cretin. On the contrary, it would be music to my ears if you helped me reach my musical ambitions. No one in this village seems to care for music, or any of the arts for that matter. For starters, obtain 24 note blocks. It has to be exactly 24, because there are that many different notes to play. It's possible to craft note blocks from wooden planks and redstone dust. Bring the 24 note blocks to me. I'll let you have an old music disc of mine.

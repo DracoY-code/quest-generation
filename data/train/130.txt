@@ -1,21 +1,23 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Help Guard a Secret Transaction Taking Place in the Desert
-Objective: Escort and protect a group conducting a covert exchange in the desert.
-First Tasks: Meet the contact in New Reno to receive instructions., Travel to the designated location in the desert., Ensure the transaction proceeds without interference.
-First Task Locations: New Reno - Meet the quest giver in the city to learn about the mission., Desert Meeting Spot - The secret exchange takes place here, requiring protection from possible threats.
-Quest Giver: NONE - NONE (location: NONE)
-Reward: Cash Reward - Earn $1500 for successfully protecting the transaction. (amount: NONE), Additional Payment - Earn an extra $500 if no harm comes to any of Salvatore's men. (amount: NONE), Favor with Salvatore Family - Successfully completing the quest increases your reputation with the Salvatore family. (amount: NONE)
-Characters: NONE
-Tools: Weapons for combat in case of an ambush., Sneak to scout for potential threats., Speech to negotiate if unexpected parties arrive.
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Fallout 2
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+Escort and protect a group conducting a covert exchange in the desert.
+<|end_objective|>
+<|begin_tasks|>
+Meet the contact in New Reno to receive instructions.
+Travel to the designated location in the desert.
+Ensure the transaction proceeds without interference.
+<|end_tasks|>
+<|begin_quest_giver|>
+Salvatore Family: A powerful crime family in New Reno, orchestrating the secret deal.
+<|end_quest_giver|>
+<|begin_task_locations|>
+New Reno: Meet the quest giver in the city to learn about the mission.
+Desert Meeting Spot: The secret exchange takes place here, requiring protection from possible threats.
+<|end_task_locations|>
+<|begin_rewards|>
+Cash Reward: Earn $1500 for successfully protecting the transaction. (amount: NONE)
+Additional Payment: Earn an extra $500 if no harm comes to any of Salvatore's men. (amount: NONE)
+Favor with Salvatore Family: Successfully completing the quest increases your reputation with the Salvatore family. (amount: NONE)
+<|end_rewards|>
+<|end_quest|>
 You are tasked with guarding a secret exchange in the desert, ensuring the deal goes smoothly and fending off any threats that arise.

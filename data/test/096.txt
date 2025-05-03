@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Become a Prizefighter
-Objective: Win a series of boxing matches in New Reno to earn the Prizefighter title.
-First Tasks: Travel to New Reno and locate the Jungle Gym boxing ring., Speak with Stuart Little to sign up for a fight., Win your first boxing match.
-First Task Locations: Jungle Gym - A boxing ring in New Reno where prizefighting matches take place.
-Quest Giver: NONE - NONE (location: NONE)
-Reward: Prizefighter Title - Grants recognition and respect in New Reno. (amount: NONE), Caps - Earned from winning matches. (amount: NONE)
-Characters: NONE
-Tools: High Unarmed skill to improve chances of winning., Endurance and Strength to withstand hits.
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Fallout 2
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+Win a series of boxing matches in New Reno to earn the Prizefighter title.
+<|end_objective|>
+<|begin_tasks|>
+Travel to New Reno and locate the Jungle Gym boxing ring.
+Speak with Stuart Little to sign up for a fight.
+Win your first boxing match.
+<|end_tasks|>
+<|begin_quest_giver|>
+Stuart Little: The manager of the Jungle Gym who arranges prizefights.
+<|end_quest_giver|>
+<|begin_task_locations|>
+Jungle Gym: A boxing ring in New Reno where prizefighting matches take place.
+<|end_task_locations|>
+<|begin_rewards|>
+Prizefighter Title: Grants recognition and respect in New Reno. (amount: NONE)
+Caps: Earned from winning matches. (amount: NONE)
+<|end_rewards|>
+<|end_quest|>
 Climb the ranks in New Reno’s boxing circuit by winning fights. Defeat your opponents to earn money, fame, and the title of Prizefighter.

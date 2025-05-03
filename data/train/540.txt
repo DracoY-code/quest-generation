@@ -1,21 +1,27 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Proving Honor
-Objective: complete your trial of claiming a fragment of Wuuthrad
-First Tasks: claim another fragment of Wuuthrad with Farkas
-First Task Locations: Dustman's Cairn - a tomb
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - the player will become a true Companion (amount: 1)
-Characters: Farkas - a fellow member of the Companions, a man (location: )
-Tools: Farkas will answer the player's questions about the Companions
-Locations: NONE
-Items: Wuuthrad - a legendary battleaxe (amount: 1)
-Enemies: NONE
-Groups: Companions - a band of honorable warriors
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+complete your trial of claiming a fragment of Wuuthrad
+<|end_objective|>
+<|begin_tasks|>
+claim another fragment of Wuuthrad with Farkas
+<|end_tasks|>
+<|begin_quest_giver|>
+Skjor: the player's superior in the Companions
+<|end_quest_giver|>
+<|begin_task_locations|>
+Dustman's Cairn: a tomb
+<|end_task_locations|>
+<|begin_rewards|>
+: the player will become a true Companion (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Farkas: a fellow member of the Companions, a man (location: )
+<|end_characters|>
+<|begin_items|>
+Wuuthrad: a legendary battleaxe (amount: 1)
+<|end_items|>
+<|begin_groups|>
+Companions: a band of honorable warriors (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 We have something special for you this time. Last week a scholar came to us. He said he knew where we could find another fragment of Wuuthrad. He seemed a fool to me, but if he's right, the honor of the Companions demands that we seek it out in Dustman's Cairn. This is a simple errand, but the time is right for it to be your Trial. Carry yourself with honor, and you'll become a true Companion. Farkas will be your Shield-Sibling on this venture, whelp. He'll answer any questions you have. Try not to disappoint. Or to get Farkas killed.

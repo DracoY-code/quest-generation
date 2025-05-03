@@ -1,21 +1,20 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Find Woody the ghoul for Percy. Try the Den
-Objective: Locate Woody the ghoul and inform Percy of his whereabouts.
-First Tasks: Search for Woody in The Den., Return to Percy and report Woody’s location.
-First Task Locations: The Den - A lawless town known for its criminal activity and human trafficking.
-Quest Giver: NONE - NONE (location: NONE)
-Reward: Caps - A small sum of money as a token of gratitude. (amount: 100), Improved Reputation with Gecko - The ghouls of Gecko will recognize your efforts. (amount: NONE)
-Characters: NONE
-Tools: Speech skill to ask locals about Woody., Perception to notice any clues in The Den.
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Fallout 2
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+Locate Woody the ghoul and inform Percy of his whereabouts.
+<|end_objective|>
+<|begin_tasks|>
+Search for Woody in The Den.
+Return to Percy and report Woody’s location.
+<|end_tasks|>
+<|begin_quest_giver|>
+Percy: A concerned individual looking for his friend Woody.
+<|end_quest_giver|>
+<|begin_task_locations|>
+The Den: A lawless town known for its criminal activity and human trafficking.
+<|end_task_locations|>
+<|begin_rewards|>
+Caps: A small sum of money as a token of gratitude. (amount: 100)
+Improved Reputation with Gecko: The ghouls of Gecko will recognize your efforts. (amount: NONE)
+<|end_rewards|>
+<|end_quest|>
 Percy is looking for his friend Woody, a missing ghoul. He believes Woody might be in The Den. You must search for him and return with information.

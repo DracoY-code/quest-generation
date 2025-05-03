@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Payment Delivery
-Objective: help Pactur alleviate Bryling's wrath about missing shipments
-First Tasks: tell Bryling that there will be a shipment soon
-First Task Locations: Solitude - a city
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - Pactur lets the player take a few ingots from Bryling's mine (amount: 1)
-Characters: Bryling - a harsh noblewoman (location: Solitude)
-Tools: NONE
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+help Pactur alleviate Bryling's wrath about missing shipments
+<|end_objective|>
+<|begin_tasks|>
+tell Bryling that there will be a shipment soon
+<|end_tasks|>
+<|begin_quest_giver|>
+Pactur: the overseer of Bryling's mine
+<|end_quest_giver|>
+<|begin_task_locations|>
+Solitude: a city
+<|end_task_locations|>
+<|begin_rewards|>
+: Pactur lets the player take a few ingots from Bryling's mine (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Bryling: a harsh noblewoman (location: Solitude)
+<|end_characters|>
+<|end_quest|>
 Bryling's already come down hard on us for missing shipments. Likely to do it again, since we're late. You could take word to her in Solitude that there'll be a shipment soon. Buy us some time and keep her off our backs. In exchange, I'm willing to let a few ingots go missing. Maybe more than a few. You'd do me quite a favor. I wouldn't forget it. I'm sure she'll be angry. Brace yourself.

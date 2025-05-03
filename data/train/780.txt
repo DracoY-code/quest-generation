@@ -1,21 +1,27 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: A Shattered Visage Lies
-Objective: help the Faceless King reunite the Zeraphi and Ezrohir
-First Tasks: find the Royal Masks, and bring them to the Faceless King
-First Task Locations: NONE - 
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: NONE
-Tools: NONE
-Locations: Vault of Souls - a place where the Faceless King can reunite the Zeraphi and Ezrohir (location: NONE)
-Items: Royal Masks - the masks of the royal line, keys to the Vault of Souls (amount: 1)
-Enemies: NONE
-Groups: Zeraphi, Ezrohir - two warring races of people who were once one race
-Title: Torchlight II
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+help the Faceless King reunite the Zeraphi and Ezrohir
+<|end_objective|>
+<|begin_tasks|>
+find the Royal Masks, and bring them to the Faceless King
+<|end_tasks|>
+<|begin_quest_giver|>
+Faceless King: the former king of the Zeraphi and Ezrohir, an immortal man
+<|end_quest_giver|>
+<|begin_task_locations|>
+NONE: 
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_locations|>
+Vault of Souls: a place where the Faceless King can reunite the Zeraphi and Ezrohir (location: NONE)
+<|end_locations|>
+<|begin_items|>
+Royal Masks: the masks of the royal line, keys to the Vault of Souls (amount: 1)
+<|end_items|>
+<|begin_groups|>
+Zeraphi, Ezrohir: two warring races of people who were once one race (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 I am called the Faceless King, and I have resided here since the Zeraphi and Ezrohir were one race. I was their king. It has been my dream to reunite them by accessing the Vault of Souls, but the Vault will not open without the masks of the royal line, which were stolen from me ages ago. If you can locate the Royal Masks and return them to me, I can unlock the Vault of Souls, and reunite the Zeraphi and Ezrohir! Please, my mortal friend... help me end this war.

@@ -1,21 +1,22 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Switching Sides
-Objective: find the lair of the rival guild
-First Tasks: pose as the rival guild's new recruit to the rival guild's recruiter
-First Task Locations: Five Flagons - a tavern in the Bridge District
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Jaylos - a male member of Aran Linvail's guild (location: ), Caehan - a male member of Aran Linvail's guild (location: )
-Tools: Jaylos and Caehan are planning leave Aran Linvail's guild to join the rival guild: they are supposed to meet their contact on the second floor of the Five Flagons
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Baldur's Gate II: Shadows of Amn
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+find the lair of the rival guild
+<|end_objective|>
+<|begin_tasks|>
+pose as the rival guild's new recruit to the rival guild's recruiter
+<|end_tasks|>
+<|begin_quest_giver|>
+Aran Linvail: a man leading a guild of thieves
+<|end_quest_giver|>
+<|begin_task_locations|>
+Five Flagons: a tavern in the Bridge District
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Jaylos: a male member of Aran Linvail's guild (location: )
+Caehan: a male member of Aran Linvail's guild (location: )
+<|end_characters|>
+<|end_quest|>
 Two of our men, Jaylos and Caehan by name, are planning to leave our little community and join with our enemies. Greener grass and all of that, I suppose. They are to meet their contact on the second floor of the Five Flagons tavern in the Bridge District. Go there and pose as one of our enemy's new recruits. I want to know where our enemy's lair is. We have yet to find it. This recruiter could arrive at any time so I suggest that you go to the Five Flagons now. They may prove unreasonable, so prepare yourself for hostility. Return when you have the information we need.

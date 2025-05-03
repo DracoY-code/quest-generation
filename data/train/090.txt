@@ -1,21 +1,20 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Learn about Vault City and education from Mrs. Bishop
-Objective: Talk to Mrs. Bishop and learn about Vault City and its education system.
-First Tasks: Find Mrs. Bishop in New Reno., Speak with her and ask about Vault City and education., Listen to the information she provides.
-First Task Locations: Bishop family residence - A well-guarded location in New Reno, home to the Bishop family.
-Quest Giver: NONE - NONE (location: NONE)
-Reward: Experience Points - A small experience boost for learning about Vault City. (amount: 500)
-Characters: NONE
-Tools: N, O, N, E
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Fallout 2
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+Talk to Mrs. Bishop and learn about Vault City and its education system.
+<|end_objective|>
+<|begin_tasks|>
+Find Mrs. Bishop in New Reno.
+Speak with her and ask about Vault City and education.
+Listen to the information she provides.
+<|end_tasks|>
+<|begin_quest_giver|>
+Mrs. Bishop: The wife of John Bishop, leader of the Bishop family in New Reno.
+<|end_quest_giver|>
+<|begin_task_locations|>
+Bishop family residence: A well-guarded location in New Reno, home to the Bishop family.
+<|end_task_locations|>
+<|begin_rewards|>
+Experience Points: A small experience boost for learning about Vault City. (amount: 500)
+<|end_rewards|>
+<|end_quest|>
 Mrs. Bishop has knowledge about Vault City and its education system. Talk to her and learn about these topics.

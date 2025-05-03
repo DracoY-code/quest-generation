@@ -1,21 +1,25 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: The Lonely Wanderer
-Objective: assassinate Faelian without attraction the attention of Adamus Phillida
-First Tasks: find Faelian
-First Task Locations: Imperial City - a large city with many districts
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - a bonus if the player kills Faelian indoors with no other people around (amount: 1)
-Characters: Faelian - a male high Elf, who fancies long walks, living somewhere in the Imperial City (location: Imperial City), Adamus Phillida - a male Imperial Legion captain, who has dedicated his life to eradicating the Dark Brotherhood (location: Imperial City)
-Tools: finding Faelian will be challenging: the player should speak to their fellow Dark Brotherhood members for advice, Adamus Phillida does not tolerate Dark Brotherhood operations within the Imperial City
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: Dark Brotherhood - a guild of assassins
-Title: The Elder Scrolls IV: Oblivion
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+assassinate Faelian without attraction the attention of Adamus Phillida
+<|end_objective|>
+<|begin_tasks|>
+find Faelian
+<|end_tasks|>
+<|begin_quest_giver|>
+Ocheeva: the player's superior in the Dark Brotherhood
+<|end_quest_giver|>
+<|begin_task_locations|>
+Imperial City: a large city with many districts
+<|end_task_locations|>
+<|begin_rewards|>
+: a bonus if the player kills Faelian indoors with no other people around (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Faelian: a male high Elf, who fancies long walks, living somewhere in the Imperial City (location: Imperial City)
+Adamus Phillida: a male Imperial Legion captain, who has dedicated his life to eradicating the Dark Brotherhood (location: Imperial City)
+<|end_characters|>
+<|begin_groups|>
+Dark Brotherhood: a guild of assassins (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 In the Imperial City there lives a High Elf who must be removed from existence. Finding this person may prove... challenging. Are you interested? Your target is a High Elf named Faelian. He lives somewhere in the Imperial City, and fancies long walks. Unfortunately, that's all we know. We don't know which district he calls home, which establishments he frequents, or anything about his schedule. This contract will require a bit of detective work. I suggest you to speak to your fellow Brothers and Sisters and see if they can offer any advice. Ah yes, there is one more thing. The Imperial City is also home to an Imperial Legion captain named Adamus Phillida. Phillida has dedicated his life to eradicating the Dark Brotherhood. He will not tolerate our operations within the Imperial City. When that happens, he tends to make our lives uncomfortable. Let's not give the good captain any reason to go poking around in our affairs, hmm? If possible, do away with Faelian someplace out of the way. Definitely indoors, with no other people around. A secure location, with no witnesses. This will make it look like a simple murder. Phillida will be none the wiser, and you'll receive a nice bonus. Now go, and may the Reaper of Souls go with you.

@@ -1,21 +1,24 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Teekeeus' Old Rival
-Objective: find a way to get rid of Earana
-First Tasks: determine what Earana is after
-First Task Locations: Chorrol - a city
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - Teekeeus' recommendation (amount: 1)
-Characters: Earana - a female mage who has been kicked out of the Mages Guild (location: Chorrol)
-Tools: the player asked a recommendation from Teekeeus, Earana and Teekeeus have an unpleasant history: Earana does not care for Mages Guild regulations, and believes Teekeus is mis-using his powers
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: Mages Guild - a guild of mages
-Title: The Elder Scrolls IV: Oblivion
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+find a way to get rid of Earana
+<|end_objective|>
+<|begin_tasks|>
+determine what Earana is after
+<|end_tasks|>
+<|begin_quest_giver|>
+Teekeeus: one of the leader of the Mages Guild
+<|end_quest_giver|>
+<|begin_task_locations|>
+Chorrol: a city
+<|end_task_locations|>
+<|begin_rewards|>
+: Teekeeus' recommendation (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Earana: a female mage who has been kicked out of the Mages Guild (location: Chorrol)
+<|end_characters|>
+<|begin_groups|>
+Mages Guild: a guild of mages (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 I'm afraid I can't just write one out of hand. That would be against protocols, you see. If perhaps you can clear up a small matter involving Earana, you can prove your loyalty to the guild and earn my recommendation. Earana and I have an unpleasant history. She does not care for Guild regulations, and errantly believes I am mis-using my powers. I have seen that she is in town. Though she has not approached me, I know she wants something. I would like you to find out what it is. Determine what Earana's after, and how we may be rid of her. I do not want her here, spreading her lies.

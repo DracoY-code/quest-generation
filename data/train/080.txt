@@ -1,21 +1,22 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Hungry Pups
-Objective: deliver spiced beef to Voada
-First Tasks: find Voada
-First Task Locations: Understone Keep - the Jarl's palace
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Jarl - a nobleman (location: ), Voada - the Jarl's female dog handler (location: Understone Keep)
-Tools: NONE
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+deliver spiced beef to Voada
+<|end_objective|>
+<|begin_tasks|>
+find Voada
+<|end_tasks|>
+<|begin_quest_giver|>
+Banning: a dog breeder and trainer
+<|end_quest_giver|>
+<|begin_task_locations|>
+Understone Keep: the Jarl's palace
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Jarl: a nobleman (location: )
+Voada: the Jarl's female dog handler (location: Understone Keep)
+<|end_characters|>
+<|end_quest|>
 My family has been breeding and training dogs for years. You need one out in the wilderness. Don't want to be alone when some bandit comes swinging. I personally trained a whole litter for the Jarl. That reminds me, I was going to deliver some dog food to the Keep. Spiced beef. Their favorite. You volunteer to make trip and deliver the food? Well, look at you, thanks. Take it to Voada, she handles all the dogs for the Jarl.

@@ -1,21 +1,22 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Perdue's Short Sword
-Objective: kill the gnoll who stole Perdue's short sword
-First Tasks: find the gnoll
-First Task Locations:  - in the hills west of Beregost, close to the High Hedge
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - gold pieces (amount: 75)
-Characters: NONE
-Tools: NONE
-Locations: Beregost - a town (location: NONE), High Hedge - a landmark (location: NONE)
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Baldur's Gate
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+kill the gnoll who stole Perdue's short sword
+<|end_objective|>
+<|begin_tasks|>
+find the gnoll
+<|end_tasks|>
+<|begin_quest_giver|>
+Perdue: a man who doesn't like gnolls
+<|end_quest_giver|>
+<|begin_task_locations|>
+: in the hills west of Beregost, close to the High Hedge
+<|end_task_locations|>
+<|begin_rewards|>
+: gold pieces (amount: 75)
+<|end_rewards|>
+<|begin_locations|>
+Beregost: a town (location: NONE)
+High Hedge: a landmark (location: NONE)
+<|end_locations|>
+<|end_quest|>
 Hullo. The name's Perdue. There's a gnoll 'oled up in the hills due west of 'ere, close to the High Hedge. Damn thievin' ball-o-fur stole my short sword two days back. The sword ain't worth the tin she's made from. I'll give ya 75 gold pieces just to seal that yappin' mouth of 'is for good.

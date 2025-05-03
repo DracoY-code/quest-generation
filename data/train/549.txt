@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: A Tour in Hell
-Objective: explore the Nether with Sam
-First Tasks: go to the Nether with Sam
-First Task Locations: Nether - a dangerous, hellish ream
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - diamonds (amount: 10)
-Characters: NONE
-Tools: NONE
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Minecraft
-Motivation: reputation
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+explore the Nether with Sam
+<|end_objective|>
+<|begin_tasks|>
+go to the Nether with Sam
+<|end_tasks|>
+<|begin_quest_giver|>
+Sam: a fame-seeking man
+<|end_quest_giver|>
+<|begin_task_locations|>
+Nether: a dangerous, hellish ream
+<|end_task_locations|>
+<|begin_rewards|>
+: diamonds (amount: 10)
+<|end_rewards|>
+<|begin_motivation|>
+reputation
+<|end_motivation|>
+<|end_quest|>
 I really want to see something more interesting than the bounds of this village. That would also elevate my status among the other villagers. Traveler, can you take me to the Nether? I want see that hellish realm myself, but I can't fend off its dangers all by myself. Let us explore the place together. You will also get a fair reward for being my guide in the Nether: 10 diamonds. Don't spend them all at once.

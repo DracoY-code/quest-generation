@@ -1,21 +1,30 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: The Pursuit
-Objective: search for clues about Mercer Frey's whereabouts
-First Tasks: break into Mercer Frey's house
-First Task Locations: Riftweald Manor - Mercer Frey's home in Riften, a gift from the Black-Briars after they kicked the previous family out
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Mercer Frey - a male guildmaster of the Thieves Guild who betrayed the Thieves Guild (location: ), Vald - a male lowlife (location: Riftweald Manor)
-Tools: Mercer Frey never stays at Riftweald Manor: he hired Vald to guard Riftweald Manor, the player has the permission to kill anyone who stands in their way
-Locations: Riften - a city in Skyrim (location: NONE), Skyrim - a province (location: NONE)
-Items: NONE
-Enemies: NONE
-Groups: Thieves Guild - a guild of thieves, Black-Briars - a powerful crime family
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+search for clues about Mercer Frey's whereabouts
+<|end_objective|>
+<|begin_tasks|>
+break into Mercer Frey's house
+<|end_tasks|>
+<|begin_quest_giver|>
+Brynjolf: a fellow member of the Thieves Guild
+<|end_quest_giver|>
+<|begin_task_locations|>
+Riftweald Manor: Mercer Frey's home in Riften, a gift from the Black-Briars after they kicked the previous family out
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Mercer Frey: a male guildmaster of the Thieves Guild who betrayed the Thieves Guild (location: )
+Vald: a male lowlife (location: Riftweald Manor)
+<|end_characters|>
+<|begin_locations|>
+Riften: a city in Skyrim (location: NONE)
+Skyrim: a province (location: NONE)
+<|end_locations|>
+<|begin_groups|>
+Thieves Guild: a guild of thieves (amount: NONE)
+Black-Briars: a powerful crime family (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 I have an important task for you. I need you to break into Mercer Frey's home and search for anything that could tell us where he's gone. Mercer's house is in Riften. A gift from the Black-Briars after they kicked the previous family out... a place called Riftweald Manor. He never stays there, just pays for the upkeep on it. Hired some lout by the name of Vald to guard the place. Be careful, kid. This is the last place in Skyrim I'd ever want to send you. Just find a way in, get the information and leave. And you have permission to kill anyone that stands in your way.

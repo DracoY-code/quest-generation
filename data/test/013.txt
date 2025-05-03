@@ -1,21 +1,18 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Separated at Birth
-Objective: investigate the rumors about another Reynald Jemane in Cheydinhal
-First Tasks: find the person whose impersonating Reynald Jemane and tell him to stop
-First Task Locations: Cheydinhal - a city
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - gold pieces (amount: 50)
-Characters: NONE
-Tools: Reynald Jemane has never been to Cheydinhal
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls IV: Oblivion
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+investigate the rumors about another Reynald Jemane in Cheydinhal
+<|end_objective|>
+<|begin_tasks|>
+find the person whose impersonating Reynald Jemane and tell him to stop
+<|end_tasks|>
+<|begin_quest_giver|>
+Reynald Jemane: an annoyed man, drinking his sorrows away
+<|end_quest_giver|>
+<|begin_task_locations|>
+Cheydinhal: a city
+<|end_task_locations|>
+<|begin_rewards|>
+: gold pieces (amount: 50)
+<|end_rewards|>
+<|end_quest|>
 If I've told you once, I've told you a thousand times. I've NEVER been to Cheydinhal! I... oh, hang on. You're someone else. Apologies, my good friend, I mistook you for someone else. Always being asked about it, I am. 'Didn't I see you in Cheydinhal?', they say. Well I'm sick of it. Sick and tired, tired and sick. And perhaps a little drunk. But never mind. You look like the honest sort, so I've a job for you. You're going to travel to Cheydinhal, and find out what sort of impostor is trying to besmirch my good name. And you're going to tell him... *hic*... You're going to tell him I am quite capable of besmirching my good name on my own. He should cease and desist immediately. There's fifty gold pieces in it for you, friend...

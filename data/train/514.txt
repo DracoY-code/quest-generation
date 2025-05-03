@@ -1,21 +1,27 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Who to Poison?
-Objective: deliver a bottle of Nightshade extract to Wuunferth
-First Tasks: find Wuunferth
-First Task Locations: NONE - 
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Wuunferth - the male court wizard (location: )
-Tools: Hillevi Cruel-Sea's goods are grown at Hollyfrost Farm
-Locations: Hollyfrost Farm - a farm owned by Hillevi Cruel-Sea's family (location: NONE)
-Items: Nightshade - a poisonous plant (amount: 1)
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+deliver a bottle of Nightshade extract to Wuunferth
+<|end_objective|>
+<|begin_tasks|>
+find Wuunferth
+<|end_tasks|>
+<|begin_quest_giver|>
+Hillevi Cruel-Sea: a food vendor
+<|end_quest_giver|>
+<|begin_task_locations|>
+NONE: 
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Wuunferth: the male court wizard (location: )
+<|end_characters|>
+<|begin_locations|>
+Hollyfrost Farm: a farm owned by Hillevi Cruel-Sea's family (location: NONE)
+<|end_locations|>
+<|begin_items|>
+Nightshade: a poisonous plant (amount: 1)
+<|end_items|>
+<|end_quest|>
 Everything you see is grown at my family's own Hollyfrost Farm. Fresh and filling. I also do a little herb growing. The court wizard, Wuunferth, pays us to plant a little Nightshade. Who knows what he uses it for? A poison like that? Hey, could you deliver this bottle of Nightshade extract to Wuunferth?

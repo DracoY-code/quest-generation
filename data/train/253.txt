@@ -1,21 +1,18 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Refuge for the Elves
-Objective: help the refugees find a safe place to be
-First Tasks: find someone who could take the refugees in
-First Task Locations: NONE - 
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - the refugees' thankfulness (amount: 1)
-Characters: NONE
-Tools: the refugees have no money, the innkeeper turned the refugees away
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Baldur's Gate II: Shadows of Amn
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+help the refugees find a safe place to be
+<|end_objective|>
+<|begin_tasks|>
+find someone who could take the refugees in
+<|end_tasks|>
+<|begin_quest_giver|>
+: the refugees, elves
+<|end_quest_giver|>
+<|begin_task_locations|>
+NONE: 
+<|end_task_locations|>
+<|begin_rewards|>
+: the refugees' thankfulness (amount: 1)
+<|end_rewards|>
+<|end_quest|>
 We are elven refugees in dire need of help! We have nowhere to stay... we have no choice but to wander the streets. I fear we will soon run into trouble with the soldiers of this town. We have no money, and the innkeeper turned us away because he feared our wives would draw unwanted attention from the soldiers. Who else would have the heart and the room to take us all in? Perhaps you can find someone willing to take us in? We would be truly thankful for your help.

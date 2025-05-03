@@ -1,21 +1,28 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: The Rosethorn Cache
-Objective: find Daravyn the Gray's hidden treasure
-First Tasks: solve the riddle that takes you to the treasure
-First Task Locations: Rosethorn Hall - a manor house
-Quest Giver: NONE - NONE (location: NONE)
-Reward: Daravyn the Gray's treasure - a treasure (amount: 1)
-Characters: Delgariun - a man who betrayed Daravyn the Gray (location: )
-Tools: "Long Forgotten Note" is addressed to Daravyn the Gray's fiancée, Daravyn the Gray escaped from the prison in the Imperial City
-Locations: Imperial City - a city (location: NONE)
-Items: "Long Forgotten Note" - a note (amount: 1),  - riddle, "Two bodies have I, though both joined in one. The more I stand still, the quicker I run." (amount: 1)
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls IV: Oblivion
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+find Daravyn the Gray's hidden treasure
+<|end_objective|>
+<|begin_tasks|>
+solve the riddle that takes you to the treasure
+<|end_tasks|>
+<|begin_quest_giver|>
+Daravyn the Gray: a thief hiding from the guards, giving quest via "Long Forgotten Note"
+<|end_quest_giver|>
+<|begin_task_locations|>
+Rosethorn Hall: a manor house
+<|end_task_locations|>
+<|begin_rewards|>
+Daravyn the Gray's treasure: a treasure (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Delgariun: a man who betrayed Daravyn the Gray (location: )
+<|end_characters|>
+<|begin_locations|>
+Imperial City: a city (location: NONE)
+<|end_locations|>
+<|begin_items|>
+"Long Forgotten Note": a note (amount: 1)
+: riddle, "Two bodies have I, though both joined in one. The more I stand still, the quicker I run." (amount: 1)
+<|end_items|>
+<|end_quest|>
 Long Forgotten Note by Daravyn the Gray  My love, I write this with trembling hands. The guards are after me, and I have nowhere else to turn. Soon they will be at the doors to Rosethorn Hall, and nothing will keep them from taking me away back to that horrible prison. I don't know how they found me; perhaps it was that traitor, Delgariun. Whoever told them I was hiding in your home must have known both of us very well. I know Delgariun has eyes for you, I know he's the one that framed me in the first place and had me sent to that dank hole in the Imperial City. He has to be the one. Beware of him, my love. He's treacherous and only wants you to get to the treasure. I didn't give it up to the guards, and I won't give it up to Delgariun. I've hidden the treasure within the walls of Rosethorn Hall. Remember the toy we played with as we ran through this place as children? Remember the riddle we had for it? It was our secret code: "Two bodies have I, though both joined in one. The more I stand still, the quicker I run." The key to the treasure lies with the answer. Take care of it, my love. It is your ticket far from Delgariun. Do not fret, I've escaped once, I shall do so again. Soon we will be together, and the sun will shine upon us. Daravyn the Gray

@@ -1,21 +1,28 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Necromancer's Moon
-Objective: find information on Black Soul Gems, especially about their powers and creation
-First Tasks: speak to Tar-Meena about Black Soul Gems
-First Task Locations: Mystic Archives - archives within the Arcane University
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Tar-Meena - the Mages Guild's female specialist on magicka arcana (location: Mystic Archives), Arch-Mage - the guildleader of the Mages Guild (location: )
-Tools: Tar-Meena is reading about Necromancy, only stopping to sleep, at the Arch-Mage's request
-Locations: Arcane University - a university for mages (location: NONE)
-Items: NONE
-Enemies: NONE
-Groups: Mages Guild - a guild of mages
-Title: The Elder Scrolls IV: Oblivion
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+find information on Black Soul Gems, especially about their powers and creation
+<|end_objective|>
+<|begin_tasks|>
+speak to Tar-Meena about Black Soul Gems
+<|end_tasks|>
+<|begin_quest_giver|>
+Raminus Polus: the player's superior in the Mages Guild
+<|end_quest_giver|>
+<|begin_task_locations|>
+Mystic Archives: archives within the Arcane University
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Tar-Meena: the Mages Guild's female specialist on magicka arcana (location: Mystic Archives)
+Arch-Mage: the guildleader of the Mages Guild (location: )
+<|end_characters|>
+<|begin_locations|>
+Arcane University: a university for mages (location: NONE)
+<|end_locations|>
+<|begin_groups|>
+Mages Guild: a guild of mages (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 I'd like you to speak with Tar-Meena at the Mystic Archives. She is our specialist on magicka arcana, and has been helping gather information. I believe we have been asking her the wrong questions, taxing her too much with vague attempts to make sense of all that we know. Speak with her specifically about these Black Soul Gems. If she knows anything about their powers or creation. Her expertise in arcane knowledge and lore could be invaluable to us, if we can make proper use of it. She can likely be found in the Archives now, poring through materials on Necromancy. She stops only to sleep, at the Arch-Mage's request.

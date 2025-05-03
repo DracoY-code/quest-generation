@@ -1,21 +1,22 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Scout the Northern Wastes
-Objective: Explore and map the northern wasteland for the Brotherhood of Steel.
-First Tasks: Speak with the Brotherhood representative to receive scouting orders., Travel north into the wasteland and record notable locations., Return to the Brotherhood and report findings.
-First Task Locations: Brotherhood of Steel Bunker - The headquarters of the Brotherhood of Steel, where scouting orders are given., Northern Wasteland - An uncharted region filled with potential threats and points of interest.
-Quest Giver: NONE - NONE (location: NONE)
-Reward: Brotherhood Reputation Boost - Increases standing with the Brotherhood of Steel. (amount: NONE), Experience Points - Earned upon successful completion. (amount: 750)
-Characters: NONE
-Tools: Binoculars (for long-range scouting), Map and marker (for charting new locations), Survival gear (for hazardous conditions)
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Fallout
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+Explore and map the northern wasteland for the Brotherhood of Steel.
+<|end_objective|>
+<|begin_tasks|>
+Speak with the Brotherhood representative to receive scouting orders.
+Travel north into the wasteland and record notable locations.
+Return to the Brotherhood and report findings.
+<|end_tasks|>
+<|begin_quest_giver|>
+Brotherhood Scout Leader: A Brotherhood officer responsible for gathering intelligence on the wasteland.
+<|end_quest_giver|>
+<|begin_task_locations|>
+Brotherhood of Steel Bunker: The headquarters of the Brotherhood of Steel, where scouting orders are given.
+Northern Wasteland: An uncharted region filled with potential threats and points of interest.
+<|end_task_locations|>
+<|begin_rewards|>
+Brotherhood Reputation Boost: Increases standing with the Brotherhood of Steel. (amount: NONE)
+Experience Points: Earned upon successful completion. (amount: 750)
+<|end_rewards|>
+<|end_quest|>
 The Brotherhood of Steel needs updated intelligence on the northern wasteland. Your mission is to travel into the unknown, observe points of interest, and return with a report. The journey may be dangerous, so preparation is key.

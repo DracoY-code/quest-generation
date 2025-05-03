@@ -1,21 +1,28 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Hail Sithis!
-Objective: assassinate Titus Mede II
-First Tasks: get onboard
-First Task Locations: Katariah - Titus Mede II's ship, moored offshore in the Solitude inlet
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - Amaund Motierre will reveal the location of the dead drop that holds the player's payment (amount: 1)
-Characters: Titus Mede II - the Emperor (location: onboard the Katariah)
-Tools: the player is a member of the Dark Brotherhood, Titus Mede II will be surrounded by elite bodyguards, but they might be more lax than usual because everyone assumes that the Dark Brotherhood has been destroyed
-Locations: Solitude - a city in Skyrim (location: NONE), Skyrim - a province of the Empire (location: NONE)
-Items: NONE
-Enemies: NONE
-Groups: Dark Brotherhood - a guild of assassins
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+assassinate Titus Mede II
+<|end_objective|>
+<|begin_tasks|>
+get onboard
+<|end_tasks|>
+<|begin_quest_giver|>
+Amaund Motierre: a man who has contracted the Dark Brotherhood to kill Titus Mede II
+<|end_quest_giver|>
+<|begin_task_locations|>
+Katariah: Titus Mede II's ship, moored offshore in the Solitude inlet
+<|end_task_locations|>
+<|begin_rewards|>
+: Amaund Motierre will reveal the location of the dead drop that holds the player's payment (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Titus Mede II: the Emperor (location: onboard the Katariah)
+<|end_characters|>
+<|begin_locations|>
+Solitude: a city in Skyrim (location: NONE)
+Skyrim: a province of the Empire (location: NONE)
+<|end_locations|>
+<|begin_groups|>
+Dark Brotherhood: a guild of assassins (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 The Emperor is still in Skyrim, but not for long. He's onboard his ship, the Katariah, moored offshore in the Solitude inlet. But you must hurry! If you can get onboard that ship. Kill Titus Mede II, as contracted... I will reveal the location of the dead drop that holds your payment. This is the true Emperor, not some half-penny lookalike. He'll be surrounded by elite bodyguards, I'm sure. You'll have your work cut out for you. Still... everyone assumes the Dark Brotherhood has been completely destroyed. They may be a bit more lax than usual.

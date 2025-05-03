@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Breaking a Monopoly
-Objective: weaken the "resources" of the Shadow Thieves
-First Tasks: steal the shipment of supplies belonging to the Shadow Thieves
-First Task Locations:  - the docks
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: NONE
-Tools: Bodhi wants to break a monopoly in this town, the shipment of supplies arrives by boat: if the player does not get the shipment of supplies in the next few days, the player will fail
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: Shadow Thieves - a guild of thieves
-Title: Baldur's Gate II: Shadows of Amn
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+weaken the "resources" of the Shadow Thieves
+<|end_objective|>
+<|begin_tasks|>
+steal the shipment of supplies belonging to the Shadow Thieves
+<|end_tasks|>
+<|begin_quest_giver|>
+Bodhi: a courteous woman
+<|end_quest_giver|>
+<|begin_task_locations|>
+: the docks
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_groups|>
+Shadow Thieves: a guild of thieves (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 I am Bodhi, and I greet you warmly. There is a monopoly in this town, and I intend to break it. I will ask you to weaken the "resources" of the Shadow Thieves. I wish a campaign of disruption, and you will begin it. There is a shipment of supplies arriving by boat. You are to... confiscate it. I suggest you move against that ship coming in. They won't be at the docks for long, and if you do not get the cargo in the next few days, you will fail. Farewell and good fortune.

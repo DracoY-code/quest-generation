@@ -1,21 +1,28 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Bounty: Sturmbeorn!
-Objective: alleviate the threat of the Sturmbeorn
-First Tasks: kill 10 Sturmbeorn
-First Task Locations: Temple Steppes - a grassland plain
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - bounty (amount: 1)
-Characters: NONE
-Tools: NONE
-Locations: NONE
-Items: "Bounty Board" - a bounty board (amount: 1)
-Enemies: Sturmbeorn - savage raiders attacking the Estherians and the settlers of the Empire (amount: 10)
-Groups: Vanquisher Corps - a military outfit, Estherians - a race of people
-Title: Torchlight II
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+alleviate the threat of the Sturmbeorn
+<|end_objective|>
+<|begin_tasks|>
+kill 10 Sturmbeorn
+<|end_tasks|>
+<|begin_quest_giver|>
+Commander Vale: the leader of the Vanquisher Corps, giving quest via "Bounty Board"
+<|end_quest_giver|>
+<|begin_task_locations|>
+Temple Steppes: a grassland plain
+<|end_task_locations|>
+<|begin_rewards|>
+: bounty (amount: 1)
+<|end_rewards|>
+<|begin_items|>
+"Bounty Board": a bounty board (amount: 1)
+<|end_items|>
+<|begin_enemies|>
+Sturmbeorn: savage raiders attacking the Estherians and the settlers of the Empire (amount: 10)
+<|end_enemies|>
+<|begin_groups|>
+Vanquisher Corps: a military outfit (amount: NONE)
+Estherians: a race of people (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 BOUNTY! The Sturmbeorn raiders are a threat to the Estherians and to the brave settlers of the Empire. Commander Vale is authorized to pay a reward to anyone who assists the Vanquisher Corps in ridding the Temple Steppes of these savage brutes. This bounty shall be paid to anyone who slays 10 or more Sturmbeorn in the Temple Steppes.

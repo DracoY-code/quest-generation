@@ -1,21 +1,22 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Eliminate Mr. Bishop
-Objective: Assassinate Mr. Bishop, the ruthless crime boss of New Reno.
-First Tasks: Gather intelligence on Mr. Bishop's location and security., Infiltrate the Shark Club, where Bishop resides., Neutralize Mr. Bishop without being overwhelmed by his guards.
-First Task Locations: Shark Club - A high-class casino and the headquarters of the Bishop crime family in New Reno.
-Quest Giver: NONE - NONE (location: NONE)
-Reward: Experience Points - Earned for successfully eliminating Mr. Bishop. (amount: 2000), Caps - Loot from Bishop's corpse or as payment from an employer. (amount: Varies (can loot up to 1000 caps from Bishop's safe)), Weapons and Equipment - Potential loot from Bishop's guards and safe. (amount: NONE)
-Characters: NONE
-Tools: Stealth skills to avoid unnecessary combat., Lockpicking to access Bishop's quarters undetected., High combat proficiency if taking a direct approach.
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Fallout 2
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+Assassinate Mr. Bishop, the ruthless crime boss of New Reno.
+<|end_objective|>
+<|begin_tasks|>
+Gather intelligence on Mr. Bishop's location and security.
+Infiltrate the Shark Club, where Bishop resides.
+Neutralize Mr. Bishop without being overwhelmed by his guards.
+<|end_tasks|>
+<|begin_quest_giver|>
+Various (depending on prior actions): Several factions or individuals may want Bishop eliminated, or the player may act on personal motives.
+<|end_quest_giver|>
+<|begin_task_locations|>
+Shark Club: A high-class casino and the headquarters of the Bishop crime family in New Reno.
+<|end_task_locations|>
+<|begin_rewards|>
+Experience Points: Earned for successfully eliminating Mr. Bishop. (amount: 2000)
+Caps: Loot from Bishop's corpse or as payment from an employer. (amount: Varies (can loot up to 1000 caps from Bishop's safe))
+Weapons and Equipment: Potential loot from Bishop's guards and safe. (amount: NONE)
+<|end_rewards|>
+<|end_quest|>
 Mr. Bishop, one of the most powerful crime bosses in New Reno, has made many enemies. Whether for personal revenge, payment, or factional interest, you have the chance to eliminate him. The Shark Club is well-guarded, so careful planning is necessary.

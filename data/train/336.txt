@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Hostage Negotiations
-Objective: defeat Kidrik the Mauler, and free his hostages
-First Tasks: find Kidrik the Mauler and his captives
-First Task Locations:  - the underground slave den
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Kidrik the Mauler - the male leader of the slavers (location: the underground slave den)
-Tools: Kidrik the Mauler slipped away during the attack
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Torchlight II
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+defeat Kidrik the Mauler, and free his hostages
+<|end_objective|>
+<|begin_tasks|>
+find Kidrik the Mauler and his captives
+<|end_tasks|>
+<|begin_quest_giver|>
+Elder Josimon: a man
+<|end_quest_giver|>
+<|begin_task_locations|>
+: the underground slave den
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Kidrik the Mauler: the male leader of the slavers (location: the underground slave den)
+<|end_characters|>
+<|end_quest|>
 Kidrik the Mauler must have slipped away during the attack, and concealed himself in the underground slave den! And, if the captives are there, as well, Kidrik must be holding them hostage! You must defeat Kidrik and free the captives, or all that has been done to stop the slavers will have been for naught!

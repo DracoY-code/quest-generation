@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Kindred Judgment
-Objective: kill Harkon
-First Tasks: face Harkon with Serana
-First Task Locations: NONE - 
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Harkon - Serana's father, and the lord of the vampires (location: )
-Tools: Serana thinks that the player can't trust Harkon after they spoke with Serana's mother in the Soul Cairn: the player can't bring the bow to Harkon
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+kill Harkon
+<|end_objective|>
+<|begin_tasks|>
+face Harkon with Serana
+<|end_tasks|>
+<|begin_quest_giver|>
+Serana: a woman
+<|end_quest_giver|>
+<|begin_task_locations|>
+NONE: 
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Harkon: Serana's father, and the lord of the vampires (location: )
+<|end_characters|>
+<|end_quest|>
 I think we both know... it's time to face my father Harkon. If we don't, he'll keep chasing us for the rest of our lives. Well, before we spoke to my mother in the Soul Cairn, I would have said we bring the bow to my father. But after everything with her... I don't think we can trust him. No. He has to die. We have no choice. Let's face him together.

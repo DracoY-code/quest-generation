@@ -1,21 +1,30 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: A Tragedy at Frostflow
-Objective: uncover the tragic events inside Frostflow Lighthouse
-First Tasks: investigate the cellar
-First Task Locations: Frostflow Lighthouse - an old lighthouse on an icy coast
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Ramati - Habd's wife, a former sailor (location: ), Sudi - a woman, Ramati and Habd's daughter (location: ), Mani - a man, Ramati and Habd's son (location: )
-Tools: Habd and Ramati sailed for years from Hammerfell to Solstheim and back: Habd and Ramati bought Frostflow Lighthouse to settle down with Mani and Sudi, things went missing from the cellar and strange noises came from there as well, Habd went away from Frostflow Lighthouse to buy some traps: after returning home, he found out that Ramati was killed by a bug-like creature; Habd killed the creature and went into the cellar to save his family, locking the door behind him
-Locations: Hammerfell - a realm (location: NONE), Solstheim - an island (location: NONE)
-Items: "Habd's Journal" - Habd's journal (amount: 1)
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+uncover the tragic events inside Frostflow Lighthouse
+<|end_objective|>
+<|begin_tasks|>
+investigate the cellar
+<|end_tasks|>
+<|begin_quest_giver|>
+Habd: a retired sailor, giving quest via "Habd's Journal"
+<|end_quest_giver|>
+<|begin_task_locations|>
+Frostflow Lighthouse: an old lighthouse on an icy coast
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Ramati: Habd's wife, a former sailor (location: )
+Sudi: a woman, Ramati and Habd's daughter (location: )
+Mani: a man, Ramati and Habd's son (location: )
+<|end_characters|>
+<|begin_locations|>
+Hammerfell: a realm (location: NONE)
+Solstheim: an island (location: NONE)
+<|end_locations|>
+<|begin_items|>
+"Habd's Journal": Habd's journal (amount: 1)
+<|end_items|>
+<|end_quest|>
 Habd's Journal by Habd  After years of sailing from Hammerfell to Solstheim and back, Ramati and I have finally saved enough money to buy that old light house we spotted on the coast and we are moving in next month. These northerners really know how to live. It may be cold, but you can't beat the tranquility of the watching icebergs to live out your silver years. Ramati loves the place too, despite the occasional leaky ceiling. Mani and Sudi, unfortunately, seem miserable here; I know the kids are old enough to strike out on their own, but I hope they'll grow to love the peace and quiet here as I have. Mani and Sudi continue to bicker and harass each other and they seem to have started in on their mother as well. Ramati keeps finding things missing from the cellar. Sudi said she heard a noise down there but Mani just thinks their mother is going mad from isolation. The very thought of it is ridiculous, she's always wanted to retire here! Sudi keeps saying that she hears scratching coming from the cellar at night. I think she's just trying to get her mother's goat, but I'd better head into town to get a few traps just in case it's rats. Should only take a couple days. I just hope those two go easy on Ramati while I'm gone. Oh gods. Oh gods why? I returned home to find my beautiful Ramati killed and this thing, this horrible bug-like creature ransacking our home. I managed to kill the damned thing, I think it might be a demon! I've never seen anything like it! Oh gods poor Ramati. It must have come out of the cellar. I'm going down there and locking the door behind me to make sure they don't escape. I don't know if I'll make it out, but I have to save my family!

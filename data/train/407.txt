@@ -1,21 +1,24 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Dark Ancestor
-Objective: destroy Vighar
-First Tasks: find Vighar
-First Task Locations: Bloodlet Throne - a nest of vampires
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Vighar - a male vampire (location: Bloodlet Throne)
-Tools: there is an open grave in Falkreath graveyard: Vighar broke free from the grave, Dengeir of Stuhn's family is entrusted with keeping Vighar buried: somebody stole the wardstone that kept Vighar in the grave
-Locations: Falkreath - a town (location: NONE)
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+destroy Vighar
+<|end_objective|>
+<|begin_tasks|>
+find Vighar
+<|end_tasks|>
+<|begin_quest_giver|>
+Dengeir of Stuhn: a descendant of Vighar
+<|end_quest_giver|>
+<|begin_task_locations|>
+Bloodlet Throne: a nest of vampires
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Vighar: a male vampire (location: Bloodlet Throne)
+<|end_characters|>
+<|begin_locations|>
+Falkreath: a town (location: NONE)
+<|end_locations|>
+<|end_quest|>
 You may have seen the open grave in our graveyard. Most of the townsfolk think it's the work of a corpse thief. The truth is less pleasant. It is...was, the grave of Vighar, my own ancestor, dead for centuries now. Vighar is a vampire. My family is entrusted with keeping him buried, but recently someone stole the wardstone that sealed him in the grave, and Vighar escaped. It's too late for the wardstone. Vighar must be destroyed. If this gets out, my family will suffer great shame. See that Vighar is destroyed. He will have fled to gather others of his kind at Bloodlet Throne.

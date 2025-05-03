@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Argonian Ale Extraction
-Objective: bring Brenuin a bottle of Argonian Ale
-First Tasks: steal the bottle f Argonian Ale
-First Task Locations: Bannered Mare - an inn
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - a healing potion (amount: 1)
-Characters: NONE
-Tools: NONE
-Locations: NONE
-Items: Argonian Ale - special ale (amount: 1)
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+bring Brenuin a bottle of Argonian Ale
+<|end_objective|>
+<|begin_tasks|>
+steal the bottle f Argonian Ale
+<|end_tasks|>
+<|begin_quest_giver|>
+Brenuin: a drunk
+<|end_quest_giver|>
+<|begin_task_locations|>
+Bannered Mare: an inn
+<|end_task_locations|>
+<|begin_rewards|>
+: a healing potion (amount: 1)
+<|end_rewards|>
+<|begin_items|>
+Argonian Ale: special ale (amount: 1)
+<|end_items|>
+<|end_quest|>
 I'm drunk only if I can help it. But damn if I ain't almost sober. Hey. In the Bannered Mare, there's this bottle of Argonian Ale. The good stuff. Get it for me. They won't even know it's gone. Come on... Argonian Ale! I can almost taste it! I have something for you. This here healing potion. I, er, "found" it in a temple.

@@ -1,21 +1,24 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: The Silence Has Been Broken
-Objective: accept Amaund Motierre's assassination contract
-First Tasks: take the sealed letter and the valuable amulet to your superior in the Dark Brotherhood
-First Task Locations: NONE - 
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: NONE
-Tools: the player, a member of the Dark Brotherhood, came to see Amaund Motierre after he had performed the Black Sacrament, Amaund Motierre wants to arrange several assassination contracts with the Dark Brotherhood, leading to the assassination of the emperor, Amaund Motierre gives the player two items: a sealed letter that will explain everything that needs to be done, and a valuable amulet - the player can use it to pay for any and all expenses
-Locations: NONE
-Items: Black Sacrament - a dark ritual to obtain the services of the Dark Brotherhood (amount: 1)
-Enemies: NONE
-Groups: Dark Brotherhood - a guild of assassins
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+accept Amaund Motierre's assassination contract
+<|end_objective|>
+<|begin_tasks|>
+take the sealed letter and the valuable amulet to your superior in the Dark Brotherhood
+<|end_tasks|>
+<|begin_quest_giver|>
+Amaund Motierre: a nobleman
+<|end_quest_giver|>
+<|begin_task_locations|>
+NONE: 
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_items|>
+Black Sacrament: a dark ritual to obtain the services of the Dark Brotherhood (amount: 1)
+<|end_items|>
+<|begin_groups|>
+Dark Brotherhood: a guild of assassins (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 By the almighty Divines. You've come. You've actually come. This dreadful Black Sacrament thing... it worked. Well, I won't waste your time. I would like to arrange a contract. Several, actually. I daresay, the work I'm offering has more significance than anything your organization has experienced in, well, centuries. As I said, I want you to kill several people. You'll find the targets, as well as their manners of elimination, quite varied. I'm sure someone of your disposition will probably even find it enjoyable. But you should know that these killings are but a means to an end. For they pave the way to the most important target. The real reason I'm speaking with a cutthroat in the bowels of this detestable crypt. For I seek the assassination of... ...the Emperor. What I ask is no small thing, of course. But you represent the Dark Brotherhood. This is... what you do? No? You must understand. So much has led to this day. So much planning, and maneuvering. Now, it's as if the very stars have finally aligned. But I digress. Here, take these two items. They need to be delivered to your, um... superior. The sealed letter will explain everything that needs to be done. The amulet is quite valuable - you can use it to pay for any and all expenses.

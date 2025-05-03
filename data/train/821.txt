@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Bloody Nose
-Objective: win the wager against Hofgrir Horse-Crusher
-First Tasks: match Hofgrir Horse-Crusher's bet, and beat him in a fistfight
-First Task Locations: NONE - 
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - Hofgrir Horse-Crusher's purse of septims (amount: 1)
-Characters: NONE
-Tools: rules for the fistfight: no weapons, no tricks, no magic
-Locations: Skyrim - a realm (location: NONE)
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+win the wager against Hofgrir Horse-Crusher
+<|end_objective|>
+<|begin_tasks|>
+match Hofgrir Horse-Crusher's bet, and beat him in a fistfight
+<|end_tasks|>
+<|begin_quest_giver|>
+Hofgrir Horse-Crusher: the man with the the strongest arms in all of Skyrim
+<|end_quest_giver|>
+<|begin_task_locations|>
+NONE: 
+<|end_task_locations|>
+<|begin_rewards|>
+: Hofgrir Horse-Crusher's purse of septims (amount: 1)
+<|end_rewards|>
+<|begin_locations|>
+Skyrim: a realm (location: NONE)
+<|end_locations|>
+<|end_quest|>
 Bah, I'm not afraid of anything out here. Walls are just a weakling's hiding spot. Now me, I'm no weakling. In fact, I bet I've got the strongest arms in all of Skyrim. You bet against me? Oh! Sounds like I've got a challenger. Tell you what. How about a friendly wager, just between us. I bet you my entire purse of septims I can beat you in a fistfight. You match the bet and we fight until one of us gives in. All right, remember... this is a clean fight. No weapons, no tricks. And none of those fancy magic spells, either. Here we go!

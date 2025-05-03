@@ -1,21 +1,27 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Justice for Mateo
-Objective: discover the real traitor
-First Tasks: talk to Mateo
-First Task Locations:  - Mateo's cell
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Mateo - a young man, and a faithful soldier (location: Mateo's cell), Ardic Santele - the missing son of Countess Santele, and the primary witness in the traitor investigation (location: ), Kiser Jhaeri - a vile male merchant (location: Saradush), Countess Santele - a noblewoman (location: Saradush)
-Tools: someone opened a secret gate into Saradush: the enemy came through a small sewer outlet that was protected by both a locked iron grate and several powerful magical wards, the Saradush guard found three soldiers in the area: Mateo, Ardic Santele, and Kiser Jhaeri, Countess Santele told the Saradush guard that Ardic Santele had implicated Mateo before Ardic Santele disappeared, the jailer will let the player see Mateo
-Locations: Saradush - a town under siege (location: NONE)
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Baldur's Gate II: Shadows of Amn
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+discover the real traitor
+<|end_objective|>
+<|begin_tasks|>
+talk to Mateo
+<|end_tasks|>
+<|begin_quest_giver|>
+Captain Samand: captain of the Saradush guard
+<|end_quest_giver|>
+<|begin_task_locations|>
+: Mateo's cell
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Mateo: a young man, and a faithful soldier (location: Mateo's cell)
+Ardic Santele: the missing son of Countess Santele, and the primary witness in the traitor investigation (location: )
+Kiser Jhaeri: a vile male merchant (location: Saradush)
+Countess Santele: a noblewoman (location: Saradush)
+<|end_characters|>
+<|begin_locations|>
+Saradush: a town under siege (location: NONE)
+<|end_locations|>
+<|end_quest|>
 My name is Captain Samand, and I'm a very busy man right now. A few days ago, someone opened a secret gate into the town — Saradush could easily have been overrun. We just discovered the traitor was a young man named Mateo. There's no doubt in my mind that *someone* betrayed us. The enemy came through a small sewer outlet that was protected by both a locked iron grate and several powerful magical wards. There is no way to open that entrance from the outside. But Mateo is a faithful soldier, not the type of man to betray Saradush. An alarm was raised, and my soldiers arrived only a few moments after the gate was opened. We found three soldiers in the area: Mateo, Ardic Santele, and the merchant Kiser Jhaeri. We didn't get a chance to complete our investigations. Ardic, the son of the Countess Santele, disappeared. He was our primary witness. Our attention was focused on the vile Kiser Jhaeri, but we had no proof. Then the countess told us that Ardic, her son, had implicated Mateo before he disappeared. If you wish to investigate further, I will not stand in your way. Speak to Mateo in his cell. The jailer will let you see him.

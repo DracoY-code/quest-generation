@@ -1,21 +1,22 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: One Man's Trash
-Objective: find out whether a used Ember can be recharged, and return to Nerasis
-First Tasks: attempt to charge the Spent Ember
-First Task Locations: Tarroch's Rift - a mana-rich area with horrible monsters
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE - Nerasis will pay the player (amount: 1)
-Characters: NONE
-Tools: NONE
-Locations: NONE
-Items: Ember - a magical power source (amount: 1), Spent Ember - a burned-out Ember (amount: 1)
-Enemies: NONE
-Groups: NONE
-Title: Torchlight II
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+find out whether a used Ember can be recharged, and return to Nerasis
+<|end_objective|>
+<|begin_tasks|>
+attempt to charge the Spent Ember
+<|end_tasks|>
+<|begin_quest_giver|>
+Nerasis: a a researcher working for the Empire
+<|end_quest_giver|>
+<|begin_task_locations|>
+Tarroch's Rift: a mana-rich area with horrible monsters
+<|end_task_locations|>
+<|begin_rewards|>
+NONE: Nerasis will pay the player (amount: 1)
+<|end_rewards|>
+<|begin_items|>
+Ember: a magical power source (amount: 1)
+Spent Ember: a burned-out Ember (amount: 1)
+<|end_items|>
+<|end_quest|>
 Hello there! I wonder if you have a moment to help me out? My name is Nerasis; I'm a researcher for the Empire. I've been working on a theory that used Ember can be recharged, with exposure to a suitably large source of mana. My research led me to Tarroch's Rift, where the mana output ratio is... well, it's very high. The problem is that there are quite a few horrible monsters between me and the mana source. I would be willing to pay you to take this burned-out Spent Ember into Tarroch's Rift and attempt to charge it, then bring it back here so I can see if my theory is correct.

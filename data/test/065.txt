@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Assistant Cartographer
-Objective: give the map of Spruced Hills to Carl
-First Tasks: make a map of Spruced Hills
-First Task Locations: Spruced Hills - a region of taiga hills
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - a spyglass (amount: 1)
-Characters: NONE
-Tools: the player is a friend of Carl
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Minecraft
-Motivation: knowledge
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+give the map of Spruced Hills to Carl
+<|end_objective|>
+<|begin_tasks|>
+make a map of Spruced Hills
+<|end_tasks|>
+<|begin_quest_giver|>
+Carl: a cartographer
+<|end_quest_giver|>
+<|begin_task_locations|>
+Spruced Hills: a region of taiga hills
+<|end_task_locations|>
+<|begin_rewards|>
+: a spyglass (amount: 1)
+<|end_rewards|>
+<|begin_motivation|>
+knowledge
+<|end_motivation|>
+<|end_quest|>
 I raise my face from my maps for a moment, and there you are! Just as I need the help of a trusted friend. There are many, many regions in this world: mapping them all out is a tremendous task. I ask you to map out one of them: Spruced Hills. It is a taiga hills region, which means that there might be some rather steep hills covered in spruces and snow. After making a map of Spruced Hills, come back here and give the map to me. I shall give you a spyglass, a fine tool for an aspiring cartographer. Travel safely! Being mindful of your surroundings is an important skill for everyone, not just us cartographers.

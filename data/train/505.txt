@@ -1,21 +1,18 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Cleansing Light
-Objective: destroy the head vampire to scatter its minions
-First Tasks: find the head vampire
-First Task Locations: Movarth's Lair - a vampire lair
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: NONE
-Tools: NONE
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+destroy the head vampire to scatter its minions
+<|end_objective|>
+<|begin_tasks|>
+find the head vampire
+<|end_tasks|>
+<|begin_quest_giver|>
+Gunmar: a fellow vampire hunter
+<|end_quest_giver|>
+<|begin_task_locations|>
+Movarth's Lair: a vampire lair
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|end_quest|>
 I've discovered the whereabouts of a vampire lair at Movarth's Lair. Destroying the head vampire is usually sufficient to scatter its minions, though it's best to destroy every last one of them. I suspect there's more wherever he came from. We cannot afford to relax.

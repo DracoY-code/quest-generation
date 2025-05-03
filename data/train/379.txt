@@ -1,21 +1,35 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Hunt and Gather
-Objective: retrieve Wylandriah's Dwemer Spoon, Orichalcum Ingot, and Grand Soul Gem
-First Tasks: fetch Dwemer Spoon, fetch Orichalcum Ingot, fetch Grand Soul Gem
-First Task Locations: Fellstar Farm - Boti's house in Ivarstead, Frozen Hearth Inn - an inn in Winterhold, The White Phial - an alchemy shop in Windhelm
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - Wylandriah will reward the player (amount: 1)
-Characters: Boti - Wylandriah's friend (location: Fellstar Farm)
-Tools: NONE
-Locations: Ivarstead - a town (location: NONE), Winterhold - a city (location: NONE), Windhelm - a city (location: NONE)
-Items: Dwemer Spoon - an item (amount: 1), Orichalcum Ingot - an item (amount: 1), Grand Soul Gem - a gem (amount: 1)
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+retrieve Wylandriah's Dwemer Spoon, Orichalcum Ingot, and Grand Soul Gem
+<|end_objective|>
+<|begin_tasks|>
+fetch Dwemer Spoon
+fetch Orichalcum Ingot
+fetch Grand Soul Gem
+<|end_tasks|>
+<|begin_quest_giver|>
+Wylandriah: an absent-minded mage
+<|end_quest_giver|>
+<|begin_task_locations|>
+Fellstar Farm: Boti's house in Ivarstead
+Frozen Hearth Inn: an inn in Winterhold
+The White Phial: an alchemy shop in Windhelm
+<|end_task_locations|>
+<|begin_rewards|>
+: Wylandriah will reward the player (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Boti: Wylandriah's friend (location: Fellstar Farm)
+<|end_characters|>
+<|begin_locations|>
+Ivarstead: a town (location: NONE)
+Winterhold: a city (location: NONE)
+Windhelm: a city (location: NONE)
+<|end_locations|>
+<|begin_items|>
+Dwemer Spoon: an item (amount: 1)
+Orichalcum Ingot: an item (amount: 1)
+Grand Soul Gem: a gem (amount: 1)
+<|end_items|>
+<|end_quest|>
 I could use some help with getting organized. An assistant perhaps? No, no, no. Maybe a familiar. No, too messy. Well, at any rate, organization is not my strong suit. Not at all. I need as much help as I can get. In fact, if you could retrieve a few things for me, I could start on my next set of experiments. What I need is my Dwemer Spoon, my Orichalcum Ingot and my Grand Soul Gem. In fact, I could use them immediately. Well... why are you still standing here? Oh, right. You need to know where they are! That would help. Let's see. Last time I used the Dwemer Spoon was at my dear friend Boti's house in Ivarstead... Fellstar Farm I believe it's called. The Orichalcum Ingot should still be in Winterhold at the Frozen Hearth Inn. I don't know why I didn't just take it with me. And last is the gem. I left that one in Windhelm at the White Phial alchemy shop. It was a good trade too. Ah well. Bring those items back to me and I'll be happy to experiment on you. No, no... that isn't right. I'd be happy to reward you.

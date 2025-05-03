@@ -1,21 +1,22 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Guard the Caravans
-Objective: Protect a caravan from threats during its journey.
-First Tasks: Speak with the caravan master to accept the job., Prepare for potential attacks., Escort the caravan to its destination.
-First Task Locations: The Hub - The central trading hub where caravan jobs are offered., Caravan Route - A dangerous road where the caravan might face raider or mutant attacks.
-Quest Giver: NONE - NONE (location: NONE)
-Reward: Caps - Payment for successfully protecting the caravan. (amount: 600), Experience Points - Earned for completing the escort mission. (amount: 1000)
-Characters: NONE
-Tools: Firearms, Melee weapons, Tactical awareness
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Fallout
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+Protect a caravan from threats during its journey.
+<|end_objective|>
+<|begin_tasks|>
+Speak with the caravan master to accept the job.
+Prepare for potential attacks.
+Escort the caravan to its destination.
+<|end_tasks|>
+<|begin_quest_giver|>
+Caravan Master: A merchant responsible for organizing trade routes and hiring guards.
+<|end_quest_giver|>
+<|begin_task_locations|>
+The Hub: The central trading hub where caravan jobs are offered.
+Caravan Route: A dangerous road where the caravan might face raider or mutant attacks.
+<|end_task_locations|>
+<|begin_rewards|>
+Caps: Payment for successfully protecting the caravan. (amount: 600)
+Experience Points: Earned for completing the escort mission. (amount: 1000)
+<|end_rewards|>
+<|end_quest|>
 The player is hired to protect a caravan traveling between major settlements. The journey is fraught with dangers, including raiders and mutants, requiring the player to stay alert and defend the caravan against potential threats.

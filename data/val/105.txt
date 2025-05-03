@@ -1,21 +1,27 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Ginia's Tale
-Objective: talk to Calahan near the docks about taking Ginia and Ason
-First Tasks: kill Chremy
-First Task Locations:  - near the inn in Brynnlaw
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Calahan - a male smuggler (location: near the docks in Brynnlaw), Ason - Ginia's brother (location: Brynnlaw), Chremy - Desharik's lieutenant (location: near the inn in Brynnlaw), Desharik - a pirate king (location: Brynnlaw)
-Tools: Ginia grew up in Brynnlaw, which used to be a pleasant town, pirates lead by Desharik invaded Brynnlaw, pirates drove people from their homes: Ginia's father tried to take their home back from the pirates but was executed, Desharik gave Ginia and Ason to Chremy for their father's actions, Calahan could take Ginia and Ason away from Brynnlaw, but Ginia and Ason can't pay him
-Locations: Brynnlaw - a pirate town on an island (location: NONE)
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Baldur's Gate II: Shadows of Amn
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+talk to Calahan near the docks about taking Ginia and Ason
+<|end_objective|>
+<|begin_tasks|>
+kill Chremy
+<|end_tasks|>
+<|begin_quest_giver|>
+Ginia: a woman
+<|end_quest_giver|>
+<|begin_task_locations|>
+: near the inn in Brynnlaw
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Calahan: a male smuggler (location: near the docks in Brynnlaw)
+Ason: Ginia's brother (location: Brynnlaw)
+Chremy: Desharik's lieutenant (location: near the inn in Brynnlaw)
+Desharik: a pirate king (location: Brynnlaw)
+<|end_characters|>
+<|begin_locations|>
+Brynnlaw: a pirate town on an island (location: NONE)
+<|end_locations|>
+<|end_quest|>
 I should begin with my name... Ginia. I grew up here in Brynnlaw. Things have not always been like this. Brynnlaw was once a pleasant town, though my memories may be influenced by happier times in my own life. Then the pirates arrived, led by the despot Desharik. Desharik had lost a war with another pirate king. Forced to this island, his ships invaded the town. They took our homes. Desharik killed our mayor and dumped his body into the sea. We were forced out into the streets. My father could take no more injustice. He tried to get back into our house and was executed for breaking the law of the pirates. Once they've stolen something, the owner has no claim on it. Desharik said that we would have to pay for our father's "crime." He gave us to Chremy, his lieutenant, as a reward for service. He put me to work as a courtesan for the drunken pirates. It's horrible, traveler! He says that he'll kill my brother Ason if I don't do it. There is no escape for Ason and me. There is a smuggler who will take us, but we cannot afford to pay him. There is nowhere to run on this island. Chremy can be found near the inn. The smuggler's name is Calahan. I hope that Calahan will take us with him when you kill Chremy. He will be near the docks. Please be careful!

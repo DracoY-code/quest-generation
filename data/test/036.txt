@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Nothing Suspicious...
-Objective: see what happens after eating suspicious stew, and report back to Dave
-First Tasks: eat the suspicious stew Dave gives you
-First Task Locations: NONE - 
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - emeralds (amount: 10)
-Characters: NONE
-Tools: suspicious stew is mushroom stew laced with some flowers: it may have positive or negative effects on its eater
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Minecraft
-Motivation: knowledge
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+see what happens after eating suspicious stew, and report back to Dave
+<|end_objective|>
+<|begin_tasks|>
+eat the suspicious stew Dave gives you
+<|end_tasks|>
+<|begin_quest_giver|>
+Dave: a farmer who likes cooking
+<|end_quest_giver|>
+<|begin_task_locations|>
+NONE: 
+<|end_task_locations|>
+<|begin_rewards|>
+: emeralds (amount: 10)
+<|end_rewards|>
+<|begin_motivation|>
+knowledge
+<|end_motivation|>
+<|end_quest|>
 I keep the villagers fed. Without my crops, our village would surely face a famine! Sometimes, I like to cook new foods using various natural ingredients to prepare us for poor harvests. This time, I tried to make some mushroom stew, but one of the villagers accidentally tripped, and dropped some flowers into the pot with the stew. Traveler, could you please taste the suspicious mushroom stew? It can have either positive or negative effects on its eater. I'm giving you some. Please see what happens after eating the suspicious stew, and report back to me. I'd hate to throw away the whole batch of mushroom stew for nothing. I'll even give you 10 emeralds for being a taster.

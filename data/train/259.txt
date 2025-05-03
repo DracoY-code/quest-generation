@@ -1,21 +1,18 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Killing Rats
-Objective: kill rats
-First Tasks: find rats
-First Task Locations:  - Reevor's storehouse
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - gp (amount: 5)
-Characters: NONE
-Tools: NONE
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Baldur's Gate
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+kill rats
+<|end_objective|>
+<|begin_tasks|>
+find rats
+<|end_tasks|>
+<|begin_quest_giver|>
+Reevor: the player's drill instructor
+<|end_quest_giver|>
+<|begin_task_locations|>
+: Reevor's storehouse
+<|end_task_locations|>
+<|begin_rewards|>
+: gp (amount: 5)
+<|end_rewards|>
+<|end_quest|>
 I thought I asked you to clean the rats out of this building yesterday, already. Hop to it! Get in there! Ah yes, kill them like the rats that they are! A glorious battle unlike any this world has ever seen... I'll give you 5 gp, don't spend it all in one place.

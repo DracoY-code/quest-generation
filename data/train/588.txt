@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Report Iguana Bob to the Hub Police
-Objective: Inform the Hub police about Iguana Bob's illegal meat trade.
-First Tasks: Investigate Iguana Bob’s meat supply., Obtain proof that he is selling human flesh., Report the findings to Detective Justin Greene.
-First Task Locations: Iguana Bob's Stand - A food stand in the Hub selling 'Iguana-on-a-Stick' with a questionable meat source., Hub Police Station - The main law enforcement office in the Hub, where Detective Justin Greene is stationed.
-Quest Giver: NONE - NONE (location: NONE)
-Reward: Reputation Boost - Positive karma for exposing Iguana Bob's illegal activities. (amount: Good karma increase)
-Characters: NONE
-Tools: Speech, Investigation skills
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Fallout
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+Inform the Hub police about Iguana Bob's illegal meat trade.
+<|end_objective|>
+<|begin_tasks|>
+Investigate Iguana Bob’s meat supply.
+Obtain proof that he is selling human flesh.
+Report the findings to Detective Justin Greene.
+<|end_tasks|>
+<|begin_quest_giver|>
+Detective Justin Greene: A Hub police officer investigating crimes in the city.
+<|end_quest_giver|>
+<|begin_task_locations|>
+Iguana Bob's Stand: A food stand in the Hub selling 'Iguana-on-a-Stick' with a questionable meat source.
+Hub Police Station: The main law enforcement office in the Hub, where Detective Justin Greene is stationed.
+<|end_task_locations|>
+<|begin_rewards|>
+Reputation Boost: Positive karma for exposing Iguana Bob's illegal activities. (amount: Good karma increase)
+<|end_rewards|>
+<|end_quest|>
 The player gathers evidence proving that Iguana Bob is selling human meat. They can take the evidence to Detective Justin Greene at the Hub Police Station, leading to Bob’s arrest and a boost in reputation.

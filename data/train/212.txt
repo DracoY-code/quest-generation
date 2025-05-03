@@ -1,21 +1,25 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Conjuration Training
-Objective: prove Olyn Seran that you are worthy of his teachings
-First Tasks: summon a Faded Wraith right here, before Olyn Seran
-First Task Locations:  - a shrine to Molag Bal
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - Conjuration training from Olyn Seran (amount: 1)
-Characters: Faded Wraith - a ghostly creature (location: ), Molag Bal - the prince of domination, one of the Daedric Princes (location: )
-Tools: the player asked Olyn Seran to train them  in Conjuration
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: Daedric Princes - immortal, fickle, infamous divine beings
-Title: The Elder Scrolls IV: Oblivion
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+prove Olyn Seran that you are worthy of his teachings
+<|end_objective|>
+<|begin_tasks|>
+summon a Faded Wraith right here, before Olyn Seran
+<|end_tasks|>
+<|begin_quest_giver|>
+Olyn Seran: a worshiper of Molag Bal, and a master Conjurer
+<|end_quest_giver|>
+<|begin_task_locations|>
+: a shrine to Molag Bal
+<|end_task_locations|>
+<|begin_rewards|>
+: Conjuration training from Olyn Seran (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Faded Wraith: a ghostly creature (location: )
+Molag Bal: the prince of domination, one of the Daedric Princes (location: )
+<|end_characters|>
+<|begin_groups|>
+Daedric Princes: immortal, fickle, infamous divine beings (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 You would seek Conjuration training from me? Well, then my request is small. Prove to me that you are capable of serving Molag Bal in your own way. Summon a Faded Wraith right here, before me. When I have seen it with my own eyes, you shall be worthy of my teachings.

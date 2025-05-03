@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: A Cat on a Leash
-Objective: give a lead to Bruce
-First Tasks: obtain a lead
-First Task Locations: NONE - 
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - emeralds (amount: 5)
-Characters: NONE
-Tools: the player tamed the cat for Bruce, the player can craft a lead by combining some string with a slimeball
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Minecraft
-Motivation: comfort
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+give a lead to Bruce
+<|end_objective|>
+<|begin_tasks|>
+obtain a lead
+<|end_tasks|>
+<|begin_quest_giver|>
+Bruce: a happy man who owns a cat
+<|end_quest_giver|>
+<|begin_task_locations|>
+NONE: 
+<|end_task_locations|>
+<|begin_rewards|>
+: emeralds (amount: 5)
+<|end_rewards|>
+<|begin_motivation|>
+comfort
+<|end_motivation|>
+<|end_quest|>
 Hello again! I'd like the thank you again for taming a cat for me. I'm really happy about my cat. There is a small issue, though. I hate to trouble you further, but could you get me a lead? I just don't want my cat to wander off to dangerous places all alone. Did you know that you can craft a lead by combining some string with a slimeball? I'll even pay you five emeralds for the lead.

@@ -1,21 +1,24 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: The End of Order
-Objective: fight the last battle against Jyggalag and his forces of Order
-First Tasks: deactivate the Obelisk of Order
-First Task Locations:  - Palace courtyard
-Quest Giver: NONE - NONE (location: NONE)
-Reward: None -  (amount: 1)
-Characters: Jyggalag - a man who wants the player's Realm (location: )
-Tools: the Captain's guards are engaging the Knights
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: Order - Jyggalag's army
-Title: The Elder Scrolls IV: Oblivion
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+fight the last battle against Jyggalag and his forces of Order
+<|end_objective|>
+<|begin_tasks|>
+deactivate the Obelisk of Order
+<|end_tasks|>
+<|begin_quest_giver|>
+: the Captain of the player's Palace Guard
+<|end_quest_giver|>
+<|begin_task_locations|>
+: Palace courtyard
+<|end_task_locations|>
+<|begin_rewards|>
+None:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Jyggalag: a man who wants the player's Realm (location: )
+<|end_characters|>
+<|begin_groups|>
+Order: Jyggalag's army (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 My Liege. I'm glad to see you. We have a developing situation that requires your attention. An Obelisk of Order has activated in the Palace courtyard. My guards are engaging the Knights as we speak. We will defend the Palace to the end of our strength, and will cast ourselves in the path of cursed Jyggalag himself should he come here. You must deactivate the Obelisk to be rid of the Knights! This will be our final battle against Jyggalag and his forces of Order!

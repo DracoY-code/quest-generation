@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Delainy's Task
-Objective: bring the cloak to Delainy
-First Tasks: fetch the cloak
-First Task Locations:  - beyond the village walls
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - Delainy's gratitude (amount: 1)
-Characters: NONE
-Tools: the cloak is an important symbol of old times, the cloak draped the village center, the recent storm moved the cloak beyond the village walls, there are beasts outside the village walls
-Locations: NONE
-Items:  - the cloak (amount: 1)
-Enemies: NONE
-Groups: NONE
-Title: Baldur's Gate
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+bring the cloak to Delainy
+<|end_objective|>
+<|begin_tasks|>
+fetch the cloak
+<|end_tasks|>
+<|begin_quest_giver|>
+Delainy: a historian
+<|end_quest_giver|>
+<|begin_task_locations|>
+: beyond the village walls
+<|end_task_locations|>
+<|begin_rewards|>
+: Delainy's gratitude (amount: 1)
+<|end_rewards|>
+<|begin_items|>
+: the cloak (amount: 1)
+<|end_items|>
+<|end_quest|>
 My name is Delainy, and I am pleasured to meet ye. I seek the return of an item, more an icon. No doubt you felt the storm that passed just by and by? Village-home did as well, and the cloak that draped the village center was cast to the wind. I think it is beyond the wall, and will not risk the beasts to get it. Will you? I can offer little besides my gratitude. The cloak is a keepsake, a symbol of old times.

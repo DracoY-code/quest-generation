@@ -1,21 +1,34 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Final Justice
-Objective: assassinate Shaleez
-First Tasks: locate Shaleez
-First Task Locations: Flooded Mine - a mine drowned with water
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - the player's reward and another contract will be waiting at the dead drop located in a coffin, just outside Fort Redman (amount: 1)
-Characters: Shaleez - a female Argonian hunter and murderer (location: ), J'Ghasta - a dead man (location: )
-Tools: "Dead Drop Orders #4" has been addressed to the player: the player is a Silencer of the Dark Brotherhood, the player killed J'Ghasta for Lucien Lachance before, Shaleez was banished from her home village near Black Marsh/Morrowind border for a murder of a Dark Elven family: the Morag Tong can't reach Shaleez
-Locations: Fort Redman - ruins (location: NONE), Morrowind - a realm (location: NONE), Black Marsh - a realm (location: NONE)
-Items: "Dead Drop Orders #4" - a note (amount: 1)
-Enemies: NONE
-Groups: Dark Brotherhood - a guild of assassins, Morag Tong - a guild of assassins operating in Morrowind
-Title: The Elder Scrolls IV: Oblivion
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+assassinate Shaleez
+<|end_objective|>
+<|begin_tasks|>
+locate Shaleez
+<|end_tasks|>
+<|begin_quest_giver|>
+Lucien Lachance: the player's superior in the Dark Brotherhood, giving quest via "Dead Drop Orders #4"
+<|end_quest_giver|>
+<|begin_task_locations|>
+Flooded Mine: a mine drowned with water
+<|end_task_locations|>
+<|begin_rewards|>
+: the player's reward and another contract will be waiting at the dead drop located in a coffin, just outside Fort Redman (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Shaleez: a female Argonian hunter and murderer (location: )
+J'Ghasta: a dead man (location: )
+<|end_characters|>
+<|begin_locations|>
+Fort Redman: ruins (location: NONE)
+Morrowind: a realm (location: NONE)
+Black Marsh: a realm (location: NONE)
+<|end_locations|>
+<|begin_items|>
+"Dead Drop Orders #4": a note (amount: 1)
+<|end_items|>
+<|begin_groups|>
+Dark Brotherhood: a guild of assassins (amount: NONE)
+Morag Tong: a guild of assassins operating in Morrowind (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 Dead Drop Orders #4 by Lucien Lachance  J'Ghasta is dead! Well done! I was right about you, Silencer. You are a useful tool indeed. Let's see if you can continue to impress me. You must journey now to the Flooded Mine. There you will find Shaleez, an Argonian hunter who was banished from her village near the Black Marsh/Morrowind border for the brutal murder of a Dark Elven family. Relatives of the murdered family members have located Shaleez, and demand retribution. And, since the assignment is a bit far for Morrowind's Morag Tong to handle, the Dark Brotherhood has been commissioned to perform the elimination. Be warned, Silencer! Shaleez is a skilled and deadly hunter, and will fight like the desperate fugitive she is. After Shaleez has been eliminated, your reward and another contract will be waiting at the dead drop located in a coffin, just outside the ruins of Fort Redman.

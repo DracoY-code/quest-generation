@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Delayed Burial
-Objective: convince Loreius fix the wheel of Cicero's wagon
-First Tasks: talk to Loreius
-First Task Locations: Loreius Farm - a farm off the road
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - coin (amount: 1)
-Characters: Loreius - a male farmer with tools (location: Loreius Farm)
-Tools: NONE
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+convince Loreius fix the wheel of Cicero's wagon
+<|end_objective|>
+<|begin_tasks|>
+talk to Loreius
+<|end_tasks|>
+<|begin_quest_giver|>
+Cicero: a madman who is transporting his dead mother to a new crypt
+<|end_quest_giver|>
+<|begin_task_locations|>
+Loreius Farm: a farm off the road
+<|end_task_locations|>
+<|begin_rewards|>
+: coin (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Loreius: a male farmer with tools (location: Loreius Farm)
+<|end_characters|>
+<|end_quest|>
 Poor Cicero is stuck. Can't you see? I was transporting my dear, sweet mother. Well, not her. Her corpse! She's quite dead. I'm taking mother to a new home. A new crypt. But... aggh! Wagon wheel! Damnedest wagon wheel! It broke! Don't you see? Oh. Oh yes! Yes, the kindly stranger can certainly help! Go to the farm - the Loreius Farm. Just over there, off the road. Talk to Loreius. He has tools! He can help me! But he won't! He refuses! Convince Loreius to fix my wheel! Do that, and poor Cicero will reward you. With coin! Gleamy, shiny coin!

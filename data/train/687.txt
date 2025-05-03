@@ -1,21 +1,24 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Message to Whiterun
-Objective: make a delivery for Ulfric
-First Tasks: deliver an axe to Balgruuf the Greater
-First Task Locations: Whiterun - a city
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Balgruuf the Greater - the Jarl of Whiterun, a man who has stayed neutral in the war between the Stormcloaks and the Empire (location: Whiterun)
-Tools: if Balgruuf the Greater keeps the axe, Ulfric will bide his time, if Balgruuf the Greater returns the axe to the player, it means war
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: Stormcloaks - rebel forces opposing the Empire
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+make a delivery for Ulfric
+<|end_objective|>
+<|begin_tasks|>
+deliver an axe to Balgruuf the Greater
+<|end_tasks|>
+<|begin_quest_giver|>
+Ulfric: the player's leader in the Stormcloaks, a man
+<|end_quest_giver|>
+<|begin_task_locations|>
+Whiterun: a city
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Balgruuf the Greater: the Jarl of Whiterun, a man who has stayed neutral in the war between the Stormcloaks and the Empire (location: Whiterun)
+<|end_characters|>
+<|begin_groups|>
+Stormcloaks: rebel forces opposing the Empire (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 I'm glad you're here. I have a message I need delivered to the Jarl of Whiterun. Deliver this axe to Balgruuf the Greater. Men who understand each other often have no need for words. There are but a few simple truths behind one warrior giving another his axe. Balgruuf will know my meaning. Give the man my axe. If he keeps it, I will bide my time. If he returns it to you, it means war.

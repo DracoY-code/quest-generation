@@ -1,21 +1,25 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Who to Star
-Objective: choose who will play Karenina
-First Tasks: choose between two female actresses who are desperate for the part of Karenina
-First Task Locations: NONE - 
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Karenina - the lead female role in "The Sorcerer's Bane" (location: ),  - two female actresses (location: )
-Tools: the player is Higgold's patron, Higgold has gathered together a play and a troupe of actors like he promised: the play is "The Sorcerer's Bane", Higgold shall introduce the player both actresses and the rest of the actors
-Locations: NONE
-Items: "The Sorcerer's Bane" - a grand epic about the pride of a great sorcerer and the love that is his downfall (amount: 1)
-Enemies: NONE
-Groups: NONE
-Title: Baldur's Gate II: Shadows of Amn
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+choose who will play Karenina
+<|end_objective|>
+<|begin_tasks|>
+choose between two female actresses who are desperate for the part of Karenina
+<|end_tasks|>
+<|begin_quest_giver|>
+Higgold: a theater director
+<|end_quest_giver|>
+<|begin_task_locations|>
+NONE: 
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Karenina: the lead female role in "The Sorcerer's Bane" (location: )
+: two female actresses (location: )
+<|end_characters|>
+<|begin_items|>
+"The Sorcerer's Bane": a grand epic about the pride of a great sorcerer and the love that is his downfall (amount: 1)
+<|end_items|>
+<|end_quest|>
 It is good to see you again, my patron. I have managed to gather together a play as well as a troupe of actors, as I promised. They are a fine lot. I have worked with some, and they should serve well. As for the play, I have come across a translated copy of, uh, "The Sorcerer's Bane." You will like it, my patron. A grand epic about the pride of a great sorcerer and the love that is his downfall. Seldom performed, but well attended when it is. The only problem I am having is deciding who will play Karenina, the lead female role. There are two actresses in the troupe who are desperate for the part. I know them both well and cannot decide, so I shall leave the choice to you. Here... I shall introduce you to both of them, as well as the rest of the actors.

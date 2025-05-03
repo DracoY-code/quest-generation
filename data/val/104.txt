@@ -1,21 +1,24 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: The Spiced Wine
-Objective: convince the East Empire Company to release Evette San's shipment of spices, and return back to Evette San for your reward
-First Tasks: talk to Vittoria Vici about Evette San's shipment of spices
-First Task Locations:  - the docks
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - something for the player's time (amount: 1)
-Characters: Vittoria Vici - a woman who handles shipments for the East Empire Company (location: the docks)
-Tools: NONE
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: East Empire Company - a merchant organization
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+convince the East Empire Company to release Evette San's shipment of spices, and return back to Evette San for your reward
+<|end_objective|>
+<|begin_tasks|>
+talk to Vittoria Vici about Evette San's shipment of spices
+<|end_tasks|>
+<|begin_quest_giver|>
+Evette San: a spiced wine merchant
+<|end_quest_giver|>
+<|begin_task_locations|>
+: the docks
+<|end_task_locations|>
+<|begin_rewards|>
+: something for the player's time (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Vittoria Vici: a woman who handles shipments for the East Empire Company (location: the docks)
+<|end_characters|>
+<|begin_groups|>
+East Empire Company: a merchant organization (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 Hello! I'm the spiced wine merchant Evette San. You wouldn't have a few minutes to run down to the docks would you? I've got a shipment of spices the East Empire Company is holding up. I need someone to convince them to release it. The person handling shipments is called Vittoria Vici. You should try to talk to her about my shipment. Get back to me when you're done and I'll give you something for your time. I swear it's a fight with them every shipment.

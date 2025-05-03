@@ -1,21 +1,25 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: A Fair Wage
-Objective: convince Torbjorn Shatter-Shield pay his Argonian dockhands fairly
-First Tasks: talk to Torbjorn Shatter-Shield
-First Task Locations: NONE - 
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Torbjorn Shatter-Shield - a cheapskate Nord male business owner (location: )
-Tools: NONE
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: Argonian - a race of people, Nord - a race of people
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+convince Torbjorn Shatter-Shield pay his Argonian dockhands fairly
+<|end_objective|>
+<|begin_tasks|>
+talk to Torbjorn Shatter-Shield
+<|end_tasks|>
+<|begin_quest_giver|>
+Scouts-Many-Marshes: a frustrated Argonian dockhand
+<|end_quest_giver|>
+<|begin_task_locations|>
+NONE: 
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Torbjorn Shatter-Shield: a cheapskate Nord male business owner (location: )
+<|end_characters|>
+<|begin_groups|>
+Argonian: a race of people (amount: NONE)
+Nord: a race of people (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 Torbjorn Shatter-Shield is giving me trouble. I wish someone would beat the coin out of his fat fists. He clings to every coin. He says an Argonian's labor is only worth a tenth of a "proper Nord worker." My people are not slaves! You can try talking with him, but we've gotten nowhere talking to him ourselves.

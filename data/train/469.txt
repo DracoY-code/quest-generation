@@ -1,21 +1,20 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Exterminate the Deathclaws
-Objective: Eliminate the Deathclaws threatening the Gun Runners' supply routes.
-First Tasks: Find the Deathclaw nest., Kill the Deathclaw and any others present.
-First Task Locations: Warehouse near the Boneyard - A ruined building where the Deathclaws have made their nest.
-Quest Giver: NONE - NONE (location: NONE)
-Reward: Access to Gun Runners' weapons - Allows the player to trade for high-end weapons and ammunition. (amount: NONE), Caps - Monetary reward for successfully clearing the Deathclaws. (amount: 1000)
-Characters: NONE
-Tools: Powerful weapons, Armor to withstand Deathclaw attacks
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Fallout
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+Eliminate the Deathclaws threatening the Gun Runners' supply routes.
+<|end_objective|>
+<|begin_tasks|>
+Find the Deathclaw nest.
+Kill the Deathclaw and any others present.
+<|end_tasks|>
+<|begin_quest_giver|>
+Gabriel: Leader of the Gun Runners, an arms dealer group based in the Boneyard.
+<|end_quest_giver|>
+<|begin_task_locations|>
+Warehouse near the Boneyard: A ruined building where the Deathclaws have made their nest.
+<|end_task_locations|>
+<|begin_rewards|>
+Access to Gun Runners' weapons: Allows the player to trade for high-end weapons and ammunition. (amount: NONE)
+Caps: Monetary reward for successfully clearing the Deathclaws. (amount: 1000)
+<|end_rewards|>
+<|end_quest|>
 The Gun Runners are unable to transport weapons safely due to Deathclaws blocking their supply routes. You must track down and exterminate these creatures to restore trade.

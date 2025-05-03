@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Perilous Passage
-Objective: save the Mana Queen
-First Tasks: go through the gate to the Forsaken Vaults
-First Task Locations: Forsaken Vaults - a perilous dungeon
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Mana Queen - a good female spirit (location: Forsaken Vaults)
-Tools: NONE
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Torchlight II
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+save the Mana Queen
+<|end_objective|>
+<|begin_tasks|>
+go through the gate to the Forsaken Vaults
+<|end_tasks|>
+<|begin_quest_giver|>
+Sphinx: the guardian of the Forsaken Vaults, speaks in rhymes
+<|end_quest_giver|>
+<|begin_task_locations|>
+Forsaken Vaults: a perilous dungeon
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Mana Queen: a good female spirit (location: Forsaken Vaults)
+<|end_characters|>
+<|end_quest|>
 The Mana Queen has come and gone Through this gate, she journeyed on. Follow her and pay the cost. Hasten forth, or she'll be lost.

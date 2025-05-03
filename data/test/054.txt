@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Shipment Shenanigans
-Objective: guard Aran Linvail's shipments, and report to him if anything happens
-First Tasks: find Mook
-First Task Locations:  - the docks
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - some useful magical items (amount: 1)
-Characters: Mook - Aran Linvail's female guard captain (location: the docks)
-Tools: the player is meeting Aran Linvail for the first time, Aran Linvail's shipments and employees are disappearing on the docks
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Baldur's Gate II: Shadows of Amn
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+guard Aran Linvail's shipments, and report to him if anything happens
+<|end_objective|>
+<|begin_tasks|>
+find Mook
+<|end_tasks|>
+<|begin_quest_giver|>
+Aran Linvail: a man leading a guild of thieves
+<|end_quest_giver|>
+<|begin_task_locations|>
+: the docks
+<|end_task_locations|>
+<|begin_rewards|>
+: some useful magical items (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Mook: Aran Linvail's female guard captain (location: the docks)
+<|end_characters|>
+<|end_quest|>
 Welcome to this place. I've looked forward to seeing you. I am, as you know, Aran Linvail. Strange things are afoot on the docks. Shipments are disappearing, as are my employees with them. We are significantly weakened by this. I think it unlikely you would be captured or wooed to the enemy. If you go to the docks and bolster the guard on the shipments, it will strengthen our position. Go at night, and you will find my present guard captain there already, a woman by the name of Mook. Take note of anything odd that happens. Good hunting. Report to me if anything happens. Oh, and the reward I have set aside for you... I'll let you have some magical items. You will find them useful, I am sure.

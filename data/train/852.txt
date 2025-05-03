@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: A Service Dog
-Objective: bring a wolf to Miles the Moron
-First Tasks: tame a wolf
-First Task Locations: Wide Woodland - a large forest
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - a lot of pumpkins (amount: 1)
-Characters: NONE
-Tools: the player is a friend of Miles the Moron
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Minecraft
-Motivation: comfort
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+bring a wolf to Miles the Moron
+<|end_objective|>
+<|begin_tasks|>
+tame a wolf
+<|end_tasks|>
+<|begin_quest_giver|>
+Miles the Moron: a nitwit
+<|end_quest_giver|>
+<|begin_task_locations|>
+Wide Woodland: a large forest
+<|end_task_locations|>
+<|begin_rewards|>
+: a lot of pumpkins (amount: 1)
+<|end_rewards|>
+<|begin_motivation|>
+comfort
+<|end_motivation|>
+<|end_quest|>
 Me happy. See a friend. Hello friend! Me would like me own wolfie. Could help me do things... Wolfies like Wide Woodland. A biggy forest. Tame a wolfie. Bring it to me. Me give you pumpkins. A load of pumpkins.

@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: The Desolate Mine
-Objective: complete your contract
-First Tasks: deliver weapons
-First Task Locations: Desolate Mine - a mine
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: NONE
-Tools: NONE
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: Fighters Guild - a mercenary guild
-Title: The Elder Scrolls IV: Oblivion
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+complete your contract
+<|end_objective|>
+<|begin_tasks|>
+deliver weapons
+<|end_tasks|>
+<|begin_quest_giver|>
+Burz gro-Khash: the player's rude superior in the Fighters Guild
+<|end_quest_giver|>
+<|begin_task_locations|>
+Desolate Mine: a mine
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_groups|>
+Fighters Guild: a mercenary guild (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 You here looking for work, meat? Maybe you want a contract? I suppose I've got something for you. We need a weapons shipment delivered to Desolate Mine. That's your job. Move your ass, boot.

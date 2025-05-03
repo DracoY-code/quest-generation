@@ -1,21 +1,25 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Infiltration
-Objective: infiltrate the Blackwood Company, and find the secret of their success
-First Tasks: join the Blackwood Company
-First Task Locations: Leyawiin - a city
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Argonian - a member of the Blackwood Company who was interrogated by Modryn Oreyn (location: )
-Tools: the information Modryn Oreyn got from the Argonian was valuable, the player will be on their own: they should steer clear of their fellow Fighters Guild members
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: Fighters Guild - a mercenary guild, Blackwood Company - a shady mercenary organization
-Title: The Elder Scrolls IV: Oblivion
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+infiltrate the Blackwood Company, and find the secret of their success
+<|end_objective|>
+<|begin_tasks|>
+join the Blackwood Company
+<|end_tasks|>
+<|begin_quest_giver|>
+Modryn Oreyn: the player's superior in the Fighters Guild
+<|end_quest_giver|>
+<|begin_task_locations|>
+Leyawiin: a city
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Argonian: a member of the Blackwood Company who was interrogated by Modryn Oreyn (location: )
+<|end_characters|>
+<|begin_groups|>
+Fighters Guild: a mercenary guild (amount: NONE)
+Blackwood Company: a shady mercenary organization (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 While the information we got from the Argonian was valuable, we need more. I want you to infiltrate them. See how they work from the inside. I want you to get to Leyawiin and join the Blackwood Company. Find the secret of their success. You'll be on your own. Steer clear of me and all of your Fighters Guild brothers. It'll be rough going, but you can do it. Good luck.

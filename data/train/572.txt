@@ -1,21 +1,26 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Keeping Up the Appearances
-Objective: give Nelacar's mage's staff to Malur Seloth
-First Tasks: steal Nelacar's mage's staff from his room
-First Task Locations: Frozen Hearth - an inn
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - Malur Seloth trains the player in speechcraft (amount: 1)
-Characters: Nelacar - an old male mage (location: Frozen Hearth), Jarl of Winterhold - the nobleman who rules over Winterhold (location: )
-Tools: the Jarl of Winterhold thinks that Malur Seloth has some connection with the College of Winterhold: he goes easy on Malur Seloth
-Locations: College of Winterhold - a college for mages in Winterhold (location: NONE), Winterhold - a city (location: NONE)
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+give Nelacar's mage's staff to Malur Seloth
+<|end_objective|>
+<|begin_tasks|>
+steal Nelacar's mage's staff from his room
+<|end_tasks|>
+<|begin_quest_giver|>
+Malur Seloth: the sly, lazy steward of the Jarl of Winterhold
+<|end_quest_giver|>
+<|begin_task_locations|>
+Frozen Hearth: an inn
+<|end_task_locations|>
+<|begin_rewards|>
+: Malur Seloth trains the player in speechcraft (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Nelacar: an old male mage (location: Frozen Hearth)
+Jarl of Winterhold: the nobleman who rules over Winterhold (location: )
+<|end_characters|>
+<|begin_locations|>
+College of Winterhold: a college for mages in Winterhold (location: NONE)
+Winterhold: a city (location: NONE)
+<|end_locations|>
+<|end_quest|>
 I do nothing around here. And I hope to keep it that way. The Jarl is convinced I have some connection with the College, so he goes easy on me. Maybe you'd like to help me keep up appearances? Old Nelacar has a mage's staff in his room in the Frozen Hearth. It'd be good to have that staff in case the Jarl starts wondering if I actually have a real connection to the College. Pinch that staff for me. I'll be waiting for it. Once I have it, I'll show you a few tricks I've learned about buttering up royalty.

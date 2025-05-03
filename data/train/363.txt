@@ -1,21 +1,24 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Suspect: Lil' Jesus Mordino
-Objective: Investigate whether Lil' Jesus Mordino was responsible for Richard Wright’s overdose.
-First Tasks: Find and question Lil' Jesus Mordino about his involvement in the overdose., Check if the Mordino family has been distributing the Jet that killed Richard Wright., Gather testimonies from individuals who may have seen Lil' Jesus selling Jet., Report your findings to Orville Wright.
-First Task Locations: Mordino's Casino - A known hangout of Lil' Jesus Mordino, where he conducts business., Overdose Scene - Reexamine for any signs connecting the Mordino Jet supply to Richard Wright., Wright Family Residence - Return to Orville Wright with your findings.
-Quest Giver: NONE - NONE (location: NONE)
-Reward: Caps - A monetary reward for uncovering the truth. (amount: 500), Wright Family Favor - Increased standing with the Wrights, granting potential future benefits. (amount: NONE)
-Characters: NONE
-Tools: Speech or Barter to persuade Lil' Jesus Mordino into talking., Science or Medicine to analyze Jet samples., Perception to detect inconsistencies in Mordino’s Jet distribution.
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Fallout 2
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+Investigate whether Lil' Jesus Mordino was responsible for Richard Wright’s overdose.
+<|end_objective|>
+<|begin_tasks|>
+Find and question Lil' Jesus Mordino about his involvement in the overdose.
+Check if the Mordino family has been distributing the Jet that killed Richard Wright.
+Gather testimonies from individuals who may have seen Lil' Jesus selling Jet.
+Report your findings to Orville Wright.
+<|end_tasks|>
+<|begin_quest_giver|>
+Orville Wright: Leader of the Wright family, seeking justice for his son's death.
+<|end_quest_giver|>
+<|begin_task_locations|>
+Mordino's Casino: A known hangout of Lil' Jesus Mordino, where he conducts business.
+Overdose Scene: Reexamine for any signs connecting the Mordino Jet supply to Richard Wright.
+Wright Family Residence: Return to Orville Wright with your findings.
+<|end_task_locations|>
+<|begin_rewards|>
+Caps: A monetary reward for uncovering the truth. (amount: 500)
+Wright Family Favor: Increased standing with the Wrights, granting potential future benefits. (amount: NONE)
+<|end_rewards|>
+<|end_quest|>
 Lil' Jesus Mordino, a known dealer from the Mordino family, is a suspect in Richard Wright’s overdose. Investigate his potential involvement and uncover the truth.

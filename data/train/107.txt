@@ -1,21 +1,31 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: The Battle of Families
-Objective: bring the Mantle of Waukeen to Lady Lilith
-First Tasks: find the Mantle of Waukeen
-First Task Locations:  - the tomb of the founder of Trademeet in the Trademeet graveyard
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - gold (amount: 1000)
-Characters: Skarmaen - a nobleman from the Alibakkar family (location: Trademeet)
-Tools: the player is the hero of Trademeet, the player spoke to Skarmaen before, the Alibakkars and the Lurraxols have been feuding for generations, the Alibakkars refuse to acknowledge the fact that the Lurraxols are the only true noble family in Trademeet, having founded it, Lady Lilith wants the Mantle of Waukeen to prove that her family founded Trademeet, Lady Lilith will give the player the key to the tomb
-Locations: Trademeet - a town (location: NONE)
-Items: Mantle of Waukeen - an old gold circlet (amount: 1)
-Enemies: NONE
-Groups: Lurraxols - a noble family, Alibakkars - a noble family
-Title: Baldur's Gate II: Shadows of Amn
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+bring the Mantle of Waukeen to Lady Lilith
+<|end_objective|>
+<|begin_tasks|>
+find the Mantle of Waukeen
+<|end_tasks|>
+<|begin_quest_giver|>
+Lady Lilith: a noblewoman who hates Skarmaen, a member of the Lurraxol family
+<|end_quest_giver|>
+<|begin_task_locations|>
+: the tomb of the founder of Trademeet in the Trademeet graveyard
+<|end_task_locations|>
+<|begin_rewards|>
+: gold (amount: 1000)
+<|end_rewards|>
+<|begin_characters|>
+Skarmaen: a nobleman from the Alibakkar family (location: Trademeet)
+<|end_characters|>
+<|begin_locations|>
+Trademeet: a town (location: NONE)
+<|end_locations|>
+<|begin_items|>
+Mantle of Waukeen: an old gold circlet (amount: 1)
+<|end_items|>
+<|begin_groups|>
+Lurraxols: a noble family (amount: NONE)
+Alibakkars: a noble family (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 Ah! It is the hero of Trademeet, come to see me at last. I trust that all is well? That pig, Skarmaen Alibakkar, did not speak too harshly about me, I trust? No matter. He is a stubborn, deluded fool. Our families have been at odds for generations, you see. The Alibakkars refuse to acknowledge the fact that we are the only true noble family in Trademeet, having founded it. Why they would think themselves higher than they are is beyond my ken. What is unfortunate, however, is that my family has never had actual, physical proof of the truth of our claim. That has changed, however. A tome has recently been uncovered... an old tome belonging to my family... that states there is proof right here in Trademeet under our noses. In the graveyard, here in town, lies the crypt of the founder... my ancestor. With him lies the Mantle of Waukeen. A pretty name for an old gold circlet. That circlet, however, would prove my claim once and for all and shut those Alibakkars up. I would get it myself, but the tomb is haunted, you see. Here is the key to the tomb... the fact that we possess it is yet more proof of our legitimacy. Use it to enter and obtain the mantle, and then return to me when you are done. You are a hero who might enter that tomb and retrieve the circlet for me, if you are willing. In return, I will pay you 1,000 gold. What do you say, my hero?

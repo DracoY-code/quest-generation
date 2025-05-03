@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Rescue Nagor's dog, Smoke, from the wilds
-Objective: Find and safely return Nagor's missing dog, Smoke.
-First Tasks: Talk to Nagor to learn about Smoke's disappearance., Search the wilds near Arroyo for Smoke., Defeat any threats preventing Smoke’s return., Escort Smoke back to Nagor safely.
-First Task Locations: Arroyo Village - A tribal settlement where Nagor lives and where Smoke was last seen.
-Quest Giver: NONE - NONE (location: NONE)
-Reward: Experience Points - Earned for successfully rescuing Smoke. (amount: 100)
-Characters: NONE
-Tools: N, O, N, E
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Fallout 2
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+Find and safely return Nagor's missing dog, Smoke.
+<|end_objective|>
+<|begin_tasks|>
+Talk to Nagor to learn about Smoke's disappearance.
+Search the wilds near Arroyo for Smoke.
+Defeat any threats preventing Smoke’s return.
+Escort Smoke back to Nagor safely.
+<|end_tasks|>
+<|begin_quest_giver|>
+Nagor: A young villager in Arroyo worried about his missing dog.
+<|end_quest_giver|>
+<|begin_task_locations|>
+Arroyo Village: A tribal settlement where Nagor lives and where Smoke was last seen.
+<|end_task_locations|>
+<|begin_rewards|>
+Experience Points: Earned for successfully rescuing Smoke. (amount: 100)
+<|end_rewards|>
+<|end_quest|>
 Nagor, a young villager in Arroyo, is distraught over his missing dog, Smoke. The dog has wandered into the wilds, and Nagor fears for its safety. Your task is to locate Smoke and bring him back safely.

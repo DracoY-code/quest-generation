@@ -1,21 +1,22 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Receive Your Weekly Issue
-Objective: Collect the latest edition of the weekly publication.
-First Tasks: Find the newspaper vendor or designated distributor., Request or collect the latest issue., Read or deliver the issue as needed.
-First Task Locations: Hub Marketplace - A bustling market where vendors distribute various goods, including newspapers., Vault Library - A repository of knowledge where publications might be archived.
-Quest Giver: NONE - NONE (location: NONE)
-Reward: Weekly Issue - A publication containing useful information, news, or stories relevant to the wasteland. (amount: NONE), Experience Points - Earned for successfully collecting and possibly reading the issue. (amount: 100)
-Characters: NONE
-Tools: N, O, N, E
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Fallout
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+Collect the latest edition of the weekly publication.
+<|end_objective|>
+<|begin_tasks|>
+Find the newspaper vendor or designated distributor.
+Request or collect the latest issue.
+Read or deliver the issue as needed.
+<|end_tasks|>
+<|begin_quest_giver|>
+Newspaper Vendor: A distributor responsible for handing out weekly issues.
+<|end_quest_giver|>
+<|begin_task_locations|>
+Hub Marketplace: A bustling market where vendors distribute various goods, including newspapers.
+Vault Library: A repository of knowledge where publications might be archived.
+<|end_task_locations|>
+<|begin_rewards|>
+Weekly Issue: A publication containing useful information, news, or stories relevant to the wasteland. (amount: NONE)
+Experience Points: Earned for successfully collecting and possibly reading the issue. (amount: 100)
+<|end_rewards|>
+<|end_quest|>
 A routine task to collect the latest issue of a weekly publication, providing updates and insights into current events across the wasteland.

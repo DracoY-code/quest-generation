@@ -1,21 +1,25 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Information at a Price
-Objective: receive vital information from Count Hassildor
-First Tasks: visit Count Hassildor
-First Task Locations: Skingrad - a city
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Count Hassildor - a nobleman who rules over Skingrad (location: Skingrad)
-Tools: Count Hassildor of Skingrad contacted the Council of Mages: he has important information, Count Hassildor has asked for the player, specifically
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: Mages Guild - a guild of mages, Council of Mages - the ruling body of Mages Guild
-Title: The Elder Scrolls IV: Oblivion
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+receive vital information from Count Hassildor
+<|end_objective|>
+<|begin_tasks|>
+visit Count Hassildor
+<|end_tasks|>
+<|begin_quest_giver|>
+Arch-Mage Traven: the player's guildmaster in the Mages Guild
+<|end_quest_giver|>
+<|begin_task_locations|>
+Skingrad: a city
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Count Hassildor: a nobleman who rules over Skingrad (location: Skingrad)
+<|end_characters|>
+<|begin_groups|>
+Mages Guild: a guild of mages (amount: NONE)
+Council of Mages: the ruling body of Mages Guild (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 There is an urgent matter which requires your personal attention. This task falls to you, and only you. Count Hassildor of Skingrad has contacted the Council. He claims to have information that is vital to us. He has requested that you personally travel to Skingrad to obtain this information. I cannot stress how important it is that our relationship with Hassildor be preserved. I expect you to visit him immediately. I am unsure as to why he has requested that you, of all people, should be the one to visit him. I have no wish to put you in harm's way. Please, travel there as soon as possible. The Count is waiting for you.

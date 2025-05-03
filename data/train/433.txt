@@ -1,21 +1,24 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Sweets for All
-Objective: give 10 honey blocks to Martin
-First Tasks: find some bees
-First Task Locations: NONE - 
-Quest Giver: NONE - NONE (location: NONE)
-Reward: Shulker Box - an easily movable storage box (amount: 1)
-Characters: NONE
-Tools: NONE
-Locations: NONE
-Items:  - honey blocks (amount: 10)
-Enemies: NONE
-Groups: NONE
-Title: Minecraft
-Motivation: reputation
-
-### Response:
-I'd like to bake my delicious honey cakes for the whole village! Then they'd certainly know that I have traveled all over the world! I even used to be a wandering trader. I need a lot of honey for the cakes. You are quite a wanderer yourself. Perhaps you could help me procure 10 honey blocks. You can get honey from bees; you just have to find them first. Do this for me, and I'll give you a special reward: a Shulker Box. These things were worth their weight in emeralds every time someone murdered my pack llamas: they made hauling my stock much easier. 
+<|begin_quest|>
+<|begin_objective|>
+give 10 honey blocks to Martin
+<|end_objective|>
+<|begin_tasks|>
+find some bees
+<|end_tasks|>
+<|begin_quest_giver|>
+Martin: a retired wandering trader
+<|end_quest_giver|>
+<|begin_task_locations|>
+NONE: 
+<|end_task_locations|>
+<|begin_rewards|>
+Shulker Box: an easily movable storage box (amount: 1)
+<|end_rewards|>
+<|begin_items|>
+: honey blocks (amount: 10)
+<|end_items|>
+<|begin_motivation|>
+reputation
+<|end_motivation|>
+<|end_quest|>
+I'd like to bake my delicious honey cakes for the whole village! Then they'd certainly know that I have traveled all over the world! I even used to be a wandering trader. I need a lot of honey for the cakes. You are quite a wanderer yourself. Perhaps you could help me procure 10 honey blocks. You can get honey from bees; you just have to find them first. Do this for me, and I'll give you a special reward: a Shulker Box. These things were worth their weight in emeralds every time someone murdered my pack llamas: they made hauling my stock much easier.

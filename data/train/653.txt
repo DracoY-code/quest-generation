@@ -1,21 +1,27 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Swim for Your Life
-Objective: assassinate Deekus
-First Tasks: locate Deekus
-First Task Locations: Hela's Folly - a small waterlogged shipwreck northeast of Dawnstar
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Deekus - a male Argonian layabout, and a shipwreck scavenger (location: Hela's Folly)
-Tools: Argonians are unpredictable opponents, especially near water
-Locations: Dawnstar - a town (location: NONE)
-Items: NONE
-Enemies: NONE
-Groups: Argonians - a race of people
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+assassinate Deekus
+<|end_objective|>
+<|begin_tasks|>
+locate Deekus
+<|end_tasks|>
+<|begin_quest_giver|>
+Nazir: a fellow assassin
+<|end_quest_giver|>
+<|begin_task_locations|>
+Hela's Folly: a small waterlogged shipwreck northeast of Dawnstar
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Deekus: a male Argonian layabout, and a shipwreck scavenger (location: Hela's Folly)
+<|end_characters|>
+<|begin_locations|>
+Dawnstar: a town (location: NONE)
+<|end_locations|>
+<|begin_groups|>
+Argonians: a race of people (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 There's an assassination contract for you. You are to kill Deekus. He is an Argonian layabout, likes to scavenge shipwrecks. My guess is he'll run if threatened. Or swim, if given the chance. Personally, I've always found Argonians to be incredibly unpredictable opponents. Especially near water. Unfortunately, Deekus is at Hela's Folly, a small waterlogged shipwreck northeast of Dawnstar. Making him stay out of water will be difficult.

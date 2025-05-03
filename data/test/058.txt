@@ -1,21 +1,18 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Marlowe's Plea for Help
-Objective: find out what Marlowe needs help with
-First Tasks: talk to Marlowe
-First Task Locations:  - Marlowe's home, a simple, safe dwelling atop the east cliff
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: NONE
-Tools: Marlowe assumes that the player is one of the strangers that all the locals have been talking about, an adventurer from the north, Marlowe and his daughter shall surely perish without the player's help
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Baldur's Gate II: Shadows of Amn
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+find out what Marlowe needs help with
+<|end_objective|>
+<|begin_tasks|>
+talk to Marlowe
+<|end_tasks|>
+<|begin_quest_giver|>
+Marlowe: a seriously troubled man
+<|end_quest_giver|>
+<|begin_task_locations|>
+: Marlowe's home, a simple, safe dwelling atop the east cliff
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|end_quest|>
 Excuse me, I... I do not mean to be rude... but you *are* one of the strangers that all the locals have been talking about, aren't you? An adventurer from the north? Yes, yes, of course you are. Anyone can see that you are an extraordinary person. Please forgive me. I would not bother you, stranger, but I am in terrible peril! I need your aid! I beg you for a boon or I and my daughter both shall surely perish! I... cannot speak more of this here. Please come to my home on top of the cliff, I beg you! We can speak freely there! My home is atop the east cliff, adventurer. It is a simple dwelling but... safe, for the moment. My name is Marlowe... please meet me there and I shall explain everything, I swear.

@@ -1,21 +1,19 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Rescue Tandi from the Raiders
-Objective: Rescue Tandi, the daughter of Aradesh, from the Khans.
-First Tasks: Find Tandi's location within the Khans' camp.
-First Task Locations: Khan Raider Camp - A fortified encampment occupied by the Khans, a dangerous group of raiders.
-Quest Giver: NONE - NONE (location: NONE)
-Reward: Experience Points - Earned for successfully rescuing Tandi. (amount: 500), Gratitude from Shady Sands - The town will be appreciative of your actions, improving relations. (amount: 1)
-Characters: NONE
-Tools: Speech (to negotiate with the Khans), Stealth (to sneak in and rescue Tandi), Combat Skills (to fight the Khans if necessary)
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Fallout
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+Rescue Tandi, the daughter of Aradesh, from the Khans.
+<|end_objective|>
+<|begin_tasks|>
+Find Tandi's location within the Khans' camp.
+<|end_tasks|>
+<|begin_quest_giver|>
+Aradesh: The leader of Shady Sands, deeply concerned about his kidnapped daughter.
+<|end_quest_giver|>
+<|begin_task_locations|>
+Khan Raider Camp: A fortified encampment occupied by the Khans, a dangerous group of raiders.
+<|end_task_locations|>
+<|begin_rewards|>
+Experience Points: Earned for successfully rescuing Tandi. (amount: 500)
+Gratitude from Shady Sands: The town will be appreciative of your actions, improving relations. (amount: 1)
+<|end_rewards|>
+<|end_quest|>
 Tandi, the daughter of Aradesh, has been kidnapped by the Khans. The Vault Dweller must infiltrate the raider camp and rescue her, either through diplomacy, stealth, or combat. The outcome will determine the fate of Shady Sands and the player's standing in the wasteland.

@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: A Fancy New Shirt
-Objective: give a leather tunic to Narcissos
-First Tasks: obtain a leather tunic
-First Task Locations: NONE - 
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - a diamond chestplate (amount: 1)
-Characters: NONE
-Tools: the player is not wearing any kind of armor
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Minecraft
-Motivation: comfort
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+give a leather tunic to Narcissos
+<|end_objective|>
+<|begin_tasks|>
+obtain a leather tunic
+<|end_tasks|>
+<|begin_quest_giver|>
+Narcissos: a narcissistic man
+<|end_quest_giver|>
+<|begin_task_locations|>
+NONE: 
+<|end_task_locations|>
+<|begin_rewards|>
+: a diamond chestplate (amount: 1)
+<|end_rewards|>
+<|begin_motivation|>
+comfort
+<|end_motivation|>
+<|end_quest|>
 Aren't I just the handsomest man in this village? I'd like to become even flashier than I am now. Even you, traveler, lack any kind of flashy armor. I could give you my old, crummy diamond chestplate so that you'd look a bit less embarrassing. However, I want you to give me a brand new leather tunic in return.

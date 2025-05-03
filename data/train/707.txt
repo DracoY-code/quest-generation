@@ -1,21 +1,26 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Search and Seizure
-Objective: find evidence of Ogmund the Skald's Talos worship for Ondolemar
-First Tasks: break into Ogmund the Skald's home
-First Task Locations: Markarth - a city
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Ogmund the Skald - an old, respected man (location: Markarth), Talos - a mortal man who ascended to godhood (location: ), Jarl - the nobleman who rules over Markarth (location: Markarth)
-Tools: the player asked Ondolemar what he is doing in Markarth, Ondolemar knows that Ogmund the Skald worships Talos in his home: the Jarl of Markarth refuses to arrest Ogmund the Skald
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: Thalmor - an elven organization that denies the godhood of Talos and tries to root put Talos worship
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+find evidence of Ogmund the Skald's Talos worship for Ondolemar
+<|end_objective|>
+<|begin_tasks|>
+break into Ogmund the Skald's home
+<|end_tasks|>
+<|begin_quest_giver|>
+Ondolemar: a Thalmor agent
+<|end_quest_giver|>
+<|begin_task_locations|>
+Markarth: a city
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Ogmund the Skald: an old, respected man (location: Markarth)
+Talos: a mortal man who ascended to godhood (location: )
+Jarl: the nobleman who rules over Markarth (location: Markarth)
+<|end_characters|>
+<|begin_groups|>
+Thalmor: an elven organization that denies the godhood of Talos and tries to root put Talos worship (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 I was sent here to lead the Thalmor's interests in this corner of the world. It's my mission to root out all Talos worship in this city. You're awfully inquisitive, aren't you? I like that. Perhaps you'd care to solve a little problem I'm having? Ogmund the Skald. He's old, respected, and I know for a fact that he worships Talos in his home. But the Jarl has been hesitant to call for his arrest. I want you to break in to his home and find evidence.

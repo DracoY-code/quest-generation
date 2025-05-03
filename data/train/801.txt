@@ -1,21 +1,22 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Bullying Braith
-Objective: convince Braith to stop bullying Lars Battle-Born
-First Tasks: talk to Braith
-First Task Locations: NONE - 
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - the player will be Lars Battle-Born' best friend forever (amount: 1),  - septims (amount: 2)
-Characters: Braith - a girl (location: )
-Tools: NONE
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+convince Braith to stop bullying Lars Battle-Born
+<|end_objective|>
+<|begin_tasks|>
+talk to Braith
+<|end_tasks|>
+<|begin_quest_giver|>
+Lars Battle-Born: a young boy who can't fight
+<|end_quest_giver|>
+<|begin_task_locations|>
+NONE: 
+<|end_task_locations|>
+<|begin_rewards|>
+: the player will be Lars Battle-Born' best friend forever (amount: 1)
+: septims (amount: 2)
+<|end_rewards|>
+<|begin_characters|>
+Braith: a girl (location: )
+<|end_characters|>
+<|end_quest|>
 I'm having trouble. Braith bullies me all the time. All the elders think I'm a milk drinker 'cause I can't fight. Nobody understands. If you can get Braith to leave me alone, I'll be your best friend... forever! I'll pay you, too! My whole life's savings - two septims!

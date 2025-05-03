@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Ghost of a Chance
-Objective: master all challenges
-First Tasks: defeat the 5 Spectral Champions
-First Task Locations: Crows' Pass - a pass
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - the Forgotten Hero's most prized possession (amount: 1)
-Characters: NONE
-Tools: NONE
-Locations: NONE
-Items: NONE
-Enemies: Spectral Champions - ghosts of champions (amount: 5)
-Groups: NONE
-Title: Torchlight II
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+master all challenges
+<|end_objective|>
+<|begin_tasks|>
+defeat the 5 Spectral Champions
+<|end_tasks|>
+<|begin_quest_giver|>
+Forgotten Hero: a ghost of a long-dead hero
+<|end_quest_giver|>
+<|begin_task_locations|>
+Crows' Pass: a pass
+<|end_task_locations|>
+<|begin_rewards|>
+: the Forgotten Hero's most prized possession (amount: 1)
+<|end_rewards|>
+<|begin_enemies|>
+Spectral Champions: ghosts of champions (amount: 5)
+<|end_enemies|>
+<|end_quest|>
 I have been dead a very long time, and in all those centuries, I have not found one soul worthy of taking up the mantle of hero, as I once did, and seeking adventure. Will you be that hero? I offer you five challenges. Defeat each of the five Spectral Champions in Crows' Pass: these ghostly champions will be your challenges. Should you master them all, my most prized possession is yours...

@@ -1,21 +1,31 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Affairs of a Wizard
-Objective: assassinate Celedaen
-First Tasks: search for Celedaen's written records that may contain evidence of some kind of weakness of his
-First Task Locations: Leafrot Cave - a cave
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - the player should go to Chorrol for their next dead drop: at the foot of the Great Oak, hidden in the bushes, is an old sack containing the player's reward and their next contract (amount: 1)
-Characters: Celedaen - an ancient necromancer, who is in the process of turning himself into a lich (location: Leafrot Cave)
-Tools: "Dead Drop Orders #1" is addressed to the player: the player is a Silencer of the Dark Brotherhood
-Locations: Chorrol - a city (location: NONE), Hero Hill - a hill (location: NONE)
-Items: "Dead Drop Orders #1" - the player's first dead drop note, on Hero Hill (amount: 1)
-Enemies: NONE
-Groups: Dark Brotherhood - a guild of assassins
-Title: The Elder Scrolls IV: Oblivion
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+assassinate Celedaen
+<|end_objective|>
+<|begin_tasks|>
+search for Celedaen's written records that may contain evidence of some kind of weakness of his
+<|end_tasks|>
+<|begin_quest_giver|>
+Lucien Lachance: the player's superior in the Dark Brotherhood, giving quest via "Dead Drop Orders #1"
+<|end_quest_giver|>
+<|begin_task_locations|>
+Leafrot Cave: a cave
+<|end_task_locations|>
+<|begin_rewards|>
+: the player should go to Chorrol for their next dead drop: at the foot of the Great Oak, hidden in the bushes, is an old sack containing the player's reward and their next contract (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Celedaen: an ancient necromancer, who is in the process of turning himself into a lich (location: Leafrot Cave)
+<|end_characters|>
+<|begin_locations|>
+Chorrol: a city (location: NONE)
+Hero Hill: a hill (location: NONE)
+<|end_locations|>
+<|begin_items|>
+"Dead Drop Orders #1": the player's first dead drop note, on Hero Hill (amount: 1)
+<|end_items|>
+<|begin_groups|>
+Dark Brotherhood: a guild of assassins (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 Dead Drop Orders #1 by Lucien Lachance  Silencer, You are now reading your first dead drop note, here on Hero Hill, which proves to me you were well-appointed to the tasks that lie ahead. Journey now to Leafrot Cave. There you will encounter an ancient necromancer who is attempting to escape death by transforming himself into a lich. This necromancer, Celedaen, has not yet completed his metamorphosis, but is still immensely powerful, possibly too powerful to destroy if confronted directly. Search Leafrot Cave. Necromancers are wizards after all, and wizards are prolific by nature. Celedaen surely has written records, and these records may contain evidence of some kind of weakness. Perhaps there is some other way to destroy Celedaen besides a direct confrontation. But destroy him you must! When the necromancer lies dead, journey to the city of Chorrol for your next dead drop. At the foot of the Great Oak, hidden in the bushes, is an old sack. Inside you will find your reward for killing the necromancer, as well as information regarding your next contract. Serve me well, Silencer, and there's no telling just how far you might advance.

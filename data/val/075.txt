@@ -1,21 +1,25 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Regroup at the Enclave
-Objective: plan your next move with Commander Vale
-First Tasks: return to the Estherian Enclave
-First Task Locations: Estherian Enclave - a settlement
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Commander Vale - a female military leader (location: ), Alchemist - an evil man (location: )
-Tools: the Alchemist gets more dangerous each time he siphons off energy from Guardians
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: Guardians - powerful spirits
-Title: Torchlight II
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+plan your next move with Commander Vale
+<|end_objective|>
+<|begin_tasks|>
+return to the Estherian Enclave
+<|end_tasks|>
+<|begin_quest_giver|>
+Guardian of Water: a powerful spirit of nature who was attacked by the Alchemist, one of the Guardians
+<|end_quest_giver|>
+<|begin_task_locations|>
+Estherian Enclave: a settlement
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Commander Vale: a female military leader (location: )
+Alchemist: an evil man (location: )
+<|end_characters|>
+<|begin_groups|>
+Guardians: powerful spirits (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 The Alchemist must be stopped before he attacks any more Guardians! Each time he siphons off our energy, he becomes more dangerous. You and Commander Vale should return the Estherian Enclave, and plan your next move.

@@ -1,21 +1,27 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Extinguishing the Flames of Rebellion
-Objective: put an end to the Stormcloak rebellion
-First Tasks: fight your way in Ulric's castle, and make Ulfric face justice
-First Task Locations: Windhelm - a city
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - men who distinguish themselves will be well rewarded (amount: 1)
-Characters: Ulfric - the man who leads the Stormcloaks (location: Windhelm)
-Tools: General Tullius is addressing the player and the player's fellow legionnaires: the best and the brightest warriors in Tamriel
-Locations: Tamriel - a continent (location: NONE)
-Items: NONE
-Enemies: NONE
-Groups: Stormcloaks - rebel forces opposing the Empire
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+put an end to the Stormcloak rebellion
+<|end_objective|>
+<|begin_tasks|>
+fight your way in Ulric's castle, and make Ulfric face justice
+<|end_tasks|>
+<|begin_quest_giver|>
+General Tullius: the player's leader in the Imperial Legion
+<|end_quest_giver|>
+<|begin_task_locations|>
+Windhelm: a city
+<|end_task_locations|>
+<|begin_rewards|>
+: men who distinguish themselves will be well rewarded (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Ulfric: the man who leads the Stormcloaks (location: Windhelm)
+<|end_characters|>
+<|begin_locations|>
+Tamriel: a continent (location: NONE)
+<|end_locations|>
+<|begin_groups|>
+Stormcloaks: rebel forces opposing the Empire (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 All right. It's time to deliver the final blow to the Stormcloak rebellion. You all have fought bravely, and sacrificed much to bring us to this point. Ulfric thinks he can hide behind the walls of his castle. But we will fight our way in and drag him out through the rubble to face justice. Because this is the end for them, the Stormcloaks will fight like cornered rats. They will be fierce and crafty. But they are no match for Legionnaires. You are the best and the brightest warriors in Tamriel. Professional soldiers, fearless and devastating. The Emperor will be paying close attention to what happens here today. Men who distinguish themselves will be well rewarded. Ready now! Everyone, with me! For the Empire! For the Legion!

@@ -1,21 +1,26 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Arkion and Nemphre
-Objective: steal Arkion's Bloodstone Amulet and Nemphre's Onyx Ring, and bring them to Ordulinian
-First Tasks: find Arkion's Bloodstone Amulet and Nemphre's Onyx Ring
-First Task Locations: Baldur's Gate - a large city
-Quest Giver: NONE - NONE (location: NONE)
-Reward: Cloak of Non-Detection - a useful cloak (amount: 1)
-Characters: Arkion - a male necromancer (location: Baldur's Gate), Nemphre - a female necromancer (location: Baldur's Gate)
-Tools: Arkion and Nemphre used to be lovers, Arkion wants Nemphre's Onyx Ring, Nemphre wants Arkion's Bloodstone Amulet
-Locations: NONE
-Items: Bloodstone Amulet - an amulet (amount: 1), Onyx Ring - a ring (amount: 1)
-Enemies: NONE
-Groups: NONE
-Title: Baldur's Gate
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+steal Arkion's Bloodstone Amulet and Nemphre's Onyx Ring, and bring them to Ordulinian
+<|end_objective|>
+<|begin_tasks|>
+find Arkion's Bloodstone Amulet and Nemphre's Onyx Ring
+<|end_tasks|>
+<|begin_quest_giver|>
+Ordulinian: a priest
+<|end_quest_giver|>
+<|begin_task_locations|>
+Baldur's Gate: a large city
+<|end_task_locations|>
+<|begin_rewards|>
+Cloak of Non-Detection: a useful cloak (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Arkion: a male necromancer (location: Baldur's Gate)
+Nemphre: a female necromancer (location: Baldur's Gate)
+<|end_characters|>
+<|begin_items|>
+Bloodstone Amulet: an amulet (amount: 1)
+Onyx Ring: a ring (amount: 1)
+<|end_items|>
+<|end_quest|>
 Ah, fair adventurers, I'm Ordulinian. The roads of this fair city are lined with fools, are they not? Two of the greatest are Arkion and Nemphre, necromancers grown bitter over lost love. Alas, but they use petty trinkets as their excuse for enmity. Nemphre covets Arkion's Bloodstone Amulet and Arkion dreams of her Onyx Ring. Steal those trinkets and bring them to me and perhaps those two fools can at last find peace. For your troubles I will give you a Cloak of Non-Detection. It may be of some use to you in the future.

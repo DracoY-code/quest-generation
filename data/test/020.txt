@@ -1,21 +1,25 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Smooth Jazbay
-Objective: collect 20 Jazbay Grapes for  Avrusa Sarethi so that she can cultivate her supply of Nirnroot
-First Tasks: find 20 Jazbay Grapes
-First Task Locations: NONE - 
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - something for the player's efforts (amount: 1)
-Characters: Aduri - Avrusa Sarethi's younger sister (location: Avrusa Sarethi's farm)
-Tools: Avrusa Sarethi is keeping a a tight rein on Aduri
-Locations: NONE
-Items: Jazbay Grapes - acidic berries (amount: 20), Nirnroot - a rare herb (amount: 1)
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+collect 20 Jazbay Grapes for  Avrusa Sarethi so that she can cultivate her supply of Nirnroot
+<|end_objective|>
+<|begin_tasks|>
+find 20 Jazbay Grapes
+<|end_tasks|>
+<|begin_quest_giver|>
+Avrusa Sarethi: a tired farmer
+<|end_quest_giver|>
+<|begin_task_locations|>
+NONE: 
+<|end_task_locations|>
+<|begin_rewards|>
+: something for the player's efforts (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Aduri: Avrusa Sarethi's younger sister (location: Avrusa Sarethi's farm)
+<|end_characters|>
+<|begin_items|>
+Jazbay Grapes: acidic berries (amount: 20)
+Nirnroot: a rare herb (amount: 1)
+<|end_items|>
+<|end_quest|>
 Sigh. I've got my hands full here. Between the farm chores, cultivating my supply of Nirnroot and keeping a tight rein on my sister Aduri, there's little time for rest. Could you help me? One of the ingredients I need to cultivate Nirnroot are Jazbay Grapes... the acidic content of the juice is perfect for the soil. I need twenty of them for my current crop. I'll give you something for your efforts... finding all of them might not be easy... or cheap.

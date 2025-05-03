@@ -1,21 +1,25 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Stendarr's Mercy
-Objective: retrieve the Gauntlets of the Crusader for yourself
-First Tasks: talk to the priests of Stendarr
-First Task Locations: Chorrol - a city
-Quest Giver: NONE - NONE (location: NONE)
-Reward: Gauntlets of the Crusader - holy gauntlets (amount: 1)
-Characters: Sir Berich - one of Sir Casimir's fellow knights at the Order (location: ), Stendarr - the god of mercy, and one of the Nine (location: )
-Tools: Sir Casimir followed Sir Berich into a war after the Order fractured, the war changed Sir Casimir: he no longer had sympathy for the weak, or pity for the suffering, after the war, Sir Casimir tried to serve the Nine at the Chapel of Stendarr in Chorrol, Sir Casimir was cursed after killing a beggar at the Chapel of Stendarr: he was weak, constantly weary, and lacked the energy to do almost anything, the Gauntlets of the Crusader slipped from Sir Casimir's hands after killing the beggar: they are still in the Chapel of Stendarr, too heavy to move
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: Nine - a pantheon of gods
-Title: The Elder Scrolls IV: Oblivion
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+retrieve the Gauntlets of the Crusader for yourself
+<|end_objective|>
+<|begin_tasks|>
+talk to the priests of Stendarr
+<|end_tasks|>
+<|begin_quest_giver|>
+Sir Casimir: a ghost of a knight
+<|end_quest_giver|>
+<|begin_task_locations|>
+Chorrol: a city
+<|end_task_locations|>
+<|begin_rewards|>
+Gauntlets of the Crusader: holy gauntlets (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Sir Berich: one of Sir Casimir's fellow knights at the Order (location: )
+Stendarr: the god of mercy, and one of the Nine (location: )
+<|end_characters|>
+<|begin_groups|>
+Nine: a pantheon of gods (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 I, Sir Casimir, know where you may find the Gauntlets of the Crusader, for I was the one who lost them when I was still alive. Though many know where they are, they are still lost. I believe there is something you must do in order to retrieve them. When the Order fractured, I followed Sir Berich into war, taking the Gauntlets with me. When it was over, I returned to this land. I attempted to return to the service of the Nine, but the war had changed me. I no longer had sympathy for the weak, or pity for the suffering. In the brief time I was there, I did more to hurt the Chapel of Stendarr than help it. It was there that I was cursed. A beggar who came to the Chapel each day for help tried my patience one too many times. I lost my temper, and struck him. My blow landed harder than I had intended, and he fell to the floor, dead. Killed in the very Chapel of the God of Mercy. I left the Chapel at once, of course, but the damage was done. I was weak, constantly weary, and lacked the energy to do almost anything. As proof of the deed, when I struck the poor man the Gauntlets slipped right off my hands and fell to the floor. Heavy as stone, they would not move. None could lift them. I suspect they lie there still, in Chorrol's Chapel. You must prove to Stendarr you are worthy to lift the Gauntlets once more. Seek out the priests of Stendarr in Chorrol. Perhaps they can help you.

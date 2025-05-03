@@ -1,21 +1,18 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Breaking the Siege of Kvatch
-Objective: help defeat the Daedra invaders, and end the siege of Kvatch
-First Tasks: close the Oblivion Gate
-First Task Locations: Kvatch - a city
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: NONE
-Tools: the player has volunteered to close the Oblivion Gate: Savlian Matius sent men in the Oblivion Gate to see if they could find a way to shut it
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls IV: Oblivion
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+help defeat the Daedra invaders, and end the siege of Kvatch
+<|end_objective|>
+<|begin_tasks|>
+close the Oblivion Gate
+<|end_tasks|>
+<|begin_quest_giver|>
+Savlian Matius: a guard captain
+<|end_quest_giver|>
+<|begin_task_locations|>
+Kvatch: a city
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|end_quest|>
 You want to help? You're kidding, right? Hmm... if you're serious, maybe I can put you to use. It'll likely mean your death, though. I don't know how to close this Gate, but it must be possible, because the enemy closed the ones they opened during the initial attack. You can see the marks on the ground where they were, with the Great Gate right in the middle. I sent men into the Gate, to see if they could find a way to shut it. They haven't come back. If you can get in there, find out what happened to them. If they're alive, help them finish the job. If not, see what you can do on your own. The best I can say is, good luck. If you make it back alive, we'll be waiting for you. It's a brave thing you're doing.

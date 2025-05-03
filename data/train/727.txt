@@ -1,21 +1,24 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Suspect: Renesco
-Objective: Investigate whether Renesco was responsible for Richard Wright’s overdose.
-First Tasks: Find and question Renesco about his involvement in the overdose., Check if Renesco supplied the Jet that killed Richard Wright., Search Renesco’s shop for evidence linking him to the tainted Jet., Report your findings to Orville Wright.
-First Task Locations: Renesco's Shop - A general store in New Reno where Renesco sells various drugs and supplies., Overdose Scene - Reexamine for any evidence connecting Renesco’s products to Richard Wright’s death., Wright Family Residence - Return to Orville Wright with your findings.
-Quest Giver: NONE - NONE (location: NONE)
-Reward: Caps - A monetary reward for uncovering the truth. (amount: 500), Wright Family Favor - Increased standing with the Wrights, granting potential future benefits. (amount: NONE)
-Characters: NONE
-Tools: Speech or Barter to persuade Renesco into revealing information., Science or Medicine to analyze Jet samples., Stealth or Lockpick to search Renesco’s shop discreetly.
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Fallout 2
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+Investigate whether Renesco was responsible for Richard Wright’s overdose.
+<|end_objective|>
+<|begin_tasks|>
+Find and question Renesco about his involvement in the overdose.
+Check if Renesco supplied the Jet that killed Richard Wright.
+Search Renesco’s shop for evidence linking him to the tainted Jet.
+Report your findings to Orville Wright.
+<|end_tasks|>
+<|begin_quest_giver|>
+Orville Wright: Leader of the Wright family, seeking justice for his son's death.
+<|end_quest_giver|>
+<|begin_task_locations|>
+Renesco's Shop: A general store in New Reno where Renesco sells various drugs and supplies.
+Overdose Scene: Reexamine for any evidence connecting Renesco’s products to Richard Wright’s death.
+Wright Family Residence: Return to Orville Wright with your findings.
+<|end_task_locations|>
+<|begin_rewards|>
+Caps: A monetary reward for uncovering the truth. (amount: 500)
+Wright Family Favor: Increased standing with the Wrights, granting potential future benefits. (amount: NONE)
+<|end_rewards|>
+<|end_quest|>
 Renesco, a shopkeeper in New Reno known for selling drugs, is a suspect in Richard Wright’s overdose. Investigate his involvement and uncover the truth.

@@ -1,21 +1,22 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Investigate the Deaths in the Umar Hills
-Objective: investigate the monster sightings at Imnesvale
-First Tasks: talk to Minister Lloyd
-First Task Locations: Imnesvale - a village
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Minister Lloyd - the male mayor of Imnesvale (location: Imnesvale), Umar - a long-dead evil female witch (location: )
-Tools: Delon does not have any money, Delon was sent to find someone who could help his home village Imnesvale: terrible beasts have been seen out in the hills, Umar herself might have returned, Minister Lloyd can tell everything else
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Baldur's Gate II: Shadows of Amn
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+investigate the monster sightings at Imnesvale
+<|end_objective|>
+<|begin_tasks|>
+talk to Minister Lloyd
+<|end_tasks|>
+<|begin_quest_giver|>
+Delon: a frightened man
+<|end_quest_giver|>
+<|begin_task_locations|>
+Imnesvale: a village
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Minister Lloyd: the male mayor of Imnesvale (location: Imnesvale)
+Umar: a long-dead evil female witch (location: )
+<|end_characters|>
+<|end_quest|>
 My name's Delon. I was sent to f-find someone, but things have been gone all wrong! *sniffle* I've had all my money stolen, and I'm lost, and everyone's so mean. *sniff* I was sent to find someone who could h-help my village, Imnesvale. Terrible things are happening there, and nobody knows what to do! Everyone says they seen strange b-beasts out in the hills. Everyone's so frightened! There's even t-t-talk that Umar herself has returned! When you get to Imnesvale, talk to Minister Lloyd! He can tell you everything else!

@@ -1,21 +1,24 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: The Horn of Jurgen Windcaller
-Objective: retrieve the horn of Jurgen Windcaller
-First Tasks: find the horn of Jurgen Windcaller in his tomb
-First Task Locations: Ustengrav - an ancient fane
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - formal recognition as Dragonborn (amount: 1)
-Characters: Jurgen Windcaller - the man who founded Greybeards (location: )
-Tools: this is the player's last trial
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: Greybeards - the masters of the way of the voice
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+retrieve the horn of Jurgen Windcaller
+<|end_objective|>
+<|begin_tasks|>
+find the horn of Jurgen Windcaller in his tomb
+<|end_tasks|>
+<|begin_quest_giver|>
+Arngeir: one of the Greybeards
+<|end_quest_giver|>
+<|begin_task_locations|>
+Ustengrav: an ancient fane
+<|end_task_locations|>
+<|begin_rewards|>
+: formal recognition as Dragonborn (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Jurgen Windcaller: the man who founded Greybeards (location: )
+<|end_characters|>
+<|begin_groups|>
+Greybeards: the masters of the way of the voice (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 You are now ready for your last trial. Retrieve the Horn of Jurgen Windcaller, our founder, from his tomb in the ancient fane of Ustengrav. Remain true to the Way of the Voice, and you will return. Then it is time for us to recognize you formally as Dragonborn.

@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Guard the Brahmin
-Objective: Protect a herd of Brahmin from nighttime rustlers.
-First Tasks: Meet with the rancher to begin the guard duty., Stay alert during the night for any rustlers., Defeat any attackers attempting to steal the Brahmin.
-First Task Locations: Klamath - A small settlement known for Brahmin herding.
-Quest Giver: NONE - NONE (location: NONE)
-Reward: Caps - A small payment for successfully guarding the Brahmin. (amount: 100), Reputation Boost - Improved reputation in Klamath for assisting the town. (amount: NONE)
-Characters: NONE
-Tools: Weapons to defend against rustlers., Stealth or perception skills to detect incoming threats.
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Fallout 2
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+Protect a herd of Brahmin from nighttime rustlers.
+<|end_objective|>
+<|begin_tasks|>
+Meet with the rancher to begin the guard duty.
+Stay alert during the night for any rustlers.
+Defeat any attackers attempting to steal the Brahmin.
+<|end_tasks|>
+<|begin_quest_giver|>
+Torr: A simple-minded ranch hand who needs help protecting the Brahmin.
+<|end_quest_giver|>
+<|begin_task_locations|>
+Klamath: A small settlement known for Brahmin herding.
+<|end_task_locations|>
+<|begin_rewards|>
+Caps: A small payment for successfully guarding the Brahmin. (amount: 100)
+Reputation Boost: Improved reputation in Klamath for assisting the town. (amount: NONE)
+<|end_rewards|>
+<|end_quest|>
 A group of rustlers has been stealing Brahmin from Klamath. Torr needs help standing guard at night to stop them.

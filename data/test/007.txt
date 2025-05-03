@@ -1,21 +1,28 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Robber's Stash
-Objective: find the bandit leader's stash by the old tree stump
-First Tasks: go to the island to the south and find the old tree stump
-First Task Locations: NONE - 
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - the bandit leader's stash (amount: 1)
-Characters: Herd - a male bandit in the bandit leader's gang, hates Brodir (location: ), Brodir - a male bandit in the bandit leader's gang, hates Herd (location: )
-Tools: the bandit leader thinks that his men are going to mutiny: Herd and Brodir are leading their own cliques within the bandits, the bandit leader is going to gather up gold and escape downriver to Dragon Bridge
-Locations: Dragon Bridge - a town (location: NONE)
-Items: "Bandit Leader's Journal" - a journal written by the bandit leader (amount: 1)
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+find the bandit leader's stash by the old tree stump
+<|end_objective|>
+<|begin_tasks|>
+go to the island to the south and find the old tree stump
+<|end_tasks|>
+<|begin_quest_giver|>
+: the bandit leader, a paranoid man, giving quest via "Bandit Leader's Journal"
+<|end_quest_giver|>
+<|begin_task_locations|>
+NONE: 
+<|end_task_locations|>
+<|begin_rewards|>
+: the bandit leader's stash (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Herd: a male bandit in the bandit leader's gang, hates Brodir (location: )
+Brodir: a male bandit in the bandit leader's gang, hates Herd (location: )
+<|end_characters|>
+<|begin_locations|>
+Dragon Bridge: a town (location: NONE)
+<|end_locations|>
+<|begin_items|>
+"Bandit Leader's Journal": a journal written by the bandit leader (amount: 1)
+<|end_items|>
+<|end_quest|>
 Bandit Leader's Journal  5th of First Seed, 4E 201 Idiots! Brodir and Herd were at each others' throats again today, and nearly came to blows. The whole camp is on edge. I've ordered an extra ration of mead, but unless this fighting stops, we'll tear ourselves apart.  11th of First Seed, 4E 201 Rumor is that Herd's gathering followers for a mutiny. Brodir's not stupid; he's probably doing the same, just for insurance. I'd kill them both myself, but the camp's split right down the middle. If I tried, there'd be a knife in my back within a week. I can't take this anymore. I've begun skimming a little gold from the take, bringing it down here when I can. If I can scrape enough together, I'll make a run for it, head downriver to Dragon Bridge.  28th of First Seed, 4E 201 Brodir's getting suspicious -- I caught him poking around in the cove this afternoon. I don't think he found my stash, but it's not safe here. I took the boat out tonight and stowed it on the island to the south, by the old tree stump. Had a good haul this week. Another caravan or two and I can finally get out of here, and not a moment too soon.

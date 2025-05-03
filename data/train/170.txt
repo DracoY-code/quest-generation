@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: The Tale of Commander Brage
-Objective: kill Commander Brage
-First Tasks: find Commander Brage
-First Task Locations:  - the woods to the west
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - a king's ransom (amount: 1)
-Characters: Commander Brage - the former commander of the guard (location: the woods to the west)
-Tools: Commander Brage found a cursed sword and killed his family, Commander Brage was a well-liked man before the cursed sword changed him
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Baldur's Gate
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+kill Commander Brage
+<|end_objective|>
+<|begin_tasks|>
+find Commander Brage
+<|end_tasks|>
+<|begin_quest_giver|>
+: a guard in a bad mood
+<|end_quest_giver|>
+<|begin_task_locations|>
+: the woods to the west
+<|end_task_locations|>
+<|begin_rewards|>
+: a king's ransom (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Commander Brage: the former commander of the guard (location: the woods to the west)
+<|end_characters|>
+<|end_quest|>
 State your business with the guard and go! Oh, that came out a bit harsher than I meant. I am sorry for my mood. All the guard are still grieving the loss of Commander Brage. The commander was friend to many before he found a cursed sword. He's not the man he was, by Helm. I'll not believe a man of Brage's rank could kill his own family. 'Twas evil magics of some sort. An entire unit went west after Brage to try to talk some sense to him. It's been a week, and none have returned. The reward for the commander's head is a king's ransom, but I'll not be lifting MY sword against a brother soldier. Travel lightly, wanderer. The woods harbor strange things.

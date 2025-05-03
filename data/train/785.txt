@@ -1,21 +1,29 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Another Mission for the Temple of Lathander
-Objective: return Dawn Ring to the temple of Lathander
-First Tasks: intercept the thieves transporting Dawn Ring
-First Task Locations:  - the slums at night
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Lathander, the Morninglord - the good god of dawn (location: ), Talos - an evil god (location: )
-Tools: there are many new artworks and aged relics on display at the temple of Lathander, Dawn Ring was stolen from the temple of Lathander, the thieves were hired by the Talassans of temple of Talos
-Locations: NONE
-Items: Dawn Ring - a ring (amount: 1)
-Enemies: NONE
-Groups: Talassans - followers of Talos,  - thieves
-Title: Baldur's Gate II: Shadows of Amn
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+return Dawn Ring to the temple of Lathander
+<|end_objective|>
+<|begin_tasks|>
+intercept the thieves transporting Dawn Ring
+<|end_tasks|>
+<|begin_quest_giver|>
+Dawnbringer Sain: priest of Lathander
+<|end_quest_giver|>
+<|begin_task_locations|>
+: the slums at night
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Lathander, the Morninglord: the good god of dawn (location: )
+Talos: an evil god (location: )
+<|end_characters|>
+<|begin_items|>
+Dawn Ring: a ring (amount: 1)
+<|end_items|>
+<|begin_groups|>
+Talassans: followers of Talos (amount: NONE)
+: thieves (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 Good day, it's Dawnbringer Sain, the priest of Lathander. I would ask a dangerous thing of you. You're free to refuse, but the greater glory of Lathander is at stake. The Morninglord takes great pride in the artifacts of his rule. We have many items on display at the temple of Lathander, from new artworks to the aged relics of bygone days. Today we are one less. We are the victims of thievery, and our followers have been shaken by this vulnerability. Quick steps must be taken to rectify this. We know the culprits; they have not concealed their crime. Talassans, slinking from their temple to degrade our worship, hired common thieves for the deed! They fear no retribution. The Morninglord cannot suffer his relics in the hands of such evil. Find these thieves before the Talassans receive the items. The spark of dawn has lit the way. Go to the filth of the slums at night and intercept the delivery of our Dawn Ring. Bring it back to its proper place.

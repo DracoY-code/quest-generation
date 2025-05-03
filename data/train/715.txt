@@ -1,21 +1,22 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Hull's Sword
-Objective: fetch Hull's sword
-First Tasks: find Hull's sword in his chest
-First Task Locations:  - on the right side of the barracks
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - gold pieces (amount: 20)
-Characters: Dreppin - a male farmer (location: ), Nessa - Dreppin's cow (location: )
-Tools: Hull knows the player, there is an antidote in Hull's chest: Dreppin needs an antidote for Nessa
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Baldur's Gate
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+fetch Hull's sword
+<|end_objective|>
+<|begin_tasks|>
+find Hull's sword in his chest
+<|end_tasks|>
+<|begin_quest_giver|>
+Hull: a guardsman manning the gates
+<|end_quest_giver|>
+<|begin_task_locations|>
+: on the right side of the barracks
+<|end_task_locations|>
+<|begin_rewards|>
+: gold pieces (amount: 20)
+<|end_rewards|>
+<|begin_characters|>
+Dreppin: a male farmer (location: )
+Nessa: Dreppin's cow (location: )
+<|end_characters|>
+<|end_quest|>
 Hey, kid, it's me, Hull. I woke late this morning and left my sword in the barracks before going on duty. If you want to get it for me, it's in the chest at the foot of my bed on the right side of the barracks. Quick now, before the Gatewarden catches me without it. You'll also find an antidote there. I think Dreppin needs one for old Nessa. You'll get 20 gold pieces for saving my skin from the Chief.

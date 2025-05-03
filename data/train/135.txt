@@ -1,21 +1,20 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Receive Training from Thomas
-Objective: Train with Thomas to improve combat skills.
-First Tasks: Find Thomas and request training., Follow Thomas’s instructions during the session., Complete the required combat drills.
-First Task Locations: Training Grounds - An outdoor or designated area where Thomas conducts combat training sessions.
-Quest Giver: NONE - NONE (location: NONE)
-Reward: Combat Skill Improvement - Increased proficiency in combat-related abilities, such as melee or ranged combat. (amount: NONE)
-Characters: NONE
-Tools: N, O, N, E
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Fallout
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+Train with Thomas to improve combat skills.
+<|end_objective|>
+<|begin_tasks|>
+Find Thomas and request training.
+Follow Thomas’s instructions during the session.
+Complete the required combat drills.
+<|end_tasks|>
+<|begin_quest_giver|>
+Thomas: A seasoned fighter who provides training to those seeking to improve their combat abilities.
+<|end_quest_giver|>
+<|begin_task_locations|>
+Training Grounds: An outdoor or designated area where Thomas conducts combat training sessions.
+<|end_task_locations|>
+<|begin_rewards|>
+Combat Skill Improvement: Increased proficiency in combat-related abilities, such as melee or ranged combat. (amount: NONE)
+<|end_rewards|>
+<|end_quest|>
 Thomas offers training sessions to help wastelanders improve their combat skills, making them better equipped for survival.

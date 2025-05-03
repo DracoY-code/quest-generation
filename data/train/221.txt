@@ -1,21 +1,25 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Repairing the Phial
-Objective: acquire the materials necessary to repair the White Phial
-First Tasks: get unmelting snow, get mammoth tusk powder, get a briar heart
-First Task Locations: Throat of the World - a mountain, on the top,  - giant camps,  - Forsworn camps in the Reach
-Quest Giver: NONE - NONE (location: NONE)
-Reward: White Phial - a legendary bottle that will replenish whatever fluid is placed inside of it (amount: 1)
-Characters: Nurelion - Quintus Navale's master (location: )
-Tools: Quintus Navale has thought about repairing the White Phial, Nurelion was obsessed with the White Phial: his obsession consumed him
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+acquire the materials necessary to repair the White Phial
+<|end_objective|>
+<|begin_tasks|>
+get unmelting snow
+get mammoth tusk powder
+get a briar heart
+<|end_tasks|>
+<|begin_quest_giver|>
+Quintus Navale: an alchemist
+<|end_quest_giver|>
+<|begin_task_locations|>
+Throat of the World: a mountain, on the top
+: giant camps
+: Forsworn camps in the Reach
+<|end_task_locations|>
+<|begin_rewards|>
+White Phial: a legendary bottle that will replenish whatever fluid is placed inside of it (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Nurelion: Quintus Navale's master (location: )
+<|end_characters|>
+<|end_quest|>
 I have some thoughts about repairing the White Phial. There are three crucial elements. Some may be easier to find than others. On the top of the Throat of the World is a patch of unmelting snow. No heat can touch it. Then we need the tusk of a mammoth, ground to a fine powder as only the giants know how. The final step is tricky. It requires the briar heart from a Forsworn of the Reach. If you can bring me these materials, the Phial can again be made whole. You can keep the White Phial after I have repaired it. I fear keeping the Phial would just remind me of Nurelion's obsession, and how it consumed him.

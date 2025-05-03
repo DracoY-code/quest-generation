@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Turn on Power for the Glow
-Objective: Reactivate the power at the Glow facility.
-First Tasks: Gain access to the Glow (West Tek Research Facility)., Find a functional power terminal., Restore power by activating the main reactor.
-First Task Locations: The Glow (West Tek Research Facility) - A pre-war research complex heavily irradiated and filled with dangerous obstacles.
-Quest Giver: NONE - NONE (location: NONE)
-Reward: Experience Points - Earned upon successful power restoration. (amount: 1000), Potential Access to Brotherhood of Steel (Optional) - Can prove your worth to the Brotherhood. (amount: NONE)
-Characters: NONE
-Tools: Radiation Protection Gear, Electronic Lockpick (Optional), Science Skill
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Fallout
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+Reactivate the power at the Glow facility.
+<|end_objective|>
+<|begin_tasks|>
+Gain access to the Glow (West Tek Research Facility).
+Find a functional power terminal.
+Restore power by activating the main reactor.
+<|end_tasks|>
+<|begin_quest_giver|>
+Brotherhood of Steel (Optional): A technologically advanced faction interested in the Glow's secrets.
+<|end_quest_giver|>
+<|begin_task_locations|>
+The Glow (West Tek Research Facility): A pre-war research complex heavily irradiated and filled with dangerous obstacles.
+<|end_task_locations|>
+<|begin_rewards|>
+Experience Points: Earned upon successful power restoration. (amount: 1000)
+Potential Access to Brotherhood of Steel (Optional): Can prove your worth to the Brotherhood. (amount: NONE)
+<|end_rewards|>
+<|end_quest|>
 The Glow, once a research center, is now an irradiated ruin. Restoring power could uncover secrets hidden within the facility, but the radiation and security systems pose a significant challenge.

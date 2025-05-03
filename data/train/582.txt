@@ -1,21 +1,27 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Helping Hand
-Objective: help Wujeeta cure her Skooma addiction
-First Tasks: give Wujeeta a healing potion
-First Task Locations: NONE - 
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Bolli - the man who owns the Riften Fishery (location: )
-Tools: Bolli will fire Wujeeta if she shows up for work under the influence of Skooma
-Locations: Riften Fishery - a fishery (location: NONE)
-Items: Skooma - an illegal drug (amount: 1)
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+help Wujeeta cure her Skooma addiction
+<|end_objective|>
+<|begin_tasks|>
+give Wujeeta a healing potion
+<|end_tasks|>
+<|begin_quest_giver|>
+Wujeeta: a worker at the Riften Fishery, and a Skooma addict
+<|end_quest_giver|>
+<|begin_task_locations|>
+NONE: 
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Bolli: the man who owns the Riften Fishery (location: )
+<|end_characters|>
+<|begin_locations|>
+Riften Fishery: a fishery (location: NONE)
+<|end_locations|>
+<|begin_items|>
+Skooma: an illegal drug (amount: 1)
+<|end_items|>
+<|end_quest|>
 My job at the Riften Fishery is in danger. The owner, Bolli, said that if I show up for work in this condition one more time, then I'm out. I don't mean to do this to myself, but I can't help it. I tried some Skooma a year ago, and ever since then, I can't stop! If you could give me a healing potion, I could cleanse this poison from my body and get back to my life.

@@ -1,21 +1,31 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Broken Vows
-Objective: assassinate J'Ghasta
-First Tasks: find J'Ghasta
-First Task Locations:  - J'Ghasta's house in Bruma
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - the player will find their next dead drop in a rotten box under the Old Bridge, just south of the Imperial City: it will contain the player's reward for killing J'Ghasta and their next assassination contract (amount: 1)
-Characters: J'Ghasta - a Khajiit nobleman, and a skilled hand to hand fighter (location: J'Ghasta's house)
-Tools: "Dead Drop Orders #3" has been addressed toward the player: the player is a Silencer of the Dark Brotherhood, J'Ghasta turned down the offer to marry a prominent Cyrodiil noble's daughter: the noble hired the Dark Brotherhood to kill J'Ghasta, J'Ghasta is aware someone may be trying to kill him, and has bribed the guards not to interfere if a fight should spill out into the Bruma streets
-Locations: Bruma - a city (location: NONE), Cyrodiil - a realm (location: NONE)
-Items: "Dead Drop Orders #3" - a note (amount: 1)
-Enemies: NONE
-Groups: Dark Brotherhood - a guild of assassins
-Title: The Elder Scrolls IV: Oblivion
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+assassinate J'Ghasta
+<|end_objective|>
+<|begin_tasks|>
+find J'Ghasta
+<|end_tasks|>
+<|begin_quest_giver|>
+Lucien Lachance: the player's superior in the Dark Brotherhood, giving quest via "Dead Drop Orders #3"
+<|end_quest_giver|>
+<|begin_task_locations|>
+: J'Ghasta's house in Bruma
+<|end_task_locations|>
+<|begin_rewards|>
+: the player will find their next dead drop in a rotten box under the Old Bridge, just south of the Imperial City: it will contain the player's reward for killing J'Ghasta and their next assassination contract (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+J'Ghasta: a Khajiit nobleman, and a skilled hand to hand fighter (location: J'Ghasta's house)
+<|end_characters|>
+<|begin_locations|>
+Bruma: a city (location: NONE)
+Cyrodiil: a realm (location: NONE)
+<|end_locations|>
+<|begin_items|>
+"Dead Drop Orders #3": a note (amount: 1)
+<|end_items|>
+<|begin_groups|>
+Dark Brotherhood: a guild of assassins (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 Dead Drop Orders #3 by Lucien Lachance  Are you ready to get your hands dirty, Silencer? Your next target is a Khajiit nobleman by the name of J'Ghasta, who can be found at his home in the city of Bruma. J'Ghasta was recently offered the hand of a prominent Cyrodiil noble's daughter, but turned down the offer when he learned of the girl's rather negligible dowry. The girl's family is outraged, of course, and has hired the Dark Brotherhood to make J'Ghasta pay for his insolence. Go to J'Ghasta's house in Bruma and end his miserable life. But be warned! The Khajiit is rich and bored, and spends most of his time honing his skills in unarmed combat. Any opponent who can kill with merely his hands is not to be trifled with, so tread carefully. Even worse, J'Ghasta is aware someone may be trying to kill him, and has bribed the guards not to interfere if a fight should spill out into the city streets. When the target has been eliminated, you will find your next dead drop in a rotten box under the Old Bridge, just south of the Imperial City. The box will contain your reward for killing J'Ghasta, as well as information regarding your next contract.

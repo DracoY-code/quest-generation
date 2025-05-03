@@ -1,21 +1,24 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: A Mine of Knowledge
-Objective: recover "The Nether: Compiled Accounts of the Hellish Plane" for John
-First Tasks: find "The Nether: Compiled Accounts of the Hellish Plane"
-First Task Locations:  - a nearby mineshaft
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - enchanted book (amount: 1)
-Characters: NONE
-Tools: the player is a famous hero
-Locations: NONE
-Items: "The Nether: Compiled Accounts of the Hellish Plane" - a book about the hellish dimension the player is familiar with (amount: 1)
-Enemies: NONE
-Groups: NONE
-Title: Minecraft
-Motivation: knowledge
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+recover "The Nether: Compiled Accounts of the Hellish Plane" for John
+<|end_objective|>
+<|begin_tasks|>
+find "The Nether: Compiled Accounts of the Hellish Plane"
+<|end_tasks|>
+<|begin_quest_giver|>
+John: a dreaming librarian
+<|end_quest_giver|>
+<|begin_task_locations|>
+: a nearby mineshaft
+<|end_task_locations|>
+<|begin_rewards|>
+: enchanted book (amount: 1)
+<|end_rewards|>
+<|begin_items|>
+"The Nether: Compiled Accounts of the Hellish Plane": a book about the hellish dimension the player is familiar with (amount: 1)
+<|end_items|>
+<|begin_motivation|>
+knowledge
+<|end_motivation|>
+<|end_quest|>
 To have more tomes in my library... Now that would be incredibly lovely... Oh hero, I was just dreaming about having more precious, amazing books. Actually, you could recover a book for me. It is called "The Nether: Compiled Accounts of the Hellish Plane", and it tells about the hellish dimension your familiar with. You can find it in a nearby mineshaft. I'm willing to part from an enchanted book, should you succeed in recovering "The Nether: Compiled Accounts of the Hellish Plane".

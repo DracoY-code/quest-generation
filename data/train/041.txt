@@ -1,21 +1,24 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Shack for Sale
-Objective: purchase the house in the Imperial City
-First Tasks: give Vinicia Melissaeia 2,000 septims
-First Task Locations: Imperial City - a large city
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - house in the Imperial City, a shack in the Waterfront District, not much to look at (amount: 1)
-Characters: Sergius Verus - a male trader (location: Three Brothers Trade Goods)
-Tools: the player told Vinicia Melissaeia that they want to buy a house in the Imperial City, Sergius Verus can sell the player some furnishings for the house
-Locations: Three Brothers Trade Goods - a store in the Market District (location: NONE)
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls IV: Oblivion
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+purchase the house in the Imperial City
+<|end_objective|>
+<|begin_tasks|>
+give Vinicia Melissaeia 2,000 septims
+<|end_tasks|>
+<|begin_quest_giver|>
+Vinicia Melissaeia: Office of Imperial Commerce
+<|end_quest_giver|>
+<|begin_task_locations|>
+Imperial City: a large city
+<|end_task_locations|>
+<|begin_rewards|>
+: house in the Imperial City, a shack in the Waterfront District, not much to look at (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Sergius Verus: a male trader (location: Three Brothers Trade Goods)
+<|end_characters|>
+<|begin_locations|>
+Three Brothers Trade Goods: a store in the Market District (location: NONE)
+<|end_locations|>
+<|end_quest|>
 Vinicia Melissaeia, Office of Imperial Commerce. You desire a house in the Imperial City? Why? I mean... of course. All I have available right now is a hovel on the Waterfront. It's yours for mere 2,000 septims. You may give those septims to me. You'll find the house in the Waterfront District. It's not much to look at. You may want to spruce it up a bit with some furnishings. I'd suggest talking to Sergius Verus at Three Brothers Trade Goods in the Market District.

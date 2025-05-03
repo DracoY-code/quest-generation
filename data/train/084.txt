@@ -1,21 +1,24 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Arkion's Amulet
-Objective: steal Arkion's amulet and bring it to Nemphre
-First Tasks: find Arkion's amulet
-First Task Locations: Baldur's Gate - a large city
-Quest Giver: NONE - NONE (location: NONE)
-Reward: Scroll of Vampiric Touch -  (amount: 1)
-Characters: Arkion - a male necromancer (location: Baldur's Gate)
-Tools: Arkion was Nemphre's lover
-Locations: NONE
-Items:  - Arkion's amulet (amount: 1)
-Enemies: NONE
-Groups: NONE
-Title: Baldur's Gate
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+steal Arkion's amulet and bring it to Nemphre
+<|end_objective|>
+<|begin_tasks|>
+find Arkion's amulet
+<|end_tasks|>
+<|begin_quest_giver|>
+Nemphre: a flirty woman
+<|end_quest_giver|>
+<|begin_task_locations|>
+Baldur's Gate: a large city
+<|end_task_locations|>
+<|begin_rewards|>
+Scroll of Vampiric Touch:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Arkion: a male necromancer (location: Baldur's Gate)
+<|end_characters|>
+<|begin_items|>
+: Arkion's amulet (amount: 1)
+<|end_items|>
+<|end_quest|>
 Mmm, be a sweet one. Could you do a favor for Nemphre? An old lover of mine has followed me here to the city and has been threatening me with some very dark magic. His name is Arkion and, if you could just get a certain amulet of his to me, perhaps there are a few things I could do for you? Such as giving you a Scroll of Vampiric Touch, mmn?

@@ -1,21 +1,25 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Special Delivery
-Objective: help Bolli sell his fish to an untapped market
-First Tasks: deliver a purchase agreement to Kleppr
-First Task Locations: The Silver Blood Inn - an inn in Markarth
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - Kleppr will pay the player as soon as they arrive with the purchase agreement (amount: 1)
-Characters: Kleppr - a male innkeeper (location: The Silver Blood Inn)
-Tools: Bolli sells his catch across Skyrim
-Locations: Markarth - a city in Skyrim (location: NONE), Skyrim - a realm (location: NONE)
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+help Bolli sell his fish to an untapped market
+<|end_objective|>
+<|begin_tasks|>
+deliver a purchase agreement to Kleppr
+<|end_tasks|>
+<|begin_quest_giver|>
+Bolli: a fisherman
+<|end_quest_giver|>
+<|begin_task_locations|>
+The Silver Blood Inn: an inn in Markarth
+<|end_task_locations|>
+<|begin_rewards|>
+: Kleppr will pay the player as soon as they arrive with the purchase agreement (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Kleppr: a male innkeeper (location: The Silver Blood Inn)
+<|end_characters|>
+<|begin_locations|>
+Markarth: a city in Skyrim (location: NONE)
+Skyrim: a realm (location: NONE)
+<|end_locations|>
+<|end_quest|>
 I'm Bolli, a fisherman. I sell my catch across a good portion of Skyrim... it's worth its weight in gold to me. The only untapped market left is Markarth. However, I just got word that Kleppr at The Silver Blood Inn might be interested. If you're headed that way, I would appreciate you delivering a purchase agreement for me. You'd be paid, of course. Kleppr will pay you as soon as you arrive with the letter. Here you are.

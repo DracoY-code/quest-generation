@@ -1,21 +1,19 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Join the Khans
-Objective: Prove loyalty to the Khans and become a member.
-First Tasks: Speak with Garl, the leader of the Khans., Complete the initiation task assigned by Garl.
-First Task Locations: Khans' Camp - A raider stronghold controlled by the Khans, located in the wasteland.
-Quest Giver: NONE - NONE (location: NONE)
-Reward: Khans Membership - The player is recognized as a member of the Khans. (amount: 1)
-Characters: NONE
-Tools: N, O, N, E
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Fallout
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+Prove loyalty to the Khans and become a member.
+<|end_objective|>
+<|begin_tasks|>
+Speak with Garl, the leader of the Khans.
+Complete the initiation task assigned by Garl.
+<|end_tasks|>
+<|begin_quest_giver|>
+Garl: Leader of the Khans, a ruthless and powerful figure.
+<|end_quest_giver|>
+<|begin_task_locations|>
+Khans' Camp: A raider stronghold controlled by the Khans, located in the wasteland.
+<|end_task_locations|>
+<|begin_rewards|>
+Khans Membership: The player is recognized as a member of the Khans. (amount: 1)
+<|end_rewards|>
+<|end_quest|>
 The player must speak to Garl and prove their worth to join the Khans, a dangerous raider faction. The initiation task may involve combat or another challenge to demonstrate strength and loyalty.

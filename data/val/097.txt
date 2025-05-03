@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Convince the Elders to Send Help
-Objective: Persuade the Brotherhood of Steel Elders to provide aid for an upcoming conflict.
-First Tasks: Speak with the Elders to present your case., Provide evidence or arguments to convince them., Await their decision on whether to send assistance.
-First Task Locations: Brotherhood of Steel Bunker - The main headquarters where the Elders hold council meetings.
-Quest Giver: NONE - NONE (location: NONE)
-Reward: Brotherhood Support - If successful, the Brotherhood may send aid in the form of supplies or soldiers. (amount: NONE), Experience Points - Earned upon successfully persuading the Elders. (amount: 1000)
-Characters: NONE
-Tools: Persuasive arguments, Evidence of threats (if applicable)
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Fallout
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+Persuade the Brotherhood of Steel Elders to provide aid for an upcoming conflict.
+<|end_objective|>
+<|begin_tasks|>
+Speak with the Elders to present your case.
+Provide evidence or arguments to convince them.
+Await their decision on whether to send assistance.
+<|end_tasks|>
+<|begin_quest_giver|>
+Concerned Brotherhood Member: A Brotherhood member who believes help should be sent.
+<|end_quest_giver|>
+<|begin_task_locations|>
+Brotherhood of Steel Bunker: The main headquarters where the Elders hold council meetings.
+<|end_task_locations|>
+<|begin_rewards|>
+Brotherhood Support: If successful, the Brotherhood may send aid in the form of supplies or soldiers. (amount: NONE)
+Experience Points: Earned upon successfully persuading the Elders. (amount: 1000)
+<|end_rewards|>
+<|end_quest|>
 A dire situation requires the Brotherhood of Steel's assistance. You must convince the Elders to intervene by presenting a strong case for their involvement. Your success depends on your persuasive skills and available evidence.

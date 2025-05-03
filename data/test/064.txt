@@ -1,21 +1,28 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: A Mansion of Marauders
-Objective: confirm whether the Dark Hall actually exists
-First Tasks: scout out Darkwood
-First Task Locations: Darkwood - a dark, dense forest with thick leaf canopies that block sunlight
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - a block of emerald (amount: 1)
-Characters: NONE
-Tools: NONE
-Locations: Pineville - a forest village (location: NONE), Dark Hall - a woodland mansion inhabited by Illagers (location: NONE)
-Items: NONE
-Enemies: NONE
-Groups: Illagers - outcasts from villages that became bandits
-Title: Minecraft
-Motivation: knowledge
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+confirm whether the Dark Hall actually exists
+<|end_objective|>
+<|begin_tasks|>
+scout out Darkwood
+<|end_tasks|>
+<|begin_quest_giver|>
+: a scared woman
+<|end_quest_giver|>
+<|begin_task_locations|>
+Darkwood: a dark, dense forest with thick leaf canopies that block sunlight
+<|end_task_locations|>
+<|begin_rewards|>
+: a block of emerald (amount: 1)
+<|end_rewards|>
+<|begin_locations|>
+Pineville: a forest village (location: NONE)
+Dark Hall: a woodland mansion inhabited by Illagers (location: NONE)
+<|end_locations|>
+<|begin_groups|>
+Illagers: outcasts from villages that became bandits (amount: NONE)
+<|end_groups|>
+<|begin_motivation|>
+knowledge
+<|end_motivation|>
+<|end_quest|>
 I think I saw an Illager scout keeping an eye on our village from the shadows of nearby trees. Pineville is not safe! The Illagers of the Dark Hall are going to kill us all! Traveler, could you please help me calm my nerves? It is said that there is a woodland mansion called the Dark Hall deep in the thickets of Darkwood. It is supposed to be a safe haven for Illagers, those bloodthirsty outcasts who resorted to banditry! I would like you to scout out Darkwood. Be cautious. Darkwood is a dark, dense forest with thick leaf canopies that block sunlight: perfect for ambushes. Find out if the Dark Hall truly exists. I'll pay you a block of emerald! Those are not that easy to come by!

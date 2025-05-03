@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Buying a House in Skingrad
-Objective: purchase Rosethorn Hall
-First Tasks: give 25,000 septims to Shum gro-Yarug
-First Task Locations: Skingrad - a city
-Quest Giver: NONE - NONE (location: NONE)
-Reward: Rosethorn Hall - a large manor house in Skingrad, just inside the main gate, near the bridge to the chapel (amount: 1)
-Characters: Vandorallen Trebatius - a man (location: Rosethorn Hall)
-Tools: the player told Shum gro-Yarug that they want to buy a house, Rosethorn Hall is currently occupied by Vandorallen Trebatius, Shum gro-Yarug will have Vandorallen Trebatius evicted from Rosethorn Hall
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls IV: Oblivion
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+purchase Rosethorn Hall
+<|end_objective|>
+<|begin_tasks|>
+give 25,000 septims to Shum gro-Yarug
+<|end_tasks|>
+<|begin_quest_giver|>
+Shum gro-Yarug: the Count's butler
+<|end_quest_giver|>
+<|begin_task_locations|>
+Skingrad: a city
+<|end_task_locations|>
+<|begin_rewards|>
+Rosethorn Hall: a large manor house in Skingrad, just inside the main gate, near the bridge to the chapel (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Vandorallen Trebatius: a man (location: Rosethorn Hall)
+<|end_characters|>
+<|end_quest|>
 I'm Shum gro-Yarug, the Count's butler. So you want to buy a house? I can speak for the Count. Rosethorn Hall is a stately manor currently occupied by Vandorallen Trebatius. You won't find a better property for sale in Skingrad. It's just inside the main gate, near the bridge to the chapel. The house costs 25,000 septims. Give me the septims, and I will order the deed to the house drawn up. Don't worry about Vandorallen Trebatius. I'll have him evicted. I'm sure he'll find another home easily.

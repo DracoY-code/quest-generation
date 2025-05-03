@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Return to Grace
-Objective: convince Svari's mother to go to temple
-First Tasks: talk to Svari's mother
-First Task Locations: NONE - 
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Roggvir - Svari's uncle (location: )
-Tools: Roggvir died: Svari's mother took his death hard
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+convince Svari's mother to go to temple
+<|end_objective|>
+<|begin_tasks|>
+talk to Svari's mother
+<|end_tasks|>
+<|begin_quest_giver|>
+Svari: a young girl
+<|end_quest_giver|>
+<|begin_task_locations|>
+NONE: 
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Roggvir: Svari's uncle (location: )
+<|end_characters|>
+<|end_quest|>
 Mum doesn't say much since Uncle Roggvir died. She doesn't even go to temple anymore. I wish she would. At least that way she'd have people to talk to. Maybe you could convince her. You should go do it right now.

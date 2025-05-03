@@ -1,21 +1,25 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: A Decisive Message
-Objective: deliver a sensitive intelligence message for General Tullius
-First Tasks: deliver the message to Jarl Baalgruf
-First Task Locations: Whiterun - a city
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Jarl Baalgruf - the nobleman who rules over Whiterun (location: Whiterun), Ulfric - the male leader of the Stormcloaks (location: )
-Tools: Ulfric has raised enough men to attack Whiterun, but Jarl Baalgruf refuses the Imperial Legion's support: the message should convince Jarl Baalgruf
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: Stormcloaks - rebel forces opposing the Empire
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+deliver a sensitive intelligence message for General Tullius
+<|end_objective|>
+<|begin_tasks|>
+deliver the message to Jarl Baalgruf
+<|end_tasks|>
+<|begin_quest_giver|>
+General Tullius: the player's leader in the Imperial Legion
+<|end_quest_giver|>
+<|begin_task_locations|>
+Whiterun: a city
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Jarl Baalgruf: the nobleman who rules over Whiterun (location: Whiterun)
+Ulfric: the male leader of the Stormcloaks (location: )
+<|end_characters|>
+<|begin_groups|>
+Stormcloaks: rebel forces opposing the Empire (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 I need someone I can trust to deliver a message of great import to Jarl Baalgruf of Whiterun. We have it on good authority that Ulfric has raised enough men to attack the city of Whiterun. The Jarl, however, refuses the Legion's support. This missive should convince him. Be aware soldier, these documents contain sensitive intelligence for the Jarl's eyes only.

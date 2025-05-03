@@ -1,21 +1,24 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: A Liquid Solution
-Objective: bring Aquanostrum to Sickly Bernice
-First Tasks: find Aquanostrum to cure Sickly Bernice's illness
-First Task Locations: Knotty Bramble - a root cave
-Quest Giver: NONE - NONE (location: NONE)
-Reward: Circlet of Verdure -  (amount: 1)
-Characters: NONE
-Tools: Sickly Bernice thinks these may be her last days in the Shivering Isles, on the lowest level of the Knotty Bramble, there is a pool containing Aquanostrum: Sickly Bernice gives the player a special flask to collect the Aquanostrum
-Locations: Shivering Isles - a realm (location: NONE)
-Items: Aquanostrum - a liquid cure that bubbles up from around an old statue (amount: 1)
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls IV: Oblivion
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+bring Aquanostrum to Sickly Bernice
+<|end_objective|>
+<|begin_tasks|>
+find Aquanostrum to cure Sickly Bernice's illness
+<|end_tasks|>
+<|begin_quest_giver|>
+Sickly Bernice: a sickly woman, and the proprietor
+<|end_quest_giver|>
+<|begin_task_locations|>
+Knotty Bramble: a root cave
+<|end_task_locations|>
+<|begin_rewards|>
+Circlet of Verdure:  (amount: 1)
+<|end_rewards|>
+<|begin_locations|>
+Shivering Isles: a realm (location: NONE)
+<|end_locations|>
+<|begin_items|>
+Aquanostrum: a liquid cure that bubbles up from around an old statue (amount: 1)
+<|end_items|>
+<|end_quest|>
 Oh... hello. Sickly Bernice, proprietor. Don't get too close now. You might catch what I have. Well... it seems I am dying. Yes, these may be my last days in the Shivering Isles. That is, unless someone like yourself could help me find the cure. But no one has taken me up on my offer, even with the promise of a reward. Ah well, it's been a good life I suppose.... There's only one place in all the Isles to get the cure for what I have... Knotty Bramble. I'll mark it on your map. There, on the lowest level of the place, is a pool containing the cure: Aquanostrum. Legend has it that it bubbles up from around an old statue. Bring me back the remedy, and I will reward you well with a Circlet of Verdure. Here, take this special flask to collect the Aquanostrum.

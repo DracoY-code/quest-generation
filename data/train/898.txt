@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Dark Rule
-Objective: conquer Desert Refuge
-First Tasks: kill all villagers who oppose you
-First Task Locations: Desert Refuge - a desert village
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - the player will get new minions (amount: 1)
-Characters: NONE
-Tools: the player is a known villain
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Minecraft
-Motivation: conquest
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+conquer Desert Refuge
+<|end_objective|>
+<|begin_tasks|>
+kill all villagers who oppose you
+<|end_tasks|>
+<|begin_quest_giver|>
+: the player's loyal minion
+<|end_quest_giver|>
+<|begin_task_locations|>
+Desert Refuge: a desert village
+<|end_task_locations|>
+<|begin_rewards|>
+: the player will get new minions (amount: 1)
+<|end_rewards|>
+<|begin_motivation|>
+conquest
+<|end_motivation|>
+<|end_quest|>
 Master, the desert village of Desert Refuge is ripe for taking! Your dark domain will grow vastly, if you were to conquer it! Master, you should go to Desert Refuge, and kill all villagers you oppose you! The ones who don't, on the contrary, should make terrific new minions for you!

@@ -1,21 +1,24 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: The Gardener of Men
-Objective: bring the secrets of the Skaal to Hermaeus Mora
-First Tasks: convince the Skaal to reveal their secrets
-First Task Locations: NONE - 
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - Hermaeus Mora will give the player what the player seeks (amount: 1)
-Characters: Miraak - the player's enemy, a man who sought out Hermaeus Mora's forbidden knowledge and received it (location: )
-Tools: NONE
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: Skaal - a tribe of people who consider Hermaeus Mora a demon
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+bring the secrets of the Skaal to Hermaeus Mora
+<|end_objective|>
+<|begin_tasks|>
+convince the Skaal to reveal their secrets
+<|end_tasks|>
+<|begin_quest_giver|>
+Hermaeus Mora, Gardener of Men: knower of the unknown, master of fates, an immortal god
+<|end_quest_giver|>
+<|begin_task_locations|>
+NONE: 
+<|end_task_locations|>
+<|begin_rewards|>
+: Hermaeus Mora will give the player what the player seeks (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Miraak: the player's enemy, a man who sought out Hermaeus Mora's forbidden knowledge and received it (location: )
+<|end_characters|>
+<|begin_groups|>
+Skaal: a tribe of people who consider Hermaeus Mora a demon (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 I am Hermaeus Mora, the Gardener of Men, knower of the unknown, master of fates. You stand in my realm, mortal. You have sought out the forbidden knowledge that only one other has obtained. You are a seeker of knowledge and power, like Miraak before you. The Skaal have withheld their secrets from me for many long years. The time has come for this knowledge to be added to my library. Convince them to give up their secrets. My word is as true as fate, as inevitable as destiny. Bring me what I want, and I will give you what you seek.

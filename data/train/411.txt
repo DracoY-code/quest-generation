@@ -1,21 +1,32 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Next of Kin
-Objective: assassinate all five members of the Draconis
-First Tasks: get the locations of other Draconis from Perennia Draconis, and assassinate her
-First Task Locations: Applewatch - a farmhouse
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - the player should go to Skingrad after killing all Draconis family members: in the castle courtyard there is a well containing the player's reward and a further assignment from Lucien Lachance (amount: 1)
-Characters: Celedaen - a dead necromancer (location: ), Perennia Draconis - the matron of the Draconis (location: Applewatch), Matthias Draconis, Andreas Draconis, Sibylla Draconis, Caelia Draconis - the rest of the Draconis, the children of Perennia Draconis (location: )
-Tools: "Dead Drop Orders #2" is addressed toward the player: the player is a Silencer, the player killed Celedaen in the player's previous assignment
-Locations: Skingrad - a city (location: NONE)
-Items: "Dead Drop Orders #2" - a note (amount: 1)
-Enemies: NONE
-Groups: Draconis - a family marked for death
-Title: The Elder Scrolls IV: Oblivion
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+assassinate all five members of the Draconis
+<|end_objective|>
+<|begin_tasks|>
+get the locations of other Draconis from Perennia Draconis, and assassinate her
+<|end_tasks|>
+<|begin_quest_giver|>
+Lucien Lachance: a fellow assassin, giving quest via "Dead Drop Orders #2"
+<|end_quest_giver|>
+<|begin_task_locations|>
+Applewatch: a farmhouse
+<|end_task_locations|>
+<|begin_rewards|>
+: the player should go to Skingrad after killing all Draconis family members: in the castle courtyard there is a well containing the player's reward and a further assignment from Lucien Lachance (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Celedaen: a dead necromancer (location: )
+Perennia Draconis: the matron of the Draconis (location: Applewatch)
+Matthias Draconis, Andreas Draconis, Sibylla Draconis, Caelia Draconis: the rest of the Draconis, the children of Perennia Draconis (location: )
+<|end_characters|>
+<|begin_locations|>
+Skingrad: a city (location: NONE)
+<|end_locations|>
+<|begin_items|>
+"Dead Drop Orders #2": a note (amount: 1)
+<|end_items|>
+<|begin_groups|>
+Draconis: a family marked for death (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 Dead Drop Orders #2 by Lucien Lachance  The Necromancer Celedaen is dead, and you are not. That is quite an accomplishment. But your work as a Silencer has just begun. Your next assignment requires you to eliminate not just one target, but five. An entire family, in fact. The unlucky kin are Perennia Draconis, Matthias Draconis, Andreas Draconis, Sibylla Draconis and Caelia Draconis. The locations of most of the family members are unknown, so you should begin your search with the family matron, Perennia, who resides at the farm called Applewatch. You must discern the locations of all the Draconis family members and then systematically eliminate them. I suggest you first speak with the mother and find out if she has any valuable information on the whereabouts of her children, before ending her life. When every member of the Draconis family lies dead, journey to the city of Skingrad. In the castle courtyard you will find a well containing your reward for the Draconis contract, as well any further assignment I might have.

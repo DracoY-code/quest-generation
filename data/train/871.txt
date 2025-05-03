@@ -1,21 +1,19 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Cure Jarvis of Radscorpion Poison
-Objective: Find a cure for Jarvis, who has been poisoned by radscorpions.
-First Tasks: Obtain or craft a Radscorpion Antidote., Deliver the antidote to Jarvis.
-First Task Locations: Shady Sands - A small settlement dealing with a radscorpion problem.
-Quest Giver: NONE - NONE (location: NONE)
-Reward: Experience Points - Earn experience for curing Jarvis. (amount: 400)
-Characters: NONE
-Tools: Radscorpion Antidote
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Fallout
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+Find a cure for Jarvis, who has been poisoned by radscorpions.
+<|end_objective|>
+<|begin_tasks|>
+Obtain or craft a Radscorpion Antidote.
+Deliver the antidote to Jarvis.
+<|end_tasks|>
+<|begin_quest_giver|>
+Aradesh: Leader of Shady Sands, concerned about the well-being of his people.
+<|end_quest_giver|>
+<|begin_task_locations|>
+Shady Sands: A small settlement dealing with a radscorpion problem.
+<|end_task_locations|>
+<|begin_rewards|>
+Experience Points: Earn experience for curing Jarvis. (amount: 400)
+<|end_rewards|>
+<|end_quest|>
 Jarvis, a resident of Shady Sands, has been poisoned by radscorpion venom. The player must acquire or create an antidote and deliver it to him to save his life.

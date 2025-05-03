@@ -1,21 +1,18 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Unbound
-Objective: escape Imperial custody with Ralof
-First Tasks: jump through the roof of the inn on the other side and keep running
-First Task Locations: NONE - 
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: NONE
-Tools: the player and Ralof are making their escape together: the player is a Nord
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+escape Imperial custody with Ralof
+<|end_objective|>
+<|begin_tasks|>
+jump through the roof of the inn on the other side and keep running
+<|end_tasks|>
+<|begin_quest_giver|>
+Ralof: a fellow prisoner
+<|end_quest_giver|>
+<|begin_task_locations|>
+NONE: 
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|end_quest|>
 Hey, Nord. Get up! Come on, the gods won't give us another chance! See the inn on the other side? Jump through the roof and keep going! Go! I'll follow when I can!

@@ -1,21 +1,25 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Find a Way into the Sierra Army Base
-Objective: Gain access to the heavily fortified Sierra Army Depot.
-First Tasks: Locate the Sierra Army Depot on your map., Scout the perimeter to identify potential entry points., Disable or bypass the automated turrets and security measures., Find a key, code, or method to unlock the entrance.
-First Task Locations: Sierra Army Depot Perimeter - A high-security military facility with automated defenses., New Reno - Rumors suggest some individuals here know about the depot’s access codes., Vault City - Possible location to find hacking tools or information on pre-war military bases.
-Quest Giver: NONE - NONE (location: NONE)
-Reward: Access to Sierra Army Depot - Entry into the base, allowing you to loot valuable pre-war technology and weaponry. (amount: NONE), Cybernetic Enhancements - Potential opportunity to obtain cybernetic implants. (amount: NONE), Loot - Chance to find rare weapons, armor, and military equipment. (amount: NONE)
-Characters: NONE
-Tools: Science or Lockpick to hack security systems and bypass doors., Repair to disable turrets and other automated defenses., Explosives to force entry if no other option is available.
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Fallout 2
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+Gain access to the heavily fortified Sierra Army Depot.
+<|end_objective|>
+<|begin_tasks|>
+Locate the Sierra Army Depot on your map.
+Scout the perimeter to identify potential entry points.
+Disable or bypass the automated turrets and security measures.
+Find a key, code, or method to unlock the entrance.
+<|end_tasks|>
+<|begin_quest_giver|>
+Self-Initiated: No direct quest giver—this is an optional exploration-based quest.
+<|end_quest_giver|>
+<|begin_task_locations|>
+Sierra Army Depot Perimeter: A high-security military facility with automated defenses.
+New Reno: Rumors suggest some individuals here know about the depot’s access codes.
+Vault City: Possible location to find hacking tools or information on pre-war military bases.
+<|end_task_locations|>
+<|begin_rewards|>
+Access to Sierra Army Depot: Entry into the base, allowing you to loot valuable pre-war technology and weaponry. (amount: NONE)
+Cybernetic Enhancements: Potential opportunity to obtain cybernetic implants. (amount: NONE)
+Loot: Chance to find rare weapons, armor, and military equipment. (amount: NONE)
+<|end_rewards|>
+<|end_quest|>
 The Sierra Army Depot is a well-guarded pre-war military base rumored to contain powerful technology. Find a way inside and uncover its secrets.

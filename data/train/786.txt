@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Here Kitty, Kitty, Kitty
-Objective: bring a cat to Baba
-First Tasks: tame a cat
-First Task Locations: NONE - 
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - emeralds (amount: 16)
-Characters: NONE
-Tools: NONE
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Minecraft
-Motivation: comfort
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+bring a cat to Baba
+<|end_objective|>
+<|begin_tasks|>
+tame a cat
+<|end_tasks|>
+<|begin_quest_giver|>
+Baba: a child
+<|end_quest_giver|>
+<|begin_task_locations|>
+NONE: 
+<|end_task_locations|>
+<|begin_rewards|>
+: emeralds (amount: 16)
+<|end_rewards|>
+<|begin_motivation|>
+comfort
+<|end_motivation|>
+<|end_quest|>
 Hello. I'm Baba. My parents don't know how to tame animals. I want a kitty. You can have my allowance, 16 emeralds, if you bring me a kitty cat. Can I please have a cat, traveler? You must know how to tame kitties. Pretty please? Tame a cat and bring it to me.

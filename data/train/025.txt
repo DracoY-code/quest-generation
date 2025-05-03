@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Lessons on Defense
-Objective: bring Captain Aldis a copy of "The Mirror"
-First Tasks: find a copy of "The Mirror"
-First Task Locations: NONE - 
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: NONE
-Tools: Captain Aldis trains recruits: he thought about asking some training books from the general
-Locations: NONE
-Items: "The Mirror" - a book about shield work (amount: 1)
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+bring Captain Aldis a copy of "The Mirror"
+<|end_objective|>
+<|begin_tasks|>
+find a copy of "The Mirror"
+<|end_tasks|>
+<|begin_quest_giver|>
+Captain Aldis: a captain of the Imperial Legion
+<|end_quest_giver|>
+<|begin_task_locations|>
+NONE: 
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_items|>
+"The Mirror": a book about shield work (amount: 1)
+<|end_items|>
+<|end_quest|>
 I'm with the Imperial Legion. Train the recruits. Turn boys into men. That sort of thing. Thinking of asking the General for some training books. Give the soldiers something to do while they're on rest. Something besides drinking. Ever seen a book called "The Mirror"? We used to hand it out to boys looking to learn basic shield work. If you find a copy of "The Mirror", I'd be glad to have it. Then I'll see if I can get some copies made for the men.

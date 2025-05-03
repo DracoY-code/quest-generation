@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Rogatus's Letter
-Objective: deliver a letter to Leontius
-First Tasks: find Leontius
-First Task Locations: Old Hroldan Inn - and old inn to the south
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - the player should make sure that Leontius tips them (amount: 1)
-Characters: Leontius - Rogatus Salvius' son, a drunk (location: Old Hroldan Inn)
-Tools: Rogatus Salvius does no think highly of his son
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+deliver a letter to Leontius
+<|end_objective|>
+<|begin_tasks|>
+find Leontius
+<|end_tasks|>
+<|begin_quest_giver|>
+Rogatus Salvius: a farmer who does not think highly of Leontius
+<|end_quest_giver|>
+<|begin_task_locations|>
+Old Hroldan Inn: and old inn to the south
+<|end_task_locations|>
+<|begin_rewards|>
+: the player should make sure that Leontius tips them (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Leontius: Rogatus Salvius' son, a drunk (location: Old Hroldan Inn)
+<|end_characters|>
+<|end_quest|>
 My boy Leontius lives in Old Hroldan. Old inn to the south. Damn drunk. The oaf doesn't even bother to visit these days. What am I supposed to do if the dragons burn down the farm? You're a traveler, right? I have this letter for him. Let him know how much of a failure he is. You make sure the lug tips you when he gets it.

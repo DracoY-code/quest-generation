@@ -1,21 +1,29 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Knights of the White Stallion
-Objective: kill Black Brugo with Mazoga
-First Tasks: ask Mazoga about locating Black Brugo
-First Task Locations: NONE - 
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - the player and Mazoga become Knight-Errants of the Knights of the White Stallion (amount: 1)
-Characters: Mazoga - the player's female friend (location: ), Brugo - a male Orc who leads the Black Bow Bandits (location: )
-Tools: Mazoga might have had contacts with outlaws in her shadowy past
-Locations: Leyawiin - a city (location: NONE)
-Items: NONE
-Enemies: NONE
-Groups: White Stallion - a chivalric order created by Marius Caro, Black Bow Bandits - a bandit group
-Title: The Elder Scrolls IV: Oblivion
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+kill Black Brugo with Mazoga
+<|end_objective|>
+<|begin_tasks|>
+ask Mazoga about locating Black Brugo
+<|end_tasks|>
+<|begin_quest_giver|>
+Marius Caro: the Count of Leyawiin
+<|end_quest_giver|>
+<|begin_task_locations|>
+NONE: 
+<|end_task_locations|>
+<|begin_rewards|>
+: the player and Mazoga become Knight-Errants of the Knights of the White Stallion (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Mazoga: the player's female friend (location: )
+Brugo: a male Orc who leads the Black Bow Bandits (location: )
+<|end_characters|>
+<|begin_locations|>
+Leyawiin: a city (location: NONE)
+<|end_locations|>
+<|begin_groups|>
+White Stallion: a chivalric order created by Marius Caro (amount: NONE)
+Black Bow Bandits: a bandit group (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 You and Mazoga are to find and kill the leader of the Black Bow Bandits, the Orc named Brugo. In her shadowy past, your friend Mazoga might have had contacts with outlaws. Ask her about locating Brugo and his Black Bow Bandits. I have created a chivalric Order of the White Stallion. If you succeed, I will bestow on both you and Mazoga the titles of Knights-Errant of the White Stallion for your service to Leyawiin.

@@ -1,21 +1,24 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Firebead's Scroll
-Objective: bring Firebead Elvenhair's identify scroll to him
-First Tasks: get Firebead Elvenhair's identify scroll from Tethtoril
-First Task Locations:  - the inner grounds
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - a protection spell cast by Firebead Elvenhair (amount: 1)
-Characters: Tethtoril - a male sage (location: )
-Tools: Firebead Elvenhair left his identify scroll to Tethtoril
-Locations: NONE
-Items: identify scroll - a special scroll (amount: 1)
-Enemies: NONE
-Groups: NONE
-Title: Baldur's Gate
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+bring Firebead Elvenhair's identify scroll to him
+<|end_objective|>
+<|begin_tasks|>
+get Firebead Elvenhair's identify scroll from Tethtoril
+<|end_tasks|>
+<|begin_quest_giver|>
+Firebead Elvenhair: a mage
+<|end_quest_giver|>
+<|begin_task_locations|>
+: the inner grounds
+<|end_task_locations|>
+<|begin_rewards|>
+: a protection spell cast by Firebead Elvenhair (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Tethtoril: a male sage (location: )
+<|end_characters|>
+<|begin_items|>
+identify scroll: a special scroll (amount: 1)
+<|end_items|>
+<|end_quest|>
 I, Firebead Elvenhair, have a small errand for you. I left an identify scroll with Tethtoril, in the inner grounds. He should be done examining it by now, so if you could fetch it for me, I'd be grateful. I have a great use for those types of scrolls. Allow me to cast a little spell on you as a reward. It will protect you from any evil you might meet tonight.

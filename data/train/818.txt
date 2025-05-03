@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: The Bonds of Matrimony
-Objective: get married
-First Tasks: attend your wedding tomorrow, from dawn until dusk
-First Task Locations:  - Temple of Mara
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - a spouse (amount: 1)
-Characters: Mara - the goddess of love (location: )
-Tools: the player told Maramal that the player wants to get married, these are difficult times
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+get married
+<|end_objective|>
+<|begin_tasks|>
+attend your wedding tomorrow, from dawn until dusk
+<|end_tasks|>
+<|begin_quest_giver|>
+Maramal: a priest of Mara
+<|end_quest_giver|>
+<|begin_task_locations|>
+: Temple of Mara
+<|end_task_locations|>
+<|begin_rewards|>
+: a spouse (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Mara: the goddess of love (location: )
+<|end_characters|>
+<|end_quest|>
 Mara is the Goddess of Love. The temple spreads her gifts by tending to the sick, the poor, and the lost. We also perform wedding ceremonies for all the loving couples. You wish to be married to your future spouse? It's good to see love blossoming, even during these difficult times. Your wedding will be held tomorrow, from dawn until dusk, in the Temple of Mara.

@@ -1,21 +1,24 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Mystery at Harlun's Watch
-Objective: investigate the disappearances at Harlun's Watch
-First Tasks: talk to Drarana Thelis for the details about the missing people
-First Task Locations: Harlun's Watch - a village
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Drarana Thelis - a woman (location: Harlun's Watch)
-Tools: Burz gro-Khash has one more contract for the player
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: Fighters Guild - a mercenary guild
-Title: The Elder Scrolls IV: Oblivion
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+investigate the disappearances at Harlun's Watch
+<|end_objective|>
+<|begin_tasks|>
+talk to Drarana Thelis for the details about the missing people
+<|end_tasks|>
+<|begin_quest_giver|>
+Burz gro-Khash: the player's rude superior in the Fighters Guild
+<|end_quest_giver|>
+<|begin_task_locations|>
+Harlun's Watch: a village
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Drarana Thelis: a woman (location: Harlun's Watch)
+<|end_characters|>
+<|begin_groups|>
+Fighters Guild: a mercenary guild (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 I've got one more contract for you, meat. I assume you can handle it. I need you to investigate some disappearances at Harlun's Watch. We've been contracted to find out what's happened. Speak to Drarana Thelis for all the details. Get going.

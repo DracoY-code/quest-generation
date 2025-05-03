@@ -1,21 +1,26 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: The Cursed Tribe
-Objective: Help lift the curse placed on Yamarz
-First Tasks: bring Troll Fat and a Daedra Heart to Atub
-First Task Locations: NONE - 
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Yamarz - the male chief of the orc clan, who was a strong and proud warrior (location: walled orc camp), Malacath - the god of orcs (location: )
-Tools: Yamarz became weak: the giants sense Yamarz's weakness, and intrude on the orc clan's territory, Atub must petition Malacath for relief: the ritual must be done at the walled orc camp
-Locations: NONE
-Items: Troll Fat - an alchemy ingredient (amount: 1), Daedra Heart - an alchemy ingredient (amount: 1)
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+Help lift the curse placed on Yamarz
+<|end_objective|>
+<|begin_tasks|>
+bring Troll Fat and a Daedra Heart to Atub
+<|end_tasks|>
+<|begin_quest_giver|>
+Atub: the wisewoman of the orc clan
+<|end_quest_giver|>
+<|begin_task_locations|>
+NONE: 
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Yamarz: the male chief of the orc clan, who was a strong and proud warrior (location: walled orc camp)
+Malacath: the god of orcs (location: )
+<|end_characters|>
+<|begin_items|>
+Troll Fat: an alchemy ingredient (amount: 1)
+Daedra Heart: an alchemy ingredient (amount: 1)
+<|end_items|>
+<|end_quest|>
 Please, our tribe suffers and we need help. Our Chief, Yamarz, was once a strong and proud warrior. Now he is stricken, cursed. He is weak, and so our tribe is weak. The giants sense this, and intrude on our territory. Now they assault our very home. Yamarz refuses help, but I sense that you may be just what we need. He has demanded we stay inside the walls. We cannot leave. I must petition Malacath for relief. This curse must be lifted. But I cannot travel to Malacath's shrine. The ritual must be done here, and I do not have the materials I need. I beg of you, can you bring me Troll Fat and a Daedra Heart? I have no wish to depend on a stranger, but I have no choice.

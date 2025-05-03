@@ -1,21 +1,28 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: No Crown for You
-Objective: find the Jagged Crown before Galmar Stonefist
-First Tasks: meet Legate Rikke and her men
-First Task Locations:  - outside Korvanjund
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Ulfric - a power-hungry nobleman (location: ), Galmar Stonefist - Ulfric's right-hand man (location: )
-Tools: NONE
-Locations: Korvanjund - a ruin (location: NONE)
-Items: Jagged Crown - a powerful artifact (amount: 1)
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+find the Jagged Crown before Galmar Stonefist
+<|end_objective|>
+<|begin_tasks|>
+meet Legate Rikke and her men
+<|end_tasks|>
+<|begin_quest_giver|>
+Legate Rikke: the player's commanding officer in the Imperial Legion
+<|end_quest_giver|>
+<|begin_task_locations|>
+: outside Korvanjund
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Ulfric: a power-hungry nobleman (location: )
+Galmar Stonefist: Ulfric's right-hand man (location: )
+<|end_characters|>
+<|begin_locations|>
+Korvanjund: a ruin (location: NONE)
+<|end_locations|>
+<|begin_items|>
+Jagged Crown: a powerful artifact (amount: 1)
+<|end_items|>
+<|end_quest|>
 Ulfric's right-hand man, Galmar Stonefist, has located what he believes is the final resting place of the Jagged Crown. We're going to make sure he doesn't get his hands on it. The rest of my men are already assembling outside Korvanjund. I'll meet you there as soon as I finish up here.

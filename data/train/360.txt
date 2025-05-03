@@ -1,21 +1,24 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: From the Ashes
-Objective: help Talvas Fathryon by killing an Ash Guardian
-First Tasks: kill the Ash Guardian
-First Task Locations: Tel Mithryn - a settlement
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - a staff (amount: 1)
-Characters: Neloth - a powerful male wizard (location: Tel Mithryn)
-Tools: Talvas Fathryon conjured an Ash Guardian without Neloth's approval: the Ash Guardian is not under Talvas Fathryon's control
-Locations: NONE
-Items: NONE
-Enemies: Ash Guardian - a powerful ash creature (amount: 1)
-Groups: NONE
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+help Talvas Fathryon by killing an Ash Guardian
+<|end_objective|>
+<|begin_tasks|>
+kill the Ash Guardian
+<|end_tasks|>
+<|begin_quest_giver|>
+Talvas Fathryon: Neloth's fearful mage apprentice
+<|end_quest_giver|>
+<|begin_task_locations|>
+Tel Mithryn: a settlement
+<|end_task_locations|>
+<|begin_rewards|>
+: a staff (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Neloth: a powerful male wizard (location: Tel Mithryn)
+<|end_characters|>
+<|begin_enemies|>
+Ash Guardian: a powerful ash creature (amount: 1)
+<|end_enemies|>
+<|end_quest|>
 You've got to help me! I conjured an Ash Guardian and now it's running amok in Tel Mithryn. Master Neloth refused to teach me the Ash Guardian spell. So I read his spell book on my own and learned it. Something went wrong when I cast it. The creature is attacking everything in sight. I need to keep Master Neloth distracted so he doesn't find out what I did. There is no telling what he would do to me. While you are taking care of the creature, I'll try to figure out what went wrong. I don't have any gold to pay you with, but I can give you this staff.

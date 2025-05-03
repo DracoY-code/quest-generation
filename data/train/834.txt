@@ -1,21 +1,24 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: A Brush with Death
-Objective: help Tivela Lythandas find her husband who has gone missing
-First Tasks: find clues about Rythe's whereabouts
-First Task Locations:  - Rythe's painting studio
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Rythe - Tivela Lythandas' husband, and one of the best painters in all Cyrodiil (location: )
-Tools: Rythe makes lifelike paintings about the Great Forest, Rythe keeps his studio locked: he did not come out of his studio for a full day, Tivela Lythandas unlocked the studio with the key Rythe said to use only in emergencies: Rythe was not inside his studio, Tivela Lythandas gives the player the key to Rythe's studio, Tivela Lythandas will be around the house should the player need her
-Locations: Cyrodiil - a province (location: NONE)
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls IV: Oblivion
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+help Tivela Lythandas find her husband who has gone missing
+<|end_objective|>
+<|begin_tasks|>
+find clues about Rythe's whereabouts
+<|end_tasks|>
+<|begin_quest_giver|>
+Tivela Lythandas: a distraught wife
+<|end_quest_giver|>
+<|begin_task_locations|>
+: Rythe's painting studio
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Rythe: Tivela Lythandas' husband, and one of the best painters in all Cyrodiil (location: )
+<|end_characters|>
+<|begin_locations|>
+Cyrodiil: a province (location: NONE)
+<|end_locations|>
+<|end_quest|>
 I'm Tivela Lythandas. I apologize that I can't give you the respect a guest in my home would normally receive, but I am at my wit's end. I am sorry to be so forward, but I desperately need your help. It seems that my husband, Rythe, has gone missing, and I just don't know what to do. Rythe is known far and wide as one of the best painters in all Cyrodiil. His specialty is setting the Great Forest to canvas. The paintings look so amazingly real that some say they can see the trees sway in the breeze. That's a silly notion of course, but it just goes to show the attention to detail Rythe uses when he paints. Rythe likes to work in his studio with the door locked, so no one can disturb him. He usually comes out to eat dinner and sleep, but two days ago, he didn't come out at all. At first, I wasn't worried. He does that occasionally. But when he didn't come out for a full day, I unlocked the studio with the key he said to use only in emergencies. It turned out he wasn't inside! I'm sure he never left that room. So I have no idea where he's gone. Please. Help me find Rythe. I love him dearly, and I am so worried. Here's the key to Rythe's studio. You may come and go as you please. If you need me, I'll be around the house.

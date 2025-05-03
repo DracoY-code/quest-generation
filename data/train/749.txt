@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: The Gift
-Objective: turn your wife into a vampire
-First Tasks: use vampiric seduction on your wife, embrace her and bite her neck
-First Task Locations: NONE - 
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters:  - the player's wife (location: )
-Tools: the player is married: it presents difficulties for vampires, vampirism is the greatest gift that vampires can bestow to their loved ones
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+turn your wife into a vampire
+<|end_objective|>
+<|begin_tasks|>
+use vampiric seduction on your wife, embrace her and bite her neck
+<|end_tasks|>
+<|begin_quest_giver|>
+Vingalmo: a fellow vampire, who speaks elegantly
+<|end_quest_giver|>
+<|begin_task_locations|>
+NONE: 
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+: the player's wife (location: )
+<|end_characters|>
+<|end_quest|>
 It's come to my inescapable attention that you, my dear friend, are married. Marriage is a fine institution, however, one that does present certain difficulties for such as like ourselves. May I strongly suggest that you make a visit to this spouse of yours and "invite" her to the family by offering her the Gift of Vampirism. Put her mind to rest, allay her fear through vampiric seduction and when she is in a pliant condition, embrace her and bite her on the neck. It is the greatest token we can bestow upon those we love and wish to see protected.

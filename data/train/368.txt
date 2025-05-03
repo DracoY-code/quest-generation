@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Take Down Decker
-Objective: Eliminate Decker and his guards to put an end to his criminal operations.
-First Tasks: Meet Sheriff Greene for the mission details., Infiltrate or storm Decker’s hideout at the Maltese Falcon., Defeat Decker and his guards in combat.
-First Task Locations: Maltese Falcon - A bar in The Hub serving as Decker’s criminal headquarters.
-Quest Giver: NONE - NONE (location: NONE)
-Reward: Caps - A monetary reward for successfully eliminating Decker. (amount: 1300), Experience Points - Earned for taking down Decker and helping clean up The Hub. (amount: 1000)
-Characters: NONE
-Tools: Firearms, Melee weapons, Stealth
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Fallout
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+Eliminate Decker and his guards to put an end to his criminal operations.
+<|end_objective|>
+<|begin_tasks|>
+Meet Sheriff Greene for the mission details.
+Infiltrate or storm Decker’s hideout at the Maltese Falcon.
+Defeat Decker and his guards in combat.
+<|end_tasks|>
+<|begin_quest_giver|>
+Sheriff Greene: The sheriff of The Hub who wants Decker eliminated due to his illegal activities.
+<|end_quest_giver|>
+<|begin_task_locations|>
+Maltese Falcon: A bar in The Hub serving as Decker’s criminal headquarters.
+<|end_task_locations|>
+<|begin_rewards|>
+Caps: A monetary reward for successfully eliminating Decker. (amount: 1300)
+Experience Points: Earned for taking down Decker and helping clean up The Hub. (amount: 1000)
+<|end_rewards|>
+<|end_quest|>
 Sheriff Greene offers a mission to eliminate Decker, a notorious crime boss in The Hub. The player must infiltrate Decker's base at the Maltese Falcon, engage in combat with Decker and his guards, and ensure the crime lord is permanently dealt with.

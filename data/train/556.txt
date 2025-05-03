@@ -1,21 +1,28 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: The Temple of Miraak
-Objective: uncover what lies beneath the Temple of Miraak
-First Tasks: find a way into the Temple of Miraak with Frea
-First Task Locations: Temple of Miraak - a temple
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Storn - the shaman of the Skaal, and Frea's father (location: ), Miraak - an ancient, evil man (location: Solstheim)
-Tools: something has taken control of most of the people of Solstheim, including the Skaal: it makes them work on horrible creations that corrupt the stones, Storn says that Miraak has returned to Solstheim, but that is impossible
-Locations: Solstheim - an island (location: NONE)
-Items: NONE
-Enemies: NONE
-Groups: Skaal - a tribe of trusting and hospitable people on Solstheim
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+uncover what lies beneath the Temple of Miraak
+<|end_objective|>
+<|begin_tasks|>
+find a way into the Temple of Miraak with Frea
+<|end_tasks|>
+<|begin_quest_giver|>
+Frea: a Skaal woman
+<|end_quest_giver|>
+<|begin_task_locations|>
+Temple of Miraak: a temple
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Storn: the shaman of the Skaal, and Frea's father (location: )
+Miraak: an ancient, evil man (location: Solstheim)
+<|end_characters|>
+<|begin_locations|>
+Solstheim: an island (location: NONE)
+<|end_locations|>
+<|begin_groups|>
+Skaal: a tribe of trusting and hospitable people on Solstheim (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 I am Frea of the Skaal. I am here to either save my people, or avenge them. Something has taken control of most of the people of Solstheim. It makes them forget themselves, and work on these horrible creations that corrupt the Stones, the very land itself. My father Storn, our shaman, says Miraak has returned to Solstheim, but that is impossible. If you want to know what lies beneath the Temple of Miraak, then let us go together. First, we need to find a way into the Temple of Miraak.

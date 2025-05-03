@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Ushnar's Terror
-Objective: stop Bhisha the Khajiit from tailing Ushnar gro-Shadborgob
-First Tasks: make Bhisha the Khajiit go away for good
-First Task Locations: NONE - 
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - a pet dog (amount: 1)
-Characters: Bhisha the Khajiit - a male beggar, and a humanoid cat (location: )
-Tools: Bhisha the Khajiit follows Ushnar gro-Shadborgob everywhere
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls IV: Oblivion
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+stop Bhisha the Khajiit from tailing Ushnar gro-Shadborgob
+<|end_objective|>
+<|begin_tasks|>
+make Bhisha the Khajiit go away for good
+<|end_tasks|>
+<|begin_quest_giver|>
+Ushnar gro-Shadborgob: a man who fears cats
+<|end_quest_giver|>
+<|begin_task_locations|>
+NONE: 
+<|end_task_locations|>
+<|begin_rewards|>
+: a pet dog (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Bhisha the Khajiit: a male beggar, and a humanoid cat (location: )
+<|end_characters|>
+<|end_quest|>
 That cat beggar Bhisha the Khajiit is following me! He's going to eat me, I just know it. Don't look! He's standing right over there. You haven't seen that filthy cat beggar have you? He's still around. I've seen him skulking like the filthy cat he is. Isn't he scary? I wish someone would just make him disappear. I would do just about anything for you if you make him go away. Permanently. For good. Never to be seen again. You need a dog. I happen to have one of my old ones still lying around. I'll send it to you after you get rid of the filthy cat man.

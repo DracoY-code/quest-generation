@@ -1,21 +1,22 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Ancient Technology
-Objective: retrieve Dwemer schematics for Sorine Jurard
-First Tasks: find the Dwemer schematics
-First Task Locations: Irkngthand - a Dwemer ruin
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - improved crossbows for the Dawnguard (amount: 1)
-Characters: NONE
-Tools: NONE
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: Dawnguard - an organization of vampire hunters, Dwemer - an extinct race of people famed for their mechanical constructs
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+retrieve Dwemer schematics for Sorine Jurard
+<|end_objective|>
+<|begin_tasks|>
+find the Dwemer schematics
+<|end_tasks|>
+<|begin_quest_giver|>
+Sorine Jurard: a fellow member of the Dawnguard, and an avid tinkerer
+<|end_quest_giver|>
+<|begin_task_locations|>
+Irkngthand: a Dwemer ruin
+<|end_task_locations|>
+<|begin_rewards|>
+: improved crossbows for the Dawnguard (amount: 1)
+<|end_rewards|>
+<|begin_groups|>
+Dawnguard: an organization of vampire hunters (amount: NONE)
+Dwemer: an extinct race of people famed for their mechanical constructs (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 I want to add some punch to our crossbow capabilities, I've done all I can on my own. I need a little inspiration. I've always been fascinated with Dwemer artifacts. I take them apart, poke around in their guts, and try to figure things out - with mixed results. But as luck would have it, I've tracked down the location of some actual Dwemer diagram drawings! So, if you'd be a dear and collect those plans for me at Irkngthand? With the Dwemer diagrams and a little tinkering I should be able to improve the capabilities of our crossbows.

@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Robot Parts
-Objective: talk to the 4000 Model
-First Tasks: let Professor Stoker put the parts of the 4000 Model back together
-First Task Locations: NONE - 
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: 4000 Model - an old robot (location: )
-Tools: the player brought parts of the 4000 Model to Professor Stoker
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Torchlight II
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+talk to the 4000 Model
+<|end_objective|>
+<|begin_tasks|>
+let Professor Stoker put the parts of the 4000 Model back together
+<|end_tasks|>
+<|begin_quest_giver|>
+Professor Stoker: an inventor
+<|end_quest_giver|>
+<|begin_task_locations|>
+NONE: 
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+4000 Model: an old robot (location: )
+<|end_characters|>
+<|end_quest|>
 What do we have here?  Wow, this is a 4000 Model robot! These are quite old - this one appears to have had a lot of work done to it. Not sure why it's in pieces - why don't we find out! Let me just put these together for you and we'll see what it has to say for itself.

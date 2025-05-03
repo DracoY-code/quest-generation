@@ -1,21 +1,23 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Vald's Debt
-Objective: ask Vald to betray Mercer Frey
-First Tasks: talk to Maven Black-Briar about erasing Vald's debts
-First Task Locations: NONE - 
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Vald - a male thug who only understands gold (location: ), Mercer Frey - the player's enemy (location: ), Maven Black-Briar - a powerful woman with criminal connections (location: )
-Tools: the player asked Vex information about Vald
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+ask Vald to betray Mercer Frey
+<|end_objective|>
+<|begin_tasks|>
+talk to Maven Black-Briar about erasing Vald's debts
+<|end_tasks|>
+<|begin_quest_giver|>
+Vex: a fellow thief, and Vald's ex-lover
+<|end_quest_giver|>
+<|begin_task_locations|>
+NONE: 
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Vald: a male thug who only understands gold (location: )
+Mercer Frey: the player's enemy (location: )
+Maven Black-Briar: a powerful woman with criminal connections (location: )
+<|end_characters|>
+<|end_quest|>
 Vald? That pig? Oh, I have info on him. More than you care to know. Vald does not have a good side. The only thing he understands is gold. A man after my own heart. You can try to buy him off, but he'll ask for a whole lot. I mean, you are asking him to betray Mercer Frey. Your best bet would be to erase his debt with Maven Black-Briar. If you talk to her, she might be able to give you the details. Of course, you could just run him through and take what you need off of his corpse... I could care less.

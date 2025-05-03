@@ -1,21 +1,22 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: The Fallen
-Objective: capture and interrogate a dragon to learn Alduin's location
-First Tasks: convince the Jarl of Whiterun to help you capture a dragon in his palace
-First Task Locations: Dragonsreach - the palace of the Jarl of Whiterun that was built to hold a captive dragon
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Jarl of Whiterun - a headstrong noblemen (location: Dragonsreach), Alduin - an evil dragon (location: )
-Tools: NONE
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+capture and interrogate a dragon to learn Alduin's location
+<|end_objective|>
+<|begin_tasks|>
+convince the Jarl of Whiterun to help you capture a dragon in his palace
+<|end_tasks|>
+<|begin_quest_giver|>
+Arngeir: the player's ally
+<|end_quest_giver|>
+<|begin_task_locations|>
+Dragonsreach: the palace of the Jarl of Whiterun that was built to hold a captive dragon
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Jarl of Whiterun: a headstrong noblemen (location: Dragonsreach)
+Alduin: an evil dragon (location: )
+<|end_characters|>
+<|end_quest|>
 Do you know Dragonsreach? The Jarl of Whiterun's palace? Its name is no accident. The palace was originally built to hold a captive dragon. You might be able to trap a dragon there, interrogate him and learn Alduin's location. You'd require the Jarl's cooperation, of course. That might not be easy to come by. You must trust in the rightness of your cause, and the strength of your Voice.

@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: The Black Star
-Objective: become the champion of Azura
-First Tasks: ask around about an elven mage who can turn the brightest star as black as night
-First Task Locations: Winterhold - a fortress, endangered by water, yet untouched by it
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Azura - the queen of the night sky, a goddess (location: )
-Tools: Azura has given Aranea Ienith the gift of foresight
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+become the champion of Azura
+<|end_objective|>
+<|begin_tasks|>
+ask around about an elven mage who can turn the brightest star as black as night
+<|end_tasks|>
+<|begin_quest_giver|>
+Aranea Ienith: an old priestess of Azura
+<|end_quest_giver|>
+<|begin_task_locations|>
+Winterhold: a fortress, endangered by water, yet untouched by it
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Azura: the queen of the night sky, a goddess (location: )
+<|end_characters|>
+<|end_quest|>
 Azura has seen your coming, traveler. It was not curiosity, but fate, that has led you here. Azura has given me the gift of foresight. I had a vision of you walking up the steps to this altar long before you were born. You have been chosen to be her champion. I know it is unexpected, but do not worry. It will all unfold as she has predicted. You must go to a fortress, endangered by water, yet untouched by it. Inside, you will find an elven mage who can turn the brightest star as black as night. It is cryptic, I know, but Azura's signs are never wrong. I believe the fortress may refer to Winterhold. Ask if they know this elven enchanter.

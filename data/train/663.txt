@@ -1,21 +1,32 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: The Necromancer's Amulet
-Objective: return the Necromancer's Amulet to the Arcane University
-First Tasks: get the Necromancer's Amulet from Caranya
-First Task Locations: Fort Ontus - a fort
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Caranya - a female mage, eager to explore the powers of the Necromancer's Amulet (location: Fort Ontus), King of Worms - the male leader of the Necromancers (location: )
-Tools: Caranya removed the Necromancer's Amulet from the Arcane University, Caranya is not safe from the minions of the King of Worms
-Locations: Arcane University - a school of mages in the Imperial City (location: NONE), Imperial City - a major city (location: NONE)
-Items: Necromancer's Amulet - a dangerous amulet, one of the relics of Necromancers (amount: 1)
-Enemies: NONE
-Groups: Mages Guild - a guild of mages
-Title: The Elder Scrolls IV: Oblivion
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+return the Necromancer's Amulet to the Arcane University
+<|end_objective|>
+<|begin_tasks|>
+get the Necromancer's Amulet from Caranya
+<|end_tasks|>
+<|begin_quest_giver|>
+Arch-Mage Traven: the player's guildleader in the Mages Guild
+<|end_quest_giver|>
+<|begin_task_locations|>
+Fort Ontus: a fort
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Caranya: a female mage, eager to explore the powers of the Necromancer's Amulet (location: Fort Ontus)
+King of Worms: the male leader of the Necromancers (location: )
+<|end_characters|>
+<|begin_locations|>
+Arcane University: a school of mages in the Imperial City (location: NONE)
+Imperial City: a major city (location: NONE)
+<|end_locations|>
+<|begin_items|>
+Necromancer's Amulet: a dangerous amulet, one of the relics of Necromancers (amount: 1)
+<|end_items|>
+<|begin_groups|>
+Mages Guild: a guild of mages (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 Caranya insisted on removing the Necromancer's Amulet from the Arcane University. She said it posed a threat to the safety of the Imperial City. While I do not doubt that Caranya was right, I question whether her motives were genuine. She seemed all too eager to explore its power. I fear she is not safe from the minions of the King of Worms. Caranya is at Fort Ontus; please, go there and return with the Amulet. Help her to see that she should not use the weapons of the enemy, especially out of fear.

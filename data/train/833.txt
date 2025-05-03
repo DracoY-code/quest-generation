@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: A Hidden Base in the Cloakwood
-Objective: investigate Tazok and his group of bandits
-First Tasks: go to Cloakwood
-First Task Locations: Cloakwood - a forest
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Tazok - a male bandit leader (location: )
-Tools: Tazok has been going to the Cloakwood regularly, there are important documents in the chest here
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Baldur's Gate
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+investigate Tazok and his group of bandits
+<|end_objective|>
+<|begin_tasks|>
+go to Cloakwood
+<|end_tasks|>
+<|begin_quest_giver|>
+Ender Sai: a spy
+<|end_quest_giver|>
+<|begin_task_locations|>
+Cloakwood: a forest
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Tazok: a male bandit leader (location: )
+<|end_characters|>
+<|end_quest|>
 This whole thing is dirty to the core, that's what I know! These aren't your ordinary bandits here. Tazok's been making regular visits to the Cloakwood, so that's where I'd start if I were you. There are some documents in that chest that might be worth taking a look at, too. Now go step on some toes, all right? And you can tell them Ender Sai sent you.

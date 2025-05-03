@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Hide and Seek
-Objective: kill a vampire masquerading as a regular citizen without being accused of murder
-First Tasks: track down the vampire
-First Task Locations: Solitude - a city
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: NONE
-Tools: NONE
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: Dawnguard - an organization of vampire hunters
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+kill a vampire masquerading as a regular citizen without being accused of murder
+<|end_objective|>
+<|begin_tasks|>
+track down the vampire
+<|end_tasks|>
+<|begin_quest_giver|>
+Gunmar: a fellow Dawnguard member
+<|end_quest_giver|>
+<|begin_task_locations|>
+Solitude: a city
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_groups|>
+Dawnguard: an organization of vampire hunters (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 I've located the whereabouts of a vampire masquerading as a common citizen in Solitude. Track him down and dispose of him. Vampires enjoy stalking their prey. Passing among us undetected emboldens them. Makes them feel powerful, untouchable. But we'll put a swift end to that. Tread lightly. The vampire can cloud the minds of those he preys upon. It won't be easy to convince anyone he's other than he appears. The law is unaware of the danger and will treat you as a criminal if you are caught. You must be clever. Find a way not to be caught or accused of murder. We must be vigilant and self sufficient if we are to defeat these monsters.

@@ -1,21 +1,27 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Animal Extermination
-Objective: clear out Bleakcoast Cave for the Jarl
-First Tasks: kill the beasts
-First Task Locations: Bleakcoast Cave - a beast den in Winterhold
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Jarl - the nobleman who rules over Winterhold (location: )
-Tools: NONE
-Locations: Winterhold - a region (location: NONE)
-Items: NONE
-Enemies: NONE
-Groups: Companions - a band of honorable warriors
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+clear out Bleakcoast Cave for the Jarl
+<|end_objective|>
+<|begin_tasks|>
+kill the beasts
+<|end_tasks|>
+<|begin_quest_giver|>
+Aela the Huntress: a fellow member of the Companions
+<|end_quest_giver|>
+<|begin_task_locations|>
+Bleakcoast Cave: a beast den in Winterhold
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Jarl: the nobleman who rules over Winterhold (location: )
+<|end_characters|>
+<|begin_locations|>
+Winterhold: a region (location: NONE)
+<|end_locations|>
+<|begin_groups|>
+Companions: a band of honorable warriors (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 The Jarl of Winterhold has asked for our help. It seems that predators have taken up residence in Bleakcoast Cave and have been attacking farmers and travelers. Someone's got to head out there and take care of the beasts. Get it taken care of right away. Nobody wants a hungry animal left roaming along the roads.

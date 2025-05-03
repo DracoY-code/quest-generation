@@ -1,21 +1,20 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Recruit Tycho
-Objective: Convince Tycho to join your party.
-First Tasks: Find Tycho in Junktown., Talk to Tycho and inquire about his background., Convince him to join you by discussing mutual goals.
-First Task Locations: Skum Pitt - A bar in Junktown where Tycho can be found.
-Quest Giver: NONE - NONE (location: NONE)
-Reward: Tycho as a Companion - Tycho joins the player's party as a valuable ally. (amount: 1)
-Characters: NONE
-Tools: Speech, Charisma, Knowledge of the Desert
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Fallout
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+Convince Tycho to join your party.
+<|end_objective|>
+<|begin_tasks|>
+Find Tycho in Junktown.
+Talk to Tycho and inquire about his background.
+Convince him to join you by discussing mutual goals.
+<|end_tasks|>
+<|begin_quest_giver|>
+Tycho: A desert ranger with survival knowledge and a strong sense of justice.
+<|end_quest_giver|>
+<|begin_task_locations|>
+Skum Pitt: A bar in Junktown where Tycho can be found.
+<|end_task_locations|>
+<|begin_rewards|>
+Tycho as a Companion: Tycho joins the player's party as a valuable ally. (amount: 1)
+<|end_rewards|>
+<|end_quest|>
 Tycho, a skilled desert ranger, can be found at the Skum Pitt in Junktown. If the player engages him in conversation and shows alignment with his ideals, he agrees to join the party as a companion.

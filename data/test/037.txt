@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Drienne's Cat
-Objective: bring Pixie to Drienne
-First Tasks: find Pixie
-First Task Locations:  - near the waterfall
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - a scroll (amount: 1)
-Characters: Pixie - Drienne's pet cat (location: )
-Tools: NONE
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Baldur's Gate
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+bring Pixie to Drienne
+<|end_objective|>
+<|begin_tasks|>
+find Pixie
+<|end_tasks|>
+<|begin_quest_giver|>
+Drienne: a young girl
+<|end_quest_giver|>
+<|begin_task_locations|>
+: near the waterfall
+<|end_task_locations|>
+<|begin_rewards|>
+: a scroll (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Pixie: Drienne's pet cat (location: )
+<|end_characters|>
+<|end_quest|>
 I'm just a little girl Drienne. Mommy says if you ever need to know something important, you should ask an adult. Pixie, my cat, she was playing close to the waterfall and slipped... I hope she's all right. You can have this scroll Daddy gave me, if you find Pixie. I can't read the words yet anyways.

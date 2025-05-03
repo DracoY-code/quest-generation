@@ -1,21 +1,24 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: First Lessons
-Objective: join the College of Winterhold
-First Tasks: cast Mage Light on the seal on the ground
-First Task Locations: NONE - 
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - membership of the College of Winterhold (amount: 1)
-Characters: NONE
-Tools: NONE
-Locations: College of Winterhold - a college for mages (location: NONE)
-Items: Mage Light - a useful alteration spell (amount: 1)
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+join the College of Winterhold
+<|end_objective|>
+<|begin_tasks|>
+cast Mage Light on the seal on the ground
+<|end_tasks|>
+<|begin_quest_giver|>
+Faralda: a mage gatekeeping the College of Winterhold
+<|end_quest_giver|>
+<|begin_task_locations|>
+NONE: 
+<|end_task_locations|>
+<|begin_rewards|>
+: membership of the College of Winterhold (amount: 1)
+<|end_rewards|>
+<|begin_locations|>
+College of Winterhold: a college for mages (location: NONE)
+<|end_locations|>
+<|begin_items|>
+Mage Light: a useful alteration spell (amount: 1)
+<|end_items|>
+<|end_quest|>
 It would seem that the College has what you seek. The question now is what you can offer the College. Not just anyone is allowed inside. Those wishing to enter must show some degree of skill with magic. A small test, if you will. The Mage Light spell is useful to any mage, not just those specializing in Alteration. Can you cast one on the seal on the ground?

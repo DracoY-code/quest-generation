@@ -1,21 +1,24 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Ill Met by Moonlight
-Objective: take the Ring of Hircine back to Hircine
-First Tasks: hunt down the beast to draw out Hircine
-First Task Locations:  - these woods
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Hircine, Lord of the Hunt - the god of hunting and monsters (location: )
-Tools: Sinding killed a little girl, because he lost control of his transformations, Hircine cursed the Ring of Hircine when Sinding obtained it: it transforms him at the worst of times, Sinding will escape from the prison after giving the quest
-Locations: NONE
-Items: Ring of Hircine - a ring that is supposed to control a werewolf's transformations, a relic of Hircine (amount: 1)
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+take the Ring of Hircine back to Hircine
+<|end_objective|>
+<|begin_tasks|>
+hunt down the beast to draw out Hircine
+<|end_tasks|>
+<|begin_quest_giver|>
+Sinding: a regretful werewolf prisoner
+<|end_quest_giver|>
+<|begin_task_locations|>
+: these woods
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Hircine, Lord of the Hunt: the god of hunting and monsters (location: )
+<|end_characters|>
+<|begin_items|>
+Ring of Hircine: a ring that is supposed to control a werewolf's transformations, a relic of Hircine (amount: 1)
+<|end_items|>
+<|end_quest|>
 Come to gawk at the monster? A little girl is dead because of me. Believe me, it wasn't anything I ever intended to do. I just... lost control. I tried to tell them, but none of them believe me. It's all on account of this blasted ring. This is the Ring of Hircine. I was told it could let me control my transformations. Perhaps it used to. But I'll never know. Hircine didn't care for my taking it, and threw a curse on it. I put it on... and the changes just came to me. I could never guess when. It would be at the worst times. Like... with the little girl. I don't suppose there's a point in keeping the secret if I'm going to die in here anyway. I'm sure you've heard of men who shift to beasts under the influence of the moons. I am one of them. A werewolf. It's my secret, and my shame. That's why I wanted the ring... it was said to give men like me control. Now I may look like a man, but I still feel the animal inside of me, as strong as ever. You would take the ring back to Hircine? Oh my. You would do this for me? Here, take it. I don't want anything to do with this wretched thing anymore. Seek out the beast. He wanders these woods. Bring him down and... well, the Lord of the Hunt should smile on you and appear before you. I wish you luck, but should leave here while I still have my skin. Should our paths cross again, I will remember your kindness. Farewell.

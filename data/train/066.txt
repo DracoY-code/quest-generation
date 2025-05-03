@@ -1,21 +1,24 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Lich of Lost Boy Caverns
-Objective: follow the story of Vangaril trying to save Erandur from lichdom
-First Tasks: explore the Lost Boy Caverns for more clues about the fate of Vangaril and Erandur
-First Task Locations: Lost Boy Caverns - a cave with catacombs
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Erandur - a male necromancer, Vangaril's friend who become a lich (location: Lost Boy Caverns)
-Tools: Erandur's necromantic studies got Erandur and Vangaril expelled from the Guild of Mages, Vangaril tried to get from the Guild of Mages after Erandur became a lich, but Vangaril was turned away: Vangaril went to face Erandur alone
-Locations: NONE
-Items: "Weathered Journal" - a journal (amount: 1)
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls IV: Oblivion
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+follow the story of Vangaril trying to save Erandur from lichdom
+<|end_objective|>
+<|begin_tasks|>
+explore the Lost Boy Caverns for more clues about the fate of Vangaril and Erandur
+<|end_tasks|>
+<|begin_quest_giver|>
+Vangaril: an exiled mage, giving quest via "Weathered Journal"
+<|end_quest_giver|>
+<|begin_task_locations|>
+Lost Boy Caverns: a cave with catacombs
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Erandur: a male necromancer, Vangaril's friend who become a lich (location: Lost Boy Caverns)
+<|end_characters|>
+<|begin_items|>
+"Weathered Journal": a journal (amount: 1)
+<|end_items|>
+<|end_quest|>
 Weathered Journal by Vangaril  Long have I sought to purge the evils haunting Erandur. Even when his necromantic studies resulted in our mutual expulsion from the Guild of Mages, I persisted in guiding him towards good with a gentle hand. Alas, in our exile, my old friend has mired himself in the foul practice, and in shocking discovery I learned he had become a miserly disciple of the Worm King, a cunning wraith. A Lich. Frail memory strengthened by dogmatic resolve, the Archmages turned me away when I came to them with my discovery. My pleas for a detachment of battlemages ignored, only my long-past expulsion remembered. And thus, the grave duty falls only to me. I must bear the burden of purging the Lich that was once a friend. I wander now into the foreboding maw of these catacombs known as the Lost Boy Caverns, far from the climes of common elves and men. With pure spirit and rites of cleansing, I hope to strike down the fearsome Lich and set free the soul of Erandur, but I leave this testament behind, lest I may never return from these depths; as a warning to those who may follow my path. Faithful, even in Exile, Vangaril

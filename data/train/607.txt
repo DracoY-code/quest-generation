@@ -1,21 +1,27 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: The Ruler of The End
-Objective: find out whether the Ender Dragon exists
-First Tasks: find a stronghold
-First Task Locations: NONE - 
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - there are wonderful treasures in the End (amount: 1)
-Characters: Ender Dragon - a dragon the rules over The End (location: )
-Tools: the player is an infamous person, the player can enter The End from a stronghold
-Locations: The End - the dimension at the end of all (location: NONE)
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Minecraft
-Motivation: knowledge
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+find out whether the Ender Dragon exists
+<|end_objective|>
+<|begin_tasks|>
+find a stronghold
+<|end_tasks|>
+<|begin_quest_giver|>
+: a knowledgeable woman
+<|end_quest_giver|>
+<|begin_task_locations|>
+NONE: 
+<|end_task_locations|>
+<|begin_rewards|>
+: there are wonderful treasures in the End (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Ender Dragon: a dragon the rules over The End (location: )
+<|end_characters|>
+<|begin_locations|>
+The End: the dimension at the end of all (location: NONE)
+<|end_locations|>
+<|begin_motivation|>
+knowledge
+<|end_motivation|>
+<|end_quest|>
 There is a place at the end of all, far away from this village. A perfect place for a person of a more.. dark disposition. This place is called The End. It is said that you can enter it from a stronghold. The End is is said to be ruled over by a beast called the Ender Dragon: I'd like you check out whether the Ender Dragon truly exists. Oh, I did not mention the best part yet: there are wonderful treasures in The End.

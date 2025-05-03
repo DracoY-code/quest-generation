@@ -1,21 +1,22 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Body Work
-Objective: restore Umahd's physical form
-First Tasks: find the Ezrohir marauder who wears Umahd's wrappings
-First Task Locations: NONE - 
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - Umahd shall reward the player (amount: 1)
-Characters: NONE
-Tools: NONE
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: Ezrohir - a race of spirits, enemies of the Zeraphi, Zeraphi - a race of spirits
-Title: Torchlight II
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+restore Umahd's physical form
+<|end_objective|>
+<|begin_tasks|>
+find the Ezrohir marauder who wears Umahd's wrappings
+<|end_tasks|>
+<|begin_quest_giver|>
+Umahd: a disembodied male Zeraphi warrior
+<|end_quest_giver|>
+<|begin_task_locations|>
+NONE: 
+<|end_task_locations|>
+<|begin_rewards|>
+: Umahd shall reward the player (amount: 1)
+<|end_rewards|>
+<|begin_groups|>
+Ezrohir: a race of spirits, enemies of the Zeraphi (amount: NONE)
+Zeraphi: a race of spirits (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 I am no ghost, only disembodied spirit: a Zeraphi warrior, torn from his wrappings, but unable to tear himself away from this world. Umahd is my name. I was defeated in battle, and my physical form taken from me, and made to serve the Ezrohir. But the Ezrohir Marauder who wears my wrappings has returned, no doubt thinking me long gone. Find that Ezrohir Marauder! Restore my physical form, and I shall reward you!

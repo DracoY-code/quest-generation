@@ -1,21 +1,29 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: The Eve of War
-Objective: save the Guardian of Mana from the Alchemist and Netherim
-First Tasks: seek the Forsaken Vaults, and convince the Sphinx to grant you entry
-First Task Locations: NONE - 
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Alchemist - an evil man (location: Forsaken Vaults), Guardian of Mana - a powerful female spirit who is pursuing the Alchemist (location: Forsaken Vaults), Sphinx - the guardian of the Forsaken Vaults (location: Forsaken Vaults)
-Tools: NONE
-Locations: Forsaken Vaults - hidden archives (location: NONE)
-Items: NONE
-Enemies: NONE
-Groups: Netherim - the Alchemist's demonic minions
-Title: Torchlight II
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+save the Guardian of Mana from the Alchemist and Netherim
+<|end_objective|>
+<|begin_tasks|>
+seek the Forsaken Vaults, and convince the Sphinx to grant you entry
+<|end_tasks|>
+<|begin_quest_giver|>
+Guardian of Air: a powerful spirit
+<|end_quest_giver|>
+<|begin_task_locations|>
+NONE: 
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Alchemist: an evil man (location: Forsaken Vaults)
+Guardian of Mana: a powerful female spirit who is pursuing the Alchemist (location: Forsaken Vaults)
+Sphinx: the guardian of the Forsaken Vaults (location: Forsaken Vaults)
+<|end_characters|>
+<|begin_locations|>
+Forsaken Vaults: hidden archives (location: NONE)
+<|end_locations|>
+<|begin_groups|>
+Netherim: the Alchemist's demonic minions (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 I have been expecting you. I am the Guardian of Air. The Guardian of Mana has pursued the Alchemist into the Forsaken Vaults, which are guarded by the Sphinx. Seek the Vaults, and convince the Sphinx to grant you entry. The Guardian of Mana is in great danger... if not from the Alchemist, then from the Netherim. Save her.

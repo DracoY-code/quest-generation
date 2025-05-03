@@ -1,21 +1,24 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Coming Out Ahead
-Objective: save the Bronze Head of Grunnheim from destruction by Sturmbeorn
-First Tasks: recover the Bronze Head of Grunnheim
-First Task Locations:  - the temple, houses thousands of years of historical artifacts and documents, overrun by the Sturmbeorn
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: NONE
-Tools: NONE
-Locations: NONE
-Items: Bronze Head of Grunnheim - an artifact that contains records, some of which are the only accounts of major historic events (amount: 1)
-Enemies: NONE
-Groups: Sturmbeorn - brutish bandits who only value gold
-Title: Torchlight II
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+save the Bronze Head of Grunnheim from destruction by Sturmbeorn
+<|end_objective|>
+<|begin_tasks|>
+recover the Bronze Head of Grunnheim
+<|end_tasks|>
+<|begin_quest_giver|>
+High Priest Tauna: the head priest of the temple
+<|end_quest_giver|>
+<|begin_task_locations|>
+: the temple, houses thousands of years of historical artifacts and documents, overrun by the Sturmbeorn
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_items|>
+Bronze Head of Grunnheim: an artifact that contains records, some of which are the only accounts of major historic events (amount: 1)
+<|end_items|>
+<|begin_groups|>
+Sturmbeorn: brutish bandits who only value gold (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 We are relatively safe here, but the brutish Sturmbeorn will surely destroy everything that isn't made of gold! The temple is home to thousands of years of historical artifacts and documents, and it grieves me immeasurably to think of all of those treasures lost! We were able to gather up some of the artifacts, as we fled, but the Bronze Head of Grunnheim was left behind! Please, find it! Some of its records are the only accounts we have of major historic events!

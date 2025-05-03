@@ -1,21 +1,30 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: The Cure for Madness
-Objective: confront Cicero and kill him
-First Tasks: find Arnbjorn and make sure he is alright, search Cicero's room for clues about where he has gone and let Astrid know about your findings
-First Task Locations:  - the wilderness,  - Dark Brotherhood Sanctuary, the hideout of the Dark Brotherhood
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - Astrid lets the player take Shadowmere, when the player goes to find Arnbjorn (amount: 1)
-Characters: Cicero - a fellow member of the Dark Brotherhood, a dangerous madman (location: ), Night Mother - the spiritual female leader of the Dark Brotherhood (location: ), Veezara - a fellow member of the Dark Brotherhood, a man (location: ), Shadowmere - Astrid's male horse (location: outside by the pool), Arnbjorn - a fellow member of the Dark Brotherhood, a man (location: )
-Tools: the player is the Listener of the Dark Brotherhood, Cicero went berserk because he overheard Astrid complain about the Night Mother and the player being the listener: Cicero wounded Veezara and tried to kill Astrid before fleeing
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: Dark Brotherhood - a guild of assassins
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+confront Cicero and kill him
+<|end_objective|>
+<|begin_tasks|>
+find Arnbjorn and make sure he is alright
+search Cicero's room for clues about where he has gone and let Astrid know about your findings
+<|end_tasks|>
+<|begin_quest_giver|>
+Astrid: the player's guildmaster in the Dark Brotherhood
+<|end_quest_giver|>
+<|begin_task_locations|>
+: the wilderness
+: Dark Brotherhood Sanctuary, the hideout of the Dark Brotherhood
+<|end_task_locations|>
+<|begin_rewards|>
+: Astrid lets the player take Shadowmere, when the player goes to find Arnbjorn (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Cicero: a fellow member of the Dark Brotherhood, a dangerous madman (location: )
+Night Mother: the spiritual female leader of the Dark Brotherhood (location: )
+Veezara: a fellow member of the Dark Brotherhood, a man (location: )
+Shadowmere: Astrid's male horse (location: outside by the pool)
+Arnbjorn: a fellow member of the Dark Brotherhood, a man (location: )
+<|end_characters|>
+<|begin_groups|>
+Dark Brotherhood: a guild of assassins (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 The fool Cicero went absolutely berserk! He wounded Veezara, tried to kill me, and then he fled. I knew that lunatic couldn't be trusted. Nothing set Cicero off. At least nothing I'm aware of. Well... If I'm being honest, I haven't exactly been discreet lately in expressing my frustration with this whole situation. Obeying the Night Mother. You being the Listener. It's ridiculous. No offense. Cicero may have overheard me talking to one of the others about the Night Mother. It's possible I was... not entirely respectful. But to go this far. To attempt to murder the leader of a Sanctuary. Cicero must pay with his life. There is no other option. I want you to find that miserable little fool and end his life! But first... find my husband. Make sure he's all right. After the attack, Arnbjorn flew into a rage. When Cicero left... Arnbjorn went after him. They disappeared into the wild. Take my horse, Shadowmere. You'll find him outside, by the pool, when you go find Arnbjorn. Search Cicero's room here. Maybe there's something in there that sheds some light on where he might have gone. Let me know the minute you find something. I've got to see to Veezara, and calm everyone down.

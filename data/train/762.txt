@@ -1,21 +1,25 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Alchemy Acquisitions
-Objective: use the expertise of Julienne Fanis for your own benefit
-First Tasks: talk to Julienne Fanis about her collecting alchemical ingredients for you
-First Task Locations: Lustratorium - the alchemical center of the university of mages
-Quest Giver: NONE - NONE (location: NONE)
-Reward: alchemy ingredients from Julienne Fanis -  (amount: 1)
-Characters: Julienne Fanis - a female alchemist in the Mages Guild (location: Lustratorium), Traven - a male mage, and the previous guild leader of the Mages Guild (location: )
-Tools: the player is the new Arch-Mage after Traven
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: Mages Guild - a guild of mages
-Title: The Elder Scrolls IV: Oblivion
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+use the expertise of Julienne Fanis for your own benefit
+<|end_objective|>
+<|begin_tasks|>
+talk to Julienne Fanis about her collecting alchemical ingredients for you
+<|end_tasks|>
+<|begin_quest_giver|>
+Raminus Polus: the player's underling in the Mages Guild
+<|end_quest_giver|>
+<|begin_task_locations|>
+Lustratorium: the alchemical center of the university of mages
+<|end_task_locations|>
+<|begin_rewards|>
+alchemy ingredients from Julienne Fanis:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Julienne Fanis: a female alchemist in the Mages Guild (location: Lustratorium)
+Traven: a male mage, and the previous guild leader of the Mages Guild (location: )
+<|end_characters|>
+<|begin_groups|>
+Mages Guild: a guild of mages (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 As the Arch-Mage, you are entitled to certain privileges. In addition to the full use of all Guild facilities, there is one service available to you. Julienne Fanis has long served Arch-Mage Traven in collecting alchemical ingredients for his personal research. As the new Arch-Mage, I'm sure she'll extend the service to you as well. At your convenience, consult her at the Lustratorium.

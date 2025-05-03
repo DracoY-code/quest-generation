@@ -1,21 +1,23 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Mushroom Mania
-Objective: grow a huge mushroom, and report back to Herbert
-First Tasks: find a mushroom, find a way to grow a regular mushroom to a huge mushroom
-First Task Locations:  - places shielded from direct sunlight,  - somewhere near Herbert
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - a bunch of golden carrots (amount: 1)
-Characters: NONE
-Tools: NONE
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Minecraft
-Motivation: knowledge
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+grow a huge mushroom, and report back to Herbert
+<|end_objective|>
+<|begin_tasks|>
+find a mushroom
+find a way to grow a regular mushroom to a huge mushroom
+<|end_tasks|>
+<|begin_quest_giver|>
+Herbert: a mushroom-loving man
+<|end_quest_giver|>
+<|begin_task_locations|>
+: places shielded from direct sunlight
+: somewhere near Herbert
+<|end_task_locations|>
+<|begin_rewards|>
+: a bunch of golden carrots (amount: 1)
+<|end_rewards|>
+<|begin_motivation|>
+knowledge
+<|end_motivation|>
+<|end_quest|>
 Mushrooms are awesome! I love everything about them! Their texture, their taste... Some travelers claim to have seen some huge, giant mushrooms that stand as tall as trees. I want to see one for real! Could you help me see a huge mushroom? You are a traveler: you must know how to grow huge mushrooms. Please find a regular mushroom from a place shielded from direct sunlight, and find a way to grow it into a huge mushroom somewhere where I can see it. Report back to me after growing a huge mushroom, and I'll reward you with a bunch of golden carrots. They are tasty, but I prefer mushrooms. Especially steamy, hot mushroom stew that waters one's mouth.

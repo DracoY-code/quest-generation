@@ -1,21 +1,24 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Tools of the Enemy
-Objective: bring an Illager crossbow to Gilbert
-First Tasks: steal an Illager crossbow
-First Task Locations:  - a nearby Illager outpost
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - a powerful bow (amount: 1)
-Characters: NONE
-Tools: the player is an infamous person
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: Illagers - bandits
-Title: Minecraft
-Motivation: knowledge
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+bring an Illager crossbow to Gilbert
+<|end_objective|>
+<|begin_tasks|>
+steal an Illager crossbow
+<|end_tasks|>
+<|begin_quest_giver|>
+Gilbert: a sly fletcher
+<|end_quest_giver|>
+<|begin_task_locations|>
+: a nearby Illager outpost
+<|end_task_locations|>
+<|begin_rewards|>
+: a powerful bow (amount: 1)
+<|end_rewards|>
+<|begin_groups|>
+Illagers: bandits (amount: NONE)
+<|end_groups|>
+<|begin_motivation|>
+knowledge
+<|end_motivation|>
+<|end_quest|>
 You are quite a mischievous person, aren't you? Maybe you'd like to do a small prank for me? I want to get an Illager crossbow. See what makes it tick. The problem is, Illagers are quite a nasty bunch: they shoot anyone with their crossbows without discrimination. Lift one of their crossbows from them, bring it to me, and I'll give you a powerful bow of my own making.

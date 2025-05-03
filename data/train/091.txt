@@ -1,21 +1,22 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Alchemist in Making
-Objective: use an alchemy lab to mix a couple of ingredients together
-First Tasks: mix Wheat and Blisterwort together to make a healing potion
-First Task Locations: NONE - 
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - a healing potion (amount: 1)
-Characters: NONE
-Tools: NONE
-Locations: NONE
-Items: Wheat - an alchemy ingredient (amount: 1), Blisterwort - an alchemy ingredient (amount: 1)
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+use an alchemy lab to mix a couple of ingredients together
+<|end_objective|>
+<|begin_tasks|>
+mix Wheat and Blisterwort together to make a healing potion
+<|end_tasks|>
+<|begin_quest_giver|>
+: an alchemist
+<|end_quest_giver|>
+<|begin_task_locations|>
+NONE: 
+<|end_task_locations|>
+<|begin_rewards|>
+: a healing potion (amount: 1)
+<|end_rewards|>
+<|begin_items|>
+Wheat: an alchemy ingredient (amount: 1)
+Blisterwort: an alchemy ingredient (amount: 1)
+<|end_items|>
+<|end_quest|>
 You know how to use an alchemy lab right? Mix a couple of ingredients together, see what happens. A little Wheat and Blisterwort makes a healing potion, if you didn't know. There's plenty of ingredients for sale, too.

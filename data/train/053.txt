@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Clean out the Loan Shark
-Objective: Eliminate the loan shark as per the request.
-First Tasks: Find the loan shark’s location., Confront or attack the loan shark., Ensure the job is completed and report back.
-First Task Locations: The Hub - A major trading center where the loan shark operates.
-Quest Giver: NONE - NONE (location: NONE)
-Reward: Caps - Payment for completing the job. (amount: 500), Experience Points - Earned for eliminating the target. (amount: 600)
-Characters: NONE
-Tools: Firearms, Stealth, Melee weapons
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Fallout
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+Eliminate the loan shark as per the request.
+<|end_objective|>
+<|begin_tasks|>
+Find the loan shark’s location.
+Confront or attack the loan shark.
+Ensure the job is completed and report back.
+<|end_tasks|>
+<|begin_quest_giver|>
+Unknown Client: A person with a vendetta against the loan shark, looking to remove them permanently.
+<|end_quest_giver|>
+<|begin_task_locations|>
+The Hub: A major trading center where the loan shark operates.
+<|end_task_locations|>
+<|begin_rewards|>
+Caps: Payment for completing the job. (amount: 500)
+Experience Points: Earned for eliminating the target. (amount: 600)
+<|end_rewards|>
+<|end_quest|>
 A dangerous job requiring the player to eliminate a loan shark in The Hub. The task can be completed through direct confrontation or a stealthy approach. Completing the mission successfully ensures payment from the client.

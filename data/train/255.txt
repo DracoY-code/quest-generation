@@ -1,21 +1,22 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Orc Attack
-Objective: repel orcs
-First Tasks: talk to Minister Lloyd
-First Task Locations: Imnesvale - a village
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Nelleck - a man (location: Imnesvale), Minister Lloyd - the mayor of Imnesvale (location: Imnesvale)
-Tools: the player is a ranger, Delon has been looking for the player, Nelleck saw orcs coming down from the hills: he says that the orcs will be at the village no later than three or four days from now
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Baldur's Gate II: Shadows of Amn
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+repel orcs
+<|end_objective|>
+<|begin_tasks|>
+talk to Minister Lloyd
+<|end_tasks|>
+<|begin_quest_giver|>
+Delon: a man from Imnesvale
+<|end_quest_giver|>
+<|begin_task_locations|>
+Imnesvale: a village
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Nelleck: a man (location: Imnesvale)
+Minister Lloyd: the mayor of Imnesvale (location: Imnesvale)
+<|end_characters|>
+<|end_quest|>
 Oh! There you are, my noble ranger! It's me, Delon. I... I've been looking all over the place for you! You... you've got to come to Imnesvale! There's orcs... big ones! Nelleck says he saw them coming down from the hills. Soon they'll attack! The Minister sent me to find you! Nelleck says that they'll be at the village soon... no later than three or four days from now. You've got to hurry! I'll run back and tell Minister Lloyd that you're coming! Everyone will be so relieved!

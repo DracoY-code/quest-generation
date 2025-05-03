@@ -1,21 +1,18 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Fetch Me That Book!
-Objective: find a book for Urag gro-Shub
-First Tasks: read the note
-First Task Locations: NONE - 
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: NONE
-Tools: Urag gro-Shub gives the player a note that tells the player the location of the book
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+find a book for Urag gro-Shub
+<|end_objective|>
+<|begin_tasks|>
+read the note
+<|end_tasks|>
+<|begin_quest_giver|>
+Urag gro-Shub: a librarian
+<|end_quest_giver|>
+<|begin_task_locations|>
+NONE: 
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|end_quest|>
 If you're feeling adventurous, I'm always looking for someone to procure valuable books from some more... dangerous locations. Here, I scribbled down the last place I'd heard about. Check it out, but be careful.

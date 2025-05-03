@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Surgery
-Objective: change your appearance
-First Tasks: give 1,000 gold to the flesh sculptor for her services
-First Task Locations: NONE - 
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - a new appearance (amount: 1)
-Characters: NONE
-Tools: NONE
-Locations: NONE
-Items:  - gold (amount: 1000)
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+change your appearance
+<|end_objective|>
+<|begin_tasks|>
+give 1,000 gold to the flesh sculptor for her services
+<|end_tasks|>
+<|begin_quest_giver|>
+: the flesh sculptor
+<|end_quest_giver|>
+<|begin_task_locations|>
+NONE: 
+<|end_task_locations|>
+<|begin_rewards|>
+: a new appearance (amount: 1)
+<|end_rewards|>
+<|begin_items|>
+: gold (amount: 1000)
+<|end_items|>
+<|end_quest|>
 Are you interested in my services? I warn you, my skills do not come cheaply. Hmm, I suppose I can work with your face. After all, the sculptor cannot always choose the finest clay. Shall I remake your face?  It is no small thing to submit yourself to the flesh sculptor's knife. Just give me 1,000 gold and tell me what you desire - beauty or hideous deformity, nothing is beyond my skill.

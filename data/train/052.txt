@@ -1,21 +1,27 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Blood on the Ice
-Objective: investigate the brutal murders of women
-First Tasks: check out a trail of blood leading away from the murder scene, talk with Helgird
-First Task Locations:  - the murder scene, Hall of the Dead - a temple where the dead are prepared for burial
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Helgird - a bit crazy woman who knows her dead bodies (location: Hall of the Dead), Susanna - a barmaid from Candlehearth Hall, and the victim at the murder scene (location: Hall of the Dead)
-Tools: Susanna and other two girls were killed the same way: stabbed and cut apart with a blade, there's a war: no one has time to spend on murder investigations
-Locations: Candlehearth Hall - a tavern (location: NONE)
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+investigate the brutal murders of women
+<|end_objective|>
+<|begin_tasks|>
+check out a trail of blood leading away from the murder scene
+talk with Helgird
+<|end_tasks|>
+<|begin_quest_giver|>
+: a murder investigator
+<|end_quest_giver|>
+<|begin_task_locations|>
+: the murder scene
+Hall of the Dead: a temple where the dead are prepared for burial
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Helgird: a bit crazy woman who knows her dead bodies (location: Hall of the Dead)
+Susanna: a barmaid from Candlehearth Hall, and the victim at the murder scene (location: Hall of the Dead)
+<|end_characters|>
+<|begin_locations|>
+Candlehearth Hall: a tavern (location: NONE)
+<|end_locations|>
+<|end_quest|>
 Another girl killed. The victim is Susanna, from Candlehearth Hall. Served me a drink just a few nights ago... but I can't say I knew her. She was killed the same way as the other two girls. Looks like she was stabbed, and then cut apart. It's like an animal got to her, but these are the wounds of a blade. You could help us with the investigation. We're stretched thin as it is with the war. Nobody has the time to spend on this. Not pleasant, but it's the truth. Here are some starting points for you. I noticed a trail of blood leading away from here. Helgird's taken Susanna's body into the Hall of the Dead to prepare for burial. She's a little crazy, but if she knows anything, it's dead bodies.

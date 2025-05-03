@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: The Throat of the World
-Objective: receive a lesson from Paarthurnax
-First Tasks: hear Paarthurnax's shout, and match it with your own
-First Task Locations: Throat of the World - Paarthurnax's mountain
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Dovahkiin - a mortal with the soul of a dragon (location: Throat of the World)
-Tools: the player is meeting Paarthurnax for the first time: the player is the Dovahkiin
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+receive a lesson from Paarthurnax
+<|end_objective|>
+<|begin_tasks|>
+hear Paarthurnax's shout, and match it with your own
+<|end_tasks|>
+<|begin_quest_giver|>
+Paarthurnax: a wise dragon
+<|end_quest_giver|>
+<|begin_task_locations|>
+Throat of the World: Paarthurnax's mountain
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Dovahkiin: a mortal with the soul of a dragon (location: Throat of the World)
+<|end_characters|>
+<|end_quest|>
 Greetings, traveler. I am Paarthurnax. Who are you? What brings you to my mountain? Forgive me. I gave in to the temptation to prolong our speech. I know you are Dovahkiin. You have come here to learn from me. Patience. There are formalities that must be observed, at the first meeting of two of the dragons. By long tradition, the elder speaks first. Hear my shout! Feel it in your bones. Match it, if you are Dovahkiin!

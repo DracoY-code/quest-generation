@@ -1,21 +1,26 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Dampened Spirits
-Objective: put the Honningbrew Meadery out of business by putting Sabjorn in prison
-First Tasks: talk to Mallus Maccius for details
-First Task Locations: Bannered Mare - an inn in Whiterun
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Sabjorn - the male owner of the Honningbrew Meadery (location: ), Mallus Maccius - Maven Black-Briar's inside man at the Honningbrew Meadery (location: Bannered Mare)
-Tools: NONE
-Locations: Honningbrew Meadery - a meadery, Maven Black-Briar's competitor (location: NONE), Whiterun - a city (location: NONE)
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+put the Honningbrew Meadery out of business by putting Sabjorn in prison
+<|end_objective|>
+<|begin_tasks|>
+talk to Mallus Maccius for details
+<|end_tasks|>
+<|begin_quest_giver|>
+Maven Black-Briar: a dishonest meadery owner
+<|end_quest_giver|>
+<|begin_task_locations|>
+Bannered Mare: an inn in Whiterun
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Sabjorn: the male owner of the Honningbrew Meadery (location: )
+Mallus Maccius: Maven Black-Briar's inside man at the Honningbrew Meadery (location: Bannered Mare)
+<|end_characters|>
+<|begin_locations|>
+Honningbrew Meadery: a meadery, Maven Black-Briar's competitor (location: NONE)
+Whiterun: a city (location: NONE)
+<|end_locations|>
+<|end_quest|>
 This is an important job. I have a competitor called Honningbrew Meadery that I want to put out of business. I also want to know how they managed to get the place up and running so quickly. Some layabout named Sabjorn runs the Honningbrew Meadery. Been a thorn in my side for the last few years now. With Sabjorn in prison, his meadery will be forced to close. Then I swoop in and take over the place. No more competition. Head to the Bannered Mare in Whiterun and look for Mallus Maccius. He'll fill you in on all the details.

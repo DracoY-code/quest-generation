@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: A Mission From Oisig
-Objective: discuss your mission with Oisig
-First Tasks: follow Oisig
-First Task Locations:  - the temple of Helm
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Helm - the god of order (location: )
-Tools: the player is not a believer of Helm
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Baldur's Gate II: Shadows of Amn
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+discuss your mission with Oisig
+<|end_objective|>
+<|begin_tasks|>
+follow Oisig
+<|end_tasks|>
+<|begin_quest_giver|>
+Oisig: a cleric of Helm
+<|end_quest_giver|>
+<|begin_task_locations|>
+: the temple of Helm
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Helm: the god of order (location: )
+<|end_characters|>
+<|end_quest|>
 Greetings. I am Oisig, cleric of Helm. I would speak with you. I would hire you as a mercenary in the service of Helm. I would prefer a person of faith, but you will be adequate. Follow me to the temple of Helm. I will discuss what is required of you there. Do not take too long; Helm requires you now.

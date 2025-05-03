@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: A Distraction for Idle Hands
-Objective: give a music disc to Lou
-First Tasks: find a music disc
-First Task Locations: NONE - 
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - blocks of emerald (amount: 6)
-Characters: NONE
-Tools: the player is a known villain
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Minecraft
-Motivation: comfort
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+give a music disc to Lou
+<|end_objective|>
+<|begin_tasks|>
+find a music disc
+<|end_tasks|>
+<|begin_quest_giver|>
+Lou: a nitwit
+<|end_quest_giver|>
+<|begin_task_locations|>
+NONE: 
+<|end_task_locations|>
+<|begin_rewards|>
+: blocks of emerald (amount: 6)
+<|end_rewards|>
+<|begin_motivation|>
+comfort
+<|end_motivation|>
+<|end_quest|>
 Gee! You okay? *looks at you with a blank expression* You look a dark human-thing. Me think me know the right think to cheer you up! A quest. Me want one of those music disc thingies. Find one? Get 6 blocks of emerald in return.

@@ -1,21 +1,31 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: The Dueling Families of Trademeet
-Objective: bring the Mantle of Waukeen to Lord Skarmaen
-First Tasks: find the Mantle of Waukeen
-First Task Locations:  - the tomb of the founder of Trademeet in the graveyard
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - gold (amount: 1000)
-Characters: Lilith - a noblewoman, one of the Lurraxols (location: Trademeet)
-Tools: both Lilith and Lord Skarmaen asked to see the player before, the Alibakkars and the Lurraxols have been feuding for generations, the Lurraxols think that their family founded Trademeet, Lord Skarmaen wants the Mantle of Waukeen to prove that his family founded Trademeet, Lord Skarmaen will give the player the key to the tomb
-Locations: Trademeet - a town (location: NONE)
-Items: Mantle of Waukeen - a large circlet (amount: 1)
-Enemies: NONE
-Groups: Lurraxols - a noble family, Alibakkars - a noble family
-Title: Baldur's Gate II: Shadows of Amn
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+bring the Mantle of Waukeen to Lord Skarmaen
+<|end_objective|>
+<|begin_tasks|>
+find the Mantle of Waukeen
+<|end_tasks|>
+<|begin_quest_giver|>
+Lord Skarmaen: a nobleman who hates Lilith, one of the Alibakkars
+<|end_quest_giver|>
+<|begin_task_locations|>
+: the tomb of the founder of Trademeet in the graveyard
+<|end_task_locations|>
+<|begin_rewards|>
+: gold (amount: 1000)
+<|end_rewards|>
+<|begin_characters|>
+Lilith: a noblewoman, one of the Lurraxols (location: Trademeet)
+<|end_characters|>
+<|begin_locations|>
+Trademeet: a town (location: NONE)
+<|end_locations|>
+<|begin_items|>
+Mantle of Waukeen: a large circlet (amount: 1)
+<|end_items|>
+<|begin_groups|>
+Lurraxols: a noble family (amount: NONE)
+Alibakkars: a noble family (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 Hello once again! It is pleasing to see that you did not respond to the call of that harlot, Lilith Lurraxol. The woman is too deluded to see the truth, as I said. A commoner that has risen above her station. Our two houses have been feuding for generations. The Lurraxols seem to be possessed of the notion that their family founded this town... what an absurd thought! Why they would even presume to suppose such a thing, I have no idea. It is sad, however, that the Alibakkars have never had the evidence to prove our claim to them... though it galls me that we would need it. All that has recently changed. An old tome belonging to my family states that there is proof — that proof can be found right here in Trademeet. In the graveyard is a tomb that has been long abandoned... but which also houses the founder of the town. My ancestor. With him lies a large circlet called the Mantle of Waukeen. Possessing that circlet would be all the proof I need, so I wish to acquire it. I would do so myself, but there happens to be a good reason the tomb is abandoned. It is... haunted, so they say. The exact nature of its danger I do not know... but you are a hero who surely could face its perils and return safely with the mantle, yes? In return, I shall pay you 1,000 gold. I shall give you the key, then, which will allow you into the tomb... the key itself having been in my family for some time as well. More proof, yes? Go, then, and return with the mantle.

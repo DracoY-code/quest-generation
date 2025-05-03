@@ -1,21 +1,26 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: The Ember Keys
-Objective: use the Ember Keys to open the Watchweald Portal
-First Tasks: get the Passkey Ember from the slavers, and Latchkey Ember from the goblins
-First Task Locations: Old Estherian Refuge - an area
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: NONE
-Tools: NONE
-Locations: Watchweald Portal - a portal in the Old Estherian Refuge (location: NONE)
-Items: Ember Keys - the keys that are used to open the Watchweald Portal (amount: 1), Passkey Ember - one of the Ember Keys (amount: 1), Latchkey Ember - one of the Ember Keys (amount: 1)
-Enemies: NONE
-Groups: NONE
-Title: Torchlight II
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+use the Ember Keys to open the Watchweald Portal
+<|end_objective|>
+<|begin_tasks|>
+get the Passkey Ember from the slavers, and Latchkey Ember from the goblins
+<|end_tasks|>
+<|begin_quest_giver|>
+Elder Valin: a man who was planning to enter the Watchweald Portal
+<|end_quest_giver|>
+<|begin_task_locations|>
+Old Estherian Refuge: an area
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_locations|>
+Watchweald Portal: a portal in the Old Estherian Refuge (location: NONE)
+<|end_locations|>
+<|begin_items|>
+Ember Keys: the keys that are used to open the Watchweald Portal (amount: 1)
+Passkey Ember: one of the Ember Keys (amount: 1)
+Latchkey Ember: one of the Ember Keys (amount: 1)
+<|end_items|>
+<|end_quest|>
 I was planning to enter the Watchweald Portal in the Old Estherian Refuge. Unfortunately the keys have been stolen. Goblin miners took one, and we believe that some slavers who recently moved into the area have the other. It takes both keys to activate the Watchweald Portal... and it is beyond my abilities to retrieve them. Recover the Passkey Ember from the slavers, and the Latchkey Ember from the goblins. You can use them to open the Portal in the Refuge.

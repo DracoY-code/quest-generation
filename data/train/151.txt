@@ -1,21 +1,26 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: A Brotherhood Betrayed
-Objective: clear Bradon's name
-First Tasks: find Raynil Dralas, and make him tell you the truth about Bradon's supposed vampirism
-First Task Locations: NONE - 
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Bradon - Erline's husband, who was killed by Raynil Dralas (location: ), Raynil Dralas - a male Dunmer vampire hunter (location: ), Carius - a male criminal investigator (location: Bruma)
-Tools: Raynil Dralas killed Bradon in Bradon and Erline's home: the Bruma city watch found the body of a dead beggar in Bradon and Erline's's home afterwards, Raynil Dralas convinced Carius that Bradon was a vampire, no one has seen Bradon out in the daylight: Erline explains that Bradon works at night and sleeps on days, Erline has seen Raynil Dralas before
-Locations: Bruma - a city (location: NONE)
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls IV: Oblivion
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+clear Bradon's name
+<|end_objective|>
+<|begin_tasks|>
+find Raynil Dralas, and make him tell you the truth about Bradon's supposed vampirism
+<|end_tasks|>
+<|begin_quest_giver|>
+Erline: a shocked wife
+<|end_quest_giver|>
+<|begin_task_locations|>
+NONE: 
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Bradon: Erline's husband, who was killed by Raynil Dralas (location: )
+Raynil Dralas: a male Dunmer vampire hunter (location: )
+Carius: a male criminal investigator (location: Bruma)
+<|end_characters|>
+<|begin_locations|>
+Bruma: a city (location: NONE)
+<|end_locations|>
+<|end_quest|>
 I can't believe this is happening. Please... please. I need your help. My husband was no vampire! It's ridiculous! No one will listen to me! Forgive me. I loved my husband dearly, and to lose him this way makes no sense. Anything you can do to help would be wonderful. This is all happening so fast. I came home only just a few hours ago. I found the door open, and my Bradon dead. Standing over him was a Dunmer. I screamed and ran out into the street. Some city watch were nearby and heard me I suppose, as they arrived quickly. I heard the Dunmer identify himself as Raynil Dralas. He said he was a vampire hunter and that Bradon was his mark. The guards seemed to know about Raynil, and after a search of the house, the body of some beggar was found stashed in our basement. The guards sent for Carius, who is an investigator for crimes here in Bruma. In minutes, Raynil convinced Carius that Bradon was a vampire. Why would he stash a body in his own house? That's ridiculous! And another thing. The guards are making a big deal out of no one seeing Bradon out in the daylight. Well of course that's the case! He works at night, and has to sleep during the day. Why does that make him a vampire? It's all that Raynil character. I don't trust him. The thing that bothers me the most is that I swear I've seen him before. Of course he says he's never been here. Look, there isn't much more to say. Please... help me clear my husband's name. Just find Raynil Dralas, and make him tell you the truth. I swear, he's a liar!

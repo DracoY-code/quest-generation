@@ -1,21 +1,27 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Pillaging the Illagers
-Objective: bring the plans of Illagers to Xan
-First Tasks: steal the plans of Illagers who threaten Fishing Hamlet
-First Task Locations: Deepwood Tower - an Illager outpost tower in the nearby woods
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - enchanted sword (amount: 1)
-Characters: NONE
-Tools: the player is a known villain
-Locations: Fishing Hamlet - a village (location: NONE)
-Items: NONE
-Enemies: NONE
-Groups: Illagers - bandits
-Title: Minecraft
-Motivation: knowledge
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+bring the plans of Illagers to Xan
+<|end_objective|>
+<|begin_tasks|>
+steal the plans of Illagers who threaten Fishing Hamlet
+<|end_tasks|>
+<|begin_quest_giver|>
+Xan: a scared man
+<|end_quest_giver|>
+<|begin_task_locations|>
+Deepwood Tower: an Illager outpost tower in the nearby woods
+<|end_task_locations|>
+<|begin_rewards|>
+: enchanted sword (amount: 1)
+<|end_rewards|>
+<|begin_locations|>
+Fishing Hamlet: a village (location: NONE)
+<|end_locations|>
+<|begin_groups|>
+Illagers: bandits (amount: NONE)
+<|end_groups|>
+<|begin_motivation|>
+knowledge
+<|end_motivation|>
+<|end_quest|>
 No! Go away! Please don't kill me... Illagers are making me scared enough already! Perhaps you'd like to do something villainous, and even net a reward for it? This village, Fishing Hamlet, has been threatened by nearby Illagers of Deepwood Tower for some time. You could go to their tower in the woods and steal their plans. Bring the plans to me, and I'll give you an enchanted sword as a reward. Just don't test its blade on me, please!

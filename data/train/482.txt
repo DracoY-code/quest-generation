@@ -1,21 +1,19 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Nadarin and the Basilisk
-Objective: kill a basilisk and return to Nadarin for your reward
-First Tasks: find the basilisk
-First Task Locations:  - a warehouse at the harbor
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - gold pieces (amount: 500),  - a pair of boots (amount: 1)
-Characters: NONE
-Tools: NONE
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Baldur's Gate
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+kill a basilisk and return to Nadarin for your reward
+<|end_objective|>
+<|begin_tasks|>
+find the basilisk
+<|end_tasks|>
+<|begin_quest_giver|>
+Nadarin: an annoyed warehouse overseer
+<|end_quest_giver|>
+<|begin_task_locations|>
+: a warehouse at the harbor
+<|end_task_locations|>
+<|begin_rewards|>
+: gold pieces (amount: 500)
+: a pair of boots (amount: 1)
+<|end_rewards|>
+<|end_quest|>
 Hey, you! Are you either bored or foolish? Either way, I, Nadarin, could use your services. Some wiseacre tried to send a basilisk by freight and now it's broken free and is making a mess of one of the warehouses at the harbor. There'll be 500 gold pieces for taking care of that on such short notice. Also, you might want these. They're an item I obtained from a fence I know in a far-away city. You never know, they might fit you.

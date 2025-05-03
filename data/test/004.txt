@@ -1,21 +1,24 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Rings of Blood Magic
-Objective: retrieve a set of ancient rings of blood magic for yourself
-First Tasks: retrieve the Ring of the Erudite, retrieve the Ring of the Beast
-First Task Locations: Swindler's Den - a bandit cave, Cragwallow Slope - a cave
-Quest Giver: NONE - NONE (location: NONE)
-Reward: Ring of the Erudite - one of the ancient rings of blood magic (amount: 1), Ring of the Beast - one of the ancient rings of blood magic (amount: 1)
-Characters: Molag Bal - the god of vampires (location: )
-Tools: the rings of blood magic increase the abilities of the player's vampiric powers: Molag Bal supposedly gave the rings to vampires
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+retrieve a set of ancient rings of blood magic for yourself
+<|end_objective|>
+<|begin_tasks|>
+retrieve the Ring of the Erudite
+retrieve the Ring of the Beast
+<|end_tasks|>
+<|begin_quest_giver|>
+Feran Sadri: a fellow vampire
+<|end_quest_giver|>
+<|begin_task_locations|>
+Swindler's Den: a bandit cave
+Cragwallow Slope: a cave
+<|end_task_locations|>
+<|begin_rewards|>
+Ring of the Erudite: one of the ancient rings of blood magic (amount: 1)
+Ring of the Beast: one of the ancient rings of blood magic (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Molag Bal: the god of vampires (location: )
+<|end_characters|>
+<|end_quest|>
 I've discovered the whereabouts of a set of ancient rings of Blood Magic: the Ring of the Erudite in Swindler's Den and the Ring of the Beast in Cragwallow Slope. They belong among our kind, not gathering mold in some vagabond's treasure pile. The rings increase the abilities of your vampiric powers. Some say Molag Bal himself gave these rings to ancient powerful vampire lords. Some say that is just a myth. You'll be able to keep the rings. I wouldn't be telling you where to find them if I desired them for myself.

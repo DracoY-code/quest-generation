@@ -1,21 +1,22 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Rescue Initiate from the Hub
-Objective: Locate and rescue the missing Brotherhood of Steel initiate from the Hub.
-First Tasks: Speak with a Brotherhood representative to learn about the missing initiate., Travel to the Hub and gather information on their last known location., Confront the kidnappers and secure the initiate's release.
-First Task Locations: Brotherhood of Steel Bunker - The headquarters of the Brotherhood of Steel, where the missing initiate was last reported., The Hub - A major trading city where the initiate was reportedly last seen.
-Quest Giver: NONE - NONE (location: NONE)
-Reward: Brotherhood Reputation Boost - Increases standing with the Brotherhood of Steel. (amount: NONE), Experience Points - Earned upon successful completion. (amount: 1000)
-Characters: NONE
-Tools: Weapons for combat (optional), Speech or Barter skills (for negotiation), Stealth gear (for a non-violent approach)
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Fallout
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+Locate and rescue the missing Brotherhood of Steel initiate from the Hub.
+<|end_objective|>
+<|begin_tasks|>
+Speak with a Brotherhood representative to learn about the missing initiate.
+Travel to the Hub and gather information on their last known location.
+Confront the kidnappers and secure the initiate's release.
+<|end_tasks|>
+<|begin_quest_giver|>
+Brotherhood Representative: A high-ranking Brotherhood member concerned about the missing initiate.
+<|end_quest_giver|>
+<|begin_task_locations|>
+Brotherhood of Steel Bunker: The headquarters of the Brotherhood of Steel, where the missing initiate was last reported.
+The Hub: A major trading city where the initiate was reportedly last seen.
+<|end_task_locations|>
+<|begin_rewards|>
+Brotherhood Reputation Boost: Increases standing with the Brotherhood of Steel. (amount: NONE)
+Experience Points: Earned upon successful completion. (amount: 1000)
+<|end_rewards|>
+<|end_quest|>
 A Brotherhood initiate has gone missing in the Hub, and it's your job to track them down. The mission may require combat, negotiation, or stealth depending on how you approach the situation.

@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Mistwatch
-Objective: help Christer locate Fjola
-First Tasks: look for Fjola
-First Task Locations: Mistwatch - a tower hosting a bandit hideout
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - some coin (amount: 1)
-Characters: Fjola - Christer's missing wife (location: )
-Tools: the player stumbled upon Christer while exploring Mistwatch, Christer heard that bandits in Mistwatch ransom captives and thinks that Fjola might be one of them: he managed to sneak in and look for Fjola, but he is not a warrior, Christer gives the player a key that will come in handy
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+help Christer locate Fjola
+<|end_objective|>
+<|begin_tasks|>
+look for Fjola
+<|end_tasks|>
+<|begin_quest_giver|>
+Christer: a distressed husband
+<|end_quest_giver|>
+<|begin_task_locations|>
+Mistwatch: a tower hosting a bandit hideout
+<|end_task_locations|>
+<|begin_rewards|>
+: some coin (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Fjola: Christer's missing wife (location: )
+<|end_characters|>
+<|end_quest|>
 Please, stranger! I need your help! Divine mercy - you aren't one of the bandits. Please, you've got to help me! It's my wife, Fjola! I think she's being held in this tower. Let me explain. Fjola, my wife, left the farm on errands and never came back. It's been months, and I've been searching for her since. I heard a rumor that these bandits were ransoming captives, so I thought she may be here. I managed to sneak past the guards and get this far, but... I don't think I can go on. I'm no warrior! Please, can you look for her? I don't have much, but I can give you some coin for the trouble. One of the guards dropped this key while I hid. I wager it will come in handy for you. Please hurry!

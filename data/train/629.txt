@@ -1,21 +1,30 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: The Zeraphi Envoy
-Objective: help Lord Taldimut narrow down the location of the Golden Gear
-First Tasks: find the 3 crests for Lord Taldimut
-First Task Locations: Frosted Hills - frozen hills
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - Lord Taldimut will reward the player (amount: 1)
-Characters: Grand Regent Eldrayn - the leader of the Estherians (location: )
-Tools: the player saved Lord Taldimut and his Zeraphi envoy from goblins, Grand Regent Eldrayn allowed Lord Taldimut and his Zeraphi envoy to search for the Golden Gear
-Locations: NONE
-Items: Golden Gear - important object related to defense of Zeraphi (amount: 1),  - crests, created by the Estherians, together form a map that shows the exact location of the Golden Gear (amount: 3)
-Enemies: NONE
-Groups: Ezrohir - a hostile race of people who will start a war with Zeraphi, Zeraphi - a race of people, Estherians - a race of people, friendly towards the Zeraphi
-Title: Torchlight II
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+help Lord Taldimut narrow down the location of the Golden Gear
+<|end_objective|>
+<|begin_tasks|>
+find the 3 crests for Lord Taldimut
+<|end_tasks|>
+<|begin_quest_giver|>
+Lord Taldimut: a Zeraphi ambassador, the leader of the Zeraphi envoy
+<|end_quest_giver|>
+<|begin_task_locations|>
+Frosted Hills: frozen hills
+<|end_task_locations|>
+<|begin_rewards|>
+: Lord Taldimut will reward the player (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Grand Regent Eldrayn: the leader of the Estherians (location: )
+<|end_characters|>
+<|begin_items|>
+Golden Gear: important object related to defense of Zeraphi (amount: 1)
+: crests, created by the Estherians, together form a map that shows the exact location of the Golden Gear (amount: 3)
+<|end_items|>
+<|begin_groups|>
+Ezrohir: a hostile race of people who will start a war with Zeraphi (amount: NONE)
+Zeraphi: a race of people (amount: NONE)
+Estherians: a race of people, friendly towards the Zeraphi (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 My friend, thank you for coming to our aid. I am Lord Taldimut, the leader of this Zeraphi envoy, sent to procure the Estherians' aid in our upcoming war with the Ezrohir. Grand Regent Eldrayn gave us leave to search the Frosted Hills for the Golden Gear, and we had narrowed our search to these chilly hills before we were assaulted by these goblins. Now we are too injured to continue our search. Can you aid us? The exact location of the Golden Gear is long forgotten, but the Estherians created a map from three crests. If you can find those, I can interpret the map and find the Gear! Search the Frosted Hills for the crests. Bring them to me, and I will reward you, on behalf of the Zeraphi people.

@@ -1,21 +1,22 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Test Mutagenic Serum on a Super Mutant
-Objective: Administer the experimental mutagenic serum to a super mutant.
-First Tasks: Obtain the mutagenic serum from Dr. Henry., Travel to Broken Hills to find a super mutant test subject., Convince a super mutant or forcibly administer the serum.
-First Task Locations: NCR Downtown - Dr. Henry's location where the serum is obtained., Broken Hills - A mining town inhabited by super mutants and ghouls.
-Quest Giver: NONE - NONE (location: NONE)
-Reward: Experience Points - Earned for successfully administering the serum. (amount: 1500), Caps - A monetary reward from Dr. Henry for completing the task. (amount: 1500)
-Characters: NONE
-Tools: Speech skills to convince a mutant to take the serum., Combat skills if force is required., Medical knowledge to ensure proper administration.
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Fallout 2
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+Administer the experimental mutagenic serum to a super mutant.
+<|end_objective|>
+<|begin_tasks|>
+Obtain the mutagenic serum from Dr. Henry.
+Travel to Broken Hills to find a super mutant test subject.
+Convince a super mutant or forcibly administer the serum.
+<|end_tasks|>
+<|begin_quest_giver|>
+Dr. Henry: A scientist researching mutant physiology.
+<|end_quest_giver|>
+<|begin_task_locations|>
+NCR Downtown: Dr. Henry's location where the serum is obtained.
+Broken Hills: A mining town inhabited by super mutants and ghouls.
+<|end_task_locations|>
+<|begin_rewards|>
+Experience Points: Earned for successfully administering the serum. (amount: 1500)
+Caps: A monetary reward from Dr. Henry for completing the task. (amount: 1500)
+<|end_rewards|>
+<|end_quest|>
 Dr. Henry has developed a mutagenic serum and requires a test subject. He tasks you with finding a super mutant in Broken Hills willing to take the serum—or administering it by force.

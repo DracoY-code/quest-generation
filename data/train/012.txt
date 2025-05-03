@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: A Contract Killing
-Objective: assassinate Cyrdemac
-First Tasks: find Cyrdemac
-First Task Locations: Elfsong Tavern - a rough tavern
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - gold (amount: 2000)
-Characters: Cyrdemac - a man who blackmails Areana (location: Elfsong Tavern)
-Tools: NONE
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Baldur's Gate
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+assassinate Cyrdemac
+<|end_objective|>
+<|begin_tasks|>
+find Cyrdemac
+<|end_tasks|>
+<|begin_quest_giver|>
+Areana: a mysterious noblewoman
+<|end_quest_giver|>
+<|begin_task_locations|>
+Elfsong Tavern: a rough tavern
+<|end_task_locations|>
+<|begin_rewards|>
+: gold (amount: 2000)
+<|end_rewards|>
+<|begin_characters|>
+Cyrdemac: a man who blackmails Areana (location: Elfsong Tavern)
+<|end_characters|>
+<|end_quest|>
 Perhaps... perhaps you are the type of people who can help me. I am in need of someone to... perform a service for me. I need someone... removed. This scoundrel is no innocent! He threatens to ruin my life with... with the spreading of... accusations. He threatens to ruin my reputation and standing unless I pay him an exorbitant sum almost weekly! I beg of thee... you must help me. His name is Cyrdemac and he frequents the Elfsong Tavern. I have not been there myself, but I hear it is quite a rough place. You could do the deed in the main bar itself and likely none would call the guards. I know not if he will have friends with him though. Thank you for this. Upon your return I shall pay you 2,000 gold. A small price to have this embarrassment removed.

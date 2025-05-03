@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Lethal Competition
-Objective: assassinate Beitild
-First Tasks: find Beitild
-First Task Locations: Dawnstar - a mining town
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Beitild - an angry and desperate female mine owner (location: Dawnstar)
-Tools: Beitild and her ex-husband run competing mining operations in Dawnstar
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+assassinate Beitild
+<|end_objective|>
+<|begin_tasks|>
+find Beitild
+<|end_tasks|>
+<|begin_quest_giver|>
+Nazir: a fellow assassin
+<|end_quest_giver|>
+<|begin_task_locations|>
+Dawnstar: a mining town
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Beitild: an angry and desperate female mine owner (location: Dawnstar)
+<|end_characters|>
+<|end_quest|>
 Someone has contracted us to kill Beitild. She separated from her husband several months ago. Now the two run competing mining operations in Dawnstar. I hear the mining business is extremely cutthroat. And those hours... they're murder. Beitild's angry and desperate. A fighter.

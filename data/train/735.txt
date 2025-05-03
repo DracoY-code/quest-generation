@@ -1,21 +1,22 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Murder Carlson in NCR
-Objective: Eliminate Westin Carlson, a high-ranking official in NCR, by any means.
-First Tasks: Locate Carlson's residence and assess security measures., Choose a method for assassination (direct attack, poison, explosives, or stealth)., Execute the assassination without getting caught., Report back to the quest giver.
-First Task Locations: NCR - Carlson is heavily guarded in NCR, making infiltration a challenge.
-Quest Giver: NONE - NONE (location: NONE)
-Reward: Cash Reward - Earn $5000 for a successful assassination. (amount: NONE), Reputation Boost - Increased standing with the faction that ordered the hit. (amount: NONE)
-Characters: NONE
-Tools: Stealth for infiltration without raising alarms., Weapons or explosives for a direct attack., Poison for a discreet elimination.
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Fallout 2
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+Eliminate Westin Carlson, a high-ranking official in NCR, by any means.
+<|end_objective|>
+<|begin_tasks|>
+Locate Carlson's residence and assess security measures.
+Choose a method for assassination (direct attack, poison, explosives, or stealth).
+Execute the assassination without getting caught.
+Report back to the quest giver.
+<|end_tasks|>
+<|begin_quest_giver|>
+Crime Syndicate or Rival Political Faction: A group seeking to remove Carlson from power.
+<|end_quest_giver|>
+<|begin_task_locations|>
+NCR: Carlson is heavily guarded in NCR, making infiltration a challenge.
+<|end_task_locations|>
+<|begin_rewards|>
+Cash Reward: Earn $5000 for a successful assassination. (amount: NONE)
+Reputation Boost: Increased standing with the faction that ordered the hit. (amount: NONE)
+<|end_rewards|>
+<|end_quest|>
 Westin Carlson is a well-guarded official in NCR. You have been hired to eliminate him, but security is tight. Plan carefully to avoid detection.

@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Colquetle's Family
-Objective: find out what happened to Mr. Colquetle's son and his wife
-First Tasks: find Mr. Colquetle's son and his wife
-First Task Locations: NONE - 
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters:  - Mr. Colquetle's son and his wife (location: )
-Tools: Mr. Colquetle's son and his wife traveled away and went missing
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Baldur's Gate
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+find out what happened to Mr. Colquetle's son and his wife
+<|end_objective|>
+<|begin_tasks|>
+find Mr. Colquetle's son and his wife
+<|end_tasks|>
+<|begin_quest_giver|>
+Mr. Colquetle: a depressed man
+<|end_quest_giver|>
+<|begin_task_locations|>
+NONE: 
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+: Mr. Colquetle's son and his wife (location: )
+<|end_characters|>
+<|end_quest|>
 What cruel whim of the fates controls this torment of me?! I, Mr. Colquetle, have heard nothing from my son and his wife for nigh unto a week now, and all else pales in importance until I do. I should have known better than to allow his travel in these dangerous times.

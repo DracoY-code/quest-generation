@@ -1,21 +1,18 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: An Offer from Taerom
-Objective: sell your ankheg shells
-First Tasks: give your ankheg shells to Taerom Fuiruim
-First Task Locations: NONE - 
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - gold (amount: 500)
-Characters: NONE
-Tools: ankheg armor is comparable to full plate with half the weight, there is an iron shortage
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Baldur's Gate
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+sell your ankheg shells
+<|end_objective|>
+<|begin_tasks|>
+give your ankheg shells to Taerom Fuiruim
+<|end_tasks|>
+<|begin_quest_giver|>
+Taerom Fuiruim: a famous blacksmith
+<|end_quest_giver|>
+<|begin_task_locations|>
+NONE: 
+<|end_task_locations|>
+<|begin_rewards|>
+: gold (amount: 500)
+<|end_rewards|>
+<|end_quest|>
 Hello there, I'm Taerom Fuiruim, a blacksmith of some renown. An interesting piece o' material you got there. Ankheg, if I'm not mistaken. Been a while since I seen the like, but if I remember correctly, it makes a fine set of armor. If properly treated it's comparable to full plate with half the weight! If you're willing to part with your shells I'll give you 500 gold for the lot of them. No more can I offer with business as slow as it is. Iron shortage hurting us all.

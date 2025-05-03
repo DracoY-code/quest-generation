@@ -1,21 +1,29 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Scoundrel's Folly
-Objective: squeeze Gulum-Ei for information
-First Tasks: find Gulum-Ei
-First Task Locations: East Empire Company - a merchant house in Solitude
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Gulum-Ei - a male Thieves Guild informant within the East Empire Company (location: East Empire Company), Brynjolf - a male member of the Thieves Guild (location: )
-Tools: Gulum-Ei acted as a go-between for the sale of Goldenglow Estate: he can finger the buyer, the player should talk to Brynjolf before they leave if they have any questions
-Locations: Goldenglow Estate - an estate that used to send protection money to the Thieves Guild (location: NONE), Solitude - a city (location: NONE)
-Items: NONE
-Enemies: NONE
-Groups: Thieves Guild - a guild of thieves
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+squeeze Gulum-Ei for information
+<|end_objective|>
+<|begin_tasks|>
+find Gulum-Ei
+<|end_tasks|>
+<|begin_quest_giver|>
+Mercer Frey: the player's guildleader in the Thieves Guild
+<|end_quest_giver|>
+<|begin_task_locations|>
+East Empire Company: a merchant house in Solitude
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Gulum-Ei: a male Thieves Guild informant within the East Empire Company (location: East Empire Company)
+Brynjolf: a male member of the Thieves Guild (location: )
+<|end_characters|>
+<|begin_locations|>
+Goldenglow Estate: an estate that used to send protection money to the Thieves Guild (location: NONE)
+Solitude: a city (location: NONE)
+<|end_locations|>
+<|begin_groups|>
+Thieves Guild: a guild of thieves (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 Ah, there you are. I have a job for you. Gulum-Ei is our inside man at the East Empire Company in Solitude. I'm betting he acted as a go-between for the sale of Goldenglow Estate and that he can finger our buyer. Get out there, shake him down and see what you come up with. Talk to Brynjolf before you leave if you have any questions.

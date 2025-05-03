@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: The Bedlam Job
-Objective: steal whatever you can to make an impression
-First Tasks: steal from anywhere in Whiterun without anyone seeing you steal
-First Task Locations: Whiterun - a city
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - the player gets to keep everything the player steals (amount: 1)
-Characters: NONE
-Tools: NONE
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: Thieves Guild - a guild of thieves
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+steal whatever you can to make an impression
+<|end_objective|>
+<|begin_tasks|>
+steal from anywhere in Whiterun without anyone seeing you steal
+<|end_tasks|>
+<|begin_quest_giver|>
+Delvin Mallory: a fellow member of the Thieves Guild
+<|end_quest_giver|>
+<|begin_task_locations|>
+Whiterun: a city
+<|end_task_locations|>
+<|begin_rewards|>
+: the player gets to keep everything the player steals (amount: 1)
+<|end_rewards|>
+<|begin_groups|>
+Thieves Guild: a guild of thieves (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 Sometimes we like to remind a city that we mean business, so we hit it hard. Just steal whatever we can until we've made an impression. Simple right? Almost. The catch is it doesn't count if anyone sees you take it. The message needs to be clear; we work in the shadows. Steal from anywhere in Whiterun, and you even get to keep everythin' you stole. So, you in?

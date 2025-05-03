@@ -1,21 +1,24 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Hermit Knowledge
-Objective: ask Lone Wolf about the meaning of life, and return to Mario
-First Tasks: find Lone Wolf
-First Task Locations: Lily Forest - a flower forest
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - a compass (amount: 1)
-Characters: Lone Wolf - a strange woman (location: Lily Forest)
-Tools: NONE
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Minecraft
-Motivation: knowledge
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+ask Lone Wolf about the meaning of life, and return to Mario
+<|end_objective|>
+<|begin_tasks|>
+find Lone Wolf
+<|end_tasks|>
+<|begin_quest_giver|>
+Mario: a curious person
+<|end_quest_giver|>
+<|begin_task_locations|>
+Lily Forest: a flower forest
+<|end_task_locations|>
+<|begin_rewards|>
+: a compass (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Lone Wolf: a strange woman (location: Lily Forest)
+<|end_characters|>
+<|begin_motivation|>
+knowledge
+<|end_motivation|>
+<|end_quest|>
 There is a strange woman living alone out in the Lily Forest. Some say that she knows the meaning of life! Could you find her in that flower forest, and ask her about it? I really want to hear what could possibly be the meaning of life. When you return, I'll have a little something for you. A compass. May it point you toward your destinations in life!

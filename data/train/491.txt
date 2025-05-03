@@ -1,21 +1,24 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Dragon Hunting
-Objective: kill a dragon with the Blades
-First Tasks: ask Esbern to send the Blades to the dragon
-First Task Locations: NONE - 
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - the dragon's soul (amount: 1)
-Characters: Dragonborn - the only person who can defeat dragons for good (location: )
-Tools: the player is Dragonborn
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: Blades - an intelligence organization
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+kill a dragon with the Blades
+<|end_objective|>
+<|begin_tasks|>
+ask Esbern to send the Blades to the dragon
+<|end_tasks|>
+<|begin_quest_giver|>
+Esbern: a member of the Blades
+<|end_quest_giver|>
+<|begin_task_locations|>
+NONE: 
+<|end_task_locations|>
+<|begin_rewards|>
+: the dragon's soul (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Dragonborn: the only person who can defeat dragons for good (location: )
+<|end_characters|>
+<|begin_groups|>
+Blades: an intelligence organization (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 The Blades of the old hunted down many dragons in their day, and they have records of where the beasts lived. Only you can truly defeat these monsters, Dragonborn, but you do not have to do so alone. The Blades can help you. Just ask whenever you're ready to take on a dragon. We will send the Blades to help you fulfill your destiny. The dragon's soul should make you stronger.

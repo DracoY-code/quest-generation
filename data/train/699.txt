@@ -1,21 +1,18 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Look Mom, I Made a Dagger!
-Objective: help a blacksmith
-First Tasks: smith an iron dagger
-First Task Locations: NONE - 
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: NONE
-Tools: the blacksmith gives the player everything the player needs to make an iron dagger
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+help a blacksmith
+<|end_objective|>
+<|begin_tasks|>
+smith an iron dagger
+<|end_tasks|>
+<|begin_quest_giver|>
+: a blacksmith
+<|end_quest_giver|>
+<|begin_task_locations|>
+NONE: 
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|end_quest|>
 I could use some help around the forge. How about you smith me an iron dagger? Here's everything you need to make one. Go ahead.

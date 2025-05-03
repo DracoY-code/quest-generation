@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Filial Bonds
-Objective: find Torkild
-First Tasks: see if Torkild is with the werebears of the glacier
-First Task Locations: NONE - 
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Torkild - Wulf Wild-Blood's brother, a wild man and a fearsome warrior (location: )
-Tools: Torkild may have become a werebear: a bear-like cursed creature
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+find Torkild
+<|end_objective|>
+<|begin_tasks|>
+see if Torkild is with the werebears of the glacier
+<|end_tasks|>
+<|begin_quest_giver|>
+Wulf Wild-Blood: a hunter, and a worried brother
+<|end_quest_giver|>
+<|begin_task_locations|>
+NONE: 
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Torkild: Wulf Wild-Blood's brother, a wild man and a fearsome warrior (location: )
+<|end_characters|>
+<|end_quest|>
 In days past, my brother Torkild and I would share the hunt, but that was... long ago. Torkild had a wild gleam in his eye, more than most. In my darkest times, I fear he fell in among the werebears of the glacier. Werebears are twisted, cursed beasts. True bears are noble and great creatures of the wild. I've heard tell of men who, by curse or by heart's desire, become transformed into one of those vile things. It is a pitiable fate. And one that I fear has fallen to my brother. If you happen to cross his path, be wary. He was a fierce warrior as a man. If he fell prey to his more bestial side, he could be deadly.

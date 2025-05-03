@@ -1,21 +1,24 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Musings of a Madman
-Objective: bring Spook's new book to Kant
-First Tasks: find Spook
-First Task Locations:  - an igloo to the north
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - an enchanted book (amount: 1)
-Characters: Spook - a madman who writes novels (location: an igloo to the north)
-Tools: the player is a known villain
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Minecraft
-Motivation: knowledge
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+bring Spook's new book to Kant
+<|end_objective|>
+<|begin_tasks|>
+find Spook
+<|end_tasks|>
+<|begin_quest_giver|>
+Kant: a fearless bookworm
+<|end_quest_giver|>
+<|begin_task_locations|>
+: an igloo to the north
+<|end_task_locations|>
+<|begin_rewards|>
+: an enchanted book (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Spook: a madman who writes novels (location: an igloo to the north)
+<|end_characters|>
+<|begin_motivation|>
+knowledge
+<|end_motivation|>
+<|end_quest|>
 Oh... You're that dark villain. This is just like one of my adventure novels! So exciting! Perhaps you happen to know Spook. He's a kooky novelist who lives in an igloo to the north. You should get along with him splendidly! And whole you are there, you could even get his new book for me. I need to know what events unfold in that one! Evil machinations need funding, don't they? Well, do my little book-fetching mission, and gain an enchanted book. I love books, but that one flew over my head... literally!.

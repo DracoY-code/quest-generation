@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: A Blade in the Dark
-Objective: help Delphine stop dragons from coming back to life
-First Tasks: go to an ancient dragon burial with Delphine, and kill a dragon
-First Task Locations: Kynesgrove - a village
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - Delphine will tell the player everything she knows (amount: 1)
-Characters: NONE
-Tools: the Blades killed the dragons off centuries ago
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: Blades - an intelligence service
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+help Delphine stop dragons from coming back to life
+<|end_objective|>
+<|begin_tasks|>
+go to an ancient dragon burial with Delphine, and kill a dragon
+<|end_tasks|>
+<|begin_quest_giver|>
+Delphine: a member of the Blades
+<|end_quest_giver|>
+<|begin_task_locations|>
+Kynesgrove: a village
+<|end_task_locations|>
+<|begin_rewards|>
+: Delphine will tell the player everything she knows (amount: 1)
+<|end_rewards|>
+<|begin_groups|>
+Blades: an intelligence service (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 Dragons aren't just coming back, they're coming back to life. They weren't gone somewhere for all these years. They were dead, killed off centuries ago by my predecessors. Now something's happening to bring them back to life. And I need you to help me stop it. I've visited their ancient burial mounds and found them empty. And I've figured out where the next one will come back to life. We're going to go there, and you're going to kill that dragon. If we succeed, I'll tell you anything you want to know. We are going to Kynesgrove. There's an ancient dragon burial near there. If we can get there before the dragon comes back, maybe we'll learn how to stop it.

@@ -1,21 +1,22 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Kill Killian
-Objective: Eliminate Killian Darkwater to secure Gizmo's control over Junktown.
-First Tasks: Speak to Gizmo and agree to his offer., Prepare for the fight by acquiring weapons and supplies., Attack and kill Killian Darkwater.
-First Task Locations: Gizmo’s Casino - The location where Gizmo hires the player for the job., Darkwater General Store - Killian’s shop and the place where the assassination attempt happens.
-Quest Giver: NONE - NONE (location: NONE)
-Reward: Caps - A monetary reward from Gizmo for completing the assassination. (amount: 500), Gizmo's Favor - Access to Gizmo’s resources and potential further work. (amount: 1)
-Characters: NONE
-Tools: Weapons, Stealth Skill, Combat Strategy
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Fallout
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+Eliminate Killian Darkwater to secure Gizmo's control over Junktown.
+<|end_objective|>
+<|begin_tasks|>
+Speak to Gizmo and agree to his offer.
+Prepare for the fight by acquiring weapons and supplies.
+Attack and kill Killian Darkwater.
+<|end_tasks|>
+<|begin_quest_giver|>
+Gizmo: A casino owner seeking to remove Killian and take over Junktown.
+<|end_quest_giver|>
+<|begin_task_locations|>
+Gizmo’s Casino: The location where Gizmo hires the player for the job.
+Darkwater General Store: Killian’s shop and the place where the assassination attempt happens.
+<|end_task_locations|>
+<|begin_rewards|>
+Caps: A monetary reward from Gizmo for completing the assassination. (amount: 500)
+Gizmo's Favor: Access to Gizmo’s resources and potential further work. (amount: 1)
+<|end_rewards|>
+<|end_quest|>
 Gizmo wants Killian Darkwater dead to solidify his hold over Junktown. The player can choose to accept this task and assassinate Killian, altering the power balance in Junktown. This decision influences how the town views the player and changes future interactions.

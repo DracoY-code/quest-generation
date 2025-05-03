@@ -1,21 +1,24 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Nadine and Euric
-Objective: give Euric a good luck talisman and return to Nadine
-First Tasks: find Euric
-First Task Locations: Baldur's Gate - a city
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - a necklace (amount: 1)
-Characters: Euric - Nadine's youngest son, who knows how to take care of himself (location: Baldur's Gate)
-Tools: Euric ran away from home, Nadine gives the player a good luck talisman
-Locations: NONE
-Items: a good luck talisman - a talisman (amount: 1)
-Enemies: NONE
-Groups: NONE
-Title: Baldur's Gate
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+give Euric a good luck talisman and return to Nadine
+<|end_objective|>
+<|begin_tasks|>
+find Euric
+<|end_tasks|>
+<|begin_quest_giver|>
+Nadine: a worried mother
+<|end_quest_giver|>
+<|begin_task_locations|>
+Baldur's Gate: a city
+<|end_task_locations|>
+<|begin_rewards|>
+: a necklace (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Euric: Nadine's youngest son, who knows how to take care of himself (location: Baldur's Gate)
+<|end_characters|>
+<|begin_items|>
+a good luck talisman: a talisman (amount: 1)
+<|end_items|>
+<|end_quest|>
 I, Nadine, desperately need someone's help. Euric, my youngest son, has run away again... He's always had a touch of the wanderer in him and he knows how to take care of himself, but... Oh, I'm just worried sick. This city gets more dangerous every day... If you find him, could you give him this good luck talisman? I'm sure we'd all sleep a little better. Let me give you this necklace as a token of my thanks upon your return. I don't know if it's worth anything but it has been in the family for years.

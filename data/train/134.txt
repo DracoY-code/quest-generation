@@ -1,21 +1,22 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Stop Gizmo
-Objective: Gather evidence against Gizmo or kill him to stop his criminal activities.
-First Tasks: Speak with Killian Darkwater about Gizmo., Obtain evidence of Gizmo’s assassination attempt., Decide whether to arrest or kill Gizmo.
-First Task Locations: Darkwater’s General Store - Killian Darkwater’s store in Junktown where he discusses Gizmo’s crimes., Gizmo’s Casino - A gambling den where Gizmo operates his criminal activities.
-Quest Giver: NONE - NONE (location: NONE)
-Reward: Caps - A monetary reward for taking down Gizmo. (amount: 500), Karma Increase - Improves player reputation in Junktown. (amount: 1)
-Characters: NONE
-Tools: Tape Recorder, Weapons, Speech
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Fallout
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+Gather evidence against Gizmo or kill him to stop his criminal activities.
+<|end_objective|>
+<|begin_tasks|>
+Speak with Killian Darkwater about Gizmo.
+Obtain evidence of Gizmo’s assassination attempt.
+Decide whether to arrest or kill Gizmo.
+<|end_tasks|>
+<|begin_quest_giver|>
+Killian Darkwater: The mayor and store owner of Junktown, seeking to remove Gizmo.
+<|end_quest_giver|>
+<|begin_task_locations|>
+Darkwater’s General Store: Killian Darkwater’s store in Junktown where he discusses Gizmo’s crimes.
+Gizmo’s Casino: A gambling den where Gizmo operates his criminal activities.
+<|end_task_locations|>
+<|begin_rewards|>
+Caps: A monetary reward for taking down Gizmo. (amount: 500)
+Karma Increase: Improves player reputation in Junktown. (amount: 1)
+<|end_rewards|>
+<|end_quest|>
 Gizmo, the crime lord of Junktown, is suspected of plotting an assassination. The player must gather proof of his crimes by recording his confession or killing him directly. Completing the quest earns the player rewards and improves their reputation.

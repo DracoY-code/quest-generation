@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Deliver a meal to Smitty for Mom
-Objective: Take a meal from Mom's Diner and deliver it to Smitty.
-First Tasks: Pick up the meal from Mom at Mom's Diner., Deliver the meal to Smitty at his workshop.
-First Task Locations: Mom's Diner - A small diner in The Den run by Mom, who provides food for the locals., Smitty's Workshop - A mechanic's workshop in The Den where Smitty works.
-Quest Giver: NONE - NONE (location: NONE)
-Reward: Caps - A small monetary reward for delivering the meal. (amount: 50), Karma - A small positive karma boost for helping out a community member. (amount: NONE)
-Characters: NONE
-Tools: None required, just deliver the meal.
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Fallout 2
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+Take a meal from Mom's Diner and deliver it to Smitty.
+<|end_objective|>
+<|begin_tasks|>
+Pick up the meal from Mom at Mom's Diner.
+Deliver the meal to Smitty at his workshop.
+<|end_tasks|>
+<|begin_quest_giver|>
+Mom: The owner of Mom's Diner, who wants to send a meal to Smitty.
+<|end_quest_giver|>
+<|begin_task_locations|>
+Mom's Diner: A small diner in The Den run by Mom, who provides food for the locals.
+Smitty's Workshop: A mechanic's workshop in The Den where Smitty works.
+<|end_task_locations|>
+<|begin_rewards|>
+Caps: A small monetary reward for delivering the meal. (amount: 50)
+Karma: A small positive karma boost for helping out a community member. (amount: NONE)
+<|end_rewards|>
+<|end_quest|>
 Mom wants to send a meal to Smitty, the local mechanic in The Den. Your task is to take the food to him and ensure he gets it.

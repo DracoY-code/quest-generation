@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: The Break of Dawn
-Objective: kill Malkoran, and retrieve the Dawnbreaker
-First Tasks: enter Kilkreath
-First Task Locations: Kilkreath - Meridia's shrine
-Quest Giver: NONE - NONE (location: NONE)
-Reward: Dawnbreaker - Meridia's token, a mighty sword that burns undead (amount: 1)
-Characters: Malkoran - a necromancer who defiles Kilkreath and traps the souls of the people killed in the ongoing war (location: )
-Tools: NONE
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+kill Malkoran, and retrieve the Dawnbreaker
+<|end_objective|>
+<|begin_tasks|>
+enter Kilkreath
+<|end_tasks|>
+<|begin_quest_giver|>
+Meridia: the lady of light, a goddess
+<|end_quest_giver|>
+<|begin_task_locations|>
+Kilkreath: Meridia's shrine
+<|end_task_locations|>
+<|begin_rewards|>
+Dawnbreaker: Meridia's token, a mighty sword that burns undead (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Malkoran: a necromancer who defiles Kilkreath and traps the souls of the people killed in the ongoing war (location: )
+<|end_characters|>
+<|end_quest|>
 The Necromancer Malkoran defiles my shrine with vile corruptions, trapping lost souls left in the wake of this war to do his bidding. Worse still, he uses the power stored within my own token to fuel his foul deeds. Mortals call my token Dawnbreaker, for it was forged in a holy light that breaks upon my foes, burning away corruption and false life. You will enter my shrine, destroy Malkoran, and retrieve this mighty blade. I have brought you here, mortal, to be my champion. You will do this. I have commanded it!

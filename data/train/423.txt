@@ -1,21 +1,25 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: The Graveyard Lich
-Objective: save Malla by returning her soul to her
-First Tasks: kill Vongoethe
-First Task Locations:  - the cavern that serves as a graveyard in this place
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - Vongoethe has items that the player could take (amount: 1)
-Characters: Vongoethe - a powerful lich and wizard (location: the cavern), Malla - Marlowe's daughter, and a pure, young girl (location: Marlowe's home)
-Tools: Marlowe requested the player to see him before, Vongoethe chased Marlowe and Malla here, Vongoethe desired Malla's soul: he stole it, Malla lies near death, and there is nothing the local priestess can do to help her, the monks sealed off the cavern rather than getting Marlowe's daughter's soul, the guard guarding the cavern will let in whomever Marlowe asks
-Locations: Calimshan - a great city to the south (location: NONE)
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Baldur's Gate II: Shadows of Amn
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+save Malla by returning her soul to her
+<|end_objective|>
+<|begin_tasks|>
+kill Vongoethe
+<|end_tasks|>
+<|begin_quest_giver|>
+Marlowe: a worried father, who used to be a successful merchant in Calimshan
+<|end_quest_giver|>
+<|begin_task_locations|>
+: the cavern that serves as a graveyard in this place
+<|end_task_locations|>
+<|begin_rewards|>
+: Vongoethe has items that the player could take (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Vongoethe: a powerful lich and wizard (location: the cavern)
+Malla: Marlowe's daughter, and a pure, young girl (location: Marlowe's home)
+<|end_characters|>
+<|begin_locations|>
+Calimshan: a great city to the south (location: NONE)
+<|end_locations|>
+<|end_quest|>
 Welcome to my humble accommodations, adventurer. Will you hear out my tale? As I said before, my name is Marlowe... I hail from Calimshan to the south, where I was a merchant. A successful one. I... suppose that is where I first came into contact with Vongoethe. Vongoethe is a lich, adventurer. A powerful one. In Calimshan, there are many strange wonders of magic, and Vongoethe is not out of place. It is he who has chased us here, hunting us mercilessly. Vongoethe desired my poor Malla, my daughter. She is the young woman here on the bed. A... a good girl, a virgin and pure of heart. He desired her soul, he said, so I fled Calimshan with her. But he caught up to us nevertheless. And somehow he has taken her soul despite my efforts! She... she lies near death, and there is nothing the local priestess can do to help her. I know Vongoethe is in the cavern that serves as a graveyard in this place. I told the monks about him... but they sealed off the cavern rather than somehow getting my daughter's soul back as I had hoped. Malla is the world to me! And I do not know how much longer Vongoethe will remain trapped in that cavern... he could already be loose! He will kill me and keep Malla's soul, I am sure of it! Getting inside the cavern is not a problem. I... paid the guard there what little money I have left. I had thought to... try and get Malla's soul myself. But the guard will let in whomever I ask him to. I have no coin left to offer you. I have bankrupted myself in trying to flee the lich's reach. But... Vongoethe himself is a powerful wizard. Surely he has items that would interest you, that you could take from him!

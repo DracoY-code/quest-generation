@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Vai's Bounty Upon Bandits
-Objective: find out why the bandit raids have been getting worse
-First Tasks: kill all bandits
-First Task Locations: Sword Coast - a region
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - gold pieces per bandit scalp (amount: 50)
-Characters: NONE
-Tools: the bandits are working for someone
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: Flaming Fist - a mercenary organization promoting order and law
-Title: Baldur's Gate
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+find out why the bandit raids have been getting worse
+<|end_objective|>
+<|begin_tasks|>
+kill all bandits
+<|end_tasks|>
+<|begin_quest_giver|>
+Officer Vai: an officer of the Flaming Fist
+<|end_quest_giver|>
+<|begin_task_locations|>
+Sword Coast: a region
+<|end_task_locations|>
+<|begin_rewards|>
+: gold pieces per bandit scalp (amount: 50)
+<|end_rewards|>
+<|begin_groups|>
+Flaming Fist: a mercenary organization promoting order and law (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 I am Officer Vai of the Flaming Fist and, to be honest, I could use your help. The bandit raids have been getting worse. I used to think that they were just your usual brigands out to make a quick buck in troubled times, but not anymore. They're working for someone... Damn it, this is a fine mess, isn't it? I'll pay 50 gold pieces for every bandit scalp you can bring me — and spread the news. I want this whole region cleared, and I want to know what in the Nine Hells is going on here.

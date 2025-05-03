@@ -1,21 +1,26 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Caught Red Handed
-Objective: help Svana Far-Shield embarrass Haelga
-First Tasks: gather 3 Marks of Dibella from Bolli, Hofgrir and Indaryn, and confront Haelga with the Marks of Dibella
-First Task Locations: NONE - 
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Haelga - a devout female worshiper of Dibella (location: ), Dibella - the goddess of love and passion (location: ), Bolli, Hofgrir, Indaryn - the three men Haelga slept with (location: )
-Tools: when Haelga sleeps with a man, Haelga gives the man a Mark of Dibella
-Locations: NONE
-Items: Mark of Dibella, Marks of Dibella - tokens of Haelga's affection (amount: 3)
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+help Svana Far-Shield embarrass Haelga
+<|end_objective|>
+<|begin_tasks|>
+gather 3 Marks of Dibella from Bolli, Hofgrir and Indaryn, and confront Haelga with the Marks of Dibella
+<|end_tasks|>
+<|begin_quest_giver|>
+Svana Far-Shield: a woman who hates Haelga
+<|end_quest_giver|>
+<|begin_task_locations|>
+NONE: 
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Haelga: a devout female worshiper of Dibella (location: )
+Dibella: the goddess of love and passion (location: )
+Bolli, Hofgrir, Indaryn: the three men Haelga slept with (location: )
+<|end_characters|>
+<|begin_items|>
+Mark of Dibella, Marks of Dibella: tokens of Haelga's affection (amount: 3)
+<|end_items|>
+<|end_quest|>
 I hate Haelga! It's everything about her. She's disgusting. I think she takes her worship of Dibella a bit too seriously. Do you know she's slept with three different men in the last month alone? What kind of a woman would do such a thing? Just for once, I'd like to see her squirm... to rub her nose in it. Actually, there is a way to do this, but I don't think I could get away with doing it. She'd kill me if she found out. You see, I happen to know after she makes love, she gives her partner a token of her affection called a Mark of Dibella. If you confront her with three of the Marks of Dibella, she'd be so embarrassed... well, I don't know what she'd do! Oh, this is going to be great! You need to get the Marks of Dibella from Bolli, Hofgrir and Indaryn. Not sure how you're going to do that, but try your best. Then just confront Haelga with them and the rest works itself out.

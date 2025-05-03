@@ -1,21 +1,24 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: The Helpless Army
-Objective: free Brellach from Order
-First Tasks: talk to the messenger
-First Task Locations: NONE - 
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: NONE
-Tools: the player is Sheogorath's newest and only noble in the realm, a messenger told Sheogorath that Order has attacked Brellach and routed his soldiers
-Locations: Brellach - Sheogorath's army's stronghold (location: NONE)
-Items: NONE
-Enemies: NONE
-Groups: Order - Sheogorath's enemies who are not good at subterfuge
-Title: The Elder Scrolls IV: Oblivion
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+free Brellach from Order
+<|end_objective|>
+<|begin_tasks|>
+talk to the messenger
+<|end_tasks|>
+<|begin_quest_giver|>
+Sheogorath: an unhinged king
+<|end_quest_giver|>
+<|begin_task_locations|>
+NONE: 
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_locations|>
+Brellach: Sheogorath's army's stronghold (location: NONE)
+<|end_locations|>
+<|begin_groups|>
+Order: Sheogorath's enemies who are not good at subterfuge (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 There's a perfect job for you, my newest and only Noble in the realm! A messenger told me that Order has attacked my army's stronghold at Brellach and routed my soldiers! If Order has truly entered my army's stronghold, things have taken a disturbing turn. It means Order has tried subterfuge... not its strong suit. Amazing! Perhaps things aren't going as poorly as I'd imagined. You'll want to get all the details from the messenger. Unless you already have. You haven't, have you?

@@ -1,21 +1,24 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Kill the Forsworn Leader
-Objective: kill a Forsworn leader
-First Tasks: find the Forsworn leader
-First Task Locations: Serpent's Bluff Redoubt - a Forsworn camp
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: NONE
-Tools: NONE
-Locations: Markarth - a city (location: NONE)
-Items: NONE
-Enemies: NONE
-Groups: Forsworn - savages practicing banditry
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+kill a Forsworn leader
+<|end_objective|>
+<|begin_tasks|>
+find the Forsworn leader
+<|end_tasks|>
+<|begin_quest_giver|>
+Igmund: an honorable nobleman who rules over Markarth
+<|end_quest_giver|>
+<|begin_task_locations|>
+Serpent's Bluff Redoubt: a Forsworn camp
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_locations|>
+Markarth: a city (location: NONE)
+<|end_locations|>
+<|begin_groups|>
+Forsworn: savages practicing banditry (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 Are you a sellsword? I don't like your kind. No honor. No loyalty. Unreliable. But I can't turn away a potential ally in these times. Let's see if you're better than a common mercenary. My scouts have tracked down one of the Forsworn leaders, hiding out in their blood-soaked camps at Serpent's Bluff Redoubt. Deal with that Forsworn leader.

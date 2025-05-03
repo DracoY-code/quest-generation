@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: A Talkative Pet
-Objective: bring a tamed parrot to Olivia
-First Tasks: tame a parrot
-First Task Locations:  - jungles
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - a diamond (amount: 1)
-Characters: NONE
-Tools: Olivia gives the player seeds that can be used to tame a parrot
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Minecraft
-Motivation: reputation
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+bring a tamed parrot to Olivia
+<|end_objective|>
+<|begin_tasks|>
+tame a parrot
+<|end_tasks|>
+<|begin_quest_giver|>
+Olivia: a responsible child
+<|end_quest_giver|>
+<|begin_task_locations|>
+: jungles
+<|end_task_locations|>
+<|begin_rewards|>
+: a diamond (amount: 1)
+<|end_rewards|>
+<|begin_motivation|>
+reputation
+<|end_motivation|>
+<|end_quest|>
 My mommy and daddy say that I can't go outside the village. I don't! But I really wanna have a parrot. The other kids would certainly like me better if I had a cool pet like a parrot! You a big enough to travel to places on your own without your parents. Traveler, please tame a parrot and bring it to me. I even have some seeds for you: tame the parrot with them. Parrots live in jungles. I will give you this diamond I once found on the ground. Even a kid like me knows that those are valuable.

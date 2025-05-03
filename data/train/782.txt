@@ -1,21 +1,29 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Vahtacen's Secret
-Objective: help with Irlav Jarol's research project at Vahtacen
-First Tasks: talk to Irlav Jarol
-First Task Locations: Arch Mage's Tower - in Arcane University
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Irlav Jarol - a male mage (location: Arch Mage's Tower)
-Tools: there are no Necromancers involved in this task
-Locations: Arcane University - a university for mages (location: NONE), Vahtacen - one of the Ayleid ruin sites on the eastern side of the province (location: NONE)
-Items: NONE
-Enemies: NONE
-Groups: Mages Guild - a guild of mages, Ayleid - a lost race of people
-Title: The Elder Scrolls IV: Oblivion
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+help with Irlav Jarol's research project at Vahtacen
+<|end_objective|>
+<|begin_tasks|>
+talk to Irlav Jarol
+<|end_tasks|>
+<|begin_quest_giver|>
+Raminus Polus: the player's superior at the Mages Guild
+<|end_quest_giver|>
+<|begin_task_locations|>
+Arch Mage's Tower: in Arcane University
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Irlav Jarol: a male mage (location: Arch Mage's Tower)
+<|end_characters|>
+<|begin_locations|>
+Arcane University: a university for mages (location: NONE)
+Vahtacen: one of the Ayleid ruin sites on the eastern side of the province (location: NONE)
+<|end_locations|>
+<|begin_groups|>
+Mages Guild: a guild of mages (amount: NONE)
+Ayleid: a lost race of people (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 I, Raminus Polus, have a new task for you, and I assure you there are no Necromancers involved. There's a research project going on at Vahtacen, one of the Ayleid ruin sites on the eastern side of the province. Irlav Jarol is in charge of the project, and is apparently in need of some help. I thought you might need a break, after the things you've been exposed to lately. You can find Irlav here in the Arch Mage's Tower.

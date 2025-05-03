@@ -1,21 +1,24 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Fleeting Strength
-Objective: give a Potion of Strength to Mister Meek
-First Tasks: obtain a Potion of Strength
-First Task Locations: NONE - 
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - diamond (amount: 1)
-Characters: NONE
-Tools: Mister Meek has heard that the player help people
-Locations: NONE
-Items: Potion of Strength - a strength potion (amount: 1)
-Enemies: NONE
-Groups: NONE
-Title: Minecraft
-Motivation: comfort
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+give a Potion of Strength to Mister Meek
+<|end_objective|>
+<|begin_tasks|>
+obtain a Potion of Strength
+<|end_tasks|>
+<|begin_quest_giver|>
+Mister Meek: a weak man
+<|end_quest_giver|>
+<|begin_task_locations|>
+NONE: 
+<|end_task_locations|>
+<|begin_rewards|>
+: diamond (amount: 1)
+<|end_rewards|>
+<|begin_items|>
+Potion of Strength: a strength potion (amount: 1)
+<|end_items|>
+<|begin_motivation|>
+comfort
+<|end_motivation|>
+<|end_quest|>
 You're the one who's been helping people, right? Well, now you could help me too. You see, I need to get my hands on a Potion of Strength. I'm not the strongest person around: for once, I'd like to carry things around as if they were mere feathers. Give me the potion, and receive a precious diamond in return.

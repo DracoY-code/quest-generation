@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: On the Alchemist's Trail
-Objective: stop the Alchemist
-First Tasks: go after the Alchemist
-First Task Locations: Broken Mines - mines
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Alchemist - the player's desperate male enemy (location: Broken Mines)
-Tools: the Alchemist went into the Broken Mines: he is nearing his goal
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Torchlight II
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+stop the Alchemist
+<|end_objective|>
+<|begin_tasks|>
+go after the Alchemist
+<|end_tasks|>
+<|begin_quest_giver|>
+Professor Stoker: the player's ally
+<|end_quest_giver|>
+<|begin_task_locations|>
+Broken Mines: mines
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Alchemist: the player's desperate male enemy (location: Broken Mines)
+<|end_characters|>
+<|end_quest|>
 This is the only entrance to the Broken Mines that we've found, so the Alchemist is almost certainly in there. That probably means he's near his goal, whatever that is... and that means he'll do everything he can to keep you from stopping him. He'll be even more desperate, more dangerous. I don't know what we'll encounter in there.

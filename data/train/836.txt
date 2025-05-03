@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Waters of Life
-Objective: help the villagers of Desert Refuge obtain a permanent source of water
-First Tasks: build a well in Desert Refuge
-First Task Locations: Desert Refuge - a village in a desert
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - a bucket of lava (amount: 1)
-Characters: NONE
-Tools: the player is a friend of Jesse
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Minecraft
-Motivation: comfort
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+help the villagers of Desert Refuge obtain a permanent source of water
+<|end_objective|>
+<|begin_tasks|>
+build a well in Desert Refuge
+<|end_tasks|>
+<|begin_quest_giver|>
+Jesse: a thirsty villager
+<|end_quest_giver|>
+<|begin_task_locations|>
+Desert Refuge: a village in a desert
+<|end_task_locations|>
+<|begin_rewards|>
+: a bucket of lava (amount: 1)
+<|end_rewards|>
+<|begin_motivation|>
+comfort
+<|end_motivation|>
+<|end_quest|>
 Hail friend! It's good to see you. I'd offer you something to drink, but I'm running low on refreshments, and quite thirsty myself. We are in a desert, after all. There's not much water around... Now that I think of it... You could actually help the whole Desert Refuge by obtaining us a permanent source of water! Build us a well, please. Ahh, I can already taste the fresh water on my lips... I could give you this bucket of lava in exchange for a well. Just don't do anything mischievous with it, or burn yourself!

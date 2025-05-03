@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: A Playful Panda
-Objective: bring a playful panda to Garth
-First Tasks: find a playful panda, and put a lead on it
-First Task Locations: NONE - 
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - a saddle (amount: 1)
-Characters: NONE
-Tools: the player is an infamous person, Garth gives the player a lead
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Minecraft
-Motivation: reputation
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+bring a playful panda to Garth
+<|end_objective|>
+<|begin_tasks|>
+find a playful panda, and put a lead on it
+<|end_tasks|>
+<|begin_quest_giver|>
+Garth: an aspiring zookeeper
+<|end_quest_giver|>
+<|begin_task_locations|>
+NONE: 
+<|end_task_locations|>
+<|begin_rewards|>
+: a saddle (amount: 1)
+<|end_rewards|>
+<|begin_motivation|>
+reputation
+<|end_motivation|>
+<|end_quest|>
 You have got quite a reputation. Not a very positive one, mind you! I, on the other hand, seek to become famous in more positive terms: I want to become a zookeeper. For that I'm going to need some animals to showcase. There exist special, playful pandas who love to roll around. I want one. This is your chance to bring a bit joy to this world: bring me a playful panda for my zoo. First, you have to find one and put a lead on it. Here, take this lead. When you return with the panda, I'll give you a saddle in return.

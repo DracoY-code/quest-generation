@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Word of the Gods
-Objective: convince the villagers of Woodridge come to the temple more often
-First Tasks: talk to the villagers
-First Task Locations: Woodridge - a village
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - bottles of enchanting (amount: 10)
-Characters: NONE
-Tools: NONE
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Minecraft
-Motivation: serenity
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+convince the villagers of Woodridge come to the temple more often
+<|end_objective|>
+<|begin_tasks|>
+talk to the villagers
+<|end_tasks|>
+<|begin_quest_giver|>
+: a concerned cleric
+<|end_quest_giver|>
+<|begin_task_locations|>
+Woodridge: a village
+<|end_task_locations|>
+<|begin_rewards|>
+: bottles of enchanting (amount: 10)
+<|end_rewards|>
+<|begin_motivation|>
+serenity
+<|end_motivation|>
+<|end_quest|>
 People do not care about the gods any more! The temple of gods in this village remains empty! My child, could you convince the villagers of Woodridge come to the temple more often? It would do good to their everlasting souls. Please, talk to the villagers of Woodridge. Do this, and I'll be sure to reward you well with 10 bottles of enchanting.

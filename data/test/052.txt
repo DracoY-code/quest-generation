@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Deliver Slag message to Jo in Modoc
-Objective: Deliver the message from the Slags to Jo in Modoc and mediate peace between them.
-First Tasks: Receive the message from the Slags., Travel back to Modoc., Deliver the message to Jo and discuss its contents.
-First Task Locations: Ghost Farm - The home of the Slags, a mysterious group living beneath the farm.
-Quest Giver: NONE - NONE (location: NONE)
-Reward: Caps - A monetary reward for successfully delivering the message. (amount: 500), Potential Peace Between Modoc and the Slags - If successful, Modoc and the Slags can coexist peacefully. (amount: NONE)
-Characters: NONE
-Tools: Speech skill to negotiate peace., Charisma to convince Jo to listen to the Slags., Knowledge of the Slags’ true nature to counter any misconceptions.
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Fallout 2
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+Deliver the message from the Slags to Jo in Modoc and mediate peace between them.
+<|end_objective|>
+<|begin_tasks|>
+Receive the message from the Slags.
+Travel back to Modoc.
+Deliver the message to Jo and discuss its contents.
+<|end_tasks|>
+<|begin_quest_giver|>
+Vegeir: The leader of the Slags who wants to establish peaceful relations with Modoc.
+<|end_quest_giver|>
+<|begin_task_locations|>
+Ghost Farm: The home of the Slags, a mysterious group living beneath the farm.
+<|end_task_locations|>
+<|begin_rewards|>
+Caps: A monetary reward for successfully delivering the message. (amount: 500)
+Potential Peace Between Modoc and the Slags: If successful, Modoc and the Slags can coexist peacefully. (amount: NONE)
+<|end_rewards|>
+<|end_quest|>
 The Slags seek to establish peaceful relations with Modoc. Your task is to deliver their message to Jo and convince him to accept their terms.

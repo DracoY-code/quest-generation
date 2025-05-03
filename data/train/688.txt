@@ -1,21 +1,24 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: New Materials
-Objective: bring 10 scutes to Dean
-First Tasks: obtain 10 scutes from turtles
-First Task Locations:  - sandy beaches
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - a stack of leather (amount: 1)
-Characters: NONE
-Tools: Dean has heard that the player helps people
-Locations: NONE
-Items:  - scutes (amount: 10)
-Enemies: NONE
-Groups: NONE
-Title: Minecraft
-Motivation: knowledge
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+bring 10 scutes to Dean
+<|end_objective|>
+<|begin_tasks|>
+obtain 10 scutes from turtles
+<|end_tasks|>
+<|begin_quest_giver|>
+Dean: a depressed leatherworker
+<|end_quest_giver|>
+<|begin_task_locations|>
+: sandy beaches
+<|end_task_locations|>
+<|begin_rewards|>
+: a stack of leather (amount: 1)
+<|end_rewards|>
+<|begin_items|>
+: scutes (amount: 10)
+<|end_items|>
+<|begin_motivation|>
+knowledge
+<|end_motivation|>
+<|end_quest|>
 I have made all sorts of things from leather: tunics, hats, and even little tent-houses. There's nothing new I can create... Could you perhaps help me out of this sea of creative depression? You do help people? Please find me a new material to work with! Perhaps turtle scutes would work... Please help me get my hands on ten scutes: you can get them from turtles on sandy beaches. I'll give you a stack of leather for your services!

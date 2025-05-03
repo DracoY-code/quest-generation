@@ -1,21 +1,18 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: A Child in the Lighthouse
-Objective: save Ardrouine's little son from worgs
-First Tasks: go to the abandoned lighthouse
-First Task Locations:  - abandoned lighthouse to the northwest
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - coins (amount: 60)
-Characters: NONE
-Tools: NONE
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Baldur's Gate
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+save Ardrouine's little son from worgs
+<|end_objective|>
+<|begin_tasks|>
+go to the abandoned lighthouse
+<|end_tasks|>
+<|begin_quest_giver|>
+Ardrouine: a distressed mother
+<|end_quest_giver|>
+<|begin_task_locations|>
+: abandoned lighthouse to the northwest
+<|end_task_locations|>
+<|begin_rewards|>
+: coins (amount: 60)
+<|end_rewards|>
+<|end_quest|>
 Please help me, I am just poor Ardrouine! I don't know where else to turn. My little boy was playing in that abandoned lighthouse to the northwest when a pack of worgs surrounded it. Please just turn them back, and I can coax him down. There's not much time! I can pay you 60 coins: this money is all my husband brought back from market this past week. My son's life is worth this and so much more.

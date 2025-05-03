@@ -1,21 +1,20 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Free the Metzger slaves
-Objective: Rescue the slaves held by Metzger in The Den.
-First Tasks: Find a way to unlock the slave cages at the Slaver's Guild., Eliminate Metzger and his guards if necessary.
-First Task Locations: The Den - A town where Metzger operates the Slaver's Guild, holding people captive.
-Quest Giver: NONE - NONE (location: NONE)
-Reward: Gratitude from the freed slaves - The former slaves will be thankful for their freedom. (amount: NONE), Improved karma - Your actions will be seen as heroic by those opposed to slavery. (amount: NONE)
-Characters: NONE
-Tools: Lockpicks or electronic lockpick to unlock the cages., Weapons and armor to fight Metzger and his guards if needed.
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Fallout 2
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+Rescue the slaves held by Metzger in The Den.
+<|end_objective|>
+<|begin_tasks|>
+Find a way to unlock the slave cages at the Slaver's Guild.
+Eliminate Metzger and his guards if necessary.
+<|end_tasks|>
+<|begin_quest_giver|>
+Various freed slaves (implicit): The enslaved people in The Den seek freedom from Metzger's control.
+<|end_quest_giver|>
+<|begin_task_locations|>
+The Den: A town where Metzger operates the Slaver's Guild, holding people captive.
+<|end_task_locations|>
+<|begin_rewards|>
+Gratitude from the freed slaves: The former slaves will be thankful for their freedom. (amount: NONE)
+Improved karma: Your actions will be seen as heroic by those opposed to slavery. (amount: NONE)
+<|end_rewards|>
+<|end_quest|>
 Metzger holds people captive as slaves in The Den. You must find a way to free them, either through stealth or by eliminating their captors.

@@ -1,21 +1,24 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Prism's Emeralds
-Objective: return 2 emeralds to Oublek
-First Tasks: find Prism the Sculptor
-First Task Locations: NONE - 
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - gold (amount: 300)
-Characters: Prism the Sculptor - a local artist (location: )
-Tools: Oublek knows the player, Prism the Sculptor stole 2 emeralds, Prism the Sculptor can live or die
-Locations: NONE
-Items:  - emeralds (amount: 2)
-Enemies: NONE
-Groups: NONE
-Title: Baldur's Gate
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+return 2 emeralds to Oublek
+<|end_objective|>
+<|begin_tasks|>
+find Prism the Sculptor
+<|end_tasks|>
+<|begin_quest_giver|>
+Oublek: a man who hands out bounties on criminals
+<|end_quest_giver|>
+<|begin_task_locations|>
+NONE: 
+<|end_task_locations|>
+<|begin_rewards|>
+: gold (amount: 300)
+<|end_rewards|>
+<|begin_characters|>
+Prism the Sculptor: a local artist (location: )
+<|end_characters|>
+<|begin_items|>
+: emeralds (amount: 2)
+<|end_items|>
+<|end_quest|>
 It's me, Oublek. A bit of nonsense from a local artist named Prism. Made off with a couple of emeralds, he did. There is a reward for the return of the gems: a 300 gold bounty. Prism's fate is of less importance.

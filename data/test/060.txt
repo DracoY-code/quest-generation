@@ -1,21 +1,30 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Under the Table
-Objective: make a delivery for Romlyn Dreth
-First Tasks: smuggle a small Black-Briar Mead keg to Wilhelm
-First Task Locations: Vilemyr Inn - an inn in Ivarstead
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - Wilhelm will trade the player something for the Black-Briar Mead keg (amount: 1)
-Characters: Wilhelm - a male innkeeper (location: Vilemyr Inn), Indaryn - a male employee of the Black-Briar Meadery (location: Riften)
-Tools: if the player bumps into Indaryn, they should not tell him anything about Romlyn Dreth's dealings
-Locations: Riften - a city (location: NONE), Black-Briar Meadery - a meadery in Riften that produces Black-Briar Mead (location: NONE), Ivarstead - a town (location: NONE)
-Items: Black-Briar Mead - famous, good mead (amount: 1)
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+make a delivery for Romlyn Dreth
+<|end_objective|>
+<|begin_tasks|>
+smuggle a small Black-Briar Mead keg to Wilhelm
+<|end_tasks|>
+<|begin_quest_giver|>
+Romlyn Dreth: a black market mead salesman
+<|end_quest_giver|>
+<|begin_task_locations|>
+Vilemyr Inn: an inn in Ivarstead
+<|end_task_locations|>
+<|begin_rewards|>
+: Wilhelm will trade the player something for the Black-Briar Mead keg (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Wilhelm: a male innkeeper (location: Vilemyr Inn)
+Indaryn: a male employee of the Black-Briar Meadery (location: Riften)
+<|end_characters|>
+<|begin_locations|>
+Riften: a city (location: NONE)
+Black-Briar Meadery: a meadery in Riften that produces Black-Briar Mead (location: NONE)
+Ivarstead: a town (location: NONE)
+<|end_locations|>
+<|begin_items|>
+Black-Briar Mead: famous, good mead (amount: 1)
+<|end_items|>
+<|end_quest|>
 I'm not selling cheap mead. I'm selling good mead for cheap... Black-Briar Mead. I sell cases of it for half of what the inns and taverns pay through the Black-Briar Meadery. If anyone saw me leave Riften, they'd get suspicious. I need someone to take this small keg of Black-Briar Mead to Wilhelm at the Vilemyr Inn in Ivarstead. Drop it off and he'll trade you something for the delivery. Keep it as payment for the legwork. Oh, and if you bump into Indaryn from the meadery, keep your mouth shut. He'd rat us out in a second.

@@ -1,21 +1,24 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Zhurlong's Missing Boots
-Objective: return Zhurlong's Boots of Stealth to their owner
-First Tasks: find the hobgoblins who stole Zhurlong's Boots of Stealth
-First Task Locations:  - the badlands to the south of Beregost
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - gold pieces (amount: 100)
-Characters: NONE
-Tools: NONE
-Locations: Beregost - a town (location: NONE)
-Items: Boots of Stealth - nice boots (amount: 1)
-Enemies: NONE
-Groups: NONE
-Title: Baldur's Gate
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+return Zhurlong's Boots of Stealth to their owner
+<|end_objective|>
+<|begin_tasks|>
+find the hobgoblins who stole Zhurlong's Boots of Stealth
+<|end_tasks|>
+<|begin_quest_giver|>
+Zhurlong: a thief
+<|end_quest_giver|>
+<|begin_task_locations|>
+: the badlands to the south of Beregost
+<|end_task_locations|>
+<|begin_rewards|>
+: gold pieces (amount: 100)
+<|end_rewards|>
+<|begin_locations|>
+Beregost: a town (location: NONE)
+<|end_locations|>
+<|begin_items|>
+Boots of Stealth: nice boots (amount: 1)
+<|end_items|>
+<|end_quest|>
 Hey, I'm Zhurlong! What is a thief to do, huh? You invest in some Boots of Stealth, you set up shop in the badlands to the south of Beregost and then, WHAM... Along comes a tribe of hobgoblins and they tear the boots from right off your feet! Damn-blasted hobgoblin bullies... I'll pay you 100 gold pieces to show them who's boss and get those boots back...

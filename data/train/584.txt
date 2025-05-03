@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: A Tab to Pay
-Objective: convince Ranmir pay his debts to Haran
-First Tasks: talk to Ranmir
-First Task Locations: The Frozen Hearth - a tavern
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Ranmir - a male drunk (location: The Frozen Hearth)
-Tools: NONE
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+convince Ranmir pay his debts to Haran
+<|end_objective|>
+<|begin_tasks|>
+talk to Ranmir
+<|end_tasks|>
+<|begin_quest_giver|>
+Haran: a bartender
+<|end_quest_giver|>
+<|begin_task_locations|>
+The Frozen Hearth: a tavern
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Ranmir: a male drunk (location: The Frozen Hearth)
+<|end_characters|>
+<|end_quest|>
 Ranmir owes this tavern enough coin to burn it down, build it back up, then burn it down again just for laughs. He's had some troubles in his life, but I can't have him drinking here without at least paying back some of the coin he owes. Go right ahead and talk to him. He just might be sober enough to listen to you.

@@ -1,21 +1,27 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: The Unfortunate Shopkeeper
-Objective: stop the break-ins to Quality Merchandise
-First Tasks: talk to Norbert Lelles
-First Task Locations: Quality Merchandise - Norbert Lelles' shop in Anvil
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Norbert Lelles - a male merchant (location: Quality Merchandise)
-Tools: the player has worked for Azzan before
-Locations: Anvil - a city (location: NONE)
-Items: NONE
-Enemies: NONE
-Groups: Fighters Guild - a mercenary guild
-Title: The Elder Scrolls IV: Oblivion
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+stop the break-ins to Quality Merchandise
+<|end_objective|>
+<|begin_tasks|>
+talk to Norbert Lelles
+<|end_tasks|>
+<|begin_quest_giver|>
+Azzan: the player's superior in the Fighters Guild
+<|end_quest_giver|>
+<|begin_task_locations|>
+Quality Merchandise: Norbert Lelles' shop in Anvil
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Norbert Lelles: a male merchant (location: Quality Merchandise)
+<|end_characters|>
+<|begin_locations|>
+Anvil: a city (location: NONE)
+<|end_locations|>
+<|begin_groups|>
+Fighters Guild: a mercenary guild (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 Looking for more work, eh? Good. I have got a contract for you. I'd like you to go talk to Norbert Lelles, here in Anvil. He runs Quality Merchandise here in Anvil. He's been having problems with break-ins, though, and he's hired us to put a stop to it. Sounds like he wants your help stopping the theft at his store. Take care of Lelles. He needs the help.

@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: The Potato Snatcher
-Objective: return the Jumbo Potatoes to S'jirra
-First Tasks: find the person who stole S'jirra's Jumbo Potatoes
-First Task Locations:  - the woods to the west
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - S'jirra's famous potato bread (amount: 1)
-Characters: NONE
-Tools: NONE
-Locations: NONE
-Items: Jumbo Potatoes - large potatoes cultivated by S'jirra (amount: 1)
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls IV: Oblivion
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+return the Jumbo Potatoes to S'jirra
+<|end_objective|>
+<|begin_tasks|>
+find the person who stole S'jirra's Jumbo Potatoes
+<|end_tasks|>
+<|begin_quest_giver|>
+S'jirra: a devastated woman
+<|end_quest_giver|>
+<|begin_task_locations|>
+: the woods to the west
+<|end_task_locations|>
+<|begin_rewards|>
+: S'jirra's famous potato bread (amount: 1)
+<|end_rewards|>
+<|begin_items|>
+Jumbo Potatoes: large potatoes cultivated by S'jirra (amount: 1)
+<|end_items|>
+<|end_quest|>
 Ohhhh... what am I, S'jirra, to do? They're gone... all gone. Can you help me find my lost Jumbo Potatoes? Please, you must help me find them! If I don't have them for the next batch of my famous potato bread, I don't know what I'll do! My potatoes are like my children. I care for and nurture each one individually. That way, they grow up to be big and strong. How stupid I was to leave them outside all alone like that! All I wanted to do was give them some sun. Next thing I knew, they were gone! I saw someone running off to the west, but I'm too frightened to journey into the woods alone. Please... can you help me? I'll give you my famous potato bread. I swear!

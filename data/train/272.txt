@@ -1,21 +1,25 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Onward to Zeryphesh!
-Objective: travel to Zeryphesh on the Imperial Railmaster's Embercraft
-First Tasks: tell the Imperial Railmaster when your ready to go
-First Task Locations: NONE - 
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Vanquisher - a female commander (location: )
-Tools: the Vanquisher told the Imperial Railmaster that the player is coming to him
-Locations: Zeryphesh - a town a couple of days travel away from here (location: NONE), Embercraft - a transportation device (location: NONE)
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Torchlight II
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+travel to Zeryphesh on the Imperial Railmaster's Embercraft
+<|end_objective|>
+<|begin_tasks|>
+tell the Imperial Railmaster when your ready to go
+<|end_tasks|>
+<|begin_quest_giver|>
+Imperial Railmaster: a transporter
+<|end_quest_giver|>
+<|begin_task_locations|>
+NONE: 
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Vanquisher: a female commander (location: )
+<|end_characters|>
+<|begin_locations|>
+Zeryphesh: a town a couple of days travel away from here (location: NONE)
+Embercraft: a transportation device (location: NONE)
+<|end_locations|>
+<|end_quest|>
 You're the one the Vanquisher lady told me about, then? Alright... whenever you're ready to get rollin', we'll get your gear aboard our Embercraft, and we'll set out to Zeryphesh. Shouldn't take us more than a couple of days to get there!

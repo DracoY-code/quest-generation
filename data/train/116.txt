@@ -1,21 +1,22 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Assassinate Westin in NCR Without Making It Look Like a Murder
-Objective: Eliminate Roger Westin while ensuring his death appears natural.
-First Tasks: Gather information on Westin’s habits and routines., Find or acquire a subtle method to kill Westin (poison, staged accident, etc.)., Execute the assassination without raising suspicion., Report back to the quest giver.
-First Task Locations: NCR - Westin resides in NCR, making it the primary location for carrying out the mission.
-Quest Giver: NONE - NONE (location: NONE)
-Reward: Cash Reward - Earn $1000 for successfully completing the assassination. (amount: NONE), Reputation Boost - Increased standing with the crime family that issued the contract. (amount: NONE)
-Characters: NONE
-Tools: Poison to create a natural-looking death., Knowledge of Westin’s schedule to plan an 'accident'., Stealth and deception to avoid suspicion.
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Fallout 2
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+Eliminate Roger Westin while ensuring his death appears natural.
+<|end_objective|>
+<|begin_tasks|>
+Gather information on Westin’s habits and routines.
+Find or acquire a subtle method to kill Westin (poison, staged accident, etc.).
+Execute the assassination without raising suspicion.
+Report back to the quest giver.
+<|end_tasks|>
+<|begin_quest_giver|>
+Mordino Family or Bishop Family: A crime family with an interest in removing Westin discreetly.
+<|end_quest_giver|>
+<|begin_task_locations|>
+NCR: Westin resides in NCR, making it the primary location for carrying out the mission.
+<|end_task_locations|>
+<|begin_rewards|>
+Cash Reward: Earn $1000 for successfully completing the assassination. (amount: NONE)
+Reputation Boost: Increased standing with the crime family that issued the contract. (amount: NONE)
+<|end_rewards|>
+<|end_quest|>
 Roger Westin is a powerful figure in NCR, but someone wants him eliminated in a way that doesn't point to foul play. You must find a discreet way to take him out.

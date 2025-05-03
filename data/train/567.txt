@@ -1,21 +1,27 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Canvas the Castle
-Objective: recover a painting, and bring the culprit to justice
-First Tasks: gather clues about the identity of the culprit
-First Task Locations: Castle Chorrol - a castle in Chorrol
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - a just reward (amount: 1)
-Characters: Count Valga - Countess Arriana Valga's lost husband (location: )
-Tools: someone stole a painting from Countess Arriana Valga's bedchamber: do not accuse the wrong person, Countess Arriana Valga gives the player some keys that allow the player access to many of the restricted areas in Castle Chorrol
-Locations: Chorrol - a city (location: NONE)
-Items: a painting - a stolen painting depicting Count Valga (amount: 1)
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls IV: Oblivion
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+recover a painting, and bring the culprit to justice
+<|end_objective|>
+<|begin_tasks|>
+gather clues about the identity of the culprit
+<|end_tasks|>
+<|begin_quest_giver|>
+Countess Arriana Valga: the noblewoman who leads Chorrol
+<|end_quest_giver|>
+<|begin_task_locations|>
+Castle Chorrol: a castle in Chorrol
+<|end_task_locations|>
+<|begin_rewards|>
+: a just reward (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Count Valga: Countess Arriana Valga's lost husband (location: )
+<|end_characters|>
+<|begin_locations|>
+Chorrol: a city (location: NONE)
+<|end_locations|>
+<|begin_items|>
+a painting: a stolen painting depicting Count Valga (amount: 1)
+<|end_items|>
+<|end_quest|>
 I am Countess Arriana Valga of Chorrol. I wish I had time to chat, but I'm afraid I am in the middle of an investigation. You seem the trusting type. Perhaps you can assist me? It seems someone has taken away an heirloom that is quite dear to me. I want you to help me recover a stolen painting. The painting was of my lost love, the Count Valga, and it has been stolen from my bedchamber. If you find the painting, and bring the culprit to justice, you shall be justly rewarded. I suggest you begin to gather clues. And I warn you: do not accuse the wrong person, or I shall be quite cross with you. Here are some keys. They should allow you access to many of the restricted areas in Castle Chorrol.

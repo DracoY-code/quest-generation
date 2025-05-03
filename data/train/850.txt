@@ -1,21 +1,27 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Bowing Down Creepers
-Objective: test out the Awesome Bow, and report back to Jack
-First Tasks: kill 15 Creepers with the Awesome Bow
-First Task Locations: NONE - 
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - emeralds (amount: 32)
-Characters: NONE
-Tools: NONE
-Locations: NONE
-Items: Awesome Bow - a special bow crafted by Jack (amount: 1)
-Enemies: Creepers - green monsters that sneak up on people and try to blow them up along with them (amount: 15)
-Groups: NONE
-Title: Minecraft
-Motivation: knowledge
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+test out the Awesome Bow, and report back to Jack
+<|end_objective|>
+<|begin_tasks|>
+kill 15 Creepers with the Awesome Bow
+<|end_tasks|>
+<|begin_quest_giver|>
+Jack: a fletcher
+<|end_quest_giver|>
+<|begin_task_locations|>
+NONE: 
+<|end_task_locations|>
+<|begin_rewards|>
+: emeralds (amount: 32)
+<|end_rewards|>
+<|begin_items|>
+Awesome Bow: a special bow crafted by Jack (amount: 1)
+<|end_items|>
+<|begin_enemies|>
+Creepers: green monsters that sneak up on people and try to blow them up along with them (amount: 15)
+<|end_enemies|>
+<|begin_motivation|>
+knowledge
+<|end_motivation|>
+<|end_quest|>
 I'm a fletcher. Bows and arrows are my domain. In fact, I've just crafted a special Bow I've dubbed the "Awesome Bow". I just need someone to test it out. You could be just the right person for the job. Go, and kill 15 Creepers with the Awesome Bow. I friggin' hate those green suicide bombing monsters! I'll have 32 emeralds for you, as a tester's fee.

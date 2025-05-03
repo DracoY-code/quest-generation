@@ -1,21 +1,22 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Ore Identification
-Objective: pick up an ore sample for Hafjorg for identification
-First Tasks: speak to Filnjar to get the ore sample
-First Task Locations: Shor's Stone - a mining village
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - some potions (amount: 1)
-Characters: Elgrim - an absent-minded male alchemist who runs an alchemy shop (location: ), Filnjar - a male miner (location: Shor's Stone)
-Tools: NONE
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+pick up an ore sample for Hafjorg for identification
+<|end_objective|>
+<|begin_tasks|>
+speak to Filnjar to get the ore sample
+<|end_tasks|>
+<|begin_quest_giver|>
+Hafjorg: Elgrim's wife and business partner
+<|end_quest_giver|>
+<|begin_task_locations|>
+Shor's Stone: a mining village
+<|end_task_locations|>
+<|begin_rewards|>
+: some potions (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Elgrim: an absent-minded male alchemist who runs an alchemy shop (location: )
+Filnjar: a male miner (location: Shor's Stone)
+<|end_characters|>
+<|end_quest|>
 I swear, if I wasn't around, Elgrim would forget to eat his meals. How we make any coin at all is beyond me. In fact, I need to arrange for someone to pick up an ore sample for me in Shor's Stone... goodness knows Elgrim won't lift a finger to do it. You would do this for me? Oh, that would be wonderful. Speak to Filnjar in Shor's Stone. He's got some sort of ore sample he wants us to identify and was willing to pay us well for it. The job pays well, so I hope I can make arrangements soon. We could really use the gold. I'll have Elgrim make some potions for you for all that travel.

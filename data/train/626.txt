@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Woodland Security
-Objective: make Whispering Pines safer for villagers
-First Tasks: build some iron golems
-First Task Locations: Whispering Pines - a scary taiga forest
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - a worthy gift (amount: 1)
-Characters: NONE
-Tools: the player is an infamous person
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Minecraft
-Motivation: security
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+make Whispering Pines safer for villagers
+<|end_objective|>
+<|begin_tasks|>
+build some iron golems
+<|end_tasks|>
+<|begin_quest_giver|>
+: a spooked villager
+<|end_quest_giver|>
+<|begin_task_locations|>
+Whispering Pines: a scary taiga forest
+<|end_task_locations|>
+<|begin_rewards|>
+: a worthy gift (amount: 1)
+<|end_rewards|>
+<|begin_motivation|>
+security
+<|end_motivation|>
+<|end_quest|>
 You scared me! Although I suppose that even someone as infamous as you isn't quite as spooky as Whispering Pines. That taiga forest is not safe! Many villagers have gone missing there; never to be seen ever again. There must be something that could be done to make the forest safer for us villagers... Perhaps you could go and build some iron golems in Whispering Pines? That would make the forest much safer! You'd even receive a worthy gift for doing this feat.

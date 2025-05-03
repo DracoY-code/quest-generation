@@ -1,21 +1,24 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: The Wandering Scholar
-Objective: protect Elante of Alinor
-First Tasks: meet up with Elante of Alinor, and help her find a shrine
-First Task Locations: Brittlerock Cave - a cave
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Elante of Alinor - a female scholar researching Daedra worship (location: Brittlerock Cave)
-Tools: NONE
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: Fighters Guild - a mercenary guild
-Title: The Elder Scrolls IV: Oblivion
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+protect Elante of Alinor
+<|end_objective|>
+<|begin_tasks|>
+meet up with Elante of Alinor, and help her find a shrine
+<|end_tasks|>
+<|begin_quest_giver|>
+Azzan: the player's superior in the Fighters Guild
+<|end_quest_giver|>
+<|begin_task_locations|>
+Brittlerock Cave: a cave
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Elante of Alinor: a female scholar researching Daedra worship (location: Brittlerock Cave)
+<|end_characters|>
+<|begin_groups|>
+Fighters Guild: a mercenary guild (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 Hello again. It's me, Azzan. Good to see that you're looking for more work. There's certainly more to be done. I need you to help Elante of Alinor. Elante is a scholar, interested in researching Daedra worship. Meet her in Brittlerock Cave, help her find the shrine, and keep her safe.

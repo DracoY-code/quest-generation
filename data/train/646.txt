@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Madulf Wants to Make a Deal with the Village
-Objective: tell the villagers of Imnesvale that Madulf can protect them from orcs in mountains
-First Tasks: go to Imnesvale
-First Task Locations: Imnesvale - a human village
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - a magical shield (amount: 1)
-Characters: NONE
-Tools: Madulf and his fellow ogres want to be left alone, Madulf wants peace with humans
-Locations: Sythillis - a great southern empire (location: NONE)
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Baldur's Gate II: Shadows of Amn
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+tell the villagers of Imnesvale that Madulf can protect them from orcs in mountains
+<|end_objective|>
+<|begin_tasks|>
+go to Imnesvale
+<|end_tasks|>
+<|begin_quest_giver|>
+Madulf: the peaceful leader of ogres, who used to be a leader in the army of Sythillis
+<|end_quest_giver|>
+<|begin_task_locations|>
+Imnesvale: a human village
+<|end_task_locations|>
+<|begin_rewards|>
+: a magical shield (amount: 1)
+<|end_rewards|>
+<|begin_locations|>
+Sythillis: a great southern empire (location: NONE)
+<|end_locations|>
+<|end_quest|>
 Me Madulf... lead fellows from great army of Sythillis in the south. No want to kill races no more. Lead fellows in desertion. We just wants be left alone. Always Madulf and fellows be chased and hated 'cause me an ogre! We just wants to be left alone. We come here one moon ago, tries to settle for a while, yes? We needs you bring word to human village... humans run when Madulf goes, so me needs youse to do it for me. Youse bring word, yes? Madulf no want death... Madulf no want fight. Just want peace. You tell villagers, maybe, that Madulf and fellows will protect village... protect from orcs in mountains, yes? We have shield to give you... is magic, from Sythillis's army... we no use. Maybe you like.

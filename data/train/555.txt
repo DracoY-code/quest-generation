@@ -1,21 +1,22 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: A Market for Stone
-Objective: help Dan promote his stoneworks
-First Tasks: hand out promotional pamphlets to villagers
-First Task Locations: Stoneburg - a large village, NONE - 
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - a load of emeralds (amount: 1)
-Characters: NONE
-Tools: the player is a friend of Dan
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Minecraft
-Motivation: reputation
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+help Dan promote his stoneworks
+<|end_objective|>
+<|begin_tasks|>
+hand out promotional pamphlets to villagers
+<|end_tasks|>
+<|begin_quest_giver|>
+Dan: a lamenting mason
+<|end_quest_giver|>
+<|begin_task_locations|>
+Stoneburg: a large village
+NONE: 
+<|end_task_locations|>
+<|begin_rewards|>
+: a load of emeralds (amount: 1)
+<|end_rewards|>
+<|begin_motivation|>
+reputation
+<|end_motivation|>
+<|end_quest|>
 No one in this village buys the beautiful stones cut by me. I'm a failure of a mason! Friend, could you promote my stoneworks? I really could use more customers. This village is quite large, there ought to be at least a few villagers who might be interested in my stone bricks and other stoneworks. Just hand out some promotional pamphlets to the villagers of Stoneburg. You'll even net a load of emeralds for your services, my friend.

@@ -1,21 +1,24 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Honor Thy Family
-Objective: regain the trust of your fellow Dark Brotherhood members
-First Tasks: pay 500 gold
-First Task Locations: NONE - 
-Quest Giver: NONE - NONE (location: NONE)
-Reward:  - readmission into the Dark Brotherhood (amount: 1)
-Characters: NONE
-Tools: NONE
-Locations: NONE
-Items:  - gold (amount: 500)
-Enemies: NONE
-Groups: Dark Brotherhood - a guild of assassins
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+regain the trust of your fellow Dark Brotherhood members
+<|end_objective|>
+<|begin_tasks|>
+pay 500 gold
+<|end_tasks|>
+<|begin_quest_giver|>
+Nazir: a fellow member of the Dark Brotherhood
+<|end_quest_giver|>
+<|begin_task_locations|>
+NONE: 
+<|end_task_locations|>
+<|begin_rewards|>
+: readmission into the Dark Brotherhood (amount: 1)
+<|end_rewards|>
+<|begin_items|>
+: gold (amount: 500)
+<|end_items|>
+<|begin_groups|>
+Dark Brotherhood: a guild of assassins (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 You disrespected the Dark Brotherhood. And it'll cost you. You want back into the Family, you pay the price. 500 gold, and all is forgiven. I suggest you "collect" it. Until you pay the fine, you are effectively cut off from all Dark Brotherhood duties and contracts. No contracts. No rewards. No respect.

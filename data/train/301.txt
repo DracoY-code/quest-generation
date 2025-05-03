@@ -1,21 +1,26 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Legacy Lost
-Objective: help Guilbert Jemane and Reynald Jemane recover Weatherleah
-First Tasks: find Weatherleah, and see if it is still inhabited by ogres
-First Task Locations:  - somewhere south of Chorrol, but southwest of Fort Carmala
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Reynald Jemane - Guilbert Jemane's twin brother (location: )
-Tools: the player reunited Guilbert Jemane and Reynald Jemane, ogres attacked Weatherleah when Guilbert Jemane and Reynald Jemane were little children: Guilbert Jemane and Reynald Jemane's parents fled from Weatherleah, Guilbert Jemane and Reynald Jemane's father carried Guilbert Jemane to safety and later returned to Weatherleah believing Reynald Jemane and the boys' mother had perished, Guilbert Jemane and Reynald Jemane's mother carried Reynald to safety: their mother did not survive
-Locations: Weatherleah - the childhood home of Guilbert Jemane and Reynald Jemane, where no human has lived for years (location: NONE), Chorrol - a town (location: NONE), Fort Carmala - a fort (location: NONE)
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls IV: Oblivion
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+help Guilbert Jemane and Reynald Jemane recover Weatherleah
+<|end_objective|>
+<|begin_tasks|>
+find Weatherleah, and see if it is still inhabited by ogres
+<|end_tasks|>
+<|begin_quest_giver|>
+Guilbert Jemane: a grateful man
+<|end_quest_giver|>
+<|begin_task_locations|>
+: somewhere south of Chorrol, but southwest of Fort Carmala
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Reynald Jemane: Guilbert Jemane's twin brother (location: )
+<|end_characters|>
+<|begin_locations|>
+Weatherleah: the childhood home of Guilbert Jemane and Reynald Jemane, where no human has lived for years (location: NONE)
+Chorrol: a town (location: NONE)
+Fort Carmala: a fort (location: NONE)
+<|end_locations|>
+<|end_quest|>
 I can't thank you enough for helping to reunite me with Reynald. I never would have guessed he was still alive. We have much to discuss, but if you have time, I'd beg you stay a moment longer and hear about our home, Weatherleah. Weatherleah was our family's home for generations. Our parents fled it when ogres attacked; they became separated. My father carried me to safety. He later returned and believed Reynald and my mother had perished. Since ogres are cannibals, he didn't expect to find their bodies. Thankfully, however, it seems that my mother managed to carry Reynald to safety. While my mother didn't survive, Reynald did, and for that I'm grateful. But we both want more - we want our home back. We're not fighters; you appear to have more skill than either of us. Would you go to Weatherleah, and see if it's still inhabited by ogres? Now, we're not quite sure where the estate is located. We'll offer up what we know, however. We believe it's somewhere south of Chorrol, but southwest of Fort Carmala. It may be difficult to find. Since no one's lived there for many years, it may be quite overgrown by now. If you find Weatherleah, let us know. We'll be waiting anxiously.

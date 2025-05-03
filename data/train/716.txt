@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Kill the Giant
-Objective: slay a giant
-First Tasks: find a giant
-First Task Locations: Pale - a region
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: NONE
-Tools: the Empire demanded Skald the Elder to leave giants be, but the Imperial authority does not apply here anymore
-Locations: Dawnstar - the capital city of the Pale (location: NONE)
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+slay a giant
+<|end_objective|>
+<|begin_tasks|>
+find a giant
+<|end_tasks|>
+<|begin_quest_giver|>
+Skald the Elder: the nobleman who rules over the Pale
+<|end_quest_giver|>
+<|begin_task_locations|>
+Pale: a region
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_locations|>
+Dawnstar: the capital city of the Pale (location: NONE)
+<|end_locations|>
+<|end_quest|>
 Giants are a common problem in the Pale. The Empire always demanded I leave them be, but the Empire isn't here now. Go and slay one of the beasts. It should let them know that Dawnstar is not to be trifled with. I'm counting on you.

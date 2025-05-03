@@ -1,21 +1,21 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Deceiving the Herd
-Objective: frame the Dawnguard for murder
-First Tasks: murder someone influential in public while wearing Dawnguard armor and plant a note on the victim
-First Task Locations: Whiterun - a city
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: NONE
-Tools: Feran Sadri gives the player Dawnguard armor, and a note for framing the Dawnguard
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: Dawnguard - an organization of vampire hunters
-Title: The Elder Scrolls V: Skyrim
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+frame the Dawnguard for murder
+<|end_objective|>
+<|begin_tasks|>
+murder someone influential in public while wearing Dawnguard armor and plant a note on the victim
+<|end_tasks|>
+<|begin_quest_giver|>
+Feran Sadri: a fellow vampire
+<|end_quest_giver|>
+<|begin_task_locations|>
+Whiterun: a city
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_groups|>
+Dawnguard: an organization of vampire hunters (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 The Dawnguard have increased their operations and have been aggressively recruiting in Whiterun. We need to put a damper on their efforts and give those trouble makers something to worry about other than harassing our interests. You are to make a public show of murdering someone. Do it in the streets for all to see. The higher the profile the better. Someone attached to the court, a merchant, a bard, a priest, someone with stature. Make it seem you are a member of the Dawnguard, thus sowing confusion among the herd. Wear this armor and plant this note on the victim. The people will put pressure on the Dawnguard who are apparently murdering their fellows without provocation. Their focus will be shifted from us, giving us one less nuisance to deal with.

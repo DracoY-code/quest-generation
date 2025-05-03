@@ -1,21 +1,24 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: The Shrine of the Crusader
-Objective: seek Pelinal Whitestrake's Relics, and destroy Umaril the Accursed
-First Tasks: visit the shrine of Pelinal Whitestrake
-First Task Locations: Vanua - the site of Pelinal Whitestrake's death, where the Ayleid tormented him in a final act of revenge
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Umaril the Accursed - an old enemy of Pelinal Whitestrake, and a male Ayleid elf (location: )
-Tools: the player is a knight, the player's prayers have woken Pelinal Whitestrake from death, Umaril the Accursed found a way back to life, Pelinal Whitestrake's friends built a shrine upon Vanua: Pelinal Whitestrake can show the player where Vanua once stood
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: Ayleid - a race of elves who enslaved humans
-Title: The Elder Scrolls IV: Oblivion
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+seek Pelinal Whitestrake's Relics, and destroy Umaril the Accursed
+<|end_objective|>
+<|begin_tasks|>
+visit the shrine of Pelinal Whitestrake
+<|end_tasks|>
+<|begin_quest_giver|>
+Pelinal Whitestrake: the ghost of a legendary knight
+<|end_quest_giver|>
+<|begin_task_locations|>
+Vanua: the site of Pelinal Whitestrake's death, where the Ayleid tormented him in a final act of revenge
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Umaril the Accursed: an old enemy of Pelinal Whitestrake, and a male Ayleid elf (location: )
+<|end_characters|>
+<|begin_groups|>
+Ayleid: a race of elves who enslaved humans (amount: NONE)
+<|end_groups|>
+<|end_quest|>
 Hail knight! I am Pelinal Whitestrake, whose Relics you seek with a worthy heart! Your prayers have woken me from my endless dream. Or perhaps you have entered my dream, and I still sleep. I think others have sometimes spoken to me, others like you, but my memory is doubtful. Perhaps the others came after you. Your need must be great for the gods to allow us to speak. Has Umaril the Accursed found a way back? The foulest of a foul race. A thousand curses upon his unholy name! I thought I'd won. But I should have known. The Slavemasters are a cunning breed. Umaril found a way to cheat death, as I could not. If you would seek for my Relics, I know little that can help you. All that has passed since my death is like mist that my mind cannot take hold of. My friends built a shrine upon the site of my death, Vanua, where the Ayleid Elves tormented me in a final act of revenge. I can show you where it once stood. Perhaps it is there still. Fare thee well, sir knight. May the gods grant you to destroy Umaril utterly, as I failed to do.

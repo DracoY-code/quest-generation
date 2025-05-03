@@ -1,21 +1,22 @@
-### Instruction:
-Generate a video game quest description based on the following structured information.
-
-### Input:
-Quest Name: Sam and Lena
-Objective: save Sam from dying
-First Tasks: take Sam to Gellana Mirrorshade
-First Task Locations: Temple of Wisdom - a temple
-Quest Giver: NONE - NONE (location: NONE)
-Reward: NONE -  (amount: 1)
-Characters: Sam - a badly injured man (location: with Lena), Gellana Mirrorshade - a priestess who can help Sam (location: the Temple of Wisdom)
-Tools: Lena and Sam have been wandering in the wilderness,  Sam will join the player
-Locations: NONE
-Items: NONE
-Enemies: NONE
-Groups: NONE
-Title: Baldur's Gate
-Motivation: NONE
-
-### Response:
+<|begin_quest|>
+<|begin_objective|>
+save Sam from dying
+<|end_objective|>
+<|begin_tasks|>
+take Sam to Gellana Mirrorshade
+<|end_tasks|>
+<|begin_quest_giver|>
+Lena: Sam's unkempt female friend
+<|end_quest_giver|>
+<|begin_task_locations|>
+Temple of Wisdom: a temple
+<|end_task_locations|>
+<|begin_rewards|>
+NONE:  (amount: 1)
+<|end_rewards|>
+<|begin_characters|>
+Sam: a badly injured man (location: with Lena)
+Gellana Mirrorshade: a priestess who can help Sam (location: the Temple of Wisdom)
+<|end_characters|>
+<|end_quest|>
 Please wait a moment, kind traveler! You've got to help me! My name is Lena. You must forgive me for my appearance, but I've been wandering the wilderness for more than a week now. My friend is badly hurt, and he might die if he doesn't get assistance soon. His name is Sam. If you were to take him to Gellana Mirrorshade at the Temple of Wisdom, she'd help him. Please, can you do this?
