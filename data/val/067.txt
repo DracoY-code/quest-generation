@@ -18,4 +18,6 @@ Experience Points: For successfully witnessing the transaction. (amount: 1000)
 Caps: A payment for gathering information. (amount: 500)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 Mr. Salvatore needs someone to witness a secret deal without being detected. Watch the transaction carefully and report back.
+<|end_description|>

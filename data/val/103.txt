@@ -15,4 +15,6 @@ Bleak Falls Barrow: a tomb northeast of town
 : some coin (amount: 1)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 We did have a bit of a... break-in. But we still have plenty to sell. Robbers were only after one thing. An ornament, solid gold. In the shape of a dragon's claw. I've got some coin coming in from my last shipment. It's yours if you bring my claw back. If you're going after those thieves, you should head to Bleak Falls Barrow, northeast of town.
+<|end_description|>

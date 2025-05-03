@@ -17,4 +17,6 @@ Skum Pitt: A bar in Junktown where Tycho can be found.
 Tycho as a Companion: Tycho joins the player's party as a valuable ally. (amount: 1)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 Tycho, a skilled desert ranger, can be found at the Skum Pitt in Junktown. If the player engages him in conversation and shows alignment with his ideals, he agrees to join the party as a companion.
+<|end_description|>

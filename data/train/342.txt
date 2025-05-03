@@ -18,4 +18,6 @@ Potion of Leaping: a potion that boosts jumps (amount: 1)
 comfort
 <|end_motivation|>
 <|end_quest|>
+<|begin_description|>
 Oh. It's you. As if I wouldn't have enough to worry about... Or perhaps even a devil like you has a heart. Would you help me sweep my worries away by bringing me a rabbit's foot? I'd like to feel luckier. Hunt down a rabbit. They are found in deserts, taiga forests, and frozen regions. Rabbits are quite quick on their feet, so they might keep you busy for a while. Do this for me, and I'll give you a Potion of Leaping. That should help you jump out of my sight faster.
+<|end_description|>

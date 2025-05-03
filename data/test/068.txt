@@ -19,4 +19,6 @@ Morrowind: a province where Neloth has made many enemies (location: NONE)
 Solstheim: a remote island (location: NONE)
 <|end_locations|>
 <|end_quest|>
+<|begin_description|>
 I'm under attack. There are too many coincidences. There must be someone behind all of my recent troubles. I have enemies. Legions of them back in Morrowind. However, in this case I have reason to believe it is someone in Solstheim. First I need to identify the culprit. I've enchanted this ring to find the source of the attacks. Here, take it. Just wear the ring I gave you. It will light up the source when you get close to it. I enchanted the ring with a bit of ash from the last ash spawn attack. It can follow the magical link back to its summoner.
+<|end_description|>

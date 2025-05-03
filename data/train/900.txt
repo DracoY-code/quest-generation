@@ -17,4 +17,6 @@ Caps: A monetary reward for completing the task. (amount: 0)
 Favor with the Regulators: Increased reputation with the Regulators for carrying out their orders. (amount: NONE)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 The Regulators of Adytum have ordered the assassination of Razor, the leader of the Blades. You must locate and kill her.
+<|end_description|>

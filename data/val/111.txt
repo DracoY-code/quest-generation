@@ -19,4 +19,6 @@ Caps: A monetary reward from Gizmo for completing the assassination. (amount: 50
 Gizmo's Favor: Access to Gizmo’s resources and potential further work. (amount: 1)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 Gizmo wants Killian Darkwater dead to solidify his hold over Junktown. The player can choose to accept this task and assassinate Killian, altering the power balance in Junktown. This decision influences how the town views the player and changes future interactions.
+<|end_description|>

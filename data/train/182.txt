@@ -22,4 +22,6 @@ Dawnguard: an organization of vampire hunters (amount: NONE)
 Vigilants of Stendarr: an order of holy warriors (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 I need someone out in the field, taking the fight to the damn vampires, while we're getting the fort back into shape... Go see what the vampires were looking for in Dimhollow Crypt. With any luck, they'll still be there. Here, you should take a crossbow. Good for hunting out those fiends before they get too close. Tolan'll meet you at Dimhollow. He will try to assist you. Watch out. Vigilants of Stendarr were never trained for vampire hunting...
+<|end_description|>

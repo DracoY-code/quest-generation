@@ -18,4 +18,6 @@ Caps: A monetary reward for stopping the assassin. (amount: 400)
 Discount at Darkwater General Store: Killian offers better prices on his wares after being saved. (amount: 1)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 An assassin, hired by Gizmo, attempts to kill Killian in his store. The player must intervene and stop the attack. Successfully saving Killian allows the player to gain his trust and potentially work with him against Gizmo.
+<|end_description|>

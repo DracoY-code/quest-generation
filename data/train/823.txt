@@ -17,4 +17,6 @@ Caps: A monetary reward for keeping the still running. (amount: 150)
 Alcohol: Bottles of booze as an extra reward. (amount: NONE)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 Lou needs fuel to keep his still operational. You must find a fuel source and deliver it to him to ensure the alcohol supply remains steady.
+<|end_description|>

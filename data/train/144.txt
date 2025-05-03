@@ -22,4 +22,6 @@ Helm: the god of order (location: )
 : priests of Helm (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 I'm Garren Windspear. What goes on here? I've seen many a strange thing in my time, but the events of the past few moments tops them all. Who are you that can change shape so readily, and why have you slain these beasts that become men? It appears that you have been tricked into killing these knights! Though the priests of Helm will not believe what has happened. They will seek justice, and only your head will suffice. I suggest that you take sanctuary with me until you can discover how this unfortunate event came to pass. My cabin is but a short distance south of here. I will meet you there.
+<|end_description|>

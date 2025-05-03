@@ -18,4 +18,6 @@ Arroyo Village: A tribal settlement where Nagor lives and where Smoke was last s
 Experience Points: Earned for successfully rescuing Smoke. (amount: 100)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 Nagor, a young villager in Arroyo, is distraught over his missing dog, Smoke. The dog has wandered into the wilds, and Nagor fears for its safety. Your task is to locate Smoke and bring him back safely.
+<|end_description|>

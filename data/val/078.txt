@@ -20,4 +20,6 @@ Caps Reward: Earn $500 upon successful delivery. (amount: NONE)
 Mordino Reputation: Increased standing with the Mordino family. (amount: NONE)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 Big Jesus Mordino needs a package delivered to Ramirez at the Stables. Complete the delivery to earn money and reputation with the Mordino family.
+<|end_description|>

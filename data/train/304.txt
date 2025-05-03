@@ -19,4 +19,6 @@ Brotherhood Reputation Boost: Increases standing with the Brotherhood of Steel. 
 Experience Points: Earned upon successful completion. (amount: 1000)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 A Brotherhood initiate has gone missing in the Hub, and it's your job to track them down. The mission may require combat, negotiation, or stealth depending on how you approach the situation.
+<|end_description|>

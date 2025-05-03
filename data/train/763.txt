@@ -18,4 +18,6 @@ Bannered Mare: an inn
 Argonian Ale: special ale (amount: 1)
 <|end_items|>
 <|end_quest|>
+<|begin_description|>
 I'm drunk only if I can help it. But damn if I ain't almost sober. Hey. In the Bannered Mare, there's this bottle of Argonian Ale. The good stuff. Get it for me. They won't even know it's gone. Come on... Argonian Ale! I can almost taste it! I have something for you. This here healing potion. I, er, "found" it in a temple.
+<|end_description|>

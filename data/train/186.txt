@@ -21,4 +21,6 @@ Caps: Potential loot from dealing with the thieves. (amount: 500)
 Reputation: Your reputation in the area may change depending on how you handle the situation. (amount: NONE)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 Someone has stolen your vehicle, leaving you stranded. You must track down the culprits and reclaim what is rightfully yours.
+<|end_description|>

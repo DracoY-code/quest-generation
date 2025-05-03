@@ -21,4 +21,6 @@ Caps: A monetary reward for uncovering the truth. (amount: 500)
 Wright Family Favor: Further influence with the Wrights, which may be beneficial. (amount: NONE)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 Jagged Jimmy J is a known drug dealer and a prime suspect in Richard Wright’s overdose case. Investigate his involvement and determine whether he was responsible.
+<|end_description|>

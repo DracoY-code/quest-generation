@@ -19,4 +19,6 @@ Beregost: a town (location: NONE)
 High Hedge: a landmark (location: NONE)
 <|end_locations|>
 <|end_quest|>
+<|begin_description|>
 Hullo. The name's Perdue. There's a gnoll 'oled up in the hills due west of 'ere, close to the High Hedge. Damn thievin' ball-o-fur stole my short sword two days back. The sword ain't worth the tin she's made from. I'll give ya 75 gold pieces just to seal that yappin' mouth of 'is for good.
+<|end_description|>

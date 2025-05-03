@@ -18,4 +18,6 @@ NONE:  (amount: 1)
 Lexicon: an artifact of ancient people (amount: 1)
 <|end_items|>
 <|end_quest|>
+<|begin_description|>
 You. You must take the Lexicon. Free me of my burden. The memories. I cannot stand them. You must take them away, return them to Avanchnzel. You must take the Lexicon from me. Please... take it now. You must bring it to Avanchnzel, in the west. Return it to them. It must go back.
+<|end_description|>

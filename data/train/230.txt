@@ -21,4 +21,6 @@ Crescius Caerellius: a foolish old man (location: )
 Ancient Nordic Pickaxe: a pickaxe, the only tool tough enough to crack stalhrim, becoming rare because forging them is a lost art (amount: 1)
 <|end_items|>
 <|end_quest|>
+<|begin_description|>
 You haven't seen Crescius Caerellius have you? That foolish old man's taken my pickaxe again! I'm not fussing over a simple pickaxe. No, no, no. This isn't just your run-of-the-mill pickaxe... I'm talking about an Ancient Nordic Pickaxe. They don't exactly grow on trees, you know. An Ancient Nordic Pickaxe is the only tool tough enough to crack stalhrim, is what it is. Not many of those beauties left in the world... forging them is a lost art. Look, if you see Crescius, tell him to give me that pickaxe back and I'll pay you for the trouble.
+<|end_description|>

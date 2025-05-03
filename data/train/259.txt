@@ -15,4 +15,6 @@ Reevor: the player's drill instructor
 : gp (amount: 5)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 I thought I asked you to clean the rats out of this building yesterday, already. Hop to it! Get in there! Ah yes, kill them like the rats that they are! A glorious battle unlike any this world has ever seen... I'll give you 5 gp, don't spend it all in one place.
+<|end_description|>

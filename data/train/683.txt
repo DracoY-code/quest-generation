@@ -21,4 +21,6 @@ Branwen: a warrior woman turned into stone (location: Nashkel Carnival)
 Nashkel Carnival: a carnival (location: NONE)
 <|end_locations|>
 <|end_quest|>
+<|begin_description|>
 Come one, come all! Zeke's got something to show you! Take a look at the stone warrior maiden. How long has she been trapped in this petrified form, no one knows! Be the first to learn, for the mere price of 500 gold. For that small amount of money, I shall give you a magic scroll, and with this scroll you can release the maiden from her stone prison. Think of the gratitude she would feel to her saviors. Perhaps she's a princess from some far-off land, or maybe a powerful sorceress in search of a concubine. You can't afford not to know! Buy the scroll!
+<|end_description|>

@@ -19,4 +19,6 @@ Brotherhood Reputation Boost: Increases standing with the Brotherhood of Steel. 
 Experience Points: Earned upon successful completion. (amount: 750)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 The Brotherhood of Steel needs updated intelligence on the northern wasteland. Your mission is to travel into the unknown, observe points of interest, and return with a report. The journey may be dangerous, so preparation is key.
+<|end_description|>

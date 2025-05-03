@@ -18,4 +18,6 @@ NONE:
 : gold (amount: 1000)
 <|end_items|>
 <|end_quest|>
+<|begin_description|>
 Are you interested in my services? I warn you, my skills do not come cheaply. Hmm, I suppose I can work with your face. After all, the sculptor cannot always choose the finest clay. Shall I remake your face?  It is no small thing to submit yourself to the flesh sculptor's knife. Just give me 1,000 gold and tell me what you desire - beauty or hideous deformity, nothing is beyond my skill.
+<|end_description|>

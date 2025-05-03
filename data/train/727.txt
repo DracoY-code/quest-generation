@@ -21,4 +21,6 @@ Caps: A monetary reward for uncovering the truth. (amount: 500)
 Wright Family Favor: Increased standing with the Wrights, granting potential future benefits. (amount: NONE)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 Renesco, a shopkeeper in New Reno known for selling drugs, is a suspect in Richard Wright’s overdose. Investigate his involvement and uncover the truth.
+<|end_description|>

@@ -21,4 +21,6 @@ Skald the Elder: the impatient Jarl of Dawnstar (location: Dawnstar)
 Anga's Mill: a sawmill (location: NONE)
 <|end_locations|>
 <|end_quest|>
+<|begin_description|>
 If you're one of the Jarl's men, you'll get your lumber. Anga's Mill pays its debts. Sorry, I thought Skald the Elder sent you. We've got an order to fill, and he's not known for patience. Look, if you're heading towards Dawnstar anytime soon, can you give the Jarl this note? Let him know he'll get his lumber.
+<|end_description|>

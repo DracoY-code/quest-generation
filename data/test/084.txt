@@ -18,4 +18,6 @@ Food Supply Restoration: Ensures a steady food supply for the settlement, improv
 Potential Reputation Boost: Increased standing with Adytum residents for helping the community. (amount: NONE)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 The hydroponic farms in Adytum have malfunctioned, threatening the community’s food supply. You must repair the system to restore food production.
+<|end_description|>

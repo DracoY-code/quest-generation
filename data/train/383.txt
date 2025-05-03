@@ -21,4 +21,6 @@ Auriel's Bow: a divine artifact (amount: 1)
 Dawnguard: an organization of vampire hunters (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 The Dawnguard will, no doubt, soon become even more of a nuisance now that Auriel's Bow has been recovered. We need to strike a crippling blow against them before they muster more men against us. They've holed up in an abandoned fort in the Reach. The Dawnguard are apparently focused on exterminating vampires, noble and brute alike. Not a serious threat, but we can't leave them completely unchecked or they may become one. But their time has come to an end. And you will be the one that ends it. Killing their leaders should discourage them from an out and out war with us.
+<|end_description|>

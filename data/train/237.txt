@@ -20,4 +20,6 @@ Experience Points: Earned for solving the case and bringing justice. (amount: 25
 Caps: A monetary reward from Marcus for uncovering the truth. (amount: 500)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 People have been disappearing in Broken Hills, and the town is on edge. Marcus, the sheriff, asks you to investigate and find out what's going on before tensions boil over.
+<|end_description|>

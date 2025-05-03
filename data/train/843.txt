@@ -22,4 +22,6 @@ Nether: a hellish place
 knowledge
 <|end_motivation|>
 <|end_quest|>
+<|begin_description|>
 My job is to sell meat of all sorts: both cooked and raw. I take pride in my craftsmanship: I always try to find new, improved ways to cook meat. I have a hypothesis: the fuel used in my oven affects the taste of the meat that's cooked in it. I'd like to test out different materials to feed the flames of my oven: a bucket of lava, a blaze rod, and a block of coal, for starters. Would you help a butcher better her craft? Bring the items I mentioned to me, and I'll cook you a year's worth of steak. Lava can be found in pools deep under the ground. I'll give you a bucket for scooping out the lava. Blaze rods a trickier to obtain; you have to brave the hellscape that is the Nether. Coal, on the contrary, is quite easy to get. Just look out for ore veins seated in stone.
+<|end_description|>

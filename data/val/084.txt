@@ -22,4 +22,6 @@ Solitude: a city (location: NONE)
 Radiant Raiment: a clothing store (location: NONE)
 <|end_locations|>
 <|end_quest|>
+<|begin_description|>
 You're really going to the Blue Palace? That presents an opportunity. If you were willing to wear one of Radiant Raiment's outfits and speak to the Jarl I would not only pay you but let you keep the outfit. Here's the outfit. Try to get Jarl Elisif's opinion on it and if she likes it mention it's from Radiant Raiment.
+<|end_description|>

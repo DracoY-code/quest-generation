@@ -15,4 +15,6 @@ NONE:
 : Neloth will prepare a version of the silence spell that the player can cast themselves (amount: 1)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 You could help me with my research. I believe I've discovered a new form of silence. Some philosophers postulate seven orders of silence, but I believe there's an eighth. If you allow me, I'd like to envelop you in the eighth form, to study the mental effects. If this works, I'll prepare a version that you can cast yourself, if you ever wish to inflict... er, study silence.
+<|end_description|>

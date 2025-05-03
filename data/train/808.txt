@@ -17,4 +17,6 @@ Merchant's Location: The merchant's shop or traveling route where they conduct b
 Merchant’s Inventory: Items and caps that can be looted from the merchant’s body. (amount: Varies)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 The player must eliminate a merchant without drawing too much attention. The approach can vary depending on stealth, combat, or social manipulation, and the consequences may impact the player’s standing with factions or towns.
+<|end_description|>

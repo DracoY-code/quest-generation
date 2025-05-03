@@ -19,4 +19,6 @@ Wheat: an alchemy ingredient (amount: 1)
 Blisterwort: an alchemy ingredient (amount: 1)
 <|end_items|>
 <|end_quest|>
+<|begin_description|>
 You know how to use an alchemy lab right? Mix a couple of ingredients together, see what happens. A little Wheat and Blisterwort makes a healing potion, if you didn't know. There's plenty of ingredients for sale, too.
+<|end_description|>

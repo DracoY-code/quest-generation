@@ -29,4 +29,6 @@ Blades: an intelligence organization (amount: NONE)
 Thalmor: a foreign power (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 The Thalmor ambassador, Elenwen, regularly throws parties where the rich and connected cozy up to the Thalmor. I can get you into one of those parties. Once you're inside the Embassy, you get away and find Elenwen's secret files. I have a contact inside the Embassy. He's not up for this kind of high-risk mission, but he can help you. His name's Malborn. Wood elf, plenty of reason to hate the Thalmor. You can trust him. I'll get word for him to meet you in Solitude, at the Winking Skeever -- you know it? While you're doing that, I'll work on getting you an invitation to Elenwen's little party. Meet me at the Solitude stables after you've arranged things with Malborn.
+<|end_description|>

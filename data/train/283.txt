@@ -27,4 +27,6 @@ Skyrim: a province (location: NONE)
 Redguards: a race of people not from Skyrim (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 My wife Seren and I run the forge together. She still smiths even though we found out she is with child. Our son or daughter isn't going to get much Redguard culture here in Skyrim. I know my wife worries how she will pass along her traditions. Hey, if you find a book called "Night Falls on Sentinel", could you bring it to me? It's a story from my wife's people. Be good to have. Don't know what the Redguards see in books, but it would make my Seren happy. Let me show you some tricks around the forge, when you return with the book.
+<|end_description|>

@@ -19,4 +19,6 @@ Caps: A monetary reward for defeating the gang. (amount: 500)
 Karma Increase: Improves reputation in Junktown. (amount: 1)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 The Skulz gang has been causing problems in Junktown. Lars, the head guard, wants them taken down. The player can either help Lars arrest or kill the gang members or betray the guards and join the gang. The outcome affects Junktown’s stability.
+<|end_description|>

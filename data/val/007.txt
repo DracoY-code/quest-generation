@@ -25,4 +25,6 @@ Arcane University: an esteemed school for mages (location: NONE)
 Ring of Burden: a magical ring (amount: 1)
 <|end_items|>
 <|end_quest|>
+<|begin_description|>
 What is it, Associate? Don't tell me you're here for a recommendation from me. There was a particular Ring of Burden I was testing some time ago. Another stupid Associate somehow got his hands on it, and managed to misplace it. If I didn't know better, I'd say he purposely tossed it down the well behind the guild hall. Why he would do such a thing is beyond me. You will retrieve this ring for me. Should you manage to do so, I shall consider sending a recommendation to the Arcane University. The well is locked, so you'll need the key. Deetsan should have a copy of it. Now get moving.
+<|end_description|>

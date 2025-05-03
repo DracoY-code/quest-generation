@@ -15,4 +15,6 @@ Movarth's Lair: a vampire lair
 NONE:  (amount: 1)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 I've discovered the whereabouts of a vampire lair at Movarth's Lair. Destroying the head vampire is usually sufficient to scatter its minions, though it's best to destroy every last one of them. I suspect there's more wherever he came from. We cannot afford to relax.
+<|end_description|>

@@ -18,4 +18,6 @@ NONE:  (amount: 1)
 Locket: a memento of Jessa's father (amount: 1)
 <|end_items|>
 <|end_quest|>
+<|begin_description|>
 Oh, my poor father - I cannot believe that he is gone! Dear father... Please try to retrieve the Locket - it belonged to my father. I cannot bear to think that it is lost in this foul place, corroding away in swamp water. He must have dropped it somewhere around here...
+<|end_description|>

@@ -20,4 +20,6 @@ Reputation Boost: Gaining favor in Vault City or another settlement affected by 
 Potential Access to More Information on Jet: Uncover additional details about the drug's origins and effects. (amount: NONE)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 Jet addiction has become a major issue, and you have the opportunity to help create a cure by locating endorphin blockers.
+<|end_description|>

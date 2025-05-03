@@ -21,4 +21,6 @@ Atmora: a lost northern continent (location: NONE)
 Dragon Cult: cultists who were among the first men to arrive from Atmora, they worshiped certain animals, like dragons, as avatars of the gods (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 You there! As an officer of the Imperial Legion, I require your assistance to complete my mission. The General has sent me to obtain a powerful weapon for the war effort. This was the last great bastion of the Dragon Cult, and their leader's mask was reported to be quite powerful. They were among the first men to arrive from Atmora and they worshiped certain animals as avatars of the Gods; Dragons being foremost. And for their bloody sacrifices, the Dragons gifted their priests with terrible power. But their cruelty was too great for men to bear, and they rose up in what would be called the Dragon War and the Cult swept from the land. I'll pay for the Dragon Cult leader's mask. Get in there, find the mask, return it to me, and earn your pay.
+<|end_description|>

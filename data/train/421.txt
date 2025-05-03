@@ -21,4 +21,6 @@ Ma'dran: one of the caravan leaders (location: )
 Skyrim: a province (location: NONE)
 <|end_locations|>
 <|end_quest|>
+<|begin_description|>
 I'm Ysolda. Before my ma and da passed, I told them that one day, I'd become the best trader in Skyrim. I met one of the caravan leaders, Ma'dran. He said he'd help get me started if I could bring him a mammoth's tusk. Easier said than done. If you find one, I could teach you a thing or two about trading. Help you get a fair bargain in the future.
+<|end_description|>

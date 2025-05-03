@@ -21,4 +21,6 @@ Prism the Sculptor: a local artist (location: )
 : emeralds (amount: 2)
 <|end_items|>
 <|end_quest|>
+<|begin_description|>
 It's me, Oublek. A bit of nonsense from a local artist named Prism. Made off with a couple of emeralds, he did. There is a reward for the return of the gems: a 300 gold bounty. Prism's fate is of less importance.
+<|end_description|>

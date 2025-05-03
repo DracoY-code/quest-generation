@@ -17,4 +17,6 @@ Caps: Payment for successfully collecting the debt. (amount: 200)
 Favor with Metzger: Completing this task may improve your standing with Metzger and his gang. (amount: NONE)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 Fred owes Metzger money, and it's your job to make sure he pays up—one way or another.
+<|end_description|>

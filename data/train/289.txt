@@ -20,4 +20,6 @@ Caps Reward: Earn $500 for successfully collecting the tribute. (amount: NONE)
 Mordino Reputation: Increased standing with the Mordino family. (amount: NONE)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 Big Jesus Mordino requires a tribute payment from the Corsican Brothers. Retrieve the money and return it to him for a reward.
+<|end_description|>

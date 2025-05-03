@@ -18,4 +18,6 @@ NONE:  (amount: 1)
 Ma'randru-jo: an accomplished male wizard, who travels with the caravans (location: )
 <|end_characters|>
 <|end_quest|>
+<|begin_description|>
 Ma'randru-jo is an accomplished wizard, and your assassination target. Locating him may be challenging, as he travels with the caravans. Those caravaners can be an elusive bunch. Takes a fair bit of stalking to take one down. But then, that's half the fun, isn't it?
+<|end_description|>

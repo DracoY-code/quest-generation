@@ -22,4 +22,6 @@ Mages Guild: a guild of mages (amount: NONE)
 Council of Mages: the ruling body of Mages Guild (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 There is an urgent matter which requires your personal attention. This task falls to you, and only you. Count Hassildor of Skingrad has contacted the Council. He claims to have information that is vital to us. He has requested that you personally travel to Skingrad to obtain this information. I cannot stress how important it is that our relationship with Hassildor be preserved. I expect you to visit him immediately. I am unsure as to why he has requested that you, of all people, should be the one to visit him. I have no wish to put you in harm's way. Please, travel there as soon as possible. The Count is waiting for you.
+<|end_description|>

@@ -19,4 +19,6 @@ Recognition as the Chosen One: Completion of the trial proves your worthiness. (
 Basic Equipment: You receive supplies to begin your journey. (amount: NONE)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 The Temple of Trials is a test of strength, intelligence, and resilience. Only those who successfully complete it can claim the title of the Chosen One and embark on their journey to save Arroyo.
+<|end_description|>

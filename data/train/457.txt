@@ -22,4 +22,6 @@ Odiil Farm: Valus Odiil, Rallus and Antus' farm, not far from Chorrol (location:
 Chorrol: a town (location: NONE)
 <|end_locations|>
 <|end_quest|>
+<|begin_description|>
 My sons! Have you seen my sons Rallus and Antus? They're going to fight off the creatures at our farm, but I fear for their safety. For the last few days, we've suffered attacks from these creatures at our farm not far from Chorrol. They're coming from someplace in the Great Forest. I don't know where, but Rallus may know more by now. My boys will take up the fight even if the guards won't. Doesn't matter if it's outside the town walls - it still affects us all. They expect me to go with them, but... I fear in my old age, I'm not the warrior I once was. Would you... would you go in my place? I'm supposed to meet them at Weynon Priory. You'd best get whatever supplies you need now, so you can get there in time. I... I need a drink to calm my nerves. Please, excuse me.
+<|end_description|>

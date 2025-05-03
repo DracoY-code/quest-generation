@@ -25,4 +25,6 @@ Imperial City: a nice town (location: NONE)
 : gold (amount: 500)
 <|end_items|>
 <|end_quest|>
+<|begin_description|>
 I'm Ursanne. I'm sorry to impose upon you like this, but I'm in need of assistance, and I don't know what to do. My husband, Aleron, is missing. It all started when Aleron became foolish, and started gambling. He'd visit the arena every week and spend our hard earned money on bets. I told him to stop, but he didn't listen. He was certain he could win us a fortune and move us somewhere nicer, like the Imperial City. It didn't take long for Aleron to begin losing. He resorted to borrowing money from a usurer to cover his losses and place new bets. As you can imagine, it didn't pay off. He ended up owing around 500 gold. We could never have that kind of money to pay back the usurer. Yesterday, the usurer, Kurdan gro-Dragol, sent for my husband to meet him at the Lonely Suitor Lodge. He hasn't returned since. I fear for his life. Kurdan isn't known for his patience. Please, I'm not wealthy, but I'd give anything to see Aleron again. Please, find Aleron. Farewell, and be careful, Kurdan is not to be trusted.
+<|end_description|>

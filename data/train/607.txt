@@ -24,4 +24,6 @@ The End: the dimension at the end of all (location: NONE)
 knowledge
 <|end_motivation|>
 <|end_quest|>
+<|begin_description|>
 There is a place at the end of all, far away from this village. A perfect place for a person of a more.. dark disposition. This place is called The End. It is said that you can enter it from a stronghold. The End is is said to be ruled over by a beast called the Ender Dragon: I'd like you check out whether the Ender Dragon truly exists. Oh, I did not mention the best part yet: there are wonderful treasures in The End.
+<|end_description|>

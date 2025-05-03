@@ -18,4 +18,6 @@ Uder Mordin: a man who witnessed a battle between Vithal and a powerful opponent
 Vithal: a powerful male mage, who was magically confined (location: the cavern north of here)
 <|end_characters|>
 <|end_quest|>
+<|begin_description|>
 I would be careful in this place, if I were you. Many dangers around many corners. You will be lucky to live. No real secrets for those that travel here frequently. A trespasser got his due from someone he crossed. Well, I suppose it did not end in death, but it was a mighty battle regardless. I do not know who the aggressor was, but I know who lost. That person was a mage of power, I am sure, though not powerful enough in the end. A pity too. He seemed intent on unearthing an artifact of old or some such. And his reward for his effort? Worse than death, even though he seemed willing to share. Imprisoned, magically confined in the cavern north of here. Pity.
+<|end_description|>

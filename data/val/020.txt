@@ -17,4 +17,6 @@ Caps: A monetary reward for retrieving the book. (amount: 100)
 Experience Points: XP gained for successfully completing the task. (amount: NONE)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 A person in The Den needs you to retrieve a book from Derek, who may not be willing to part with it easily.
+<|end_description|>

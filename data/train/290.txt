@@ -17,4 +17,6 @@ Children of the Cathedral: A religious organization based in the wasteland, acti
 Loot from Jain: Items and potential documents carried by Jain. (amount: Varies)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 The player must eliminate Jain, a high-ranking member of the Children of the Cathedral. The method can vary based on stealth, direct combat, or manipulation, and the consequences may affect the player’s reputation with the faction.
+<|end_description|>

@@ -25,4 +25,6 @@ Dawnguard: an organization of vampire hunters (amount: NONE)
 Vigilants: an order of holy warriors (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 These vampires are a new threat, and a truly deadly one. Gunmar and I agree that we're going to need Florentius to help. Gunmar and I have a lot of work to do here, so we were hoping that maybe you could track him down. He's a priest of Arkay. Well, he was. It's... it's complicated. Florentius's a little eccentric, but we can trust him and we could definitely use his skills. Here's the thing. We don't know where Florentius is. Haven't seen him in years. I think he had regular contact with the Vigilants, and I know Isran kept track of them... So maybe you could ask Isran if he knows anything? Just keep in mind that Isran... well, he might not like the idea. The two of them just never got along.
+<|end_description|>

@@ -17,4 +17,6 @@ Neal’s Bar: A bar in Junktown owned by Neal, known for enforcing his own rules
 Neal’s Possessions: Loot from Neal’s body and any items found in his bar. (amount: Varies)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 The player must eliminate Neal, the bar owner in Junktown. Killing him may provoke hostilities from nearby NPCs and affect the player's reputation in Junktown.
+<|end_description|>

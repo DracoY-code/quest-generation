@@ -19,4 +19,6 @@ Skyrim: a province
 Falmer: an ancient race of people (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 Well, well. I haven't seen one of these beauties in a long time. A rare find in the original Falmer language. You're damn right I'm interested. Question is, are you selling? Well, considering no one else in Skyrim would buy something they couldn't possibly read, I'd say you don't have much of a choice. Tell you what, you bring me books like this, and I'll pay a thousand gold each. I'll even throw in a translated edition I have for free. If you're holding out for more gold, it's never going to happen.
+<|end_description|>

@@ -21,4 +21,6 @@ Ennodius Papius: a paranoid male hermit (location: in the woods near Anga's Mill
 Anga's Mill: a mill (location: NONE)
 <|end_locations|>
 <|end_quest|>
+<|begin_description|>
 Ennodius Papius lives just outside Anga's Mill, in the woods. He was once the miller. Now Papius is just a paranoid recluse who thinks someone is out to get him. And he's right. You will assassinate him and prove his paranoia legitimate.
+<|end_description|>

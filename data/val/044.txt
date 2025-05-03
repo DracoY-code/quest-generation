@@ -21,4 +21,6 @@ Suurootan: a male trader (location: Novaroma)
 Novaroma: Suurootan's shop in Bruma (location: NONE)
 <|end_locations|>
 <|end_quest|>
+<|begin_description|>
 Lady Narina Carvain, Countess of Bruma. Welcome. I've been looking for just the right owner for a special home I have. It's a quaint little house conveniently located just off the main gate. I'll sell it to you for 10,000 gold. I've had a look at the place myself, and it could use some furnishings inside. Quite barren in there I'm afraid. I'm fairly certain that Suurootan at Novaroma here in Bruma can acquire the things you'll need to make it look like home.
+<|end_description|>

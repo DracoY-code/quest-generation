@@ -18,4 +18,6 @@ Experience Points: Earned for completing the quest. (amount: 1000)
 Caps: Monetary reward provided by Merk. (amount: 1000)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 Merk desires Dr. Henry's cyberdog research papers and tasks you with retrieving them. You can choose to intimidate, persuade, or stealthily acquire the documents from Dr. Henry in NCR Downtown.
+<|end_description|>

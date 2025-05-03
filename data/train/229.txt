@@ -18,4 +18,6 @@ NONE:  (amount: 1)
 College of Winterhold: a school of mages (location: NONE)
 <|end_locations|>
 <|end_quest|>
+<|begin_description|>
 There's more enchanting to be done. You can acquire whatever it is and bring it back here, and I'll take care of it. Be quick about it, will you? This is a good way for the College to bring in some money. Here's the name and location of the client.
+<|end_description|>

@@ -19,4 +19,6 @@ Pelinal Whitestrake: the legendary male knight who killed Umaril the Unfeathered
 Umaril the Unfeathered: an evil male elf (location: )
 <|end_characters|>
 <|end_quest|>
+<|begin_description|>
 Hear my final passings of praise and wisdom! You have stepped from the humble shadows of obscurity and into legend. No feat you have accomplished in your life compares to what you have become. You are an embodiment of Pelinal Whitestrake, the bane of Umaril the Unfeathered. The time has come for you to fulfill your destiny. Umaril lies hid in the ancient fane of Garlas Malatar. You must go there and destroy him. Umaril's Daedric nature allows his spirit to escape into Oblivion after death. This is what Pelinal learned upon defeating Umaril the first time. You must first kill his living body. While beyond the power of most mortals, this is only the lesser of your two tasks. It will allow you to follow Umaril into the spirit realm upon his death. It will allow you to destroy him, body and soul, utterly and for all time.
+<|end_description|>

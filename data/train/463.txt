@@ -18,4 +18,6 @@ Gruiand Garrana: a master speaker
 Cyrodiil: a realm (location: NONE)
 <|end_locations|>
 <|end_quest|>
+<|begin_description|>
 I am Gruiand Garrana. You would seek to better yourself? First, I would ask that you look to the poor and the suffering around Cyrodiil. Travel to all of our cities, and speak with the unfortunate souls forced to beg for change. Look into their hearts, and then look into your own. Return to me when you have spoken with all of them. Then we shall talk of training.
+<|end_description|>

@@ -18,4 +18,6 @@ The Retching Netch: a bar
 Geldis: a male barkeeper who owns the The Retching Netch (location: The Retching Netch)
 <|end_characters|>
 <|end_quest|>
+<|begin_description|>
 Doesn't everyone pity the hopeless? Look at me... I'm no better than a beggar. I used to be a miner, a good one too. I made more gold digging up ore in a month than some people earn in a lifetime. When the mine dried up, I was lost. I have no other trade, so I spend my time drinking my fortune away at the Retching Netch... or I used to anyway. That fetcher Geldis won't even allow me inside. Said I was bad for business. If I want to spend my last bag of coins getting drunk, that's my business. What does he care? If you can get that stubborn mule to let me into the Netch, I'll make sure you get what's coming to you.
+<|end_description|>

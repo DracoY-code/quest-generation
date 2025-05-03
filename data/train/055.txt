@@ -18,4 +18,6 @@ NONE:
 Museum of Oddities: a museum filled with odd things (location: NONE)
 <|end_locations|>
 <|end_quest|>
+<|begin_description|>
 Hello, I'm Una Armina. Perhaps you've heard of my Museum of Oddities? There you can view all the finest Oddities of the Realm. I'm always looking for new exhibits, so be sure to think of me when you see anything Odd! I'm always looking for new Oddities to add to my collection. Anything unusual, bizarre, strange, or disturbing -- bring it to me! I do pay a nominal finder's fee, but of course the real reward is your contribution to posterity. Do you have anything that you'd like to contribute to the Museum?
+<|end_description|>

@@ -20,4 +20,6 @@ Mercer Frey: the player's enemy (location: )
 Maven Black-Briar: a powerful woman with criminal connections (location: )
 <|end_characters|>
 <|end_quest|>
+<|begin_description|>
 Vald? That pig? Oh, I have info on him. More than you care to know. Vald does not have a good side. The only thing he understands is gold. A man after my own heart. You can try to buy him off, but he'll ask for a whole lot. I mean, you are asking him to betray Mercer Frey. Your best bet would be to erase his debt with Maven Black-Briar. If you talk to her, she might be able to give you the details. Of course, you could just run him through and take what you need off of his corpse... I could care less.
+<|end_description|>

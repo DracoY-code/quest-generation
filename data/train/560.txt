@@ -21,4 +21,6 @@ Malene: a woman, and Pranal's crush (location: )
 : gold (amount: 50)
 <|end_items|>
 <|end_quest|>
+<|begin_description|>
 You desire heavy armor training from me? Goodness me, I'm retired! I'm afraid combat doesn't interest me any more. All that matters to me now is Malene. I'm no fool. I know she'd never be interested in an old man like me. It's enough just to be around her, to be in her company. Well, if you're dead set on learning something from me, then how about you do a little something for me, first? Something for her, to be honest. I'd like to get her a gift of a sort. Nothing terribly fancy, and something useful... How about a nice silver pitcher, and a set of four glasses. Here's 50 gold to cover the costs, that should be more than enough. Come see me when you've got everything, and we'll talk more.
+<|end_description|>

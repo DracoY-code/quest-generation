@@ -21,4 +21,6 @@ Seaside Settlement: a coastal village (location: NONE)
 serenity
 <|end_motivation|>
 <|end_quest|>
+<|begin_description|>
 The ship sank. All those poor sailors have now passed the veil to the other side. This is a sad day for us all. My friend, that ship carried important potion ingredient for our village. Most of the goods that are not produced here are transported here by the sea. Now I can't fashion remedies for our villagers, and the next shipment will not be here for a long time. You are a good person. I ask you to find a bundle of life-saving potion ingredients for me. That would mean a lot for the whole village! The bundle should be in the sunken ship east of here. Here, this potion of water breathing should help you dive to the ship save and sound. I'll even let you have my old, extra brewing stand as a gift upon your return. Be careful while you dive; there a many lethal things lurking beneath the waves. I'd hate to bury a friend.
+<|end_description|>

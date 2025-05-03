@@ -22,4 +22,6 @@ Vyrax: an ancient dragon who has hoarded treasure (location: Vyrax's Tower)
 Rivenskull Gorge: a region (location: NONE)
 <|end_locations|>
 <|end_quest|>
+<|begin_description|>
 Hello again! I think I may be able to repay the favor you've done for us. I've been doing some research, and have uncovered some interesting information about Vyrax, the ancient dragon who still dwells in the tower in Rivenskull Gorge. The interesting bit is this - Vyrax has amidst his hoard a Heartfire Stone, which confers to its wielder the power of dragonfire. It is a rare and powerful artifact that would surely aid you. If you wish to find the Heartfire Stone, you will need to first claim the key to Vyrax's Tower, in the depths of the Forgotten Halls. Good luck!
+<|end_description|>

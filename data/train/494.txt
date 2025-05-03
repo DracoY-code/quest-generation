@@ -18,4 +18,6 @@ Nila: a greedy villager
 comfort
 <|end_motivation|>
 <|end_quest|>
+<|begin_description|>
 What are YOU doing here! If it was up to me, I'd never let you in the village. Perhaps you'd like to mend our relations? Bring me some gold ore, the more the better. You can never have enough of it; it's so beautiful. My gold. I wish to have it all to myself. Too bad it's mainly found in the ore veins deep in the ground. I guess you could have these melon seeds as a reward. I have no use for them; melons have nothing on gold.
+<|end_description|>

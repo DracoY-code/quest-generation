@@ -18,4 +18,6 @@ Lapis Lazuli: a cataclysm in enchanting (amount: 1)
 comfort
 <|end_motivation|>
 <|end_quest|>
+<|begin_description|>
 Monsters hide in the dark. I'm way too important to die to some mindless, monstrous rabble! Ergo, I need to light up my house thoroughly. You sure look like a servant. Hear your mistress' command, then. Go, and fetch some candles for me. If you didn't know, you can make candles by combining a honey comb with string. Get a move on. If your services please me, I may give you some Lapis Lazuli. Perhaps you can enchant something with it?
+<|end_description|>

@@ -18,4 +18,6 @@ Aran Linvail: a man leading a guild of thieves
 Mook: Aran Linvail's female guard captain (location: the docks)
 <|end_characters|>
 <|end_quest|>
+<|begin_description|>
 Welcome to this place. I've looked forward to seeing you. I am, as you know, Aran Linvail. Strange things are afoot on the docks. Shipments are disappearing, as are my employees with them. We are significantly weakened by this. I think it unlikely you would be captured or wooed to the enemy. If you go to the docks and bolster the guard on the shipments, it will strengthen our position. Go at night, and you will find my present guard captain there already, a woman by the name of Mook. Take note of anything odd that happens. Good hunting. Report to me if anything happens. Oh, and the reward I have set aside for you... I'll let you have some magical items. You will find them useful, I am sure.
+<|end_description|>

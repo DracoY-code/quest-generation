@@ -19,4 +19,6 @@ Ezrohir: a race of spirits, enemies of the Zeraphi (amount: NONE)
 Zeraphi: a race of spirits (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 I am no ghost, only disembodied spirit: a Zeraphi warrior, torn from his wrappings, but unable to tear himself away from this world. Umahd is my name. I was defeated in battle, and my physical form taken from me, and made to serve the Ezrohir. But the Ezrohir Marauder who wears my wrappings has returned, no doubt thinking me long gone. Find that Ezrohir Marauder! Restore my physical form, and I shall reward you!
+<|end_description|>

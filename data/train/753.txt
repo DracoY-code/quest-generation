@@ -17,4 +17,6 @@ Renesco's shop: A small shop in New Reno run by Renesco.
 Caps: A small payment for your efforts. (amount: 50)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 Renesco, a shopkeeper in New Reno, needs a new pair of glasses. Find and deliver a pair to him to complete the task.
+<|end_description|>

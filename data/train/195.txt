@@ -19,4 +19,6 @@ Jarl of Whiterun: a headstrong noblemen (location: Dragonsreach)
 Alduin: an evil dragon (location: )
 <|end_characters|>
 <|end_quest|>
+<|begin_description|>
 Do you know Dragonsreach? The Jarl of Whiterun's palace? Its name is no accident. The palace was originally built to hold a captive dragon. You might be able to trap a dragon there, interrogate him and learn Alduin's location. You'd require the Jarl's cooperation, of course. That might not be easy to come by. You must trust in the rightness of your cause, and the strength of your Voice.
+<|end_description|>

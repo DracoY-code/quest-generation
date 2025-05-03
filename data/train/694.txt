@@ -18,4 +18,6 @@ Hob's Fall Cave: a necromancer base
 Larina: Pantea Ateia's foolish female student (location: )
 <|end_characters|>
 <|end_quest|>
+<|begin_description|>
 That damn fool! I should wring Larina's neck! That fool student of mine stole my flute and sold it to some necromancer in Hob's Fall Cave. Apparently Larina told him some story about the flute being able to make the dead dance. It's just a flute. A really old and valuable flute, but just a flute. I just got a ransom note for it. That flute has been handed down for seventeen generations! Well don't just stand there. Go get my flute! I don't have any money to give you. but I can show you a few tricks I learned playing for wizards.
+<|end_description|>

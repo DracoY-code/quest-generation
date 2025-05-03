@@ -19,4 +19,6 @@ Madesi: a male merchant (location: )
 Brand-Shei: a male merchant (location: )
 <|end_characters|>
 <|end_quest|>
+<|begin_description|>
 I've got a bit of an errand to perform, but I need an extra pair of hands. And in my line of work, extra hands are well-paid. It's simple... I'm going to cause a distraction and you're going to steal Madesi's silver ring from a strongbox under his stand. Once you have it, I want you to place it in Brand-Shei's pocket without him noticing. There's someone that wants to see Brand-Shei put out of business permanently. That's all you need to know. Now, you tell me when you're ready and we'll get started.
+<|end_description|>

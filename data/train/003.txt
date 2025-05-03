@@ -20,4 +20,6 @@ Caps: A payment for successfully delivering the report. (amount: 500)
 Hubologist Reputation: Increased standing with the Hubologists. (amount: NONE)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 The Hubologists need a field report delivered to their leader, AHS-9, in San Francisco. This task is simple but may have political implications depending on your alliances.
+<|end_description|>

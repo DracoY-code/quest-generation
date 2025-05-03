@@ -27,4 +27,6 @@ Nonwyll Cavern: a cavern (location: NONE)
 Fighters Guild: a mercenary guild (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 I've got another job for you, slightly off the record. You'll be going on a mission with Viranus Donton. Yes -- the guildmaster's son. You're to accompany him, and make sure he succeeds. He needs some time in the field, to get his confidence up, or he'll never become a good warrior. Vilena coddles the boy too much. Doesn't want him in the line of fire. Suppose it's no surprise after Vitellus. Vitellus was Vilena Donton's eldest son. Good man. We lost him on a botched mission recently. You've probably seen the other wounded around. If you're smart, you'll steer clear of the subject around the guildmaster. Perhaps you and I will have time to discuss it more later. Viranus' mother's been holding him back, protecting him. You'll go to Nonwyll Cavern with him. Galtus Previa was lost there, and you're to find him. And not a word of this to the guildmaster! Go find him. He'll be in the Donton house, most likely. And bring him back in one piece!
+<|end_description|>

@@ -22,4 +22,6 @@ Thalmor: enemies of the Blades (amount: NONE)
 Blades: an intelligence organization (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 The Thalmor hunted us down. It wasn't exactly great for recruitment. But we have a headquarters of a sort now. We'll rebuild the Blades. If you find anyone you think would make a good recruit, I can certainly take a look at them. Remember, though, being a Blade is a lifelong commitment. Their loyalty has to be with us once they're in. After you have recruited enough new Blades, ask Esbern about the dragon lairs he's been studying. We'll have the recruits do some dragon hunting with you.
+<|end_description|>

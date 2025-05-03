@@ -17,4 +17,6 @@ Gratitude from the freed slaves: The former slaves will be thankful for their fr
 Improved karma: Your actions will be seen as heroic by those opposed to slavery. (amount: NONE)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 Metzger holds people captive as slaves in The Den. You must find a way to free them, either through stealth or by eliminating their captors.
+<|end_description|>

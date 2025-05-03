@@ -17,4 +17,6 @@ Caps: A share of the treasure once it's found. (amount: 500)
 Unique items: Potentially valuable pre-war artifacts buried with the treasure. (amount: NONE)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 Typhon, an old ghoul, speaks of a long-lost treasure buried in the wasteland. With the right tools and knowledge, you might be able to uncover its location and claim a share of the riches.
+<|end_description|>

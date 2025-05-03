@@ -22,4 +22,6 @@ Cyrodiil: a province in Tamriel (location: NONE)
 Shadowbanish Wine: rare wine from Tamriel that grants its drinker Nighteye (amount: 6)
 <|end_items|>
 <|end_quest|>
+<|begin_description|>
 Greetings. I'm Nerussa. I'm quite fond of collecting all manners of wines from all over Tamriel. But one vintage continues to elude me: Shadowbanish Wine. How I'd love to add it to my collection. Apparently the wine is so rare because it was only made in one tiny batch. It's the product of an alchemist who was also a vintner. Besides tasting incredible, the magic within the wine allows the imbiber to be gifted with Night Eye! The vintner made it special for the Legion soldiers posted at the forts when they were active long ago. It was perfect for keeping lookouts warm on cold nights and helping them see better in the dark. If you can retrieve six bottles of Shadowbanish Wine, I'll gladly pay you well: 1,000 gold. All I know about them is that they're found in the many fort ruins scattered all over Cyrodiil.
+<|end_description|>

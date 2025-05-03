@@ -21,4 +21,6 @@ Caps: A monetary reward for uncovering the truth. (amount: 500)
 Wright Family Favor: Increased standing with the Wrights, granting potential future benefits. (amount: NONE)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 Lil' Jesus Mordino, a known dealer from the Mordino family, is a suspect in Richard Wright’s overdose. Investigate his potential involvement and uncover the truth.
+<|end_description|>

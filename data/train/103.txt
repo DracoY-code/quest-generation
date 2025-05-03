@@ -18,4 +18,6 @@ Caps: A bribe from Iguana Bob in exchange for silence. (amount: 100)
 Moral Outcome: Choice to report Iguana Bob to authorities instead of blackmailing him. (amount: Reputation impact)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 The player uncovers that Iguana Bob is selling human meat disguised as iguana. They must decide whether to blackmail him for caps, expose him to the authorities, or let the operation continue.
+<|end_description|>

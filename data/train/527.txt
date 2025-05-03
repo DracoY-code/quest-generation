@@ -18,4 +18,6 @@ NONE:  (amount: 1)
 Ancestral Tombs: tombs where dark elves inter their dead (location: NONE)
 <|end_locations|>
 <|end_quest|>
+<|begin_description|>
 The Ancestral Tombs are where we inter our dead. They are sacred places, meant to honor their passing. Sadly, we've been unable to use the Ancestral Tomb beneath the Temple as of late, and have resorted to other locations to scatter the remains. Those foul vermin... the abominations we call ash spawn have risen from the ashes of our own ancestors. They're befouling the memories of our forefathers by defiling their remains. Could you cleanse the tomb for us, wanderer? That would be most kind. Here, this key should open the door to the tomb.
+<|end_description|>

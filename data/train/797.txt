@@ -18,4 +18,6 @@ Karma Boost: Rescuing Torr improves your reputation among the townsfolk. (amount
 Potential allies: Gaining favor with Klamath's people may prove useful later. (amount: NONE)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 Torr, a simple-minded but kind-hearted man from Klamath, has been abducted by slavers. His family pleads for someone to bring him home safely before he is sold into slavery.
+<|end_description|>

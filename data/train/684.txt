@@ -20,4 +20,6 @@ NONE:
 reputation
 <|end_motivation|>
 <|end_quest|>
+<|begin_description|>
 What! NO! Please spare me, oh dark master! I promise I'll be your best servant. A minion of unshaken loyalty. If my arrows were known to be the best, your dark influence would spread across the land! Please, master. Bring me a load of sticks so I can craft arrows en masse. Master, you need to chop down trees in a forest of any kind, and then craft the wood from the trees into sticks.
+<|end_description|>

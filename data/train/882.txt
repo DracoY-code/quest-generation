@@ -24,4 +24,6 @@ Winterhold: a region (location: NONE)
 Companions: a band of honorable warriors (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 The Jarl of Winterhold has asked for our help. It seems that predators have taken up residence in Bleakcoast Cave and have been attacking farmers and travelers. Someone's got to head out there and take care of the beasts. Get it taken care of right away. Nobody wants a hungry animal left roaming along the roads.
+<|end_description|>

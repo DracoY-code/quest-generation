@@ -24,4 +24,6 @@ Skingrad: a city (location: NONE)
 Dark Brotherhood: a guild of assassins (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 Do you like parties? Because you've been invited to one. Of course you'll be killing all the other guests. Each guest, at some point in the past, wronged their mysterious host. Now he's hired us to exact his revenge. Are you ready to attend? You need to go to the city of Skingrad, to the large house known as Summitmist Manor. There you will meet up with five very unlucky guests. In order to receive your bonus, you must kill each guest secretly, one by one. If anyone sees you committing murder, the bonus is forfeit. The guests believe there is a chest of gold hidden in the house, and have agreed to be locked inside until one of them finds it. In fact, the guests believe the key to the manor is inside the chest, and only by satisfying their greed will they be allowed to leave. Poor fools. There is, of course, no chest of gold. The guests will find no key. After you arrive, the doors will be locked behind you, as everyone expects. When all the guests lie dead, you will be free to leave. Now go, see the doorman at Summitmist Manor. He will explain the rest. Have fun.
+<|end_description|>

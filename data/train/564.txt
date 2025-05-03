@@ -18,4 +18,6 @@ NONE:
 Peryite: the god of infection and pestilence (location: )
 <|end_characters|>
 <|end_quest|>
+<|begin_description|>
 Not everyone has the stomach required to entreat my Lord. He is the pus in the wound. Oh, proper ones curl their noses, but it's pus that drinks foul humors and restores the blood. But Kesh likes you, friend. There is a way Peryite may speak to us who will take Him in. If you wish to commune with Him, we'll need the incense. Fetch for me a deathbell flower, one silver ingot, a flawless ruby, and some vampire dust. Then I will show you how. How to gather the ingredients? This one would try a shop. You might prefer the direct route, hm? Deathbell grow in the frozen tundra. You might nip into a mine for the ruby and silver. Vampire Dust is tricky. Vampires, you know.
+<|end_description|>

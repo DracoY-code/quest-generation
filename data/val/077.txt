@@ -18,4 +18,6 @@ Arrows of Weakness: special arrows, shoot an enemy with one, and they become muc
 knowledge
 <|end_motivation|>
 <|end_quest|>
+<|begin_description|>
 I have heard whispers about some strange arrows here in the village. They are known as "spectral arrows", and I'd like to find out what exactly they do to their targets. Call that my professional curiosity as a fletcher. If you obtain a spectral arrow in your travels, I'd be happy to have it for research. I will even give you some special arrows I've made: Arrows of Weakness. Shoot an enemy with one, and you'll find them much weaker... and easier to kill.
+<|end_description|>

@@ -19,4 +19,6 @@ Nelleck: a man (location: Imnesvale)
 Minister Lloyd: the mayor of Imnesvale (location: Imnesvale)
 <|end_characters|>
 <|end_quest|>
+<|begin_description|>
 Oh! There you are, my noble ranger! It's me, Delon. I... I've been looking all over the place for you! You... you've got to come to Imnesvale! There's orcs... big ones! Nelleck says he saw them coming down from the hills. Soon they'll attack! The Minister sent me to find you! Nelleck says that they'll be at the village soon... no later than three or four days from now. You've got to hurry! I'll run back and tell Minister Lloyd that you're coming! Everyone will be so relieved!
+<|end_description|>

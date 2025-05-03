@@ -19,4 +19,6 @@ Leather Armor: A piece of armor given by Irwin as thanks for helping him reclaim
 Experience Points: Earned for successfully clearing out the raiders. (amount: 500)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 Irwin, a displaced farmer in the Hub, pleads for help in reclaiming his farm from a group of raiders. The player can take on the challenge, eliminate the raiders, and restore Irwin’s home, earning a reward for their efforts.
+<|end_description|>

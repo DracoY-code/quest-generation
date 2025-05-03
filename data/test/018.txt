@@ -18,4 +18,6 @@ Rosethorn Hall: a large manor house in Skingrad, just inside the main gate, near
 Vandorallen Trebatius: a man (location: Rosethorn Hall)
 <|end_characters|>
 <|end_quest|>
+<|begin_description|>
 I'm Shum gro-Yarug, the Count's butler. So you want to buy a house? I can speak for the Count. Rosethorn Hall is a stately manor currently occupied by Vandorallen Trebatius. You won't find a better property for sale in Skingrad. It's just inside the main gate, near the bridge to the chapel. The house costs 25,000 septims. Give me the septims, and I will order the deed to the house drawn up. Don't worry about Vandorallen Trebatius. I'll have him evicted. I'm sure he'll find another home easily.
+<|end_description|>

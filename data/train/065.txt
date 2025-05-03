@@ -21,4 +21,6 @@ East Empire Pendants: popular amulets that were made exclusively for the East Em
 East Empire Company: a merchant organization (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 Mining gear? No. However, I used to sell East Empire Pendants until I ran out of them. Popular little item. It's an amulet that was made exclusively for the East Empire Company. They gave them to their workers as an incentive at one point... a kind of reward for extra effort. They're no longer being made, so they've become collectible. I'd love to get my hands on a few of them. They could be anywhere on the island. The mines might be a good place to start. If you find any while you're exploring Solstheim, bring them here and I'll pay you for them.
+<|end_description|>

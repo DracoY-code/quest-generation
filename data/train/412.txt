@@ -21,4 +21,6 @@ Sheogorath: a fickle god (location: )
 Fanatics:  (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 I am Count Cirion, and you have violated the inner sanctum of Vitharn Keep. However, my people and I are in need. Maybe you can help us. Centuries ago, Vitharn was overrun by Fanatics. We were soft and failed to defend ourselves. I was the weakest of all. Now, the shades of my people are cursed by Sheogorath to repeat the final moments of their failures, over and over again. You must help us break the cycle of torment. Help my people overcome their weakness and defend Vitharn from the Fanatics. Walk among them. There were four who failed to protect the gate lever. Find out what they did wrong and help them correct it. You can put away your sword in these halls. Unlike the defending spirits, within these walls, none will war with you. Not even the Fanatics. My people long to be laid to rest. Please help them.
+<|end_description|>

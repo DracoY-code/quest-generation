@@ -18,4 +18,6 @@ Wide Woodland: a large forest
 comfort
 <|end_motivation|>
 <|end_quest|>
+<|begin_description|>
 Me happy. See a friend. Hello friend! Me would like me own wolfie. Could help me do things... Wolfies like Wide Woodland. A biggy forest. Tame a wolfie. Bring it to me. Me give you pumpkins. A load of pumpkins.
+<|end_description|>

@@ -18,4 +18,6 @@ Caps: A small monetary reward for retrieving the pocket watch. (amount: 100)
 Improved reputation in Broken Hills: Farrel and the townsfolk will appreciate your efforts. (amount: NONE)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 Farrel believes resolving the dispute over Cornelius' missing gold pocket watch is important for town harmony. Your task is to investigate, retrieve the watch, and return it to him.
+<|end_description|>

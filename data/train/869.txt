@@ -18,4 +18,6 @@ Sean: a happy shepherd
 knowledge
 <|end_motivation|>
 <|end_quest|>
+<|begin_description|>
 Good day to you, traveler! I just love the colorful sheep you brought me: they are so pretty. There's an interesting thing I heard from a fellow shepherd: if you name a sheep "jeb_", something bizarre is supposed to happen. I'm happy at the moment, but knowing what happens to any sheep named "jeb_" would make me even happier. I something good happens, I shall name all of them so. If something bad happens, I will warn all shepherds about this particular name. You have to find a name tag. Those are scattered in dangerous places; monster-filled dungeons, abandoned mineshafts, and even the ominous woodland mansions. Feel free to name one of my sheep "jeb_", and please make note of what happens. Do this, and I promise to give you a mountain of wool in all possible colors.
+<|end_description|>

@@ -18,4 +18,6 @@ Cocoa Hamlet: a village in a jungle
 knowledge
 <|end_motivation|>
 <|end_quest|>
+<|begin_description|>
 I almost didn't see you there, Hero. I'm succumbed in deep, dark thoughts at the moment. Someone's been spying on our village for quite some time. I personally spotted that suspicious individual coming here around dusk. Perhaps that person is plotting something malicious, perhaps not. Regardless, I'm worried that something bad might happen to Cocoa Hamlet. You, Hero, are the right person to find out what that suspicious person is up to. The jungle can hide many dangers in its deep thickets of trees and vines. Find and follow the suspicious person, here in Cocoa Hamlet. We can give you a diamond for your time. An adventurer found it in an abandoned jungle temple a long time ago.
+<|end_description|>

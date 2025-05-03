@@ -17,4 +17,6 @@ Experience Points: Earn XP for resolving the situation and gaining access to Vau
 Potential NCR Favor: Completing the quest may improve relations with the NCR. (amount: NONE)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 Vault 15 is under the control of squatters who are unwilling to give access freely. Tandi of the NCR wants access to its technology and resources. You must decide how to approach the situation—whether through diplomacy, stealth, or force—to retrieve the necessary parts and open the Vault.
+<|end_description|>

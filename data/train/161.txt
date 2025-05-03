@@ -18,4 +18,6 @@ NONE:  (amount: 1)
 Thieves Guild: a guild of thieves (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 Every now and again, we like to remind the shopkeepers that we're in charge. If that means breaking into their strongboxes and stealing something valuable from them, then so be it. Feel like doing a bit of shopping... the Guild way? The owner of this shop stiffed us on their last protection payment, but we're taking it anyway.
+<|end_description|>

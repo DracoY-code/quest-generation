@@ -18,4 +18,6 @@ NONE:
 comfort
 <|end_motivation|>
 <|end_quest|>
+<|begin_description|>
 Try to catch me, you big meanie! I bet you can't even carve pumpkins! You wanna try to obtain a carved pumpkin and give it to me? I surely will not do any kind of pranks with it... like sneaking up on grownups... pinky swear. Perhaps I'd even share my ten cookies with you. That should teach to to be nicer!
+<|end_description|>

@@ -15,4 +15,6 @@ NONE:
 NONE:  (amount: 1)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 I'm Lieutenant Aegisfield. I'm warning everyone so as to get the word out that there are guards on the streets. We've had a... a string of killings, and I don't want any more happening. Bandits I can understand; they are easy enough to figure out. What's happening here is... it's murder, but not like I've ever seen. There's a disgustingly sick person out there, and I simply don't have the manpower to protect everyone. He's been killing paupers, sometimes in the alley where they sleep. They have nothing to take. He kills them and that is all. Not only is it pointless, but he does it in as painful a way as possible. It's... it's sick. He flays them... alive. There has been blood all over the area. I must go about my rounds. If you find any information about the murders, be sure to let me know. Don't go looking for trouble though.
+<|end_description|>

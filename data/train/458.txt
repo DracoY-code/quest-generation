@@ -15,4 +15,6 @@ Angarvunde: an old tomb that is said to hold a treasure that bestows great power
 : Medresi Dran will split the treasure of Angarvunde with the player (amount: 1)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 I'm on the verge of incredible wealth, but my cowardly work force ran at the first sign of danger. We were excavating this old tomb when we opened a chamber full of corpses. The team took one look, turned tail, and ran. Legend says this tomb holds a treasure that bestows great power on the one who discovers it. Beyond that, not much more is known. Obviously, this treasure will fetch a good deal of gold, and I'm willing to let you share in the reward when we find it. I'll tell you what. You help me get the treasure and I'll split it with you. First, I need you to clear the main chamber of those restless dead. I'll stay here until you're finished, planning our next move. With my brains and your brawn, that treasure will soon be mine... uh, ours.
+<|end_description|>

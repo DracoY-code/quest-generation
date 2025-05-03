@@ -18,4 +18,6 @@ Radscorpion Antidote: A cure for radscorpion venom. (amount: 1)
 Experience Points: Earn experience for helping the settlement. (amount: 250)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 Shady Sands is dealing with a radscorpion infestation. The player is tasked with acquiring radscorpion venom and bringing it to a knowledgeable NPC to create an antidote.
+<|end_description|>

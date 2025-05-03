@@ -18,4 +18,6 @@ Improved karma: Healing Bess without selling her to Grisham earns good karma. (a
 Caps: Selling Bess to Grisham provides monetary compensation. (amount: 100)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 Bess, an injured brahmin near Modoc, requires medical assistance. You can heal her and set her free for karma or sell her to Grisham for a profit.
+<|end_description|>

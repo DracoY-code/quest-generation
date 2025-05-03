@@ -21,4 +21,6 @@ Aerin: a female master acrobat (location: Aerin's Camp)
 Cyrodiil: a province (location: NONE)
 <|end_locations|>
 <|end_quest|>
+<|begin_description|>
 Ganredhel. I train dogs. And people. Prefer dogs. People, I teach them advanced acrobatics. Up and jump. Dogs, I teach them to bite people. If you require further training, you might consider venturing into the mountains in the north of Cyrodiil. Aerin's Camp, specifically. Aerin's a very gifted acrobat, and could teach you anything you needed to know.
+<|end_description|>

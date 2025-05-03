@@ -18,4 +18,6 @@ Caps: A monetary reward for retrieving the car part. (amount: 500)
 Vehicle Access: Smitty can restore a working car, allowing for faster travel. (amount: NONE)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 Smitty, a mechanic in The Den, needs a specific car part to repair a vehicle. Find the part and bring it back to him to complete the job.
+<|end_description|>

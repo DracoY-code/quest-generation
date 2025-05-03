@@ -21,4 +21,6 @@ Anoriath: a male Wood Elf hunter who runs a market stall in Whiterun (location: 
 Whiterun: a city (location: NONE)
 <|end_locations|>
 <|end_quest|>
+<|begin_description|>
 There's Anoriath, a Wood Elf, who owns a market stall in the city of Whiterun. He may run a stall in the city, but he retreats to the plains outside Whiterun to hunt. Kill him there, and no one will bear witness... The hunter shall come to know the fear of the hunted, hmm? And I shall have your payment waiting for you, my friend.
+<|end_description|>

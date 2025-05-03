@@ -18,4 +18,6 @@ NONE:  (amount: 1)
 Hectan: a known thief (location: Tankard Tree)
 <|end_characters|>
 <|end_quest|>
+<|begin_description|>
 Lazarus Librarus at your service. I would normally invite you to look at my magical wares, but alas, my shelves are completely bare. I have not even a single parchment left for you to purchase. My spellbook has been stolen! Without it, I cannot fashion the powerful scrolls which normally fill my shop. Please, mighty traveler... I beg of you to help a humble wizard! At first, I suspected Hectan... he is well known about town for his sticky fingers. But after questioning many witnesses, it is clear that Hectan was at the local pub from dusk until dawn the night of the theft. I still suspect that no-good thief Hectan was involved — I can clearly see the guilt in his face! But there is no proof. Without my spellbook, I am virtually powerless to pursue this myself, and as a newcomer to this town, I have no one to turn to for help. I regret that there is little else I can tell you. Hectan can usually be found in the Tankard Tree if you wish to question him. I urge you godspeed.
+<|end_description|>

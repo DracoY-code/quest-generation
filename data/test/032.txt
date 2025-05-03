@@ -22,4 +22,6 @@ Throat of the World: a high mountain (location: NONE)
 Greybeards: masters of the way of the voice (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 So when the dragon died, you absorbed some kind of power from it. So it's true. The Greybeards really were summoning you. They are masters of the Way of the Voice. They live in seclusion high on the slopes of the Throat of the World. Whatever happened when you killed that dragon, it revealed something in you, and the Greybeards heard it. If they think you're Dragonborn, who are we to argue? The Dragonborn is said to be uniquely gifted in the Voice - the ability to focus your vital essence into a Thu'um, or Shout. If you really are Dragonborn, they can teach you how to use your gift. You'd better get up to High Hrothgar immediately. There's no refusing the summons of the Greybeards. It's a tremendous honor.
+<|end_description|>

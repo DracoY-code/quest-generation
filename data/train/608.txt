@@ -18,4 +18,6 @@ Dawnbreaker: Meridia's token, a mighty sword that burns undead (amount: 1)
 Malkoran: a necromancer who defiles Kilkreath and traps the souls of the people killed in the ongoing war (location: )
 <|end_characters|>
 <|end_quest|>
+<|begin_description|>
 The Necromancer Malkoran defiles my shrine with vile corruptions, trapping lost souls left in the wake of this war to do his bidding. Worse still, he uses the power stored within my own token to fuel his foul deeds. Mortals call my token Dawnbreaker, for it was forged in a holy light that breaks upon my foes, burning away corruption and false life. You will enter my shrine, destroy Malkoran, and retrieve this mighty blade. I have brought you here, mortal, to be my champion. You will do this. I have commanded it!
+<|end_description|>

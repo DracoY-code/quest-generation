@@ -17,4 +17,6 @@ Caps: A monetary reward for successfully fixing the plant. (amount: 750)
 Improved reputation with Vault City: Vault City will be more inclined to work with you. (amount: NONE)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 The nuclear power plant in Gecko is leaking radiation, threatening the surrounding area. You must either repair it or find an alternative solution to stop the leak.
+<|end_description|>

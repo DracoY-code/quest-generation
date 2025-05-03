@@ -24,4 +24,6 @@ Divines: the gods of the Empire who do not manifest themselves in the mortal wor
 Daedra: immortal, fickle, infamous beings who have artifacts in the mortal world (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 I've figured out another item needed for the ritual to open the portal to Camoran's Paradise. The second item is the counterpart to the first: the blood of a Divine. This was a terrible puzzle to me. Unlike the Daedra, the gods have no artifacts, and do not physically manifest themselves in our world. How then to obtain the blood of a god? But Jauffre solved it. The blood of Tiber Septim himself, who became one of the Divines. This is a secret remembered only by the Blades, passed down from one Grandmaster to the next. Jauffre should tell it to you himself.
+<|end_description|>

@@ -18,4 +18,6 @@ Stygian Aerie: a Manticore nest
 Manticore: a half drake, a half lion beast (amount: 1)
 <|end_enemies|>
 <|end_quest|>
+<|begin_description|>
 My ancient charge, to guard the gate The desert sands to contemplate. In Stygian realm lurks beast of yore Part drake, part lion: Manticore. Lay its skin before my eyes And passage through shall be your prize.
+<|end_description|>

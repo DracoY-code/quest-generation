@@ -18,4 +18,6 @@ fight to survive
 mind flayers: creatures with powerful mental abilities (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 Me a servant ogre. Now it time to fight! You fight in the arena. Listen, I tell you what you need to know. You trespass on the home of the mind flayers, and you got caught. Now you pay for your stay. Understand? Next thing, you better fight well in the arena, because if you don't fight well, you die. If you don't fight at all, you die. Oh, last rule, never attack the mind flayers. You are in their home. They kill you with their thoughts. You will live if you fight well. I warn though: Do not anger spectators. They extra strong in this place because of big brain.
+<|end_description|>

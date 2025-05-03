@@ -15,4 +15,6 @@ Mapworks: a legendary dungeon hub
 NONE:  (amount: 1)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 The legendary Mapworks is operational once more! From the Mapworks, you can navigate to all sorts of wondrous places! Many fine adventures surely await you within.
+<|end_description|>

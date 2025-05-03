@@ -18,4 +18,6 @@ Vault 15: A neighboring vault that may contain a functional water chip.
 Experience Points: Earned for successfully retrieving the water chip. (amount: 7000)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 "Our vault's water chip has failed. Without it, we have only 150 days of water left. You must find a replacement before it's too late. Vault 15 might have what we need, but it's long been abandoned. Be careful out there. The Wasteland is dangerous."
+<|end_description|>

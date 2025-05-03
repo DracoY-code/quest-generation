@@ -18,4 +18,6 @@ Bjornin: a paladin
 Beregost: a town (location: NONE)
 <|end_locations|>
 <|end_quest|>
+<|begin_description|>
 I'm still healing from my latest encounters. They did quite a number on me, those half-ogres. There's a band of them fortifying themselves in the mountains south-southwest of here... If you could give them a taste of justice by testing your steel against them, that would do me, Bjornin, proud. In an effort to encourage such deeds of righteousness, allow me to present to you this shield as a reward upon your return...
+<|end_description|>

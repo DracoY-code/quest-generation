@@ -21,4 +21,6 @@ Woodridge: a small village (location: NONE)
 serenity
 <|end_motivation|>
 <|end_quest|>
+<|begin_description|>
 Our village, Woodridge, is stagnating hard! We need more housing so that our village can grow larger. Traveler, do you know anything about building houses? Perhaps you could build a brand new house in our village? You have to gather some house building materials first, though. I have a fine reward for you! A stack of golden carrots. A fine meal after doing some construction work, ain't it?
+<|end_description|>

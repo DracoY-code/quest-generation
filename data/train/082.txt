@@ -18,4 +18,6 @@ NONE:  (amount: 1)
 Bedlen Daglefodd: Therndle Daglefodd's son (location: )
 <|end_characters|>
 <|end_quest|>
+<|begin_description|>
 I'm Therndle Daglefodd, a merchant. My child, Bedlen Daglefodd, has been missing for a tunnel's worth of digging. I simply cannot work without knowing his fate. Could you have a look for him?
+<|end_description|>

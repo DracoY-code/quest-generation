@@ -19,4 +19,6 @@ Agna: Golldir's aunt who raised Golldir (location: Hillgrund's Tomb)
 Vals Veran: a dark elf necromancer who has never seen eye to eye with Golldir's family (location: Hillgrund's Tomb)
 <|end_characters|>
 <|end_quest|>
+<|begin_description|>
 Can you help me? There's a necromancer in the tomb; doing Gods know what with my dead relatives. The necromancer's called Vals Veran. My family has never really seen eye to eye with him and he has finally gone off the deep end. He's gone in to defile our family tomb by using our ancestors for his filthy dark elf necromancy. My aunt went in after him, but she hasn't come out yet and I'm afraid to go in by myself. I'm not proud of it. I'm terrified of that place and Aunt Agna knows it. My Da locked me in there in a drunken rage when he left us... three days in there eating the offerings left for our dead before Aunt Agna found me. I'll unlock the door and meet you inside, then you can lead the way. We should get after Vals Veran before he does more damage here.
+<|end_description|>

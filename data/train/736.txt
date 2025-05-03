@@ -18,4 +18,6 @@ NONE:  (amount: 1)
 Helm: a god of duty (location: )
 <|end_characters|>
 <|end_quest|>
+<|begin_description|>
 Greetings, I'm Acolyte Byron. I will be your tutor in your duties here as one of Helm's chosen. You have many things you are responsible for. As a favored of Helm, you will hear questions from those that seek guidance in their duty. They merely needed to be reassured that duty is above all, and that reverence for such duty is the way to happiness. You will steer them on the true path to Helm's grace. You have the wisdom that has secured your position within the church. You will dispense it to those that are needy. This is a sacred trust that you are given. Do not disappoint.
+<|end_description|>

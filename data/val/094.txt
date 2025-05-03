@@ -18,4 +18,6 @@ Quallo: a madman
 One: a mysterious being (location: )
 <|end_characters|>
 <|end_quest|>
+<|begin_description|>
 I'm Quallo, and this thing here is my friend. You have come for the blade, I suppose. It is as we have always expected, my friend. (He glances to the creature beside him.) Too long in this pit, too long. The gleam in your eye! It belies your greed, your passion. I've found this blade, child! It is hidden most insidiously. A cruel jest has been played upon us all. My friend here knows this! The One has left clues for you. Have you not found the clues? Where the topside filth drains, there are the clues. Return to me ere you follow the One's path, for there is much that you must learn.
+<|end_description|>

@@ -27,4 +27,6 @@ Eye of Magnus: a powerful artifact that was held at the College of Winterhold (a
 Staff of Magnus: a powerful staff that can contain energy from the Eye of Magnus (amount: 1)
 <|end_items|>
 <|end_quest|>
+<|begin_description|>
 There is something you should be aware of, Arch-Mage. We've been contacted by the Jarl of Markarth. It would seem there's some sort of disturbance. From what few details we were given, it sounds quite familiar. I suspect that the power released by the Eye of Magnus was not fully contained, and has coalesced in this part of Skyrim. I do hope you still have the Staff of Magnus someplace. I suspect you're going to need it to contain the power. I'm sure the Jarl will be quite pleased to. I think it only fitting that the Arch-Mage personally receive a large portion of the reward.
+<|end_description|>

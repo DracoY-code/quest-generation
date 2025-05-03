@@ -24,4 +24,6 @@ Stalhrim: a strange metal (amount: 1)
 Skaal: a secluded tribe of hospitable people (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 I am in no mood to talk, outsider. One of the Skaal has gone missing. It is Baldor Iron-Shaper. As our only smith, Baldor is very important to the village. Baldor is the keeper of an ancient tradition, the forging of Stalhrim. It is an art we Skaal hold sacred. If someone wanted to make such weapons, they would have to get that knowledge from Baldor. I did see something in the woods on the day he disappeared. I saw two elves in the far distance, dragging something behind them. Hunters often visit our lands, so I thought little of it. The elves went south and west. If your road takes you that way, perhaps you could search for any sign of Baldor. The Skaal would be grateful.
+<|end_description|>

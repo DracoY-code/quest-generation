@@ -22,4 +22,6 @@ Neloth: a powerful male wizard (location: )
 septims: a currency (amount: 1000)
 <|end_items|>
 <|end_quest|>
+<|begin_description|>
 It seems you've inherited a problem. Drovas Relvi owes me 1,000 septims. At least he did until you set him up with that powerful wizard. Now he's untouchable. The way I figure it, it's your fault he can't pay me. So I guess I'm going to have to collect it from you. And if you don't pay me? Nothing for now. But watch your back. I'll be sending collectors to find you. They won't ask so nicely. One way or the other, I'll get my money. When you are tired of looking over your shoulder, you'll pay me.
+<|end_description|>

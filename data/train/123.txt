@@ -19,4 +19,6 @@ Thadon: a man who betrayed the player by joining Jyggalag (location: )
 Jyggalag: a man who wants the player's Realm (location: )
 <|end_characters|>
 <|end_quest|>
+<|begin_description|>
 Ah, you're back. You may have noticed that we have a... bit of a problem. My Liege of course noticed the Font when you arrived in the Palace. The Font of Madness, in the middle of the throne room. The taint of Order appeared only a short time ago, but it has spread quickly. As goes the Font of Madness, so goes the Realm. Soon we will all be serving a new master, Jyggalag. Somehow the forces of Order have poisoned the Pools of Mania and Dementia that feed the Font. I suspect the traitor Thadon. Jyggalag has never had an original thought in his existence. Be that as it may. You will have to enter the Fountainhead beneath the Tree and find the source of the poison.
+<|end_description|>

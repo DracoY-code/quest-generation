@@ -18,4 +18,6 @@ Vault City: A technologically advanced settlement that may have information on t
 Experience Points: Earned for finding the GECK. (amount: 4000)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 Arroyo is in desperate need of the GECK, a device that can revitalize barren lands. You must search Vault City and beyond to locate it and ensure the survival of your home.
+<|end_description|>

@@ -18,4 +18,6 @@ Solitude: a city
 Bryling: a harsh noblewoman (location: Solitude)
 <|end_characters|>
 <|end_quest|>
+<|begin_description|>
 Bryling's already come down hard on us for missing shipments. Likely to do it again, since we're late. You could take word to her in Solitude that there'll be a shipment soon. Buy us some time and keep her off our backs. In exchange, I'm willing to let a few ingots go missing. Maybe more than a few. You'd do me quite a favor. I wouldn't forget it. I'm sure she'll be angry. Brace yourself.
+<|end_description|>

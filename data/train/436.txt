@@ -18,4 +18,6 @@ NONE:
 knowledge
 <|end_motivation|>
 <|end_quest|>
+<|begin_description|>
 I've been pondering about something. Village legends tell that creepers drop something very peculiar when killed by skeletons. I have heard that you are a helpful person. Could you perhaps collect that item and report back to me? You just have to figure out how to get a skeleton kill a creeper. This might be a difficult task to accomplish. You will be rewarded accordingly: five blocks of diamond. Surely you too are curious about what happens.
+<|end_description|>

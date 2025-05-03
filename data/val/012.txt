@@ -18,4 +18,6 @@ NONE:  (amount: 1)
 Joseph: a male miner (location: the mines)
 <|end_characters|>
 <|end_quest|>
+<|begin_description|>
 My husband is missing in the mines. All I know about the mines are that men keep on disappearing in their hellish depths. My husband is one of the miners, but he hasn't been home for weeks. His name is Joseph, and he wears his wedding ring on his left hand. It's a greenstone ring. Please, find him and tell me how he is doing!
+<|end_description|>

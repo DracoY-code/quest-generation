@@ -22,4 +22,6 @@ Stalhrim: an ore (amount: 1)
 Rieklings: small, bothersome, thieving creatures (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 Cleaning out the forge was the easy part. But those blasted Rieklings made off with most of my materials. And I can't forge air. You tend to wander around, don't you? If you come across any Stalhrim or Ebony in your travels, bring them back to old Halbarn. Help each other out.
+<|end_description|>

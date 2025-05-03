@@ -18,4 +18,6 @@ Caps: A small monetary reward for delivering the meal. (amount: 50)
 Karma: A small positive karma boost for helping out a community member. (amount: NONE)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 Mom wants to send a meal to Smitty, the local mechanic in The Den. Your task is to take the food to him and ensure he gets it.
+<|end_description|>

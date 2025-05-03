@@ -21,4 +21,6 @@ Biene Amelion: a woman (location: )
 Fighters Guild: a mercenary guild (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 I've got another contract for you, meat. I assume you won't embarrass yourself. It's from Biene Amelion at the Water's Edge settlement. She needs something retrieved from her ancestral tomb. You'll find her at the Water's Edge settlement. It's marked on your map. Try not to muck it up.
+<|end_description|>

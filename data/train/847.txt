@@ -23,4 +23,6 @@ Torm: the god of duty (location: )
 Cult of the Eyeless: a cult that promotes blindness (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 The task I ask will be treacherous, but you seem capable. Serve well, and you will be rewarded. Display any treachery, and it will be seen. Now to the task. A cult of the eyeless has emerged: He of the Unsleeping Eyes must know of this cult. The blindness they promote is abhorrent to Helm. We ask you to investigate and identify the cult. The Vigilant One informs us that the cult is underground and close, but we cannot see past the sewers. You must infiltrate it, as friend or conqueror. You must suffer the filth of the sewers to find the filth of the cult. They are not hiding amidst the pipes, so there must be a passage leading further away. Our resources are thin at the moment, but an ally of Helm and servant of Torm is awaiting you in the sewers now. Seek Keldorn to serve with you. Faith guide you both.
+<|end_description|>

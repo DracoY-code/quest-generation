@@ -26,4 +26,6 @@ Markarth: a city (location: NONE)
 Dark Brotherhood: a guild of assassins (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 Let's get down to business. Astrid told you about the Gourmet, I hope? That you need to kill him and take on his identity? But first you'll need to learn who he is. Assuming, of course, that the Gourmet actually is a "he." Could be a woman for all we know. In my, um, investigations, I came upon this. It's a copy of the Gourmet's cookbook. Ah, but not just any copy. It's signed you see! Seems to be a message from the Gourmet to one Anton Virane. I've tracked Virane to the keep in Markarth. It would seem he's the cook. You are to obtain that information from Virane - who the Gourmet really is, and where he can be found. Oh, and when you're done with Virane, kill him. Loose ends and all that. As I was saying... You'll need to kill the Gourmet, of course. But what's more, you'll need to get his Writ of Passage, so you can take his place. Oh, and if you can, hide his body. The longer it takes for anyone else to determine his real identity, the better. Now off with you!
+<|end_description|>

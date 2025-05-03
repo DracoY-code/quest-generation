@@ -18,4 +18,6 @@ NONE:
 : gold (amount: 20)
 <|end_items|>
 <|end_quest|>
+<|begin_description|>
 Hold, traveler! I, Shar-Teel Dosan, challenge your best warrior to a duel. I don't fight women, so only men should step forward. I win, and you give me 20 gold. In the unlikely event that one of you bests me, I'll pledge my sword to your cause, however stupid it may be.. Will your champion step forward? I only fight men, so your women will have to be satisfied with just watching. Don't entertain any thoughts about cheating. If any of the rest of you try to interfere in this fight, I'll kill them outright.
+<|end_description|>

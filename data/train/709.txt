@@ -18,4 +18,6 @@ NONE:  (amount: 1)
 Daleson: a man (location: de'Arnise Keep)
 <|end_characters|>
 <|end_quest|>
+<|begin_description|>
 I, Nalia de'Arnise, need a strong hand to help me. My land is under siege, and none of this rabble will aid me! And after all I've done for their kind, too! Please, can you assist me? There is no time! I only hope that the attackers have not made it inside. If they have... if they have breached the inner courtyard, they will be hard to rout. I will tell you what secrets I can. Perhaps you will be able to sneak in and attack from a more vulnerable spot. I hope Father is all right. He... would not leave. Please, hurry to the de'Arnise Keep and find Daleson.
+<|end_description|>

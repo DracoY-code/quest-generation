@@ -18,4 +18,6 @@ Jane: a librarian
 knowledge
 <|end_motivation|>
 <|end_quest|>
+<|begin_description|>
 There are ruins scattered on both land and the bottom of the sea, hero. These ruins tell us many things about the people who inhabited them: their hardships and hopes. I'm not a hero like you, just your everyday librarian. I know of a submerged ruin in an ocean far west of here that you could explore. I implore you: find writings of a lost culture that lived in the ruin. The writings will be reduced to a lump of watery paper, if we don't recover them in time. I have some unused bookshelves that I could give you in return. Even heroes need to civilize themselves with quality literature sometimes.
+<|end_description|>

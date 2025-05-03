@@ -19,4 +19,6 @@ Option to Keep the Money: You can choose to keep the full $1000 instead of deliv
 Favor with Salvatore Family: Successfully completing the quest increases your standing with Mr. Salvatore. (amount: NONE)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 Mr. Salvatore demands a tribute from Renesco. Your task is to collect $1000 from Renesco and deliver it to Salvatore, or decide to keep the money for yourself.
+<|end_description|>

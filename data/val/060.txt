@@ -18,4 +18,6 @@ Medrus: a badly injured man
 Merryweather Leaves: a healing herb (amount: 1)
 <|end_items|>
 <|end_quest|>
+<|begin_description|>
 Hello! I thought I heard someone moving around out there. Listen, my name's Medrus. I got ambushed by some raiders, and managed to get clear... but I got pretty badly injured in the process. I can treat it, but I need some Merryweather Leaves. They grow around here, but I'm too weak to look for them. Think you can find some for me, bring 'em back here? You'll be rewarded, I promise.
+<|end_description|>

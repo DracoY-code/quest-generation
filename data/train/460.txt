@@ -21,4 +21,6 @@ Maglir: a new male member of the Fighters Guild (location: Skingrad)
 Fighters Guild: a mercenary guild (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 I'm the Fighters Guild Champion, Modryn Oreyn, as you should know. What do you want? I suppose you've come looking for duties? I want you to contact Maglir. He's one of your Fighters Guild brothers, but he's defaulted on a contract. We can't allow that. Makes us all look bad. He didn't finish out a contract in Skingrad. Suppose I shouldn't be surprised. He's raw, like you. Go and find out what's wrong with him.
+<|end_description|>

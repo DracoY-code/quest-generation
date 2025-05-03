@@ -21,4 +21,6 @@ Liefnarr: Grosta's missing husband (location: Broken Helm Hollow)
 Morrowind: a province inhabited by elves (location: NONE)
 <|end_locations|>
 <|end_quest|>
+<|begin_description|>
 My husband Liefnarr said he was going east towards the border of Morrowind to trade some of our grain to some folks at Broken Helm Hollow. I waited and waited, and he never came back. Probably shacked up with some elven whore. Good riddance to him I say. If I only knew where he was, I'd sure give him a piece of my mind. If you see him, tell him Grosta said he can go straight to hell... he's not welcome here any more.
+<|end_description|>

@@ -18,4 +18,6 @@ Firebead Elvenhair: an elderly mage who loves books
 "The History of the Fateful Coin": a book (amount: 1)
 <|end_items|>
 <|end_quest|>
+<|begin_description|>
 Hello, I am Firebead Elvenhair: an elderly mage and a bookworm. Oh, the world of books... I have heard that a new copy of that wondrous tome, "The History of the Fateful Coin," can be had for a pretty penny in one of the stores around here. If you would be so kind as to buy it for an old man like myself, I'd gladly reimburse you. I'd even give you a little bonus to help in your travels, a book called "History of the Dead Three".
+<|end_description|>

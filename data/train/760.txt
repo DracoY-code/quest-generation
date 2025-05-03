@@ -22,4 +22,6 @@ Alchemist: a man who has Ordrak's Heart (location: )
 Ordrak's Heart: a destructive artifact (amount: 1)
 <|end_items|>
 <|end_quest|>
+<|begin_description|>
 I don't know if the Alchemist understands that Ordrak's Heart is wreaking such havoc... or if he just doesn't care! I hope there's still a chance to stop him, one way or another, before it's too late. So the Guardian wants you to head to the Ossean Wastes? You know what? I think I can help you with that...
+<|end_description|>

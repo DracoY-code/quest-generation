@@ -15,4 +15,6 @@ Pinemoon Cave: a cave
 : free Illusion magic training from Sybille Stentor (amount: 1)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 I'm busy, and I don't like being bothered unless I'm expecting something from you. Oh, don't give me that look. Fine. I supposed I can find some menial task to set your mind on. Hmm.... We have something of a vampire problem. Bodies have been found with blood drained. I know of a den nearby you can wipe out as a precaution. Pinemoon Cave. I don't expect you to be capable of even that. Vampires are clever hunters. More clever than you, definitely. I suppose I could show you a little about Illusion magic for free, couldn't I?
+<|end_description|>

@@ -19,4 +19,6 @@ Caps: A monetary reward for successfully securing Metzger’s approval. (amount:
 Progression in Lara's gang quests: Advances the questline, leading to more jobs and potential rewards. (amount: NONE)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 Lara wants to start a gang war in The Den, but she needs Metzger’s approval before making a move. You must convince him to allow the conflict to proceed.
+<|end_description|>

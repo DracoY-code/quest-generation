@@ -18,4 +18,6 @@ Bravil: a city
 S'Krivva: a woman (location: Bravil)
 <|end_characters|>
 <|end_quest|>
+<|begin_description|>
 Do you have business with me, J'baana? You ask me to train you in lockpicking? How very arrogant of you. To think that I would aid you out of the kindness of my heart? Since you are here, and since you want something, you are useful to me. Travel to Bravil, and speak with S'Krivva. She should have a message for me. Until you have the message from S'Krivva, we have nothing further to say to one another.
+<|end_description|>

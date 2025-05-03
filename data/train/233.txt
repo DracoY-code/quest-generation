@@ -24,4 +24,6 @@ Cursed Mace: a mace (amount: 1)
 Daedric Princes: immortal, fickle, infamous divine beings (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 Another mortal come to do my bidding. I, Molag Bal, only wish suffering and death. You will bring me both. I want to see a man brought to the edge. And pushed. Near Brindle Home you will find Melus Petilius. A good man. An honorable man. He disgusts me. He has sworn an oath: never to raise a weapon against another man again. I want him to break that oath, and damn himself forever. You will let him kill you with this: the Cursed Mace. As you are doing this for me, I'll save your miserable life. Probably. Get out of my sight.
+<|end_description|>

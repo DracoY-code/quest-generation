@@ -18,4 +18,6 @@ NONE:  (amount: 1)
 College of Winterhold: a college for mages (location: NONE)
 <|end_locations|>
 <|end_quest|>
+<|begin_description|>
 I've finally found you! I want to join the College of Winterhold. But I need help with my wards. Can you teach me? So, first, you raise your ward and I'll throw a little spell at it. That way I can see the 'right' way to do things.
+<|end_description|>

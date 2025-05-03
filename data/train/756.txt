@@ -24,4 +24,6 @@ Cyrodiil: a province (location: NONE)
 Mages Guild: a guild of mages (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 Time is against us, and our enemies grow stronger. There is much to do, and little time in which to do it. Your next task is essential. Word has been sent that the Necromancers have been quite busy, creating black soul gems for their master. In particular, a unique Black Soul Gem has been crafted in the south of Cyrodiil, in the ruins of Silorn. This gem needs to be confiscated and brought here, before it can be delivered to the King of Worms and used against us. I have need of it. I believe the Black Soul Gem  may be instrumental in saving our guild. I will explain once you have returned with it. Until then, discussion is useless. A contingent of Battlemages has been sent to the site. I would like you to oversee their actions on my behalf. The only thing that matters is that gem. Do you understand? Once you have it safely in your possession, return here immediately. Know that you have my complete confidence. I would not entrust this job to you if I did not feel you were prepared for it. Now, go.
+<|end_description|>

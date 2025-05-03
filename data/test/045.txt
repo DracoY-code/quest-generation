@@ -25,4 +25,6 @@ Falkreath: a town (location: NONE)
 Spriggans: hostile beasts (amount: 3)
 <|end_enemies|>
 <|end_quest|>
+<|begin_description|>
 Name's Valdr. I hunt out of Falkreath. We tracked a bear to this den, Moss Mother Cavern. Good coin for those pelts. We had the big sow cornered when they showed up. Three of them, out of nowhere. Spriggans. Niels went down before we even knew to run. Ari died just inside. I never even thought the things were real. But now what? I can't just walk away. Not with my friends' bodies in there, being torn apart by those beasts. You would help me clear out the Spriggans? You'd do that for a stranger? I don't know what to say. Lead on, I suppose.
+<|end_description|>

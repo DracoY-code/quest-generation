@@ -18,4 +18,6 @@ Cara: a woman who wants to dye her hair
 reputation
 <|end_motivation|>
 <|end_quest|>
+<|begin_description|>
 The guys in this village rarely take note of me. I want to dye my hair red to make myself more attractive. Wandering traders often have red dye. Could you find some and give it to me? I'd give you 12 emeralds for the red dye.
+<|end_description|>

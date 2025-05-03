@@ -18,4 +18,6 @@ Brotherhood Support: If successful, the Brotherhood may send aid in the form of 
 Experience Points: Earned upon successfully persuading the Elders. (amount: 1000)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 A dire situation requires the Brotherhood of Steel's assistance. You must convince the Elders to intervene by presenting a strong case for their involvement. Your success depends on your persuasive skills and available evidence.
+<|end_description|>

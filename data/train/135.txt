@@ -17,4 +17,6 @@ Training Grounds: An outdoor or designated area where Thomas conducts combat tra
 Combat Skill Improvement: Increased proficiency in combat-related abilities, such as melee or ranged combat. (amount: NONE)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 Thomas offers training sessions to help wastelanders improve their combat skills, making them better equipped for survival.
+<|end_description|>

@@ -20,4 +20,6 @@ Pala: the player's sister, and Danno's crush (location: with the player's mother
 Mazzy: the player (location: )
 <|end_characters|>
 <|end_quest|>
+<|begin_description|>
 Oh, Mazzy! Thank the gods that I've found you! I've hurt Pala! You have to save her! I didn't mean to do it. I bought a love potion from Wallace the peddler at the market square. I just wanted her to love me. She only had a sip of it, and she collapsed. She is with your mother, Mazzy. How was I to know it was poison? Oh, please hurry! I will meet you in Trademeet.
+<|end_description|>

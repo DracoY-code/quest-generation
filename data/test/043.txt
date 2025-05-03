@@ -25,4 +25,6 @@ Clockwork Core: a device that upholds the barriers between the worlds (amount: 1
 Guardians: powerful spirits (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 You must overtake the Alchemist before he reaches the Clockwork Core. With the power of Ordrak's Heart, he could destroy the barrier between the worlds, which would mean the end of everything. You must defeat the Alchemist and seize the Heart. He intends to use it for destruction, but, infused with the energy stolen from the Guardians, it now has the power to restore the Clockwork Core, and repair the damage to the barrier.
+<|end_description|>

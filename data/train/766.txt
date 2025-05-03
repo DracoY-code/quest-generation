@@ -24,4 +24,6 @@ Bards College: a college for bards (location: NONE)
 Finn's Lute: Finn's original eight course lute (amount: 1)
 <|end_items|>
 <|end_quest|>
+<|begin_description|>
 Hmm? Oh, sorry. My mind wanders sometimes. I was just thinking about Finn's Lute. Over a year ago, thieves broke into the College and made off with a lot of valuable things. Mostly gold and silver. But they also stole Finn's Lute. We just learned where the bandits fled to, and I very much want that lute back. They are at Stony Creek Cave. Finn was the bard who invented the eight course lute that is commonplace today. Until he found a way to string the extra courses, bards only had six course lutes. The lute they stole is Finn's original eight course lute. I doubt they even realize its true value. There is no way I can pay you what this Lute is worth. But I can teach you a few tricks I've learned over the years.
+<|end_description|>

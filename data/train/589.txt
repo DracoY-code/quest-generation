@@ -19,4 +19,6 @@ Experience Points: Earned for repairing the pump and helping the ghouls. (amount
 Ghoul Favor: Increased standing with the ghouls of Necropolis. (amount: 1)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 The water pump in Necropolis has broken down, cutting off the ghouls' water supply. The player must find a way to repair it to ensure the survival of the Necropolis inhabitants.
+<|end_description|>

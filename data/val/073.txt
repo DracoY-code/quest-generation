@@ -18,4 +18,6 @@ NONE:  (amount: 1)
 : Mr. Colquetle's son and his wife (location: )
 <|end_characters|>
 <|end_quest|>
+<|begin_description|>
 What cruel whim of the fates controls this torment of me?! I, Mr. Colquetle, have heard nothing from my son and his wife for nigh unto a week now, and all else pales in importance until I do. I should have known better than to allow his travel in these dangerous times.
+<|end_description|>

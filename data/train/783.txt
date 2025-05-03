@@ -19,4 +19,6 @@ Cyrodiil: a realm (location: NONE)
 Arcane University: a university for mages (location: NONE)
 <|end_locations|>
 <|end_quest|>
+<|begin_description|>
 Hello there. Is there something with which I can assist you? Perhaps you're curious about joining the Mages Guild? All right, then. You're now an Associate of the Mages Guild. Congratulations! You'll need to receive a recommendation from each local guild hall in Cyrodiil to advance in the guild, and be given any sort of responsibility. They can be done in any order, but they all must be sent in to the Council before you can enter the Arcane University.
+<|end_description|>

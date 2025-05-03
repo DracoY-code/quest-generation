@@ -24,4 +24,6 @@ Bruma: a city (location: NONE)
 Mages Guild: a guild of mages (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 I am unable to look into something that has been brought to my attention. Are you capable of going on my behalf? Please go to the Bruma Mages Guild; I have not heard from Jeanne Frasoric for a few days now, which is unusual for her. While I welcome the break from correspondence with her, I worry that something may be amiss, given recent developments. Find out if Jeanne is all right, and let me know if she needs anything.
+<|end_description|>

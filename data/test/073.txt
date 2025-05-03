@@ -18,4 +18,6 @@ Healing Powder: A traditional tribal remedy created by Hakunin. (amount: 1)
 Karma: A small increase in reputation within the tribe. (amount: NONE)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 Hakunin, the village shaman, requests assistance in dealing with an infestation of mutated plants that have taken over his sacred garden. The player must eliminate these creatures to restore balance.
+<|end_description|>

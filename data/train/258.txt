@@ -17,4 +17,6 @@ New Reno Arms: A weapon shop in New Reno owned by Eldridge.
 Kesting Special: A powerful and unique firearm available for purchase. (amount: NONE)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 A rare firearm known as the Kesting Special is available at New Reno Arms. If you have enough caps, you can purchase it from Eldridge.
+<|end_description|>

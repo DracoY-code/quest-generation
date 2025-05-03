@@ -23,4 +23,6 @@ Jessa: a woman (location: )
 Locket: a locket Jessa seeks (amount: 1)
 <|end_items|>
 <|end_quest|>
+<|begin_description|>
 I am bound to this place, and may not pass beyond the threshold.  If you seek my remains, you must find the Sanguine Gems - they may be found in the depths beyond. Place them upon these altars, and the path to the Wraith Lord will be revealed. If you can best him, you will discover my remains there - and the Locket Jessa seeks.
+<|end_description|>

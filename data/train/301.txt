@@ -23,4 +23,6 @@ Chorrol: a town (location: NONE)
 Fort Carmala: a fort (location: NONE)
 <|end_locations|>
 <|end_quest|>
+<|begin_description|>
 I can't thank you enough for helping to reunite me with Reynald. I never would have guessed he was still alive. We have much to discuss, but if you have time, I'd beg you stay a moment longer and hear about our home, Weatherleah. Weatherleah was our family's home for generations. Our parents fled it when ogres attacked; they became separated. My father carried me to safety. He later returned and believed Reynald and my mother had perished. Since ogres are cannibals, he didn't expect to find their bodies. Thankfully, however, it seems that my mother managed to carry Reynald to safety. While my mother didn't survive, Reynald did, and for that I'm grateful. But we both want more - we want our home back. We're not fighters; you appear to have more skill than either of us. Would you go to Weatherleah, and see if it's still inhabited by ogres? Now, we're not quite sure where the estate is located. We'll offer up what we know, however. We believe it's somewhere south of Chorrol, but southwest of Fort Carmala. It may be difficult to find. Since no one's lived there for many years, it may be quite overgrown by now. If you find Weatherleah, let us know. We'll be waiting anxiously.
+<|end_description|>

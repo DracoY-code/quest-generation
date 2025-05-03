@@ -27,4 +27,6 @@ Ivarstead: a town (location: NONE)
 Black-Briar Mead: famous, good mead (amount: 1)
 <|end_items|>
 <|end_quest|>
+<|begin_description|>
 I'm not selling cheap mead. I'm selling good mead for cheap... Black-Briar Mead. I sell cases of it for half of what the inns and taverns pay through the Black-Briar Meadery. If anyone saw me leave Riften, they'd get suspicious. I need someone to take this small keg of Black-Briar Mead to Wilhelm at the Vilemyr Inn in Ivarstead. Drop it off and he'll trade you something for the delivery. Keep it as payment for the legwork. Oh, and if you bump into Indaryn from the meadery, keep your mouth shut. He'd rat us out in a second.
+<|end_description|>

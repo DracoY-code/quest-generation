@@ -20,4 +20,6 @@ NONE:
 comfort
 <|end_motivation|>
 <|end_quest|>
+<|begin_description|>
 My momma is allergic to mushrooms. I can't ever get delicious mushroom stew at home. Here, take my bowl. Find one red mushroom, and another brown mushroom. Make mushroom stew in my bowl. Then, give the stew to me. Other kids say that mushrooms grow in fields, and poorly lit areas. I loaned my momma's roses a bit. You can have the whole ten of them. I'm sure that she won't notice 'em missing.
+<|end_description|>

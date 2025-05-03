@@ -25,4 +25,6 @@ Daedric Princes: immortal, fickle, infamous divine beings (amount: NONE)
 Jauffre: a trustworthy male servant of Uriel Septim VII (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 I can go no further. You alone must stand against the Prince of Destruction and his mortal servants. He must not have the Amulet of Kings! Take the Amulet. Give it to Jauffre. I have a secret son, and Jauffre alone knows where to find him. Find my son, and close shut the jaws of Oblivion.
+<|end_description|>

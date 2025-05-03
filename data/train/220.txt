@@ -21,4 +21,6 @@ Caps: A monetary reward for uncovering the truth. (amount: 500)
 Wright Family Favor: Increased standing with the Wrights, granting potential future benefits. (amount: NONE)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 Jules is a known figure in the New Reno drug scene and a potential suspect in Richard Wright’s overdose. Investigate his involvement and determine the truth.
+<|end_description|>

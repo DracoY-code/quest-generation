@@ -18,4 +18,6 @@ NONE:  (amount: 1)
 Common Soul Gems: mage supplies (amount: 7)
 <|end_items|>
 <|end_quest|>
+<|begin_description|>
 I need some more supplies. Can you help out with that? I'm running low on Common Soul Gems. Bring me another seven of them, if you can.
+<|end_description|>

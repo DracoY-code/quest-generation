@@ -19,4 +19,6 @@ Torygg: Elisif the Fair's dead husband (location: )
 Talos: the hero-god of humans (location: )
 <|end_characters|>
 <|end_quest|>
+<|begin_description|>
 There's something... personal... I was hoping you would do for me. As you may know Talos worship is outlawed in the Empire. When we buried my husband I made offerings to all the gods... except Talos. My husband Torygg would want a proper burial. I would like you to take an item of his, a war horn handed down from his father, and place it at a Shrine of Talos. It would mean a lot to me.
+<|end_description|>

@@ -17,4 +17,6 @@ Caps: A wagered amount of money if you win. (amount: 200)
 Increased reputation in New Reno: Winning the challenges boosts your recognition in the city. (amount: NONE)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 A professor in New Reno has trained a radscorpion to compete in challenges. You must prove your skills by defeating the radscorpion in speed, intelligence, and combat trials.
+<|end_description|>

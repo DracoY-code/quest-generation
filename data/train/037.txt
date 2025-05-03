@@ -24,4 +24,6 @@ Eye of Magnus: a dangerous object that radiates power, in the College of Winterh
 Psijic Order: a powerful, secretive order of mages (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 I've given us a chance to speak privately, but I'm afraid I can't do this for long. We must be brief. The situation here at your College is of dire importance, and attempts to contact you as we have previously have failed. I believe it is due to the very source of our concern. This object... The Eye of Magnus as your people have taken to calling it. The energy coming from it has prevented us from reaching you with the visions you have already seen. The longer it remains here, the more dangerous the situation becomes. And so I have come here personally to tell you it must be dealt with. I fear I have already overstepped the bounds of my Order, but I will offer this: seek out the Augur of Dunlain here in your College. His perception may be more coherent than ours.
+<|end_description|>

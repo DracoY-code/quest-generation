@@ -20,4 +20,6 @@ Berit: Thadgeir's old, dead male war companion (location: Falkreath)
 Arkay: the god of funeral rites (location: )
 <|end_characters|>
 <|end_quest|>
+<|begin_description|>
 Falkreath is known for its graveyard, traveler. We've buried more dead than you can imagine. I just finished giving my old war companion, Berit, a proper burial by fire. Old hard head hated the idea of being lost cold in the ground. Could you deliver the ashes to Runil, the priest of Arkay? He'll know the right blessings to make for Berit's soul.
+<|end_description|>

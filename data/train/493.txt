@@ -21,4 +21,6 @@ Irenicus: an evil male wizard (location: )
 Plane of Air: realm of genies (location: NONE)
 <|end_locations|>
 <|end_quest|>
+<|begin_description|>
 I am djinni Malaaq and I have been bound by a wizard to guard his items, and your item it seems. I can sense your touch upon this weapon. If you can secure the means of my release, I will give you your weapon. I was captured in my home, on Plane of Air, by some wizard. He bound me to this flask that I might guard his things. You must find my original flask and bring it back to me. Once it is within my grasp, I can break the enchantment and be freed.
+<|end_description|>

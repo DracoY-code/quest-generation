@@ -15,4 +15,6 @@ Soljund's Sinkhole: a mine connected to an old Nordic crypt
 NONE:  (amount: 1)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 Whoa, there. I don't know where you're going, but stay out of that mine. It isn't safe. We tunneled into an old Nordic crypt. The whole place is crawling with draugr. We're not mining up any ore with those undead around, so I wouldn't go down there if I were you. You want to clear out the draugr? You're joking, right? Those bone-walkers will tear you limb from limb. But if you want to get yourself killed, go ahead. I hear talk about a regiment coming to clear the crypt out. We'll see if that happens.
+<|end_description|>

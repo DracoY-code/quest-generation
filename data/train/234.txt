@@ -18,4 +18,6 @@ NONE:
 North Wind: a ship (location: NONE)
 <|end_locations|>
 <|end_quest|>
+<|begin_description|>
 The North Wind is my mistress, and I'm her master. I don't tolerate any disloyalty. You looking for work? Got a sailor who thought running a gang of thieves would be more money than hauling my cargo. You make an example of that gang, I'll give you a year's worth of pay.  Don't spend it all on mead.
+<|end_description|>

@@ -19,4 +19,6 @@ Caps: Payment for completing the assassination. (amount: NONE)
 Karma Change: Negative karma for committing murder. (amount: NONE)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 Merk wants a Hubologist in NCR taken out, offering caps in return. The job requires tracking the target, eliminating them, and avoiding unnecessary complications.
+<|end_description|>

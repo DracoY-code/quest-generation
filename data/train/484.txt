@@ -22,4 +22,6 @@ Friendly Arm Inn: an inn (location: NONE)
 Girdle of Piercing: a belt (amount: 1)
 <|end_items|>
 <|end_quest|>
+<|begin_description|>
 Hey, I'm Unshey, an aspiring writer. Have you heard? There's a rogue ogre with a belt fetish to the south of the Friendly Arm Inn. I had to bargain my new girdle of piercing for my life out there. Wasn't even interested in an autographed copy of my book. Hey, if you can get that belt back to me, I'd be mighty grateful. You'll get 95 gold pieces for your trouble, and a new history book I've just completed.
+<|end_description|>

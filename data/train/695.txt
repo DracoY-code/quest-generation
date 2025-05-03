@@ -19,4 +19,6 @@ Anvil: a city (location: NONE)
 Summerset Isle: an island (location: NONE)
 <|end_locations|>
 <|end_quest|>
+<|begin_description|>
 This is a travesty. A complete and utter travesty. The crystal ball is just sitting there in the hold, but I'll be damned if I'm going back onboard. And nobody will help me. Nobody! Not with those spirits roaming the decks. I don't suppose you'll help me? No, of course you won't... Wait... Did you actually say you'd help me? I've been going out of my mind ever since my crew was murdered! This is my ship, you see. The Serpent's Wake. I hired the crew to sail to Summerset Isle to retrieve a family heirloom, my mother's crystal ball. They made the journey, and arrived back all right, but then... Someone murdered them! All of them! Now their spirits are haunting the ship! The crystal ball is in a chest in the ship's hold, but I can't get to it. I made it as far as the captain's cabin, but the spirits nearly killed me! Get the crystal ball and return it to me here, and I'll make it worth your trouble. Here, you'll need this key. Thank you so much! There will be a reward waiting for you! It's the captain's enchanted cutlass. I managed to grab it when I was in his cabin, before his spirit chased me out!
+<|end_description|>

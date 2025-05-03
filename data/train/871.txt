@@ -16,4 +16,6 @@ Shady Sands: A small settlement dealing with a radscorpion problem.
 Experience Points: Earn experience for curing Jarvis. (amount: 400)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 Jarvis, a resident of Shady Sands, has been poisoned by radscorpion venom. The player must acquire or create an antidote and deliver it to him to save his life.
+<|end_description|>

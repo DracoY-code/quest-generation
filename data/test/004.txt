@@ -21,4 +21,6 @@ Ring of the Beast: one of the ancient rings of blood magic (amount: 1)
 Molag Bal: the god of vampires (location: )
 <|end_characters|>
 <|end_quest|>
+<|begin_description|>
 I've discovered the whereabouts of a set of ancient rings of Blood Magic: the Ring of the Erudite in Swindler's Den and the Ring of the Beast in Cragwallow Slope. They belong among our kind, not gathering mold in some vagabond's treasure pile. The rings increase the abilities of your vampiric powers. Some say Molag Bal himself gave these rings to ancient powerful vampire lords. Some say that is just a myth. You'll be able to keep the rings. I wouldn't be telling you where to find them if I desired them for myself.
+<|end_description|>

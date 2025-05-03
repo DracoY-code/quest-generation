@@ -22,4 +22,6 @@ Gromm: Baenlin's manservant (location: Baenlin's house)
 Dark Brotherhood: a guild of assassins (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 We need you to stage an... accident. Kill the target in the manner specified, and you'll receive a considerable bonus. The target is a Wood Elf named Baenlin. You will find him at his home in Bruma. Enter secretly and avoid his manservant, Gromm. On the second floor is a secreted door leading to a crawlspace. Inside are the fastenings of a mounted head that hangs over Baenlin's favorite chair. Loosen the fastenings any night between 8:00 pm and 11:00 pm, and the head will surely fall on Baenlin as he relaxes in his chair, as is custom. If Baenlin is killed in any other manner, or if the manservant Gromm is killed, you will forfeit the bonus. Now go, and may Death be with you.
+<|end_description|>

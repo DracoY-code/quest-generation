@@ -24,4 +24,6 @@ Tamriel: a continent (location: NONE)
 Stormcloaks: rebel forces opposing the Empire (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 All right. It's time to deliver the final blow to the Stormcloak rebellion. You all have fought bravely, and sacrificed much to bring us to this point. Ulfric thinks he can hide behind the walls of his castle. But we will fight our way in and drag him out through the rubble to face justice. Because this is the end for them, the Stormcloaks will fight like cornered rats. They will be fierce and crafty. But they are no match for Legionnaires. You are the best and the brightest warriors in Tamriel. Professional soldiers, fearless and devastating. The Emperor will be paying close attention to what happens here today. Men who distinguish themselves will be well rewarded. Ready now! Everyone, with me! For the Empire! For the Legion!
+<|end_description|>

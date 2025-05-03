@@ -18,4 +18,6 @@ Improved Gear: Access to better weapons, armor, and supplies. (amount: 1)
 Increased Survival Chances: Higher durability and combat effectiveness. (amount: 1)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 As the Vault Dweller progresses through the wasteland, they recognize the necessity of acquiring superior equipment to handle tougher enemies and challenges. This quest involves visiting different vendors, scavenging locations, or earning the trust of powerful factions to gain access to high-quality gear.
+<|end_description|>

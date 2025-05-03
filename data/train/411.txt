@@ -29,4 +29,6 @@ Skingrad: a city (location: NONE)
 Draconis: a family marked for death (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 Dead Drop Orders #2 by Lucien Lachance  The Necromancer Celedaen is dead, and you are not. That is quite an accomplishment. But your work as a Silencer has just begun. Your next assignment requires you to eliminate not just one target, but five. An entire family, in fact. The unlucky kin are Perennia Draconis, Matthias Draconis, Andreas Draconis, Sibylla Draconis and Caelia Draconis. The locations of most of the family members are unknown, so you should begin your search with the family matron, Perennia, who resides at the farm called Applewatch. You must discern the locations of all the Draconis family members and then systematically eliminate them. I suggest you first speak with the mother and find out if she has any valuable information on the whereabouts of her children, before ending her life. When every member of the Draconis family lies dead, journey to the city of Skingrad. In the castle courtyard you will find a well containing your reward for the Draconis contract, as well any further assignment I might have.
+<|end_description|>

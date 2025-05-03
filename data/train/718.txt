@@ -20,4 +20,6 @@ NONE:  (amount: 1)
 Emberworks: an ancient dwarwen machine workshop (location: NONE)
 <|end_locations|>
 <|end_quest|>
+<|begin_description|>
 Oh, no... I was afraid of this! The Power Source is completely drained! This is going to be more difficult than I'd anticipated. This is only a minor setback. We knew about these Power Sources from our explorations of the Emberworks, on the far side of the Sundered Battlefield. We found machines there that the ancient dwarves once used to craft them. If you can reach the Emberworks, it should be child's play to recharge it. You'll have to make your way through Rivenskull Pass to reach the battlefield. Once you've charged the Power Source, come back here, and we'll install it in the Automaton.
+<|end_description|>

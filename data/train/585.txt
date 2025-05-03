@@ -21,4 +21,6 @@ Roderick: a male warlord (location: Fort Sutch)
 Dark Brotherhood: a guild of assassins (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 Far to the west there lives a fierce warlord and his company of loyal mercenaries. Your target is the warlord. Do you accept this contract? Now listen closely. Nestled in the mountains to the west lies Fort Sutch. It is the home of the warlord Roderick and his mercenaries. Roderick has recently taken ill. He now lies in eternal slumber, kept alive only by the daily administration of a powerful medicine. You must infiltrate Fort Sutch, find Roderick's medicine, and replace it with a poisoned bottle I will provide. But you must remain undetected! Whomever arranged this contract wants it to look like Roderick died from his illness, so discretion is essential. Attack no one! Be seen by no one! If you are detected, the poisoning will fail, and Roderick must be killed in some other manner. That will, of course, forfeit your bonus. Roderick may lie near death, but dead he is not. Until his soul has passed, our client -- and the Grim Reaper himself -- will not be satisfied.
+<|end_description|>

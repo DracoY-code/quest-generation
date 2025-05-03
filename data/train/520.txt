@@ -15,4 +15,6 @@ NONE:
 : armor (amount: 1)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 I have just one question for you. Light, medium, or heavy? Light armor for scouting detail, heavy armor for full on combat, or something in between? Now, that'll be it. One free outfit per soldier. You lose that, or get it banged up, you'll need to pay like everyone else.
+<|end_description|>

@@ -21,4 +21,6 @@ Jierdan Firkraag: a man who hates Garren Windspear (location: )
 Radiant Heart: an order of holy knights (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 My daughter is gone! I left my home in your care! I... I... no, no, I know it was not you... I know who my enemies are. Damn that Jierdan Firkraag! What is his grief with me?! I don't know where you will find him. His hooligans prevent searching. I don't know... Perhaps the ruins in the northeast? I don't know... Please rescue my child, no matter the risk. You will travel unmolested, for my pleas of your virtue were heard at the Radiant Heart. They demand justice for the slain knights, so that is your task now. Do this, and your honor shall be restored.
+<|end_description|>

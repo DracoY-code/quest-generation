@@ -17,4 +17,6 @@ Far Go Traders: A major trading company in the wasteland, concerned about missin
 Caps: Payment for uncovering the mystery and resolving the issue. (amount: Varies)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 Several caravans have gone missing, and the Far Go Traders need someone to uncover the truth. The player must investigate various leads, including attacks by raiders, possible super mutant involvement, or betrayals within the trading companies.
+<|end_description|>

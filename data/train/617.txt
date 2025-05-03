@@ -23,4 +23,6 @@ Haelga: a woman who has not paid her debts to the Thieves Guild (location: )
 Thieves Guild: a guild of thieves (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 Well, well... Color me impressed kid. I wasn't certain I'd ever see you again! So... now that I've whetted your appetite with our little scheme at the market, how about handling a few deadbeats for me? They are Keerava, Bersi Honey-Hand and Haelga. They owe our organization some serious coin and they've decided not to pay. I want you to explain to them the error of their ways. Do this right, and I can promise you a permanent place in our organization. Honestly, the debt is secondary here. What's more important is that you get the message across that we aren't to be ignored. A word of warning though... I don't want any of them killed. Bad for business.
+<|end_description|>

@@ -21,4 +21,6 @@ Jurgen Windcaller: the man who founded Greybeards (location: )
 Greybeards: the masters of the way of the voice (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 You are now ready for your last trial. Retrieve the Horn of Jurgen Windcaller, our founder, from his tomb in the ancient fane of Ustengrav. Remain true to the Way of the Voice, and you will return. Then it is time for us to recognize you formally as Dragonborn.
+<|end_description|>

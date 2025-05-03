@@ -18,4 +18,6 @@ Experience Points: Earn XP for helping Anna find peace. (amount: 500)
 Improved Karma: Performing a good deed increases your reputation. (amount: NONE)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 The ghost of Anna haunts the old church in The Den. She is unable to move on until her lost locket is returned to her. Find it and bring her peace.
+<|end_description|>

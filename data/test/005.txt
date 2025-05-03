@@ -21,4 +21,6 @@ Quayle: Aerie's uncle (location: )
 : commoners, who are actually monsters (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 M-my name is Aerie. I... work in the circus with my uncle, Quayle... I... I'm not a monster! I'm an elf, a winged elf... or at least I was... This... this covering you see is some kind of illusion, but if you believe in it, then it becomes real! P-please believe me! Now go before something happens to you, I beg of you! If... if you're not going to flee, then maybe you can help free me from the chains that keep me bound in this form — and then maybe I can help you! You... you need the key to these chains. But... but it won't look like a key! There are a couple of... commoners... in the north side of this chamber... Don't be fooled by the illusion, though... they are monsters! They have a sword which is actually my key... if you get it from them, I can remove the chain and regain my normal form! But please be careful! You... you can't trust anything you see here!
+<|end_description|>

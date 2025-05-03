@@ -18,4 +18,6 @@ NONE:  (amount: 1)
 : Giran's mother (location: )
 <|end_characters|>
 <|end_quest|>
+<|begin_description|>
 sniff* My momma's still inside. They says she can't come out. My momma went into the tent to see a circus show. But somethin' happened, and now nobody comes out. There's guards who won't let nobody in anymore, too. But my momma's in there! I want my momma! Please find her, please!
+<|end_description|>

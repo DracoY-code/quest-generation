@@ -21,4 +21,6 @@ Pope: a male cleric (location: Hamlet-By-The-Grass)
 knowledge
 <|end_motivation|>
 <|end_quest|>
+<|begin_description|>
 I used to be an adventurer. I braved the depths of this world like no one else before me. I still have one of my healing potions as a memento from those days of glory. That potion is quite special... Now that I think of it, the local cleric, Pope, might want to examine it for its peculiar properties. He could make some potent healing potions after researching my special potion. Could you please find him, and give him the potion? The cleric will surely give you a small compensation fee.
+<|end_description|>

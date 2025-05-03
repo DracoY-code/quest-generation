@@ -18,4 +18,6 @@ Experience Points: Earned upon successful power restoration. (amount: 1000)
 Potential Access to Brotherhood of Steel (Optional): Can prove your worth to the Brotherhood. (amount: NONE)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 The Glow, once a research center, is now an irradiated ruin. Restoring power could uncover secrets hidden within the facility, but the radiation and security systems pose a significant challenge.
+<|end_description|>

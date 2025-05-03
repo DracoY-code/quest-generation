@@ -23,4 +23,6 @@ Mehrunes Dagon: an evil god (location: Oblivion)
 Elder Council: a government body (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 While you were gone, I sent a messenger to High Chancellor Ocato. He waits for us in the Imperial City. Chancellor Ocato is the head of the Elder Council. The Council rules in the Emperor's absence. I don't expect any objections from the Elder Council, but we should defer to their authority. Let's go to the Imperial City at once, before the enemy can recover from Mankar Camoran's death. Until we light the Dragonfires, the Gates are open, and Mehrunes Dagon's invasion continues.
+<|end_description|>

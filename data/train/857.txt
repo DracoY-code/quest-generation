@@ -25,4 +25,6 @@ Skyrim: a realm (location: NONE)
 Helm of Winterhold: a helm that was worn by Hanse in the First Era (amount: 1)
 <|end_items|>
 <|end_quest|>
+<|begin_description|>
 Winterhold has lost much of its history, and with that much of its power. I, Korir, the Jarl of Winterhold, aim to change that. I've heard rumors of the resting place of the Helm of Winterhold, the very same helm that Hanse wore in the First Era. He was in line to be High King of Skyrim, you know. Having that might get the ear of the other nobles and give me some authority. The Helm of Winterhold lies in Hob's Fall Cave. Recover it, and I'll You have Winterhold's thanks.
+<|end_description|>

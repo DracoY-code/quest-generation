@@ -15,4 +15,6 @@ Zeryphesh: a town
 NONE:  (amount: 1)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 Finally saved! Thank you! You look like a person who likes risk! I'm heading back to town now. Meet me there and see if your luck holds out!
+<|end_description|>

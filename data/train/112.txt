@@ -21,4 +21,6 @@ Dawnstar: a town (location: NONE)
 Stormcloaks: rebel forces opposing the Empire (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 I need you to deliver some false orders to the Stormcloak commander in Dawnstar. But first we need to get our hands on some rebel orders to make the forgeries. The Nightgate and Candlehearth inns are frequent stops for Stormcloak runners. See if you can't "convince" one of those innkeepers to help you. One way or another, get me those documents. Show the rebels the futility of their cause.
+<|end_description|>

@@ -15,4 +15,6 @@ NONE:
 : a staff (amount: 1)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 You look like someone who can hold their liquor. How about a friendly contest to win a staff? Ha! So you think that I don't have a chance against you. We'll see about that. This is a special brew, very strong stuff. Let's get started.
+<|end_description|>

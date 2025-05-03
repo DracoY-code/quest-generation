@@ -18,4 +18,6 @@ Trill-Bot 4000: the player's robot friend
 Azimuthoscope: an important component of Trill-Bot 4000 (amount: 1)
 <|end_items|>
 <|end_quest|>
+<|begin_description|>
 I believe you have found one of my missing components! There appears to be a trail of them, leading toward that dungeon. If you follow the trail of my Parts, it might lead you to my Azimuthoscope: the component I need to direct you to another treasure trove!
+<|end_description|>

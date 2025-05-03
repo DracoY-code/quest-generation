@@ -21,4 +21,6 @@ Llynis: a craven thief (location: inn in the slums)
 Littleman: Wellyn's stuffed bear (amount: 1)
 <|end_items|>
 <|end_quest|>
+<|begin_description|>
 I... my name is Wellyn. I just want... I just want my stuffed bear back... It's my favorite bear, Littleman... The bad man who came into our house... he—he hurt me, and he took Littleman with everything else... *sob* I can never go to sleep without Littleman! The bad man has it at that inn in the slums. The Copper something. *sniff* He's in one of those bedrooms in the back! I think his name is "Llynis"... I've... I've gone to him... *sob*... I've tried to tell him that I just want my bear, please, but he just gets too frightened of me. *sob* Oh, please get it from him!
+<|end_description|>

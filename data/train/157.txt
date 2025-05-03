@@ -15,4 +15,6 @@ NONE:
 : all of the drow's treasure from the sixth chest (amount: 1)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 We are two imps, little demonic people. We want to play a game. Okay, big peoples... this is how our game will go! There is five chests here with nothings in them! In front of each empty chest, a famous big people will appear! Famous big people! Oh, yes, powerful famous big people! Each famous big people will give you a gift that belongs to another famous big people... and they will hints to you what gifts belong to them! If you thinks you knows which famous big people a gift belongs to, you puts it in the empty chest behind them, yes? Very simple! Once you places all five, you comes and asks us! If you wrong, we laugh at you! If you right, we open the sixth chest! The sixth chest has all of the drow's treasure! All of it!
+<|end_description|>

@@ -19,4 +19,6 @@ Caps: A monetary reward for exposing Gizmo’s criminal activity. (amount: 500)
 Increased reputation in Junktown: Earns the trust of Killian and the town’s residents. (amount: 1)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 Killian Darkwater wants solid proof that Gizmo ordered his assassination. The player must record Gizmo’s confession by tricking him into admitting it and then return the evidence to Killian. This leads to further action against Gizmo, determining his fate in Junktown.
+<|end_description|>

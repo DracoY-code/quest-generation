@@ -18,4 +18,6 @@ NONE:  (amount: 1)
 : escaped criminal, a dangerous man (location: Pale)
 <|end_characters|>
 <|end_quest|>
+<|begin_description|>
 You're looking for work? It seems that law-breakers in the Pale have no desire to stay there. I don't blame them. One of them's escaped, and you're going to find that coward. At this point they don't care what happens to him and neither do I. Best to just kill him and be done with it. Be careful. This man is known to be dangerous.
+<|end_description|>

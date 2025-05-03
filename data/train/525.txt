@@ -24,4 +24,6 @@ Tamriel: a continent (location: NONE)
 Dawnguard: an organization of vampire hunters (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 The day hasn't been won while the vampire Harkon still walks Tamriel. Let me address the Dawnguard, and then we'll be off. The men deserve to know that we've finally gained the upper hand. It's time we take the fight to their door. Gather your things and rest well, my friend. We meet outside Castle Volkihar.
+<|end_description|>

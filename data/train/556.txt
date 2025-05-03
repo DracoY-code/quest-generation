@@ -25,4 +25,6 @@ Solstheim: an island (location: NONE)
 Skaal: a tribe of trusting and hospitable people on Solstheim (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 I am Frea of the Skaal. I am here to either save my people, or avenge them. Something has taken control of most of the people of Solstheim. It makes them forget themselves, and work on these horrible creations that corrupt the Stones, the very land itself. My father Storn, our shaman, says Miraak has returned to Solstheim, but that is impossible. If you want to know what lies beneath the Temple of Miraak, then let us go together. First, we need to find a way into the Temple of Miraak.
+<|end_description|>

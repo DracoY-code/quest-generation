@@ -22,4 +22,6 @@ Erdi: a maid (location: Blue Palace)
 Pelagius Wing: a forbidden wing of the Blue Palace (location: NONE)
 <|end_locations|>
 <|end_quest|>
+<|begin_description|>
 My master has abandoned me! Abandoned his people. And nothing I say can change his mind. Now he refuses to even see me. He says I interrupt his vacation! It's been so many years... Won't you please help? Without his guidance, our homeland is falling apart. North wages war against the south! We need his return. Oh, but... I'm sure he'll repay you when he comes to his senses! His favor is a powerful, powerful thing. And so very worth any... inconveniences. Last I saw him, he was visiting a friend in the Blue Palace. But no one as mundane as the local ruler. No, no... such people are below him. No, he went into the forbidden wing of the palace, to speak with an old friend. Said it had been ages since they had last had tea. Oh and you'll need the hip bone... it's very important. No entering Pelagius Wing without that. The doors to the Pelagius Wing are locked. But I hear the maids, Una and Erdi, know how to enter it for cleaning. Surely they can help for such an important matter?
+<|end_description|>

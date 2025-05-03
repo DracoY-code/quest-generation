@@ -18,4 +18,6 @@ find Commander Brage
 Commander Brage: the former commander of the guard (location: the woods to the west)
 <|end_characters|>
 <|end_quest|>
+<|begin_description|>
 State your business with the guard and go! Oh, that came out a bit harsher than I meant. I am sorry for my mood. All the guard are still grieving the loss of Commander Brage. The commander was friend to many before he found a cursed sword. He's not the man he was, by Helm. I'll not believe a man of Brage's rank could kill his own family. 'Twas evil magics of some sort. An entire unit went west after Brage to try to talk some sense to him. It's been a week, and none have returned. The reward for the commander's head is a king's ransom, but I'll not be lifting MY sword against a brother soldier. Travel lightly, wanderer. The woods harbor strange things.
+<|end_description|>

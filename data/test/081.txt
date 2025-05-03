@@ -18,4 +18,6 @@ NONE:  (amount: 1)
 Jondal: Kryla's dead man (location: )
 <|end_characters|>
 <|end_quest|>
+<|begin_description|>
 Oh, please help me! I'm Kryla. They kill poor Jondal. The wolf-men. They attack us as we search for roots in the forest. Please avenge my Jondal. He was so young... They are this way. Please kill them, I am so frightened.
+<|end_description|>

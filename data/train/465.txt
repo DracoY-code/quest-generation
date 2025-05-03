@@ -18,4 +18,6 @@ NONE:  (amount: 1)
 gibberlings: small monsters (amount: 1)
 <|end_enemies|>
 <|end_quest|>
+<|begin_description|>
 I am called Laurel. I am a traveling paladin. Ah, travelers, this wilderness is too expansive to keep clear of monsters all on my own. Many gibberlings pass through this very spot day and night. Will you stay here and help fend them off? Fire magics work well against the gibberlings, so if you have such spells, use them.
+<|end_description|>

@@ -24,4 +24,6 @@ Dawnstar: a town (location: NONE)
 Argonians: a race of people (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 There's an assassination contract for you. You are to kill Deekus. He is an Argonian layabout, likes to scavenge shipwrecks. My guess is he'll run if threatened. Or swim, if given the chance. Personally, I've always found Argonians to be incredibly unpredictable opponents. Especially near water. Unfortunately, Deekus is at Hela's Folly, a small waterlogged shipwreck northeast of Dawnstar. Making him stay out of water will be difficult.
+<|end_description|>

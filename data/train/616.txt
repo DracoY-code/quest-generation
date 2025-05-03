@@ -22,4 +22,6 @@ Eletta: a female mage (location: )
 Mages Guild: a guild of mages (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 Before you can begin work for the guild, you'll need to do something for yourself. Every mage carries a staff. It is crafted and enchanted by the guild, and is a symbol of status. You need such a staff. The wood used for staves comes from a grove to the northeast of the Imperial City, near Wellspring Cave. Several mages tend to the grove, and should be able to assist you. Speak with either Zahrasha or Eletta when you arrive. And choose wisely.
+<|end_description|>

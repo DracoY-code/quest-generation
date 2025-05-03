@@ -15,4 +15,6 @@ Kvatch: a city
 NONE:  (amount: 1)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 You want to help? You're kidding, right? Hmm... if you're serious, maybe I can put you to use. It'll likely mean your death, though. I don't know how to close this Gate, but it must be possible, because the enemy closed the ones they opened during the initial attack. You can see the marks on the ground where they were, with the Great Gate right in the middle. I sent men into the Gate, to see if they could find a way to shut it. They haven't come back. If you can get in there, find out what happened to them. If they're alive, help them finish the job. If not, see what you can do on your own. The best I can say is, good luck. If you make it back alive, we'll be waiting for you. It's a brave thing you're doing.
+<|end_description|>

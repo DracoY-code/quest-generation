@@ -18,4 +18,6 @@ Redbelly Mine: a mine
 Grogmar: a male miner (location: )
 <|end_characters|>
 <|end_quest|>
+<|begin_description|>
 Sorry, the Redbelly Mine's dry right now. What's wrong with the mine, you might ask. It's full of spiders, that's what's wrong with it! Almost killed Grogmar and me when they showed up. I'm worried that they'll come out of the mine looking for food soon... then we're in even bigger trouble. You'd  clear them out for us? Tell you what. Keep to your word, and I'll line your pockets with as much as I can scrape up.
+<|end_description|>

@@ -27,4 +27,6 @@ Wither: an extremely dangerous skeletal creature capable of bombing out everythi
 reputation
 <|end_motivation|>
 <|end_quest|>
+<|begin_description|>
 I'm a storyteller. I always like to hear new stories that I can pass along to the people of this village. Old legends tell about a mighty skeletal creature known only as the "Wither." It is said that it can bomb out everything in its surroundings. If you killed the Wither, I'd give you a rare Nether Star as a reward. I'll draw you the summoning pattern of the Wither. You need to gather up certain items from the hellish Nether: three wither skeleton skulls, and four blocks of soul sand. Use these items to summon the Wither.
+<|end_description|>

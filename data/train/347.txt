@@ -20,4 +20,6 @@ Alchemist: an evil man (location: )
 Guardian of Water: a powerful being upholding peace (location: Wellspring Temple)
 <|end_characters|>
 <|end_quest|>
+<|begin_description|>
 Commander Vale believes that the Alchemist might attack the Wellspring Temple, in an attempt to reach the Guardian of Water ... for what nefarious purpose I am afraid to speculate. There has been no word from either Vale, or the Guardian. Scout the Wellspring Temple, and determine if the Guardian of Water is in any danger.
+<|end_description|>

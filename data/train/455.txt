@@ -18,4 +18,6 @@ Caps: A payment for successfully delivering the stolen Brahmin. (amount: 150)
 Negative Karma: Engaging in theft reduces your overall karma. (amount: NONE)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 The Dunton brothers are looking for someone to help them steal Brahmin from local ranchers. This job requires stealth and quick action to avoid getting caught.
+<|end_description|>

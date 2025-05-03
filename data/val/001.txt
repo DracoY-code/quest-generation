@@ -15,4 +15,6 @@ Ardrouine: a distressed mother
 : coins (amount: 60)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 Please help me, I am just poor Ardrouine! I don't know where else to turn. My little boy was playing in that abandoned lighthouse to the northwest when a pack of worgs surrounded it. Please just turn them back, and I can coax him down. There's not much time! I can pay you 60 coins: this money is all my husband brought back from market this past week. My son's life is worth this and so much more.
+<|end_description|>

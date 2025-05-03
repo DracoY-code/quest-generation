@@ -23,4 +23,6 @@ Ossean Wastes: a desert (location: NONE)
 Ezrohir: a race of people who are at war with Zeryphesh (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 My friend, I have a mission for you. You may have noticed the Ezrohir activity in the Ossean Wastes. We believe these are scouts operating out of the Forsaken Vaults, but they are appearing so close to the city gates that we think they might have a base much nearer, from which they are spying on us. We have narrowed down the possibilities, and I want you to look into the Tower of the Moon, an ancient tower jutting from the Ossean Wastes. Determine if there are any Ezrohir scouts there... and if you find any, deal with them.
+<|end_description|>

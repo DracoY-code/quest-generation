@@ -21,4 +21,6 @@ Llathasa Indarys: an Elven woman, and the recently killed Countess of Cheydinhal
 Thieves Guild: a guild of thieves (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 The Guild has received a 'request' to obtain a unique statuette. It is a bust of Llathasa Indarys, the recently slain Countess of Cheydinhal. You will be paid a modest sum. Do you want this job? Travel to Cheydinhal, and ask the beggars for more information about the bust. Bring it back to me once you have it.
+<|end_description|>

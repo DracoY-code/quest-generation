@@ -18,4 +18,6 @@ get your prisoner's treasure from a hollowed-out rock
 Whiterun: a city (location: NONE)
 <|end_locations|>
 <|end_quest|>
+<|begin_description|>
 Please... What is it you want? Just... just stop. And I'll tell you where I've hidden my treasure. It's... in a hollowed-out rock. In the tundra. A bit west of Whiterun. Now please... please stop. Oh gods, you've taken everything I have. Just kill me and be done with it...
+<|end_description|>

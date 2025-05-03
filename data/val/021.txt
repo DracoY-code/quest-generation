@@ -23,4 +23,6 @@ Mysterium Xarxes: a mysterious book of rituals (amount: 1)
 Ayleid: extinct, ancient race of people (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 While you were gone, I've made some progress in deciphering the Mysterium Xarxes ritual. The third item we need is a Great Welkynd Stone. You may have run across lesser Welkynd Stones; they are fairly common in Ayleid ruins. But a Great Welkynd Stone will not be easy to come by. They have been plundered one by one over the years, due to their great value to mages and occultists. There is only one place that is rumored to still contain one: the ruins of the Ayleid city of Miscarcand. A place where many have perished seeking its Great Welkynd Stone. But nothing else will do, so you must succeed where all others have failed.
+<|end_description|>

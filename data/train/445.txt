@@ -20,4 +20,6 @@ Thorns as Hard as Iron: an alchemy ingredient (amount: 1)
 Black Heart of a Coward: an alchemy ingredient (amount: 1)
 <|end_items|>
 <|end_quest|>
+<|begin_description|>
 Another customer for one of old Cacklespit's brews, eh? I can provide a special concoction, free of charge...if you aren't afraid to get your hands a little dirty. As any true cook will tell you, the finest ingredients are of the utmost importance if you want to create something truly special. I will require three items to brew the special mixture I have in mind... The Mask of a Murderer, Thorns as Hard as Iron, and the Black Heart of a Coward. All three are to be found here in the bogs - you only have to find them! Once I brew the ingredients properly, your name will be known for generations to come!
+<|end_description|>

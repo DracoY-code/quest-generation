@@ -18,4 +18,6 @@ Caps: A monetary reward for successfully delivering the message. (amount: 500)
 Potential Peace Between Modoc and the Slags: If successful, Modoc and the Slags can coexist peacefully. (amount: NONE)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 The Slags seek to establish peaceful relations with Modoc. Your task is to deliver their message to Jo and convince him to accept their terms.
+<|end_description|>

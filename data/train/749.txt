@@ -18,4 +18,6 @@ NONE:  (amount: 1)
 : the player's wife (location: )
 <|end_characters|>
 <|end_quest|>
+<|begin_description|>
 It's come to my inescapable attention that you, my dear friend, are married. Marriage is a fine institution, however, one that does present certain difficulties for such as like ourselves. May I strongly suggest that you make a visit to this spouse of yours and "invite" her to the family by offering her the Gift of Vampirism. Put her mind to rest, allay her fear through vampiric seduction and when she is in a pliant condition, embrace her and bite her on the neck. It is the greatest token we can bestow upon those we love and wish to see protected.
+<|end_description|>

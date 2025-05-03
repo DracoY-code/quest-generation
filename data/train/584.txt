@@ -18,4 +18,6 @@ NONE:  (amount: 1)
 Ranmir: a male drunk (location: The Frozen Hearth)
 <|end_characters|>
 <|end_quest|>
+<|begin_description|>
 Ranmir owes this tavern enough coin to burn it down, build it back up, then burn it down again just for laughs. He's had some troubles in his life, but I can't have him drinking here without at least paying back some of the coin he owes. Go right ahead and talk to him. He just might be sober enough to listen to you.
+<|end_description|>

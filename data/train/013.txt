@@ -21,4 +21,6 @@ Margret: a woman who was attacked by a crazed man at the Markarth market (locati
 Forsworn: a group of savages (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 I'm sorry to drag you into Markarth's problems, but after that attack in the market, I'm running out of time. You want answers? Well so do I. So does everyone in this city. A man goes crazy in the market. Everyone knows he's a Forsworn agent. Guards do nothing. Nothing but clean up the mess. This has been going on for years. And all I've been able to find is murder and blood. I need help. Please. You find out why that woman Margret was attacked, who's behind the Forsworn, and I'll pay you for any information you bring me.
+<|end_description|>

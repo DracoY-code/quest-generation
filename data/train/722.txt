@@ -21,4 +21,6 @@ NONE:  (amount: 1)
 Fighters Guild: a mercenary guild (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 I've got something for you. Could be tough. There are some escaped fugitives for you to find, meat. Some real hard cases got out of the Bravil prison. Been terrorizing the locals ever since. The Watch is useless, so we step in. Apparently, there are three or four of them. Real nasty, from what I hear. You take care of them. Maybe you'll get lucky and they'll surrender. The people of Bravil aren't talking, but you might try asking around, butter them up a bit. Get to it.
+<|end_description|>

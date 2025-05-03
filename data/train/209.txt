@@ -19,4 +19,6 @@ Experience Points: Earned for successfully administering the serum. (amount: 150
 Caps: A monetary reward from Dr. Henry for completing the task. (amount: 1500)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 Dr. Henry has developed a mutagenic serum and requires a test subject. He tasks you with finding a super mutant in Broken Hills willing to take the serum—or administering it by force.
+<|end_description|>

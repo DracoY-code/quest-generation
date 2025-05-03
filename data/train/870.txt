@@ -20,4 +20,6 @@ Experience Points: Earned for successfully completing the rescue operation. (amo
 Brotherhood Reputation: Increases standing with the Brotherhood of Steel, unlocking possible future benefits. (amount: 1)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 A Brotherhood of Steel initiate has been captured in The Hub. The player must locate the captive, engage in combat or negotiations with the captors, and ensure the initiate returns safely to the Brotherhood.
+<|end_description|>

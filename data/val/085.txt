@@ -21,4 +21,6 @@ Chorus Fruits: strange fruits that might teleport the player a short distance wh
 knowledge
 <|end_motivation|>
 <|end_quest|>
+<|begin_description|>
 Traveler! Did you know that our dimension is one among many. There exists a dimension called "The End". It is a mysterious place, and supposedly hard to reach. I yearn to know more about that dimension. I have heard vague rumors about fruits native to the End that might teleport you a tiny distance when digested. They are called Chorus Fruits. If you get your hands on six Chorus Fruits, I promise to reward you well with 12 diamonds. Please help a man sate his ever-growing curiosity.
+<|end_description|>

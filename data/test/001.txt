@@ -18,4 +18,6 @@ Caps: A monetary reward from Frankie for uncovering the truth. (amount: 100)
 Access to cheaper alcohol: Becky may offer discounts depending on how you handle the situation. (amount: NONE)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 Frankie is suspicious of Becky’s ability to sell alcohol at low prices. Your job is to investigate and uncover the secret behind her business.
+<|end_description|>

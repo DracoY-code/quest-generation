@@ -18,4 +18,6 @@ Extended Time: Delaying the Vault’s water crisis, buying more time before fail
 Possible Discovery: Increased risk of the Super Mutants finding Vault 13 due to supply deliveries. (amount: Moderate)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 Vault 13 is running out of water, and the player must negotiate with the Water Merchants in the Hub to secure a steady supply. While this extends the Vault's survival, it also increases the chances of revealing its location to hostile forces.
+<|end_description|>

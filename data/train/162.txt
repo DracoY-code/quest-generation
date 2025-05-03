@@ -18,4 +18,6 @@ NONE:  (amount: 1)
 Baurus: the player's male ally who may have learned something about the assassins (location: Luther Broad's Boarding House)
 <|end_characters|>
 <|end_quest|>
+<|begin_description|>
 We must try to recover the Amulet before the enemy takes it out of our reach. You should go back to the Imperial City. Baurus may have learned something about the assassins. You'll find Baurus at Luther Broad's Boarding House in the Elven Gardens district of the Imperial City.
+<|end_description|>

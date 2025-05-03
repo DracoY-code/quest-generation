@@ -24,4 +24,6 @@ Riften Fishery: a fishery (location: NONE)
 Skooma: an illegal drug (amount: 1)
 <|end_items|>
 <|end_quest|>
+<|begin_description|>
 My job at the Riften Fishery is in danger. The owner, Bolli, said that if I show up for work in this condition one more time, then I'm out. I don't mean to do this to myself, but I can't help it. I tried some Skooma a year ago, and ever since then, I can't stop! If you could give me a healing potion, I could cleanse this poison from my body and get back to my life.
+<|end_description|>

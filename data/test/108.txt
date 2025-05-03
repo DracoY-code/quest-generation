@@ -19,4 +19,6 @@ Weekly Issue: A publication containing useful information, news, or stories rele
 Experience Points: Earned for successfully collecting and possibly reading the issue. (amount: 100)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 A routine task to collect the latest issue of a weekly publication, providing updates and insights into current events across the wasteland.
+<|end_description|>

@@ -24,4 +24,6 @@ the Orb: one of Vaermina's relics (amount: 1)
 Daedric Princes: immortal, fickle, infamous divine beings (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 We meet again, mortal, for we have met before, whether you know it or not. When you mutter in your sleep, you speak to me. When you waken wet with sweat, you've just left my house. I dwell in your dreams; I savor your nightmares. Now, you will serve me. The wizard Arkved has the Orb of Vaermina... snatched from the dreams of my followers and dragged into the waking world. Travel to his tower and retrieve my Orb. Take care, though, mortal. In the Orb, Arkved has found more than he bargained for. After proving yourself, mortal, you shall bear my token, the Skull of Corruption.
+<|end_description|>

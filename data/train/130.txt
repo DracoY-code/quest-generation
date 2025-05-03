@@ -20,4 +20,6 @@ Additional Payment: Earn an extra $500 if no harm comes to any of Salvatore's me
 Favor with Salvatore Family: Successfully completing the quest increases your reputation with the Salvatore family. (amount: NONE)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 You are tasked with guarding a secret exchange in the desert, ensuring the deal goes smoothly and fending off any threats that arise.
+<|end_description|>

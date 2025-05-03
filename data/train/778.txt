@@ -24,4 +24,6 @@ Hircine: the god of the werewolves (location: )
 Silver Hand: a bandit gang who hate the Companions (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 Harbinger, I'd be honored if you joined me in my search. I had once heard Skjor and Kodlak talking about the totems of Hircine. Simple-looking objects that could channel the powers of the werewolf in new directions. Once Kodlak began looking for his cure, I'd wager Skjor didn't bring it up again. But I was going through his things and found a book I had never seen before. All about the Totems. I've been talking to my sources around the holds, and think I may have heard where one of them lays. Want to come along and help me find this totem of Hircine?
+<|end_description|>

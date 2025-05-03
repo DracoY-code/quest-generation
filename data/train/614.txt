@@ -22,4 +22,6 @@ Blue Lady: a witch (location: Balduran's Isle)
 Balduran's Isle: a small island (location: NONE)
 <|end_locations|>
 <|end_quest|>
+<|begin_description|>
 I am Evalt, I fish for clan in these savage waters. Listen, outsider, may I ask you for help? There is a witch on this isle. My brother called her the Blue Lady and those of us who ply these waters have all heard her singing at one time or another. My brother, Evan, heard her more than most. I think that he went to find her. I think that he is under her spell. I must go and find him. This witch might kill him. He is strong but he is under her spell. I fear that she will kill him before he realizes what is happening. Can you find my brother? I don't know exactly where the Blue Lady is. I have the sense to avoid her, unlike Evan. But I have only heard her singing along the west coast of the island.
+<|end_description|>

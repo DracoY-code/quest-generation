@@ -18,4 +18,6 @@ Caps: A monetary reward for completing the delivery. (amount: 750)
 Improved relations with Vault City: Vault City officials will be more cooperative in future dealings. (amount: NONE)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 McClure in Vault City seeks economic data from Gecko to assess the power plant's impact on regional trade. You must retrieve the Economy Disk from Gordon in Gecko and deliver it safely.
+<|end_description|>

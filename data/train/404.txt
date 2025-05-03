@@ -19,4 +19,6 @@ Caps: A monetary reward for uncovering the truth about the Ghost Farm. (amount: 
 Improved Standing in Modoc: Earn the trust of Jo and the townspeople of Modoc. (amount: NONE)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 Jo is uneasy about the Ghost Farm and the mysterious Slags. He wants answers regarding the dead bodies found there and the fate of Karl, a former resident of Modoc who disappeared.
+<|end_description|>

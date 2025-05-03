@@ -20,4 +20,6 @@ Galken: a male con-artist (location: )
 Durlag: a mad male dwarf (location: )
 <|end_characters|>
 <|end_quest|>
+<|begin_description|>
 Greetings, adventurer. I have, or perhaps I should say had, a son named Dalton. He fell in with a crew of adventurers from Waterdeep. Dalton was always obsessed with the idea of being a hero. Alas, he has neither the brains nor the ability. Such is a mother's lot in life, however, to watch her children perform acts of idiocy despite her warnings or concerns. He and his thick-skulled cohorts took it upon themselves to plumb the depths of Durlag's Tower. They bought a ward token from that shyster, Galken, and made ready to leave. Though I begged and cried, Dalton still insisted on going. The band never returned. I fear that they were destroyed by the mad dwarf's machinations. That is the tale, sad but true. Please find my son if he still lives.
+<|end_description|>

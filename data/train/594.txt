@@ -18,4 +18,6 @@ Medical Facility: A well-equipped clinic where Dr. Lorri performs surgical enhan
 Physical Enhancement: An increase in Strength, Endurance, or other physical attributes, depending on the chosen surgery. (amount: NONE)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 Dr. Lorri offers surgical procedures that enhance physical capabilities for a cost, allowing wastelanders to improve their survivability.
+<|end_description|>

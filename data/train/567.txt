@@ -24,4 +24,6 @@ Chorrol: a city (location: NONE)
 a painting: a stolen painting depicting Count Valga (amount: 1)
 <|end_items|>
 <|end_quest|>
+<|begin_description|>
 I am Countess Arriana Valga of Chorrol. I wish I had time to chat, but I'm afraid I am in the middle of an investigation. You seem the trusting type. Perhaps you can assist me? It seems someone has taken away an heirloom that is quite dear to me. I want you to help me recover a stolen painting. The painting was of my lost love, the Count Valga, and it has been stolen from my bedchamber. If you find the painting, and bring the culprit to justice, you shall be justly rewarded. I suggest you begin to gather clues. And I warn you: do not accuse the wrong person, or I shall be quite cross with you. Here are some keys. They should allow you access to many of the restricted areas in Castle Chorrol.
+<|end_description|>

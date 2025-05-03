@@ -18,4 +18,6 @@ Caps: A monetary reward for resolving the issue. (amount: 500)
 Improved standing with Vault 13 residents: The people of Vault 13 will trust and respect you more. (amount: NONE)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 Rumors of a Deathclaw near Vault 13 have sparked fear among its residents. The Overseer wants you to investigate and, if necessary, eliminate the creature before it becomes a serious threat.
+<|end_description|>

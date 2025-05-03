@@ -24,4 +24,6 @@ Dark Brotherhood Sanctuary: the headquarters of the Dark Brotherhood (location: 
 Dark Brotherhood: a guild of assassins (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 I would like to officially extend to you an invitation to join my Family: the Dark Brotherhood. In the southwest reaches of the realm, in the Pine Forest, you'll find the entrance to our Sanctuary. It's just beneath the road, hidden from view. When questioned by the Black Door, answer with the correct passphrase: "Silence, my brother." Then you're in. And your new life begins. I'll see you at home.
+<|end_description|>

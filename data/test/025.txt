@@ -19,4 +19,6 @@ Gecko: A ghoul-run town with a nuclear power plant, where Skeeter resides.
 Car Upgrade: Skeeter will enhance the Highwayman, improving its efficiency. (amount: NONE)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 Skeeter, a skilled mechanic in Gecko, needs a super repair kit to enhance the Highwayman. You must locate and deliver the kit to him for an upgrade.
+<|end_description|>

@@ -22,4 +22,6 @@ Forsworn: savage people who consort with Hagravens (amount: NONE)
 Hagravens: monsters (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 I do have more work for you. A personal matter. My father died trying to negotiate with the Forsworn, back when that was possible. They took his shield to Hag's End, to those Hagraven beasts they consort with. I need you to bring it home where it belongs. I warn you, it's dangerous work. No man of mine has ever faced a Hagraven and lived. I'll understand if you decline. Return my father's shield to me and I'll grant you permission to purchase property in my city. Divines watch over you.
+<|end_description|>

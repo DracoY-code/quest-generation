@@ -18,4 +18,6 @@ Leyawiin: a city
 Mazoga: an Orc woman who claims to be a knight (location: Leyawiin)
 <|end_characters|>
 <|end_quest|>
+<|begin_description|>
 Marius Caro, by grace of the Gods, Count of Leyawiin. You are a stranger to me, but well-met. Perhaps you would like to do a service for Leyawiin? I need your help. An Orc named Mazoga here claims to be a knight, but will not reveal her business. Find out why she is here, and report to me, and you will earn a reward suitable for those who serve Leyawiin.
+<|end_description|>

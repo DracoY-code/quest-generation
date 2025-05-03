@@ -25,4 +25,6 @@ Dark Brotherhood: a guild of assassins (amount: NONE)
 Black Hand: the governing body of the Dark Brotherhood (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 Silencer! At last you've arrived! Fear not, for the crisis that has threatened the Dark Brotherhood has finally come to an end. I am Arquen, Speaker for the Black Hand. As you can see, we have dealt with the betrayer, Lucien Lachance! No longer will you serve as his puppet! It seems Lachance wanted revenge against the Dark Brotherhood for some reason, and used you to do his dirty work. But now, we can begin anew! I bestow upon you the title of Speaker. You will take Lucien Lachance's place on the Black Hand! Welcome! As you know, the Black Hand is now in a state of disarray. Lachance ordered you to kill us off! We five, including you, are now all that remain. Even worse, you killed the Listener! The Black Hand without a Listener is like a hand with no thumb. Even the Listener's successor is dead! So, we have no choice but to invoke an ancient ritual. We must wake the Night Mother from her slumber, and seek her guidance! Between the hours of midnight and 3:00 AM, ask me about the Night Mother, and we will away to our Lady's home in Bravil. Only then will the ritual begin. May the Night Mother hold you in her cold embrace.
+<|end_description|>

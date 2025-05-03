@@ -21,4 +21,6 @@ Metrich: a local male baron (location: a neutral meeting place)
 Most Noble Order of the Radiant Heart: an order of holy knights (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 Knight, we have been commissioned by a local barony. Such service to political figures is good for the Order, and you will serve quite well in the task. It is necessary for us to be accessible in local concerns lest we seem above the people. In this case, a baron has petitioned us to solve a land dispute. Baron Metrich wishes some squatters removed and has cited violence against his men as reason for it. Go to his lands, restore order, and bring favor to us. The baron waits in a neutral meeting place. He is in a tavern in the Umar Hills, in the village of Imnesvale. Go now.
+<|end_description|>

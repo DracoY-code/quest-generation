@@ -16,4 +16,6 @@ Nadarin: an annoyed warehouse overseer
 : a pair of boots (amount: 1)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 Hey, you! Are you either bored or foolish? Either way, I, Nadarin, could use your services. Some wiseacre tried to send a basilisk by freight and now it's broken free and is making a mess of one of the warehouses at the harbor. There'll be 500 gold pieces for taking care of that on such short notice. Also, you might want these. They're an item I obtained from a fence I know in a far-away city. You never know, they might fit you.
+<|end_description|>

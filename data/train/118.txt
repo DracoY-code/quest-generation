@@ -17,4 +17,6 @@ Caps: Mira will pay for completing the task. (amount: NONE)
 Experience Points: XP for eliminating or dealing with Officer Jack. (amount: NONE)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 Mira has a problem with Officer Jack and wants him gone. You can choose how to handle the situation—whether by taking him out, setting him up, or finding another way to deal with him.
+<|end_description|>

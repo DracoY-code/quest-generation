@@ -18,4 +18,6 @@ Hub Police Station: The main law enforcement office in the Hub, where Detective 
 Reputation Boost: Positive karma for exposing Iguana Bob's illegal activities. (amount: Good karma increase)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 The player gathers evidence proving that Iguana Bob is selling human meat. They can take the evidence to Detective Justin Greene at the Hub Police Station, leading to Bob’s arrest and a boost in reputation.
+<|end_description|>

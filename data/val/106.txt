@@ -15,4 +15,6 @@ Kangaxx: an undead man
 : anything the player wants (amount: 1)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 I am Kangaxx, and I have been cursed. I am dead yet not dead. Cursed to eternal entrapment in this tomb by cruel enemies! Cursed to a fate worse than death! But the curse can be reversed! With your assistance, I may live again. I have suffered for so long... will you help me? The fiends that did this to me keep me from returning by tearing apart my mortal form and keeping the pieces separated. You must find my body that I might again take mortal form. The pieces are very close! I have no doubt that they lie within the city in tombs such as this. My enemies are predictable if nothing else. Seek my arms, legs, and torso. I will give you anything you want. Power, riches beyond number! Anything!
+<|end_description|>

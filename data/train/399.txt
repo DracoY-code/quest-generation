@@ -18,4 +18,6 @@ NONE:  (amount: 1)
 Nashkel: a town (location: NONE)
 <|end_locations|>
 <|end_quest|>
+<|begin_description|>
 I'm Hulrik! You have to help me! Them xvarts are after my cows again! Ever since them xvarts an' their kobold kin swarmed the mines at Nashkel, they've been makin' attacks like that more and more often.
+<|end_description|>

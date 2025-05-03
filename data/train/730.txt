@@ -24,4 +24,6 @@ Illagers: bandits that torment villagers (amount: NONE)
 knowledge
 <|end_motivation|>
 <|end_quest|>
+<|begin_description|>
 I need the help of an outsider. I think one of the villagers here works for Illagers in secret! They could be planning an attack on Desert Refuge! Would you please investigate this matter for me? Try to obtain Suspicious Man's journal. It should shed light on his actions. I'me even willing to reward you with 48 emeralds. What are a few gems to peace of mind?
+<|end_description|>

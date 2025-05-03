@@ -22,4 +22,6 @@ Dragonborn: the player (location: )
 "Letter from Idolaf Battle-Born": a letter to the player from Idolaf Battle-Born (amount: 1)
 <|end_items|>
 <|end_quest|>
+<|begin_description|>
 Letter from Idolaf Battle-Born by Idolaf Battle-Born  Dragonborn, I'm aware of your recent assault on Nazeem. Rest assured I have no interest in that particular matter. I do, however, have an interest in your willingness to employ force when the need arises. If you are able to assist me, I will gladly pay you for your troubles. Next time you are visiting Whiterun, please call on me. Sincerely, Idolaf Battle-Born
+<|end_description|>

@@ -21,4 +21,6 @@ Ayleid Ruins: ancient ruins
 Ayleid: an extinct, ancient race of people (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 Thank you for coming. You may recognize that statue over there on the table. The very one that you recently sold -- for less than its true worth. As you may know, I am somewhat of an enthusiast for Ayleid antiquities. In my own modest way, I have amassed a rather considerable collection. I have recently become interested in obtaining the complete set of these ancient statues. I believe that ten still exist within the various ancient Ayleid Ruins. No mere shopkeeper knows their true worth. If you bring them to me when you find them, I will pay you double for each one.
+<|end_description|>

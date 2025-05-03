@@ -24,4 +24,6 @@ Deadric Relic: a large, segmented sculpture of a gauntlet, with the Daedric sigi
 : rings (amount: 4)
 <|end_items|>
 <|end_quest|>
+<|begin_description|>
 Midden Incident Report by Anonymous  The missing students were found in the Midden this morning. Dead, as expected. None of us bothered keeping a detect life charm for the search at this point. The bodies were found together, each suffering the same deformities; peeled and bubbling skin on the arms and face. Conjurer's burn, as it's commonly referred to around the College. There's little doubt they were attempting a summoning ritual well beyond their capabilities. The relic nearby put any doubt in this theory to rest. I admit that I've never seen one like it - a large, segmented sculpture of a gauntlet, the Daedric sigil 'O' emblazoned upon the palm. Attempts to move it were in vain. I must show it to the Archmage during his upcoming visit. Perhaps he will know more. While we couldn't move the relic, I was able to pry four "rings" from it. I'm sure there's a connection between them and the ritual the students were attempting. I'll store these in the Arcanaeum until we can consult with a conjuration master to learn more.
+<|end_description|>

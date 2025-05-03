@@ -18,4 +18,6 @@ NONE:  (amount: 1)
 Zeryphesh: a city (location: NONE)
 <|end_locations|>
 <|end_quest|>
+<|begin_description|>
 Stop. Enough. You have freed me from my enslavement and I am myself once more! We must leave this place. I will open a portal for you, to Zeryphesh.
+<|end_description|>

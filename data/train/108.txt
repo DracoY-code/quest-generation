@@ -18,4 +18,6 @@ The Mace of Molag Bal:  (amount: 1)
 Boethiah: the goddess of destruction, Molag Bal's rival (location: )
 <|end_characters|>
 <|end_quest|>
+<|begin_description|>
 Fool! Did you think Molag Bal, the Lord of Domination, would so easily reward you? What do you see from that little cage? Speak. You definitely see the spikes of your cage. Sharp, aren't they? This was the last thing many saw before they were sacrificed in my name. But even a god has his enemies, and my rival Boethiah had her priest desecrate it. So long since it's tasted blood. Until you came. I want submission. I want the priest who did this to bend his knee and give me his soul. He comes by to perform Boethiah's insulting rites at my altar, but he's been missing. Captured and bound. Left to rot. You'll get the freedom your kind enjoys so much. Save the priest. Let him perform his rite one more time. And when he does, we will be waiting for him. Then you will be finally rewarded. The Mace of Molag Bal! I give you its true power, mortal. When your enemies lie broken and bloody before you, know that I will be watching.
+<|end_description|>

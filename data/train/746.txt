@@ -19,4 +19,6 @@ Leather Armor: A suit of leather armor crafted by Balthas as thanks. (amount: NO
 Improved reputation in Modoc: Your heroic actions increase your standing in the community. (amount: NONE)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 Jonny has been found in the Slag caves, and you must figure out how to bring him back home safely to his father in Modoc.
+<|end_description|>

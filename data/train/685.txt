@@ -24,4 +24,6 @@ Forest of Tethir: a forest (location: NONE)
 wolfweres: wolves that can turn into humanoids (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 Hail, good friend! I am most pleased to see you here! Your timing could not be better, as I, Coran, am in most dire need! I was traveling Forest of Tethir with my beloved Safana... and now she is kidnapped! It is dreadful! Two days ago, we were beset by giant wolves... wolfweres, I fear. They tried to take us both, but I was able to escape. Safana, however, was not so fortunate. I tracked them to an encampment east of here, but even a great warrior such as myself cannot beat them alone. We must save her and strike a blow against the foul werebeasts! Together, we shall be unstoppable!
+<|end_description|>

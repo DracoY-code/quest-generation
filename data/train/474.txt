@@ -21,4 +21,6 @@ Ahdarji: the widow of a former fence (location: Leyawiin)
 Thieves Guild: a guild of thieves (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 I have a special request from the widow of a former fence in Leyawiin. As your new Doyen, I am asking you to help her. A street scavenger made off with a ring that the widow Ahdarji values highly. She is offering a reward. The guild frowns on freelance thieves. Go to Leyawiin. Speak with Ahdarji and help her find her ring.
+<|end_description|>

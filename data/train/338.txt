@@ -24,4 +24,6 @@ Black Marsh: a province (location: NONE)
 Argonians: a people native to Black Marsh, who have not fared well outside their homeland (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 I'm Shahvee. We Argonians have not fared well outside our native Black Marsh, but we're determined to make the best of things. I began praying to Zenithar, the god of wealth, to bring us some fortune, but thieves made off with my sacred amulet almost as soon as I bought it. If you found my Amulet, Shahvee would be in your debt, kind one.
+<|end_description|>

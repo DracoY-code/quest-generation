@@ -18,4 +18,6 @@ Darkwater Bog: a nearby swamp
 knowledge
 <|end_motivation|>
 <|end_quest|>
+<|begin_description|>
 Oh great. It's the evil-doer. Our village faces enough hardship even without the likes of you! On the contrary... Perhaps evil plus evil equals good. There are rumors about a witch in living in a nearby swamp. Many villagers, myself included, worry about the presence of a witch. Would you like to search Darkwater Bog for that witch, and confirm whether the rumors are true? Even a villain can't resist the price I'm willing to pay for that knowledge: 16 diamonds.
+<|end_description|>

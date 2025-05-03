@@ -28,4 +28,6 @@ Dragonsreach: the Jarl's palace in Whiterun (location: NONE)
 Thieves Guild: a guild of thieves (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 You're here! And not a moment too soon. If anything should happen to Arn, there'll be hell to pay. Arn's a close friend of mine. We fought together on the battlefield for many years until old age got the better of us. Now it's up to me to save him one more time... this time from the executioner's block in Solitude. The city guard in Solitude is seeking Arn for a serious crime. When he fled here, he was arrested for drunken behavior. Can you imagine? Fortunately, his identity isn't known to the authorities in Whiterun, so there's still a chance to save him. The job is two-fold. First, steal a letter that was sent from Solitude warning Whiterun's guard to be on the lookout for Arn. The second is to change Arn's name in the prison registry to his new identity. The job is relatively difficult. If it was easy, I would have hired a local thug instead of a professional from the Thieves Guild. You see both of these items are kept inside Dragonsreach, and they don't allow visitors inside the Jarl's or the Steward's chambers. One more thing. If you get caught, I can't afford to be connected to you. Remember that before you do anything stupid.
+<|end_description|>

@@ -18,4 +18,6 @@ Mistwatch: a tower hosting a bandit hideout
 Fjola: Christer's missing wife (location: )
 <|end_characters|>
 <|end_quest|>
+<|begin_description|>
 Please, stranger! I need your help! Divine mercy - you aren't one of the bandits. Please, you've got to help me! It's my wife, Fjola! I think she's being held in this tower. Let me explain. Fjola, my wife, left the farm on errands and never came back. It's been months, and I've been searching for her since. I heard a rumor that these bandits were ransoming captives, so I thought she may be here. I managed to sneak past the guards and get this far, but... I don't think I can go on. I'm no warrior! Please, can you look for her? I don't have much, but I can give you some coin for the trouble. One of the guards dropped this key while I hid. I wager it will come in handy for you. Please hurry!
+<|end_description|>

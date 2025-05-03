@@ -18,4 +18,6 @@ Downtown Hub: A central district in the Hub where Saul and Trish can be found.
 Experience Points: Gained for successfully resolving Saul's problem. (amount: 500)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 Saul, a former prizefighter, is struggling with relationship issues with Trish. The player can intervene by talking to both parties and helping them reach an understanding or resolving the matter differently.
+<|end_description|>

@@ -21,4 +21,6 @@ Frosted Hills: hills (location: NONE)
 Estherians: a race of people (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 Thank you for rescuing me. I had recovered the Passkey Ember from these slavers, but they captured me as I was trying to return to the Enclave. I could use your help with one small matter before you go. These slavers have been harrying the Estherians for several weeks now. You defeated many, but there are many more watching us from the safety of those huts. Burn them out! If they are allowed to remain, the Frosted Hills will never be safe.
+<|end_description|>

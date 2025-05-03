@@ -19,4 +19,6 @@ Caps: A monetary reward for successfully completing the task. (amount: 100)
 More work from Lara: Completing this task unlocks additional quests from Lara. (amount: NONE)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 Lara, a gang leader in The Den, wants to know what is inside the guarded church. She asks you to investigate the building and report back without getting caught.
+<|end_description|>

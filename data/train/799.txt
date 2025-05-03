@@ -21,4 +21,6 @@ Kylee: a male miner (location: the mines)
 Kylee's dagger: a dagger (amount: 1)
 <|end_items|>
 <|end_quest|>
+<|begin_description|>
 Are you going to be going down into the mines? If so, could you return this dagger to Kylee? He dropped it when he went into the mine the other day and I haven't seen him since.
+<|end_description|>

@@ -21,4 +21,6 @@ Glowstone Dust: a potion ingredient (amount: 64)
 comfort
 <|end_motivation|>
 <|end_quest|>
+<|begin_description|>
 My child, my temple could use a donation. I have to tend the sick and needy: I cannot procure all my potion ingredients myself. I often have to participate in rather complicated trades for the ingredients. Please, help a humble servant of the Gods: bring me 9 diamonds. I know that they are rare, but you can find still find them in ancient ruins, and even deep within the Overworld itself. I have a vast surplus of some potion ingredients that cannot be traded further: I can give you 64 Glowstone Dust for your time and effort.
+<|end_description|>

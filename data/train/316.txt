@@ -21,4 +21,6 @@ Orchendor: Peryite's male elven monk (location: Bthardamz)
 Afflicted: people from Breton villages who were infected with Peryite's plague (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 I have watched you for some time, you know. The decisions you've made intrigue me, and I wonder if you are the proper agent for a task of mine. I sent a blessing to the world, a wasting plague that infected a scattering of Breton villages. One of my monks, the elf Orchendor, was sent to gather these Afflicted. He shepherded them into Bthardamz for me, but has since lost his way. I will not stand for betrayal. I want you to go to Bthardamz and kill Orchendor, in my name. I can grant you a powerful token for this task. An escutcheon of dwarven make, capable of shielding you from both the spell and sword. Return when the elf lies dead and it will be yours.
+<|end_description|>

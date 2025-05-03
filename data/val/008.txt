@@ -20,4 +20,6 @@ Caps: Payment from Lynette upon completion. (amount: 500)
 Vault City Reputation: Increased standing with Vault City for completing the task. (amount: NONE)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 Roger Westin, an influential rancher in NCR, entrusts you with a holodisk containing valuable information for Vault City’s leadership. Your task is to ensure its safe delivery to First Citizen Lynette, who may reward you upon receipt.
+<|end_description|>

@@ -21,4 +21,6 @@ Finnas: Bellethe's husband (location: Widow's Veil)
 Estherian Enclave: a town (location: NONE)
 <|end_locations|>
 <|end_quest|>
+<|begin_description|>
 Please, help me! Our dear little ones wandered into that cave! My husband Finnas ventured after them, but it is crawling with nasty creatures, and he hasn't returned! My husband Finnas and I were on our way to the Estherian Enclave. We're homesteaders, with a small farm in the Frosted Hills. The weather is getting harsh, so we were making one last run for supplies before winter. Oh, I'm beside myself with worry! Please, find Finnas and our precious babies! You have to help us! You could have a special item as a token of our gratitude!
+<|end_description|>

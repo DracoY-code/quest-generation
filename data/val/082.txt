@@ -27,4 +27,6 @@ Warbeasts: dangerous monsters (amount: 10)
 Vanquisher Corps: a military outfit (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 BOUNTY! Commander Vale of the Vanquisher Corps is offering a reward to anyone who can help thin out the packs of Warbeasts hampering colonization and defense efforts in Estheria. This reward shall be paid to anyone who slays 10 or more Warbeasts in the Temple Steppes.
+<|end_description|>

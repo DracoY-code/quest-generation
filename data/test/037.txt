@@ -18,4 +18,6 @@ Drienne: a young girl
 Pixie: Drienne's pet cat (location: )
 <|end_characters|>
 <|end_quest|>
+<|begin_description|>
 I'm just a little girl Drienne. Mommy says if you ever need to know something important, you should ask an adult. Pixie, my cat, she was playing close to the waterfall and slipped... I hope she's all right. You can have this scroll Daddy gave me, if you find Pixie. I can't read the words yet anyways.
+<|end_description|>

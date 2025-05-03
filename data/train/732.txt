@@ -25,4 +25,6 @@ Riften: a city (location: NONE)
 Black-Briars: the richest family in Riften (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 Look, we all have our flaws; mine is that women can't get enough of me. So I had this little affair going on while I was betrothed to a beautiful girl named Svidi. Well, she finds out and she tells her brother, Wulfur. Then her brother attacks me with a knife... I mean, I had to defend myself! So I got arrested for his murder. And now I have to stare at these bars for eight months. Can you believe it? I was about to let that wench Svidi marry into the richest family in Riften, and this is how she repays me. I'd do anything to have that whore's head on a platter. All I need to know is where she is. Find her and I promise you'll be well compensated. Svidi was a young woman... buxom, with long flowing black hair. She used to sing the most lovely songs to me when we were courting. I've never heard a voice so beautiful. All that talent will go to waste when I'm finished with her.
+<|end_description|>

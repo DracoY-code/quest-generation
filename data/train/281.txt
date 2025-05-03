@@ -25,4 +25,6 @@ Arnold: an inexperienced armorer
 reputation
 <|end_motivation|>
 <|end_quest|>
+<|begin_description|>
 I want to become famous. Just not quite like you, hero. I seek to become the best armorer in the world. To do that, I need a lot of practice in hammering down pieces of armor. Would you please bring me 32 blocks of iron? Those should help me become a better armorer in no time! First, you have to get iron ore from the many iron veins in the ground. Next, you'll want to smelt the ore into iron ingots in a furnace somewhere. Lastly, you ought to craft those iron ingots into blocks of iron on a crafting table. Do all that, and I promise to outfit you in better armor than what you are wearing now!
+<|end_description|>

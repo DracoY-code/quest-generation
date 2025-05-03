@@ -18,4 +18,6 @@ Hamlet-By-The-Grass: a village
 comfort
 <|end_motivation|>
 <|end_quest|>
+<|begin_description|>
 My home is starting to look a bit drab. Could you help me redecorate my home here in Hamlet-By-The-Grass? I don't know you that well; you definitely should come up with something fresh and interesting. Here. Take these decorations and place them in my home. Afterwards, you can have this gold ingot.
+<|end_description|>

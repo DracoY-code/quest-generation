@@ -18,4 +18,6 @@ Caps: A small payment for successfully guarding the Brahmin. (amount: 100)
 Reputation Boost: Improved reputation in Klamath for assisting the town. (amount: NONE)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 A group of rustlers has been stealing Brahmin from Klamath. Torr needs help standing guard at night to stop them.
+<|end_description|>

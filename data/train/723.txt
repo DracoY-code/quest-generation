@@ -21,4 +21,6 @@ Bronze Head of Grunnheim: an artifact that contains records, some of which are t
 Sturmbeorn: brutish bandits who only value gold (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 We are relatively safe here, but the brutish Sturmbeorn will surely destroy everything that isn't made of gold! The temple is home to thousands of years of historical artifacts and documents, and it grieves me immeasurably to think of all of those treasures lost! We were able to gather up some of the artifacts, as we fled, but the Bronze Head of Grunnheim was left behind! Please, find it! Some of its records are the only accounts we have of major historic events!
+<|end_description|>

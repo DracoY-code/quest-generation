@@ -18,4 +18,6 @@ NONE:  (amount: 1)
 Glyph of Balthazar: an artifact that has power over water (amount: 1)
 <|end_items|>
 <|end_quest|>
+<|begin_description|>
 I am merely spirit, but I mean you no harm. In life, I was an ambitious thief, and I thought I was invincible. My greatest achievement was when I stole the Glyph of Balthazar from the Wellspring Basin. I thought I could master its power over water, but I was very, very wrong. Now I am trapped here in eternal torment, drowning forever, unable to rectify my mistake. Will you return the Glyph of Balthazar to the Wellspring Basin, and set my spirit free at last?
+<|end_description|>

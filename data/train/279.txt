@@ -24,4 +24,6 @@ Illagers: bandits (amount: NONE)
 serenity
 <|end_motivation|>
 <|end_quest|>
+<|begin_description|>
 Welcome to my library! How may I help you on this beautiful day? Ah, you're my helper from before! Thanks to you, the library's been visited much more frequently than ever before. Having exclusive rights to A.R.'s books made the library soar in popularity! I even had to order more copies of books to satisfy all reading needs! Actually, there is a teeny tiny issue related to the books: a band of Illagers stole a shipment of books and hauled them to their outpost. Would you kindly find and recover the shipment for me? You'll receive 10 blocks of emerald for your services.
+<|end_description|>

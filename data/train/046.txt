@@ -18,4 +18,6 @@ NONE:  (amount: 1)
 Ashfire Mead: a special brew made at Thirsk Mead Hall (amount: 1)
 <|end_items|>
 <|end_quest|>
+<|begin_description|>
 Actually, now that I think of it, I have been missing the Ashfire Mead. It's a special brew that we make at Thirsk. If you could... somehow... get up there and grab a bottle, I'd be a long way towards forgetting how miserable it is down here.
+<|end_description|>

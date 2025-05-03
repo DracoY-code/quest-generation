@@ -31,4 +31,6 @@ Balduran's logbook: logbook (amount: 1)
 Merchants' League: a merchants' guild (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 I am Mendas of Waterdeep, quester of small truth in this land. I am in need of favor from you. Can you help a gentle fellow in search for knowledge? The Merchants' League sailors found Balduran's shipwreck on a small island. I wish to recover the ship's logbook. I will solve mystery of Balduran's final voyage. Merchants' League will destroy my artifacts to get treasure. This must not happen! If you help me, I get things precious to me, you get treasure, merchant men get nothing. You will help, yes? These men that find island, they keep the sea charts locked up. In Baldur's Gate, there is building in northeast section of city called Merchants' League Counting House. To find it, just go northeast from Elfsong Tavern. The sea charts, they are in there. Most likely, captain of ship will have them. I don't know such things as chart retrieval, but you are hero, and it is no problem for heroes. There might be small danger, so I give you some gold for the charts.
+<|end_description|>

@@ -18,4 +18,6 @@ Nether: a hellish, dangerous dimension
 knowledge
 <|end_motivation|>
 <|end_quest|>
+<|begin_description|>
 Why are you talking to me? Can't you just steer clear of me? If you really want to do something interesting, though, I've got something fun for you. Go to the Nether. You know, the lethal hellish dimension? You can get there with a portal made out of obsidian. Take a look at the various ruined portals dotting the landscape. Try to sleep in a bed there, and report back to me. I'm very interested in hearing the results of this little experiment. If the things I've heard about the Nether are true that should teach you a lesson... and I'll even give you a shiny diamond.
+<|end_description|>

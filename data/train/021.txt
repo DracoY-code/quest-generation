@@ -19,4 +19,6 @@ Madgod: Syl's ruler (location: )
 Herdir: a man (location: )
 <|end_characters|>
 <|end_quest|>
+<|begin_description|>
 Why do you approach Syl, the Duchess of Dementia? Do you seek death? You're the one the Madgod sent, aren't you? Then you're safe for now. Speak to no one unless I instruct you to. None of them can be trusted. Do you hear me? None! Surrounded by traitors and spies, I am. Always, always. They watch and wait, eager to slip a knife into my spine when I'm not looking. Could be all of them. Every last one. None can be trusted. But they'll never take me down. Never! I'll see them all rotting in shallow graves before I let my guard down! You... you will help me. Yes, yes. You will be most useful. You're going to find out who knows. You're going to learn who keeps secrets, who conspires against me. You will be my Grand Inquisitor. Expose the conspirators, and they will be punished, I assure you. Find out who keeps secrets, and what they are. Speak with Herdir. He will help you. Do you understand what is required of you? If no one is found, you will be held responsible.
+<|end_description|>

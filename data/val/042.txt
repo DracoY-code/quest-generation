@@ -15,4 +15,6 @@ Waukeenar Temple: a temple
 : Raissa's gratitude (amount: 1)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 Y-you... you killed those monsters? It was so... horrible! They turned me, Raissa, into one of them: a skin dancer. Peeled my skin from m-my bones and... and now I've put it back! They turned me into one of them. He took my skin like it was some kind of coat and put it on. He told me that now I was a skin dancer too. I... I cannot go anywhere like this! I can feel that magic, that evil, growing inside of me! Please, my noble savior... help me! Wh-when he was... taking my skin, the skin walker said the only way to stop the process was a spell of restoration. B-but he laughed, saying I would never receive it. If... if you could find that spell, could you not cast it upon me? Maybe... maybe the temple superior at the Waukeenar Temple would have something! I have no coin. I know such magic is very expensive... but if you could find it in your heart to save me, I would be eternally grateful!
+<|end_description|>

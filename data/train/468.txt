@@ -21,4 +21,6 @@ Tiris: Jenia's son (location: Tiris and Jenia's home)
 Alibakkar: a noble family (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 My name is Jenia, and I come to you on behalf of my son, Tiris. He is very frightened. Too frightened to even leave our home! I beg of you to come and speak to him! To see what has frightened him so and perhaps help him! Tiris is at our home, the one just north of the Alibakkar estate. Please come as soon as you are able to! I so despair seeing him like this! I know I am poor and have nothing to offer, but I beg you to help my son!
+<|end_description|>

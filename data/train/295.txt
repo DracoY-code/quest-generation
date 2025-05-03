@@ -21,4 +21,6 @@ Maglir: a man, and a fellow Fighters Guild member (location: Bravil)
 Fighters Guild: a mercenary guild (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 I'm going to need you to find Maglir again. The little fetcher. The little vermin has defaulted on another contract. I need you to go babysit him again. Wish I knew what happened. He had a contract for a local mage in Bravil. Didn't seem like a particularly difficult assignment. He hasn't reported to the client at all. Get yourself down to Bravil and find Maglir. Make sure that contract of his gets done. And send him to me.
+<|end_description|>

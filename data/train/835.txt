@@ -19,4 +19,6 @@ Lady de'Arnise: a dead noblewoman (location: )
 Lastin: a new male guard, and one of the player's subjects (location: here with Cernick)
 <|end_characters|>
 <|end_quest|>
+<|begin_description|>
 Greetings, my liege. It is I, Cernick, your captain of the guard. I am not sure if you have been aware, but we have been experiencing a number of thefts in the keep over the past couple of weeks. A goblet, some silverware, a few coins from the servants' quarters. All of these things have value, although none of them were major thefts. Still... I investigated. Lastin here is one of the new guards. I caught him red-handed, attempting to take a necklace that belonged to the late Lady de'Arnise. Lastin has confessed his crime. I am unsure how to punish him, my liege, so I have brought this before you. He is your subject, my liege, so yours is the right to decide punishment, but you are also... being watched carefully by those who oppose your rule, however.
+<|end_description|>

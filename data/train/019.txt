@@ -18,4 +18,6 @@ Wolfskull Cave: a cave that is said to be haunted because of Potema the Wolf Que
 Potema the Wolf Queen: an infamous, feared, long-dead queen (location: )
 <|end_characters|>
 <|end_quest|>
+<|begin_description|>
 There have been reports of weird happenings near Wolfskull Cave. Travelers disappearing, odd lights. I suspect wild animals or perhaps bandits. The cave has a bad history. Long ago, Potema the Wolf Queen used it for necromantic rituals. That's where it got the name. That was over 500 years ago. Nothing much down there now - but everyone's always convinced the cave is haunted. I don't think it's worth our time with the war going on, but if you want to clear out the cave, I'll make sure you're repaid for your work.
+<|end_description|>

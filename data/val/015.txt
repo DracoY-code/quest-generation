@@ -18,4 +18,6 @@ NONE:
 Agata: a young woman, whose heart is old and wise (location: )
 <|end_characters|>
 <|end_quest|>
+<|begin_description|>
 You seek wisdom from me, child? Ah, no. You seek words of recommendation. Words are... difficult. They come and go. The voices, though. So loud they are, they drown out the words. Without my amulet, my stone to lock the voices away, the words will never come and stay. Would you lift your hands to help another, to help me find the words? Seek Agata, child. She will see the path, and set you on it. She may be young, but her heart is old and wise. It guides her well through these troubled times. I must rest.
+<|end_description|>

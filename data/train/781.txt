@@ -15,4 +15,6 @@ Shady Sands: A small settlement trying to survive in the wasteland.
 Ian's Assistance: Ian joins the player as a companion, aiding in combat. (amount: 1)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 Ian, a former caravan guard, is willing to join the Vault Dweller if convinced. He can be recruited through conversation, offering him payment, or appealing to his sense of adventure.
+<|end_description|>

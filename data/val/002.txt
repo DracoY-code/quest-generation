@@ -18,4 +18,6 @@ NONE:  (amount: 1)
 Moon Amulet: an amulet (location: NONE)
 <|end_locations|>
 <|end_quest|>
+<|begin_description|>
 A few days ago, our caravan was ambushed. A nuisance, really, but many of the marauders had quick fingers. One of them stole my Moon Amulet, given to me by my mother when I was just a cub. It is my only memory of home in this cold land. You offer to get my amulet back? We believe the bandits are a part of a group headquartered in Faldar's Tooth. Be careful. I miss my amulet, but a life cannot be replaced as easily.
+<|end_description|>

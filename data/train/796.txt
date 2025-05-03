@@ -19,4 +19,6 @@ Leather Armor: A suit of leather armor crafted by Balthas as a token of gratitud
 Improved reputation in Modoc: The town appreciates your efforts in reuniting Jonny with his family. (amount: NONE)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 Jonny, Balthas' son, has gone missing from Modoc. His father is desperate to find him and needs someone to track him down and bring him home safely.
+<|end_description|>

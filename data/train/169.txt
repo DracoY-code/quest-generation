@@ -18,4 +18,6 @@ NONE:
 Nelkir: Balgruuf the Greater's youngest son, a quiet boy (location: )
 <|end_characters|>
 <|end_quest|>
+<|begin_description|>
 My youngest son, Nelkir, is a dark child. I don't know what to do with him. He was always a quiet lad, but lately... something has changed. He's become brooding. Violent. He won't say a word to me, but I don't know how I upset him. If you could speak to him. Draw out the truth. I would be immensely grateful.
+<|end_description|>

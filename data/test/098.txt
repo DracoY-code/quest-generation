@@ -20,4 +20,6 @@ Experience Points: Earned for successfully repairing the air purifier. (amount: 
 Caps: A monetary reward from Marge LeBarge for fixing the purifier. (amount: 500)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 The air purifier in Redding’s mine has broken down, posing a serious health risk to the miners. Marge LeBarge has asked you to find the necessary parts and repair it to ensure their safety.
+<|end_description|>

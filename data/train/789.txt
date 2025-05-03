@@ -21,4 +21,6 @@ Palern Flynn: a former male member of the Shadow Thieves (location: on the secon
 Shadow Thief, Shadow Thieves: a guild of thieves (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 I will give you your next assignment. The Shadow Thieves have other enemies besides me. Recently, they uncovered a traitor, and have been questioning him quite ruthlessly for some days now. You will rescue him. He will be killed once they are through, so go quickly. They have him at the Shadow Thief guild house on the second floor. You know the building, I think? The man's name is Palern Flynn. Remember, if he dies, you fail. Good luck.
+<|end_description|>

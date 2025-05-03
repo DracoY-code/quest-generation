@@ -21,4 +21,6 @@ College of Winterhold: a college for mages (location: NONE)
 Mage Light: a useful alteration spell (amount: 1)
 <|end_items|>
 <|end_quest|>
+<|begin_description|>
 It would seem that the College has what you seek. The question now is what you can offer the College. Not just anyone is allowed inside. Those wishing to enter must show some degree of skill with magic. A small test, if you will. The Mage Light spell is useful to any mage, not just those specializing in Alteration. Can you cast one on the seal on the ground?
+<|end_description|>

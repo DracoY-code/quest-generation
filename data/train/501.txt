@@ -23,4 +23,6 @@ Sword Coast: a region (location: NONE)
 Red Sheaf Inn: an inn (location: NONE)
 <|end_locations|>
 <|end_quest|>
+<|begin_description|>
 Hail, adventurers. I'm Garrick, and I work for Silke Rosena. She's the most skilled musician and actor along the Sword Coast.  I have a proposal for you. How would you like a well-paying job as a bodyguard for my mistress? She's been having some problems of late. Some thugs have been hired by Feldepost to hurt her bad because she didn't perform at his inn when she was supposed to. You can't blame her for not showing up, what with a villain like Feldepost running the place. Just meet me outside of the Red Sheaf Inn, if you are interested in the job.
+<|end_description|>

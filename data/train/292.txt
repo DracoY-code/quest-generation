@@ -18,4 +18,6 @@ Caps: A monetary reward for successfully clearing the rodents. (amount: 100)
 Improved reputation in Broken Hills: Gaining trust and appreciation from the town for helping Farrel. (amount: NONE)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 Farrel's garden in Broken Hills is overrun by rodents, destroying his crops. He needs someone to clear the infestation so he can continue farming.
+<|end_description|>

@@ -19,4 +19,6 @@ Hern: a male vampire who has blended into the human society (location: Half-Moon
 Hert: a female vampire, Hern's companion (location: Half-Moon Mill)
 <|end_characters|>
 <|end_quest|>
+<|begin_description|>
 You are going to assassinate Hern. He's a vampire, and has blended into human society for years. He's never far from his female companion, Hert. Also a vampire. The contract is for the male, Hern. But you'll probably have to contend with the female, too. They both live in Half-Moon Mill. So for Sithis' sake, watch yourself. Face a vampire, and live to tell the tale!
+<|end_description|>

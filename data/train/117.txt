@@ -22,4 +22,6 @@ Cyrodiil: a province (location: NONE)
 Black Marsh: a province (location: NONE)
 <|end_locations|>
 <|end_quest|>
+<|begin_description|>
 In life, I was known as Sir Henrik. If you are true to the teachings of Julianos, it may be possible for you to find the Shield of the Crusader. When the Order crumbled, I set out on my own. After years of searching, I found the Shield and brought it to Fort Bulwark for safe keeping. With the help of a few trusted friends, I began work to keep the Shield safe for all eternity. I never saw my work finished. I died defending the fort from those who would take and misuse the Shield. I never saw our work finished; I trust that the others carried on without me. The fort lies in the southeast of Cyrodiil, near the Black Marsh border. If all went according to plan, it should be very well guarded now.
+<|end_description|>

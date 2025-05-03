@@ -18,4 +18,6 @@ NONE:
 Morrowind: a province (location: NONE)
 <|end_locations|>
 <|end_quest|>
+<|begin_description|>
 I was a mage back in Morrowind. I lend my talents to the mines here, helping them keep the tunnels safe. By Azura, it gets hot in there. I use Frost Salts for a potion to keep the heat bearable, but I'm out. If you want to go to the trouble of getting me some frost salts, feel free. I suppose I could offer you a bit of free Alteration training when you get back.
+<|end_description|>

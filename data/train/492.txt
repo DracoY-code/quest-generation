@@ -19,4 +19,6 @@ Elgrim: an absent-minded male alchemist who runs an alchemy shop (location: )
 Filnjar: a male miner (location: Shor's Stone)
 <|end_characters|>
 <|end_quest|>
+<|begin_description|>
 I swear, if I wasn't around, Elgrim would forget to eat his meals. How we make any coin at all is beyond me. In fact, I need to arrange for someone to pick up an ore sample for me in Shor's Stone... goodness knows Elgrim won't lift a finger to do it. You would do this for me? Oh, that would be wonderful. Speak to Filnjar in Shor's Stone. He's got some sort of ore sample he wants us to identify and was willing to pay us well for it. The job pays well, so I hope I can make arrangements soon. We could really use the gold. I'll have Elgrim make some potions for you for all that travel.
+<|end_description|>

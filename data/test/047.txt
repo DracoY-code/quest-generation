@@ -21,4 +21,6 @@ Pavo Attius: a man (location: )
 Companions: a band of honorable warriors (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 Pavo Attius has asked for our help. It seems a predator has invaded his home, and someone needs to clear the beast out. Be cautious. Beasts are not nearly as predictable as men. Give the thing a quick death.
+<|end_description|>

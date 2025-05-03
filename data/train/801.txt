@@ -19,4 +19,6 @@ NONE:
 Braith: a girl (location: )
 <|end_characters|>
 <|end_quest|>
+<|begin_description|>
 I'm having trouble. Braith bullies me all the time. All the elders think I'm a milk drinker 'cause I can't fight. Nobody understands. If you can get Braith to leave me alone, I'll be your best friend... forever! I'll pay you, too! My whole life's savings - two septims!
+<|end_description|>

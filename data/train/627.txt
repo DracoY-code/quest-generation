@@ -17,4 +17,6 @@ Caps: A monetary reward for eliminating the threat. (amount: 200)
 Combat experience: Fighting the creature grants valuable combat experience. (amount: NONE)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 A mysterious and dangerous creature, referred to as the 'chicken,' has been attacking livestock in Modoc. Grisham wants it eliminated before it causes more damage.
+<|end_description|>

@@ -22,4 +22,6 @@ Daedric Princes: immortal, fickle, infamous divine beings (amount: NONE)
 Forgotten: a sect of Namira's worshipers (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 You dare approach Namira's shrine, Child of the Light? You, who walk this plane basking in the light of the warm, cruel sun? Prove to me that you deserve my favor. In Anga, my Forgotten have lived in peace for many years. They worship me from the dark, basking in their misery and filth. Now, though, some would seek to bring light to their darkness. Priests of Arkay have intruded upon their squalor. I want you to help my Forgotten kill these priests of the Light. Cast this spell upon the priests. Allow my beloved Forgotten to kill the interlopers. When this is done, I shall reward you for your efforts. You shall have my ring. Let it bring pain to others who would wish it upon you.
+<|end_description|>

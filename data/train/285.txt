@@ -16,4 +16,6 @@ Vault City: A highly advanced and well-guarded settlement, known for its strict 
 Historical insight: Gain knowledge about the Master, the Unity, and the events of the past. (amount: NONE)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 Leanne in Vault City has a story to share about the Master and the Unity. Listening to her could provide valuable historical insight into the world before and after the war.
+<|end_description|>

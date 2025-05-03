@@ -18,4 +18,6 @@ NONE:  (amount: 1)
 Tazok: a male bandit leader (location: )
 <|end_characters|>
 <|end_quest|>
+<|begin_description|>
 This whole thing is dirty to the core, that's what I know! These aren't your ordinary bandits here. Tazok's been making regular visits to the Cloakwood, so that's where I'd start if I were you. There are some documents in that chest that might be worth taking a look at, too. Now go step on some toes, all right? And you can tell them Ender Sai sent you.
+<|end_description|>

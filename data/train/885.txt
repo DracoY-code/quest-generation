@@ -15,4 +15,6 @@ Tooth-in-the-Sea: a master of Alteration
 : Alteration training from Tooth-in-the-Sea (amount: 1)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 Would you learn from me? Then meet me during the day, out under the waves in the bay. If you wish to learn what I know about Alteration, then you must stay there with me for a full three hours. How you manage to do this is up to you; do not wander off, or I shall consider this test of your ability failed.
+<|end_description|>

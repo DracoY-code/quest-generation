@@ -19,4 +19,6 @@ Cindanwe: a woman (location: )
 Kishashi: Ranarr-Jo's beloved woman (location: )
 <|end_characters|>
 <|end_quest|>
+<|begin_description|>
 I'm Ranarr-Jo. Perhaps you could help us? But why should I trust you? You might be, you know... one of Them. Our situation is desperate, she controls our minds... but wait, I've said too much. Talk to my Kishashi. If she will trust you, I will trust you.
+<|end_description|>

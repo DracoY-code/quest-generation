@@ -21,4 +21,6 @@ Desert Refuge: a desert village (location: NONE)
 reputation
 <|end_motivation|>
 <|end_quest|>
+<|begin_description|>
 Hail traveler! I'd guide you toward a soft bed, but as it happens, our village doesn't have an inn. We really could use an inn: travelers heading in and out of the desert pass by Desert Refuge often. An inn would make our village even more famous! Could you build an inn here? You just need some building materials; I'll give you a box of materials to start with. We will give you ten stacks of sand as a reward, to help you craft many useful things.
+<|end_description|>

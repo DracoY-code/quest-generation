@@ -21,4 +21,6 @@ Chanelle: a female maid (location: the player's castle)
 de'Arnise family: the former rulers of the player's castle (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 Greetings, Your Grace. It is I, the majordomo of your castle. We have a small problem here at the keep, one that I doubt that you would be aware of at all. I am unsure if you have met Chanelle... She has been a maid here most of her life. She was an orphan, and the de'Arnise family took her in as a servant when she was young. As the ruler of the keep, you are technically her guardian. Ordinarily, that would not be a problem, but there are two men who desire her hand in marriage. It is... up to you, my liege, to give her away and decide which of the men has your blessing for the marriage. I shall bring them in to see you, my liege. If you do not resolve this issue, then... no one shall be permitted to marry Chanelle. And I am sure that is not what she wants.
+<|end_description|>

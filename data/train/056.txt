@@ -24,4 +24,6 @@ Markarth: a city (location: NONE)
 Forsworn: an organization that opposes the current rulers of Markarth (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 Well, well. Look at you. The authorities of Markarth have turned you into an animal. A wild beast caged up and left to go mad. So, my fellow beast, what do you want? Answers about the Forsworn? Revenge for trying to have you killed? You're one of us now, you see? A slave. The boot of the false, unjust law stepping on your throat. Maybe if you understood that, I could help you. There's a man named Braig inside these mines. Besides me, he's been here the longest. Tell him I sent you. Ask him why he's here. I want you to know how widespread the injustice of Markarth is. Then, we might discuss about an early pardon.
+<|end_description|>

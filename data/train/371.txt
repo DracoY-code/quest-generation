@@ -16,4 +16,6 @@ Experience Points: Earned for eliminating the Master. (amount: 10000)
 Brotherhood Support: Assistance from the Brotherhood in future battles. (amount: 1)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 The Master, a mutated being seeking to unite all life under a single species, leads a growing army of Super Mutants. The Vault Dweller is tasked with infiltrating the Cathedral, navigating its defenses, and eliminating the Master through direct combat or by sabotaging his life support system. The outcome affects the future of the wasteland.
+<|end_description|>

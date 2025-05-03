@@ -21,4 +21,6 @@ Grimsever: Mjoll the Lioness' beloved, lost sword (amount: 1)
 Dwemer: an extinct race of people famed for their mechanical constructions (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 My blade, the Grimsever, was lost years ago in a Dwemer ruin. Without it, I feel almost as defenseless as a newborn. I don't think I'll ever be able to find a replacement. I was adventuring in the depths of the ruins when I was attacked by a massive construct... like nothing I had ever seen. When the colossus struck, Grimsever was knocked from my grasp and I was wounded badly. It was only through blind luck that I was able to crawl away from the Dwemer abomination and make my way to the surface. I couldn't ask you to undertake such a treacherous journey, it would be a fool's errand. But I see that spark in your eye and I know better than to warn you away. Grimsever rests with the Dwemer ruin of Mzinchaleft. Tread carefully, friend... those same ruins almost took my life.
+<|end_description|>

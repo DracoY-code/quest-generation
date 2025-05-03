@@ -21,4 +21,6 @@ Ghost Chains: chains that only a ghost can open (amount: 1)
 Rosamortis: a valuable little item that can save the life of someone who's been mortally wounded (amount: 1)
 <|end_items|>
 <|end_quest|>
+<|begin_description|>
 I got a proposition for you... a little "I scratch my back, you scratch yours" kind of thing. See this crypt over here? It's called the Bone Gallery, and there's a little thing in there called the Rosamortis... a handy little thingamajig that can save the life of someone who's been mortally wounded... which, while pretty valuable, is also guarded by the biggest undead monstrosity I've ever seen! Also, the entrance to the Bone Gallery is locked with chains only a ghost can open! You'll have to convince the spirits to unlock the Ghost Chains and give you access, then get the Rosamortis away from that monster... but I promise to make it worth your while!
+<|end_description|>

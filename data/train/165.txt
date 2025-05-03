@@ -18,4 +18,6 @@ K-9 as a companion: K-9 will join you as a follower after being repaired. (amoun
 Experience Points: Earn XP for successfully repairing K-9. (amount: NONE)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 K-9, a cybernetic dog at Navarro, has developed a malfunction. If you can obtain the right parts and repair it, K-9 will become fully operational again and may even join you on your journey.
+<|end_description|>

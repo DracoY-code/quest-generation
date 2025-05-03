@@ -18,4 +18,6 @@ Caps: A reward from the locals for eliminating the Rat God. (amount: 100)
 Karma Boost: Helping the town improves your reputation. (amount: NONE)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 Klamath's sewers are infested with aggressive rats, and rumors speak of a larger, more intelligent creature—the Rat God. The locals need someone brave enough to put an end to this menace.
+<|end_description|>

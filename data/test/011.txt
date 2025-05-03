@@ -21,4 +21,6 @@ Ender Chests: chests whose contents are stored separately for all people (amount
 reputation
 <|end_motivation|>
 <|end_quest|>
+<|begin_description|>
 I'm planning all sorts of new pranks that would make me a famous man here in the village. There's one integral item that I haven't been able to obtain: an Ender Chest. You know, the chests whose contents are stored separately for everyone? I heard you can find Ender Chests in End Cities at the end of time and space. It should also be possible to craft them somehow. Can you obtain an Ender Chest? I would pay you well for one: you could have some powered rails that I used in one of my pranks.
+<|end_description|>

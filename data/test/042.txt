@@ -18,4 +18,6 @@ NONE:
 : bear pelts (amount: 20)
 <|end_items|>
 <|end_quest|>
+<|begin_description|>
 You seek training? If I were to aid you, you would first have to assist me. I would strip the Creators of their works... you will help with this. Bring me 20 bear pelts, as proof that you have helped tear nature asunder. Then we shall speak of spells and teaching.
+<|end_description|>

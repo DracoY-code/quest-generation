@@ -18,4 +18,6 @@ NONE:  (amount: 1)
 Tolmas Bendelia: an angry male merchant (location: )
 <|end_characters|>
 <|end_quest|>
+<|begin_description|>
 Greetings, Your Grace. I actually have a rather angry merchant by the name of Tolmas Bendelia that has been demanding to see you. It might have something to do with his caravan being waylaid by bandits passing through the region, but he refuses to speak to anyone but Your Grace. He is an influential merchant in this area; I believe he owns the deed to more than one local farmhold. Will you grant this man an audience, my liege? I shall show him in.
+<|end_description|>

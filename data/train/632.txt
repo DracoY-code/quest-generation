@@ -18,4 +18,6 @@ Bannered Mare: an inn
 Mikael: a male bard who boasts about conquering Carlotta Valentia (location: )
 <|end_characters|>
 <|end_quest|>
+<|begin_description|>
 That bard Mikael is begging for a dagger up against his throat, the way he goes on about me. I've heard him boasting at the Bannered Mare, saying he'll "conquer me as a true warrior conquers any harsh beast." Hmph. You could try to convince that lute player to stop chasing me. If you want to try, go right ahead. I don't think anything will get through that thick skull of his, though. If you do convince Mikael, I'd thank the gods, but I'll settle for thanking you. There'll be some coin for your help.
+<|end_description|>

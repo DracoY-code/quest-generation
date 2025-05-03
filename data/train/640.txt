@@ -15,4 +15,6 @@ NONE:
 : training from J'bari (amount: 1)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 If you want training from me, you're going to have to get something for me first. I need a new Elven cuirass. Nothing fancy, nothing enchanted. Just a decent piece of armor. You get that for me, and I'll train you. That's the deal.
+<|end_description|>

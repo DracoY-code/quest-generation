@@ -17,4 +17,6 @@ Arroyo Village: A small tribal village where Feargus lives and relies on the wel
 Experience Points: A reward for successfully fixing the well. (amount: 100)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 Feargus, a resident of Arroyo, requests your help in fixing a broken well that the village relies on for water. You'll need to assess the damage and find a way to repair it.
+<|end_description|>

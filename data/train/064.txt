@@ -21,4 +21,6 @@ Firkraag: a red dragon (amount: 1)
 Most Noble Order of the Radiant Heart: an order of holy knights (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 Greetings. It is William Reirrac of the Most Noble Order of the Radiant Heart and I believe it is time for you to perform one final task, if you are willing. There is an item, a holy artifact, that lies within the hands of a great evil. Firkraag, the great red dragon, looms over the Windspear Hills. His reign must end, and from his lair you must retrieve the most holy of blades, the Holy Avenger. This tool of good has been in his possession for too long. Knight, I call upon you to slay the dragon and make a statement for right and justice. The blade will be rescued, but so shall the lands that he rules. This is a great risk, but it must be dealt with sometime. Go, and may the forces of good be your salvation. Accomplish this, and I can think of no one more worthy of wielding the Holy Avenger. In your hands, such a blade will strike deep to evil's heart.
+<|end_description|>

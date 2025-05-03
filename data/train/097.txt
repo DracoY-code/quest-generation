@@ -25,4 +25,6 @@ Imperial City: a large city (location: NONE)
 Dark Brotherhood: a guild of assassins (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 Warmest greetings to you. I am Vicente Valtieri. I'm eager to see how you fare on your first assignment. Go to the Waterfront District of the Imperial City. There you will find a ship named the Marie Elena. Board the ship and find its captain, Gaston Tussaud. He'll be in his cabin. Eliminate Tussaud in any manner you see fit. As a pirate, Gaston Tussaud has certainly spilled his share of blood. Someone wants revenge, and they've hired us to extract it. The pirates have been moving a lot of cargo onboard lately. You may be able to smuggle yourself onboard in one of the packing crates. Oh, and one more thing. Get into the habit of asking your fellow assassins about any current contract. Their insight may prove invaluable.
+<|end_description|>

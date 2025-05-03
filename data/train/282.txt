@@ -22,4 +22,6 @@ Caps: A monetary reward for uncovering the truth. (amount: 1000)
 Wright Family Favor: Gaining trust and influence with the Wrights, which could be useful later. (amount: NONE)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 Richard Wright, a member of the Wright family, has died of an apparent overdose. However, his family suspects foul play. You must investigate and uncover who was responsible for his death.
+<|end_description|>

@@ -19,4 +19,6 @@ Caps Reward: Earn $1000 upon successful delivery. (amount: NONE)
 Discount on Future Purchases: Potential discount when trading with Eldridge in the future. (amount: NONE)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 Eldridge at New Reno Arms needs a laser pistol. Your task is to acquire one and deliver it to him for a reward.
+<|end_description|>

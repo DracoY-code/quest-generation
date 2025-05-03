@@ -20,4 +20,6 @@ Option to Keep the Money: If you choose not to return the money, you can keep $2
 Bishop Family Favor: Completing the quest as instructed may improve your standing with the Bishop family. (amount: NONE)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 John Bishop has tasked you with hunting down Pretty Boy Lloyd, a thief who stole from him. Find Lloyd, retrieve the money, and decide his fate.
+<|end_description|>

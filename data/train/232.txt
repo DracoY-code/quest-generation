@@ -25,4 +25,6 @@ Zeraphi: a race of people (amount: NONE)
 Ezrohir: a race of people hostile to the Zeraphi (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 My friend, I need your help! My squad and I had observed a group of Ezrohir moving in and out of the Undercurrents. They have installed machines to pump a virulent poison into the city's water supply. Their "Manatoxin" is specifically designed to disrupt Zeraphi physiology. Unfortunately, the noxious atmosphere seems to have attracted a horde of poisonous beasts, and I only just escaped with my life. If you can enter the Undercurrents and destroy those machines for me, I will reward you. What do you say? I won't lie to you: Destroying those machines won't be simple... but it's vital, and you're the only one who can do it.
+<|end_description|>

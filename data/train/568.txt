@@ -18,4 +18,6 @@ Caps: A monetary reward for delivering the transformer. (amount: 250)
 Improved Reputation with Gecko: The ghouls of Gecko will appreciate your assistance. (amount: NONE)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 Skeeter needs a 3-step plasma transformer to continue his maintenance work in Gecko. You must locate one and bring it back to him.
+<|end_description|>

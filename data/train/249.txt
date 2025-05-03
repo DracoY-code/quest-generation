@@ -19,4 +19,6 @@ Caps Reward: Earn $500 for completing the delivery. (amount: NONE)
 Reputation Boost: Increased reputation in New Reno. (amount: NONE)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 Miss Kitty in New Reno wants a collection of Cat’s Paw magazines. Your task is to find and deliver ten copies to her.
+<|end_description|>

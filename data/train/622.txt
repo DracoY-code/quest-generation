@@ -18,4 +18,6 @@ Caps: A monetary reward for successfully stealing the necklace. (amount: Varies)
 Reputation Change: Completing the quest may influence reputation with certain factions. (amount: Positive or negative, depending on the faction)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 The player is tasked with stealing a valuable necklace from a merchant, requiring stealth and deception to avoid detection. The mission may involve distractions, sneaking into restricted areas, or persuading someone to hand over the necklace.
+<|end_description|>

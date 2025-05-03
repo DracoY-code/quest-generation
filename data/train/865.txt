@@ -15,4 +15,6 @@ Shady Sands Farms: The farming area in Shady Sands where crops are grown.
 Experience Points: Gained for providing helpful agricultural knowledge to the farmers. (amount: 500)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 The people of Shady Sands rely on agriculture for survival, but their farming techniques are inefficient. By educating the farmers about crop rotation, the Vault Dweller helps improve their food production, securing a more sustainable future for the settlement.
+<|end_description|>

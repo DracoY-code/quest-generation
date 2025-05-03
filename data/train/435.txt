@@ -18,4 +18,6 @@ NONE:  (amount: 1)
 Arkay: the god of burial and funeral rites (location: )
 <|end_characters|>
 <|end_quest|>
+<|begin_description|>
 Perhaps you'll take pity on a humble priest who has lost something precious? I lost my amulet of Arkay. It's the source of my divine powers and also a sacred badge of office. I misplaced it in the catacombs. I'd look for it, but I've been hearing noises down there. I fear the dead have become... restless. Without that amulet, I'm powerless to confront them. Would you be willing to search for it? I'll just wait here and make sure nothing foul escapes the catacombs.
+<|end_description|>

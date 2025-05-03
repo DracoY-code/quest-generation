@@ -18,4 +18,6 @@ Red Wave: Safia's ship, in the Solitude docks
 Safia: a ruthless female pirate captain who is deadly with a blade (location: Red Wave)
 <|end_characters|>
 <|end_quest|>
+<|begin_description|>
 I have an assassination contract for you: Safia, a pirate captain. She can be found aboard her ship, the Red Wave. It's currently docked at the Solitude docks. Safia is a ruthless she-devil, by all accounts. Deadly with a blade. And let's not forget her crew - loyal and bloodthirsty, the lot of them. This is my final contract, and certainly the most challenging. Be careful with this one, my friend. If you are capable of pulling through this, you've not only earned your payment, but my respect as well. And believe me, friend - that does not come easily.
+<|end_description|>

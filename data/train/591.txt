@@ -31,4 +31,6 @@ Balmora Blue: an illegal drug (amount: 1)
 Thieves Guild: a guild of thieves (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 It's about time you got here. I'm not accustomed to dealing with people who are unreliable. That's why I asked Delvin to send me his best. Nothing raises my ire more than having an agreement broken. It's bad for business and it wastes time. Captain Volf of the Dainty Sload has decided to test my patience on this matter by neglecting to honor a trade agreement we had established. I need you to help me show him the error of his ways by sneaking on board the Sload and planting some contraband. You'll need to get your hands on some Balmora Blue from Sabine Nyette down by the docks. She's the first mate on another ship, the Red Wave. Once you get your hands on it, I want you to plant it in Captain Volf's footlocker. I'll take care of the rest. Captain Volf is ashore right now and I want the authorities waiting for him when he gets back. Now get going... I don't want to see your face until the job's done.
+<|end_description|>

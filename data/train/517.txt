@@ -23,4 +23,6 @@ Three Old Kegs: a tavern (location: NONE)
 The Lady's Hall: a temple (location: NONE)
 <|end_locations|>
 <|end_quest|>
+<|begin_description|>
 For your own health and that of your children, come no closer. I, Ghorak, was cursed with this fell disease as punishment for my wickedness... No, your potions and magics are of little use. The only way to cure this sickness is to right the wrongs of the past. Behind a painting at the Three Old Kegs, you will find the skull of my brother, Kereph. Take it to Agnasia in The Lady's Hall. She will know what to do with it.
+<|end_description|>

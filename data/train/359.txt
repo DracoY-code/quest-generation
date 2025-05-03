@@ -19,4 +19,6 @@ Experience Points: Earned for successfully freeing Manson and Franc. (amount: 10
 Caps: A monetary reward from Manson and Franc for helping them escape. (amount: 500)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 Manson and Franc are locked up in the NCR prison and need your help to escape. You must find a way to free them without getting caught.
+<|end_description|>

@@ -25,4 +25,6 @@ Solitude: a city (location: NONE)
 Stros M'Kai Rum: special drum (amount: 1)
 <|end_items|>
 <|end_quest|>
+<|begin_description|>
 Jarl Elisif the Fair is in charge of solitude. Poor woman. Losing her husband and king like that. It was a dark day for us all. Damn, that reminds me, I have a delivery to make to her steward, Falk Firebeard. He ordered a special bottle of Stros M'Kai Rum. You could deliver it for me. Save me a lot of trouble. Here. Take it to the Blue Palace.
+<|end_description|>

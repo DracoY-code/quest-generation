@@ -23,4 +23,6 @@ First Edition: a famous bookshop far away from Solstheim (location: NONE)
 Folio: a special book (amount: 1)
 <|end_items|>
 <|end_quest|>
+<|begin_description|>
 A few months ago, I had sent an important Folio to the First Edition to be rebound. They sent it back to me recently, but it never arrived. The Folio was aboard the "Strident Squall" or something like that. The damn thing sunk right off the coast of Solstheim. Can you imagine? One of the sailors survived. Poor thing crawled all the way to Raven Rock on his hands and knees. Before he died, he told the guard about the wreck and warned us that it was going to be crawling with reavers. Could you find the Folio for me? You have no idea how much it hurts losing such a precious item!
+<|end_description|>

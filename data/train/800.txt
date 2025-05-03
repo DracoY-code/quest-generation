@@ -21,4 +21,6 @@ Netherite: a rare, valuable metal (amount: 1)
 equipment
 <|end_motivation|>
 <|end_quest|>
+<|begin_description|>
 My friend, I've got a profitable deal for you today. As you know, I smith weapons from a variety of materials, including diamond. Just so it happens, I'm running low on diamonds: soon I can't make any diamond swords for daring adventurers. I'm not skilled in adventuring; I can't brave the deep underground for diamond veins. Yet, I have a whopping block of Netherite. You definitely don't see those every day! Here's the deal: bring me 2 blocks of diamond, and I'll give you my block of Netherite. A good deal for a good friend.
+<|end_description|>

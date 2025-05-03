@@ -19,4 +19,6 @@ Cash Reward: Earn $1000 for successfully completing the assassination. (amount: 
 Reputation Boost: Increased standing with the crime family that issued the contract. (amount: NONE)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 Roger Westin is a powerful figure in NCR, but someone wants him eliminated in a way that doesn't point to foul play. You must find a discreet way to take him out.
+<|end_description|>

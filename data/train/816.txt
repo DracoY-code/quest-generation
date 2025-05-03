@@ -15,4 +15,6 @@ NONE:
 NONE:  (amount: 1)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 If you're feeling adventurous, I'm always looking for someone to procure valuable books from some more... dangerous locations. Here, I scribbled down the last place I'd heard about. Check it out, but be careful.
+<|end_description|>

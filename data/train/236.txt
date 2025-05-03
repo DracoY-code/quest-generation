@@ -22,4 +22,6 @@ Silver Hand: a bandit gang who hate the Companions (amount: NONE)
 Companions: a band of honorable warriors (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 I've been hearing rumors of Silver Hand activity. A group of them has holed up in Hjaalmarch, in a camp called Orotheim. Assassinate their leader and the rest should go hiding. Run fast, my friend.
+<|end_description|>

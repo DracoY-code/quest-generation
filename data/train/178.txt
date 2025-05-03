@@ -17,4 +17,6 @@ Caps: A small payment for completing the job. (amount: 100)
 Minor reputation boost with the NCR: The NCR will see you as a reliable worker. (amount: NONE)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 The NCR needs help keeping their brahmin pens clean. While not the most glamorous job, it earns you some caps and a bit of favor with the Republic.
+<|end_description|>

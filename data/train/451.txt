@@ -20,4 +20,6 @@ Experience Points: Earned for successfully eliminating the Super Mutants. (amoun
 Ghoul Favor: Increased standing with the ghouls of Necropolis. (amount: 1)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 The Super Mutants have taken control of the Watershed in Necropolis, threatening the local ghouls' water supply. The player must eliminate the threat to secure the area and restore peace to the city.
+<|end_description|>

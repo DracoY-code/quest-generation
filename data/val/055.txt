@@ -21,4 +21,6 @@ Vilkas: a male member of the Companions (location: next to Kodlak Whitemane)
 Companions: a band of honorable warriors (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 You would like to join the Companions? Would you now? Here, let me have a look at you. Hm. Yes, perhaps. A certain strength of spirit. How are you in a battle, child? Don't feel like you need to show off for our sake. Vilkas, here, will be the one testing your mettle. Let Vilkas take you out to the yard and see what you can do.
+<|end_description|>

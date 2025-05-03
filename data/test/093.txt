@@ -16,4 +16,6 @@ Gun Runners: A group of arms dealers located in a fortified compound in the Bone
 Blades' Trust: Increased reputation and alliance with the Blades. (amount: NONE)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 Razor and the Blades are struggling against the Regulators. They need weapons to fight back, and you must secure a supplier and deliver the weapons.
+<|end_description|>

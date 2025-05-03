@@ -27,4 +27,6 @@ Thieves Guild: a guild of thieves (amount: NONE)
 Imperial Watch: the city guard of the Imperial City (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 I have a small problem that you may be able to help with. The guild will even pay a reward. That buffoon, Hieronymus Lex, has invaded the Imperial City Waterfront. Imperial Watch guards from all over the city prowl the streets. Hieronymus Lex has vowed not to leave until the Gray Fox is in custody. The Fox is safe, but the Thieves Guild cannot do business like this. The poor of the Waterfront are kindred to the Gray Fox, and will not betray him. However, cubs soon get hungry. Soon someone will break. Many guild members could be jailed. Find Methredhel in the Imperial City. She is co-ordinating the guild's response. Shadow hide the hunter.
+<|end_description|>

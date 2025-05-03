@@ -21,4 +21,6 @@ Tournament of Ten Bloods: Boethia's tournament (amount: 1)
 Daedric Princes: immortal, fickle, infamous divine beings (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 Why do you summon Boethia? You are not one of my faithful. Do you hope to be counted among my Chosen? Then prove yourself to me, mortal. I shall open a portal for you to one of my realms in Oblivion. Go, and take your place in my Tournament of Ten Bloods. Survive, and you will be rewarded with my glorious sword Goldbrand. Fail, and your soul belongs to me.
+<|end_description|>

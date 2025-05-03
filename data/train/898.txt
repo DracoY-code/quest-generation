@@ -18,4 +18,6 @@ Desert Refuge: a desert village
 conquest
 <|end_motivation|>
 <|end_quest|>
+<|begin_description|>
 Master, the desert village of Desert Refuge is ripe for taking! Your dark domain will grow vastly, if you were to conquer it! Master, you should go to Desert Refuge, and kill all villagers you oppose you! The ones who don't, on the contrary, should make terrific new minions for you!
+<|end_description|>

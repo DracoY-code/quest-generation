@@ -17,4 +17,6 @@ Caps: A wagered amount of money if you win. (amount: 100)
 Increased reputation with Broken Hills: Winning earns the respect of the town's inhabitants. (amount: NONE)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 Francis, a super mutant from Broken Hills, loves to armwrestle challengers. Defeat him to prove your strength and earn some caps.
+<|end_description|>

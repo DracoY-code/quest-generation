@@ -26,4 +26,6 @@ Valenwood: a distant province (location: NONE)
 Thieves Guild: a guild of thieves rising in power in Markarth (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 Several months ago I ordered a special silver mold from some artisans in Valenwood. Well, it never arrived. Later I found out that it was robbed by a group of bandits led by someone named Rigel Strong-Arm. Look, I talked to everyone with an ounce of authority... everyone. They all told me their resources were spread too thin right now. Word on the street says that the Thieves Guild is coming back into its own in Markarth so I figured... ...to send a thief to steal back what was stolen. Look, this mold is irreplaceable. I'll pay you well for its return and I can also prove to be quite a valuable ally to the Thieves Guild.  The only thing I can tell you is that the mold was taken to the bandit's hideout... a small cottage called Pinewatch. I'm not sure how many men they have inside, but I trust that won't be an issue for you. Good luck.
+<|end_description|>

@@ -20,4 +20,6 @@ Caps Reward: Earn $1,000 for successfully assassinating Boss Salvatore. (amount:
 Mordino Reputation: Increased standing with the Mordino family. (amount: NONE)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 Big Jesus Mordino wants Boss Salvatore eliminated to weaken the Salvatore family's power in New Reno. Sneak into Salvatore's bar, take him out, and escape without raising suspicion.
+<|end_description|>

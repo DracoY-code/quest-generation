@@ -18,4 +18,6 @@ Caps: A monetary reward from Frankie for completing the sabotage. (amount: 150)
 Increased reputation with Frankie: Frankie will trust you more and may offer further opportunities. (amount: NONE)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 Frankie, a rival bar owner, wants Becky’s still destroyed to cripple her business. You must find a way to sabotage it without getting caught.
+<|end_description|>

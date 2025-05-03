@@ -21,4 +21,6 @@ Guardian of the Wild: a good spirit (location: )
 Nether-Thralls: demonic creatures (amount: 1)
 <|end_enemies|>
 <|end_quest|>
+<|begin_description|>
 Thank the Gods you are here! A plague is sweeping through the Watchweald Temple, transforming the temple priests into Nether-Thralls! Several uninfected priests are still inside, trapped by the Nether-Thralls. I can protect them, if I can reach them... or if they can reach me. Look for places where the temple priests may have hidden from the Nether-Thralls, and send them back here. Once they are all safe, we can focus on aiding the Guardian of the Wild.
+<|end_description|>

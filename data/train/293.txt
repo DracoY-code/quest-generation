@@ -21,4 +21,6 @@ Bella: a woman tired of regular food
 comfort
 <|end_motivation|>
 <|end_quest|>
+<|begin_description|>
 I'm sick and tired of eating the same boring, mundane food every day. I want to taste something a bit more refined. Something like golden apples. Could you help a lady in distress? Bring me 5 golden apples to sample from, and I'll procure you a diamond block. That should leave a sweet taste in your mouth, as well. Golden apples can be found in various dangerous corners of the world. If you don't fancy exploring, you can craft golden apples by combining an apple with gold ingots.
+<|end_description|>

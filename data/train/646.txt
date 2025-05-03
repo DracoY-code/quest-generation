@@ -18,4 +18,6 @@ Imnesvale: a human village
 Sythillis: a great southern empire (location: NONE)
 <|end_locations|>
 <|end_quest|>
+<|begin_description|>
 Me Madulf... lead fellows from great army of Sythillis in the south. No want to kill races no more. Lead fellows in desertion. We just wants be left alone. Always Madulf and fellows be chased and hated 'cause me an ogre! We just wants to be left alone. We come here one moon ago, tries to settle for a while, yes? We needs you bring word to human village... humans run when Madulf goes, so me needs youse to do it for me. Youse bring word, yes? Madulf no want death... Madulf no want fight. Just want peace. You tell villagers, maybe, that Madulf and fellows will protect village... protect from orcs in mountains, yes? We have shield to give you... is magic, from Sythillis's army... we no use. Maybe you like.
+<|end_description|>

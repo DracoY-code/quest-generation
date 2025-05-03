@@ -26,4 +26,6 @@ Companions: a band of honorable warriors (amount: NONE)
 Nords: a race of people (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 There is always work. My mind is someplace else, though. I think that maybe Kodlak was right. As a werewolf, I can't be a good Nord. I want to be clean, like he was, and go to Sovngarde when I finally die. Aela said we would need a Hagraven's head. I already have one of them, but she said it was a special kind. And that you knew where to get more. Let's go find one!
+<|end_description|>

@@ -21,4 +21,6 @@ Arniel Gane: one of the scholars of the College of Winterhold, a man (location: 
 College of Winterhold: a prestigious school for mages (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 We are looking for anything at all that might be of interest. That's why I adore Saarthal... we have no idea what we're going to find. And if, along the way, my message about the dangers of magic should happen to sink in for a few students, that would be a happy coincidence. Hmm. Well, why don't you see if you can assist Arniel Gane? He's one of our scholars, here working on cataloging our finds. I expect he'd appreciate some help in locating any additional magical artifacts here in the ruins. Any enchanted items will do; the usefulness of the enchantment is irrelevant. If you find anything, the class can look it over.
+<|end_description|>

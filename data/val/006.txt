@@ -21,4 +21,6 @@ Markarth: a city (location: NONE)
 Forsworn: savages practicing banditry (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 Are you a sellsword? I don't like your kind. No honor. No loyalty. Unreliable. But I can't turn away a potential ally in these times. Let's see if you're better than a common mercenary. My scouts have tracked down one of the Forsworn leaders, hiding out in their blood-soaked camps at Serpent's Bluff Redoubt. Deal with that Forsworn leader.
+<|end_description|>

@@ -19,4 +19,6 @@ Jaylos: a male member of Aran Linvail's guild (location: )
 Caehan: a male member of Aran Linvail's guild (location: )
 <|end_characters|>
 <|end_quest|>
+<|begin_description|>
 Two of our men, Jaylos and Caehan by name, are planning to leave our little community and join with our enemies. Greener grass and all of that, I suppose. They are to meet their contact on the second floor of the Five Flagons tavern in the Bridge District. Go there and pose as one of our enemy's new recruits. I want to know where our enemy's lair is. We have yet to find it. This recruiter could arrive at any time so I suggest that you go to the Five Flagons now. They may prove unreasonable, so prepare yourself for hostility. Return when you have the information we need.
+<|end_description|>

@@ -22,4 +22,6 @@ Cybernetic Enhancements: Potential opportunity to obtain cybernetic implants. (a
 Loot: Chance to find rare weapons, armor, and military equipment. (amount: NONE)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 The Sierra Army Depot is a well-guarded pre-war military base rumored to contain powerful technology. Find a way inside and uncover its secrets.
+<|end_description|>

@@ -21,4 +21,6 @@ Countess: the somber noblewoman who rules over Castle Leyawiin (location: Castle
 Daedric Princes: immortal, fickle, infamous divine beings (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 Ah... another mortal come to beg Sanguine to add a bit of spice to an otherwise drab existence. I would have you perform a service for me. The Castle Leyawiin is a dull, dreary place. The mistress is an especially somber soul, and tomorrow she will hold another excruciating dinner party. I want you to liven it up. Use this spell on the Countess and her guests. I think it will make the party much more interesting. You should probably try to be inconspicuous. Or they might kill you. Oh, and the party is by invitation only. You'll have to find a way in. Have fun!
+<|end_description|>

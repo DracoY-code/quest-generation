@@ -18,4 +18,6 @@ Experience Points: Gained for successfully freeing the ghoul. (amount: 500)
 Ghoul Favor: Increased reputation with the ghouls of Necropolis. (amount: 1)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 A ghoul has been captured by the Super Mutants in Necropolis. The player must locate the prisoner, bypass security, and ensure their safe escape.
+<|end_description|>

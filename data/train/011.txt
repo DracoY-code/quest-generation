@@ -19,4 +19,6 @@ Silver Hand: a bandit gang who hate the Companions (amount: NONE)
 Companions: a band of honorable warriors (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 I've caught wind that one of the brighter Silver Hand has been sniffing around Eastmarch. If you can sneak into the Silver Hand camp and steal their plans, we'll have the advantage. Hopefully the plans will let us know more about their movement.
+<|end_description|>

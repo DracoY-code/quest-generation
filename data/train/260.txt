@@ -21,4 +21,6 @@ Drarana Thelis: a woman (location: Harlun's Watch)
 Fighters Guild: a mercenary guild (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 I've got one more contract for you, meat. I assume you can handle it. I need you to investigate some disappearances at Harlun's Watch. We've been contracted to find out what's happened. Speak to Drarana Thelis for all the details. Get going.
+<|end_description|>

@@ -22,4 +22,6 @@ Mages Guild: a guild of mages (amount: NONE)
 Council of Mages: the ruling body of Mages Guild (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 So you are here for your recommendation? Unlike some frivolous tasks you may be given at other guild halls, this is a serious matter, and has consequences. Are you prepared? Allow me to explain the task. The Council of Mages has entrusted me with resolving a situation along the Gold Road. Several traveling merchants have been found dead along the Gold Road recently, with even more missing. The Council has asked that I put a stop to it. You are going to help me do so. As you are new to the guild, you are less likely to be recognized as a member. This may give you an advantage in getting to the root of the problem. We believe the killings are the actions of a rogue mage. Battlemages have been sent to the Brina Cross Inn, the only common link between the victims. You are to travel north to the Brina Cross Inn, and speak with Arielle Jurard. She will give you further instructions. This is a harsh, dangerous task for you, I realize. Your unfamiliar face makes you most useful, however. And, what better way to learn the many uses of Restoration? Practical application is often the best educator. Even in life and death situations.
+<|end_description|>

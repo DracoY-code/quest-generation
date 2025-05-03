@@ -18,4 +18,6 @@ Tammy: a villager with wanderlust
 comfort
 <|end_motivation|>
 <|end_quest|>
+<|begin_description|>
 *sigh* I dream of leaving this tiny village every day. If only I had a horse... then I could go anywhere I want. Wherever my wanderlust takes me to. Traveler, you must have covered a lot of land, learned many new skills. Please help me: tame a horse, and bring it to me. Horses are commonly found grazing plains, and their warmer cousins savannas. You can tame a horse by trying to mount it until it stops throwing you off its back. I'll pay a whole block of emeralds for it. Then I too, could take on the life on road.
+<|end_description|>

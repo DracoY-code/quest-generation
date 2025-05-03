@@ -23,4 +23,6 @@ Troll Fat: an alchemy ingredient (amount: 1)
 Daedra Heart: an alchemy ingredient (amount: 1)
 <|end_items|>
 <|end_quest|>
+<|begin_description|>
 Please, our tribe suffers and we need help. Our Chief, Yamarz, was once a strong and proud warrior. Now he is stricken, cursed. He is weak, and so our tribe is weak. The giants sense this, and intrude on our territory. Now they assault our very home. Yamarz refuses help, but I sense that you may be just what we need. He has demanded we stay inside the walls. We cannot leave. I must petition Malacath for relief. This curse must be lifted. But I cannot travel to Malacath's shrine. The ritual must be done here, and I do not have the materials I need. I beg of you, can you bring me Troll Fat and a Daedra Heart? I have no wish to depend on a stranger, but I have no choice.
+<|end_description|>

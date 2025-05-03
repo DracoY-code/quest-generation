@@ -21,4 +21,6 @@ Earana: a female mage who has been kicked out of the Mages Guild (location: Chor
 Mages Guild: a guild of mages (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 I'm afraid I can't just write one out of hand. That would be against protocols, you see. If perhaps you can clear up a small matter involving Earana, you can prove your loyalty to the guild and earn my recommendation. Earana and I have an unpleasant history. She does not care for Guild regulations, and errantly believes I am mis-using my powers. I have seen that she is in town. Though she has not approached me, I know she wants something. I would like you to find out what it is. Determine what Earana's after, and how we may be rid of her. I do not want her here, spreading her lies.
+<|end_description|>

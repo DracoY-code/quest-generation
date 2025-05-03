@@ -21,4 +21,6 @@ Red Mountain: an active volcano (location: NONE)
 Heart Stones: magical stones (amount: 1)
 <|end_items|>
 <|end_quest|>
+<|begin_description|>
 I'm running low on Heart Stones. If you have any with you, I'll buy one. Otherwise, I can tell you where you might find one. Every time the Red Mountain belches, more of them land here on Solstheim. Look around for impact craters, exposed rock, that sort of thing. You may need to pick away at it to pry the heart stone itself loose, but you look... strong. Good luck.
+<|end_description|>

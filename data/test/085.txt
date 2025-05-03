@@ -21,4 +21,6 @@ Augur: a powerful male mage gifted in restoration (location: )
 College of Winterhold: a college for mages (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 Look at you. Such a devoted student of Restoration. It's comforting to see that not everyone has dismissed it as entirely as most members of the College. Truly comforting. It looks like you're ready to speak with the Augur. He was a brilliant mage. Truly inspired. Mastered spells others could barely comprehend. He was especially gifted when it came to Restoration. The Augur's... Well, he's very particular about who shares the knowledge. So you'll need his approval first. Go on, go talk to him. I'm sure he's been paying attention, and will be expecting you.
+<|end_description|>

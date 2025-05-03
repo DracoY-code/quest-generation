@@ -24,4 +24,6 @@ Forgemaster's Fingers: a pair of gauntlets (amount: 1)
 Orcs: a rough race of people (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 Halt, outlander. By the Code of Malacath, this stronghold belongs to the Orcs. Your kind are unwelcome. You're not an Orc, or Blood-Kin, so stay out. We only help our own. Hmm... there is a way to become Blood-Kin, if you truly insist on entering our stronghold. We've heard whispers of an enchanted pair of gauntlets, hidden and protected by dangerous men, beasts, or worse. They are called the Forgemaster's Fingers. Find them at Stony Creek Cave. Bring them to our chief, and he will decide if you're worthy to be Blood-Kin to the Orcs.
+<|end_description|>

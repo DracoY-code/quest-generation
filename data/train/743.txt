@@ -17,4 +17,6 @@ Caps: A reward for aiding Shady Sands. (amount: 100)
 Improved Reputation: Shady Sands residents will appreciate your help. (amount: 1)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 The village of Shady Sands is plagued by deadly radscorpions that threaten its people. Aradesh, the town leader, seeks help in dealing with the menace. The Vault Dweller must enter the radscorpion cave and eliminate them to ensure the safety of Shady Sands.
+<|end_description|>

@@ -22,4 +22,6 @@ Count Indarys: an influential nobleman (location: )
 Knights of the Thorn: a group of young men pretending to be knights (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 About two days ago, Count Indarys's son, Farwil, entered the Oblivion Gate with six other men. We haven't heard from them since then. The Count fears the worst, and has posted guards here so we can watch and see if anyone comes back out. So far, nothing. At this point, Count Indarys is offering a reward for the recovery of his son from inside the gate... or confirmed news of his demise. If you find him or the rest of the Knights of the Thorn, get them out of there. I'm sure that the Count would also be pleased if the gate was closed. The Knights of the Thorn are a bunch of rabble who fancy themselves true knights. Farwil formed the group around two years ago. They make grand boasts, and talk a good talk, but that's all they are. The real work goes to us, the City Guard. I hate to speak ill of them, as something horrible may have happened, but their own bravado got them into this mess.
+<|end_description|>

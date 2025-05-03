@@ -21,4 +21,6 @@ Clavicus Vile: the prince of wishes, a Daedra (location: )
 Daedra: immortal beings of great power (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 You are exactly what I was looking for. You see, my name is Barbas. And I have a problem I think you can help sort out. My master and I had a bit of a falling out. We got into an argument and it got rather... heated. He's kicked me out until I find someone who can settle our disagreement. That's where you come in. My master is Clavicus Vile, the prince of wishes. As you can imagine, he's quite the important person.  Now, since he banished me, Vile's been rather weak. He can't manifest very far from one of his shrines. I know there's a cult that worships him at Haemar's Shame. We should be able to talk to him there. If this works out, I'll make sure you're rewarded. Just don't trust any offer he makes you... okay?
+<|end_description|>

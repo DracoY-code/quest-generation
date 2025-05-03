@@ -22,4 +22,6 @@ Redwort: flowers (amount: 20)
 Mages Guild: a guild of mages (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 It is unfortunate that we should meet under these circumstances, Associate. You have been found guilty of theft. As such, your guild privileges have been suspended. If you wish to be reinstated, you must perform a service for the guild. Are you willing to do so? Make no mistake: this task is simple, but has a purpose. In selflessly serving the guild, at risk to yourself, while putting your own feelings aside, you prove your devotion to the cause. You will help replenish alchemical supplies for the guild. Deliver 20 Dragon's Tongue flowers, and 20 Redwort flowers to me. Surprised? Annoyed? It is not unexpected. Nevertheless, that is your path to re-acceptance in the guild.
+<|end_description|>

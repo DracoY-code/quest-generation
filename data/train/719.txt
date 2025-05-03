@@ -18,4 +18,6 @@ NONE:  (amount: 1)
 Miraak: the player's enemy (location: )
 <|end_characters|>
 <|end_quest|>
+<|begin_description|>
 Go. My father sacrificed himself so that you could destroy Miraak and lift his master's shadow from the land. Go, then. Kill Miraak. Do not fail.
+<|end_description|>

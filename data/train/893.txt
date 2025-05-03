@@ -18,4 +18,6 @@ Caps: A payment for successfully guarding the herd. (amount: 50)
 Improved reputation in Modoc: Your reliability earns the trust of Modoc’s residents. (amount: NONE)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 Grisham, a brahmin rancher in Modoc, needs someone to guard his herd against rustlers and predators while they graze. Your task is to ensure the brahmin remain safe until the job is done.
+<|end_description|>

@@ -24,4 +24,6 @@ Golden Gear: important object related to defense of Zeryphesh (amount: 1)
 Ezrohir: a hostile race of people (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 I have continued studying the crests, and I am more convinced than ever that the Golden Gear is hidden in the the Whispering Cave. If you can retrieve it, I can bring it back to Zeryphesh, to aid in the city's defense against the Ezrohir siege.
+<|end_description|>

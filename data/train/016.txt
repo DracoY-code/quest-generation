@@ -19,4 +19,6 @@ Caps: Loot from Bishop's corpse or as payment from an employer. (amount: Varies 
 Weapons and Equipment: Potential loot from Bishop's guards and safe. (amount: NONE)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 Mr. Bishop, one of the most powerful crime bosses in New Reno, has made many enemies. Whether for personal revenge, payment, or factional interest, you have the chance to eliminate him. The Shark Club is well-guarded, so careful planning is necessary.
+<|end_description|>

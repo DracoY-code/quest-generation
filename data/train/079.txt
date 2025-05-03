@@ -21,4 +21,6 @@ Vithal: a mage and adventurer
 svirfneblin: deep gnomes (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 Ahh! Thank you for releasing me. I'm Vithal, an adventuring mage. If you could aid me a bit, I would be forever grateful. There will be items enough for us both. This spot is "thin," and careful spells may breach the walls between dimensions. On the other side, one might find some valuable magic, if one knows where to look. I cannot cast the actual dimension-breaching spells without the procedures outlined in my book of rituals. I imagine it was taken after I was imprisoned. There were svirfneblin observing my conflict: Perhaps they took it. I cannot blame them. I am sure I appeared quite permanently lost. I believe there is a svirfneblin village to the north. They may have taken my gear there. If you go, tell them they may keep everything but the book.
+<|end_description|>

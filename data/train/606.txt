@@ -23,4 +23,6 @@ Gatekeeper: Sheogorath's guardian, a flesh golem (location: )
 Daedric Princes: immortal, fickle, infamous divine beings (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 Things are getting a bit thin. Get that Gatekeeper in place, and do it quickly. I'm not sure how much time I have left. It's essential. Simply essential! If only it were essentially simple... but it's not. I want him there guarding those Gates. If any of Jyggalag's forces show up, he should be ready for them. It wouldn't do to just let them in if more show up. And more always show up. Still and all, I think things are going well, considering! Go talk to Relmyna in Xaselm. Tell her you're working for me. She'd do anything for me, that little minx.
+<|end_description|>

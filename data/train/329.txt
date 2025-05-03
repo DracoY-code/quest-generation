@@ -18,4 +18,6 @@ TNT: explosives (amount: 16)
 comfort
 <|end_motivation|>
 <|end_quest|>
+<|begin_description|>
 *scream of terror* I.. I.. I don't want any trouble. Please, I just want to live my live in peace. You're not going to kill me? Sinister master, may this mere woman ask a tribute from you? Please, I'd like to have a painting. In return, you will receive 16 TNT, perfect for ramping up explosions (Preferably elsewhere).
+<|end_description|>

@@ -24,4 +24,6 @@ Flame of Agnon: a cold flame (amount: 1)
 Daedric Princes: immortal, fickle, infamous divine beings (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 You've seen the Great Torch that burns brightly over New Sheoth? No? Because it doesn't. It should. But it doesn't. You'll fix that. You'll go to Cylarne and bring back the Flame of Agnon to relight the torch. Oh... and take care with my minions at Cylarne. In their eternal quest to please me, they're constantly fighting over Cylarne. It can be tiresome. But, really, it's divine. Divinely tiresome. Well. That's your problem now. Off with you. I don't want to see you again until the Great Torch is lit. I wouldn't want to have to hurt you.
+<|end_description|>

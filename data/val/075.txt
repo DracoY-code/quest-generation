@@ -22,4 +22,6 @@ Alchemist: an evil man (location: )
 Guardians: powerful spirits (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 The Alchemist must be stopped before he attacks any more Guardians! Each time he siphons off our energy, he becomes more dangerous. You and Commander Vale should return the Estherian Enclave, and plan your next move.
+<|end_description|>

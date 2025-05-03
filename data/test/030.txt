@@ -29,4 +29,6 @@ Guardians: powerful spirits who uphold the balance between the elements (amount:
 Netherim: numerous demons residing in another world (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 Let us return to the matter of the Dark Alchemist. He has now stolen the energy of three Guardians, and we thought he desired my power as well. But, for some reason, he has left the desert, and is now en route to Grunnheim. That can only mean that he is bound for the Clockwork Core. With the power he has amassed, he could destroy the barrier between our world and the realm of the Netherim. They would pour through by the millions. Seek the Railmaster, and depart for Grunnheim as soon as you are able.
+<|end_description|>

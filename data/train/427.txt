@@ -18,4 +18,6 @@ Downtown Hub: A central area of the Hub where Trish is in danger.
 Experience Points: Earned for successfully rescuing Trish. (amount: 500)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 Saul is worried about Trish, who is in danger in the Hub. The player must intervene, eliminate the threat, and ensure her safety.
+<|end_description|>

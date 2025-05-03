@@ -19,4 +19,6 @@ Caps: A monetary reward for completing the investigation. (amount: 500)
 Improved Reputation: Earning Jo's trust and the respect of Modoc's citizens. (amount: NONE)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 Jo of Modoc is troubled by reports of eerie happenings at a farm to the northeast. He requests an investigation to determine the cause and ensure the safety of Modoc's residents.
+<|end_description|>

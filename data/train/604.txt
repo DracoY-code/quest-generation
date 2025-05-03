@@ -15,4 +15,6 @@ NONE:
 compensation:  (amount: 1)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 I make my own jewelry. Sadly, I'm one of the few traditional Saxhleel jewelers that remains in Tamriel; it's becoming a lost art. Only trouble is gathering materials has become hazardous. The roads to the mines and to the other cities are thick with bandits... and worse. Would you be interested in gathering some materials for me? I'd certainly be happy to compensate you. I'm seeking a small list of items to complete my next creation: two flawless sapphires, a mammoth tusk and a chunk of gold ore.
+<|end_description|>

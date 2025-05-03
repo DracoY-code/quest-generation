@@ -24,4 +24,6 @@ Jovial Juggler Inn: an inn in Beregost (location: NONE)
 : Landrin's bottle of wine (amount: 1)
 <|end_items|>
 <|end_quest|>
+<|begin_description|>
 Hey, I'm Landrin. I've got an infestation of poisonous spiders in my cellar in Beregost. You'll know the house when you see it: just to the west of the Jovial Juggler Inn. Here, take these potions with you. They're antidotes against the poison. Keep whatever you don't use and I'll give you an extra 120 gold pieces if you bring back my husband's old boots that he keeps down there. If you bring back one of their bodies and my ol' bottle of wine as well, I might toss in a little something extra too.
+<|end_description|>

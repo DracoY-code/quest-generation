@@ -22,4 +22,6 @@ Selûne: the goddess of the moon (location: )
 : lycanthropes, werewolves (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 I am Dradeel, mage and recent convert to the Church of Selûne. I was the guide for Balduran's brave adventures to the ends of the world and beyond. The wolf-men are everywhere. The lycanthropes' lair is in Balduran's ship. My spellbook lies within. With it, I am a powerful mage. Without it, I am the pauper that stands before you. With my spellbook retrieved, I may be able to discover a way off of the island. If you go to destroy the lycanthropes' lair, I would ask that you find my book.
+<|end_description|>

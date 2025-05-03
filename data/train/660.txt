@@ -18,4 +18,6 @@ Soul Cairn: a terrible dimension where souls are trapped for an eternity
 Arvak: a male horse, belongs to the soul (location: Soul Cairn)
 <|end_characters|>
 <|end_quest|>
+<|begin_description|>
 You must help me find my Arvak. He doesn't deserve to be in a place like this! Arvak is my horse. We came to this horrible place together. We were attacked by monsters, so I told him to run. Please, he's such a loyal creature, and he's been running for so long. You have to save him! A place like this will change you... If you find him, I'll teach you how to call him to you. I'm sure he'd be much happier someplace sunnier.
+<|end_description|>

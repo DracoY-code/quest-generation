@@ -18,4 +18,6 @@ Skyrim: a wooded province
 : bear pelts (amount: 10)
 <|end_items|>
 <|end_quest|>
+<|begin_description|>
 Have you ever seen what a bear does to the trees? They jump up on their hind legs and scratch them to bits... marking their territory or something. It's getting to the point where I have to scour Skyrim for untouched trees at the right size. Costs me too much time and money. Tell you what. Bring me ten of bear pelts from anywhere in Skyrim I'll gladly pay you for thinning out the herd.
+<|end_description|>

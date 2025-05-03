@@ -21,4 +21,6 @@ Dean: a depressed leatherworker
 knowledge
 <|end_motivation|>
 <|end_quest|>
+<|begin_description|>
 I have made all sorts of things from leather: tunics, hats, and even little tent-houses. There's nothing new I can create... Could you perhaps help me out of this sea of creative depression? You do help people? Please find me a new material to work with! Perhaps turtle scutes would work... Please help me get my hands on ten scutes: you can get them from turtles on sandy beaches. I'll give you a stack of leather for your services!
+<|end_description|>

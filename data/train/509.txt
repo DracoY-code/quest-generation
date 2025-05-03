@@ -18,4 +18,6 @@ NONE:  (amount: 1)
 Maluril: a dangerous, rogue male Dark Elf mage who studies dwarwen artifacts (location: Mzinchaleft)
 <|end_characters|>
 <|end_quest|>
+<|begin_description|>
 I have another assassination contract for you: Maluril. He's dangerous. Very dangerous. A rogue Dark Elf mage doing research into dwarven artifacts should be both respected... and feared. Just not by you. Maluril is doing his research in Mzinchaleft. A Dwarven ruin... what an exotic place for a kill. I hope the elf doesn't give you too much trouble. I once got set on fire by a sorcerer. Nasty business, that. But I digress.
+<|end_description|>

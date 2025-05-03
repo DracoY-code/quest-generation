@@ -29,4 +29,6 @@ Staff of Magnus: a powerful staff that can breach magical shields according to t
 Psijics: a mysterious order of mages (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 Ancano has sealed himself inside the College! The Eye of Magnus is is growing his power. We can't crack whatever magic he's using to shield himself. I hope your trip to Labyrinthian was worth it. You have the Staff of Magnus, then? Let's hope it's as powerful as the Psijics believe it to be. You're the one with the staff, my child. If it can help us get inside the College, and reach Ancano, we'll have to hope that there's a way to stop all this.
+<|end_description|>

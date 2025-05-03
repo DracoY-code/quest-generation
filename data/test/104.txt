@@ -20,4 +20,6 @@ Ebonyflesh: a powerful protection spell (amount: 1)
 Kahvozein's Fang: a sharp dagger (amount: 1)
 <|end_items|>
 <|end_quest|>
+<|begin_description|>
 I've been working on something. An improvement on the Ebonyflesh spell. I've made progress, but then hit a snag. I think perhaps you could help. I made some progress using the essence of dragon scales. But they're just not quite potent enough. My knowledge of history is far from complete, but I did some research and discovered two things. First, there are ancient references to dragon "heartscales". What little I could learn suggests they may be what I need. Second, there are stories of a dagger called Kahvozein's Fang, said to be sharp enough to carve heartscales off a dragon. First you'll need to retrieve the dagger, then use it to carve a few heartscales off a dragon. Presumably a deceased one. If my research succeeds, I certainly think you deserve the first copy of the Dragonhide spell tome.
+<|end_description|>

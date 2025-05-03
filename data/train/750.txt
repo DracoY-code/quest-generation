@@ -18,4 +18,6 @@ Red Canyons:
 Bassilus: a mad male murderer (location: Red Canyons)
 <|end_characters|>
 <|end_quest|>
+<|begin_description|>
 A warning from Kelddath Ormlyr: know that there is a madman by the name of Bassilus who roams the wilderness killing any innocents that happen along his path. He's been last sighted in Red Canyons. If you were to dispose of him and bring back his holy symbol, there is a large reward offered. It is a grisly task, but sometimes there is little choice.
+<|end_description|>

@@ -24,4 +24,6 @@ Dark Brotherhood: a guild of assassins (amount: NONE)
 Penitus Oculatus: law enforcers (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 Alive.... You're alive... Thank Sithis... Ssshhh.... Please. There is much... I have to say. And... not much time... I'm sorry. So very sorry. The Penitus Oculatus... Maro... He said that by giving you to them, he would leave the Dark Brotherhood alone. Forever. By Sithis, I was such a fool. All of this... it's all my fault. You are the best of us, and I nearly killed you... as I've killed everyone else... I'm saying you were right. The Night Mother was right. The old ways... they guided the Dark Brotherhood for centuries. I was a fool to oppose them. And to prove my... sincerity, I have prayed for a contract. You lead this Family now. I give you the Blade of Woe, so that you can see it through. You must kill... Me.
+<|end_description|>

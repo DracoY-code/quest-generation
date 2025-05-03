@@ -21,4 +21,6 @@ Illagers: bandits (amount: NONE)
 knowledge
 <|end_motivation|>
 <|end_quest|>
+<|begin_description|>
 You are quite a mischievous person, aren't you? Maybe you'd like to do a small prank for me? I want to get an Illager crossbow. See what makes it tick. The problem is, Illagers are quite a nasty bunch: they shoot anyone with their crossbows without discrimination. Lift one of their crossbows from them, bring it to me, and I'll give you a powerful bow of my own making.
+<|end_description|>

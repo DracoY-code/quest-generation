@@ -21,4 +21,6 @@ Orthorn: an ex-student of the College of Winterhold (location: Fellglow Keep)
 College of Winterhold: a college for mages (location: NONE)
 <|end_locations|>
 <|end_quest|>
+<|begin_description|>
 I know what you want. Word travels fast around here. Discovered some big mystery, huh? Well you don't even need to ask. No, I don't have anything for you. Not anymore, anyway. Orthorn stole a number of books when he ran off to Fellglow Keep to join those Summoners. Some kind of peace offering. I think one of those volumes may have had some relevant information. If you want them, you'll have to talk to Orthorn.
+<|end_description|>

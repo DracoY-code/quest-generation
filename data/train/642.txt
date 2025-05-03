@@ -18,4 +18,6 @@ Crucial Intel: New knowledge that can unlock better strategies, locations, and o
 Potential Quest Unlocks: Access to new quests or better solutions to ongoing problems. (amount: 1)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 The Vault Dweller must seek out and analyze important information that could influence major decisions. This may involve speaking to knowledgeable individuals, hacking terminals, reading old logs, or piecing together scattered intelligence to uncover the truth about the wasteland and its factions.
+<|end_description|>

@@ -22,4 +22,6 @@ Markarth: a city in Skyrim (location: NONE)
 Skyrim: a realm (location: NONE)
 <|end_locations|>
 <|end_quest|>
+<|begin_description|>
 I'm Bolli, a fisherman. I sell my catch across a good portion of Skyrim... it's worth its weight in gold to me. The only untapped market left is Markarth. However, I just got word that Kleppr at The Silver Blood Inn might be interested. If you're headed that way, I would appreciate you delivering a purchase agreement for me. You'd be paid, of course. Kleppr will pay you as soon as you arrive with the letter. Here you are.
+<|end_description|>

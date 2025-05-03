@@ -21,4 +21,6 @@ Elante of Alinor: a female scholar researching Daedra worship (location: Brittle
 Fighters Guild: a mercenary guild (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 Hello again. It's me, Azzan. Good to see that you're looking for more work. There's certainly more to be done. I need you to help Elante of Alinor. Elante is a scholar, interested in researching Daedra worship. Meet her in Brittlerock Cave, help her find the shrine, and keep her safe.
+<|end_description|>

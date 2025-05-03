@@ -18,4 +18,6 @@ Pete: a nitwit
 comfort
 <|end_motivation|>
 <|end_quest|>
+<|begin_description|>
 Me hurt me often. Other village-people suggest me get a helmet to protect me head. Me seen turtles on sandy beaches. They never get hurt, because they hide in thick shells. You give me a turtle shell? Make me safe? Me give you this sharp stick in return. It a diamond sword. It pretty, but me hurt plenty after touching it.
+<|end_description|>

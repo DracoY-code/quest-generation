@@ -21,4 +21,6 @@ Dremora: a humanoid creature from the planes of Oblivion (location: )
 Hall of Attainment: a tall building (location: NONE)
 <|end_locations|>
 <|end_quest|>
+<|begin_description|>
 How quickly you've advanced. Most impressive. There are spells yet to be learned, powerful spells that can more closely and more permanently bind creatures to your will. These spells are difficult, even for one as skilled as I. To even begin to inscribe them, I need something very special. A sigil stone from an Oblivion gate. I do not have one in my possession. Nor do you, I'm sure. So we require a Dremora to retrieve one for us. You will summon one, and order it to bring a sigil stone to you. I will then inscribe the spells for you. But there are risks. There are always risks. You must summon and command an unbound Dremora. Summoning an Unbound Dremora is not like other Conjuration spells. It will not simply do your bidding. You must first prove you are in control. I will teach you the spell to summon the Dremora, but know that it will only work in a place properly prepared for the event. Here is the spell you need. Go to the top of the Hall of Attainment; I have prepared a place for you there.
+<|end_description|>

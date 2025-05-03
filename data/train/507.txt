@@ -18,4 +18,6 @@ Caps: A monetary reward for successfully optimizing the reactor. (amount: 1000)
 Improved relations with Vault City: Vault City will be more willing to trade with Gecko. (amount: NONE)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 The nuclear power plant in Gecko is running inefficiently. By obtaining and installing optimization data from Vault City, you can improve its performance and reduce tensions between the two settlements.
+<|end_description|>

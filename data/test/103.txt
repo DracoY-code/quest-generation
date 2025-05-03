@@ -24,4 +24,6 @@ Zeryphesh: a city-state (location: NONE)
 Ezrohir: a race of people who are at war with Zeryphesh (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 The Ezrohir prepare today for war Their legions number in the score. Their Alchemy and Artifice suffice To capture Mana... not once but twice. Imprisoned in the Vaults Forsaken: Subdued, enslaved, her magic taken. Forced to lead their troops in battle From Guardian... to so much chattel. The Ezrohir have Mana enslaved But there's still hope; she might yet be saved. The enemy lie in this foul creche. Save the Guardian... save Zeryphesh.
+<|end_description|>

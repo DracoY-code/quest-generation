@@ -22,4 +22,6 @@ Skyrim: a realm (location: NONE)
 Thieves Guild: a guild of thieves (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 One of the quickest ways to make some coin in Skyrim is to clear out some of the wealthier homes of their valuables. If you're interested, I could point out a good place that could use a little housecleaning by stealing three items of value. The place in question is the Atheron Residence in Windhelm. The people in this home recently got one of your fellow Guild mates sent to jail. How about you make them pay for that? Just remember the order: do job first, get drunk second.
+<|end_description|>

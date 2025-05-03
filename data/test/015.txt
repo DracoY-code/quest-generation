@@ -21,4 +21,6 @@ Raven Rock: a town ruled by the Redoran (location: NONE)
 Redoran: a noble family (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 Thanks... I wasn't sure I'd make it off this farm alive. I wish I could have said the same for my man here. Some of the Redoran Guard have taken to calling them "ash spawn". Me? I don't care what they're called... all I know is they're a danger to Raven Rock and they need to be stopped. I was going to search for clues that might lead me to wherever they're coming from. I know it isn't the best place to start, but we know they've been coming from this direction. Could you lend me a hand? We were searching the farm when the ash spawn ambushed us. Have a look around and see if you can turn up anything useful.
+<|end_description|>

@@ -19,4 +19,6 @@ Rilsa: Magreb's dead female friend (location: )
 : old mage (location: a set of caves to the northeast)
 <|end_characters|>
 <|end_quest|>
+<|begin_description|>
 Goblins! All I know is they killed Rilsa when she tried to talk to them, and I can't face them by myself. At first they appeared around the house of an old mage, but soon they moved into a set of caves to the northeast, taking him with them. Forgive me. My name is Magreb. Rilsa and I have watched over this area for years, and we never had any trouble with goblins before. Since they killed her, I've been half out of my mind with grief. Please avenge my Rilsa and give her a proper burial!
+<|end_description|>

@@ -15,4 +15,6 @@ NONE:
 : training from Marana Rian (amount: 1)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 You seek training? From me? A few too many loose lips, it seems. It's not something I want to be public knowledge, if you understand my meaning. Very well. Simple task for you. I just dropped a favorite coin of mine into my pocket. If you can steal it from me, I'll train you.
+<|end_description|>

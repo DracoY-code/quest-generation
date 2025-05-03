@@ -18,4 +18,6 @@ Laerta: a young girl
 Louise: a young girl (location: next to Laerta)
 <|end_characters|>
 <|end_quest|>
+<|begin_description|>
 Hi! I'm Laerta. That's my twin sister, Louise. Mom and Dad don't believe us, but there's a bogeyman that comes and looks in our window every night. We're real glad we're twins because, if there were only one of us, then there'd be no one to hold on to when we get scared. Scare away the bogeyman, would you? Mom says to give this scroll as a reward. I think it's supposed to protect you from any other bogeypeople you find.
+<|end_description|>

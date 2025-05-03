@@ -15,4 +15,6 @@ Shady Sands Entrance: The entrance to Shady Sands where Katrina stands, offering
 Experience Points: Earned for engaging in conversation and learning valuable information. (amount: 250)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 Katrina, a former resident of Vault 15, stands at the entrance of Shady Sands, helping wanderers understand the world outside the vaults. Speaking with her provides background on Vault 13, the dangers of the wasteland, and basic survival tips.
+<|end_description|>

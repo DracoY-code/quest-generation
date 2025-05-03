@@ -25,4 +25,6 @@ Silver Hand: a bandit gang who hate the Companions (amount: NONE)
 Companions: a band of honorable warriors (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 The Silver Hand has been scouring the world for more pieces of Wuuthrad. A group of their members has managed to secure one of the pieces. They have gone hidden out in Eastmarch, somewhere inside Cragslane Cavern. The piece of Wuuthrad should be there with them. Get that piece of Wuuthrad back, for the honor of us all.
+<|end_description|>

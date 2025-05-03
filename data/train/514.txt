@@ -24,4 +24,6 @@ Hollyfrost Farm: a farm owned by Hillevi Cruel-Sea's family (location: NONE)
 Nightshade: a poisonous plant (amount: 1)
 <|end_items|>
 <|end_quest|>
+<|begin_description|>
 Everything you see is grown at my family's own Hollyfrost Farm. Fresh and filling. I also do a little herb growing. The court wizard, Wuunferth, pays us to plant a little Nightshade. Who knows what he uses it for? A poison like that? Hey, could you deliver this bottle of Nightshade extract to Wuunferth?
+<|end_description|>

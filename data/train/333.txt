@@ -26,4 +26,6 @@ White Stallion: a chivalric order created by Marius Caro (amount: NONE)
 Black Bow Bandits: a bandit group (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 You and Mazoga are to find and kill the leader of the Black Bow Bandits, the Orc named Brugo. In her shadowy past, your friend Mazoga might have had contacts with outlaws. Ask her about locating Brugo and his Black Bow Bandits. I have created a chivalric Order of the White Stallion. If you succeed, I will bestow on both you and Mazoga the titles of Knights-Errant of the White Stallion for your service to Leyawiin.
+<|end_description|>

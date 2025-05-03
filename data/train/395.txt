@@ -20,4 +20,6 @@ Loot from Tyler's gang: Weapons, armor, and other valuables can be taken from fa
 Increased reputation with Lara’s gang: Lara and her gang will view you as a trusted ally. (amount: NONE)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 Lara has planned an attack on Tyler's gang and needs your help. You must assist her in taking over the church, ensuring her victory and survival in the battle.
+<|end_description|>

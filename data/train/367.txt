@@ -18,4 +18,6 @@ NONE:  (amount: 1)
 De'Tranion: an old coot who brews liquor (location: )
 <|end_characters|>
 <|end_quest|>
+<|begin_description|>
 Ohoy, I'm Captain Tollar Kieres. A jug o' this town's hardest liquor would make for a fine departure, if ye'd be so kind. Old De'Tranion brews a vile swill at'll do the trick. Ye can find the old coot at the Blushing Mermaid.
+<|end_description|>

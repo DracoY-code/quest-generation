@@ -17,4 +17,6 @@ Caps: A monetary reward for successfully overthrowing the Regulators. (amount: 1
 Improved standing with Adytum citizens: The people of Adytum will recognize you as a hero. (amount: NONE)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 Adytum is under the control of the Regulators, a corrupt group posing as law enforcers. Jon Zimmerman wants them removed, and you must lead an effort to free the town.
+<|end_description|>

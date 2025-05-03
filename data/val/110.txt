@@ -21,4 +21,6 @@ Sanuarach Mine: mines (location: NONE)
 Silver-Bloods: a greedy, rich family of mine owners (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 The Silver-Bloods are trying to muscle in on my land. Forsworn attack the mines, and suddenly all these sellswords show up in Karthwasten to 'help.' They won't let anyone work until I sell it off. You can try to convince them to leave, but I'd keep your sword-arm ready if things get ugly.
+<|end_description|>

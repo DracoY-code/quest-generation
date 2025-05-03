@@ -24,4 +24,6 @@ Riften: a city (location: NONE)
 Dawnguard: an organization of vampire hunters (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 I'm Durak of the Dawnguard. We are vampire hunters. We search out and destroy those bloodsucking scum wherever we find them. We are looking for anyone willing to fight against the growing vampire menace. Everybody says that they are not interested about joining, right up until they find their throat being ripped out by a pack of hungry vampires. Want to sign up to the Dawnguard and kill vampires? Go talk to Isran, our leader, at Fort Dawnguard, southeast of Riften. He'll decide if you're Dawnguard material.
+<|end_description|>

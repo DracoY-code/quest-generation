@@ -18,4 +18,6 @@ NONE:  (amount: 1)
 Mana Queen: a good female spirit (location: Forsaken Vaults)
 <|end_characters|>
 <|end_quest|>
+<|begin_description|>
 The Mana Queen has come and gone Through this gate, she journeyed on. Follow her and pay the cost. Hasten forth, or she'll be lost.
+<|end_description|>

@@ -23,4 +23,6 @@ Blossom: Dar-Ma's beloved female horse, whom Dar-Ma would never abandon (locatio
 Chorrol: a city (location: NONE)
 <|end_locations|>
 <|end_quest|>
+<|begin_description|>
 I'm Seed-Neeus. I don't mean to impose, but I'm hoping you can help me. My daughter, Dar-Ma is missing and I don't know what to do. Dar-Ma never came back from Hackdirt. I'm dreadfully worried something may have happened to her. Can you help? Dar-Ma was supposed to make a delivery to Etira Moslin in Hackdirt, so I would start there. Hackdirt is a rather isolated village, south of Chorrol. We do some business with the trader there. Small volume, but she pays well. Normally I make the deliveries, but I wasn't feeling well so Dar-Ma insisted on going this time. In case it may be useful, she was with Blossom -- her horse, I mean. Dar-Ma loves that animal, and would never willingly abandon her. If you find my daughter, you have my friendship and gratitude to the end of my days!
+<|end_description|>

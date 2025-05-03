@@ -23,4 +23,6 @@ Lady Lovidicus: a noblewoman, the wife of Lord Lovidicus (location: )
 Lovidicus: a noble family (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 Hail, friend. I don't believe I've ever seen you down here in the Bloodworks before. Allow me to introduce myself. My name is Agronak gro-Malog. I grew up here in the Imperial City, but I was born elsewhere. My mother was a servant in the employ of Lord Lovidicus, and resided at his fortress. Lady Lovidicus was a shrew of a woman. The Lord and my mother grew close, and ultimately fell in love. I was the result of their union. When the Lady learned of my birth she was furious, and threatened to kill both my mother and me. So we fled, leaving my claim to nobility behind. My mother died recently. Before she passed, she gave me this key, and told me it would "unlock the truth," at the place of my birth, Crowhaven. Crowhaven is a ruined fort far to the west of here. I'd go myself, but my training regiment doesn't allow for the luxury of such an excursion. My friend, you must travel to Crowhaven and use the key to unlock whatever it is that holds the proof of my birthright! Find this proof and return it to me, and I'll share with you some of my finest combat techniques. Trust me, you can't learn these moves in a book!
+<|end_description|>

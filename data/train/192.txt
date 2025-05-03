@@ -16,4 +16,6 @@ The Den: A town filled with thieves, traders, and drifters, where Stacy resides.
 A heartwarming story: No material reward, but you get to hear a touching story about Stacy's lost cat. (amount: NONE)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 Stacy, a young girl in The Den, shares a sad story about her lost cat. Taking the time to listen to her might provide insight into the harsh realities of life in The Den.
+<|end_description|>

@@ -17,4 +17,6 @@ Bishop family residence: A well-guarded location in New Reno, home to the Bishop
 Experience Points: A small experience boost for learning about Vault City. (amount: 500)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 Mrs. Bishop has knowledge about Vault City and its education system. Talk to her and learn about these topics.
+<|end_description|>

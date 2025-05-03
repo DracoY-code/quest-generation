@@ -22,4 +22,6 @@ Akatosh: the god of dragons (location: )
 Elder Scroll: a mythological scroll that can bend time itself (amount: 1)
 <|end_items|>
 <|end_quest|>
+<|begin_description|>
 You have it. The Scroll - the Elder Scroll. Time bends... touch. Time shudders at its touch. There is no question. You are doom-driven. Blessings of Akatosh. The very bones of the earth are at your disposal. Go then. Fulfill your destiny. Take the Scroll to the Time-Wound. Do not delay. Alduin will be coming. He cannot miss the signs. You must defeat him.
+<|end_description|>

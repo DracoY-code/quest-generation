@@ -18,4 +18,6 @@ Klamath: A small settlement where Vic was last seen before his disappearance.
 Experience Points: Earned for successfully locating Vic. (amount: 500)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 Vic, a trader who might have valuable information about a Vault water flask, has gone missing. You need to track him down, starting with clues from Klamath and leading to The Den.
+<|end_description|>

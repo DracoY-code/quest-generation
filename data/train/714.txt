@@ -21,4 +21,6 @@ NONE:
 comfort
 <|end_motivation|>
 <|end_quest|>
+<|begin_description|>
 I'd like to redecorate my home. Stranger, could you do a man a favor? Obtain ten red banners and bring them to me. I have heard that you can craft banners from sticks and wool. I'll have 32 apples for you.
+<|end_description|>

@@ -19,4 +19,6 @@ Caps: A monetary reward for taking down Gizmo. (amount: 500)
 Karma Increase: Improves player reputation in Junktown. (amount: 1)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 Gizmo, the crime lord of Junktown, is suspected of plotting an assassination. The player must gather proof of his crimes by recording his confession or killing him directly. Completing the quest earns the player rewards and improves their reputation.
+<|end_description|>

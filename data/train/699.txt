@@ -15,4 +15,6 @@ NONE:
 NONE:  (amount: 1)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 I could use some help around the forge. How about you smith me an iron dagger? Here's everything you need to make one. Go ahead.
+<|end_description|>

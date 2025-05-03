@@ -16,4 +16,6 @@ Experience Points: Earned for successfully rescuing Tandi. (amount: 500)
 Gratitude from Shady Sands: The town will be appreciative of your actions, improving relations. (amount: 1)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 Tandi, the daughter of Aradesh, has been kidnapped by the Khans. The Vault Dweller must infiltrate the raider camp and rescue her, either through diplomacy, stealth, or combat. The outcome will determine the fate of Shady Sands and the player's standing in the wasteland.
+<|end_description|>

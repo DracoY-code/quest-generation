@@ -21,4 +21,6 @@ Kylius Lonavo: a male Dunmer Skooma dealer (location: Greyland)
 Skooma: an illegal drug (amount: 1)
 <|end_items|>
 <|end_quest|>
+<|begin_description|>
 Hmmm. Perhaps you'll be able to assist me. I'm after some Skooma dealers. A small group of Skooma dealers led by a Dunmer named Kylius Lonavo is holed up in the Greyland house just up the road. I've been trying to catch Lonavo for months, but every time I approach the place, his lookout sees me and he goes running. I need someone to go in there and put a stop to those fetchers. I don't care what it takes. We must get that poison they're selling off the street. Bring me Lonavo's ring as proof he's... been dealt with... and I'll give you the bounty on him. Be vigilant. Lonavo is a snake.
+<|end_description|>

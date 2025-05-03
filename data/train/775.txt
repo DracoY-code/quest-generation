@@ -24,4 +24,6 @@ Riften: a city (location: NONE)
 Skooma: an illegal drug (amount: 1)
 <|end_items|>
 <|end_quest|>
+<|begin_description|>
 We're aware of a Skooma dealer's presence in the warehouse within this city. Unfortunately, we're certain this Skooma dealer, Sarthis, has informants within the city guard. Every time we've made a move to arrest him, he's escaped. However, if you'd take care of this discreetly, you might be able to surprise him without warning. Here, this is the key to the warehouse. See if you can drop in on this dealer of poison and convince him to close down his operation permanently.
+<|end_description|>

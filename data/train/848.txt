@@ -18,4 +18,6 @@ NONE:  (amount: 1)
 : fire salts, strange minerals that burns as hot as lava (amount: 10)
 <|end_items|>
 <|end_quest|>
+<|begin_description|>
 Come to see Balimund perform miracles with steel, eh? Smithing's been in my blood for generations. I owe my success to my forefathers and their recipe for flame. The secret is my forge. It consumes fire salts, a strange mineral that burns as hot as lava. Sadly, this forge is dying and I've used the last of my fire salts. If I can't feed it soon, it may grow cold. Ten pinches of fire salts should give me all I need to bring this forge back to life. Could you get the fire salts for me? I know that they are hard to come by, but they would save my business and warm an old smith's heart.
+<|end_description|>

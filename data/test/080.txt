@@ -21,4 +21,6 @@ Senior Armagaran Vulova: a man leading a merchant house, linked to the Shadow Th
 Shadow Thieves: a guild of thieves (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 Now I ask for a more specific task that will disrupt the Shadow Thieves further. The task is... unseemly. It calls for the murder of a man. Not a truly innocent man, but hardly a villain of epic scope. You must kill, blaming the murder on the Shadow Thieves. He is head of a merchant house, and his link to Shadow Thieves is blatant. If he were to die and certain gear were at the scene, it would implicate the guild we oppose. Take this cloak and dagger, and go kill Senior Armagaran Vulova. When he is dead, put the cloak and dagger in the fountain in his house. He will die easily, though there may be guards. His small house is in the Government District, between the jail and the government building. Go.
+<|end_description|>

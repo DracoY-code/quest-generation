@@ -21,4 +21,6 @@ Black Alaric: a legendary pirate of old (location: )
 Candlekeep: a fortress (location: NONE)
 <|end_locations|>
 <|end_quest|>
+<|begin_description|>
 My name is Safana and I can make you richer than you could imagine. I know where the pirate Black Alaric dumped his greatest trove of treasure. Knowing that you are a dynamic and intelligent person, I know you'd want to join me in a venture to get this treasure. Well, we should be off then. From what my map showed, the pirate cove is located somewhere along the coast, just south of Candlekeep.
+<|end_description|>

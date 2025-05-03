@@ -21,4 +21,6 @@ Rancher Reputation: Increased standing with the local ranchers. (amount: NONE)
 Possibly Loot: If raiders are involved, their supplies may be up for grabs. (amount: NONE)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 The local ranchers are struggling with repeated attacks on their brahmin herds. Your task is to investigate, find out who or what is responsible, and put an end to the raids.
+<|end_description|>

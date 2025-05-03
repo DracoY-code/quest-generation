@@ -18,4 +18,6 @@ NONE:  (amount: 1)
 Mralki: Erik's father, an innkeeper in Rorikstead (location: Rorikstead)
 <|end_characters|>
 <|end_quest|>
+<|begin_description|>
 You look like you've seen your share of adventure. I envy you that. In fact, maybe you can help me with something. I want to be an adventurer like you, but my father says I can't. He says that he needs me to stay here and work the farm, and even if he did let me be an adventurer, we couldn't afford to buy armor. His name's Mralki, and he's the innkeeper here. I hope you can change my father's mind. He can be a little stubborn. I can't stand the thought of being trapped in this village for the rest of my days.
+<|end_description|>

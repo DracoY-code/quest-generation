@@ -21,4 +21,6 @@ John: a dreaming librarian
 knowledge
 <|end_motivation|>
 <|end_quest|>
+<|begin_description|>
 To have more tomes in my library... Now that would be incredibly lovely... Oh hero, I was just dreaming about having more precious, amazing books. Actually, you could recover a book for me. It is called "The Nether: Compiled Accounts of the Hellish Plane", and it tells about the hellish dimension your familiar with. You can find it in a nearby mineshaft. I'm willing to part from an enchanted book, should you succeed in recovering "The Nether: Compiled Accounts of the Hellish Plane".
+<|end_description|>

@@ -19,4 +19,6 @@ Reyda: Narfi's sister who went missing (location: )
 Wilhelm: a man who told Narfi that Reyda will be back (location: )
 <|end_characters|>
 <|end_quest|>
+<|begin_description|>
 Reyda was here, then gone. Went to gather plants and never came home... nope, nope. Everyone looked and no one could find her. Wilhelm said she'll be back... told Narfi not to worry... Reyda will come back. With father I said goodbye... with mother I said goodbye. Reyda leaves and Narfi can't say goodbye. Makes Narfi very, very sad. Narfi needs Reyda to say goodbye.
+<|end_description|>

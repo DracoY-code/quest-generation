@@ -23,4 +23,6 @@ Guardian of Mana: a good spirit that controls all magic (location: )
 Ezrohir: the Alchemist's minions (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 We must act quickly. It appears that the Artificer you defeated in the Vaults has enslaved the Guardian of Mana for the enemy. The most pressing danger is that they will use the enslaved Guardian to corrupt... and control... all the world's magic. Our only recourse in that event may be to destroy the Guardian. There might still be hope. If we can find a way to free the Guardian from Ezrohir's control, we can thwart the Alchemist's plans.
+<|end_description|>

@@ -18,4 +18,6 @@ Cold Rock Pass: a cave
 Bloodstone Chalice: a chalice that is able to increase the potency of the player's vampiric powers (amount: 1)
 <|end_items|>
 <|end_quest|>
+<|begin_description|>
 I've been performing a little research on the Bloodstone Chalice. I believe we can prolong its salutary effects if we infuse it with potent vampiric blood. I've located the petrified remains of an elder vampire in Cold Rock Pass. Bring them to me, and I should be able to extend the effects granted by the Bloodstone Chalice.
+<|end_description|>

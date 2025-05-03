@@ -18,4 +18,6 @@ Caps: A small monetary reward for retrieving the pocket watch. (amount: 100)
 Improved reputation in Broken Hills: Cornelius and the townsfolk will appreciate your efforts. (amount: NONE)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 Cornelius is convinced that someone has stolen his gold pocket watch, and he suspects Francis. Your task is to investigate the matter, retrieve the watch, and return it to its rightful owner.
+<|end_description|>

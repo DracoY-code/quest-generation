@@ -15,4 +15,6 @@ NONE:
 NONE:  (amount: 1)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 Thank the Gods you're here! These... demons just came out of nowhere! I've been able to hold them off so far, but, with you here, we'll soon triumph over them! Why are you looking at me like that? Can't you see them? They're all around us! Please... you've got to believe me!
+<|end_description|>

@@ -18,4 +18,6 @@ NONE:  (amount: 1)
 Dawnguard: an organization of vampire hunters (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 You're going to go kill a Dawnguard spy. But don't draw attention. Some kills are for fun, some for profit. And others are for sending messages. This one is a message. Don't make a big scene. Don't get caught. The corpse is to be the message, not the attack. With any luck he'll bleed to death before anyone notices. A cold corpse will say what we want better than a warm one.
+<|end_description|>

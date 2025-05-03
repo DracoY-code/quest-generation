@@ -15,4 +15,6 @@ Nilheim: ruins of a tower
 : the player will be rewarded (amount: 1)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 Bandits attacked and ransacked my cart. Can you help me? My camp is nearby in the ruins of Nilheim. Get me there safely and you'll be rewarded.
+<|end_description|>

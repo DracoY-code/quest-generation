@@ -24,4 +24,6 @@ Athkatla: a city (location: NONE)
 Cowled Wizards: an organization of wizards who regulate magic usage (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 Greetings. I am Madeen. I represent one of the masters of the Athkatla order of the Cowled Wizards. He seeks to employ you in a matter of some urgency. The matter is most sensitive... I have been given little knowledge of it. Tolgerias, the one whom I speak for, is eager to meet with you and discuss these matters. Master Tolgerias can be found in the government building behind me... you may go within. Do not tarry overlong, my friend.
+<|end_description|>

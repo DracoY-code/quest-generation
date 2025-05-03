@@ -24,4 +24,6 @@ Moon Sugar: an illegal substance (amount: 1)
 Thieves Guild: a guild of thieves (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 Before we get down to business, I've got something I need you to do. Well, as you know, the Guild's growing and things are looking up around here. The only thing we're lacking is a reliable way to transport our merchandise across the land. I'm not sure if you've noticed, but there are several caravans that travel across the realm. They're shrewd traders and don't mind getting their hands dirty. I've bartered with their leader, Ri'saad, on more than one occasion. I want you to bring him something. You see, the caravans are notorious for transporting illegal substances. Present Ri'saad with this satchel of Moon Sugar, and I bet my last coin he'll make a deal.
+<|end_description|>

@@ -25,4 +25,6 @@ Savilla's Stone: a large crystal with special properties (amount: 1)
 Thieves Guild: a guild of thieves (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 I have need of your special gifts. There is an item, hidden away in a remote monastery. I need you to go get it for me. The monastery is extensive and well guarded, so you should make sure to be well prepared. Should you succeed, I will pay you well for your services. The monastery is called the Temple of the Ancestor Moths. It is where retired, blind Moth priests go to wait out the rest of their days. I will mark the location on your map. Look for it in the far northeast of Cyrodiil, beyond Cheydinhal. I need you to acquire Savilla's Stone. It is a large crystal with special properties that I need to gain... advantage. Remember, do not shed innocent blood. However, there is no bloodprice for slaying the stone's guardians, human or inhuman. When I receive word that Savilla's Stone is missing, I will be here waiting for you.
+<|end_description|>

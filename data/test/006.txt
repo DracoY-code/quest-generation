@@ -24,4 +24,6 @@ Illagers: bandits (amount: NONE)
 knowledge
 <|end_motivation|>
 <|end_quest|>
+<|begin_description|>
 No! Go away! Please don't kill me... Illagers are making me scared enough already! Perhaps you'd like to do something villainous, and even net a reward for it? This village, Fishing Hamlet, has been threatened by nearby Illagers of Deepwood Tower for some time. You could go to their tower in the woods and steal their plans. Bring the plans to me, and I'll give you an enchanted sword as a reward. Just don't test its blade on me, please!
+<|end_description|>

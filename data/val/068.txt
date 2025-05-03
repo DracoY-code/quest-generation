@@ -18,4 +18,6 @@ Romeo: a man in love
 comfort
 <|end_motivation|>
 <|end_quest|>
+<|begin_description|>
 Great timing, Hero. I'm suffering... my poor heart is writhing in love. Help me find a rose for my loved one, so that my heart may yet calm down. All I need is but a single rose. They can be found in various temperate forests. Please, help a fellow in love. I have 27 pumpkin pies I can give you.
+<|end_description|>

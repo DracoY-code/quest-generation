@@ -24,4 +24,6 @@ Riften: a city (location: NONE)
 Skooma: an illegal, dangerous drug (amount: 1)
 <|end_items|>
 <|end_quest|>
+<|begin_description|>
 It's nice to receive good news for a change. Did you recover anything else from the warehouse worth mentioning? If you have discovered the source of Skooma, then there's no time to lose. It won't take long for Sarthis's associates to learn of his death. The source of the poison must be destroyed once and for all, otherwise another dealer will simply take his place. Do this task for me and you'll be well on your way to a title in Riften. Report back to me when your task is complete.
+<|end_description|>

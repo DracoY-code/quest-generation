@@ -22,4 +22,6 @@ Thieves Guild: a guild of thieves (amount: NONE)
 Rieklings: vicious little creatures (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 Eager to make some coin, eh? That's the spirit. I'll tell you what. The Guild's got a problem out here that I've been trying to deal with for years, but haven't been able to handle. A fellow Breton who went by the name Esmond Tyne showed up on my doorstep about a fortnight ago. He stole something from me: my own formula for improved bonemold. Took me years to perfect. Before he ran off, he was talking some nonsense about trying to fence goods to the Rieklings at Castle Karstaag. I told him he was crazy to even think about talking to those vicious little buggers, but he wouldn't listen. I'd bet a fat purse of coin that he's either dead or hiding out up there.
+<|end_description|>

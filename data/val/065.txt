@@ -18,4 +18,6 @@ Darkwater Crossing: a village where Sylgja's parents live
 Verner: Sylgja's father (location: Darkwater Crossing)
 <|end_characters|>
 <|end_quest|>
+<|begin_description|>
 Would you happen to be headed towards Darkwater Crossing? My parents live there. I usually make the journey to bring them gifts and to just say hello, but I haven't been well lately. I've written some letters and placed them in a satchel. Perhaps you wouldn't mind delivering it to them on my behalf? I would insist on rewarding you for your time. Here, take my satchel and give it to my father, Verner. He'll likely have something for you to bring back.
+<|end_description|>

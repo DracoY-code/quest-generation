@@ -21,4 +21,6 @@ Nimhe, Poisoned One: a giant, poisonous spider (amount: 1)
 Dwemer: an extinct, ancient race of people (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 You idiot. Do you even know who I am? The most recognized scholar on the Dwemer in all of Tamriel, and you people keep bothering me! I... I'm sorry I... I got too excited. I'm in the middle of some very... stressful work, and I shouldn't have yelled. How can I help you? You want to access my Dwemer museum? It's a private place where I can catalog my research. Occasionally, the nobles will come in and have questions, but that's thankfully rare. I'll let you in if you agree to something for me. There's a giant spider in Nchuand-Zel, my excavation site. My workers call her 'Nimhe', the Poisoned One. If you deal with Nimhe, I'll let you into both the excavation site and my Dwemer Museum. What do you say?
+<|end_description|>

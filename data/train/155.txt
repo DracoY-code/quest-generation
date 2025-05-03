@@ -18,4 +18,6 @@ Old Hroldan Inn: and old inn to the south
 Leontius: Rogatus Salvius' son, a drunk (location: Old Hroldan Inn)
 <|end_characters|>
 <|end_quest|>
+<|begin_description|>
 My boy Leontius lives in Old Hroldan. Old inn to the south. Damn drunk. The oaf doesn't even bother to visit these days. What am I supposed to do if the dragons burn down the farm? You're a traveler, right? I have this letter for him. Let him know how much of a failure he is. You make sure the lug tips you when he gets it.
+<|end_description|>

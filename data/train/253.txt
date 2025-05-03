@@ -15,4 +15,6 @@ NONE:
 : the refugees' thankfulness (amount: 1)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 We are elven refugees in dire need of help! We have nowhere to stay... we have no choice but to wander the streets. I fear we will soon run into trouble with the soldiers of this town. We have no money, and the innkeeper turned us away because he feared our wives would draw unwanted attention from the soldiers. Who else would have the heart and the room to take us all in? Perhaps you can find someone willing to take us in? We would be truly thankful for your help.
+<|end_description|>

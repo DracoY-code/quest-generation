@@ -21,4 +21,6 @@ Zeryphesh: a city-state (location: NONE)
 Ezrohir: a race of people who are at war with Zeryphesh (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 The Ezrohir have installed some infernal devices in the Undercurrents, defiling the supply of water entering Zeryphesh. You must destroy those machines, or Zeryphesh cannot stand against the Ezrohir!
+<|end_description|>

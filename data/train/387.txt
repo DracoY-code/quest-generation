@@ -17,4 +17,6 @@ Skum Pitt: A bar in Junktown where Sinthia is being threatened.
 Karma Increase: Rescuing Sinthia improves the player's reputation. (amount: 1)
 <|end_rewards|>
 <|end_quest|>
+<|begin_description|>
 While visiting the Skum Pitt, the player encounters Sinthia being harassed by a thug. The situation can be resolved through persuasion, intimidation, or combat. Successfully helping Sinthia improves the player's standing in Junktown.
+<|end_description|>

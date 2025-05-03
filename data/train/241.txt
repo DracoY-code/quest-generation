@@ -19,4 +19,6 @@ Camilla Valerius: an intelligent, beautiful woman (location: Riverwood)
 Sven: a male Nord bard and a worker at the Riverwood mill, who is courting Camilla Valerius (location: Riverwood)
 <|end_characters|>
 <|end_quest|>
+<|begin_description|>
 Sven is a bard, so he says. Occasionally he finds time to do his job here at the mill. Thinks his ballads and sonnets are going to convince Camilla Valerius to marry him. As if she would say "yes". An intelligent, beautiful woman like her wouldn't fall for that nonsense... I hope. I've been thinking... maybe Camilla needs a little help seeing Sven for what he is. Could you... could you give her this letter, and say it's from Sven? I think I've matched that Nord's lack of cleverness perfectly. I would appreciate your help. You could take some gold I've saved up from working at the mill.
+<|end_description|>

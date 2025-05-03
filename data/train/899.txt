@@ -21,4 +21,6 @@ Thoronir: a male merchant (location: Market District)
 Society of Concerned Merchants: an organization of merchants that keeps a nice fair economic balance in town (amount: NONE)
 <|end_groups|>
 <|end_quest|>
+<|begin_description|>
 I think you may be just the kind of person we're looking for. Perhaps you can assist us with a problem we're having here in the Market District. I'm the chairperson for the Society of Concerned Merchants. We formed this group a while back to keep a nice fair economic balance in town. Not every store is a member, but we're slowly trying to convince them to join. Everything was fine until Thoronir opened his shop nearby. Selling all sorts of merchandise, Thoronir undercuts prices like you wouldn't believe. He doesn't always sell what we sell, but it is still a problem. People who buy tend to want to spend their money there. That leaves none for us. It's getting so bad, a few of us may have to close up shop. He outright refuses to join the Society or even discuss the matter. We are convinced he is up to no good. What we need is for you to case his establishment, and figure out where he gets his inventory. Find some proof of his wrongdoing, and let us know. We cannot do it ourselves, as he recognizes all of us. The job pays a fair bounty in gold when he is brought to justice.
+<|end_description|>

@@ -18,4 +18,6 @@ NONE:  (amount: 1)
 Enthir: a shady merchant (location: )
 <|end_characters|>
 <|end_quest|>
+<|begin_description|>
 There is something you can do for me. I had retained Enthir's services in, uhh, acquiring something specific. But now he's refusing to deliver. Could you perhaps speak with him, and see if we can come to some sort of arrangement?
+<|end_description|>

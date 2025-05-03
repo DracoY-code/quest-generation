@@ -19,4 +19,6 @@ Minister Lloyd: the male mayor of Imnesvale (location: Imnesvale)
 Umar: a long-dead evil female witch (location: )
 <|end_characters|>
 <|end_quest|>
+<|begin_description|>
 My name's Delon. I was sent to f-find someone, but things have been gone all wrong! *sniffle* I've had all my money stolen, and I'm lost, and everyone's so mean. *sniff* I was sent to find someone who could h-help my village, Imnesvale. Terrible things are happening there, and nobody knows what to do! Everyone says they seen strange b-beasts out in the hills. Everyone's so frightened! There's even t-t-talk that Umar herself has returned! When you get to Imnesvale, talk to Minister Lloyd! He can tell you everything else!
+<|end_description|>
