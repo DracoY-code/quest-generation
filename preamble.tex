@@ -1,0 +1,38 @@
+% Preamble file for packages and configurations
+
+\usepackage{amsmath}  % for including mathematical equations
+\usepackage{array}  % for vertical alignment options
+\usepackage[english]{babel}  % for handling additional characters
+\usepackage{booktabs}  % for cleaner table line appearance
+\usepackage{enumitem}  % for customizing list formatting
+\usepackage{fancyhdr}  % for headers and footers
+\usepackage{float}  % for handling floating elements
+\usepackage[margin=2.5cm]{geometry}  % for handling margins
+\usepackage{graphicx}  % for adding graphics
+\usepackage[utf8]{inputenc}  % for complex input encodings
+\usepackage{lastpage}  % for getting total number of pages
+\usepackage{lipsum}  % for generating blind text
+\usepackage{multirow}  % for handling spanning table rows
+\usepackage{ragged2e}  % for justifying text
+\usepackage{setspace}  % for handling line spacing
+\usepackage{subcaption}  % for adding captions to sub-figures
+\usepackage{tabularx}  % for customizing table spacing
+\usepackage{titlesec}  % for customizing sections
+\usepackage{tocloft}  % for customizing table of contents
+\usepackage[normalem]{ulem}  % for customizing underlines
+\usepackage{xcolor}  % for handling colors
+
+% For formatting urls correctly
+\usepackage[hyphens]{url}
+\usepackage[hidelinks, breaklinks]{hyperref}
+
+% Select the correct path to the images
+\graphicspath{ {images/} }
+
+% Import the bibliography file
+\usepackage[style=ieee, backend=biber]{biblatex}
+\usepackage{csquotes}
+\addbibresource{references.bib}
+
+% Adjust the table row height
+\renewcommand{\arraystretch}{1.5}

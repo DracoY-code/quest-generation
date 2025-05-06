@@ -1,0 +1,63 @@
+\documentclass[a4paper, 12pt]{report}
+
+% Include the preamble
+\input{preamble}
+
+\begin{document}
+  % Title Page
+  \input{pages/i_titlepage}
+
+  % Set the page numbering style to roman
+  \pagenumbering{roman}
+
+  % Preliminary Pages
+  \input{pages/ii_certificate}
+  \input{pages/iii_declaration}
+  \input{pages/iv_acknowledgement}
+  
+  % Abstract
+  \input{pages/v_abstract}
+
+  % List of Figures
+  \clearpage
+  \renewcommand{\listfigurename}{}
+  \section*{\centering \large LIST OF FIGURES}
+  \addcontentsline{toc}{section}{List of Figures}
+  \vspace{-3.5em}
+  \listoffigures
+  Add list of figures here...  % TODO: Remove this line
+  \newpage
+
+  % List of Tables
+  \clearpage
+  \renewcommand{\listtablename}{}
+  \section*{\centering \large LIST OF TABLES}
+  \addcontentsline{toc}{section}{List of Tables}
+  \vspace{-3.5em}
+  \listoftables
+  Add list of tables here...  % TODO: Remove this line
+  \newpage
+
+  % Table of Contents
+  \clearpage
+  \renewcommand{\contentsname}{}
+  \section*{\centering \large TABLE OF CONTENTS}
+  \vspace{-4.3em}
+  \tableofcontents
+  \newpage
+
+  % Set the page numbering style to arabic
+  \pagenumbering{arabic}
+
+  % Chapters
+  \input{pages/chapters/01_introduction}
+  \input{pages/chapters/02_technical_background}
+  \input{pages/chapters/03_related_work}
+  \input{pages/chapters/04_methodology}
+  \input{pages/chapters/05_results_and_discussion}
+  \input{pages/chapters/06_conclusion_and_future_work}
+
+  % References
+  \justifying
+  % \printbibliography
+\end{document}
