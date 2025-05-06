@@ -187,9 +187,6 @@ out/*
 !out/generation_metrics.json
 !out/training_metrics.json
 
-# Fine-tuning logs (tensorboard)
-logs/*/events*
-
 # LaTeX intermediate and output files
 *.aux
 *.bbl
