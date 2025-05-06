@@ -8,7 +8,32 @@
 \begin{doublespace}
   \justifying
   \noindent
-  Add abstract here...
+  This project investigates the use of large language models (LLMs) for procedural quest
+  generation in role-playing games (RPGs) to enhance narrative diversity and reduce
+  manual content authoring. Procedural content generation has long been employed in game
+  design to create expansive and dynamic game worlds, but narrative elements—particularly
+  quests—remain challenging to automate due to their reliance on coherence, structure, and
+  context. To address this, we utilize modern transformer-based LLMs capable of producing
+  contextually rich text based on structured input representations. The dataset used
+  in this project is derived from publicly available quest data, formatted into a consistent
+  XML-inspired schema with clearly defined tags representing quest components such as
+  objectives, tasks, characters, rewards, and locations. This structured format allows the
+  models to focus on learning narrative patterns while preserving semantic alignment with
+  the game world. To enable efficient training on limited hardware, we adopt a two-stage
+  fine-tuning approach. First, the models—GPT-2, LLaMA 3.2, and TinyLlama—are quantized
+  using 4-bit techniques to reduce memory consumption. Then, parameter-efficient
+  fine-tuning (PEFT) is performed using Low-Rank Adaptation (LoRA), which injects trainable
+  adapters into selected model layers, significantly lowering the number of trainable
+  parameters while preserving performance. A custom pipeline is developed to manage the
+  tokenization, quantization, and LoRA integration, enabling fine-tuning on constrained setups.
+  The quality of generated quests is evaluated using both automatic metrics—BLEU,
+  METEOR, BERTScore, and perplexity—and manual inspection for narrative consistency
+  and fluency. Results show that larger LLaMA models generally outperform GPT-2 variants
+  in producing structured and coherent quests, although trade-offs exist in training
+  time and resource usage. This project demonstrates that with minimal supervision and
+  efficient adaptation techniques, LLMs can effectively generate believable and diverse RPG
+  quests. The findings lay the groundwork for scalable narrative generation systems that
+  could be integrated into modern game engines and development pipelines.
 \end{doublespace}
 
 \newpage
