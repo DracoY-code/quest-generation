@@ -2,20 +2,436 @@
 
 \chapter{Methodology}
 
+In this chapter, we outline the methodology used to develop and evaluate the procedural
+quest generation system for RPGs using LLMs. The goal of this research is to create an
+automated framework that can generate coherent, engaging, and contextually appropriate
+quests for RPGs, leveraging the power of LLMs and hybrid architectures. This chapter
+describes the step-by-step procedure, from data collection and pre-processing to model
+training, fine-tuning, and evaluation. The methodology is designed to ensure that the
+generated quests are of high quality, both from a computational and a user experience
+perspective.
+
+We begin by discussing the dataset collection and preparation, including the specifics
+of the quest data used to train the models. Next, we detail the architecture of the LLM-based
+models, the fine-tuning procedures, and the use of LoRA adapters to optimize model
+performance for quest generation. Following that, we delve into the evaluation metrics
+employed to assess the generated quests, explaining both quantitative and qualitative
+methods such as automatic evaluation metrics and human evaluation. Finally, we outline
+the experimental setup and the procedures followed during model training, validation,
+and testing, with a focus on how the methodology ensures the generation of diverse and
+contextually rich quests for RPGs.
+
 \section{Dataset Description and Preprocessing}
+
+This section introduces the dataset compiled for training and evaluating LLMs in the task
+of PCG. The construction of the dataset involves aggregating quest data from diverse
+RPG sources, standardizing the structure into a uniform schema, and formatting it for
+compatibility with generative language models.
+
+Given the narrative and structural complexity of quests in RPGs, it is essential to
+represent each quest in a machine-readable yet semantically rich format that preserves
+critical gameplay elements such as objectives, subtasks, quest givers, rewards, and supporting
+entities. This requires a preprocessing pipeline capable of handling heterogeneous
+data from multiple games, some of which originate from structured datasets while others
+are manually curated and normalized with the aid of LLMs.
+
+The final dataset, referred to as the QUEST Dataset, captures a wide range of quest
+archetypes and contextual variations across both high-fantasy and post-apocalyptic game
+settings. It combines data from multiple titles, including games from the \textit{Elder Scrolls,
+Fallout, and Baldur's Gate franchises}~\cite{theelderscrollsivoblivion,theelderscrollsvskyrim,fallout1,fallout2,baldursgate,baldursgate2shadowsofamn}, and ensures each entry adheres to a unified
+tagging convention that facilitates token-level alignment during training.
+
+To prepare the dataset for sequence modeling tasks, each quest instance is transformed
+into a text sequence using an XML-inspired prompt structure. This formatting approach
+allows for consistent parsing, enhances controllability during generation, and supports
+both conditional and unconditional sampling in downstream experiments. The details of
+data collection, game-wise contributions, and the exact schema used for formatting are
+described in the following subsections.
+
 \subsection{Source and Specification of Dataset}
+
+The QUEST dataset is constructed by aggregating quest data from a curated collection
+of eight popular role-playing games. These include titles from both Western and sandbox
+RPG traditions, ensuring diversity in quest structure, theme, and complexity. The
+primary source of this dataset is the open-access quest corpus published by V{\"a}rtinen et
+al.~\cite{vartinen2022generating}, which includes quests from six mainstream RPGs. To enhance the dataset's
+size and narrative richness, additional quests from \textit{Fallout}~\cite{fallout1} and \textit{Fallout 2}~\cite{fallout2} were
+manually collected and structured using a semi-automated method involving an LLM
+assistant.
+
+\begin{table}[H]
+  \centering
+  \scriptsize
+  \renewcommand{\arraystretch}{1.3}
+  \begin{tabularx}{0.95\textwidth}{
+    >{\raggedright\arraybackslash}p{6cm}
+    >{\raggedright\arraybackslash}X
+    >{\centering\arraybackslash}X
+    >{\centering\arraybackslash}X
+  }
+    \toprule
+    \textbf{Game Title} & \textbf{Source} & \textbf{Number of Quests} & \textbf{Percentage} \\
+    \midrule
+    Baldur's Gate~\cite{baldursgate} & V{\"a}rtinen et al.~\cite{vartinen2022generating} & 100 & 8.8183\% \\
+    Baldur's Gate II: Shadows of Amn~\cite{baldursgate2shadowsofamn} & V{\"a}rtinen et al.~\cite{vartinen2022generating} & 94 & 8.2892\% \\
+    The Elder Scrolls IV: Oblivion~\cite{theelderscrollsivoblivion} & V{\"a}rtinen et al.~\cite{vartinen2022generating} & 215 & 18.9594\% \\
+    The Elder Scrolls V: Skyrim~\cite{theelderscrollsvskyrim} & V{\"a}rtinen et al.~\cite{vartinen2022generating} & 389 & 34.3034\% \\
+    Minecraft~\cite{minecraft} & V{\"a}rtinen et al.~\cite{vartinen2022generating} & 100 & 8.8183\% \\
+    Torchlight II~\cite{torchlightii} & V{\"a}rtinen et al.~\cite{vartinen2022generating} & 80 & 7.0547\% \\
+    Fallout~\cite{fallout1} & Nukapedia~\cite{fallout1quests} & 58 & 5.1146\% \\
+    Fallout 2~\cite{fallout2} & Nukapedia~\cite{fallout2quests} & 98 & 8.6420\% \\
+    \midrule
+    Total & \empty & 1134 & 99.9999\% \\
+    \bottomrule
+  \end{tabularx}
+  \caption{Quest Distribution by Game Title}
+\end{table}
+
+Each quest entry is composed of a set of core and optional fields that reflect the semantic
+elements typically found in narrative design: goals, tasks, characters, environments,
+and consequences. The data schema was extended slightly from the original dataset to
+accommodate additional information present in the manually added entries (e.g., character
+motivations, groups, and auxiliary items). These data fields are clearly defined in
+Appendix~\ref{appendix:quest-dataset}.
+
+The inclusion of quests from \textit{Fallout}~\cite{fallout1} and \textit{Fallout 2}~\cite{fallout2} expanded the original dataset
+by 156 unique entries, enhancing both the size and variety of the corpus. Among all the titles
+represented, \textit{The Elder Scrolls V: Skyrim}~\cite{theelderscrollsvskyrim} contributes the
+largest share of quests, accounting for approximately 34.30\% of the total, whereas \textit{Fallout}~\cite{fallout1} contributes the fewest, at 5.11\%.
+
+To support richer expression during generation, the dataset retains several sparsely
+populated or “rare” columns—fields that are not consistently filled across all game sources
+but are preserved for flexibility in representing optional or game-specific quest attributes.
+As a result, the compiled dataset offers a comprehensive and heterogeneous benchmark
+for evaluating the narrative coherence, structural consistency, and alignment with game-world
+logic in procedurally generated quests.
+
+\begin{figure}[H]
+  \begin{subfigure}[H]{0.3\textwidth}
+    \centering
+    \includegraphics[width=\textwidth,height=7cm]{fallout.jpg}
+  \end{subfigure}
+  \hfil
+  \begin{subfigure}[H]{0.3\textwidth}
+    \centering
+    \includegraphics[width=\textwidth,height=7cm]{baldurs_gate_ii.png}
+  \end{subfigure}
+  \hfil
+  \centering
+  \begin{subfigure}[H]{0.3\textwidth}
+    \centering
+    \includegraphics[width=\textwidth,height=7cm]{skyrim.png}
+  \end{subfigure}
+  \caption{Cover arts for selected RPGs used in the QUEST Dataset~\cite{fallout1,baldursgate2shadowsofamn,theelderscrollsvskyrim}}
+\end{figure}
+
 \subsection{Tagging and Formatting}
 
+To enable the dataset's compatibility with autoregressive LLMs, each quest entry is serialized
+into a structured, tag-based format resembling XML. This formatting step ensures
+consistency, simplifies prompt construction, and aligns with the model's tokenization
+strategies during both training and inference.
+
+The formatting approach employs custom tags that explicitly delineate each quest
+field. Mandatory components—such as \texttt{<|begin\_objective|>}, \texttt{<|begin\_tasks|>}, and \texttt{<|begin\_quest\_giver|>}—are always included to guarantee minimum structure, while
+optional fields are conditionally inserted based on content availability. This design accommodates
+the dataset's heterogeneous nature and supports the generation of partial or
+context-dependent quests.
+
+\begin{lstlisting}[
+  language=xml,
+  caption={Snippet of the XML-like quest formatting template},
+  xleftmargin=5.5cm,
+]
+<|begin_quest|>
+<|begin_objective|>
+[Objective goes here]
+<|end_objective|>
+<|begin_tasks|>
+[Task 1]
+[Task 2]
+<|end_tasks|>
+<|begin_quest_giver|>
+[Name]: [Description]
+<|end_quest_giver|>
+...
+<|end_quest|>
+\end{lstlisting}
+
+To support this transformation, a custom Python function (\texttt{format\_quest\_as\_xml})
+was developed. It parses each quest dictionary, extracts structured elements (like \texttt{rewards},
+\texttt{locations}, or \texttt{enemies}), and generates a well-formatted string using a consistent template.
+Nested and list-based fields are joined with line breaks for model readability and
+separation of elements. The complete tagging and formatting script is available in the
+project repository\footnote{\url{https://github.com/DracoY-code/quest-generation}}.
+
+This structured formatting approach plays a critical role in preparing the dataset for
+model training. It enforces uniform tag usage, ensuring that all quest entries—regardless
+of their original source—follow a standardized input format. The design also offers flexibility,
+allowing non-essential fields to be selectively included or omitted without affecting
+structural integrity.
+
+Additionally, it facilitates controlled prompt construction, enabling fine-tuned exposure
+of specific quest attributes during training and evaluation. By converting diverse,
+game-specific data into a consistent and model-compatible format, this step serves as a
+vital bridge between raw input and effective language model utilization. Further specifications
+for the formatting procedure can be seen in Appendix~\ref{appendix:quest-dataset}.
+
 \section{Model Configuration and Training}
+
+This section describes the architecture, configuration, and training procedures used to
+fine-tune language models for the task of procedural quest generation. Given the size and
+complexity of modern LLMs, this phase incorporates efficient training strategies such as
+quantization and Low-Rank Adaptation (LoRA)~\cite{hu2022lora} to make the process more computationally
+tractable and memory efficient.
+
 \subsection{Quantization Workflow}
+
+To reduce memory usage and accelerate training, model weights were quantized using
+the BitsAndBytes\footnote{\url{https://github.com/bitsandbytes-foundation/bitsandbytes}} library. This allowed loading larger models into memory-constrained
+environments while preserving inference quality. The quantization configuration is based
+on the 4-bit NormalFloat (NF4) format with double quantization and computation performed
+in 16-bit precision (bfloat16 or float16).
+
+\begin{lstlisting}[
+  language=python,
+  caption={Quantization configuration using BitsAndBytes with 4-bit NF4 precision},
+  xleftmargin=3cm,
+]
+bnb_config = BitsAndBytesConfig(
+    load_in_4bit=True,
+    bnb_4bit_quant_type="nf4",
+    bnb_4bit_use_double_quant=True,
+    bnb_4bit_compute_dtype=torch.float16,
+)
+\end{lstlisting}
+
+This setup significantly reduces the GPU VRAM footprint without degrading downstream
+performance, enabling multi-billion parameter models to be trained on consumer-grade
+hardware or limited cloud instances.
+
+\begin{table}[H]
+  \centering
+  \scriptsize
+  \renewcommand{\arraystretch}{1.3}
+  \begin{tabularx}{0.95\textwidth}{
+    >{\raggedright\arraybackslash}p{5cm}
+    >{\centering\arraybackslash}X
+  }
+    \toprule
+    \textbf{Parameter} & \textbf{Value} \\
+    \midrule
+    \textbf{Quantization Type} & 4-bit NormalFloat (NF4) \\
+    \textbf{Compute Data Type} & \texttt{bfloat16} / \texttt{float16} \\
+    \textbf{Double Quantization} & Enabled \\
+    \textbf{Library Used} & \texttt{bitsandbytes} with Hugging Face Transformers \\
+    \bottomrule
+  \end{tabularx}
+  \caption{Quantization Configuration Summary}
+\end{table}
+
 \subsection{LoRA Adapter Integration}
+
+To further reduce the number of trainable parameters, Low-Rank Adaptation (LoRA)~\cite{hu2022lora}
+modules were employed. LoRA injects trainable low-rank matrices into the attention
+layers of transformer models, allowing efficient adaptation without modifying the base
+model weights.
+
+LoRA was selected for its efficiency and flexibility in fine-tuning LLMs. It enables
+parameter-efficient training by updating only a small subset of parameters—typically less
+than 1\% of the model's total—thereby significantly reducing both computational and
+storage overhead. Its modular nature allows adapters to be added or removed without
+altering the base model weights, facilitating plug-and-play experimentation across
+different configurations.
+
+\begin{lstlisting}[
+  language=python,
+  caption={LoRA configuration for causal language modeling using PEFT},
+  xleftmargin=2.5cm,
+]
+lora_config = LoraConfig(
+    r=4,
+    lora_alpha=8,
+    lora_dropout=0.0,
+    target_modules=["q_proj", "v_proj", "o_proj"],
+    bias="none",
+    task_type="CAUSAL_LM",
+)
+\end{lstlisting}
+
+Moreover, LoRA adapters support better generalization by mitigating
+catastrophic forgetting, preserving the base model's pre-trained knowledge while
+enabling effective learning of task-specific objectives. This configuration is implemented
+using Hugging Face's peft\footnote{\url{https://github.com/huggingface/peft}} library, which provides seamless integration of LoRA within
+transformer-based models.
+
+\begin{table}[H]
+  \centering
+  \scriptsize
+  \renewcommand{\arraystretch}{1.3}
+  \begin{tabularx}{0.95\textwidth}{
+    >{\raggedright\arraybackslash}p{5cm}
+    >{\centering\arraybackslash}X
+  }
+    \toprule
+    \textbf{Parameter} & \textbf{Value} \\
+    \midrule
+    Target Modules & Attention projection layers (\texttt{q\_proj}, \texttt{v\_proj}, \texttt{o\_proj}) \\
+    Rank ($r$) & 4 \\
+    Alpha ($\alpha$) & 8 \\
+    Dropout & 0.0 \\
+    Bias & None \\
+    Library Used & \texttt{PEFT} (Parameter-Efficient Fine-Tuning) \\
+    \bottomrule
+  \end{tabularx}
+  \caption{LoRA Adapter Integration Details}
+\end{table}
+
 \subsection{Training Pipeline Setup}
 
+This training pipeline uses Hugging Face's \texttt{transformers}\footnote{\url{https://github.com/huggingface/transformers}}, \texttt{accelerate}\footnote{\url{https://github.com/huggingface/accelerate}}, and \texttt{datasets}\footnote{\url{https://github.com/huggingface/datasets}} frameworks.
+The tokenized dataset is streamed into the model in batched form with support for gradient
+accumulation, mixed precision, and distributed training.
+
+\begin{table}[H]
+  \centering
+  \scriptsize
+  \renewcommand{\arraystretch}{1.3}
+  \begin{tabularx}{0.95\textwidth}{
+    >{\raggedright\arraybackslash}p{5cm}
+    >{\centering\arraybackslash}X
+  }
+    \toprule
+    \textbf{Feature} & \textbf{Details} \\
+    \midrule
+    Frameworks & \texttt{transformers}, \texttt{datasets}, \texttt{accelerate}, \texttt{peft} \\
+    Trainer & \texttt{transformers.Trainer} API \\
+    Tokenization & Custom tokenizer with special XML-like tokens (e.g., \texttt{<|begin\_objective|>}) \\
+    Loss function & Cross-entropy \\
+    Evaluation & Perplexity, BLEU, METEOR, BERTScore on a held-out test split \\
+    Logging & Optional integration with TensorBoard \\
+    \bottomrule
+  \end{tabularx}
+  \caption{Training Pipeline Features}
+\end{table}
+
+This training loop supports both standalone LLM fine-tuning and adapter-based modular
+fine-tuning and can be reused across multiple datasets or model architectures with
+minimal reconfiguration.
+
 \section{Evaluation Strategy}
+
+To assess the quality of generated quests, a combination of quantitative and qualitative
+evaluation methods is employed. These include standard language modeling metrics like
+perplexity, reference-based n-gram overlap metrics such as BLEU and METEOR, semantic
+similarity scoring through BERTScore, and a qualitative analysis of sample outputs to
+assess structural and narrative coherence. Each metric offers complementary insight into
+different aspects of the generation quality: fluency, relevance, semantic fidelity, and task-specific
+performance.
+
 \subsection{Perplexity}
+
+Perplexity\footnote{\url{https://huggingface.co/spaces/evaluate-metric/perplexity}} is a widely used intrinsic metric for evaluating language models. It quantifies
+how well a probability model predicts a given sequence. Formally, the perplexity of a
+language model \( M \) on a sequence of tokens \( w_1, w_2, ..., w_N \) is defined as:
+
+\begin{equation}
+  \text{Perplexity}(M) = \exp\left(-\frac{1}{N} \sum_{i=1}^{N} \log P(w_i \mid w_{<i})\right)
+\end{equation}
+
+Lower perplexity indicates that the model assigns higher probability to the actual
+next tokens in the sequence, suggesting better fluency and alignment with the target
+distribution.
+
 \subsection{BLEU}
+
+The Bilingual Evaluation Understudy\footnote{\url{https://huggingface.co/spaces/evaluate-metric/bleu}} (BLEU) score is a reference-based metric originally
+developed for machine translation. It measures the n-gram overlap between the generated
+output and one or more reference texts. The BLEU score is calculated using precision
+over n-grams and includes a brevity penalty to penalize overly short outputs. For up to
+4-grams, the score is given by:
+
+\begin{equation}
+  \text{BLEU} = \text{BP} \cdot \exp\left( \sum_{n=1}^{4} w_n \log p_n \right)
+\end{equation}
+
+where \( p_n \) is the modified precision for n-grams, \( w_n \) is the weight (typically \( \frac{1}{4} \)), and BP
+is the brevity penalty, defined as:
+
+\begin{equation}
+  \text{BP} = 
+    \begin{cases}
+    1 & \text{if } c > r \\
+    \exp\left(1 - \frac{r}{c}\right) & \text{if } c \leq r
+    \end{cases}
+\end{equation}
+
+where \( c \) is the length of the candidate and \( r \) is the length of the reference.
+
 \subsection{METEOR}
+
+METEOR\footnote{\url{https://huggingface.co/spaces/evaluate-metric/meteor}} (Metric for Evaluation of Translation with Explicit ORdering) is another
+reference-based metric that improves upon BLEU by incorporating stemming, synonymy
+matching, and flexible alignment. It computes a harmonic mean of unigram precision and
+recall, with a higher weight on recall. It also applies a fragmentation penalty to discourage
+disordered alignments. The overall score is:
+
+\begin{equation}
+  \text{METEOR} = F_{\text{mean}} \cdot (1 - Penalty)
+\end{equation}
+
+and
+
+\begin{equation}
+  F_{\text{mean}} = \frac{10 \cdot P \cdot R}{R + 9P}
+\end{equation}
+
+where \( P \) and \( R \) are unigram precision and recall, respectively.
+
 \subsection{BERTScore}
+
+BERTScore\footnote{\url{https://huggingface.co/spaces/evaluate-metric/bertscore}} evaluates semantic similarity by leveraging contextual embeddings from
+pre-trained BERT-like models. Instead of relying on exact n-gram overlap, it compares
+each token in the candidate with the most similar token in the reference using cosine
+similarity. The final score is a combination of precision, recall, and F1 computed over
+these similarity scores:
+
+\begin{equation}
+  \text{BERTScore}_{F1} = \frac{2 \cdot P \cdot R}{P + R}
+\end{equation}
+
+where precision \( P \) and recall \( R \) are calculated using cosine similarity between contextualized
+embeddings of matched tokens.
+
 \subsection{Qualitative Analysis}
+
+In addition to automated evaluation, a human-based qualitative analysis is conducted on
+a representative subset of the generated quests. This assessment focuses on several critical
+dimensions: narrative coherence, which examines the logical flow and internal consistency
+of the storyline; goal clarity, evaluating whether the objective and associated tasks are
+clearly articulated; world consistency, which ensures alignment with the fictional game's
+lore and setting; and language fluency, referring to grammatical correctness and natural
+phrasing. These qualitative insights help contextualize the numerical results and capture
+nuanced attributes of quest quality that are not fully measurable by automated metrics.
+
+\begin{table}[H]
+  \centering
+  \scriptsize
+  \renewcommand{\arraystretch}{1.3}
+  \begin{tabularx}{0.95\textwidth}{
+    >{\raggedright\arraybackslash}p{5cm}
+    >{\raggedright\arraybackslash}X
+  }
+    \toprule
+    \textbf{Criterion} & \textbf{Description} \\
+    \midrule
+    Narrative Coherence & Logical progression and internal consistency of the quest storyline \\
+    Goal Clarity & Clear articulation of objectives and task sequences \\
+    World Consistency & Adherence to the lore and world-specific constraints of the game \\
+    Language Fluency & Correct grammar, phrasing, and stylistic naturalness \\
+    \bottomrule
+  \end{tabularx}
+  \caption{Qualitative Evaluation Criteria for Generated Quests}
+\end{table}
 
 \newpage

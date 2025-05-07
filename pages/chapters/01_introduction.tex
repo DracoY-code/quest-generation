@@ -2,9 +2,210 @@
 
 \chapter{Introduction}
 
+In this chapter, we present an overview of the foundational concepts and motivations
+underlying the development of a procedural quest generation system for role-playing games
+(RPGs) using large language models (LLMs). Procedural content generation (PCG) has
+been a long-standing area of interest in game design, offering a scalable and adaptive
+means of creating game elements such as maps, levels, and narratives.
+
+Early titles such as \textit{Rogue} (1980) \cite{rogue1980} pioneered procedurally generated dungeons, laying
+the foundation for the rogue-like genre. Table-top game systems like \textit{Dungeons \&
+Dragons} \cite{dungeonsanddragons} introduced rule-driven generation of encounters and storylines, influencing
+digital design philosophies. Modern examples such as \textit{Minecraft} \cite{minecraft} employ PCG to generate
+endless, explorable terrain, while \textit{AI Dungeon} \cite{ai-dungeon} uses language models to dynamically
+create interactive narrative experiences. These systems highlight the versatility of PCG
+in generating spatial, mechanical, and narrative content across genres. However, quest
+generation, in general, presents a unique challenge due to the structured yet narrative-rich
+nature of quests that must align with both gameplay mechanics and storytelling goals.
+
+Traditional approaches to quest generation have relied heavily on handcrafted templates,
+which often lack the linguistic fluency and variability required for immersive player
+experiences. Recent advances in natural language processing (NLP), particularly with
+transformer-based architectures such as GPT and LLaMA, have demonstrated exceptional
+capabilities in generative tasks, including dialogue modeling, summarization, and
+storytelling \cite{vaswani2017attention,brown2020language}. These models are pre-trained on large corpora and can be fine-tuned
+with domain-specific datasets to generate coherent and context-aware narrative content.
+
+To address the specific task of quest generation, this project proposes a hybrid methodology
+combining quantized language models with parameter-efficient fine-tuning (PEFT)
+via LoRA adapters \cite{peft}. By leveraging dialogue and quest corpora extracted from well-established
+RPGs such as the \textit{Fallout} series \cite{fallout1,fallout2}, the \textit{Baldur's Gate} series \cite{baldursgate,baldursgate2shadowsofamn}, and the
+\textit{Elder Scrolls} series \cite{theelderscrollsivoblivion,theelderscrollsvskyrim}, the system aims to generate semantically valid, context-sensitive
+quests using a structured prompt format. The resulting system is designed to be both
+memory-efficient and scalable for integration in real-time or offline game pipelines.
+
 \section{Background}
+
+RPGs have long relied on meticulously authored content to deliver immersive narratives
+and interactive experiences. Traditionally, the creation of such content—especially quests
+and dialogue—has required extensive manual effort from writers and designers. This
+manual process limits scalability and often constrains replayability. To address these
+issues, PCG techniques have been explored to automate the creation of game elements.
+While PCG has been successfully used for generating maps, characters, terrains, and
+items, narrative generation remains a relatively underdeveloped area due to its dependence
+on linguistic coherence, contextual consistency, and player agency \cite{togelius2013procedural}.
+
+The integration of natural language generation (NLG) into PCG pipelines opens the
+possibility for automating quest creation in a way that maintains narrative richness and
+structural logic. Early rule-based systems struggled with generating diverse or semantically
+rich quests. However, the emergence of large-scale language models has significantly
+changed this landscape. Models trained on vast corpora can now generate fluent
+and varied textual outputs that mimic human-written dialogue and storytelling patterns.
+This progress enables novel applications in game development, especially for generating
+branching quests and interactive dialogues in RPGs.
+
+To effectively apply these models in games, structured datasets that include annotated
+dialogue and quest sequences are essential. Extracted corpora from games such as \textit{Fallout},
+\textit{Baldur's Gate}, and \textit{The Elder Scrolls} provide valuable resources for training these systems.
+These datasets allow the models to learn not only the language used in quests but also
+their structure, tone, and logical flow.
+
+Additionally, the ability to generate semantically relevant and structurally sound
+quests can significantly enhance dynamic storytelling and replayability, paving the way
+for adaptive and personalized game experiences.
+
 \section{Motivation}
+
+The generation of dynamic and engaging quests plays a crucial role in the player experience
+of RPGs. Traditionally, these quests are manually written by designers, a process
+that is not only time-intensive but also limits scalability and variety. As games grow larger
+in scope and players demand more personalized content, procedural methods for generating
+narrative structures become increasingly desirable. This is particularly relevant in
+open-world RPGs, where emergent storytelling and player agency are key to long-term
+engagement.
+
+This project is motivated by the potential of LLMs to automate
+the generation of quests—a process that covers various avenues like natural language processing, game
+design, and procedural content generation. By leveraging dialogue-rich datasets extracted
+from classic role-playing games and applying parameter-efficient fine-tuning techniques
+such as LoRA on quantized models, the project aims to develop a scalable and resource-efficient
+solution \cite{hu2022lora,dettmers2023qlora}. Such an approach is especially beneficial in environments with
+limited computational capacity or when rapid iteration and prototyping are required.
+
+Furthermore, this work contributes toward expanding the underexplored domain of
+narrative PCG, which remains a challenging area due to the complexities of maintaining
+narrative coherence and player engagement. The integration of LLMs into this pipeline
+offers a new perspective on how machine learning can be used not only to simulate but
+to co-create interactive storytelling experiences in games.
+
 \section{Research Objectives}
+
+The primary aim of this project is to explore the effectiveness of LLMs in generating contextually
+coherent and semantically valid quests for RPGs. Given the complex narrative
+and structural demands of quests, this project adopts a methodologically layered approach
+involving dataset construction, model quantization, and parameter-efficient fine-tuning.
+The research is guided by key questions that address both the technical implementation
+and the qualitative impact of the generated quests.
+
+The following table outlines the central research questions and their corresponding
+objectives:
+
+\noindent
+\begin{table}[H]
+  \centering
+  \scriptsize
+  \renewcommand{\arraystretch}{1.3}
+  \begin{tabularx}{0.95\textwidth}{
+    >{\centering\arraybackslash}p{1cm}
+    >{\raggedright\arraybackslash}X
+    >{\raggedright\arraybackslash}X
+  }
+  \toprule
+  \textbf{RQ\#} & \textbf{Research Question} & \textbf{Objective} \\
+  \midrule
+  RQ1
+    & How can existing quest and dialogue datasets be structured to train LLMs effectively?
+    & To design a prompt-aligned, structured dataset derived from classic RPGs to train generative models. \\
+  RQ2
+    & What are the trade-offs in using quantized LLMs for quest generation?
+    & To evaluate performance, memory efficiency, and generation quality of quantized models. \\
+  RQ3
+    & How effective is parameter-efficient fine-tuning (LoRA) for adapting LLMs to domain-specific tasks?
+    & To implement LoRA adapters and assess their contribution to generation quality and training efficiency. \\
+  RQ4
+    & What metrics can best evaluate the semantic validity and narrative coherence of generated quests?
+    & To apply both automatic (BLEU, METEOR, BERTScore, perplexity) and qualitative evaluation techniques. \\
+  RQ5
+    & Can a low-resource pipeline produce results comparable to full fine-tuning approaches?
+    & To validate that the proposed system balances efficiency and output quality in constrained environments. \\
+  \bottomrule
+  \end{tabularx}
+  \caption{Research Questions and Objectives}
+\end{table}
+
 \section{Scope and Limitations}
+
+The scope of this study encompasses the development of a low-resource, prompt-driven
+system for generating RPG-style quests using quantized causal language models fine-tuned
+with parameter-efficient techniques. The system is built around a curated dataset
+of structured quests and NPC dialogues extracted from classic role-playing games, formatted
+in an XML-like schema to align with the model's generation process. Emphasis is
+placed on creating coherent and semantically valid single-instance quest descriptions through efficient
+training pipelines that balance memory usage and generation quality. Evaluation is
+conducted using both automatic metrics and human-guided criteria to assess output quality
+from multiple perspectives.
+
+\noindent
+\begin{table}[H]
+  \centering
+  \scriptsize
+  \renewcommand{\arraystretch}{1.3}
+  \begin{tabularx}{0.95\textwidth}{
+    >{\raggedright\arraybackslash}p{5cm}
+    >{\raggedright\arraybackslash}X
+  }
+    \toprule
+    \textbf{Aspect} & \textbf{Description} \\
+    \midrule
+    Dataset Construction
+      & Focused on structuring quest and dialogue data extracted from a select set of classic RPGs using prompt-aligned, XML-like annotations. \\
+    Modeling Approach
+      & Applies quantized causal LLMs with parameter-efficient fine-tuning (LoRA) to enable low-resource adaptation to the domain. \\
+    Task Objective
+      & Targets single-instance procedural quest generation with coherent tasks and minimal dependencies across sessions. \\
+    Evaluation Strategy
+      & Combines automated metrics (BLEU, METEOR, BERTScore, perplexity) with human-assessed attributes (goal alignment, coherence, diversity). \\
+    Application Domain
+      & Tailored toward fantasy-themed role-playing games with linear or semi-branching quest structures. \\
+    \bottomrule
+  \end{tabularx}
+  \caption{Defined Scope of the Procedural Quest Generation System}
+\end{table}
+
+However, several limitations are inherent to the system's design, including constrained
+model capacity, genre-specific tuning, and limited support for persistent dialogue or long-term
+quest dependencies. These constraints inform the interpretation of results and identify
+directions for future enhancements in narrative coherence, scalability, and genre generalization.
+
+\noindent
+\begin{table}[H]
+  \centering
+  \scriptsize
+  \renewcommand{\arraystretch}{1.3}
+  \begin{tabularx}{0.95\textwidth}{
+    >{\raggedright\arraybackslash}p{5cm}
+    >{\raggedright\arraybackslash}X
+  }
+    \toprule
+    \textbf{Limitation} & \textbf{Description} \\
+    \midrule
+    Dataset Scope
+      & The dataset is restricted to a small number of RPGs, i.e., 8, which may limit genre diversity and model generalizability. \\
+    Model Capacity
+      & Fine-tuning is performed on quantized LLMs, potentially reducing expressiveness compared to full-precision, high-parameter models. \\
+    Dialog Context Management
+      & The system does not track persistent dialogue state, leading to isolated quest generations without long-term context awareness. \\
+    Narrative Depth Evaluation
+      & Evaluation focuses on surface-level lexical similarity and short-range coherence, omitting in-depth narrative or plot arc consistency. \\
+    Genre Generalization
+      & The model and prompt format are optimized for fantasy RPGs and require more adaptation for sci-fi, modern, or non-narrative games. \\
+    \bottomrule
+  \end{tabularx}
+  \caption{Identified Limitations of the Proposed Approach}
+\end{table}
+
+Despite these limitations, the study demonstrates the feasibility of using LLMs for efficient
+and controlled quest generation, thus paving the way for future improvements in narrative
+coherence, scalability, and genre adaptability.
 
 \newpage
