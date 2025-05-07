@@ -2,8 +2,144 @@
 
 \chapter{Conclusion and Future Work}
 
+In this chapter, the major contributions, findings, and limitations of this thesis are summarized.
+The chapter also outlines directions for future research and practical extensions
+of the proposed methods for procedural quest generation using LLMs. The goal is to consolidate
+the outcomes derived from the training and evaluation phases and to provide a
+critical outlook on how these findings inform future work in procedural content generation
+for RPGs.
+
 \section{Summary of Contributions}
+
+In this work, we focused on exploring and evaluating various state-of-the-art language
+models for procedural quest generation in RPGs. Our contributions can be summarized
+in several key aspects.
+
+Firstly, we conducted a comprehensive evaluation of several LLMs, including GPT-2,
+LLaMA-3, and TinyLLaMA. These models were fine-tuned and tested on tasks such as
+quest generation and performance benchmarking. Our evaluations included both training
+and generation metrics like BLEU, METEOR, BERTScore, and perplexity. These results
+provide valuable insights into how these models perform in the specific context of text
+generation for RPG quests and reveal the advantages and limitations of smaller, efficient
+models like TinyLLaMA for fine-tuning tasks. Through this, we were able to determine
+that TinyLLaMA, despite being a smaller model, offered significant benefits in terms of
+both efficiency and output quality when fine-tuned.
+
+Secondly, we analyzed the impact of fine-tuning on the models. We carefully examined
+training loss, gradient norms, and perplexity during the fine-tuning process, revealing how
+these factors influenced model performance. This analysis showed that smaller models,
+although limited in size, can outperform larger models in terms of the quality of their outputs,
+provided that they are fine-tuned effectively. The TinyLLaMA model, in particular,
+demonstrated that smaller models can strike an efficient balance between computational
+cost and generation quality.
+
+Another significant contribution was the development of a procedural quest generation
+framework that integrates text generation models into the quest design process. The
+system enables the dynamic creation of diverse and engaging quests by leveraging the
+strengths of the evaluated models, generating quest descriptions, objectives, tasks, and
+dialogues that are both coherent and contextually appropriate.
+
+We also developed a robust evaluation framework to assess the generated content
+quantitatively and qualitatively. This framework included both automated text metrics
+(such as BLEU and METEOR) and human evaluation based on creativity, coherence, and
+completeness. Additionally, we incorporated perplexity as a measure of the fluency of
+generated text. These evaluations helped us to understand the strengths and weaknesses
+of the models, leading to practical recommendations for generating high-quality quests.
+
+Overall, the research contributes to the academic understanding of LLM performance
+in RPG quest generation and provides a practical system for dynamic quest creation.
+The insights gained from this work extend the potential applications of AI in interactive
+gaming experiences.
+
 \section{Limitations}
+
+Despite the promising results and the valuable insights gained from this study, several
+important limitations must be acknowledged to present a balanced view of the research.
+These limitations span the areas of model architecture, dataset coverage, evaluation
+methodology, and real-world applicability, each of which presents challenges that could
+affect the generalizability, stability, or scalability of the findings. Recognizing these constraints
+is essential not only for interpreting the results accurately but also for guiding
+future efforts aimed at improving procedural quest generation systems.
+
+Firstly, the models used in this research, particularly GPT-2 and TinyLLaMA, while
+state-of-the-art in certain contexts, remain constrained by the quality and scope of their
+pretraining data. For example, GPT-2's pretraining corpus lacked sufficient quest-specific
+examples, which limited its ability to generate high-quality, diverse quests. While TinyLLaMA
+demonstrated high efficiency, it exhibited some instability during fine-tuning, which can hinder its practical deployment for large-scale or real-time applications.
+
+Secondly, the dataset used in this research, which was derived from older RPG quests,
+may not fully represent the diversity and evolving trends in modern RPG quest design.
+This limitation suggests that the models' generalization ability might be restricted when
+applied to newer games or more varied quest types. A more diverse and updated dataset
+could help address this issue, offering broader applicability for the models in modern game
+design.
+
+Another limitation is the reliance on both automated metrics and human judgment for
+evaluating the quality of generated quests. Automated metrics like BLEU and METEOR
+can fail to capture the creativity, depth, and nuance of narrative content, which are critical
+aspects of quest generation. Additionally, human evaluators may bring their own biases,
+which could lead to inconsistencies in the evaluation process.
+
+The scalability of these models also presents a challenge. While the models were
+evaluated on smaller-scale tasks, real-time quest generation in full-scale games presents
+additional computational and integration challenges. Using large language models for
+real-time generation could result in high latency and computational costs, especially in
+dynamic game environments with a large number of players.
+
+Finally, while the focus of this research was on RPG quest generation, the models'
+generalization to other types of narrative generation or interactive storytelling remains
+untested. Expanding the evaluation to other genres of content could provide a more
+comprehensive understanding of their capabilities.
+
 \section{Suggestions for Future Work}
+
+Several avenues for future work could build on the findings and address the limitations
+of this study, opening up broader possibilities for advancing procedural quest generation
+using language models. These include exploring larger and more diverse datasets curated
+specifically for RPG quest design, refining fine-tuning techniques using domain-adaptive
+or reinforcement learning strategies, and improving the structural coherence of generated
+quests through hybrid systems that integrate symbolic planning or knowledge graphs with
+language models \cite{ashby2023personalized}. Further research could also evaluate generated content through
+human-centered studies involving player engagement, narrative quality, and gameplay
+integration, ensuring that model outputs align with player expectations in actual game
+environments.
+
+First, exploring more advanced models, such as GPT-3 and GPT-4, could yield better
+performance in quest generation tasks. These models are trained on larger, more diverse
+datasets and could potentially outperform GPT-2 in generating more coherent and varied
+quest content. Further experiments with models that have been fine-tuned on larger
+corpora of RPG-specific data could help improve the quality of generated quests.
+
+Second, incorporating reinforcement learning (RL) into the quest generation process
+could enhance the quality and diversity of generated quests. By using RL techniques,
+models could be further fine-tuned to optimize quest structures based on specific game
+mechanics or player behavior. This approach could enable dynamic quest generation that
+adapts to a player's actions, making the experience more engaging and personalized.
+
+Another promising direction is the development of real-time quest generation systems.
+Future research could focus on reducing the computational load required by large models
+for real-time content generation. This could be achieved by optimizing model architectures,
+implementing model distillation, or using hybrid models that balance the strengths
+of larger models with the efficiency of smaller ones. Real-time quest generation could open
+new possibilities for dynamic storytelling in video games, where quests evolve in response
+to player decisions and interactions.
+
+Expanding the dataset used in this research is another important step for future work.
+A more extensive and updated dataset that includes a diverse range of quest types from
+various RPGs would help the models generate a broader array of quests. This would
+ensure that the models are not limited by the biases inherent in older datasets and could
+provide more generalized results across different game genres.
+
+Finally, further improving the evaluation framework is crucial for better assessing the
+quality of generated content. Incorporating player feedback, engagement metrics, and
+long-term player experiences could offer a more holistic view of how AI-generated quests
+impact gameplay. These metrics could complement existing evaluation tools and provide
+richer insights into the effectiveness of procedural quest generation in enhancing player
+immersion and engagement.
+
+In conclusion, expanding the scope of this research to include more advanced models,
+real-time generation systems, and improved evaluation techniques would further enhance
+the potential of AI for procedural content generation in video games, paving the way for
+more dynamic, engaging, and player-driven game experiences.
 
 \newpage
