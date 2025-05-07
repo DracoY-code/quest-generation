@@ -189,7 +189,7 @@ out/*
 
 # LaTeX intermediate and output files
 *.aux
-*.bbl
+*.bbl*
 *.bcf
 *.blg
 *.brf
@@ -197,6 +197,7 @@ out/*
 *.fls
 *.lof
 *.log
+*.lol
 *.lot
 *.nav
 *.out
