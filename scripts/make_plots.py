@@ -10,7 +10,6 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from matplotlib.axes import Axes
 from matplotlib.colors import Colormap
-from matplotlib.lines import Line2D
 
 
 # Set the default plot style
@@ -28,8 +27,8 @@ OUTPUT_DIR: Final[str] = str(Path(WORKING_DIR) / "out")
 IMAGE_DIR: Final[str] = str(Path(WORKING_DIR) / "images")
 METRIC_TYPES: Final[set[str]] = {"training", "generation"}
 FIGURE_WIDTH: Final[float] = 7.0
-FIGURE_HEIGHT: Final[float] = 3.2
-BAR_HEIGHT: Final[float] = 0.1
+FIGURE_HEIGHT: Final[float] = 5.0
+BAR_HEIGHT: Final[float] = 0.2
 
 
 class Metric(ABC):
@@ -104,33 +103,31 @@ class TrainingMetrics(Metric):
         figsize: tuple[float, float] = (FIGURE_WIDTH, FIGURE_HEIGHT),
     ) -> None:
         ax: Axes
-        metrics: set[str] = {"train_losses", "learning_rates"}
+        metric_map: dict[str, str] = {
+            "train_losses": "Training Loss",
+            "grad_norms": "Gradient Norms",
+        }
 
-        for metric in metrics:
+        for metric, ylabel in metric_map.items():
             _, ax = plt.subplots(figsize=figsize)
-            metric_name: str = metric.replace("_", " ").title()
 
-            for label, data in self.data.items():
-                epochs: list[int] = data.get(
-                    "epochs", list(range(len(data.get(metric, []))))
-                )
-                lines: list[Line2D] = ax.plot(
-                    epochs, data.get(metric, []), label=label, marker="o"
-                )
+            for model_name, model_data in self.data.items():
+                values: list[float] = model_data.get(metric, [])
+                if not values:
+                    continue
 
-                if metric == "train_losses":
-                    eval_losses: list[float] = data.get("eval_losses", [])
-                    ax.plot(
-                        [epochs[-1]],
-                        [eval_losses[0]],
-                        marker="x",
-                        color=lines[0].get_color(),
-                        label=f"{label} (eval_loss)",
-                    )
+                # Infer x-axis (epochs) if not explicitly provided
+                epochs: list[int] = model_data.get("epochs", list(range(len(values))))
 
-                ax.set_xlabel("Epochs")
-                ax.set_ylabel(metric_name)
-                ax.legend()
+                if len(epochs) > len(values):
+                    epochs = epochs[: len(values)]
+
+                # Plot each line with consistent formatting
+                ax.plot(epochs, values, marker="o", label=model_name)
+
+            ax.set_xlabel("Epochs")
+            ax.set_ylabel(ylabel)
+            ax.legend()
 
             self.save_plot_to_image_dir(
                 name=f"{name}_{metric}",
@@ -174,45 +171,74 @@ class GenerationMetrics(Metric):
     ) -> None:
         ax: Axes
         model_names: list[str] = list(self.data.keys())
-        n: int = len(model_names)
-        metrics: set[str] = {"perplexity", "bleu", "meteor", "bertscore"}
 
-        for metric in metrics:
-            _, ax = plt.subplots(figsize=figsize)
+        # Separate out metrics
+        grouped_metrics: list[str] = ["bleu", "meteor", "bertscore"]
 
-            values: list[float]
-            if metric == "bertscore":
-                values = [
-                    self.data[m].get(metric, {}).get("f1", 0.0) for m in model_names
-                ]
-            else:
-                values = [self.data[m].get(metric, 0.0) for m in model_names]
+        # Plot perplexity separately
+        perplexities = [self.data[m].get("perplexity", 0.0) for m in model_names]
+        _, ax = plt.subplots(figsize=figsize)
+        colormap = plt.get_cmap("Pastel1")(range(len(model_names)))
 
-            colormap: Colormap = plt.get_cmap("Pastel1")(range(n))
+        ax.barh(
+            range(len(model_names)),
+            perplexities,
+            color=colormap,
+            edgecolor="black",
+        )
+        ax.set_xlabel("Perplexity")
+        ax.set_yticks(range(len(model_names)))
+        ax.set_yticklabels(model_names)
+        ax.set_title("Perplexity per Model")
+
+        self.save_plot_to_image_dir(
+            name=f"{name}_perplexity",
+            format=format,
+            dpi=dpi,
+            image_dir=image_dir,
+            tight_layout=tight_layout,
+        )
+
+        # Plot BLEU, METEOR, BERTScore together
+        values_dict: dict[str, list[float]] = {metric: [] for metric in grouped_metrics}
+        for model in model_names:
+            for metric in grouped_metrics:
+                if metric == "bertscore":
+                    values_dict[metric].append(
+                        self.data[model].get(metric, {}).get("f1", 0.0)
+                    )
+                else:
+                    values_dict[metric].append(self.data[model].get(metric, 0.0))
+
+        _, ax = plt.subplots(figsize=figsize)
+        num_metrics: int = len(grouped_metrics)
+        bar_width: float = BAR_HEIGHT
+        indices: list[int] = range(len(model_names))
+        colormap: Colormap = plt.get_cmap("Pastel2")(range(num_metrics))
+
+        for i, metric in enumerate(grouped_metrics):
             ax.barh(
-                range(n),
-                values,
-                height=BAR_HEIGHT,
-                color=colormap,
+                [index + (i - num_metrics // 2) * bar_width for index in indices],
+                values_dict[metric],
+                height=bar_width,
+                color=colormap[i],
                 edgecolor="black",
+                label=(metric.title() if metric != "bertscore" else "BERTScore F1"),
             )
-            ax.set_xlabel(
-                metric.title()
-                if metric == "perplexity"
-                else "BERTScore F1"
-                if metric == "bertscore"
-                else metric.upper()
-            )
-            ax.set_yticks(range(n))
-            ax.set_yticklabels(model_names)
 
-            self.save_plot_to_image_dir(
-                name=f"{name}_{metric}",
-                format=format,
-                dpi=dpi,
-                image_dir=image_dir,
-                tight_layout=tight_layout,
-            )
+        ax.set_xlabel("Score")
+        ax.set_yticks(indices)
+        ax.set_yticklabels(model_names)
+        ax.set_title("BLEU, METEOR, BERTScore per Model")
+        ax.legend()
+
+        self.save_plot_to_image_dir(
+            name=f"{name}_text_metrics",
+            format=format,
+            dpi=dpi,
+            image_dir=image_dir,
+            tight_layout=tight_layout,
+        )
 
     def save_plot_to_image_dir(
         self,
