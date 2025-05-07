@@ -1,0 +1,196 @@
+\chapter{Experimental Setup and Hyperparameters}
+\label{appendix:experimental-setup}
+
+This appendix provides a detailed overview of the experimental setup and hyperparameters
+used throughout the training and evaluation phases of the models in this study. It
+includes the hardware and software specifications, as well as the specific configurations
+and settings used during fine-tuning the models for quest generation tasks.
+
+\section*{Hardware and Software Setup}
+
+To ensure the effective training and evaluation of the language models, a robust hardware
+setup and optimized software stack were utilized. The specifications of the hardware and
+software environments are outlined below:
+
+\begin{table}[H]
+  \centering
+  \scriptsize
+  \renewcommand{\arraystretch}{1.3}
+  \begin{tabularx}{0.95\textwidth}{
+    >{\raggedright\arraybackslash}p{5cm}
+    >{\centering\arraybackslash}X
+  }
+    \toprule
+    \textbf{Component} & \textbf{Specification} \\
+    \midrule
+    \textbf{GPU} & NVIDIA GeForce RTX 3050 Laptop (4GB VRAM) \\
+    \textbf{CPU} & 11th Gen Intel(R) Core i7-11370H 4-Core Processor \\
+    \textbf{RAM} & 16GB DDR4 \\
+    \textbf{Storage} & 512GB SSD \\
+    \bottomrule
+  \end{tabularx}
+  \caption{Hardware Setup for the Experiment}
+\end{table}
+
+\begin{table}[H]
+  \centering
+  \scriptsize
+  \renewcommand{\arraystretch}{1.3}
+  \begin{tabularx}{0.95\textwidth}{
+    >{\raggedright\arraybackslash}p{5cm}
+    >{\centering\arraybackslash}X
+  }
+    \toprule
+    \textbf{Component} & \textbf{Specification} \\
+    \midrule
+    \textbf{Operating System} & Ubuntu 20.04.6 LTS \\
+    \textbf{CUDA} & CUDA 12.8 \\
+    \textbf{Python} & Python 3.13.2 \\
+    \textbf{Docker} & Docker 20.0.4 \\
+    \textbf{Docker Base Image} & mambaorg/micromamba:2-cuda12.4.1-ubuntu20.04 \\
+    \textbf{PyTorch} & PyTorch 2.5.1 \\
+    \textbf{JupyterLab} & JupyterLab 4.3.4 \\
+    \textbf{TensorBoard} & TensorBoard 2.19.0 \\
+    \textbf{Hugging Face Accelerate} & Accelerate 1.5.2 \\
+    \textbf{Hugging Face Datasets} & Datasets 3.3.2 \\
+    \textbf{Hugging Face Evaluate} & Evaluate 0.4.3 \\
+    \textbf{Hugging Face Transformers} & Transformers 4.49.0 \\
+    \bottomrule
+  \end{tabularx}
+  \caption{Software Setup for the Experiment}
+\end{table}
+
+\section*{Models Used}
+
+The models selected for this project include both pre-trained models from OpenAI Community
+(GPT-2) and Meta AI (LLaMA) variants. The following table outlines the models
+used:
+
+\begin{table}[H]
+  \centering
+  \scriptsize
+  \renewcommand{\arraystretch}{1.3}
+  \begin{tabularx}{0.95\textwidth}{
+    >{\raggedright\arraybackslash}p{4cm}
+    >{\centering\arraybackslash}p{4cm}
+    >{\raggedright\arraybackslash}X
+  }
+    \toprule
+    \textbf{Model} & \textbf{Parameters} & \textbf{Description} \\
+    \midrule
+    \texttt{gpt2[-medium,-large]} & 124M, 355M, 774M & Each of these models was pre-trained on large-scale datasets (such as the WebText corpus for GPT-2) and then fine-tuned for quest generation tasks, with specific prompt formats and training procedures. \\
+    \texttt{Llama-3.2-1B-Instruct} & 1B & Decoder-only transformer model with improved architecture, designed for more efficient performance. \\
+    \texttt{TinyLlama-1.1B-Chat-v1.0} & 1.1B & A compact variant of LLaMA optimized for low-resource environments while maintaining performance. \\
+    \bottomrule
+  \end{tabularx}
+  \caption{Models Used for the Experiment}
+\end{table}
+
+Each of these models was pre-trained on large-scale datasets (such as the WebText
+corpus for GPT-2) and then fine-tuned for quest generation tasks, with specific prompt
+formats and training procedures.
+
+\section*{Hyperparameters for Training}
+
+In this section, we provide the hyperparameters used during the fine-tuning process.
+The hyperparameters are critical to optimizing the model's learning ability and ensuring
+efficient training.
+
+\begin{table}[H]
+  \centering
+  \scriptsize
+  \renewcommand{\arraystretch}{1.3}
+  \begin{tabularx}{0.95\textwidth}{
+    >{\raggedright\arraybackslash}p{4cm}
+    >{\centering\arraybackslash}p{3cm}
+    >{\raggedright\arraybackslash}X
+  }
+    \toprule
+    \textbf{Hyperparameter} & \textbf{Value} & \textbf{Description} \\
+    \midrule
+    \textbf{Learning Rate} & 3e-5 & Learning rate for fine-tuning the model \\
+    \textbf{Batch Size} & 4 & Batch size used for training \\
+    \textbf{Epochs} & 1 & Number of epochs for fine-tuning the models \\
+    \textbf{Seed} & 42 & Random seed for reproducibility \\
+    \textbf{Gradient Accumulation} & 2 & Number of gradient accumulation steps before updating model parameters. \\
+    \textbf{Warmup Steps} & 100 & Number of steps for the LR warm-up phase \\
+    \textbf{Gradient Clipping} & 1.0 & Gradient clipping threshold to avoid exploding gradients during training \\
+    \textbf{Max Sequence Length} & 512 & Maximum token length for input sequences \\
+    \textbf{LoRA Rank} & 4 & Controls parameter reduction for adaptation layers \\
+    \textbf{LoRA Scaling Factor} & 8 & Controls contribution of LoRA updates \\
+    \textbf{LoRA Dropout Rate} & 0.0 & Dropout rate applied to LoRA layers \\
+    \textbf{Quantization Applied} & 4-bit & Type of quantization applied to the model \\
+    \bottomrule
+  \end{tabularx}
+  \caption{Hyperparameters for the Experiment}
+\end{table}
+
+\section*{Preprocessing Steps}
+
+Prior to fine-tuning, the quest generation data underwent several preprocessing steps to
+prepare it for input into the models:
+
+\begin{table}[H]
+  \centering
+  \scriptsize
+  \renewcommand{\arraystretch}{1.3}
+  \begin{tabularx}{0.95\textwidth}{
+    >{\raggedright\arraybackslash}p{5cm}
+    >{\raggedright\arraybackslash}X
+  }
+    \toprule
+    \textbf{Step} & \textbf{Description} \\
+    \midrule
+    \textbf{Data Collection} & Gather raw quest data including objectives, tasks, and metadata. \\
+    \textbf{Data Cleaning} & Remove irrelevant or corrupted entries for consistency. \\
+    \textbf{Text Normalization} & Standardize casing, punctuation, and special characters. \\
+    \textbf{Field Mapping} & Assign structured fields (e.g., title, description, etc.) for training. \\
+    \textbf{Special Tokens} & Add tags like \texttt{\textlangle begin\_quest\textrangle} and \texttt{\textlangle end\_quest\textrangle}. \\
+    \textbf{Dataset Splitting} & Divide into train, validation, and test subsets. \\
+    \textbf{Batching} & Form batches to optimize memory and throughput. \\
+    \textbf{Tokenization} & Convert text to model-compatible token sequences. \\
+    \textbf{Padding/Truncation} & Fit sequences to the model's max length. \\
+    \bottomrule
+  \end{tabularx}
+  \caption{Data Preprocessing Steps for the Experiment}
+\end{table}
+
+\section*{Evaluation Metrics}
+
+To assess the performance of the models during and after fine-tuning, several metrics were
+employed:
+
+\begin{table}[H]
+  \centering
+  \scriptsize
+  \renewcommand{\arraystretch}{1.3}
+  \begin{tabularx}{0.95\textwidth}{
+    >{\raggedright\arraybackslash}p{5cm}
+    >{\raggedright\arraybackslash}X
+  }
+    \toprule
+    \textbf{Metric} & \textbf{Description} \\
+    \midrule
+    \textbf{Perplexity} & Measures how well a language model predicts a sample. Lower values indicate better performance. \\
+    \textbf{BLEU} & Evaluates n-gram overlap between generated and reference texts; commonly used for machine translation. \\
+    \textbf{METEOR} & Considers synonymy and stem matches in addition to exact word matches, offering better alignment with human judgments. \\
+    \textbf{BERTScore} & Computes semantic similarity between generated and reference texts using contextual embeddings from BERT. \\
+    \bottomrule
+  \end{tabularx}
+  \caption{Evaluation Metrics for the Experiment}
+\end{table}
+
+These metrics were used to measure the model's ability to generate high-quality, coherent,
+and contextually appropriate quests, which are essential for PCG tasks in games.
+
+\section*{Fine-Tuning Process}
+
+The fine-tuning process was carefully monitored to prevent overfitting. Each model
+was expected to be trained for 3-5 epochs on the quest generation dataset, with validation
+loss evaluated at the end of each epoch. Model checkpoints were saved after every epoch,
+and the checkpoint with the lowest validation loss was selected for final evaluation. To
+avoid unnecessary computation, early stopping was applied when validation loss plateaued
+across successive epochs. The training was parallelized for efficiency, utilizing gradient
+accumulation and memory optimization strategies to accommodate large models within
+the hardware constraints. In reality, only 90\% of the dataset was employed for 1 epoch
+due to these memory constraints.

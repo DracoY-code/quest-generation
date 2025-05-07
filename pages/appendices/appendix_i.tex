@@ -1,0 +1,144 @@
+\chapter{Format for the Quest Dataset}
+\label{appendix:quest-dataset}
+
+This appendix presents the formal specification of the quest dataset used in this work. The
+dataset consists of structured representations of RPG-style quests, annotated and stored
+in machine-readable formats. These formats are essential for supervised fine-tuning and
+inference using LLMs. Two formats are used: a native JSON representation for
+data storage and preprocessing, and a structured prompt format in XML-like syntax for
+training autoregressive LLMs.
+
+\section*{JSON Format Specification}
+
+The primary dataset is stored in JSON, where each quest is an object containing fields
+such as the quest giver, objectives, task list, reward structure, and other metadata. This
+format is optimal for parsing and preprocessing during the data pipeline. A sample entry is
+provided below:
+
+\begin{lstlisting}[language=json, caption={Sample Quest Dataset Format (JSON)}]
+{
+  "name": "Kill Razor",
+  "objective": "Eliminate Razor, the leader of the Blades.",
+  "first_tasks": [
+    "Locate Razor in Adytum.",
+    "Engage and eliminate Razor."
+  ],
+  "first_task_locations": [
+    {
+      "name": "Adytum",
+      "description": "A settlement in the Boneyard where the Blades reside."
+    }
+  ],
+  "quest_giver": {
+    "name": "The Regulators",
+    "description": "A militia-like group controlling Adytum, enforcing their own brand of order.",
+    "location": "Adytum"
+  },
+  "reward": [
+    {
+      "name": "Caps",
+      "description": "A monetary reward for completing the task.",
+      "amount": 0
+    },
+    {
+      "name": "Favor with the Regulators",
+      "description": "Increased reputation with the Regulators for carrying out their orders."
+    }
+  ],
+  "tools": [
+    "Weapons",
+    "Armor"
+  ],
+  "description": "The Regulators of Adytum have ordered the assassination of Razor, the leader of the Blades. You must locate and kill her.",
+  "items": "NONE",
+  "characters": "NONE",
+  "groups": "NONE",
+  "locations": "NONE",
+  "enemies": "NONE",
+  "title": "Fallout",
+  "motivation": "NONE"
+}
+\end{lstlisting}
+
+\section*{Field Descriptions}
+
+Each field in the JSON object plays a specific role in guiding the training, fine-tuning,
+or evaluation of large language models, providing structured context and supervision for
+generation tasks.
+
+\begin{table}[H]
+  \centering
+  \scriptsize
+  \renewcommand{\arraystretch}{1.3}
+  \begin{tabularx}{0.95\textwidth}{
+    >{\raggedright\arraybackslash}p{3cm}
+    >{\centering\arraybackslash}p{3cm}
+    >{\raggedright\arraybackslash}X
+    >{\centering\arraybackslash}p{2cm}
+  }
+    \toprule
+    \textbf{Field} & \textbf{Type} & \textbf{Description} & \textbf{Essential} \\
+    \midrule
+    \texttt{name} & \texttt{string} & Internal quest identifier, used for indexing. & \ding{51} \\
+    \texttt{objective} & \texttt{string} & Main goal or player task in the quest. & \ding{51} \\
+    \texttt{first\_tasks} & \texttt{array\textlangle string\textrangle} & Step-by-step initial quest actions. & \ding{51} \\
+    \texttt{first\_task\_locations} & \texttt{array\textlangle object\textrangle} & Locations relevant to initial tasks. & \ding{55} \\
+    \texttt{quest\_giver} & \texttt{object} & Entity assigning the quest; includes name, description, and location. & \ding{51} \\
+    \texttt{reward} & \texttt{array\textlangle object\textrangle} & Incentives for completion, e.g., items or faction favor. & \ding{55} \\
+    \texttt{tools} & \texttt{array\textlangle string\textrangle} & Tools/resources needed for completion. & \ding{55} \\
+    \texttt{description} & \texttt{string} & Narrative summary with context. & \ding{51} \\
+    \texttt{items} & \texttt{string/array} & Related items, "NONE" if unused. & \ding{55} \\
+    \texttt{characters} & \texttt{string/array} & Involved or affected NPCs. & \ding{55} \\
+    \texttt{groups} & \texttt{string/array} & Factions or organizations involved. & \ding{55} \\
+    \texttt{locations} & \texttt{string/array} & All geographical areas involved. & \ding{55} \\
+    \texttt{enemies} & \texttt{string/array} & Hostile entities in the quest. & \ding{55} \\
+    \texttt{title} & \texttt{string} & Game or universe title. & \ding{51} \\
+    \texttt{motivation} & \texttt{string} & Player's or NPC's reason to engage. & \ding{55} \\
+    \bottomrule
+  \end{tabularx}
+  \caption{Field Descriptions for the Quest JSON Format by V{\"a}rtinen et al. \cite{vartinen2022generating}}
+\end{table}
+
+
+\section*{XML-like Prompt Format for Autoregressive LLMs}
+
+For training decoder-only transformer models in a CLM setting, quests are converted into
+a structured prompt format using XML-like tags. This format is designed to align with
+tokenization behavior and provide field-level structure to aid in model learning.
+
+\begin{lstlisting}[language=xml, caption={Sample Quest Dataset Format (XML-like)}]
+<|begin_quest|>
+<|begin_objective|>
+Eliminate Razor, the leader of the Blades.
+<|end_objective|>
+<|begin_tasks|>
+Locate Razor in Adytum.
+Engage and eliminate Razor.
+<|end_tasks|>
+<|begin_quest_giver|>
+The Regulators: A militia-like group controlling Adytum, enforcing their own brand of order.
+<|end_quest_giver|>
+<|begin_task_locations|>
+Adytum: A settlement in the Boneyard where the Blades reside.
+<|end_task_locations|>
+<|begin_rewards|>
+Caps: A monetary reward for completing the task. (amount: 0)
+Favor with the Regulators: Increased reputation with the Regulators for carrying out their orders. (amount: NONE)
+<|end_rewards|>
+<|end_quest|>
+<|begin_description|>
+The Regulators of Adytum have ordered the assassination of Razor, the leader of the Blades. You must locate and kill her.
+<|end_description|>
+\end{lstlisting}
+
+\section*{Use in Training and Inference}
+
+The structured prompt aids both training (aligning fields with their values) and generation
+(where the model completes a partial prompt based on learned patterns).
+
+\begin{lstlisting}[language=json, caption={Sample Prompt-Response Input Format (JSON)}]
+{
+  "prompt": "<|begin_quest|>\n<|begin_objective|>\nEliminate Razor, the leader of the Blades.\n<|end_objective|>\n<|begin_tasks|>\nLocate Razor in Adytum.\nEngage and eliminate Razor.\n<|end_tasks|>\n<|begin_quest_giver|>\nThe Regulators: A militia-like group controlling Adytum, enforcing their own brand of order.\n<|end_quest_giver|>\n<|begin_task_locations|>\nAdytum: A settlement in the Boneyard where the Blades reside.\n<|end_task_locations|>\n<|begin_rewards|>\nCaps: A monetary reward for completing the task. (amount: 0)\nFavor with the Regulators: Increased reputation with the Regulators for carrying out their orders. (amount: NONE)\n<|end_rewards|>\n<|end_quest|>\n",
+  "response": "The Regulators of Adytum have ordered the assassination of Razor, the leader of the Blades. You must locate and kill her."
+}
+\end{lstlisting}
