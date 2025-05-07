@@ -25,7 +25,6 @@
   \addcontentsline{toc}{section}{List of Figures}
   \vspace{-3.5em}
   \listoffigures
-  Add list of figures here...  % TODO: Remove this line
   \newpage
 
   % List of Tables
@@ -35,7 +34,6 @@
   \addcontentsline{toc}{section}{List of Tables}
   \vspace{-3.5em}
   \listoftables
-  Add list of tables here...  % TODO: Remove this line
   \newpage
 
   % Table of Contents
@@ -58,6 +56,15 @@
   \input{pages/chapters/06_conclusion_and_future_work}
 
   % References
+  \clearpage
   \justifying
-  % \printbibliography
+  \printbibliography
+  \newpage
+
+  % Appendices
+  \clearpage
+  \appendix
+  \renewcommand{\thechapter}{\Alph{chapter}}
+  \input{pages/appendices/appendix_i}
+  \input{pages/appendices/appendix_ii}
 \end{document}

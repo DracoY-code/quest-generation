@@ -1,9 +1,12 @@
 % Preamble file for packages and configurations
 
+\usepackage{amsfonts}  % for including math fonts
 \usepackage{amsmath}  % for including mathematical equations
+\usepackage{appendix}  % for customizing appendices
 \usepackage{array}  % for vertical alignment options
 \usepackage[english]{babel}  % for handling additional characters
 \usepackage{booktabs}  % for cleaner table line appearance
+\usepackage{caption}  % for customizing captions
 \usepackage{enumitem}  % for customizing list formatting
 \usepackage{fancyhdr}  % for headers and footers
 \usepackage{float}  % for handling floating elements
@@ -12,7 +15,10 @@
 \usepackage[utf8]{inputenc}  % for complex input encodings
 \usepackage{lastpage}  % for getting total number of pages
 \usepackage{lipsum}  % for generating blind text
-\usepackage{multirow}  % for handling spanning table rows
+\usepackage{listings}  % for formatting code listings
+\usepackage{multicol}  % for handling multiple columns
+\usepackage{multirow}  % for handling mulitple rows
+\usepackage{pifont}  % for adding dingbat symbols
 \usepackage{ragged2e}  % for justifying text
 \usepackage{setspace}  % for handling line spacing
 \usepackage{subcaption}  % for adding captions to sub-figures
@@ -30,9 +36,54 @@
 \graphicspath{ {images/} }
 
 % Import the bibliography file
-\usepackage[style=ieee, backend=biber]{biblatex}
+\usepackage[style=ieee, backend=biber, citestyle=numeric-comp]{biblatex}
 \usepackage{csquotes}
 \addbibresource{references.bib}
 
 % Adjust the table row height
 \renewcommand{\arraystretch}{1.5}
+
+% JSON Listings
+\lstdefinelanguage{json}{
+  basicstyle=\ttfamily\footnotesize,  % Monospace font with smaller size
+  showstringspaces=false,  % No highlighting for spaces
+  breaklines=true,  % Allow line breaks in long lines
+  frame=none,  % No frame around the code
+  numbers=none,  % No line numbers
+  captionpos=b,  % Caption position at the bottom
+  keywordstyle=\bfseries\color{blue},  % Keywords in blue and bold
+  stringstyle=\color{orange},  % Strings in orange
+  commentstyle=\itshape\color{gray},  % Comments in italic gray
+  identifierstyle=\color{black},  % Regular identifiers in black
+  morekeywords={true,false,null}  % Additional JSON keywords
+}
+
+% XML Listings
+\lstdefinelanguage{xml}{
+  basicstyle=\ttfamily\footnotesize,  % Monospace font with smaller size
+  showstringspaces=false,  % No highlighting for spaces
+  breaklines=true,  % Allow line breaks in long lines
+  frame=none,  % No frame around the code
+  numbers=none,  % No line numbers
+  captionpos=b,  % Caption position at the bottom
+  keywordstyle=\bfseries\color{blue},  % Tags and attributes in blue
+  stringstyle=\color{orange},  % String values in orange
+  commentstyle=\itshape\color{gray},  % Comments in italic gray
+  morekeywords={xml, xmlns, version, encoding}  % Common XML keywords
+}
+
+% Python Listings
+\lstdefinelanguage{python}{
+  basicstyle=\ttfamily\footnotesize,  % Monospace font with smaller size
+  showstringspaces=false,  % No highlighting for spaces
+  breaklines=true,  % Allow line breaks in long lines
+  frame=none,  % No frame around the code
+  numbers=none,  % No line numbers
+  captionpos=b,  % Caption position at the bottom
+  keywordstyle=\bfseries\color{blue},  % Keywords in blue and bold
+  stringstyle=\color{orange},  % Strings in orange
+  commentstyle=\itshape\color{gray},  % Comments in italic gray
+  identifierstyle=\color{black},  % Regular identifiers in black
+  morekeywords={self,True,False,None,torch,BitsAndBytesConfig,LoraConfig},  % Common Python keywords
+  moredelim=**[is][\color{green}]{@}{@},
+}
