@@ -434,4 +434,42 @@ nuanced attributes of quest quality that are not fully measurable by automated m
   \caption{Qualitative Evaluation Criteria for Generated Quests}
 \end{table}
 
+\section{Text Generation Settings}
+\label{section:text-generation-settings}
+
+In this section, we outline the configuration and parameters used for the text generation
+process. The settings applied during the generation phase significantly influence the
+quality and coherence of the produced quests. For our experiments, we utilized a variety of
+hyperparameters tailored for quest generation tasks, such as prompt formatting, maximum
+sequence length, and temperature. Additionally, we considered the specific characteristics
+of each model architecture, including GPT-2 and fine-tuned variants, ensuring that the
+models were capable of producing coherent and contextually relevant outputs.
+
+\begin{table}[H]
+  \centering
+  \scriptsize
+  \renewcommand{\arraystretch}{1.3}
+  \begin{tabularx}{0.95\textwidth}{
+    >{\raggedright\arraybackslash}p{5cm}
+    >{\centering\arraybackslash}X
+  }
+    \toprule
+    \textbf{Parameter} & \textbf{Description} \\
+    \midrule
+    Prompt structure & XML-like tags (e.g., \texttt{<|begin\_objective|>}) \\
+    Max sequence length & 512 tokens \\
+    Temperature & 0.7 \\
+    Top-k sampling & 50 \\
+    Top-p sampling & 0.9 \\
+    Repetition penalty & 1.2 \\
+    \bottomrule
+  \end{tabularx}
+  \caption{Text Generation Settings}
+  \label{tab:generation-settings}
+\end{table}
+
+These settings were designed to generate high-quality, diverse quest narratives while
+maintaining structural consistency, ensuring that the generated outputs could be effectively
+evaluated using both automated metrics and human assessments.
+
 \newpage
