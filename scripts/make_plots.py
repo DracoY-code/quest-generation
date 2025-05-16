@@ -10,16 +10,18 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from matplotlib.axes import Axes
 from matplotlib.colors import Colormap
+from matplotlib.container import BarContainer
 
 
 # Set the default plot style
 sns.set_style("whitegrid")
+sns.set_palette("colorblind")
 
-plt.rc("font", size=12, family="serif", **{"serif": ["Times", "Times New Roman"]})
-plt.rc("axes", labelsize=12, titlesize=12, titlepad=10, labelpad=8)
-plt.rc("legend", fontsize=11)
-plt.rc("xtick", labelsize=10)
-plt.rc("ytick", labelsize=10)
+plt.rc("font", size=14, family="sans-serif", **{"sans-serif": ["Helvetica"]})
+plt.rc("axes", labelsize=16, titlesize=18, titlepad=14, labelpad=12)
+plt.rc("legend", fontsize=14)
+plt.rc("xtick", labelsize=14)
+plt.rc("ytick", labelsize=14)
 
 # Set the constants for the directories and figures
 WORKING_DIR: Final[str] = str(Path().resolve())
@@ -127,6 +129,7 @@ class TrainingMetrics(Metric):
 
             ax.set_xlabel("Epochs")
             ax.set_ylabel(ylabel)
+            ax.set_title(f"{ylabel} over Epochs")
             ax.legend()
 
             self.save_plot_to_image_dir(
@@ -171,74 +174,61 @@ class GenerationMetrics(Metric):
     ) -> None:
         ax: Axes
         model_names: list[str] = list(self.data.keys())
+        all_metrics: list[str] = ["Perplexity", "BLEU", "METEOR", "BERTScore"]
+        indices: list[int] = range(len(model_names))
+        colormap: Colormap = plt.get_cmap("Pastel1")(indices)
 
-        # Separate out metrics
-        grouped_metrics: list[str] = ["bleu", "meteor", "bertscore"]
-
-        # Plot perplexity separately
-        perplexities = [self.data[m].get("perplexity", 0.0) for m in model_names]
-        _, ax = plt.subplots(figsize=figsize)
-        colormap = plt.get_cmap("Pastel1")(range(len(model_names)))
-
-        ax.barh(
-            range(len(model_names)),
-            perplexities,
-            color=colormap,
-            edgecolor="black",
-        )
-        ax.set_xlabel("Perplexity")
-        ax.set_yticks(range(len(model_names)))
-        ax.set_yticklabels(model_names)
-        ax.set_title("Perplexity per Model")
-
-        self.save_plot_to_image_dir(
-            name=f"{name}_perplexity",
-            format=format,
-            dpi=dpi,
-            image_dir=image_dir,
-            tight_layout=tight_layout,
-        )
-
-        # Plot BLEU, METEOR, BERTScore together
-        values_dict: dict[str, list[float]] = {metric: [] for metric in grouped_metrics}
+        # Acquire the values for each metric in lists
+        values_dict: dict[str, list[float]] = {metric: [] for metric in all_metrics}
         for model in model_names:
-            for metric in grouped_metrics:
-                if metric == "bertscore":
+            for metric in all_metrics:
+                if metric == "BERTScore":
                     values_dict[metric].append(
-                        self.data[model].get(metric, {}).get("f1", 0.0)
+                        self.data[model].get(metric.lower(), {}).get("f1", 0.0)
                     )
                 else:
-                    values_dict[metric].append(self.data[model].get(metric, 0.0))
+                    values_dict[metric].append(
+                        self.data[model].get(metric.lower(), 0.0)
+                    )
 
-        _, ax = plt.subplots(figsize=figsize)
-        num_metrics: int = len(grouped_metrics)
-        bar_width: float = BAR_HEIGHT
-        indices: list[int] = range(len(model_names))
-        colormap: Colormap = plt.get_cmap("Pastel2")(range(num_metrics))
-
-        for i, metric in enumerate(grouped_metrics):
-            ax.barh(
-                [index + (i - num_metrics // 2) * bar_width for index in indices],
+        # Make the plots for each metric
+        for i, metric in enumerate(all_metrics):
+            _, ax = plt.subplots(figsize=figsize)
+            bars: BarContainer = ax.barh(
+                indices,
                 values_dict[metric],
-                height=bar_width,
-                color=colormap[i],
+                color=colormap,
                 edgecolor="black",
-                label=(metric.title() if metric != "bertscore" else "BERTScore F1"),
             )
 
-        ax.set_xlabel("Score")
-        ax.set_yticks(indices)
-        ax.set_yticklabels(model_names)
-        ax.set_title("BLEU, METEOR, BERTScore per Model")
-        ax.legend()
+            metric_name: str = metric if metric != "BERTScore" else "BERTScore F1"
+            ax.set_xlabel(metric_name)
+            ax.set_yticks(indices)
+            ax.set_yticklabels(model_names)
+            ax.set_title(f"{metric_name} per Model")
 
-        self.save_plot_to_image_dir(
-            name=f"{name}_text_metrics",
-            format=format,
-            dpi=dpi,
-            image_dir=image_dir,
-            tight_layout=tight_layout,
-        )
+            x_min: float = min(values_dict[metric])
+            x_max: float = max(values_dict[metric])
+            x_offset: float = (x_max - x_min) / 5
+            ax.set_xlim(x_min - x_offset, x_max + x_offset)
+
+            for bar, metric_value in zip(bars, values_dict[metric]):
+                plt.text(
+                    metric_value + x_offset / 10,
+                    bar.get_y() + bar.get_height() / 2,
+                    f"{metric_value:.3f}",
+                    va="center",
+                    fontsize=14,
+                    color="black",
+                )
+
+            self.save_plot_to_image_dir(
+                name=f"{name}_{metric.lower()}",
+                format=format,
+                dpi=dpi,
+                image_dir=image_dir,
+                tight_layout=tight_layout,
+            )
 
     def save_plot_to_image_dir(
         self,
