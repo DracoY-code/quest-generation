@@ -17,8 +17,8 @@ from matplotlib.container import BarContainer
 sns.set_style("whitegrid")
 sns.set_palette("colorblind")
 
-plt.rc("font", size=14, family="sans-serif", **{"sans-serif": ["Helvetica"]})
-plt.rc("axes", labelsize=16, titlesize=18, titlepad=14, labelpad=12)
+plt.rc("font", size=16, family="sans-serif", **{"sans-serif": ["Helvetica"]})
+plt.rc("axes", labelsize=18, titlesize=20, titlepad=16, labelpad=14)
 plt.rc("legend", fontsize=14)
 plt.rc("xtick", labelsize=14)
 plt.rc("ytick", labelsize=14)
