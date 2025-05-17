@@ -4,16 +4,14 @@
 
 In this chapter, the major contributions, findings, and limitations of this thesis are summarized.
 The chapter also outlines directions for future research and practical extensions
-of the proposed methods for procedural quest generation using LLMs. The goal is to consolidate
-the outcomes derived from the training and evaluation phases and to provide a
-critical outlook on how these findings inform future work in procedural content generation
-for RPGs.
+of the proposed methods for PQG using LLMs. The goal is to consolidate the outcomes
+derived from the training and evaluation phases and to provide a critical outlook on how
+these findings inform future work in PCG for RPGs.
 
 \section{Summary of Contributions}
 
 In this work, we focused on exploring and evaluating various state-of-the-art language
-models for procedural quest generation in RPGs. Our contributions can be summarized
-in several key aspects.
+models for PQG in RPGs. Our contributions can be summarized in several key aspects.
 
 Firstly, we conducted a comprehensive evaluation of several LLMs, including GPT-2,
 LLaMA-3, and TinyLLaMA. These models were fine-tuned and tested on tasks such as
@@ -33,11 +31,11 @@ provided that they are fine-tuned effectively. The TinyLLaMA model, in particula
 demonstrated that smaller models can strike an efficient balance between computational
 cost and generation quality.
 
-Another significant contribution was the development of a procedural quest generation
-framework that integrates text generation models into the quest design process. The
-system enables the dynamic creation of diverse and engaging quests by leveraging the
-strengths of the evaluated models, generating quest descriptions, objectives, tasks, and
-dialogues that are both coherent and contextually appropriate.
+Another significant contribution was the development of a PQG framework that integrates
+text generation models into the quest design process. The system enables the
+dynamic creation of diverse and engaging quests by leveraging the strengths of the evaluated
+models, generating quest descriptions, objectives, tasks, and dialogues that are both
+coherent and contextually appropriate.
 
 We also developed a robust evaluation framework to assess the generated content
 quantitatively and qualitatively. This framework included both automated text metrics
@@ -51,7 +49,7 @@ in RPG quest generation and provides a practical system for dynamic quest creati
 The insights gained from this work extend the potential applications of AI in interactive
 gaming experiences.
 
-\section{Limitations}
+\section{Limitations of the Study}
 
 Despite the promising results and the valuable insights gained from this study, several
 important limitations must be acknowledged to present a balanced view of the research.
@@ -59,7 +57,7 @@ These limitations span the areas of model architecture, dataset coverage, evalua
 methodology, and real-world applicability, each of which presents challenges that could
 affect the generalizability, stability, or scalability of the findings. Recognizing these constraints
 is essential not only for interpreting the results accurately but also for guiding
-future efforts aimed at improving procedural quest generation systems.
+future efforts aimed at improving PQG systems.
 
 Firstly, the models used in this research, particularly GPT-2 and TinyLLaMA, while
 state-of-the-art in certain contexts, remain constrained by the quality and scope of their
@@ -94,15 +92,14 @@ comprehensive understanding of their capabilities.
 \section{Suggestions for Future Work}
 
 Several avenues for future work could build on the findings and address the limitations
-of this study, opening up broader possibilities for advancing procedural quest generation
-using language models. These include exploring larger and more diverse datasets curated
-specifically for RPG quest design, refining fine-tuning techniques using domain-adaptive
-or reinforcement learning strategies, and improving the structural coherence of generated
-quests through hybrid systems that integrate symbolic planning or knowledge graphs with
-language models \cite{ashby2023personalized}. Further research could also evaluate generated content through
-human-centered studies involving player engagement, narrative quality, and gameplay
-integration, ensuring that model outputs align with player expectations in actual game
-environments.
+of this study, opening up broader possibilities for advancing PQG using language models.
+These include exploring larger and more diverse datasets curated specifically for
+RPG quest design, refining fine-tuning techniques using domain-adaptive or reinforcement
+learning strategies, and improving the structural coherence of generated quests through
+hybrid systems that integrate symbolic planning or knowledge graphs with language models~\cite{ashby2023personalized}.
+Further research could also evaluate generated content through human-centered
+studies involving player engagement, narrative quality, and gameplay integration, ensuring
+that model outputs align with player expectations in actual game environments.
 
 First, exploring more advanced models, such as GPT-3 and GPT-4, could yield better
 performance in quest generation tasks. These models are trained on larger, more diverse
@@ -134,12 +131,52 @@ Finally, further improving the evaluation framework is crucial for better assess
 quality of generated content. Incorporating player feedback, engagement metrics, and
 long-term player experiences could offer a more holistic view of how AI-generated quests
 impact gameplay. These metrics could complement existing evaluation tools and provide
-richer insights into the effectiveness of procedural quest generation in enhancing player
-immersion and engagement.
+richer insights into the effectiveness of PQG in enhancing player immersion
+and engagement.
+
+In addition to these broader research directions, several project-specific enhancements
+could significantly improve the current implementation. One key improvement involves
+supporting persistent dialogue or narrative memory, which would allow generated quests
+to maintain coherence and continuity across multiple interactions or quest stages. Additionally,
+adopting more sophisticated prompt engineering strategies could lead to more
+structured and contextually rich outputs, reducing dependency on rigid templates and increasing
+model adaptability to diverse quest formats.
+
+On the infrastructure side, access to a larger-memory GPU would enable training
+larger, more capable models such as GPT-3-sized architectures or newer instruction-tuned
+variants. This would also make it feasible to extend training across multiple epochs
+and utilize mixed precision (FP16) training for improved speed and memory efficiency.
+Longer training schedules, combined with gradient accumulation and learning rate warm-up
+techniques, could lead to better convergence and more stable fine-tuning, especially
+for instruction-following models adapted to the RPG domain.
+
+To support these improvements, enhancements in the dataset pipeline are also necessary.
+Improved data annotation tools would facilitate efficient and consistent expansion of 
+the training set while preserving structural integrity and narrative quality. Additionally,
+implementing smarter checkpointing mechanisms and adaptive learning rate schedules
+could reduce training instabilities, that is an issue observed particularly with lightweight
+models like TinyLLaMA. Finally, incorporating automated consistency rules to detect
+missing data and contradictions in generated outputs would further ensure the reliability
+and applicability of the system in real-world game development workflows.
 
 In conclusion, expanding the scope of this research to include more advanced models,
 real-time generation systems, and improved evaluation techniques would further enhance
 the potential of AI for procedural content generation in video games, paving the way for
 more dynamic, engaging, and player-driven game experiences.
+
+\section{Conclusion}
+
+This study demonstrated the feasibility of PQG using quantized LLMs and PEFT methods
+within resource-constrained environments. By developing a modular PQG pipeline,
+from dataset construction and prompt formatting to quantization, fine-tuning, and evaluation,
+the project established a foundational framework for generating narratively
+coherent, context-aware RPG quests. Experimental results highlighted the effectiveness
+of compact models like TinyLLaMA in balancing generation quality with computational
+efficiency, offering a practical solution for AI-assisted narrative design. Despite certain limitations
+related to dataset diversity, model scale, and real-time applicability, the outcomes contribute
+valuable insights into the integration of LLMs into PCG workflows. This work
+sets the stage for future research into hybrid generation strategies, reinforcement learning-driven
+personalization, and real-time deployment scenarios, paving the way for scalable
+and dynamic quest generation systems in modern game development.
 
 \newpage
