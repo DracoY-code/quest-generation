@@ -50,6 +50,30 @@ structures. Sarkar et al.~\cite{sarkar2020controllable} demonstrated controllabl
 
 \section{NLP Techniques for Quest Generation}
 
+\begin{table}[t]
+  \centering
+  \scriptsize
+  \renewcommand{\arraystretch}{1.3}
+  \begin{tabularx}{0.95\textwidth}{
+    >{\raggedright\arraybackslash}p{3.5cm}
+    >{\raggedright\arraybackslash}X
+    >{\raggedright\arraybackslash}X
+    >{\raggedright\arraybackslash}X
+    >{\centering\arraybackslash}p{1cm}
+  }
+    \toprule
+    \textbf{Author(s)} & \textbf{Dataset(s)} & \textbf{Model(s)} & \textbf{Evaluation(s)} & \textbf{Year} \\
+    \midrule
+    Ammanabrolu et al.~\cite{ammanabrolu2019toward} & TextWorld custom environment + generated knowledge graphs & Hybrid: Knowledge Graph + Markov + LSTM RNN & Human evaluation, success rate in quest completion & 2019 \\
+    V{\"a}rtinen et al.~\cite{vartinen2022generating} & Quest dataset from 6 major commercial RPGs (e.g., Skyrim) & Fine-tuned GPT-2 (Quest-GPT-2) & BLEU, METEOR, human preference ratings & 2022 \\
+    Ashby et al.~\cite{ashby2023personalized} & Custom RPG dataset, dialogue and quest templates & Knowledge Graph + GPT-3.5 (personalization) & BLEU, ROUGE, user preference for personalized content & 2023 \\
+    Current LLM-based works (instruction-based) & V{\"a}rtinen's dataset, custom templates, or synthetic quest data & GPT-3.5, GPT-4, Llama-2, Llama-3 (finetuned) & ROUGE, BLEU, quest structure validity, human alignment tests & 2024-25 \\
+    \bottomrule
+  \end{tabularx}
+  \caption{Summary of works focused on structured quest generation techniques}
+  \label{table:key-works}
+\end{table}
+
 NLP has become integral to procedural content generation in games, especially for generating
 narrative structures such as quests. Among various approaches, structured quest
 generation using LLMs and hybrid systems has emerged as a dominant paradigm. A
@@ -71,28 +95,16 @@ metadata, or dialogue context—to generate diverse and coherent quest content. 
 models are designed to align better with human-authored quest structures, enabling the
 generation of narrative elements that maintain logical progression and thematic consistency.
 
-\begin{table}[H]
-  \centering
-  \scriptsize
-  \renewcommand{\arraystretch}{1.3}
-  \begin{tabularx}{0.95\textwidth}{
-    >{\raggedright\arraybackslash}p{3.5cm}
-    >{\raggedright\arraybackslash}X
-    >{\raggedright\arraybackslash}X
-    >{\raggedright\arraybackslash}X
-    >{\centering\arraybackslash}p{1cm}
-  }
-    \toprule
-    \textbf{Author(s)} & \textbf{Dataset(s)} & \textbf{Model(s)} & \textbf{Evaluation(s)} & \textbf{Year} \\
-    \midrule
-    Ammanabrolu et al.~\cite{ammanabrolu2019toward} & TextWorld custom environment + generated knowledge graphs & Hybrid: Knowledge Graph + Markov + LSTM RNN & Human evaluation, success rate in quest completion & 2019 \\
-    V{\"a}rtinen et al.~\cite{vartinen2022generating} & Quest dataset from 6 major commercial RPGs (e.g., Skyrim) & Fine-tuned GPT-2 (Quest-GPT-2) & BLEU, METEOR, human preference ratings & 2022 \\
-    Ashby et al.~\cite{ashby2023personalized} & Custom RPG dataset, dialogue and quest templates & Knowledge Graph + GPT-3.5 (personalization) & BLEU, ROUGE, user preference for personalized content & 2023 \\
-    Current LLM-based works (instruction-based) & V{\"a}rtinen's dataset, custom templates, or synthetic quest data & GPT-3.5, GPT-4, Llama-2, Llama-3 (finetuned) & ROUGE, BLEU, quest structure validity, human alignment tests & 2024-25 \\
-    \bottomrule
-  \end{tabularx}
-  \caption{Summary of Key Works in Structured Quest Generation}
-\end{table}
+Table~\ref{table:key-works} presents a comparison of representative systems for structured quest generation.
+It outlines their dataset sources, modeling techniques, and evaluation strategies,
+highlighting both the evolution of methodologies and the diversity of benchmarks used
+across studies.
+
+As evident from the table, earlier models relied on handcrafted environments or symbolic
+planners, while recent approaches increasingly leverage large-scale pre-trained language
+models. However, consistent evaluation remains a challenge, with most works
+relying on task-specific metrics like BLEU~\cite{papineni02bleu} and ROUGE~\cite{lin2004looking}, which may not fully
+capture narrative quality or coherence.
 
 \section{Human Evaluation of Generated Content}
 
@@ -112,6 +124,21 @@ in their study on automated quest generation for RPGs. These evaluations often i
 ratings on creativity, narrative alignment, and the overall immersion that the generated
 quests provide.
 
+Värtinen et al.~\cite{vartinen2022generating} also conducted a survey-based evaluation as part of their Quest-GPT-2
+study. Participants were asked to compare generated quests with human-authored
+counterparts based on multiple dimensions, including structure, creativity, and plausibility
+within a game world. The results showed a preference for human-authored quests but
+highlighted the potential of fine-tuned language models to approximate professional design
+standards when guided by structured data.
+
+Recent research in human-computer interaction (HCI) also emphasizes the importance
+of player-centered design when evaluating procedurally generated narratives. For example,
+Smith et al.~\cite{smith2011pcg} argue that evaluation frameworks for PCG must consider interactivity,
+engagement, and player agency as factors that are often overlooked in standard NLP
+evaluations. HCI perspectives advocate for iterative testing with diverse user groups
+and the integration of usability metrics to ensure that generated quests support player
+satisfaction and narrative immersion across different play styles and preferences.
+
 Despite the importance of human evaluations, there are certain limitations to this
 approach. One common issue is the small sample size of participants, which can lead to
 variability in results and limit the robustness of the conclusions. Additionally, the specific
@@ -122,7 +149,8 @@ Furthermore, the subjective nature of human evaluations can introduce biases bas
 individual preferences, leading to inconsistency in ratings across different evaluators.
 
 While human evaluations remain a vital tool in quest generation research, these limitations
-underscore the need for a combination of quantitative metrics and subjective
-assessments to better understand and improve the quality of generated content.
+underscore the need for a combination of quantitative metrics, HCI-driven evaluation
+frameworks, and subjective assessments to better understand and improve the quality of
+generated content.
 
 \newpage
