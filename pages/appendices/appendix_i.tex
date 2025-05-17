@@ -62,11 +62,7 @@ provided below:
 
 \section*{Field Descriptions}
 
-Each field in the JSON object plays a specific role in guiding the training, fine-tuning,
-or evaluation of large language models, providing structured context and supervision for
-generation tasks.
-
-\begin{table}[H]
+\begin{table}[t]
   \centering
   \scriptsize
   \renewcommand{\arraystretch}{1.3}
@@ -96,9 +92,14 @@ generation tasks.
     \texttt{motivation} & \texttt{string} & Player's or NPC's reason to engage. & \ding{55} \\
     \bottomrule
   \end{tabularx}
-  \caption{Field Descriptions for the Quest JSON Format by V{\"a}rtinen et al. \cite{vartinen2022generating}}
+  \caption{Field description in the JSON schema proposed by V{\"a}rtinen et al.~\cite{vartinen2022generating}}
+  \label{table:field-desc}
 \end{table}
 
+Each field in the JSON object plays a specific role in guiding the training, fine-tuning,
+or evaluation of large language models, providing structured context and supervision for
+generation tasks. The various field descriptions for the \textit{Quest} dataset are given in
+Table~\ref{table:field-desc}.
 
 \section*{XML-like Prompt Format for Autoregressive LLMs}
 
