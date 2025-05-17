@@ -21,6 +21,130 @@ the experimental setup and the procedures followed during model training, valida
 and testing, with a focus on how the methodology ensures the generation of diverse and
 contextually rich quests for RPGs.
 
+\section{Workflow for Procedural Quest Generation}
+
+This section provides an end-to-end overview of the PQG workflow implemented in this
+study. The workflow integrates multiple components, from dataset preparation to model
+fine-tuning and evaluation, to produce coherent, context-aware, and narratively rich quests
+for RPGs. Each phase of the workflow has been designed to ensure the robustness,
+efficiency, and adaptability of the quest generation system. The workflow is structured to
+align with current best practices in NLG using instruction-tuned LLMs, while addressing
+the unique challenges of interactive narrative construction in games.
+
+The system emphasizes modularity across all stages, allowing rapid experimentation
+with models, preprocessing, and evaluation strategies. From curated, annotated quest
+datasets to prompt-based generation with lightweight fine-tuning, each component supports
+a cohesive and flexible pipeline. Quantization and parameter-efficient tuning (e.g.,
+LoRA) enable deployment in constrained environments without compromising quality.
+Generation and evaluation setups are optimized to capture both lexical accuracy and
+semantic depth. The complete workflow is represented by the flow diagram depicted in Figure~\ref{fig:pqg-workflow}.
+
+\begin{figure}[t]
+  \centering
+  \begin{tikzpicture}[
+    node distance=1cm,
+    every node/.style={font=\scriptsize},
+    step/.style={rectangle, draw=black, rounded corners, minimum width=4.5cm, minimum height=1.2cm, text centered, fill=#1!30, drop shadow},
+    desc/.style={align=left, anchor=west, font=\footnotesize, text width=8cm},
+    arrow/.style={-{Latex[length=2mm]}, thick}
+  ]
+    \node[step=blue] (data) {Dataset Collection};
+    \node[step=cyan, below=of data] (format) {Tagging \& Formatting};
+    \node[step=teal, below=of format] (prompt) {Prompt Construction};
+    \node[step=lime, below=of prompt] (model) {Model Selection};
+    \node[step=green, below=of model] (quant) {Quantization Setup};
+    \node[step=olive, below=of quant] (lora) {LoRA Adapter Integration};
+    \node[step=orange, below=of lora] (train) {Training Pipeline};
+    \node[step=yellow!80!brown, below=of train] (gen) {Generation Setup};
+    \node[step=red!60!brown, below=of gen] (eval) {Evaluation Metrics};
+
+    \node[desc, right=1.5cm of data] {Collecting domain-specific corpora consisting of fantasy and role-playing game quests to serve as training data for the generation pipeline.};
+    \node[desc, right=1.5cm of format] {Tagging entities and narrative components using structured markers (e.g., \texttt{<|begin\_objective|>}, \texttt{<|begin\_tasks|>}) and formatting them into model-compatible input sequences.};
+    \node[desc, right=1.5cm of prompt] {Creating template-based prompts that incorporate domain-specific tokens to condition the model towards generating structured quest narratives.};
+    \node[desc, right=1.5cm of model] {Selecting pre-trained language models such as GPT-2 or LLaMA that support integration with LoRA adapters and quantized fine-tuning techniques.};
+    \node[desc, right=1.5cm of quant] {Utilizing 4-bit quantization via QLoRA to significantly reduce memory usage, enabling training on consumer-grade hardware while preserving model performance.};
+    \node[desc, right=1.5cm of lora] {Embedding LoRA adapters within attention blocks to perform parameter-efficient fine-tuning with reduced computational overhead.};
+    \node[desc, right=1.5cm of train] {Executing the training process with integrated checkpointing and diagnostic tools to monitor convergence via metrics such as training loss and gradient norms.};
+    \node[desc, right=1.5cm of gen] {Setting generation hyperparameters like temperature, top-k, and top-p to balance creativity and coherence in the produced quest outputs.};
+    \node[desc, right=1.5cm of eval] {Evaluating generated quests using automated metrics (BLEU, METEOR, BERTScore) alongside manual inspection to assess lexical and semantic quality.};
+
+    \foreach \i/\j in {data/format, format/prompt, prompt/model, model/quant,quant/lora, lora/train, train/gen, gen/eval}
+      \draw[arrow] (\i) -- (\j);
+  \end{tikzpicture}
+  \caption{Flow diagram of the procedural quest generation system. It illustrates the modular pipeline used for model training and evaluation.}
+  \label{fig:pqg-workflow}
+\end{figure}
+\FloatBarrier
+
+\subsection{Dataset Collection and Formatting}
+
+The process begins with dataset preparation, a foundational step critical for training
+effective quest generation models. Due to the scarcity of structured, publicly available
+quest datasets, data is collected from a variety of sources, including open-source RPG
+scripts (e.g., \textit{Skyrim}~\cite{theelderscrollsvskyrim} and \textit{Baldur's Gate}~\cite{baldursgate}), community-maintained wikis, and synthetic
+examples generated using quest templates.
+
+The primary dataset used in this study is the V{\"a}rtinen et al.~\cite{vartinen2022generating} dataset, which
+consists of 978 manually annotated quests extracted from a diverse set of RPG titles,
+including \textit{Minecraft}~\cite{minecraft} and \textit{Torchlight II}~\cite{torchlightii}. Each quest in this dataset is represented
+in a structured XML-inspired format, comprising tags for key quest elements including
+\texttt{<|begin\_objective|>}, \texttt{<|begin\_tasks|>}, and \texttt{<|begin\_quest\_giver|>}. This format
+maintains the meaningful connections between quest elements while enabling efficient
+structured data processing for subsequent tasks.
+
+To enhance the dataset's scope and represent a broader variety of game narratives, this
+study appends 156 additional quests from the \textit{Fallout series}~\cite{fallout1,fallout2}. These quests are extracted
+manually from community-maintained sources and restructured to align with the
+XML-like format used by Vartinen et al.~\cite{vartinen2022generating}, ensuring consistency and interoperability.
+
+After consolidation, the dataset underwent preprocessing to resolve inconsistencies
+and segment each quest into well-defined narrative components. The structured quests
+are then transformed into an instruction-style prompt-response format to suit instruction-tuned
+language models. A sample of the formatted quests and the prompt-response
+formatting can be seen in Appendix~\ref{appendix:quest-dataset}.
+
+\subsection{Model Selection and Evaluation}
+
+Following dataset construction, the workflow progressed to model selection, quantization,
+and fine-tuning. Multiple pretrained language models are evaluated, including
+GPT-2 variants, TinyLLaMA, and LLaMA 3.2, to compare their performance in PQG.
+These models are chosen for their varying parameter scales, open availability, and relevance
+to instruction-based generation tasks.
+
+To enable training on resource-constrained, consumer-grade hardware, all models are
+quantized to 4-bit precision using QLoRA (Quantized Low-Rank Adaptation)~\cite{dettmers2023qlora}. This
+method significantly reduces memory usage and computational overhead while maintaining
+most of the model's generative capabilities. LoRA is used as the primary PEFT
+method, enabling efficient updates through low-rank projections without modifying the
+entire model architecture~\cite{peft,hu2022lora}.
+
+Fine-tuning is conducted using the XML-inspired, instruction-annotated dataset, converted
+into prompt-response pairs. Although true mixed-precision training is not supported
+due to backend limitations, float16 precision is employed where possible to reduce
+memory footprint. Gradient checkpointing is utilized to further optimize memory
+usage during backpropagation, and early stopping is incorporated to prevent overfitting based
+on validation loss trends. The training objective centered on minimizing cross-entropy
+loss between model outputs and target quest responses, enhancing the model's ability to
+produce coherent, context-aware, and narratively rich quests.
+
+Once fine-tuning is complete, model evaluation is conducted using a combination of
+automated metrics and comparative performance analysis. Automated evaluation involved
+standard NLG metrics, including BLEU, METEOR, and BERTScore, to assess
+lexical overlap, semantic alignment, and fluency between generated and reference quest
+narratives. In addition to these, perplexity is used as an intrinsic measure of the model's
+generative confidence, with lower perplexity indicating better language modeling performance.
+
+\subsection{Framework Scope and Limitations}
+
+While deployment and runtime integration are not the primary objectives of this study,
+the system has been developed as a procedural framework for advancing quest generation
+in low-resource environments. The emphasis is placed on designing an adaptable pipeline
+that demonstrates the feasibility of generating context-aware and narratively coherent
+quests using quantized language models and PEFT methods. Rather than targeting
+production-ready deployment, the goal is to provide a robust experimental foundation
+that can be extended with larger models, richer datasets, and more advanced training
+configurations.
+
 \section{Dataset Description and Preprocessing}
 
 This section introduces the dataset compiled for training and evaluating LLMs in the task
@@ -50,16 +174,7 @@ described in the following subsections.
 
 \subsection{Source and Specification of Dataset}
 
-The QUEST dataset is constructed by aggregating quest data from a curated collection
-of eight popular role-playing games. These include titles from both Western and sandbox
-RPG traditions, ensuring diversity in quest structure, theme, and complexity. The
-primary source of this dataset is the open-access quest corpus published by V{\"a}rtinen et
-al.~\cite{vartinen2022generating}, which includes quests from six mainstream RPGs. To enhance the dataset's
-size and narrative richness, additional quests from \textit{Fallout}~\cite{fallout1} and \textit{Fallout 2}~\cite{fallout2} were
-manually collected and structured using a semi-automated method involving an LLM
-assistant.
-
-\begin{table}[H]
+\begin{table}[t]
   \centering
   \scriptsize
   \renewcommand{\arraystretch}{1.3}
@@ -84,8 +199,36 @@ assistant.
     Total & \empty & 1134 & 99.9999\% \\
     \bottomrule
   \end{tabularx}
-  \caption{Quest Distribution by Game Title}
+  \caption{Distribution of collected quest data categorized by the game title}
 \end{table}
+
+\begin{figure}[t]
+  \begin{subfigure}[H]{0.3\textwidth}
+    \centering
+    \includegraphics[width=\textwidth,height=6.5cm]{fallout.jpg}
+  \end{subfigure}
+  \hfil
+  \begin{subfigure}[H]{0.3\textwidth}
+    \centering
+    \includegraphics[width=\textwidth,height=6.5cm]{baldurs_gate_ii.png}
+  \end{subfigure}
+  \hfil
+  \centering
+  \begin{subfigure}[H]{0.3\textwidth}
+    \centering
+    \includegraphics[width=\textwidth,height=6.5cm]{skyrim.png}
+  \end{subfigure}
+  \caption{Cover arts for selected RPGs used in the QUEST dataset~\cite{fallout1,baldursgate2shadowsofamn,theelderscrollsvskyrim}}
+\end{figure}
+
+The QUEST dataset is constructed by aggregating quest data from a curated collection
+of eight popular role-playing games. These include titles from both Western and sandbox
+RPG traditions, ensuring diversity in quest structure, theme, and complexity. The
+primary source of this dataset is the open-access quest corpus published by V{\"a}rtinen et
+al.~\cite{vartinen2022generating}, which includes quests from six mainstream RPGs. To enhance the dataset's
+size and narrative richness, additional quests from \textit{Fallout}~\cite{fallout1} and \textit{Fallout 2}~\cite{fallout2} were
+manually collected and structured using a semi-automated method involving an LLM
+assistant.
 
 Each quest entry is composed of a set of core and optional fields that reflect the semantic
 elements typically found in narrative design: goals, tasks, characters, environments,
@@ -105,25 +248,6 @@ but are preserved for flexibility in representing optional or game-specific ques
 As a result, the compiled dataset offers a comprehensive and heterogeneous benchmark
 for evaluating the narrative coherence, structural consistency, and alignment with game-world
 logic in procedurally generated quests.
-
-\begin{figure}[H]
-  \begin{subfigure}[H]{0.3\textwidth}
-    \centering
-    \includegraphics[width=\textwidth,height=7cm]{fallout.jpg}
-  \end{subfigure}
-  \hfil
-  \begin{subfigure}[H]{0.3\textwidth}
-    \centering
-    \includegraphics[width=\textwidth,height=7cm]{baldurs_gate_ii.png}
-  \end{subfigure}
-  \hfil
-  \centering
-  \begin{subfigure}[H]{0.3\textwidth}
-    \centering
-    \includegraphics[width=\textwidth,height=7cm]{skyrim.png}
-  \end{subfigure}
-  \caption{Cover arts for selected RPGs used in the QUEST Dataset~\cite{fallout1,baldursgate2shadowsofamn,theelderscrollsvskyrim}}
-\end{figure}
 
 \subsection{Tagging and Formatting}
 
@@ -180,12 +304,33 @@ for the formatting procedure can be seen in Appendix~\ref{appendix:quest-dataset
 \section{Model Configuration and Training}
 
 This section describes the architecture, configuration, and training procedures used to
-fine-tune language models for the task of procedural quest generation. Given the size and
-complexity of modern LLMs, this phase incorporates efficient training strategies such as
-quantization and Low-Rank Adaptation (LoRA)~\cite{hu2022lora} to make the process more computationally
-tractable and memory efficient.
+fine-tune language models for the task of PQG. Given the size and complexity of modern
+LLMs, this phase incorporates efficient training strategies such as quantization and Low-Rank
+Adaptation (LoRA)~\cite{hu2022lora} to make the process more computationally tractable and
+memory efficient.
 
 \subsection{Quantization Workflow}
+
+\begin{table}[t]
+  \centering
+  \scriptsize
+  \renewcommand{\arraystretch}{1.3}
+  \begin{tabularx}{0.95\textwidth}{
+    >{\raggedright\arraybackslash}p{5cm}
+    >{\centering\arraybackslash}X
+  }
+    \toprule
+    \textbf{Parameter} & \textbf{Value} \\
+    \midrule
+    Quantization Type & 4-bit NormalFloat (NF4) \\
+    Compute Data Type & \texttt{bfloat16} / \texttt{float16} \\
+    Double Quantization & Enabled \\
+    Library Used & \texttt{bitsandbytes} with Hugging Face Transformers \\
+    \bottomrule
+  \end{tabularx}
+  \caption{Quantization configurations used in model compression for training}
+  \label{table:quant-config}
+\end{table}
 
 To reduce memory usage and accelerate training, model weights were quantized using
 the BitsAndBytes\footnote{\url{https://github.com/bitsandbytes-foundation/bitsandbytes}} library. This allowed loading larger models into memory-constrained
@@ -206,11 +351,13 @@ bnb_config = BitsAndBytesConfig(
 )
 \end{lstlisting}
 
-This setup significantly reduces the GPU VRAM footprint without degrading downstream
-performance, enabling multi-billion parameter models to be trained on consumer-grade
-hardware or limited cloud instances.
+This setup, as seen in Table~\ref{table:quant-config}, significantly reduces the GPU VRAM footprint
+without degrading downstream performance, enabling multi-billion parameter models to
+be trained on consumer-grade hardware or limited cloud instances.
 
-\begin{table}[H]
+\subsection{LoRA Adapter Integration}
+
+\begin{table}[t]
   \centering
   \scriptsize
   \renewcommand{\arraystretch}{1.3}
@@ -221,16 +368,17 @@ hardware or limited cloud instances.
     \toprule
     \textbf{Parameter} & \textbf{Value} \\
     \midrule
-    \textbf{Quantization Type} & 4-bit NormalFloat (NF4) \\
-    \textbf{Compute Data Type} & \texttt{bfloat16} / \texttt{float16} \\
-    \textbf{Double Quantization} & Enabled \\
-    \textbf{Library Used} & \texttt{bitsandbytes} with Hugging Face Transformers \\
+    Target Modules & Attention projection layers (\texttt{q\_proj}, \texttt{v\_proj}, \texttt{o\_proj}) \\
+    Rank ($r$) & 4 \\
+    Alpha ($\alpha$) & 8 \\
+    Dropout & 0.0 \\
+    Bias & None \\
+    Library Used & \texttt{PEFT} (Parameter-Efficient Fine-Tuning) \\
     \bottomrule
   \end{tabularx}
-  \caption{Quantization Configuration Summary}
+  \caption{Configuration of LoRA adapter modules integrated during fine-tuning}
+  \label{table:lora-adapter}
 \end{table}
-
-\subsection{LoRA Adapter Integration}
 
 To further reduce the number of trainable parameters, Low-Rank Adaptation (LoRA)~\cite{hu2022lora}
 modules were employed. LoRA injects trainable low-rank matrices into the attention
@@ -259,41 +407,15 @@ lora_config = LoraConfig(
 )
 \end{lstlisting}
 
-Moreover, LoRA adapters support better generalization by mitigating
-catastrophic forgetting, preserving the base model's pre-trained knowledge while
-enabling effective learning of task-specific objectives. This configuration is implemented
-using Hugging Face's peft\footnote{\url{https://github.com/huggingface/peft}} library, which provides seamless integration of LoRA within
-transformer-based models.
-
-\begin{table}[H]
-  \centering
-  \scriptsize
-  \renewcommand{\arraystretch}{1.3}
-  \begin{tabularx}{0.95\textwidth}{
-    >{\raggedright\arraybackslash}p{5cm}
-    >{\centering\arraybackslash}X
-  }
-    \toprule
-    \textbf{Parameter} & \textbf{Value} \\
-    \midrule
-    Target Modules & Attention projection layers (\texttt{q\_proj}, \texttt{v\_proj}, \texttt{o\_proj}) \\
-    Rank ($r$) & 4 \\
-    Alpha ($\alpha$) & 8 \\
-    Dropout & 0.0 \\
-    Bias & None \\
-    Library Used & \texttt{PEFT} (Parameter-Efficient Fine-Tuning) \\
-    \bottomrule
-  \end{tabularx}
-  \caption{LoRA Adapter Integration Details}
-\end{table}
+Moreover, LoRA adapters support better generalization by mitigating catastrophic forgetting,
+preserving the base model's pre-trained knowledge while enabling effective learning
+of task-specific objectives. This configuration is implemented using Hugging Face's
+\texttt{peft}\footnote{\url{https://github.com/huggingface/peft}} library, which provides seamless integration of LoRA within transformer-based
+models. The configuration details of the LoRA adapter modules are listed in Table~\ref{table:lora-adapter}.
 
 \subsection{Training Pipeline Setup}
 
-This training pipeline uses Hugging Face's \texttt{transformers}\footnote{\url{https://github.com/huggingface/transformers}}, \texttt{accelerate}\footnote{\url{https://github.com/huggingface/accelerate}}, and \texttt{datasets}\footnote{\url{https://github.com/huggingface/datasets}} frameworks.
-The tokenized dataset is streamed into the model in batched form with support for gradient
-accumulation, mixed precision, and distributed training.
-
-\begin{table}[H]
+\begin{table}[t]
   \centering
   \scriptsize
   \renewcommand{\arraystretch}{1.3}
@@ -312,12 +434,53 @@ accumulation, mixed precision, and distributed training.
     Logging & Optional integration with TensorBoard \\
     \bottomrule
   \end{tabularx}
-  \caption{Training Pipeline Features}
+  \caption{Features and components included in the training pipeline}
+  \label{table:train-pipeline}
 \end{table}
+
+This training pipeline uses Hugging Face's \texttt{transformers}\footnote{\url{https://github.com/huggingface/transformers}}, \texttt{accelerate}\footnote{\url{https://github.com/huggingface/accelerate}}, and \texttt{datasets}\footnote{\url{https://github.com/huggingface/datasets}} frameworks.
+The tokenized dataset is streamed into the model in batched form with support for gradient
+accumulation, mixed precision, and distributed training.
 
 This training loop supports both standalone LLM fine-tuning and adapter-based modular
 fine-tuning and can be reused across multiple datasets or model architectures with
-minimal reconfiguration.
+minimal reconfiguration. The training configurations are listed in Table~\ref{table:train-pipeline}.
+
+\subsection{Text Generation Settings}
+\label{section:text-generation-settings}
+
+\begin{table}[t]
+  \centering
+  \scriptsize
+  \renewcommand{\arraystretch}{1.3}
+  \begin{tabularx}{0.95\textwidth}{
+    >{\raggedright\arraybackslash}p{5cm}
+    >{\centering\arraybackslash}X
+  }
+    \toprule
+    \textbf{Parameter} & \textbf{Description} \\
+    \midrule
+    Prompt structure & XML-like tags (e.g., \texttt{<|begin\_objective|>}) \\
+    Max sequence length & 512 tokens \\
+    Temperature & 0.7 \\
+    Top-k sampling & 50 \\
+    Top-p sampling & 0.9 \\
+    Repetition penalty & 1.2 \\
+    \bottomrule
+  \end{tabularx}
+  \caption{Settings used for text generation tasks}
+  \label{tab:generation-settings}
+\end{table}
+
+This subsection details the configuration and hyperparameters applied during the text
+generation phase, which critically affect the quality, diversity, and coherence of the generated
+quests. The generation parameters were carefully chosen to balance creativity with
+structural fidelity, considering the specific characteristics of each model architecture, such
+as GPT-2 and its fine-tuned variants.
+
+These parameters listed in Table~\ref{tab:generation-settings} were designed to generate high-quality, diverse quest narratives whiles
+maintaining structural consistency, ensuring that the generated outputs could be effectively
+evaluated using both automated metrics and human assessments.
 
 \section{Evaluation Strategy}
 
@@ -405,16 +568,7 @@ embeddings of matched tokens.
 
 \subsection{Qualitative Analysis}
 
-In addition to automated evaluation, a human-based qualitative analysis is conducted on
-a representative subset of the generated quests. This assessment focuses on several critical
-dimensions: narrative coherence, which examines the logical flow and internal consistency
-of the storyline; goal clarity, evaluating whether the objective and associated tasks are
-clearly articulated; world consistency, which ensures alignment with the fictional game's
-lore and setting; and language fluency, referring to grammatical correctness and natural
-phrasing. These qualitative insights help contextualize the numerical results and capture
-nuanced attributes of quest quality that are not fully measurable by automated metrics.
-
-\begin{table}[H]
+\begin{table}[t]
   \centering
   \scriptsize
   \renewcommand{\arraystretch}{1.3}
@@ -431,45 +585,18 @@ nuanced attributes of quest quality that are not fully measurable by automated m
     Language Fluency & Correct grammar, phrasing, and stylistic naturalness \\
     \bottomrule
   \end{tabularx}
-  \caption{Qualitative Evaluation Criteria for Generated Quests}
+  \caption{Qualitative criteria used for evaluating generated quests}
+  \label{table:human-eval}
 \end{table}
 
-\section{Text Generation Settings}
-\label{section:text-generation-settings}
-
-In this section, we outline the configuration and parameters used for the text generation
-process. The settings applied during the generation phase significantly influence the
-quality and coherence of the produced quests. For our experiments, we utilized a variety of
-hyperparameters tailored for quest generation tasks, such as prompt formatting, maximum
-sequence length, and temperature. Additionally, we considered the specific characteristics
-of each model architecture, including GPT-2 and fine-tuned variants, ensuring that the
-models were capable of producing coherent and contextually relevant outputs.
-
-\begin{table}[H]
-  \centering
-  \scriptsize
-  \renewcommand{\arraystretch}{1.3}
-  \begin{tabularx}{0.95\textwidth}{
-    >{\raggedright\arraybackslash}p{5cm}
-    >{\centering\arraybackslash}X
-  }
-    \toprule
-    \textbf{Parameter} & \textbf{Description} \\
-    \midrule
-    Prompt structure & XML-like tags (e.g., \texttt{<|begin\_objective|>}) \\
-    Max sequence length & 512 tokens \\
-    Temperature & 0.7 \\
-    Top-k sampling & 50 \\
-    Top-p sampling & 0.9 \\
-    Repetition penalty & 1.2 \\
-    \bottomrule
-  \end{tabularx}
-  \caption{Text Generation Settings}
-  \label{tab:generation-settings}
-\end{table}
-
-These settings were designed to generate high-quality, diverse quest narratives while
-maintaining structural consistency, ensuring that the generated outputs could be effectively
-evaluated using both automated metrics and human assessments.
+In addition to automated evaluation, a human-based qualitative analysis is conducted on
+a representative subset of the generated quests. This assessment focuses on several critical
+dimensions: narrative coherence, which examines the logical flow and internal consistency
+of the storyline; goal clarity, evaluating whether the objective and associated tasks are
+clearly articulated; world consistency, which ensures alignment with the fictional game's
+lore and setting; and language fluency, referring to grammatical correctness and natural
+phrasing. These qualitative insights help contextualize the numerical results and capture
+nuanced attributes of quest quality that are not fully measurable by automated metrics.
+The various qualitative criteria used for evaluation are listed in Table~\ref{table:human-eval}.
 
 \newpage
