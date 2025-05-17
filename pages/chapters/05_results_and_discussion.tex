@@ -4,12 +4,12 @@
 
 In this chapter, we present the outcomes of our experiments, encompassing both quantitative
 evaluations and comparative analyses across different model configurations. The aim
-is to assess the effectiveness of procedural quest generation using language models fine-tuned
-with parameter-efficient techniques such as LoRA and quantized via the NF4 format.
-Quantitative metrics—namely Perplexity, BLEU, METEOR, and BERTScore—are
-employed to evaluate both the linguistic fluency and semantic accuracy of the generated
-quests. These metrics are reported across baseline and fine-tuned versions of selected
-models to capture improvements attributable to our training pipeline.
+is to assess the effectiveness of PQG using language models fine-tuned with parameter-efficient
+techniques such as LoRA and quantized via the NF4 format. Quantitative metrics—namely
+Perplexity, BLEU, METEOR, and BERTScore—are employed to evaluate
+both the linguistic fluency and semantic accuracy of the generated quests. These metrics
+are reported across baseline and fine-tuned versions of selected models to capture
+improvements attributable to our training pipeline.
 
 Beyond numerical evaluations, we also explore model behavior through comparative
 analysis to highlight strengths, weaknesses, and trade-offs between performance and efficiency.
@@ -23,11 +23,7 @@ applications in game development.
 
 \section{Training Results}
 
-The training phase across all models was conducted over a single epoch, with progressive
-learning rate schedules and full logging of loss and gradient metrics. This section outlines
-the training behavior and convergence characteristics observed during fine-tuning.
-
-\begin{table}[H]
+\begin{table}[t]
   \centering
   \scriptsize
   \renewcommand{\arraystretch}{1.3}
@@ -48,27 +44,45 @@ the training behavior and convergence characteristics observed during fine-tunin
     TinyLLaMA-1.1B-Chat-v1.0 & \textbf{1.3555} & \textbf{1.2684} & 2.5458 & 1.0018 \\
     \bottomrule
   \end{tabularx}
-  \caption{Training and Evaluation Metrics for Each Model}
+  \caption{Training and evaluation metrics reported for each fine-tuned model}
   \label{table:training-results}
 \end{table}
+
+\begin{figure}[t]
+  \centering
+  \begin{subfigure}[t]{0.48\textwidth}
+    \centering
+    \includegraphics[width=\textwidth]{training_train_losses.png}
+    \caption{Training loss over epochs. Lower final loss indicates better convergence; sharp early declines reflect faster initial learning.}
+    \label{fig:train-loss}
+  \end{subfigure}
+  \hfill
+  \begin{subfigure}[t]{0.48\textwidth}
+    \centering
+    \includegraphics[width=\textwidth]{training_grad_norms.png}
+    \caption{Gradient norm values. Stable norms imply smooth optimization; spikes may reflect instability or poor learning rate settings.}
+    \label{fig:grad-norms}
+  \end{subfigure}
+  \vskip\baselineskip
+  \begin{subfigure}[t]{0.48\textwidth}
+    \centering
+    \includegraphics[width=\textwidth]{train_runtime.png}
+    \caption{Training runtime (log scale). Bars show log-scaled durations in seconds; labels denote exact times per model.}
+    \label{fig:runtime}
+  \end{subfigure}
+  \caption{Training diagnostics for fine-tuned models. The plots display loss progression, gradient norm stability, and overall training time, offering insight into optimization dynamics and efficiency.}
+  \label{fig:training-diagnostics}
+\end{figure}
+
+The training phase across all models was conducted over a single epoch, with progressive
+learning rate schedules and full logging of loss and gradient metrics. This section outlines
+the training behavior and convergence characteristics observed during fine-tuning.
 
 All models demonstrated a clear downward trend in training loss, reflecting consistent
 optimization progress. GPT-2 Large showed the steepest decline, ending with a final
 training loss of 1.6781, while TinyLLaMA-1.1B-Chat achieved the lowest overall value at
 1.3555. In contrast, the base GPT-2 model plateaued around 2.4868, suggesting underfitting
 relative to the other models.
-
-\begin{figure}[H]
-  \centering
-  \includegraphics[width=0.8\textwidth]{training_train_losses.png}
-  \caption{Training loss over epochs for each model. This plot shows how the training loss decreases over time for each model during fine-tuning. A lower final loss indicates better convergence, and steeper declines early on reflect faster initial learning.}
-\end{figure}
-
-\begin{figure}[H]
-  \centering
-  \includegraphics[width=0.8\textwidth]{training_grad_norms.png}
-  \caption{Gradient norm values over epochs for each model. Gradient norms reflect the magnitude of updates during training; stable values suggest smoother optimization, while spikes may indicate instability or learning rate issues.}
-\end{figure}
 
 Evaluation loss values followed a similar trend, with TinyLLaMA again achieving the
 best result at 1.268, followed by GPT-2 Large at 1.523 and GPT-2 Medium at 1.882. These
@@ -94,20 +108,7 @@ high output quality.
 
 \section{Quantitative Evaluation Results}
 
-Building on the hypothesis from related work~\cite{van2021fine}, which suggests that the GPT-2 and
-the LLaMA pretraining dataset lacks a sufficient number of quest examples for high-quality
-quest generation, we aimed to address this limitation through fine-tuning on a
-specialized dataset.
-
-Following the completion of fine-tuning and text generation, we evaluated model
-performance using a suite of automatic metrics: Perplexity, BLEU, METEOR, and
-BERTScore. These were chosen to capture various dimensions of output quality, such
-as fluency, lexical overlap with reference texts, and semantic similarity. To ensure consistency
-across model comparisons, all generations were produced using identical text
-generation settings, including prompt structure, sampling strategies, and maximum sequence
-lengths, as described in Section~\ref{section:text-generation-settings}.
-
-\begin{table}[H]
+\begin{table}[t]
   \centering
   \scriptsize
   \renewcommand{\arraystretch}{1.3}
@@ -128,9 +129,55 @@ lengths, as described in Section~\ref{section:text-generation-settings}.
     TinyLLaMA-1.1B-Chat-v1.0 & \textbf{3.56} & \textbf{0.0307} & 0.2184 & \textbf{0.7879} \\
     \bottomrule
   \end{tabularx}
-  \caption{Quantitative Evaluation Results for Fine-tuned Models}
+  \caption{Detailed quantitative evaluation results for each fine-tuned model}
   \label{table:quant-results}
 \end{table}
+
+\begin{figure}[t]
+  \centering
+  \begin{subfigure}[t]{0.48\textwidth}
+    \centering
+    \includegraphics[width=\textwidth]{generation_perplexity.png}
+    \caption{Perplexity scores after fine-tuning. Lower values indicate better language modeling ability.}
+    \label{fig:perplexity}
+  \end{subfigure}
+  \hfill
+  \begin{subfigure}[t]{0.48\textwidth}
+    \centering
+    \includegraphics[width=\textwidth]{generation_bleu.png}
+    \caption{BLEU scores of generated quests. Higher scores reflect stronger lexical overlap with references.}
+    \label{fig:bleu}
+  \end{subfigure}
+  \vskip\baselineskip
+  \begin{subfigure}[t]{0.48\textwidth}
+    \centering
+    \includegraphics[width=\textwidth]{generation_meteor.png}
+    \caption{METEOR scores, incorporating synonymy and stemming. Higher values indicate better semantic alignment.}
+    \label{fig:meteor}
+  \end{subfigure}
+  \hfill
+  \begin{subfigure}[t]{0.48\textwidth}
+    \centering
+    \includegraphics[width=\textwidth]{generation_bertscore.png}
+    \caption{BERTScore F1 scores. Measures contextual semantic similarity using transformer embeddings.}
+    \label{fig:bertscore}
+  \end{subfigure}
+  \caption{Automated evaluation results across models. The plots illustrate language modeling quality (Perplexity) and output similarity with reference quests using BLEU, METEOR, and BERTScore.}
+  \label{fig:evaluation-metrics}
+\end{figure}
+
+Building on the hypothesis from related work~\cite{van2021fine}, which suggests that the GPT-2 and
+the LLaMA pretraining dataset lacks a sufficient number of quest examples for high-quality
+quest generation, we aimed to address this limitation through fine-tuning on a
+specialized dataset.
+
+Following the completion of fine-tuning and text generation, we evaluated model
+performance using a suite of automatic metrics: Perplexity, BLEU, METEOR, and
+BERTScore. These were chosen to capture various dimensions of output quality, such
+as fluency, lexical overlap with reference texts, and semantic similarity. To ensure consistency
+across model comparisons, all generations were produced using identical text
+generation settings, including prompt structure, sampling strategies, and maximum sequence
+lengths, as described in Section~\ref{section:text-generation-settings}.
 
 By applying these metrics to both GPT-2 and LLaMA models with their increasing
 sizes, we aim to quantify the improvements attributable to domain-specific learning.
@@ -138,18 +185,6 @@ Moreover, these quantitative evaluations form the basis for further model compar
 allowing us to investigate how architecture type, parameter scale, and fine-tuning strategy
 contribute to performance in structured narrative generation tasks. Results are reported
 in Table~\ref{table:quant-results} and are further analyzed in the following sections.
-
-\begin{figure}[H]
-  \centering
-  \includegraphics[width=0.8\textwidth]{generation_perplexity.png}
-  \caption{Perplexity scores for each model after fine-tuning. Lower perplexity indicates better language modeling ability, meaning the model assigns higher probability to the correct next token during generation.}
-\end{figure}
-
-\begin{figure}[H]
-  \centering
-  \includegraphics[width=0.9\textwidth]{generation_text_metrics.png}
-  \caption{Text generation quality metrics for each model, including BLEU, METEOR, and BERTScore F1. These metrics assess the overlap and semantic similarity between generated and reference text. Higher scores represent better generation performance.}
-\end{figure}
 
 The quantitative evaluation results offer clear insights into the effectiveness of fine-tuning
 for quest generation. Perplexity, a measure of language model confidence, was lowest
@@ -206,11 +241,24 @@ count—demonstrates that smaller models, when fine-tuned effectively, can compe
 or surpass larger ones on domain-specific tasks. This highlights their potential for use in
 real-time or resource-constrained game development environments.
 
+Compared to the experiments conducted by V{\"a}rtinen et al.~\cite{vartinen2022generating}, which reported issues
+such as overfitting, inconsistent handling of entities, and incomplete coverage of
+quest elements, the models evaluated in this study exhibited more stable training behavior
+and stronger alignment with target outputs. While the earlier work noted that the
+larger GPT-2 variant outperformed its smaller counterpart in coherence and coverage, this
+study finds similar trends, with larger or more recent models like TinyLLaMA and GPT-2 Large
+achieving higher scores across multiple evaluation metrics. Additionally, although
+the reference study observed higher perplexity with XML-like formats, the prompt-aligned
+structure used here did not appear to negatively impact model performance. These findings
+suggest that model architecture, fine-tuning configuration, and prompt design all play
+important roles in shaping the quality and consistency of generated quests, particularly
+in domain-specific contexts.
+
 In summary, the experiments validate the role of fine-tuning in enhancing LLM performance
-on procedural quest generation. Both quantitative metrics and training behavior
-confirm that adaptation enables models to better internalize structural patterns, narrative
-conventions, and content constraints of the RPG domain. These findings lay a strong
-foundation for further research involving longer training schedules, multi-turn dialogue
-integration, or hybrid systems incorporating symbolic planners and knowledge graphs.
+on PQG. Both quantitative metrics and training behavior confirm that adaptation
+enables models to better internalize structural patterns, narrative conventions,
+and content constraints of the RPG domain. These findings lay a strong foundation for further
+research involving longer training schedules, multi-turn dialogue integration, or hybrid
+systems incorporating symbolic planners and knowledge graphs~\cite{ashby2023personalized}.
 
 \newpage
