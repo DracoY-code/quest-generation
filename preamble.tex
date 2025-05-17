@@ -19,6 +19,7 @@
 \usepackage{multicol}  % for handling multiple columns
 \usepackage{multirow}  % for handling mulitple rows
 \usepackage{pifont}  % for adding dingbat symbols
+\usepackage{placeins}  % for handling float positions
 \usepackage{ragged2e}  % for justifying text
 \usepackage{setspace}  % for handling line spacing
 \usepackage{subcaption}  % for adding captions to sub-figures
@@ -31,6 +32,10 @@
 % For formatting urls correctly
 \usepackage[hyphens]{url}
 \usepackage[hidelinks, breaklinks]{hyperref}
+
+% For creating graphics and diagrams
+\usepackage{tikz}
+\usetikzlibrary{positioning, arrows.meta, shapes.geometric, shadows}
 
 % Select the correct path to the images
 \graphicspath{ {images/} }
