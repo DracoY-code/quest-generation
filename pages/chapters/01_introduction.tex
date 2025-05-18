@@ -9,12 +9,11 @@ field of procedural content generation (PCG) has been a long-standing area of in
 game design, offering a scalable and adaptive means of creating game elements such as
 maps, levels, and narratives.
 
-The process of procedural content generation involves algorithmically creating game
-content—such as environments, items, characters, and narratives—through predefined
-computational methods, rather than relying solely on manual authoring by human designers.
-The central aim of PCG is to automate aspects of game content creation in a
-way that reduces development time and labor while increasing variability, replayability,
-and scalability.
+The process of PCG involves algorithmically creating game content—such as environments,
+items, characters, and narratives—through predefined computational methods,
+rather than relying solely on manual authoring by human designers. The central aim of
+PCG is to automate aspects of game content creation in a way that reduces development
+time and labor while increasing variability, replayability, and scalability.
 
 Procedural generation techniques are typically rule-based or stochastic in nature, incorporating
 elements of randomness, heuristics, grammar systems, or machine learning to
@@ -24,16 +23,15 @@ and gameplay consistency. These systems are particularly useful in large-scale o
 open-world games, where the manual creation of unique assets for every player experience
 is impractical.
 
-The history of procedural content generation spans both digital and analog gaming
-traditions. Early digital games such as \textit{Rogue} (1980)~\cite{rogue1980} pioneered procedurally generated
-dungeons, laying the foundation for the "roguelike" genre and demonstrating how
-algorithmic systems can create replayable gameplay experiences. On the analog side,
-table-top game systems like \textit{Dungeons \& Dragons}~\cite{dungeonsanddragons} introduced rule-driven generation of
-encounters and storylines, influencing digital design philosophies. Modern examples such
-as \textit{Minecraft}~\cite{minecraft} employ PCG to generate endless, explorable terrain, while \textit{AI Dungeon}~\cite{ai-dungeon}
-uses language models to dynamically create interactive narrative experiences. These
-systems highlight the versatility of PCG in generating spatial, mechanical, and narrative
-content across genres.
+The history of PCG spans both digital and analog gaming traditions. Early digital
+games such as \textit{Rogue} (1980)~\cite{rogue1980} pioneered procedurally generated dungeons, laying the
+foundation for the "roguelike" genre and demonstrating how algorithmic systems can create
+replayable gameplay experiences. On the analog side, table-top game systems like
+\textit{Dungeons \& Dragons}~\cite{dungeonsanddragons} introduced rule-driven generation of encounters and storylines,
+influencing digital design philosophies. Modern examples such as \textit{Minecraft}~\cite{minecraft} employ
+PCG to generate endless, explorable terrain, while \textit{AI Dungeon}~\cite{ai-dungeon} uses language models
+to dynamically create interactive narrative experiences. These systems highlight the
+versatility of PCG in generating spatial, mechanical, and narrative content across genres.
 
 Game content generated through procedural methods covers a broad spectrum, including
 spatial elements like terrain, maps, and dungeons (as seen in \textit{Rogue}~\cite{rogue1980} and
@@ -195,16 +193,16 @@ annotated formats that are aligned with narrative objectives or quest semantics.
 absence of open-source, standardized RPG quest datasets remains a major bottleneck for
 reproducible research.
 
-Even after fine-tuning, LLMs often exhibit semantic inconsistencies and logical drift \cite{luo2023empirical,huang2025survey}.
-These issues commonly manifest as contradictions between non-player character
-(NPC) dialogue and quest objectives, incoherent character behaviors, or violations of the
-game world's internal logic. Such breakdowns largely arise from the absence of explicit
-state tracking or grounding mechanisms in these models. Since LLMs lack an inherent understanding
-of world state, quest dependencies, and previously generated content, they are
-prone to disrupting narrative causality and coherence. Although integrating LLMs with
-structured memory systems, finite state machines, or symbolic representations of world
-models holds promise, such hybrid approaches remain relatively underexplored within the
-domain of PCG, particularly for narrative tasks.
+Even after fine-tuning, certain LLMs often exhibit semantic inconsistencies and logical
+drift~\cite{luo2023empirical,huang2025survey}. These issues commonly manifest as contradictions between non-player
+character (NPC) dialogue and quest objectives, incoherent character behaviors, or violations
+of the game world's internal logic. Such breakdowns largely arise from the absence
+of explicit state tracking or grounding mechanisms in these models. Since LLMs lack an
+inherent understanding of world state, quest dependencies, and previously generated content,
+they are prone to disrupting narrative causality and coherence. Although integrating
+LLMs with structured memory systems, finite state machines, or symbolic representations
+of world models holds promise, such hybrid approaches remain relatively underexplored
+within the domain of PCG, particularly for narrative tasks.
 
 Another significant research gap exists in the evaluation of procedurally generated
 narratives. Unlike spatial or mechanical content—such as levels or terrains—that can be
@@ -283,12 +281,11 @@ variants to reduce memory usage while maintaining generation quality. The effect
 of these optimizations in real-world, resource-limited scenarios remains an important
 consideration for scalable deployment of LLM-based quest generators.
 
-Thus, this study explores the problem of evaluating large language models in their
-capacity to generate coherent and semantically rich quest descriptions, with a focus on
-standardized NLG metrics such as BLEU, METEOR, BERTScore, and perplexity. In
-parallel, it investigates how model quantization and PEFT techniques influence both the
-narrative quality and computational efficiency of these models when deployed in resource-constrained
-environments.
+Thus, this study explores the problem of evaluating LLMs in their capacity to generate
+coherent and semantically rich quest descriptions, with a focus on standardized NLG
+metrics such as BLEU, METEOR, BERTScore, and perplexity. In parallel, it investigates
+how model quantization and PEFT techniques influence both the narrative quality and
+computational efficiency of these models when deployed in resource-constrained environments.
 
 \section{Research Objectives}
 

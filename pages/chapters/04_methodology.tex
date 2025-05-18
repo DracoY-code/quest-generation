@@ -222,13 +222,12 @@ described in the following subsections.
 \end{figure}
 
 The QUEST dataset is constructed by aggregating quest data from a curated collection
-of eight popular role-playing games. These include titles from both Western and sandbox
-RPG traditions, ensuring diversity in quest structure, theme, and complexity. The
-primary source of this dataset is the open-access quest corpus published by V{\"a}rtinen et
-al.~\cite{vartinen2022generating}, which includes quests from six mainstream RPGs. To enhance the dataset's
-size and narrative richness, additional quests from \textit{Fallout}~\cite{fallout1} and \textit{Fallout 2}~\cite{fallout2} were
-manually collected and structured using a semi-automated method involving an LLM
-assistant.
+of eight popular RPGs. These include titles from both Western and sandbox RPG traditions,
+ensuring diversity in quest structure, theme, and complexity. The primary source of
+this dataset is the open-access quest corpus published by V{\"a}rtinen et al.~\cite{vartinen2022generating}, which
+includes quests from six mainstream RPGs. To enhance the dataset's size and narrative
+richness, additional quests from \textit{Fallout}~\cite{fallout1} and \textit{Fallout 2}~\cite{fallout2} were manually collected
+and structured using a semi-automated method involving an LLM assistant.
 
 Each quest entry is composed of a set of core and optional fields that reflect the semantic
 elements typically found in narrative design: goals, tasks, characters, environments,
@@ -305,9 +304,8 @@ for the formatting procedure can be seen in Appendix~\ref{appendix:quest-dataset
 
 This section describes the architecture, configuration, and training procedures used to
 fine-tune language models for the task of PQG. Given the size and complexity of modern
-LLMs, this phase incorporates efficient training strategies such as quantization and Low-Rank
-Adaptation (LoRA)~\cite{hu2022lora} to make the process more computationally tractable and
-memory efficient.
+LLMs, this phase incorporates efficient training strategies such as quantization and LoRA~\cite{hu2022lora} to
+make the process more computationally tractable and memory efficient.
 
 \subsection{Quantization Workflow}
 

@@ -5,19 +5,19 @@
 In this chapter, the foundational concepts and technologies underpinning the proposed system for procedural
 quest generation are presented. This includes an overview of
 LLMs, their architectural properties—particularly autoregressive transformer-based models—and
-their adaptation through quantization and parameter-efficient fine-tuning methods
-such as Low-Rank Adaptation (LoRA). The chapter also explores PCG principles
-in the context of RPGs, detailing how narrative structures, dialogue systems, and quest
-schemas are typically modeled. Relevant evaluation metrics for natural language generation
-tasks are described to support the rationale for the chosen assessment methods. This
-background provides the necessary technical context for understanding the system design
-and experimental procedures discussed in subsequent chapters.
+their adaptation through quantization and PEFT methods such as Low-Rank
+Adaptation (LoRA). The chapter also explores PCG principles in the context of RPGs,
+detailing how narrative structures, dialogue systems, and quest schemas are typically
+modeled. Relevant evaluation metrics for natural language generation tasks are described
+to support the rationale for the chosen assessment methods. This background provides
+the necessary technical context for understanding the system design and experimental
+procedures discussed in subsequent chapters.
 
-\section{Large Language Models}
+\section{Large Language Models (LLMs)}
 
 LLMs are neural architectures trained on large corpora of text data to model the probability
 distribution of token sequences. These models are typically based on transformer
-decoder architectures introduced by Vaswani et al. \cite{vaswani2017attention}, and are designed to generate text
+decoder architectures introduced by Vaswani et al.~\cite{vaswani2017attention}, and are designed to generate text
 autoregressively—that is, one token at a time conditioned on the previous context. The
 models used in this study—GPT-2, LLaMA 3.2, and TinyLlama—are causal LLMs suitable
 for text generation tasks, including PQG, and vary in scale, training data, and
@@ -76,9 +76,9 @@ the model to assign higher probabilities to ground truth sequences.
   \label{table:gpt2_comparison}
 \end{table}
 
-GPT-2 is a unidirectional transformer decoder-only model developed by OpenAI \cite{radford2019language}, designed
+GPT-2 is a unidirectional transformer decoder-only model developed by OpenAI~\cite{radford2019language}, designed
 specifically for autoregressive language modeling. It comes in multiple sizes—GPT-2
-(124M) \cite{gpt2}, GPT-2 Medium (355M) \cite{gpt2medium}, and GPT-2 Large (774M) \cite{gpt2large}—all of which
+(124M)~\cite{gpt2}, GPT-2 Medium (355M)~\cite{gpt2medium}, and GPT-2 Large (774M)~\cite{gpt2large}—all of which
 are used in this study. The architecture features Layer Normalization (LayerNorm), which
 stabilizes training and accelerates convergence by normalizing activations across features,
 and GELU (Gaussian Error Linear Unit) activations, which offer smooth, non-linear transformations
@@ -129,9 +129,9 @@ instruction-tuned generative models in 1B and 3B sizes for multilingual dialogue
 cases, including agentic retrieval and summarization tasks. It is an auto-regressive language
 model that uses an optimized transformer architecture, where the tuned versions use
 supervised fine-tuning (SFT) and reinforcement learning with human feedback (RLHF)
-to align with human preferences for helpfulness and safety \cite{dao2023flashattention2,touvron2023llama}.
+to align with human preferences for helpfulness and safety~\cite{dao2023flashattention2,touvron2023llama}.
 
-Llama-3.2-1B-Instruct \cite{llama32} is a lightweight version of Meta's LLaMA-3 series, trained on
+Llama-3.2-1B-Instruct~\cite{llama32} is a lightweight version of Meta's LLaMA-3 series, trained on
 a refined mixture of publicly available datasets. It incorporates recent advancements
 in pretraining methods and scaling strategies. This 1B-parameter model is used for
 instruction-following tasks, and its architecture balances generation quality with compute
@@ -149,10 +149,10 @@ decoder-only transformer architecture, incorporating rotary positional embedding
 better nonlinear representation learning. The model consists of 22 transformer layers, 32
 attention heads, and a total of 1.1 billion parameters.
 
-TinyLlama \cite{tinyllama,zhang2024tinyllama} is pre-trained on a curated corpus of approximately 3 trillion tokens, which
+TinyLlama~\cite{tinyllama,zhang2024tinyllama} is pre-trained on a curated corpus of approximately 3 trillion tokens, which
 includes a mix of web-scale and instruction datasets, enabling strong generalization and
 alignment capabilities. It uses grouped-query attention (GQA) to reduce memory usage
-and inference latency—especially relevant in chat-style, single-turn generation tasks \cite{lit-gpt,dao2023flashattention2}.
+and inference latency—especially relevant in chat-style, single-turn generation tasks~\cite{lit-gpt,dao2023flashattention2}.
 
 It is specifically optimized for instruction-following and dialogue generation and performs
 reliably in low-resource environments such as mobile devices or edge deployments.
@@ -191,33 +191,31 @@ all model parameters, which results in expensive gradient computations and leads
 full-size model copies for task-specific variants. This becomes prohibitive, particularly
 in settings with limited resources or when maintaining multiple downstream models.
 
-Parameter-efficient fine-tuning (PEFT) techniques mitigate this by freezing the pre-trained
-model weights and introducing lightweight, trainable components that allow for
-task adaptation without updating the entire model. These techniques are particularly
-suited for LLMs where full fine-tuning is prohibitively expensive in terms of memory,
-compute, and storage. PEFT methods reduce the number of trainable parameters, enable
-faster convergence, and allow storage-efficient deployment by preserving a shared
-backbone model and learning only small, modular adapters for downstream tasks. These
-approaches are critical in low-resource environments or in scenarios where multiple task-specific
-models are needed from a shared base. Some common PEFT techniques are
-described in Table~\ref{table:common_peft}.
+PEFT techniques mitigate this by freezing the pre-trained model weights and introducing
+lightweight, trainable components that allow for task adaptation without updating the
+entire model. These techniques are particularly suited for LLMs where full fine-tuning is
+prohibitively expensive in terms of memory, compute, and storage. PEFT methods reduce
+the number of trainable parameters, enable faster convergence, and allow storage-efficient
+deployment by preserving a shared backbone model and learning only small, modular
+adapters for downstream tasks. These approaches are critical in low-resource environments
+or in scenarios where multiple task-specific models are needed from a shared base.
+Some common PEFT techniques are described in Table~\ref{table:common_peft}.
 
 \subsection{LoRA: Low-Rank Adaptation of LLMs}
 
 \begin{figure}[t]
   \centering
   \includegraphics[width=0.9\textwidth]{adapters.jpg}
-  \caption{Adapter module integration by Houlsby et al. \cite{houlsby2019parameter}}
+  \caption{Adapter module integration by Houlsby et al.~\cite{houlsby2019parameter}}
 \end{figure}
 
-Low-Rank Adaptation (LoRA) is a parameter-efficient fine-tuning method that introduces
-low-rank trainable matrices into the weight structure of a pre-trained model, allowing
-task-specific adaptation without updating the full parameter space \cite{hu2022lora}. Traditional full
-fine-tuning methods modify all model weights, which becomes infeasible for large-scale
-models due to high memory and storage costs. LoRA addresses this by freezing the
-original model weights and learning low-rank decomposition matrices that are injected
-into specific parts of the architecture—commonly the query and value projections in the
-attention mechanism.
+Low-Rank Adaptation (LoRA) is a PEFT method that introduces low-rank trainable
+matrices into the weight structure of a pre-trained model, allowing task-specific adaptation
+without updating the full parameter space~\cite{hu2022lora}. Traditional full fine-tuning methods
+modify all model weights, which becomes infeasible for large-scale models due to high
+memory and storage costs. LoRA addresses this by freezing the original model weights
+and learning low-rank decomposition matrices that are injected into specific parts of the
+architecture—commonly the query and value projections in the attention mechanism.
 
 LoRA works by expressing the weight update $\Delta W$ as a product of two smaller matrices,
 $A \in \mathbb{R}^{d \times r}$ and $B \in \mathbb{R}^{r \times k}$, where $r \ll \min(d, k)$. The modified forward pass becomes:
@@ -243,7 +241,7 @@ LoRA has been widely adopted in modern transformer-based models due to its effec
 in low-resource training, and its flexibility makes it suitable for chat models,
 instruction tuning, and domain adaptation tasks. Moreover, recent extensions such as
 QLoRA further adapt this principle to quantized models, making LoRA viable even in
-4-bit or 8-bit precision regimes \cite{dettmers2023qlora}.
+4-bit or 8-bit precision regimes~\cite{dettmers2023qlora}.
 
 \section{Model Quantization}
 
@@ -366,16 +364,16 @@ are listed in Table~\ref{table:benefits-quant} and Table~\ref{table:trade-offs-q
 \begin{figure}[t]
   \centering
   \includegraphics[width=0.5\textwidth]{transformer_architecture.png}
-  \caption{Transformer architecture by Vaswani et al. \cite{vaswani2017attention}}
+  \caption{Transformer architecture by Vaswani et al.~\cite{vaswani2017attention}}
 \end{figure}
 
 \begin{figure}[t]
   \centering
   \includegraphics[width=0.9\textwidth]{autoregressive.png}
-  \caption{Transformer and autoregressive generation using tokenized inputs and a softmax output layer by Radford et al. \cite{radford2018improving}}
+  \caption{Transformer and autoregressive generation using tokenized inputs and a softmax output layer by Radford et al.~\cite{radford2018improving}}
 \end{figure}
 
-Transformer architectures, introduced by Vaswani et al. (2017) \cite{vaswani2017attention}, revolutionized NLP by
+Transformer architectures, introduced by Vaswani et al. (2017)~\cite{vaswani2017attention}, revolutionized NLP by
 replacing recurrence with attention mechanisms, enabling parallel computation and better
 handling of long-range dependencies. The core of the Transformer is the self-attention
 mechanism, which allows each token to weigh the importance of other tokens in a sequence
