@@ -212,6 +212,39 @@ selection should align with specific generation goals.
 
 \section{Discussion}
 
+\begin{table}[t]
+  \centering
+  \scriptsize
+  \renewcommand{\arraystretch}{1.3}
+  \begin{tabularx}{0.95\textwidth}{
+    >{\raggedright\arraybackslash}p{3.5cm}
+    >{\raggedright\arraybackslash}X
+    >{\raggedright\arraybackslash}X
+  }
+    \toprule
+    \textbf{Category} & \textbf{V{\"a}rtinen et al. (2024)~\cite{vartinen2022generating}} & \textbf{This Study (2025)} \\
+    \midrule
+    Model \& Input Format
+      & Fine-tuned GPT-2 on structured XML-like quest data with predefined fields like \texttt{<|begin\_quest\_giver|>} and \texttt{<|begin\_objective|>}
+      & Fine-tuned GPT-2, TinyLLaMA, and LLaMA 3.2 models using similarly tagged XML-style quest data aligned for prompt-response conditioning \\
+    Prompting \& Generation
+      & Used prompt-based decoding with metadata tags to guide generation and compared various metadata formats for their effectiveness (narrative, simple, XML-like)
+      & Extended the prompt format with additional control tags and instruction-based formatting for richer generation control on modern chat-oriented large models \\
+    Quantitative Evaluation
+      & Reported conditional model perplexity of \textbf{11.05} for Quest-GPT-2 after fine-tuning on their quest dataset (raw XML-like format)
+      & Achieved lower perplexity: \textbf{3.56} for TinyLLaMA and \textbf{4.59} for GPT-2 Large, suggesting better token prediction confidence \\
+    Qualitative Evaluation
+      & Survey-based human evaluation showed preference for human-authored content but recognized the structured model output as plausible and creative
+      & Used automatic metrics (BLEU, METEOR, BERTScore) applied in various NLG tasks to compare the semantic coherence of the text \\
+    Evaluation Insights
+      & Evaluation underscored the importance of structured input in improving generation quality and included a human-subject study to assess the plausibility and relevance of the generated quests
+      & Reinforced structured prompts and LoRA-based fine-tuning as effective for generating coherent, game-aligned quests in resource-constrained settings \\
+    \bottomrule
+  \end{tabularx}
+  \caption{Comparison of quest generation strategies and outcomes between V{\"a}rtinen et al.~\cite{vartinen2022generating} and this study.}
+  \label{tab:vartinen-comparison}
+\end{table}
+
 The results of this study demonstrate that fine-tuning LLMs on structured, domain-specific
 quest data yields substantial improvements in both generation quality and model
 convergence. Across evaluation and training metrics, clear patterns emerge that highlight
@@ -252,7 +285,8 @@ the reference study observed higher perplexity with XML-like formats, the prompt
 structure used here did not appear to negatively impact model performance. These findings
 suggest that model architecture, fine-tuning configuration, and prompt design all play
 important roles in shaping the quality and consistency of generated quests, particularly
-in domain-specific contexts.
+in domain-specific contexts. A detailed comparison of the approaches and results from
+both studies is provided in Table~\ref{tab:vartinen-comparison}.
 
 In summary, the experiments validate the role of fine-tuning in enhancing LLM performance
 on PQG. Both quantitative metrics and training behavior confirm that adaptation
