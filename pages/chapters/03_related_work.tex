@@ -55,19 +55,34 @@ structures. Sarkar et al.~\cite{sarkar2020controllable} demonstrated controllabl
   \scriptsize
   \renewcommand{\arraystretch}{1.3}
   \begin{tabularx}{0.95\textwidth}{
-    >{\raggedright\arraybackslash}p{3.5cm}
     >{\raggedright\arraybackslash}X
     >{\raggedright\arraybackslash}X
     >{\raggedright\arraybackslash}X
-    >{\centering\arraybackslash}p{1cm}
+    >{\raggedright\arraybackslash}X
+    >{\raggedright\arraybackslash}X
   }
     \toprule
-    \textbf{Author(s)} & \textbf{Dataset(s)} & \textbf{Model(s)} & \textbf{Evaluation(s)} & \textbf{Year} \\
+    \textbf{Author(s)} & \textbf{Datasets Used} & \textbf{Techniques Applied} & \textbf{Evaluation Metrics} & \textbf{Generation Strategy} \\
     \midrule
-    Ammanabrolu et al.~\cite{ammanabrolu2019toward} & TextWorld custom environment + generated knowledge graphs & Hybrid: Knowledge Graph + Markov + LSTM RNN & Human evaluation, success rate in quest completion & 2019 \\
-    V{\"a}rtinen et al.~\cite{vartinen2022generating} & Quest dataset from 6 major commercial RPGs (e.g., Skyrim) & Fine-tuned GPT-2 (Quest-GPT-2) & BLEU, METEOR, human preference ratings & 2022 \\
-    Ashby et al.~\cite{ashby2023personalized} & Custom RPG dataset, dialogue and quest templates & Knowledge Graph + GPT-3.5 (personalization) & BLEU, ROUGE, user preference for personalized content & 2023 \\
-    Current LLM-based works (instruction-based) & V{\"a}rtinen's dataset, custom templates, or synthetic quest data & GPT-3.5, GPT-4, Llama-2, Llama-3 (finetuned) & ROUGE, BLEU, quest structure validity, human alignment tests & 2024-25 \\
+    
+    Ammanabrolu et al. (2019)~\cite{ammanabrolu2019toward}
+      & Recipe data adapted as proxy quest structure for a cooking-themed text adventure, used with the TextWorld framework~\cite{cote2019textworld}.
+      & A hybrid model that combined KGs (for structure), Markov chains (for progression), and LSTM RNNs (for sequences).
+      & Human ratings for coherence, novelty, value, and unpredictability. Likert scale~\cite{joshi2015likert} + ANOVA + Tukey~\cite{abdi2010tukey} post-hoc tests.
+      & Focused on generating coherent sequences of actions in text-adventure format. Used KGs for semantic grounding and logical consistency. \\
+    
+    Ashby et al. (2023)~\cite{ashby2023personalized}
+      & Dynamic knowledge graph based on RPG world state. Player-specific input encoded as graph traversals to retrieve relevant quest content.
+      & Graph traversal to extract quest ingredients, grammar-based template filling, LLM-based title/dialogue generation.
+      & Fluency, coherence, novelty, and creativity. Introduced lemma co-occurrence scores for semantic alignment.
+      & Player input is processed via cosine similarity on graph relations to retrieve relevant quest paths. Classified into combat/gather/explore types and rendered via LLM-enhanced templates. \\
+    
+    V{\"a}rtinen et al. (2024)~\cite{vartinen2022generating}
+      & A curated dataset of 978 quest descriptions from six RPGs (e.g., \textit{Baldur's Gate}, \textit{Skyrim}, \textit{Oblivion}), extracted from game files and cleaned for narrative quality.
+      & Fine-tuning GPT-2 XL (1.5B) on narrative-format quests with placeholder substitution. Evaluated different metadata formats (XML-like, simple, narrative).
+      & Perplexity, cross-entropy loss, human Likert ratings for coherence and fit, and heuristic filtering.
+      & GPT-2 is fine-tuned on structured quest data by encoding as XML-like prompts. Generation is performed using these prompts to produce quest descriptions. \\
+    
     \bottomrule
   \end{tabularx}
   \caption{Summary of works focused on structured quest generation techniques}
