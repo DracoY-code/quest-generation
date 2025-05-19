@@ -41,7 +41,11 @@
 \graphicspath{ {images/} }
 
 % Import the bibliography file
-\usepackage[style=ieee, backend=biber, citestyle=numeric-comp]{biblatex}
+\usepackage[
+  style=ieee, backend=biber,
+  citestyle=numeric-comp, maxnames=2,
+  doi=true, url=true, isbn=true
+]{biblatex}
 \usepackage{csquotes}
 \addbibresource{references.bib}
 
