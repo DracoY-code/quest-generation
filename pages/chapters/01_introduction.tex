@@ -64,10 +64,6 @@ the \textit{Elder Scrolls} series~\cite{theelderscrollsivoblivion,theelderscroll
 quests using a structured prompt format. The resulting system is designed to be
 both memory-efficient and scalable for integration in real-time or offline game pipelines.
 
-The remainder of this chapter elaborates on the academic and technical background
-of the topic, identifies existing research gaps, formulates the problem being addressed,
-outlines the specific research objectives, and introduces the proposed solution in detail.
-
 \section{Background}
 
 RPGs have long relied on meticulously authored content to deliver immersive narratives
@@ -248,88 +244,6 @@ of tailoring quests to individual player profiles holds potential for enhancing 
 and narrative richness. However, building such a system would require robust user modeling
 and dynamic content adaptation mechanisms.
 
-\section{Problem Statement}
-
-The design and delivery of compelling quest content in RPGs represent a significant
-narrative and technical undertaking. While manually authored quests allow for tightly
-controlled storytelling, they come with scalability limitations, high production costs, and
-limited replayability. PCG offers a pathway toward automating narrative design, yet
-current capabilities fall short when it comes to generating quests that are both narratively
-rich and mechanically coherent.
-
-Automated quest generation in RPGs presents a promising but challenging application
-of NLG. While recent advances in LLMs such as GPT, LLaMA, and their variants have
-shown remarkable fluency in open-ended text generation, their effectiveness in structured
-narrative tasks like quest description generation remains insufficiently understood. In particular,
-the trade-offs between model size, resource requirements, and generation quality
-are underexplored, especially for constrained computing environments where fine-tuning
-and inference must be optimized for low memory availability.
-
-This study seeks to fill the gap in systematic, empirical evaluations of state-of-the-art
-LLMs for the specific task of generating RPG quest descriptions. While existing research
-has primarily relied on subjective assessments or in-game testing, there remains a lack
-of standardized and replicable benchmarking frameworks. By employing established
-NLG metrics—such as BLEU, METEOR, BERTScore—and model perplexity, this study
-enables a multi-dimensional evaluation of model outputs. Such an approach provides a
-more nuanced understanding of each model's narrative fluency, semantic alignment, and
-overall linguistic competence within the domain of quest generation.
-
-Furthermore, fine-tuning large models in typical game development pipelines presents
-practical challenges, which is emphasized especially under limited hardware constraints.
-This research adopts a PEFT strategy using LoRA~\cite{hu2022lora,peft} and explores quantized model
-variants to reduce memory usage while maintaining generation quality. The effectiveness
-of these optimizations in real-world, resource-limited scenarios remains an important
-consideration for scalable deployment of LLM-based quest generators.
-
-Thus, this study explores the problem of evaluating LLMs in their capacity to generate
-coherent and semantically rich quest descriptions, with a focus on standardized NLG
-metrics such as BLEU, METEOR, BERTScore, and perplexity. In parallel, it investigates
-how model quantization and PEFT techniques influence both the narrative quality and
-computational efficiency of these models when deployed in resource-constrained environments.
-
-\section{Research Objectives}
-
-\begin{table}[t]
-  \centering
-  \scriptsize
-  \renewcommand{\arraystretch}{1.3}
-  \begin{tabularx}{0.95\textwidth}{
-    >{\centering\arraybackslash}p{1cm}
-    >{\raggedright\arraybackslash}X
-    >{\raggedright\arraybackslash}X
-  }
-  \toprule
-  \textbf{RQ\#} & \textbf{Research Question} & \textbf{Objective} \\
-  \midrule
-  RQ1
-    & How can existing quest and dialogue datasets be structured to train LLMs effectively?
-    & To design a prompt-aligned, structured dataset derived from classic RPGs to train generative models. \\
-  RQ2
-    & What are the trade-offs in using quantized LLMs for quest generation?
-    & To evaluate performance, memory efficiency, and generation quality of quantized models. \\
-  RQ3
-    & How effective is parameter-efficient fine-tuning (LoRA) for adapting LLMs to domain-specific tasks?
-    & To implement LoRA adapters and assess their contribution to generation quality and training efficiency. \\
-  RQ4
-    & What metrics can best evaluate the semantic validity and narrative coherence of generated quests?
-    & To apply both automatic (BLEU, METEOR, BERTScore, perplexity) and qualitative evaluation techniques. \\
-  RQ5
-    & Can a low-resource pipeline produce results comparable to full fine-tuning approaches?
-    & To validate that the proposed system balances efficiency and output quality in constrained environments. \\
-  \bottomrule
-  \end{tabularx}
-  \caption{Mapping of research questions to corresponding thesis objectives}
-  \label{table:research_questions}
-\end{table}
-
-The primary aim of this project is to explore the effectiveness of LLMs in generating contextually
-coherent and semantically valid quests for RPGs. Given the complex narrative
-and structural demands of quests, this project adopts a methodologically layered approach
-involving dataset construction, model quantization, and parameter-efficient fine-tuning.
-The research is guided by key questions that address both the technical implementation
-and the qualitative impact of the generated quests. The central research questions and
-their corresponding objectives are listed in Table~\ref{table:research_questions}.
-
 \section{Proposed Solution}
 
 \begin{table}[t]
@@ -426,5 +340,70 @@ Ultimately, this solution offers a replicable and scalable framework for evaluat
 narrative capabilities of LLMs in a focused gaming context. By combining lightweight
 adaptation techniques with structured data and robust evaluation, the system contributes
 a baseline for future research in quest generation and narrative modeling.
+
+\section{Problem Statement}
+
+The design and delivery of compelling quest content in RPGs pose both narrative and
+technical challenges. Manually authored quests, while effective in delivering structured
+and immersive storytelling, are inherently limited by scalability, production overhead,
+and a lack of variability across playthroughs. PCG offers an avenue for addressing these
+limitations, however, current systems often struggle to produce quests that are simultaneously
+narratively coherent, mechanically relevant, and context-aware. LLMs, including
+GPT and LLaMA, have demonstrated impressive capabilities in general NLG. In particular,
+the relationship between model size, computational efficiency, and narrative quality
+in real-time game environments remains underexplored, presenting a major obstacle to
+the wider adoption of LLM-based systems in game development pipelines.
+
+Thus, this study aims to bridge that gap by systematically evaluating the effectiveness
+of LLMs in generating semantically rich and narratively coherent quest descriptions.
+Unlike prior research that often relies on anecdotal evidence or game-specific testing, this
+work adopts a more rigorous evaluation framework using established NLG metrics, such
+as BLEU, METEOR, BERTScore, and perplexity, to assess multiple dimensions of language
+quality. Additionally, this research addresses the practical challenge of deploying
+LLMs in hardware-constrained environments common in game development. It investigates
+the use of PEFT methods like LoRA and model quantization to reduce memory
+usage and computational demands without significantly compromising output quality.
+By integrating these optimization techniques into a low-resource generation pipeline, this
+study contributes both methodological insights and practical tools for scalable, real-time
+PQG using LLMs.
+
+\section{Objectives \& Contributions}
+
+The overarching goal of this study is to investigate the viability of LLMs for PQG in RPGs, particularly under constraints of data availability and computational resources. To this end, the research defines five key objectives, each targeting a specific challenge in the domain of narrative generation using LLMs:
+
+\begin{itemize}
+  \item {\textbf{Design a prompt-aligned RPG quest dataset:} Curate a structured dataset
+    from classic RPGs, annotated with quest stages, character roles, and narrative dependencies.
+    This supports prompt-based LLM training by exposing models to rich,
+    domain-specific narrative patterns.}
+
+  \item {\textbf{Evaluate quantized language models for PQG:} Analyze the performance,
+    memory efficiency, and narrative generation quality of quantized LLMs to assess
+    their suitability for real-time, low-resource game environments.}
+
+  \item {\textbf{Apply PEFT strategies (e.g., LoRA):} Implement PEFT using LoRA adapters
+    to adapt base models to the RPG domain while minimizing training overhead and
+    hardware requirements.}
+
+  \item {\textbf{Develop a robust evaluation framework:} Design a comprehensive evaluation
+    strategy combining automatic metrics (BLEU, METEOR, BERTScore, perplexity)
+    with human-centric qualitative assessments to capture both surface-level and
+    narrative-level coherence.}
+
+  \item {\textbf{Validate a low-resource narrative generation pipeline:} Construct and benchmark
+    an end-to-end PQG pipeline integrating optimized datasets, quantized models,
+    and LoRA-based fine-tuning to demonstrate high-quality quest generation in constrained
+    environments.}
+\end{itemize}
+
+Collectively, the successful fulfillment of the research objectives results in several novel
+contributions to PQG using LLMs. These include the creation of a prompt-aligned RPG
+quest dataset tailored for narrative learning, an empirical evaluation of quantized LLMs,
+and the application of LoRA-based PEFT to enhance model adaptability with minimal
+computational overhead. Additionally, a hybrid evaluation framework combining lexical
+and narrative-level metrics is introduced to enable more nuanced assessments of generation
+quality. Finally, the study presents a low-resource pipeline capable of generating
+semantically valid and narratively coherent quests, demonstrating the feasibility of integrating
+LLM-based systems into real-time, resource-constrained game environments.
 
 \newpage
