@@ -17,10 +17,10 @@ procedures discussed in subsequent chapters.
 
 LLMs are neural architectures trained on large corpora of text data to model the probability
 distribution of token sequences. These models are typically based on transformer
-decoder architectures introduced by Vaswani et al.~\cite{vaswani2017attention}, and are designed to generate text
-autoregressively—that is, one token at a time conditioned on the previous context. The
-models used in this study—GPT-2, LLaMA 3.2, and TinyLlama—are causal LLMs suitable
-for text generation tasks, including PQG, and vary in scale, training data, and
+decoder architectures introduced by Vaswani et al.~\cite{vaswani2017attention}, and are designed to generate
+text autoregressively—that is, one token at a time conditioned on the previous context.
+The models used in this study—GPT-2, LLaMA 3.2, and TinyLlama—are causal LLMs
+suitable for text generation tasks, including PQG, and vary in scale, training data, and
 intended deployment scenarios.
 
 This text generation task is approached by learning to approximate the conditional
@@ -78,10 +78,10 @@ the model to assign higher probabilities to ground truth sequences.
 
 GPT-2 is a unidirectional transformer decoder-only model developed by OpenAI~\cite{radford2019language}, designed
 specifically for autoregressive language modeling. It comes in multiple sizes—GPT-2
-(124M)~\cite{gpt2}, GPT-2 Medium (355M)~\cite{gpt2medium}, and GPT-2 Large (774M)~\cite{gpt2large}—all of which
-are used in this study. The architecture features Layer Normalization (LayerNorm), which
-stabilizes training and accelerates convergence by normalizing activations across features,
-and GELU (Gaussian Error Linear Unit) activations, which offer smooth, non-linear transformations
+(124M), GPT-2 Medium (355M), and GPT-2 Large (774M)—all of which are used in
+this study. The architecture features Layer Normalization (LayerNorm), which stabilizes
+training and accelerates convergence by normalizing activations across features, and
+GELU (Gaussian Error Linear Unit) activations, which offer smooth, non-linear transformations
 better suited to deep transformer networks than ReLU.
 
 GPT-2 uses multi-head masked self-attention, and absolute positional embeddings, and
@@ -131,7 +131,7 @@ model that uses an optimized transformer architecture, where the tuned versions 
 supervised fine-tuning (SFT) and reinforcement learning with human feedback (RLHF)
 to align with human preferences for helpfulness and safety~\cite{dao2023flashattention2,touvron2023llama}.
 
-Llama-3.2-1B-Instruct~\cite{llama32} is a lightweight version of Meta's LLaMA-3 series, trained on
+Llama-3.2-1B-Instruct is a lightweight version of Meta's LLaMA-3 series, trained on
 a refined mixture of publicly available datasets. It incorporates recent advancements
 in pretraining methods and scaling strategies. This 1B-parameter model is used for
 instruction-following tasks, and its architecture balances generation quality with compute
@@ -149,10 +149,11 @@ decoder-only transformer architecture, incorporating rotary positional embedding
 better nonlinear representation learning. The model consists of 22 transformer layers, 32
 attention heads, and a total of 1.1 billion parameters.
 
-TinyLlama~\cite{tinyllama,zhang2024tinyllama} is pre-trained on a curated corpus of approximately 3 trillion tokens, which
-includes a mix of web-scale and instruction datasets, enabling strong generalization and
-alignment capabilities. It uses grouped-query attention (GQA) to reduce memory usage
-and inference latency—especially relevant in chat-style, single-turn generation tasks~\cite{lit-gpt,dao2023flashattention2}.
+TinyLlama~\cite{zhang2024tinyllama} is pre-trained on a curated corpus of approximately 3 trillion tokens,
+which includes a mix of web-scale and instruction datasets, enabling strong generalization
+and alignment capabilities. It uses grouped-query attention (GQA) to reduce memory
+usage and inference latency—especially relevant in chat-style, single-turn generation
+tasks~\cite{lit-gpt,dao2023flashattention2}.
 
 It is specifically optimized for instruction-following and dialogue generation and performs
 reliably in low-resource environments such as mobile devices or edge deployments.
