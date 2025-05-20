@@ -371,30 +371,25 @@ PQG using LLMs.
 
 The overarching goal of this study is to investigate the viability of LLMs for PQG in RPGs, particularly under constraints of data availability and computational resources. To this end, the research defines five key objectives, each targeting a specific challenge in the domain of narrative generation using LLMs:
 
-\begin{itemize}
-  \item {\textbf{Design a prompt-aligned RPG quest dataset:} Curate a structured dataset
-    from classic RPGs, annotated with quest stages, character roles, and narrative dependencies.
-    This supports prompt-based LLM training by exposing models to rich,
-    domain-specific narrative patterns.}
+\begin{enumerate}
+  \item {Curate a structured dataset from classic RPGs, annotated with quest tasks, character
+        roles, and narrative dependencies. This supports prompt-based LLM training
+        by exposing models to rich, domain-specific narrative patterns.}
 
-  \item {\textbf{Evaluate quantized language models for PQG:} Analyze the performance,
-    memory efficiency, and narrative generation quality of quantized LLMs to assess
-    their suitability for real-time, low-resource game environments.}
+  \item {Analyze the performance, memory efficiency, and narrative generation quality of
+        quantized LLMs to assess their suitability for real-time, low-resource game environments.}
 
-  \item {\textbf{Apply PEFT strategies (e.g., LoRA):} Implement PEFT using LoRA adapters
-    to adapt base models to the RPG domain while minimizing training overhead and
-    hardware requirements.}
+  \item {Implement PEFT using LoRA adapters to adapt base models to the RPG domain
+        while minimizing training overhead and hardware requirements.}
 
-  \item {\textbf{Develop a robust evaluation framework:} Design a comprehensive evaluation
-    strategy combining automatic metrics (BLEU, METEOR, BERTScore, perplexity)
-    with human-centric qualitative assessments to capture both surface-level and
-    narrative-level coherence.}
+  \item {Design a comprehensive evaluation strategy combining automatic metrics (BLEU,
+        METEOR, BERTScore, perplexity) with human-centric qualitative assessments to
+        capture both surface-level and narrative-level coherence.}
 
-  \item {\textbf{Validate a low-resource narrative generation pipeline:} Construct and benchmark
-    an end-to-end PQG pipeline integrating optimized datasets, quantized models,
-    and LoRA-based fine-tuning to demonstrate high-quality quest generation in constrained
-    environments.}
-\end{itemize}
+  \item {Construct and benchmark an end-to-end PQG pipeline integrating optimized and
+        tagged datasets, quantized models, and LoRA-based fine-tuning to demonstrate
+        high-quality quest generation in constrained environments.}
+\end{enumerate}
 
 Collectively, the successful fulfillment of the research objectives results in several novel
 contributions to PQG using LLMs. These include the creation of a prompt-aligned RPG
@@ -405,5 +400,40 @@ and narrative-level metrics is introduced to enable more nuanced assessments of 
 quality. Finally, the study presents a low-resource pipeline capable of generating
 semantically valid and narratively coherent quests, demonstrating the feasibility of integrating
 LLM-based systems into real-time, resource-constrained game environments.
+
+\section{Rest of the Report}
+
+The remainder of this report provides a structured walkthrough of the technical background,
+methodology, evaluation, and outcomes of the study. It introduces the core
+concepts behind large language models and their adaptation for narrative generation, followed
+by the system's design and training workflow. The results are then analyzed using
+a combination of quantitative and qualitative metrics. The structure of the report is as
+follows:
+
+\begin{itemize}
+  \item {"Chapter 2: Technical Background" provides the theoretical foundation for the
+        study. It introduces LLMs used in this work (GPT-2, LLaMA 3.2, TinyLLaMA),
+        and explains the principles of PEFT (using LoRA), model quantization techniques,
+        transformer-based text generation, and the design logic behind PQG in RPGs.}
+  \item {"Chapter 3: Related Work" surveys existing literature in PCG, quest generation
+        using NLP techniques, and evaluation strategies for generated narrative content.}
+  \item {"Chapter 4: Methodology" details the end-to-end workflow for procedural PQG,
+        covering dataset construction, model setup, quantization, LoRA integration, and
+        the evaluation framework. It describes how the system was designed to balance
+        efficiency with generation quality in constrained settings.}
+  \item {"Chapter 5: Results and Discussion" presents the empirical findings from model
+        training and evaluation. It includes quantitative results (e.g., BLEU, METEOR,
+        BERTScore, perplexity), qualitative insights, and a comparative analysis with previous
+        studies.}
+  \item {"Chapter 6: Conclusion and Future Work" summarizes the contributions of the
+        thesis, outlines limitations, and suggests directions for future research in scalable,
+        adaptive quest generation.}
+  \item {Appendices A and B provide additional details about the quest dataset format and
+        experimental setup, including hardware, software, and hyperparameter configurations.}
+\end{itemize}
+
+This structure provides a clean and logical progression from foundational knowledge
+to applied experimentation techniques. Thus, it yields insights that inform both academic
+research and practical implementations in game development workflows.
 
 \newpage
