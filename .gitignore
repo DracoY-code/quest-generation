@@ -201,7 +201,7 @@ out/*
 *.lot
 *.nav
 *.out
-*.pdf
+!*.pdf
 *.run.xml
 *.snm
 *.synctex.gz
